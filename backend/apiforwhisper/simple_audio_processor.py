@@ -40,10 +40,12 @@ class SimpleAudioProcessor:
                 audio_path,
                 language=language,
                 word_timestamps=False,
-                verbose=True
+                verbose=False  # Disable verbose to avoid Unicode output issues
             )
-            print("✓ Transcription completed")
-            return result['text']
+            print("Transcription completed")
+            # Ensure the text is properly encoded
+            text = result['text'].encode('utf-8', errors='ignore').decode('utf-8')
+            return text
         except Exception as e:
             print(f"Error during transcription: {e}")
             print(f"Error type: {type(e).__name__}")

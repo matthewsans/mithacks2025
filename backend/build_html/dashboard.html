@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Intuit Dashboard</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ margin:0;
+ padding:0;
+ background-color: #f0f0f0;
+ }
+.container {
+ max-width:1200px;
+ margin:40px auto;
+ padding:20px;
+ background-color: #fff;
+ border:1px solid #ddd;
+ border-radius:10px;
+ box-shadow:0010px rgba(0,0,0,0.1);
+ }
+.kpi-card {
+ display: inline-block;
+ margin:10px;
+ padding:20px;
+ border:1px solid #ddd;
+ border-radius:10px;
+ background-color: #f9f9f9;
+ width: calc(33.33% -20px);
+ text-align: center;
+ }
+.kpi-card span {
+ font-size:24px;
+ font-weight: bold;
+ color: #337ab7;
+ }
+.chart-container {
+ margin-top:40px;
+ }
+ @media only screen and (max-width:768px) {
+.kpi-card {
+ width: calc(50% -20px);
+ }
+ }
+ @media only screen and (max-width:480px) {
+.kpi-card {
+ width:100%;
+ margin:10px0;
+ }
+ }
+ </style>
+</head>
+<body>
+ <div class="container">
+ <h2>Intuit Dashboard</h2>
+ <div class="kpi-cards">
+ <div class="kpi-card">
+ <span>$558.3M</span>
+ <p>Alt5 Sigma Corp Revenue (2025)</p>
+ </div>
+ <div class="kpi-card">
+ <span>9.8%</span>
+ <p>Alt5 Sigma Corp Revenue Growth</p>
+ </div>
+ <div class="kpi-card">
+ <span>$696,162,000</span>
+ <p>Aeluma Inc. Revenue (2025)</p>
+ </div>
+ </div>
+ <div class="chart-container">
+ <canvas id="revenueChart"></canvas>
+ </div>
+ <div class="chart-container">
+ <canvas id="revenueGrowthChart"></canvas>
+ </div>
+ </div>
+ <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+ <script>
+ const revenueChart = document.getElementById('revenueChart').getContext('2d');
+ const revenueGrowthChart = document.getElementById('revenueGrowthChart').getContext('2d');
+ new Chart(revenueChart, {
+ type: 'bar',
+ data: {
+ labels: ['Alt5 Sigma Corp', 'Aeluma Inc.'],
+ datasets: [{
+ label: 'Revenue (2025)',
+ data: [558.3,696.162],
+ backgroundColor: [
+ 'rgba(54,162,235,0.2)',
+ 'rgba(255,99,132,0.2)'
+ ],
+ borderColor: [
+ 'rgba(54,162,235,1)',
+ 'rgba(255,99,132,1)'
+ ],
+ borderWidth:1 }]
+ },
+ options: {
+ scales: {
+ y: {
+ beginAtZero: true }
+ }
+ }
+ });
+ new Chart(revenueGrowthChart, {
+ type: 'bar',
+ data: {
+ labels: ['Alt5 Sigma Corp'],
+ datasets: [{
+ label: 'Revenue Growth',
+ data: [9.8],
+ backgroundColor: [
+ 'rgba(54,162,235,0.2)'
+ ],
+ borderColor: [
+ 'rgba(54,162,235,1)'
+ ],
+ borderWidth:1 }]
+ },
+ options: {
+ scales: {
+ y: {
+ beginAtZero: true }
+ }
+ }
+ });
+ </script>
+</body>
+</html>
