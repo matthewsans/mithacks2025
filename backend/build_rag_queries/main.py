@@ -7,4 +7,3 @@ sub_questions = build_semantic_rag_queries(user_question, API_KEY)
 
 for i, q in enumerate(sub_questions, 1):
     print(f"{i}. {q}")
-    
