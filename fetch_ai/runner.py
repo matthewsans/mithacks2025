@@ -4,7 +4,6 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from test_wo_anthropic import Test
 import chromadb
 
-COLLECTION_NAME = "your_collection_name"
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 client = chromadb.CloudClient(
@@ -17,7 +16,8 @@ client = chromadb.CloudClient(
 # AIzaSyB_760I5bmGaoHzconRf5lOGKjhrJQxZ_A
 
 vectorstore = Chroma(client=client, 
-                     embedding_function=embeddings)
+                     embedding_function=embeddings,
+                     collection_name='sec_10k_collection')
 
 
 

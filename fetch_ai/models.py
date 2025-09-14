@@ -1,6 +1,6 @@
 # models.py
+
 from uagents import Model
-import pandas as pd
 
 class Query(Model):
     content: str

@@ -17,9 +17,15 @@ def _post_tandemn(messages: list, api_key: str) -> str:
         "max_tokens": 800,
         "response_format": {"type": "json_object"}
     }
-    r = _session.post(TANDEMN_URL, headers=headers, json=payload, timeout=40)
-    r.raise_for_status()
-    txt = r.json()["choices"][0]["message"]["content"]
+    try:
+        print(f"Making request to Tandem API...")
+        r = _session.post(TANDEMN_URL, headers=headers, json=payload, timeout=5)
+        print(f"Response status: {r.status_code}")
+        r.raise_for_status()
+        txt = r.json()["choices"][0]["message"]["content"]
+    except Exception as e:
+        print(f"Tandem API error: {e}")
+        raise
     txt = re.sub(r"<.*?>", "", txt, flags=re.S)
     txt = re.sub(r"```(?:json|txt|markdown)?", "", txt).strip()
     return txt

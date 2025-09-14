@@ -2,12 +2,11 @@ from fastapi import FastAPI, File, UploadFile, Form
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import uvicorn
-import os
 import tempfile
 import shutil
 import json
 from pathlib import Path
-from simple_audio_processor import SimpleAudioProcessor
+from backend.apiforwhisper.simple_audio_processor import SimpleAudioProcessor
 
 # Initialize FastAPI app
 app = FastAPI(title="Speech-to-Text API")
@@ -42,7 +41,7 @@ async def transcribe_file(
     """
     # Save file to a temp location
     with tempfile.TemporaryDirectory() as tmpdir:
-        tmp_path = Path(tmpdir) / file.filename
+        tmp_path = Path(tmpdir) / str(file.filename)
         with open(tmp_path, "wb") as f:
             shutil.copyfileobj(file.file, f)
 

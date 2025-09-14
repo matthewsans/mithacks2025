@@ -1,4 +1,4 @@
-from givemecode import generate_financial_dashboard
+from backend.build_html.givemecode import generate_financial_dashboard
 API_KEY = "gk-lg2FEI1z_oknwrbbbuya"
 
 rag_output = '''
@@ -50,7 +50,53 @@ Answer: The provided text gives Aeluma Inc.'s revenue for the year ended June 30
 
 '''
 
-html = generate_financial_dashboard(rag_output, API_KEY, title="Intuit Dashboard")
-with open("dashboard.html", "w", encoding="utf-8") as f:
-    f.write(html)
-print("Wrote dashboard.html")
+def get_html_mock(rag_output: str):
+    """Mock HTML generation without API call"""
+    print("Using mock HTML generation...")
+    
+    html = f"""
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Dashboard</title>
+    <style>
+        body {{ font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }}
+        .container {{ max-width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }}
+        h1 {{ color: #333; text-align: center; margin-bottom: 30px; }}
+        .question {{ background: #f8f9fa; padding: 15px; margin: 10px 0; border-left: 4px solid #007bff; border-radius: 4px; }}
+        .answer {{ margin: 10px 0; padding: 10px; background: #e9ecef; border-radius: 4px; }}
+        .source {{ font-size: 0.9em; color: #666; margin-top: 5px; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Financial Analysis Dashboard</h1>
+        <div class="content">
+            {rag_output.replace(chr(10), '<br>')}
+        </div>
+    </div>
+</body>
+</html>
+"""
+    
+    with open("dashboard.html", "w", encoding="utf-8") as f:
+        f.write(html)
+    print("Wrote dashboard.html")
+
+    return html
+
+def get_html(rag_output: str):
+    """Main function that tries API first, falls back to mock on timeout"""
+    try:
+        print("Attempting to use Tandem API for HTML generation...")
+        html = generate_financial_dashboard(rag_output, API_KEY, title="Financial Dashboard")
+        with open("dashboard.html", "w", encoding="utf-8") as f:
+            f.write(html)
+        print("Wrote dashboard.html")
+        return html
+    except Exception as e:
+        print(f"API call failed: {e}")
+        print("Falling back to mock HTML generation...")
+        return get_html_mock(rag_output)

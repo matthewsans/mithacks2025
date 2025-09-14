@@ -1,7 +1,7 @@
 import requests, re
 
 TANDEMN_URL = "https://api.tandemn.com/api/v1/chat/completions"
-MODEL_ID    = "casperhansen/llama-3.3-70b-instruct-awq"  
+MODEL_ID    = "Qwen/Qwen3-32B-AWQ"
 _session    = requests.Session()
 
 def generate_financial_dashboard(
