@@ -1,0 +1,2437 @@
+glgi20250531_10k.htm
+FY
+2025
+--05-31
+false
+0001088413
+5
+5
+10
+6
+5
+6
+6
+5
+10
+48
+52
+3.00
+4.00
+1.25
+0
+0
+false
+false
+false
+false
+To date, the Company has not experienced a cybersecurity incident that resulted in a material adverse effect on our business strategy, results of operations or financial condition; however, there can be no guarantee that we will not experience such an incident in the future.
+false
+true
+true
+true
+false
+false
+00010884132024-06-012025-05-31
+thunderdome:item
+iso4217:USD
+00010884132025-05-31
+0001088413glgi:OneCustomerMember2023-06-012024-05-31
+0001088413glgi:OneCustomerMember2024-06-012025-05-31
+xbrli:pure
+0001088413us-gaap:SalesRevenueNetMemberus-gaap:CustomerConcentrationRiskMemberglgi:TwoToFourCustomersMember2023-06-012024-05-31
+0001088413us-gaap:SalesRevenueNetMemberus-gaap:CustomerConcentrationRiskMemberglgi:TwoToFourCustomersMember2024-06-012025-05-31
+00010884132023-06-012024-05-31
+00010884132024-05-31
+utr:Y
+0001088413glgi:The401kPlanMember2022-06-012024-05-31
+0001088413glgi:The401kPlanMember2023-06-012024-05-31
+0001088413glgi:The401kPlanMember2024-06-012025-05-31
+iso4217:USDxbrli:shares
+0001088413glgi:WarrantsExercisableIntoCommonStockMember2016-09-01
+xbrli:shares
+0001088413glgi:Series2003PreferredStockMember2025-05-31
+0001088413glgi:Series2003PreferredStockMember2003-09-30
+0001088413glgi:Series2003PreferredStockMember2023-06-012024-05-31
+0001088413glgi:Series2003PreferredStockMember2003-09-012003-09-30
+0001088413glgi:GreenPlasticPalletsMember2024-05-31
+0001088413glgi:GreenPlasticPalletsMember2025-05-31
+0001088413glgi:GreenPlasticPalletsMember2023-06-012024-05-31
+0001088413glgi:GreenPlasticPalletsMember2024-06-012025-05-31
+0001088413glgi:TriEndaHoldingsLLCMember2024-05-31
+0001088413glgi:TriEndaHoldingsLLCMember2025-05-31
+0001088413glgi:TriEndaHoldingsLLCMember2023-06-012024-05-31
+0001088413glgi:TriEndaHoldingsLLCMember2024-06-012025-05-31
+0001088413glgi:ManufacturingFacilitiesLeaseMemberglgi:GreystoneRealEstateLLCMember2022-08-012022-08-01
+0001088413glgi:ManufacturingFacilitiesLeaseMemberglgi:GreystoneRealEstateLLCMember2022-08-01
+0001088413glgi:GreystoneRealEstateLLCMember2023-06-012024-05-31
+0001088413glgi:GreystoneRealEstateLLCMember2024-06-012025-05-31
+0001088413glgi:OfficeSpaceLeaseMemberglgi:YorktownMember2023-06-012024-05-31
+0001088413glgi:OfficeSpaceLeaseMemberglgi:YorktownMember2024-06-012025-05-31
+0001088413glgi:OfficeSpaceLeaseMemberglgi:YorktownMember2017-01-012017-01-01
+0001088413glgi:OfficeSpaceLeaseMemberglgi:YorktownMember2017-01-01
+0001088413glgi:GrindingAndPelletizingEquipmentMemberglgi:YorktownMember2024-06-012025-05-31
+0001088413glgi:GrindingAndPelletizingEquipmentMemberglgi:YorktownMember2023-06-012024-05-31
+00010884132023-06-01
+0001088413glgi:PalletsMember2023-06-012024-05-31
+0001088413glgi:PalletsMember2024-06-012025-05-31
+0001088413us-gaap:SalesRevenueProductLineMemberus-gaap:CustomerConcentrationRiskMemberglgi:DistributorsMember2023-06-012024-05-31
+0001088413us-gaap:SalesRevenueProductLineMemberus-gaap:CustomerConcentrationRiskMemberglgi:DistributorsMember2024-06-012025-05-31
+0001088413us-gaap:RevenueFromContractWithCustomerMemberus-gaap:CustomerConcentrationRiskMemberglgi:EndUserCustomersMember2023-06-012024-05-31
+0001088413us-gaap:RevenueFromContractWithCustomerMemberus-gaap:CustomerConcentrationRiskMemberglgi:EndUserCustomersMember2024-06-012025-05-31
+0001088413us-gaap:SalesRevenueNetMemberus-gaap:CustomerConcentrationRiskMemberglgi:CanadaAndMexicoMember2023-06-012024-02-29
+0001088413us-gaap:SalesRevenueNetMemberus-gaap:CustomerConcentrationRiskMemberglgi:CanadaAndMexicoMember2024-06-012025-02-28
+0001088413glgi:RelatedPartyLeaseAgreementMember2024-01-01
+0001088413glgi:CorporateOfficesMember2025-05-31
+utr:M
+0001088413glgi:TwoBuildingsMember2025-05-31
+0001088413glgi:TwoBuildingsMember2025-02-28
+0001088413glgi:EquipmentTwoMember2025-05-31
+0001088413glgi:EquipmentOneMember2025-05-31
+0001088413glgi:EquipmentOneMember2023-06-012024-05-31
+0001088413glgi:EquipmentOneMember2024-06-012025-05-31
+0001088413glgi:NoncancellableLeasesMember2024-05-31
+0001088413glgi:NoncancellableLeasesMember2025-05-31
+0001088413srt:MinimumMember2021-08-23
+00010884132021-08-31
+00010884132021-08-23
+0001088413glgi:IBCLoanAgreementMember2025-01-14
+0001088413glgi:TermLoanBMember2024-02-05
+0001088413glgi:IBCLoanAgreementMember2022-08-31
+0001088413glgi:IBCLoanAgreementMember2022-08-312022-08-31
+0001088413glgi:IBCLoanAgreementMember2025-02-28
+0001088413glgi:IBCLoanAgreementMember2024-06-012025-05-31
+0001088413us-gaap:RevolvingCreditFacilityMember2025-02-28
+0001088413us-gaap:RevolvingCreditFacilityMember2025-02-282025-02-28
+0001088413us-gaap:RevolvingCreditFacilityMember2025-02-052025-02-05
+0001088413us-gaap:RevolvingCreditFacilityMember2025-02-05
+0001088413us-gaap:RevolvingCreditFacilityMember2025-02-04
+0001088413us-gaap:RevolvingCreditFacilityMember2022-07-29
+00010884132023-06-012024-02-29
+00010884132024-06-012025-02-28
+00010884132025-02-28
+0001088413glgi:OtherDebtMember2024-05-31
+0001088413glgi:OtherDebtMember2025-05-31
+0001088413glgi:TermLoanPayableDueAugust102028Member2024-05-31
+0001088413glgi:TermLoanPayableDueAugust102028Member2025-05-31
+0001088413glgi:TermLoanPayableDueAugust102028Member2023-06-012024-05-31
+0001088413glgi:TermLoanPayableDueAugust102028Member2024-06-012025-05-31
+0001088413glgi:TermLoanPayableDueMarch192025Member2024-05-31
+0001088413glgi:TermLoanPayableDueMarch192025Member2025-05-31
+0001088413glgi:TermLoanPayableDueMarch192025Member2023-06-012024-05-31
+0001088413glgi:TermLoanPayableDueMarch192025Member2024-06-012025-05-31
+0001088413glgi:TermLoansDueJuly292027Member2024-05-31
+0001088413glgi:TermLoansDueJuly292027Member2025-05-31
+0001088413glgi:TermLoansDueJuly292027Membersrt:MaximumMember2024-06-012025-05-31
+0001088413glgi:TermLoansDueJuly292027Membersrt:MaximumMember2023-06-012024-05-31
+0001088413glgi:TermLoansDueJuly292027Membersrt:MinimumMember2023-06-012024-05-31
+0001088413glgi:TermLoansDueJuly292027Membersrt:MinimumMember2024-06-012025-05-31
+0001088413glgi:ElectricalStormMember2024-06-012025-05-31
+0001088413us-gaap:FireMember2023-06-012024-05-31
+0001088413us-gaap:FireMember2024-05-31
+0001088413us-gaap:BuildingMemberus-gaap:FireMember2024-02-29
+0001088413us-gaap:FireMember2024-02-29
+0001088413us-gaap:MachineryAndEquipmentMember2024-05-31
+0001088413us-gaap:MachineryAndEquipmentMember2025-05-31
+0001088413us-gaap:FurnitureAndFixturesMember2024-05-31
+0001088413us-gaap:FurnitureAndFixturesMember2025-05-31
+0001088413us-gaap:LeaseholdImprovementsMember2024-05-31
+0001088413us-gaap:LeaseholdImprovementsMember2025-05-31
+0001088413glgi:PlantBuildingsAndLandMember2024-05-31
+0001088413glgi:PlantBuildingsAndLandMember2025-05-31
+0001088413glgi:Series2003PreferredStockMember2024-06-012025-05-31
+0001088413us-gaap:FurnitureAndFixturesMembersrt:MaximumMember2025-05-31
+0001088413us-gaap:FurnitureAndFixturesMembersrt:MinimumMember2025-05-31
+0001088413us-gaap:LeaseholdImprovementsMembersrt:MaximumMember2025-05-31
+0001088413us-gaap:LeaseholdImprovementsMembersrt:MinimumMember2025-05-31
+0001088413us-gaap:MachineryAndEquipmentMembersrt:MaximumMember2025-05-31
+0001088413us-gaap:MachineryAndEquipmentMembersrt:MinimumMember2025-05-31
+0001088413glgi:PlantBuildingMember2025-05-31
+00010884132023-05-31
+0001088413us-gaap:RetainedEarningsMember2025-05-31
+0001088413us-gaap:AdditionalPaidInCapitalMember2025-05-31
+0001088413us-gaap:TreasuryStockCommonMember2025-05-31
+0001088413us-gaap:CommonStockMember2025-05-31
+0001088413us-gaap:PreferredStockMember2025-05-31
+0001088413us-gaap:RetainedEarningsMember2024-06-012025-05-31
+0001088413us-gaap:AdditionalPaidInCapitalMember2024-06-012025-05-31
+0001088413us-gaap:TreasuryStockCommonMember2024-06-012025-05-31
+0001088413us-gaap:CommonStockMember2024-06-012025-05-31
+0001088413us-gaap:PreferredStockMember2024-06-012025-05-31
+0001088413glgi:CommonStockRetiredMember2024-06-012025-05-31
+0001088413glgi:CommonStockRetiredMemberus-gaap:RetainedEarningsMember2024-06-012025-05-31
+0001088413glgi:CommonStockRetiredMemberus-gaap:AdditionalPaidInCapitalMember2024-06-012025-05-31
+0001088413glgi:CommonStockRetiredMemberus-gaap:TreasuryStockCommonMember2024-06-012025-05-31
+0001088413glgi:CommonStockRetiredMemberus-gaap:CommonStockMember2024-06-012025-05-31
+0001088413glgi:Series2003PreferredStockMember2024-06-012025-05-31
+0001088413glgi:Series2003PreferredStockMemberus-gaap:RetainedEarningsMember2024-06-012025-05-31
+0001088413glgi:Series2003PreferredStockMemberus-gaap:AdditionalPaidInCapitalMember2024-06-012025-05-31
+0001088413glgi:Series2003PreferredStockMemberus-gaap:PreferredStockMember2024-06-012025-05-31
+0001088413us-gaap:RetainedEarningsMember2024-05-31
+0001088413us-gaap:AdditionalPaidInCapitalMember2024-05-31
+0001088413us-gaap:TreasuryStockCommonMember2024-05-31
+0001088413us-gaap:CommonStockMember2024-05-31
+0001088413us-gaap:PreferredStockMember2024-05-31
+0001088413us-gaap:RetainedEarningsMember2023-06-012024-05-31
+0001088413us-gaap:AdditionalPaidInCapitalMember2023-06-012024-05-31
+0001088413us-gaap:TreasuryStockCommonMember2023-06-012024-05-31
+0001088413us-gaap:CommonStockMember2023-06-012024-05-31
+0001088413us-gaap:PreferredStockMember2023-06-012024-05-31
+0001088413us-gaap:RetainedEarningsMember2023-05-31
+0001088413us-gaap:AdditionalPaidInCapitalMember2023-05-31
+0001088413us-gaap:TreasuryStockCommonMember2023-05-31
+0001088413us-gaap:CommonStockMember2023-05-31
+0001088413us-gaap:PreferredStockMember2023-05-31
+0001088413us-gaap:RelatedPartyMember2024-05-31
+0001088413us-gaap:RelatedPartyMember2025-05-31
+0001088413us-gaap:NonrelatedPartyMember2024-05-31
+0001088413us-gaap:NonrelatedPartyMember2025-05-31
+00010884132025-08-29
+00010884132024-11-29
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended                                     May 31, 2025
+☐ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______________ to______________
+Commission file number 000-26331
+GREYSTONE LOGISTICS, INC.
+(Exact name of registrant as specified in its charter)
+Oklahoma
+75-2954680
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1613 East 15th Street, Tulsa, Oklahoma 74120
+(Address of principal executive offices)     (Zip Code)
+(918) 583-7441
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+N/A
+N/A
+N/A
+Securities registered pursuant to Section 12(g) of the Act:
+Common Stock, $0.0001 par value
+(Title of class)
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+☐Yes ☒ No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+☐Yes ☒No
+Table of Contents
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒Yes ☐ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒Yes ☐ No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer    ☐
+Accelerated filer                     ☐
+Non-accelerated filer      ☒
+Smaller reporting company    ☒
+Emerging growth company    ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+☐Yes ☒ No
+As of November 29, 2024 (the last business day of the registrant’s most recently completed second fiscal quarter), the aggregate market value of the voting common stock held by non-affiliates of the registrant, computed by (reference to the price at which the registrant’s common stock was last sold on such date, was approximately $12,083,372 ($1 per share).
+As of August 29, 2025, there were 27,270,701 shares of the registrant’s common stock, $0.0001 par value per share, outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+None.
+Table of Contents
+GREYSTONE LOGISTICS, INC.
+FORM 10-K
+TABLE OF CONTENTS
+PART I
+Page
+Item 1.
+Business
+4
+Item 1A.
+Risk Factors
+8
+Item 1B.
+Unresolved Staff Comments
+13
+Item 1C.
+Cybersecurity
+13
+Item 2.
+Properties
+14
+Item 3.
+Legal Proceedings
+14
+Item 4.
+Mine Safety Disclosures
+14
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+14
+Item 6.
+Selected Financial Data
+15
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+15
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+19
+Item 8.
+Financial Statements and Supplementary Data
+19
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+19
+Item 9A.
+Controls and Procedures
+19
+Item 9B.
+Other Information
+20
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+20
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+21
+Item 11.
+Executive Compensation
+25
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+26
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+27
+Item 14.
+Principal Accountant Fees and Services
+28
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+28
+Item 16.
+Form 10-K Summary
+30
+Signatures
+31
+3
+Table of Contents
+PART I
+Item 1.
+Business.
+Organization
+Greystone Logistics, Inc. ("Greystone" or the "Company") was incorporated in Delaware on February 24, 1969, under the name Permaspray Manufacturing Corporation. It subsequently changed its name to Browning Enterprises Inc. in April 1982, to Cabec Energy Corp. in June 1993, to PalWeb Corporation in April 1999 and to Greystone Logistics, Inc. in March 2005, as further described below. In December 1997, Greystone acquired all of the issued and outstanding stock of Plastic Pallet Production, Inc., a Texas corporation ("PPP"), and since that time, Greystone has primarily been engaged in the business of manufacturing and selling plastic pallets.
+Effective September 8, 2003, Greystone acquired substantially all of the assets of Greystone Plastics, Inc., an Iowa corporation, through the purchase of such assets by Greystone's newly formed, wholly-owned subsidiary, Greystone Manufacturing, L.L.C., an Oklahoma limited liability company ("GSM").  Greystone Plastics, Inc. was a manufacturer of plastic pallets used in the beverage industry.
+Effective March 18, 2005, the Company caused its newly formed, wholly owned subsidiary, Greystone Logistics, Inc., an Oklahoma corporation, to be merged with and into the Company. In connection with such merger and as of the effective time of the merger, the Company amended its certificate of incorporation by changing its name from PalWeb Corporation to Greystone Logistics, Inc., pursuant to the terms of the certificate of ownership and merger filed by Greystone with the Secretary of State of Oklahoma.
+Current Business
+Products
+Greystone's primary business is the manufacturing of plastic pallets utilizing recycled plastic and selling the pallets through its wholly owned subsidiary, GSM. Greystone sells its pallets through a network of independent contractor distributors and direct sales by its President and sales department. As of May 31, 2025, Greystone had an aggregate in-house production capacity of approximately 225,000 pallets per month from 14 injection molding machines of which 12 are located in Bettendorf, IA and 2 located in Palmyra, MO. In addition, Greystone outsources production for pallets produced by injection molding machines as necessary to accommodate overflow. Greystone's injection molding machine production as of May 31, 2025 consists of the following:
+·
+37” X 32” rackable pallet,
+·
+40” X 32” rackable pallet,
+·
+37” X 37” rackable pallet,
+·
+44” X 56” can pallet,
+·
+48” X 48” rackable pallet,
+·
+48” X 40” rackable pallet,
+·
+48” X 44” rackable pallet,
+·
+48” X 40” nestable pallet with or without detachable runners,
+·
+45” X 45” nestable pallet with or without detachable bottom deck,
+·
+24” X 40” display pallet,
+·
+48” X 40” monoblock (one-piece) pallet,
+·
+Half-barrel keg stackable pallet,
+·
+Slim keg stackable pallet,
+·
+36” X 36” rackable pallet,
+·
+48” X 45” monoblock pallet,
+·
+48” X 45” drum pallet, and
+·
+48” X 40” mid duty pallet.
+4
+Table of Contents
+In April 2023, Greystone opened a facility in Jasper, IN, through the purchase of equipment, including robotics, that uses an extrusion process to produce plastic pallets. Recycled plastic will be used in the process consistent with Greystone’s green standards. The pallets created from this extrusion process are robotically welded producing pallets in unusual sizes, including 30”X30”, 60”X60” and also 96” X 48” designs.
+The principal raw materials used in manufacturing Greystone's plastic pallets are in abundant supply, and some of these materials may be obtained from recycled plastic containers. At the present time, these materials are being purchased from local and national suppliers. If available, materials may also be purchased from international suppliers.
+Pallet Industry
+Pallets are devices used for moving and storing freight. A pallet is used as a base for assembling, storing, stacking, handling, and transporting goods as a unit load. A pallet is constructed to facilitate the placement of a lift truck’s forks between the levels of a platform so it may be moved easily.
+Pallets are used worldwide for the transportation of goods and they are primarily made of wood. An estimated 80-90 percent of all U.S. commerce is carried on pallets, which amounts to an estimated 2.6 billion pallets in circulation daily in the United States. The manufacture of wood pallets is estimated to consume more than 45 percent of total U.S. hardwood lumber production. “Pallets move the world,” says Dr. Marshall S. “Mark” White, an emeritus professor at Virginia Tech University and director of the William H. Sardo Jr. Pallet and Container Research Laboratory and Center for Packaging and Unit Load Design.
+The largest industry users of pallets such as the food, chemical, pharmaceutical, beverage and dairy industries are populated with large public or private entities for which profitable financial performance is paramount. The trend for pallets is expected to expand because of overall pallet demand resulting from growth in the U.S. economy and the current U.S. government administration’s efforts to move manufacturing capacity back to the U.S. The operating issues presented by wood pallets have been tolerated to date as there has been no viable alternative in sufficient size for replacement. A report on the market for pallets in North America by Zoe Biller, an industry analyst for Freedonia Group, provided the following on wood and plastic pallets:
+Wood: Although not highlighted in her report, Biller estimates that about 60% of wooden pallets are used and about 40% are new. Those percentages could shift in favor of new pallets going forward because the industry has been reporting a shortage of quality used pallets, known as cores, for the last year or so. “The core shortage appears to be real and it is going to be part of what’s going on going forward,” Biller said. “But it should correct itself in the long term as end users buy new pallets that replenish the pool.”
+Nearly five years ago, Costco announced that it was going entirely to a block pallet. Biller believes Costco’s decision is a symptom of the overall trend towards block pallets rather than a driver. “Costco is part of a broader trend towards pallets that are easier to use, especially in an automated system or with pallet jacks,” Biller said. Block pallets fit both of those bills. She adds, “There’s also a bigger trend to turn products and processes that aren’t a core business to a third party and pallet management is definitely part of that trend.”
+Plastic: The move towards plastic appears to be driven by companies that can control their pallet pools and take advantage of plastics’ longevity as well as “growing sanitation concerns related to wood pallets,” Biller said. “Food safety regulations may have something to do with it going forward.” Asked if she was surprised by any of the results, Biller said she was surprised by how far the pallet market declined during the recession. “A big part of the market advance is the need to bring the number of pallets available for use to required levels,” she said.
+According to Bob Trebilcock of Modern Materials Handling Magazine, one important bullet point for pallet users from the Freedonia report’s executive summary was that plastic pallets have seen their strongest advances in percentage terms ever and will continue to record above average growth.
+According to Persistence Market Research, rising demand for alternative pallet types is anticipated to boost the growth of plastic pallets in the global pallets market.
+5
+Table of Contents
+In a June 2018 article, Persistence Market Research published an article that non-wood pallets are likely to experience a massive increase in demand across the globe. Among these, plastic pallets are expected to be the most attractive option. The major reason behind the increase in popularity of and demand for plastic pallets is due to the ease with which these can be cleaned. In addition, they are made of recycled materials. This is a very attractive benefit for companies working towards becoming more environmentally friendly. This factor is creating a positive impact on the plastic pallets market.
+Another factor which is driving the growth of plastic pallets is the adoption of pallets by new users. The pallet utilization in various regions across the globe is typically low compared to the size of their manufacturing, warehousing, and construction sectors. However, in the coming years, greater numbers of potential pallet users will strive to become more competitive on a global scale by improving operating efficiencies and reducing product damage in shipments through the use of plastic pallets.
+The increase in trade volume especially in the Middle East and African regions is also anticipated to fuel the growth of the plastic pallets market. Gulf Cooperation Council countries, located in between the Far East and Europe, can be considered as the gateway to the world’s most progressive markets such as India and China. The transport and logistics sector in the Middle East region is showing substantial growth rates with a long-term positive outlook. The plastic pallets market is thus expected to witness significant growth and is a vital link in supply chain and storage.
+With a huge incremental opportunity, the global pallets market is projected to grow at more than 10% Compound Annual Growth Rate (“CAGR”) during the period of assessment.
+During the period 2019 – 2025, the global pallets market expanded to a market size of $8.65 billion. During the forecast period – that is between 2025 and 2030 – the market is anticipated to grow at a CAGR of 10.54% owing to increasing demand for better and safe transportation coupled with the rise in demand for pallets from various industries like food, pharmaceutical, agriculture, chemicals etc. The global pallets, specifically the Asia- Pacific market is projected to represent an incremental opportunity of more than 14.55% compound annual growth through 20301.
+Types of Pallets
+The most common size pallet is the 48” x 40” 4-way pallet, known as the GMA (Grocery Manufacturer Association) pallet, “GMA 48 x 40 Pallet,” or “GMA Block Pallet.” The GMA pallet acts as a commodity in the pallet industry, as price is often determined by availability. As wood pallets move through their life cycle from a new pallet to a used pallet, they are repaired and put back in service until they are sent to a landfill or used as wood compost.
+Pallets are the primary interface between the packaged product and today’s highly automated material handling equipment. Although pallets are not the most glamorous part of the warehouse, they are important because users have expectations based on specifications and wood pallets lack critical manufacturing details that determine performance. The end user becomes frustrated when these pallets do not perform to expectation. Shipments can be damaged or rejected entirely resulting in significant product and revenue losses. This angst is aggravated when new multi-million-dollar automated systems are in use.
+Employees
+As of May 31, 2025, Greystone had full-time equivalents (“FTE’s” is a unit of measure that translates number of weekly hours worked by all employees where 40 hours per week is a single person) of approximately 190 full time employees. A temporary personnel service provides additional production personnel on an as needed basis of which there were FTE’s of approximately 70 employees as of May 31, 2025.
+Marketing and Customers
+Greystone's primary focus is to provide quality plastic pallets to its existing customers while continuing its marketing efforts to broaden its customer base. Greystone's existing customers are primarily located in the United States and engaged in the beverage, pharmaceutical and other industries. Greystone has generated, and plans to continue to generate, interest in its pallets by attending trade shows sponsored by industry segments that would benefit from Greystone's products. Greystone hopes to gain wider product acceptance by marketing the concept that the widespread use of plastic pallets could greatly reduce the destruction of trees on a worldwide basis. Greystone sells to customers through contract distributors or by direct contract through its President and other employees.
+1 “Plastic Pallets Market Size & Share Analysis - Growth Trends & Forecasts (2025 - 2030)
+Source: https://www.mordorintelligence.com/industry-reports/plastic-pallets-market
+6
+Table of Contents
+Greystone’s customers generally either have a recurring need for pallets such as a distributor and an end-user who acquires pallets for a closed loop distribution system or end users who acquire pallets for internal warehouse use. The latter group of customers may or may not have a recurring demand for pallets each year. Accordingly, revenues from customers that qualify as substantial in any one year may vary. During fiscal years 2025 and 2024, Greystone derived a substantial portion of its revenue from three customers. These customers accounted for approximately 76% and 81% of total sales in fiscal years 2025 and 2024, respectively. Greystone’s recycled plastic pallets are designed to meet the respective customer’s needs and are the only pallets approved for use by these customers. There is no assurance that Greystone will retain these customers’ business at the same level, or at all. The loss of a material amount of business from one of these customers could have a material adverse effect on Greystone.
+Competition
+Greystone's primary competitors are a large number of small, privately held firms that sell wood pallets in very limited geographic locations.  Greystone believes that it can compete with manufacturers of wood pallets by emphasizing the cost savings realized over the longer life of its plastic pallets, as well as the environmental benefits (principally elimination from landfill and recycling) of its plastic pallets as compared to wood pallets. Greystone also competes with three large and approximately ten small manufacturers of plastic pallets. Some of Greystone's competitors may have substantially greater financial and other resources than Greystone and, therefore, may be able to commit greater resources than Greystone in the areas of product development, manufacturing and marketing.  However, Greystone believes that its proprietary designs coupled with the competitive pricing of its products gives Greystone an advantage over other plastic pallet manufacturers.
+Government Regulation
+Although Greystone recycles approximately 60 million pounds of post-consumer plastic per year which would otherwise be destined for the landfill, business operations of Greystone are subject to existing and potential federal, state and local environmental laws and regulations pertaining to the handling and disposition of wastes (including solid and hazardous wastes) or otherwise relating to the protection of the environment.  In addition, both the plastics industry and Greystone are subject to existing and potential federal, state, local and foreign legislation designed to reduce solid wastes by requiring, among other things, plastics to be degradable in landfills, minimum levels of recycled content, various recycling requirements, disposal fees and limits on the use of plastic products.
+Patents and Trademarks
+Greystone seeks to protect its technical advances by pursuing national and international patent protection for its products and methods when appropriate.
+Management Plastic Pallet Summation
+For over 30 years, both timber prices and landfill fees have increased and have compelled businesses to modify the way pallets are managed. Businesses can evaluate and improve their pallet management systems and reduce associated waste by utilizing recycled plastic pallets.
+According to the U.S. Environmental Protection Agency, deforestation is a significant contributor to global carbon dioxide gas emissions. Deforestation leads to CO2 emissions because the carbon sequestered in trees is emitted into the atmosphere and not counter-balanced by re-growth of new trees. Additionally, estimates are that up to 20 percent of total pallet wood waste ends up in land fill.
+ESG, an acronym for environmental, social and governance, consists of three broad categories or areas of interest of what is termed “socially responsible investors.” Within each ESG category are various specific related concerns that may or may not be pertinent in a given situation depending on the specific investment being examined. The environmental category concerns include pollution or waste material that a company produces and factors related to climate change. The environmental circumstances surrounding deforestation imply that continued and growing interest in ESG compliance will lead companies to strongly consider the change to plastic pallets. Use of recycled plastics to produce pallets, as Greystone does, demonstrates commitment to ESG by reducing plastic disposition to landfills.
+7
+Table of Contents
+Greystone’s management believes that the gradual shifting trend from wood to 100 percent recyclable plastic pallets will continue, with the primary limiting factors being a front-end higher price and some regulatory limits to certain applications of pallet use. The savings come in recyclability and significantly longer life which lowers the cost per trip dramatically. Greystone intends to continue to conduct research on pallet design for strength and coefficient of friction, on the materials used to make the plastic pallets as required to meet market demands and to improve its existing products. Plastic pallets reduce wood waste, are hygienic, weigh less which lowers fuel consumption and transport costs and are fully recyclable.
+Item 1A.    Risk Factors.
+Our business could be affected by changes in the availability of raw materials.
+Greystone uses a proprietary mix of raw materials to produce its plastic pallets. Such raw materials are generally readily available, and some may be obtained from a broad range of recycled plastic suppliers and unprocessed waste plastic. At the present time, these materials are being purchased from local and national suppliers. If available, these materials may also be purchased from international suppliers. The availability of Greystone's raw materials could change at any time for various reasons. For example, the market demand for Greystone's raw materials could suddenly increase, or the rate at which plastic materials are recycled could decrease, affecting both availability and price. Additionally, the laws and regulations governing the production of plastics and the recycling of plastic containers could change and, as a result, affect the supply of Greystone's raw materials. Any interruption in the supply of raw materials or components could have a material adverse effect on Greystone. Furthermore, certain potential alternative suppliers may have pre-existing exclusive relationships with Greystone's competitors and others that may preclude Greystone from obtaining raw materials from such suppliers.
+Greystone's business could be affected by competition and rapid technological change.
+Greystone currently faces competition from many companies that produce wooden pallets at prices that are substantially lower than the prices Greystone and other companies that manufacture plastic pallets charge for their plastic pallets.  It is anticipated that the plastic pallet industry will be subject to intense competition and rapid technological change. Greystone could potentially face additional competition from recycling and plastics companies, many of which have substantially greater financial and other resources than Greystone and, therefore, are able to spend more than Greystone in areas such as product development, manufacturing and marketing.  Competitors may develop products that render Greystone's products or proposed products uneconomical or result in products being commercialized that may be superior to Greystone's products. In addition, alternatives to plastic pallets could be developed, which would have a material adverse effect on Greystone.
+We are dependent on a few large customers.
+Greystone derives a large portion of its revenue from a few large customers and expects that this trend will continue in the foreseeable future.  Three customers currently account for approximately 76% of its total sales in fiscal year 2025 (81% in fiscal year 2024). There is no assurance that Greystone will retain these customers’ business at the same level, or at all. The loss of a material amount of business from one of these customers would have a material adverse effect on Greystone.
+We may not be able to effectively protect Greystone's patents and proprietary rights.
+Greystone relies upon a combination of patents and trade secrets to protect its proprietary technology, rights and know-how. There can be no assurance that such patent rights will not be infringed upon, that Greystone's trade secrets will not otherwise become known to or independently developed by competitors, that non-disclosure agreements will not be breached, or that Greystone would have adequate remedies for any such infringement or breach. Litigation may be necessary to enforce Greystone's proprietary rights or to defend Greystone against third-party claims of infringement. Such litigation could result in substantial cost to, and a diversion of effort by, Greystone and its management and may have a material adverse effect on Greystone. Greystone's success and potential competitive advantage is dependent upon its ability to exploit the technology under these patents. There can be no assurance that Greystone will be able to exploit the technology covered by these patents or that Greystone will be able to do so exclusively.
+8
+Table of Contents
+Our business could be affected by changes or new legislation regarding environmental matters.
+Greystone's business is subject to changing federal, state and local environmental laws and regulations pertaining to the discharge of materials into the environment, the handling and disposition of waste (including solid and hazardous waste) or otherwise relating to the protection of the environment. As is the case with manufacturers in general, if a release of hazardous substances occurs on or from Greystone's properties or any associated off-site disposal location, or if contamination from prior activities is discovered at any of Greystone's properties, Greystone may be held liable. No assurances can be given that additional environmental issues will not require future expenditures. In addition, the plastics industry is subject to existing and potential federal, state, local and foreign legislation designed to reduce solid wastes by requiring, among other things, plastics to be degradable in landfills, minimum levels of recycled content, various recycling requirements and disposal fees and limits on the use of plastic products. Also, various consumer and special interest groups have lobbied from time to time for the implementation of these and other similar measures. Although Greystone believes that the legislation promulgated to date and such initiatives to date have not had a material adverse effect on it, there can be no assurance that any such future legislative or regulatory efforts or future initiatives would not have a material adverse effect.
+Our business could be subject to potential product liability claims.
+The testing, manufacturing and marketing of Greystone's products and proposed products involve inherent risks related to product liability claims or similar legal theories that may be asserted against Greystone, some of which may cause Greystone to incur significant defense costs. Although Greystone currently maintains product liability insurance coverage that it believes is adequate, there can be no assurance that the coverage limits of its insurance will be adequate under all circumstances or that all such claims will be covered by insurance. In addition, these policies generally must be renewed every year.  While Greystone has been able to obtain product liability insurance in the past, there can be no assurance it will be able to obtain such insurance in the future on all of its existing or future products.  A successful product liability claim or other judgment against Greystone in excess of its insurance coverage, or the loss of Greystone's product liability insurance coverage could have a material adverse effect upon Greystone.
+Greystone currently depends on certain key personnel.
+Greystone is dependent on the experience, abilities and continued services of its current management. In particular, Warren Kruger, Greystone's President and CEO, has played a significant role in the development, management and financing of Greystone.  The loss or reduction of services of Warren Kruger or any other key employee could have a material adverse effect on Greystone. In addition, there is no assurance that additional managerial assistance will not be required, or that Greystone will be able to attract or retain such personnel.
+Greystone's executive officers and directors control a large percentage of Greystone's outstanding common stock and all of Greystone's 2003 preferred stock (as of May 31, 2025, all preferred stock has been retired) , which entitles them to certain voting rights, including the right to elect a majority of Greystone's Board of Directors.
+Greystone's executive officers and directors (and their affiliates), in the aggregate, own approximately 47.2% of Greystone's outstanding common stock and have approximately 47.2% of the voting power.  Therefore, Greystone's executive officers and directors can have significant influence with respect to the outcome of matters submitted to Greystone's shareholders for approval (including the election and removal of directors and any merger, consolidation or sale of all or substantially all of Greystone's assets) and to control Greystone's management and affairs.  In addition, two of Greystone's directors (including one who also serves as Greystone’s chief executive officer) own all of Greystone's outstanding 2003 preferred stock, with each owning 50%. The terms and conditions of Greystone's 2003 preferred stock provide that such holder has the right to elect a majority of Greystone's Board of Directors.   Effective March 31, 2025, all preferred stock has been retired. Such concentration of ownership may have the effect of delaying, deferring or preventing a change in control, impeding a merger, consolidation, takeover or other business combination or discouraging a potential acquirer from making a tender offer or otherwise attempting to obtain control, which in turn could have an adverse effect on the market price of Greystone's common stock.
+Our common stock is a “penny stock” under SEC rules. It may be more difficult to sell securities classified as “penny stock.”
+Our common stock is a “penny stock” under applicable SEC rules (generally defined as non-exchange traded stock with a per-share price below $5.00). Unless we successfully list our common stock on a national securities exchange, or maintain a per-share price above $5.00, these rules impose additional sales practice requirements on broker-dealers that recommend the purchase or sale of penny stocks to persons other than those who qualify as “established customers” or “accredited investors.” For example, broker-dealers must determine the appropriateness for non-qualifying persons of investments in penny stocks. Broker-dealers must also provide, prior to a transaction in a penny stock not otherwise exempt from the rules, a standardized risk disclosure document that provides information about penny stocks and the risks in the penny stock market. The broker-dealer also must provide the customer with current bid and offer quotations for the penny stock, disclose the compensation of the broker-dealer and its salesperson in the transaction, furnish monthly account statements showing the market value of each penny stock held in the customer’s account, provide a special written determination that the penny stock is a suitable investment for the purchaser, and receive the purchaser’s written agreement to the transaction.
+9
+Table of Contents
+Legal remedies available to an investor in “penny stocks” may include the following:
+●
+If a “penny stock” is sold to the investor in violation of the requirements listed above, or other federal or states securities laws, the investor may be able to cancel the purchase and receive a refund of the investment.
+●
+If a “penny stock” is sold to the investor in a fraudulent manner, the investor may be able to sue the persons and firms that committed the fraud for damages.
+These requirements may have the effect of reducing the level of trading activity, if any, in the secondary market for a security that becomes subject to the penny stock rules. The additional burdens imposed upon broker-dealers by such requirements may discourage broker-dealers from effecting transactions in our securities, which could severely limit the market price and liquidity of our securities. These requirements may restrict the ability of broker-dealers to sell our common stock and may affect your ability to sell our common stock.
+Many brokerage firms will discourage or refrain from recommending investments in penny stocks. Most institutional investors will not invest in penny stocks. In addition, many individual investors will not invest in penny stocks due, among other reasons, to the increased financial risk generally associated with these investments.
+For these reasons, penny stocks may have a limited market and, consequently, limited liquidity. We can give no assurance at what time, if ever, our common stock will not be classified as a “penny stock” in the future.
+Substantial future sales of shares of our common stock could cause the market price of our common stock to decline.
+The market price of shares of our common stock could decline as a result of substantial sales of our common stock, particularly sales by our directors, executive officers and significant stockholders, a large number of shares of our common stock becoming available for sale or the perception in the market that holders of a large number of shares intend to sell their shares.
+Greystone’s stock trades in a limited public market and is subject to price volatility. There can be no assurance that an active trading market will develop or be sustained.
+There has been a limited public trading market for Greystone's common stock and there can be no assurance that an active trading market will develop or be sustained. The trading price of Greystone's common stock could be subject to significant fluctuations in response to variations in quarterly operating results or even mild expressions of interest on a given day. Accordingly, Greystone's common stock should be expected to experience substantial price changes in short periods of time. Even if Greystone is performing according to its plan and there is no legitimate company-specific financial basis for this volatility, it must still be expected that substantial percentage price swings will occur in Greystone's common stock for the foreseeable future. In addition, the limited market for Greystone's common stock may restrict Greystone's shareholders ability to liquidate their shares.
+Greystone does not expect to declare or pay any dividends on its common stock in the foreseeable future.
+Greystone has not declared or paid any dividends on its common stock. Greystone currently intends to retain future earnings to fund the development and growth of its business, to repay indebtedness and for general corporate purposes, and, therefore, does not anticipate paying any cash dividends on its common stock in the foreseeable future. Pursuant to the terms and conditions of certain loan documentation with International Bank of Commerce and the terms and conditions of Greystone's 2003 preferred stock, Greystone is restricted in its ability to pay dividends to holders of its common stock.
+10
+Table of Contents
+Greystone may issue additional equity securities, which would lead to further dilution of Greystone's issued and outstanding stock.
+The issuance of additional common stock or securities convertible into common stock would result in further dilution of the ownership interest in Greystone held by existing shareholders. Greystone is authorized to issue, without shareholder approval, an additional 20,750,000 shares of preferred stock, $0.0001 par value per share, in one or more series, which may give other shareholders dividend, conversion, voting and liquidation rights, among other rights, which may be superior to the rights of holders of Greystone's common stock.  In addition, Greystone is authorized to issue, without shareholder approval, over 5 billion additional shares of its common stock and securities convertible into common stock.
+We may not have sufficient insurance coverage and an interruption of our business or loss of a significant amount of property could have a material adverse effect on our financial condition and operations.
+We currently do not maintain any insurance policies against loss of key personnel. We do maintain insurance coverage for business interruption as well as product liability claims. In addition, we do maintain director and officer insurance coverage. If any event were to occur which required our insurance coverage to be applicable as well as a loss of key personnel, our business, financial performance, and financial position may be materially and adversely affected.
+We could become involved in claims or litigations that may result in adverse outcomes.
+From time-to-time we may be involved in a variety of claims or litigations. Such proceeding may initially be viewed as immaterial but could prove to be material. Litigations are inherently unpredictable and excessive verdicts do occur. Given the inherent uncertainties in litigation, even when we can reasonably estimate the amount of possible loss or range of loss and reasonably estimable loss contingencies, the actual outcome may change in the future due to new developments or changes in approach. In addition, such claims or litigations could involve significant expense and diversion of management’s attention and resources from other matters.
+Security breaches of confidential customer and employee information may adversely affect our business.
+Our business requires the collection, transmission and retention of large volumes of customer and employee data, including personally identifiable information, in various information technology systems that are maintained internally and by third parties with whom we contract to provide services. The integrity and protection of that employee data is critical to us. Our customers and employees have a high expectation that we and our service providers will adequately protect their personal information. The information, security and privacy requirements imposed by governmental regulation are increasingly demanding. Our systems may not be able to satisfy these changing requirements and customer and employee expectations or may require significant additional investments or time in order to do so. Efforts to hack or breach security measures, failures of systems or software to operate as designed or intended, viruses, operator error or inadvertent releases of data all threaten our information systems and records. A breach in the security of our service providers’ information technology systems could lead to an interruption in the operation of our systems, resulting in operational inefficiencies and a loss of profits. A significant theft, loss or misappropriation of, or access to, customers’ or other proprietary data or other breach of our information technology systems could result in fines, legal claims or proceedings, including regulatory investigations and actions, or liability for failure to comply with privacy and information security laws, which could disrupt our operations, damage our reputation and expose us to claims from customers and employees, any of which could have a material adverse effect on our financial condition and results of operations.
+As a result of being a public company, we are subject to additional reporting and corporate governance requirements that require additional management time, resources, and expense.
+As a public company we are obligated to file with the SEC annual and quarterly information and other reports that are specified in the Securities Exchange Act of 1934, as amended (the “Exchange Act”). We are also subject to other reporting and corporate governance requirements under the Sarbanes-Oxley Act of 2002, as amended, and the rules and regulations promulgated thereunder, all of which impose significant compliance and reporting obligations upon us and require us to incur additional expense in order to fulfill such obligations.
+If we fail to maintain effective internal control over financial reporting, the price of our securities may be adversely affected.
+Our internal control over financial reporting may have weaknesses and conditions that could require correction or remediation, the disclosure of which may have an adverse impact on the price of our common stock. We are required to establish and maintain appropriate internal control over financial reporting. Failure to establish those controls, or any failure of those controls once established, could adversely affect our public disclosures regarding our business, prospects, financial condition or results of operations. In addition, management’s assessment of internal control over financial reporting may identify weaknesses and conditions that need to be addressed in our internal control over financial reporting or other matters that may raise concerns for investors. Any actual or perceived weaknesses and conditions that need to be addressed in our internal control over financial reporting or disclosure of management’s assessment of our internal control over financial reporting may have an adverse impact on the price of our common stock.
+11
+Table of Contents
+We are required to comply with certain provisions of Section 404 of the Sarbanes-Oxley Act and if we fail to continue to comply, our business could be harmed and the price of our securities could decline.
+Rules adopted by the SEC pursuant to Section 404 of the Sarbanes-Oxley Act require an annual assessment of internal control over financial reporting, and for certain issuers an attestation of this assessment by the issuer’s independent registered public accounting firm. The standards that must be met for management to assess the internal control over financial reporting as effective are evolving and complex, and require significant documentation, testing, and possible remediation to meet the detailed standards. We expect to incur significant expenses and to devote resources to Section 404 compliance on an ongoing basis. It is difficult for us to predict how long it will take or costly it will be to complete the assessment of the effectiveness of our internal control over financial reporting for each year and to remediate any deficiencies in our internal control over financial reporting. As a result, we may not be able to complete the assessment and remediation process on a timely basis. In the event that our Chief Executive Officer or Principal Financial Officer determines that our internal control over financial reporting is not effective as defined under Section 404, we cannot predict how regulators will react or how the market prices of our securities will be affected; however, we believe that there is a risk that investor confidence and the market value of our securities may be negatively affected.
+Shares eligible for future sale may adversely affect the market.
+From time to time, certain of our stockholders may be eligible to sell all or some of their shares of common stock by means of ordinary brokerage transactions in the open market pursuant to Rule 144 promulgated under the Securities Act, subject to certain limitations. In general, pursuant to Rule 144, non-affiliate stockholders may sell freely after six months, subject only to the current public information requirement. Affiliates may sell after six months, subject to the Rule 144 volume, manner of sale (for equity securities), current public information, and notice requirements. Of the approximately 27,000,000 shares of our common stock outstanding as of May 31, 2025, approximately 15,000,000 shares are tradable without restriction. Given the limited trading of our common stock, resale of even a small number of shares of our common stock pursuant to Rule 144 or an effective registration statement may adversely affect the market price of our common stock.
+We do not have any long-term contracts with our suppliers or with our customers, and we do not have many written contracts with our customers, and if we can’t maintain these relationships or if we or our suppliers experience manufacturing problems or delays, our financial results will be negatively affected.
+We do not have any long-term contracts with our suppliers or with our customers for our current or planned products. We also do not have many written contracts with our customers. There can be no assurance that these suppliers will continue to sell to us on prior or current terms, or at all and likewise there can also be no assurance that our customers will continue to purchase from us or that we can obtain customers to purchase our planned products. We may not be able to maintain our relationships with our suppliers and customers, or we may be unable to find alternate suppliers or customers in a timely fashion. Should this occur, our revenues and results of operations will be negatively affected. Additionally, we or our suppliers may encounter unforeseen delays or shortfalls in manufacturing, and our suppliers’ production processes may have to change to accommodate any significant future expansion of our manufacturing capacity, which may increase our or our suppliers’ manufacturing costs, delay production of our current and planned products, reduce our product gross margin and adversely impact our business. If we are unable to keep up with demand for our current and planned products by maintaining our relationships with our suppliers or successfully manufacturing and shipping our products in a timely manner, our revenue could be impaired, market acceptance for our current and planned products could be adversely affected and our customers might instead purchase our competitors’ products. In addition, developing manufacturing procedures for new products may require developing specific production processes for those products. Developing such processes could be time consuming and any unexpected difficulty in doing so can delay the introduction of a product.
+An unexpected interruption in our warehousing facilities or if there is a lack of capacity at our warehousing facilities, it could reduce our sales and margins.
+We store products in our warehouses that we then ship to customers or distributors. If we run out of capacity, we won’t be able to store as many products and may not be able to maintain all products in an efficient manner. Additionally, if there is any unexpected interruption to our warehousing facilities, for any reason, such as loss of certifications or licenses, as a result of weather, terrorism or acts of war, fire, earthquake, or other national disaster, a work stoppage or other labor-related disruption, electrical outages, or other events, it could result in significant reductions to our sales and margins and could have a material adverse effect on our business, financial condition or results of operations.
+Any interruption to our distribution channels for our products could adversely affect our sales and results of operations.
+Any interruption to our distribution channels for our products for any reason, such as disruption of distribution channels as a result of weather, terrorism or acts of war, fire, earthquake, or other national disaster, a work stoppage or other labor-related disruption, could adversely affect our sales and results of operations.
+12
+Table of Contents
+Item 1B.   Unresolved Staff Comments.
+None.
+Item 1C. Cybersecurity.
+Governance
+While the Company does not employ a Chief Information Officer or consider cybersecurity threats to be a material risk to the business strategy, results of operations or financial position of the Company, the Board of Directors discusses risks and threats most applicable to the Company and inquires of management regarding design and effectiveness of controls in place to address the prevention, detection, mitigation and remediation of cybersecurity incidents.
+Risk Management and Strategy
+Due to the size of the Company, our information technology (“IT”) environment does not utilize overly complicated systems or processes. The Company does not sell products or conduct business in an online environment. We utilize a third party managed services provider (“Provider”) for security applications, monitoring, and updates to our information technology environment. The Chief Financial Officer serves as the relationship manager for and has regularly scheduled meetings with the Provider to evaluate whether the services provided meet the Company’s needs, review hardware and software obsolescence, and identify any new threats that need to be addressed. The Company uses multi-factor authentication for applications wherever possible to provide access security and we maintain a secure physical environment.
+Through the Provider, automated security tools are used to monitor all Windows-based systems and provide defense against cyberattacks perpetrated on or against these systems and to protect internal systems from known and unknown cybersecurity threats. These security tools include:
+Advanced, next-generation endpoint security software, detects attempted attacks on internal Windows-based systems and analyzes the attack providing context for said attacks to analysis teams. This data is then used to mitigate the attack and resolve the incident.
+Privilege management software provides application context to reviewers to aid in the preemptive identification of malicious activities on a system. When administrative permissions are requested, details regarding the requesting process are forwarded to our provider for review and analysis before granting administrative privileges, limiting an attacker’s ability to affect and compromise systems in the environment.
+The Company employs email security tools provided and managed by our Provider to protect against email-based attacks. These tools include an email security gateway and an additional automated email filtering security. These tools provide advanced, AI-powered phishing detection and remediation for all Microsoft 365 email users in the environment.
+The Company utilizes various third-party service organizations for critical areas of operations, including stockholder transfer agent services, accounting software, financial reporting software and regulatory filings, and mineral management software. The Company obtains System and Organization Controls (“SOC”) reports for each vendor and ensures that internal controls are designed and implemented to adequately meet the applicable user controls identified within the SOC report for each vendor.
+The Company requires all devices used by employees to be protected with the security measures listed above. It is also Company policy that all devices be used by the employee only and any use by non-employees is prohibited.
+To date, the Company has not experienced a cybersecurity incident that resulted in a material adverse effect on our business strategy, results of operations or financial condition; however, there can be no guarantee that we will not experience such an incident in the future.
+13
+Table of Contents
+Item 2.       Properties.
+Greystone’s operations are performed at:
+●
+Two primary buildings for a total of 120,000 square feet of manufacturing and warehouse space located on approximately 3 acres of land in Bettendorf, Iowa. These buildings are leased from Greystone Real Estate, L.L.C. (“GRE”) which is owned by Robert B. Rosene, Jr., a director of Greystone. The manufacturing and warehouse space is sufficiently equipped and designed to accommodate the manufacturing of plastic pallets and is also used for grinding, processing and pelletizing recycled plastic. The lease has a primary term through July 31, 2032, with an option by Greystone to extend for 5 years, and initially provides for monthly rent of $44,500 with escalations of 5% every 5 years.
+●
+Three buildings owned by Greystone located within a 30-mile radius of its primary facility for an additional 95,000 square feet of warehouse space. These buildings are currently used for warehousing inventory and grinding operations.
+●
+Facility in Palmyra, MO, housing two of Greystone’s injection molding machines. Production in this facility is outsourced to the lessor.
+●
+Facility in Jasper, IN, housing Greystone’s extrusion processing machines. Production in this facility will be outsourced to the lessor.
+●
+Office location in Tulsa, OK, which is approximately 3,000 sq ft, and is leased from a related party.
+We believe that these facilities are adequate for our current and near-term needs.
+Item 3.       Legal Proceedings.
+From time to time, we may be involved in various claims and legal actions arising in the ordinary course of business. To the knowledge of our management, there are no legal proceedings currently pending against us which we believe would have a material effect on our business, financial position or results of operations and, to the best of our knowledge, there are no such legal proceedings contemplated or threatened.
+Item 4.       Mine Safety Disclosures.
+Not applicable.
+PART II
+Item 5.       Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information
+Greystone's common stock is traded on the OTCQB under the symbol "GLGI."   The following table sets forth the range of high and low per share bid quotations for Greystone's common stock during the time periods indicated. Quotations reflect inter-dealer prices, without retail mark-up, markdown or commission and may not represent actual transactions. The source of the foregoing quotations was the Financial Industry Regulatory Composite Feed or other qualified inter dealer quotation medium as provided by OTC Market Group, Inc.:
+Quarter Ended
+High
+Low
+August 31, 2023
+$
+1.18
+$
+0.75
+November 30, 2023
+$
+1.11
+$
+0.90
+February 29, 2024
+$
+2.35
+$
+0.82
+May 31, 2024
+$
+1.41
+$
+0.98
+August 31, 2024
+$
+1.58
+$
+1.54
+November 30, 2024
+$
+1.00
+$
+1.00
+February 28, 2025
+$
+1.01
+$
+0.99
+May 31, 2025
+$
+1.35
+$
+1.31
+The  Board of Directors has approved a stock repurchase program, pursuant to which the Company is authorized to purchase up to $1 million of its common stock over 12 months. Repurchases pursuant to the stock repurchase program commenced during the second fiscal quarter of 2025. There is Board consensus for capitalizing on attractive market opportunities by employing strategic stock buybacks to enhance shareholder value. As of May 31, 2025, the Company had $393,267 to be used towards the repurchase of outstanding shares.
+14
+Table of Contents
+Under the stock repurchase program, the Company may repurchase shares from time to time in the open market at prevailing market prices, pursuant to one or more Rule 10b5-1 plans, or otherwise. Repurchases under the stock repurchase program will be in accordance with the terms of Rule 10b-18 promulgated under the Securities Exchange Act of 1934, as amended, and will be made in accordance with applicable laws and regulations in effect from time to time. The timing, as well as the number and value of shares repurchased under the program, will be determined by the Company at its discretion and will depend on a variety of factors, including its assessment of the intrinsic value of the Company’s common stock, the market price of the Company’s common stock, general market and economic conditions, available liquidity, compliance with the Company’s debt and other agreements, applicable legal requirements, the nature of other investment opportunities available to the Company, and other considerations. The Company is not obligated to purchase any shares under the repurchase program, and the program may be suspended, modified, or discontinued at any time without prior notice. The Company expects to fund the repurchases by using cash on hand and expected free cash flow to be generated in the future.
+Period
+Total Number
+of Shares
+Purchased
+Average Price Paid
+per Share
+Total Number of Shares
+Purchased As Part of
+Publicly Announced Plans
+Approximate Dollar Value of
+Shares that May Yet to Be
+purchased Under the Share
+Repurchased Program
+Remaining Shares Authorized
+Under the Plan
+12/1/2024-12/30/2024
+10,871
+$
+1.05
+10,871
+988,034
+1/1/2025-1/31/2025
+430,725
+1.04
+30,725
+955,365
+2/1/2025-2/28/2025
+78,396
+1.00
+78,396
+873,965
+3/1/2025-3/31/2025
+38,691
+1.03
+38,691
+832,209
+4/1/2025-4/30/2025
+213,107
+1.09
+213,107
+591,463
+5/1/2025-5/31/2025
+147,334
+1.30
+147,334
+393,264
+Holders
+As of May 31, 2025, Greystone had approximately 173 common stockholders of record.
+Dividends
+Greystone paid no cash dividends to its common stockholders during the last two fiscal years and does not plan to pay any cash dividends in the near future. The loan agreement dated July 29, 2022 (the “IBC Loan Agreement”), as amended, among Greystone, GSM and International Bank of Commerce (“IBC”) prohibits Greystone from declaring or paying any dividends to its common stockholders without IBC’s prior written consent. See Note 5 to the consolidated financial statements for additional information. In addition, accrued preferred stock dividends must be paid before a dividend on common stock may be declared or paid, as set forth in the Certificate of Designation, Preferences, Rights and Limitations relating to the preferred stock. See Note 10 to the consolidated financial statements and “Liquidity and Capital Resources” in Item 7 of this Form 10-K for additional information.
+Greystone paid dividends on its 2003 preferred stock in the amounts of $427,103 and $721,640 during fiscal years 2025 and 2024, respectively. As of May 31, 2025, all preferred stock has been retired.
+Item 6.     Selected Financial Data
+Not applicable to a smaller reporting company.
+Item 7.     Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Cautionary Statement Regarding Forward-Looking Information
+This Annual Report on Form 10-K includes "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These statements concern Greystone's plans, expectations and objectives for future operations. All statements, other than statements of historical facts, included in this Form 10-K that address activities, events or developments that Greystone expects, believes or anticipates will or may occur in the future are forward-looking statements. The words "believe," "plan," "intend," "anticipate," "estimate," "project," and similar expressions are intended to identify forward-looking statements. These forward-looking statements include, among others, such things as:
+•
+expansion and growth of Greystone's business and operations;
+•
+future financial performance;
+•
+future acquisitions and developments;
+•
+potential sales of products;
+•
+future financing activities; and
+•
+business strategy.
+These forward-looking statements are based on assumptions that Greystone believes are reasonable based on current expectations and projections about future events and industry conditions and trends affecting Greystone's business. However, whether actual results and developments will conform to Greystone's expectations and predictions is subject to a number of risks and uncertainties that could cause actual results to differ materially from those contained in the forward-looking statements, including those factors discussed under the section of this Form 10-K entitled "Risk Factors."  In addition, Greystone's historical financial performance is not necessarily indicative of the results that may be expected in the future and Greystone believes that such comparisons cannot be relied upon as indicators of future performance.
+15
+Table of Contents
+Critical Accounting Policies and Estimates
+General
+Management’s discussion and analysis of financial condition and results of operations are based upon the Company’s consolidated financial statements,  which have been prepared in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). The preparation of these consolidated financial statements requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, and expenses. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+The Company believes the following critical accounting policies affect its more significant judgments and estimates used in the preparation of its   consolidated financial statements.
+Revenue Recognition
+Revenue is recognized at the point in time a good or service is transferred to a customer and the customer obtains control of that good or receives the service performed. Sales arrangements with customers are short-term in nature involving single performance obligations related to the delivery of goods and generally provide for transfer of control at the time of shipment. In limited circumstances, where acceptance of the goods is subject to approval by the customer, revenue is recognized upon approval by the customer unless, historically, there have been insignificant rejections of goods by the customer.
+Inventories
+Inventory consists of finished pallets and raw materials which are stated at the lower of average cost or net realizable value, with cost being determined on the “first-in, first-out” basis of accounting. The cost of finished goods include an estimate for manufacturing overhead.
+Income Taxes
+Greystone accounts for income taxes under the liability method, which requires recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the consolidated financial statements or tax returns. Under this method, deferred tax assets and liabilities are determined based on the difference between the consolidated financial statements and tax bases of assets and liabilities and tax loss carryforwards using enacted tax rates in effect for the year in which the differences are expected to reverse.
+Results of Operations
+General
+The consolidated financial statements include Greystone and its two wholly owned subsidiaries, Greystone Manufacturing, L.L.C. (“GSM”), and Plastic Pallet Production, Inc. (“PPP”).
+Greystone's primary business is the manufacturing of plastic pallets utilizing recycled plastic and selling the pallets through one of its wholly owned subsidiaries, GSM.
+As of May 31, 2025 and 2024, Greystone had FTE’s of approximately 190 employees. Temporary personnel from a personnel service entity are utilized as needed. At any point in time, the Company can have between 65-80 temporary employees.  Greystone's in-house production capacity for its injection molding machines capable of producing pallets is approximately 225,000 plastic pallets per month, or 2,700,000 per year. Production levels will vary proportionately as a result of the pallet design, machine downtime or customer restrictions for maintaining stringent sizing on certain pallets.
+Year Ended May 31, 2025 Compared to Year Ended May 31, 2024
+Sales
+Sales were $57,869,480 for fiscal year 2025 compared to $61,780,715 for fiscal year 2024 representing a decrease of $3,911,235, or about 6%. The reduction in sales, compared to the prior period is primarily attributable to an approximate 24% decrease in demand from one of its significant customers, which was offset somewhat by an increase in demand from another of its significant customers. The increase in demand from the latter customer was due to a newly designed plastic pallet to specifically meet the customer’s needs.
+Greystone’s major customers, varying from three to four, accounted for approximately 76% and 81% of total sales in fiscal years 2025 and 2024, respectively. Customers that account for significant sales may vary in any one year. Generally, customers purchasing substantial quantities to replace or add pallets to their inventory consistently comprise a significant portion of sales. Any customer(s) needing a substantial quantity of pallets to fulfill a specific need may vary from year to year.
+Cost of Sales
+Cost of sales was $48,391,187 (84% of sales) and $50,065,085 (81% of sales) in fiscal years 2025 and 2024, respectively. The increase in the ratio of cost of sales to sales (the “ratio”) in fiscal year 2025 from fiscal year 2024 was the result of several factors, including a decline in production of plastic pallets. Due to Greystone’s inflexible manufacturing costs, the gross profit margin is directly affected by variations in the quantity of plastic pellets produced.
+Selling, General and Administrative Expenses
+Selling, general and administrative (SGA) expenses were $5,906,804, (10% of sales) for fiscal year 2025 compared to $5,168,607, (8.4% of sales) for fiscal year 2024, representing an increase of $738,197. The increase is primarily due to bonuses paid during the year ended May 31, 2025.
+16
+Table of Contents
+Gain on Involuntary Conversion
+Gain on involuntary conversion was $741,821 for fiscal year 2025. In February 2024, one of the Company’s storage warehouses caught fire with damage to finished goods inventory valued at $1,326,752 and the building with a net book value of $161,850. As of May 31, 2024, the Company recorded an insurance receivable of $2,058,602 as an estimate for damage to the inventory and building, which resulted in a gain from the involuntary conversion of $593,647 for the fiscal year ended May 31, 2024. The insurer and Company finalized the claim value for the inventory as well as a prior claim for equipment damage from an electrical storm occurring in December 2022, resulting in an additional gain from the involuntary conversion of $741,821 for the year ended May 31, 2025. All amounts owed related to these claims, reflected in other receivables as of May 31, 2024 on the consolidated balance sheets, were fully funded during the second quarter by the insurer.
+Other Income (Expenses)
+Other income for fiscal years 2025 and 2024 included:
+2025
+2024
+Interest Income
+$
+98,361
+$
+57,826
+Other
+63,888
+151,253
+Total Other Income
+$
+162,249
+$
+209,079
+Interest expense was $1,018,084 in fiscal year 2025 compared to $1,291,054 in fiscal year 2024 for a decrease of $272,970. This decrease is primarily attributable to the decrease in the prime rate of interest which was 7.5% at May 31, 2025, compared to 8.5% at May 31, 2024.
+Provision for Income Taxes
+The provision for income taxes was $1,106,465 in fiscal year 2025 compared to $1,031,204 in fiscal year 2024. The effective tax rate differs from federal statutory rates due to state income taxes, charges which have no income tax benefit, changes in the valuation allowance, and provision to return adjustments primarily attributable to fixed assets depreciation and lease accounting.
+Based upon a review of its income tax filing positions, Greystone believes that its positions would be sustained upon an audit by the Internal Revenue Service and does not anticipate any adjustments that would result in a material change to its financial position. Therefore, no reserves for uncertain income tax positions have been recorded.
+Net Income
+Net income was $2,351,010 in fiscal year 2025 compared to $5,027,491 in fiscal year 2024 for a decrease of $2,676,481 for the reasons discussed above.
+Net Income Attributable to Common Stockholders
+After deducting preferred dividends and income attributable to non-controlling interests, the net income attributable to common stockholders was $1,922,297, or $0.07 per share, in fiscal year 2025 compared to $4,440,265, or $0.16 per share, in fiscal year 2024 for the reasons discussed above. As of May 31, 2025, all preferred stock has been retired so no futher dividend payments are anticipated.
+Liquidity and Capital Resources
+General
+A summary of Greystone’s cash flows for the year ended May 31, 2025, was as follows:
+Cash provided by operating activities
+$
+10,287,449
+Cash used in investing activities
+$
+(5,703,429
+)
+Cash used in financing activities
+$
+(8,837,626
+)
+Contractual obligations of Greystone as of May 31, 2025, were as follows:
+Less than
+Total
+1 year
+2-3 years
+4-5 years
+Thereafter
+Long-term debt
+$
+11,169,342
+$
+2,122,210
+$
+8,529,218
+$
+517,914
+$
+-
+Financing leases
+$
+4,457
+$
+4,457
+$
+-
+$
+-
+$
+-
+Operating leases
+$
+6,714,450
+$
+609,000
+$
+1,267,360
+$
+1,240,270
+$
+3,597,820
+Commitments
+$
+39,925
+$
+39,925
+$
+-
+$
+-
+$
+-
+17
+Table of Contents
+Greystone had a working capital of $4,230,393 as of May 31, 2025.
+Greystone’s principal long-term debt obligations include a $6,000,000 revolving line of credit and several term notes with various maturities. To provide for the funding to meet Greystone's operating activities and contractual obligations as of May 31, 2025, Greystone will have to continue to produce positive operating results or explore various options including long-term debt and equity financing.  However, there is no guarantee that Greystone will continue to create positive operating results or be able to raise sufficient financing to meet these obligations.
+A substantial portion of debt financing that Greystone received through May 31, 2025, has been provided by loans or through bank loan guarantees from the officers and directors of Greystone. Greystone continues to be dependent upon its officers and directors to provide and/or secure additional financing and there is no assurance that either will do so.
+During the third and fourth quarters for fiscal year 2025, the Company paid $5,000,000 to retire all shares of preferred stock. Prior to retiring, Greystone has 50,000 outstanding shares of cumulative 2003 Preferred Stock for a total of $5,000,000 with a preferred dividend rate at the prime rate of interest plus 3.25%. Greystone paid accrued dividends to its preferred stockholders during fiscal years 2025 and 2024 of $427,103 and $721,640, respectively. Preferred stock dividend payments to the holders of its preferred stock were allowed under the terms of the IBC Restated Loan Agreement as discussed herein under the caption “Loans from International Bank of Commerce” which allows for such payments not to exceed $1,000,000 per year. Greystone does not anticipate that it will make cash dividend payments to any holders of its common stock unless and until the financial position of Greystone improves through increased revenues, additional financing or otherwise. Further, pursuant to the terms and conditions of certain loan documentation with International Bank of Commerce, as discussed herein under the caption “Loans from International Bank of Commerce,” and the terms and conditions of Greystone's 2003 preferred stock, Greystone is restricted in its ability to pay dividends to holders of its common stock
+During the year ended May 31, 2025, the Company paid $606,737 to repurchase 519,124 shares of outstanding common stock under a plan announced by the Board on June 28, 2024. Under the plan, the Company has the ability to repurchase an additional $393,263 worth of shares for a total repurchase commitment of $1 million through the period ended June 28, 2025. The Board’s intent as disclosed in the 8k filed on June 28, 2024, was to employ strategic buybacks to enhance shareholder value. Subsequent to year-end, the Company paid $111,897 to repurchase an additional 80,876 shares.
+Transactions with Warren Kruger and Related Entities
+Yorktown Management & Financial Services, LLC (“Yorktown”), an entity wholly owned by Mr. Kruger, Greystone’s CEO and President, owns and rents to Greystone certain grinding equipment used to grind raw materials and certain extruders for pelletizing recycled plastic into pellets for use as raw material in the manufacture of pallets. Greystone compensates Yorktown for the use of equipment as discussed below.
+Rental fees. GSM pays weekly rental fees of $27,500 to Yorktown for grinding equipment and pelletizing equipment. Total rental fees were $1,457,200 for both fiscal years 2025 and 2024.
+Yorktown provides administrative office space for Greystone in Tulsa, Oklahoma under a 6 year lease agreement at a rental rate of $6,250 per month.
+Loans from International Bank of Commerce (“IBC”)
+On July 29, 2022, Greystone and International Bank of Commerce (“IBC”) entered into an Amended and Restated Loan Agreement (the “Restated IBC Loan Agreement”) as further described in Note 5, Long-Term Debt, of the consolidated financial statements. The Restated IBC Loan Agreement provides for the IBC to make to Greystone (i) a term loan in the amount of $7,854,708 to consolidate all existing term loans in the aggregate amount of $2,669,892 with Lender, extend credit in the amount of $3,271,987 to pay off a note payable to Robert B. Rosene, Jr. and extend additional credit in the amount of $1,912,829 to fund the purchase of the equipment subject to the iGPS Logistics, LLC, leases, (ii) an advancing term loan facility whereby Greystone may obtain advances up to the aggregate amount of $7,000,000 subsequently increased by $1,000,000 under the First Amendment dated May 5, 2023 (items i and ii referred to as “Term Loans”), and (iii) a renewal of the revolving loan with an increase of $2,000,000 (the “Revolving Loan”).  The exact amount which can be borrowed under the Revolving Loan from time to time is dependent upon the amount of the borrowing base but can in no event exceed $6,000,000. The Restated Loan Agreement requires limited guarantees from Warren F. Kruger, President and CEO, and Robert B. Rosene, Jr., a director of Greystone. During 2025, Mr. Rosene was released from his limited guaranty in accordance with the IBC Restated Loan Agreement. Robert B. Rosene, Jr., also sits on the board for IBC. The debt agreements were negotiated on an arm's length basis and terms are no less favorable than those that could have been obtained  from an unrelated third party and the Company has concluded that the relationship is not a conflict of interest.
+18
+Table of Contents
+On February 5, 2024, Greystone and IBC entered into a Second Amendment to the Amended and Restated Loan agreement. Among other things, the primary terms extended the maturity date of the Revolving Loan from July 29, 2024 to February 5, 2026. In addition distributions to holders of its preferred stock was raised to $1,000,000. IBC authorized the Greystone stock repurchase plan not to exceed $1,000,000.
+On January 14, 2025, Greystone and IBC entered into a Third Amendment to the Amended and Restated Loan Agreement. The amendment served to limit repurchase of equity interests in Greystone Logistics in an aggregate amount not exceeding $1,000,000 through the period ended May 31, 2026.
+A waiver was obtained related to the current year preferred and common stock repurchases being in excess of the maximum allowable under the credit agreement.
+Transactions with Robert B. Rosene, Jr.
+Effective August 1, 2022, Greystone and GRE, a limited liability company owned by Mr. Rosene, entered into a non-cancellable ten-year lease agreement with a five-year extension for which Greystone recorded a right-of-use asset and liability based on the present value of the lease payments in the amount of $5,516,006, using a term of one hundred eighty (180) months and a discount rate of 6.00%.
+Off-Balance Sheet Arrangements
+Greystone does not have any off-balance sheet arrangements.
+Item 7A.    Quantitative and Qualitative Disclosures About Market Risk.
+Not applicable.
+Item 8.        Financial Statements and Supplementary Data.
+The consolidated financial statements of Greystone are set forth on pages F-1 through F-19 inclusive, found at the end of this report.
+Item 9.        Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A.     Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+The Company’s CEO and CFO have evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of May 31, 2025. Based upon such evaluation, the CEO and CFO have concluded that, as of May 31, 2025, the Company’s disclosure controls and procedures were not effective as required under Rules 13a-15(e) and 15d-15(e) under the Exchange Act.
+Management’s Report on Internal Control Over Financial Reporting
+Greystone’s management is responsible for establishing and maintaining adequate internal control over financial reporting as such term is defined in Exchange Act Rule 13a-15(f). Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America.
+The Company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles generally accepted in the United States of America, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the financial statements.
+Because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+Under the supervision and with the participation of Greystone’s management, including Greystone’s CEO and CFO, as of May 31, 2025, Greystone evaluated the effectiveness of Greystone’s internal control over financial reporting based on the framework in the Internal Control-Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based upon this evaluation, our management has concluded that our internal control over financial reporting as of May 31, 2025 was not effective.
+19
+Table of Contents
+A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. Management has determined that a material weakness exists due for the following reasons:
+•
+The Company has an ineffective control environment due to a lack of the necessary corporate accounting resources with SEC financial reporting experience to ensure consistent, complete and accurate financial reporting, as well as disclosure controls and procedures. The Company has outsourced the financial reporting function to a qualified accounting firm; however, the Company does not have the internal resources to maintain appropriate disclosure controls and procedures.
+•
+The Company has limited resources to ensure that necessary internal controls are implemented and followed throughout the Company. The limited resources result in inadequate internal controls relating to the authorization, recognition, capture, and review of transactions, facts, circumstances and events that could have a material impact on the Company’s financial reporting process.
+This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only management’s report in this annual report.
+Changes in Internal Control over Financial Reporting
+None.
+Item 9B.   Other Information.
+None.
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+None.
+20
+Table of Contents
+PART III
+Item 10.    Directors, Executive Officers and Corporate Governance.
+Directors, Executive Officers, Promoters and Control Persons
+The following lists the directors and executive officers of Greystone. Directors of Greystone are elected at annual meetings of shareholders unless appointed by the Board of Directors to fill a vacancy upon the resignation or removal of a member or an increase in the number of members of the Board of Directors. Executive officers serve at the pleasure of the Board of Directors.
+Name
+Position
+Term as Director Expires
+Warren F. Kruger
+President, Chief Executive Officer, Chief Financial Officer, and Chairman of the Board
+2025
+Larry J. LeBarre
+Director
+2025
+Robert B. Rosene, Jr.
+Director
+2025
+Drew T. Lockard
+Director
+2025
+Warren F. Kruger, President, Chief Executive Officer, Chief Financial Officer, and Director
+Mr. Warren F. Kruger, Manager/CEO of privately held Yorktown Management & Financial Services, L.L.C., is 69 years old. Yorktown is involved in investment banking, real estate, manufacturing and energy endeavors. Mr. Kruger is the non-executive chairman of the board of directors of Kruger Family Holdings, LLC, which owns TriEnda Holdings, LLC. and PendaForm, LLC. TriEnda Holdings manufactures plastic pallets utilizing a thermoform process. Because of the different qualities between the pallets manufactured by Greystone and TriEnda, there is no direct competition between the two companies. Mr. Kruger earned a Bachelor of Business Administration degree from the University of Oklahoma and an Executive M.B.A. from Southern Methodist University. Mr. Kruger has over forty years of experience in the financial services industry. In 1980, Mr. Kruger co-founded MCM Group, Ltd., which owned and controlled United Bank Club Association, Inc. until 1996 when the firm was sold to a subsidiary of Cendant Corp. (a former NYSE company). He also owned and operated Century Ice, a manufacturer and distributor of ice products from 1996 to 1997, when Packaged Ice, Inc., acquired Century Ice in an industry rollup.
+Mr. Kruger became a director of Greystone on January 4, 2002, served as President and Chief Executive Officer from January 10, 2003 to August 15, 2005 and has served as President and Chief Executive Officer from November 18, 2006 to the present, and most recently was also named Chief Financial Officer beginning in the 2nd quarter of fiscal year 2025.
+Mr. Kruger’s business experience and knowledge of the day-to-day operations of Greystone make him well suited to serve on Greystone’s Board of Directors.
+Drew T. Lockard, Director
+Mr. Lockard, age 47, is a Managing Director at Stretto since February 2019. Stretto is a bankruptcy technology firm and is responsible for developing new business and managing client relationships. Mr. Lockard is an expert in corporate restructuring, turnaround management and energy consulting. Throughout his career, he has led practice‐building efforts, guided professional advisors through high‐impact situations and managed large corporate turnarounds. Prior to joining Stretto, Mr. Lockard was a Managing Director and head of the Dallas office for Opportune, an energy consulting firm, from August 2016 until January 2019. At Opportune, he was responsible for developing new business and expanding the Opportune brand in North Texas. Prior to joining Opportune, Mr. Lockard was a Director at AlixPartners, a global management consulting firm. During his 14‐year career at AlixPartners, he was primarily focused on client delivery and building various practice groups.
+Mr. Lockard holds a BBA in Management Information Systems from Southern Methodist University; an MBA from The University of Texas at Dallas; and MS in Information Technology from The University of Texas at Dallas.
+Mr. Lockard became a director of Greystone effective May 12, 2022. Mr. Lockard’s business experience makes him qualified to serve as a member of Greystone’s Board of Directors.
+21
+Table of Contents
+Larry J. LeBarre, Director
+Mr. LeBarre, age 69, was President and CEO of privately-held Native American Marketing (“Native American”) until 2014 when the company was sold to Seminole Energy. Native American was founded by Mr. LeBarre in 2004 as an oil transportation, storage, and marketing business. Mr. LeBarre earned a Bachelor of Business Administration degree from the University of Oklahoma, became a Certified Public Accountant while working for Price Waterhouse & Co. (now PriceWaterhouseCoopers, LLP) and continued his career in the hazardous waste industry and later with Plains Resources. Mr. LeBarre is also actively involved in investment banking, real estate, and oil and gas investments.
+Mr. LeBarre became a director of Greystone effective May 5, 2012. Mr. LeBarre’s business experience makes him qualified to serve as a member of Greystone’s Board of Directors.
+Robert B. Rosene, Jr., Director
+Mr. Rosene, age 71, is President of Patriot Auto Group, L.L.C., which owns seven auto dealerships in Oklahoma. In addition, Mr. Rosene oversees a variety of investments including oil and gas interests, commercial real estate and other investments. Mr. Rosene co-founded Summit Exploration, L.L.C., an oil and gas production company that owns oil and gas production interests in several states. Mr. Rosene has a B.A. with an emphasis in accounting from Oklahoma Baptist University.
+Mr. Rosene became a director of Greystone effective June 14, 2004. Mr. Rosene’s business experience and longstanding relationship with Greystone makes him qualified to serve as a member of Greystone’s Board of Directors.
+Involvement in Certain Legal Proceedings
+No director, executive officer, significant employee, or control person of the Company has been involved in any legal or regulatory proceeding listed in Item 401(f) of Regulation S-K in the past 10 years.
+Board Composition
+Our business and affairs are managed under the direction of our Board of Directors. The number of directors is fixed by our Board of Directors, subject to our articles of incorporation and our bylaws. Currently, our Board of Directors consists of four directors: Messrs. Kruger, LeBarre, Rosene and Lockard.
+Because of the small size of Greystone’s Board of Directors, it has not established any committees. Rather, the entire Board acts as, and performs the same functions as, an audit committee, compensation committee and nominating committee.
+22
+Table of Contents
+Director Independence
+Three of our four Board members are independent. The Board has determined that each of Messrs. LeBarre, Lockard and Rosene is an independent director pursuant to the NASDAQ listing standards. Under the NASDAQ rules, no director qualifies as independent unless the Board affirmatively determines that the director has no material relationship with us (directly, or as a partner, stockholder or officer of an organization that has a relationship with us).
+In assessing the independence of our directors, the Board considers all of the business relationships between the Company and our directors and their respective affiliated companies. This review is based primarily on the Company’s review of its own records and information provided by each director. Where relationships exist, the Board determines whether the relationship between the Company and the directors or the directors’ affiliated companies impairs the directors’ independence. After consideration of the directors’ relationships with the Company, the Board has affirmatively determined that Messrs. LeBarre, Lockard and Rosene did not have a material relationship with us and that each of such directors is independent.
+Board Leadership Structure and Board’s Role in Risk Oversight
+Our Board of Directors has a Chairman, Mr. Kruger. The Chairman has authority, among other things, to preside over Board meetings and set the agenda for Board meetings. Accordingly, the Chairman has substantial ability to shape the work of our Board of Directors. We believe that separation of the roles of Chairman and Chief Executive Officer is not necessary at this time to ensure appropriate oversight by the Board of Directors of our business and affairs. However, no single leadership model is right for all companies and at all times. The Board of Directors recognizes that depending on the circumstances, other leadership models, such as the appointment of a lead independent director, might be appropriate. Accordingly, the Board of Directors may periodically review its leadership structure. In addition, the Board of Directors may hold executive sessions in which only independent directors are present.
+Our Board of Directors is generally responsible for the oversight of corporate risk in its review and deliberations relating to our activities. Our principal source of risk falls into two categories: financial and product commercialization. The Board oversees management of financial risks; our Board of Directors regularly reviews information regarding our cash position, liquidity and operations, as well as the risks associated with each. The Board of Directors regularly reviews plans, results and potential risks related to our product development and commercialization efforts. Our Board also oversees risk management as it relates to our compensation plans, policies and practices for all employees including executives and directors, particularly whether our compensation programs may create incentives for our employees to take excessive or inappropriate risks which could have a material adverse effect on us.
+Code of Ethics
+Greystone has adopted a Code of Ethics applicable to Greystone's officers and directors, including Greystone’s principal executive officer, principal financial officer, principal accounting officer or persons performing similar functions. Greystone undertakes to provide any person without charge, upon request, a copy of such Code of Ethics. Requests may be directed to Greystone Logistics, Inc., 1613 East 15th Street, Tulsa, Oklahoma 74120, or by calling (918) 583-7441. The Company intends to disclose any amendments to, or waivers from, a provision of its Code of Ethics that applies to its principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions and that relates to any element of the “code of ethics” definition in Item 406(b) of Regulation S-K by posting such information on the Company’s website (https://www.greystonelogistics.com/investor-relations.php).
+Procedures for Contacting the Board
+The Board has established a process for stockholders and other interested parties to send written communications to the Board, the independent directors, a particular committee or to individual directors, as applicable. Such communications should be sent by U.S. mail addressed to:
+Greystone Logistics, Inc. Board of Directors
+c/o Greystone Logistics, Inc.
+Attention: Corporate Secretary
+1613 East 15th Street
+Tulsa, Oklahoma 74120
+23
+Table of Contents
+The Board has instructed the Corporate Secretary to promptly forward all communications so received to the full Board, the independent directors or the individual Board member(s) specifically addressed in the communication. Comments or questions regarding our accounting, internal controls or auditing matters, our compensation and benefit programs, or the nomination of directors and other corporate governance matters will remain with the full Board.
+Depending on the subject matter, the Company’s Corporate Secretary will:
+●
+Forward the communication to the director or directors to whom it is addressed;
+●
+Attempt to handle the inquiry directly, for example, where it is a request for information about our Company or if it is a stock-related matter; or
+●
+Not forward the communication if it is primarily commercial in nature or if it relates to a topic that is not relevant to the Board or a particular committee or is otherwise improper.
+Procedures for Recommending, Nominating and Evaluating Director Candidates
+Recommending Director Candidates for Nomination by the Board
+The Board will consider director candidates recommended by stockholders. A stockholder who wishes to recommend a director candidate for nomination by the Board at an annual meeting of stockholders or for vacancies of the Board that arise between annual meetings must provide the Board with sufficient written documentation to permit a determination by the Board whether such candidate meets the required and desired director selection criteria set forth in our bylaws. Such documentation and the name of the director candidate should be sent by U.S. mail to:
+Greystone Logistics, Inc. Board of Directors
+c/o Greystone Logistics, Inc.
+Attention: Corporate Secretary
+1613 East 15th Street
+Tulsa, Oklahoma 74120
+Since the filing of the Company’s quarterly report on Form 10-Q for the quarter ended February 28, 2025, there have been no material changes to the procedures by which security holders may recommend nominees to the Board.
+Nominating Director Candidates
+For director nominations to be properly brought before an annual meeting of stockholders by a stockholder, the stockholder must give timely notice in proper written form to the Secretary, consistent with the Company’s bylaws.
+Evaluating Director Candidates
+The Board has no formal guidelines or policy with regard to the consideration of any director candidates recommended by shareholders. The Board will consider several factors when evaluating the appropriate characteristics of candidates for service as a director. The Board initially evaluates a prospective nominee based on his or her resume and other background information that has been provided to the Board. At a minimum, director candidates must demonstrate high standards of ethics, integrity, independence, sound judgment, strength of character, and meaningful experience and skills in business or other appropriate endeavors. In addition to these minimum qualifications, the Board considers other factors it deems appropriate based on the current needs and desires of the Board, including specific business and professional experience that is relevant to the Board’s needs, including, but not limited to, Board diversity. A member of the Board will contact, for further review, those candidates who the Board believes are qualified, who may fulfill a specific Board need and who would otherwise best make a contribution to the Board. The Board is responsible for conducting, with the assistance of the Corporate Secretary, and subject to applicable law, any inquiries into the background and qualifications of the candidate. Based on the information the Board learns during this process, it determines which nominee(s) to submit for election. The Board uses a comparable process for evaluating all director candidates, regardless of the source of the recommendation.
+The Board is authorized to use, as it deems appropriate or necessary, an outside consultant to identify and screen potential director candidates. No outside consultants were used during the fiscal year ended May 31, 2025 to identify or screen potential director candidates. The Board will reassess the qualifications of a current director, including the director’s attendance and contributions at Board meetings, prior to recommending a director for reelection.
+24
+Table of Contents
+Delinquent Section 16(a) Reports
+Section 16(a) of the Securities Exchange Act of 1934 requires Greystone’s directors, officers and persons who beneficially own more than 10% of any class of Greystone’s equity securities registered under Section 12 to file with the Securities and Exchange Commission initial reports of ownership and reports of changes in ownership of such registered securities of Greystone. Officers, directors and greater than 10% beneficial owners are required by regulation to furnish to Greystone copies of all Section 16(a) reports they file.
+Based solely on review of the copies of such reports furnished to Greystone and any written representations that no other reports were required during fiscal year 2025, to Greystone’s knowledge, all Section 16(a) filing requirements applicable to its officers, directors and greater than 10% beneficial owners during fiscal year 2025 were complied with on a timely basis.
+Item 11.   Executive Compensation.
+The following table sets forth the compensation paid to named executive officers during the fiscal years ended May 31, 2025 and 2024:
+Summary Compensation Table
+Name and
+Principal Position
+Fiscal Year
+Ended May 31,
+Salary
+Bonus
+Option
+Awards
+Nonqualified
+Deferred Compensation Earnings
+All Other Compensation
+Total
+Warren F. Kruger,
+2025
+$
+369,231
+$
+254,314
+$
+-
+$
+-
+$
+37,500
+$
+661,045
+President, Chief Executive Officer and Chief Financial Officer (effective October 9, 2024)
+2024
+$
+397,500
+$
+20,000
+$
+-
+$
+-
+$
+13,200
+$
+430,700
+William Rahhal,
+2025
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+Chief Financial Officer
+2024
+$
+132,884
+$
+10,000
+$
+-
+$
+-
+$
+4,316
+$
+147,200
+Outstanding Equity Awards at Fiscal Year End
+None.
+Directors’ Compensation
+Greystone pays compensation to members of the Board of Directors in the amount of $12,500 per meeting attended. The following table sets forth compensation paid, earned or awarded during the fiscal year ended May 31, 2025 to each of our directors, whose compensation is described above in the “2025 Summary Compensation Table.”
+Name
+Fees Earned or
+Paid in Cash
+Stock Awards
+All Other
+Compensation
+Total
+Larry J. LeBarre
+$
+37,500
+$
+-
+$
+-
+$
+37,500
+Robert B. Rosene, Jr.
+$
+37,500
+$
+-
+$
+-
+$
+37,500
+Drew T. Lockard
+$
+37,500
+$
+-
+$
+-
+$
+37,500
+Because the Board of Directors consists of four persons of which three are outside directors, the Board has not considered it necessary to create a compensation committee. All of Greystone’s directors participate in determining compensation for officers with Mr. Kruger abstaining from any discussions concerning his compensation.
+Compensation Program as it Relates to Risk
+We have reviewed our compensation policies and practices for both executives and non-executives as they relate to risk and have determined that at this time they are not reasonably likely to have a material adverse effect on us.
+25
+Table of Contents
+Item 12.   Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+Securities Authorized for Issuance under Equity Compensation Plans
+None.
+Security Ownership of Certain Beneficial Owners and Management
+As of May 31, 2025, Greystone had 27,360,577 shares of its common stock and 0 shares of its 2003 preferred stock outstanding.
+The following table sets forth certain information regarding the shares of Greystone's common stock beneficially owned as of May 31, 2025, by (i) each person known by Greystone to own beneficially 5% or more of Greystone's outstanding common stock, (ii) each of Greystone's directors and named officers, and (iii) all of Greystone's directors and executive officers as a group:
+Name and Address of
+Beneficial Owner
+Shares of
+Common Stock
+Beneficially Owned(1)
+Percent of
+Class(2)
+Shares of Senior
+Preferred Stock
+Beneficially
+Owned(3)
+Percent of
+Class
+Voting Shares
+Beneficially
+Owned(4)
+Percent of
+Total Voting
+Power
+Warren F. Kruger
+8,861,854
+(5)
+32.39
+%
+-
+0
+%
+8,861,854
+32.39
+%
+Robert B. Rosene, Jr.
+3,469,050
+(6)
+12.68
+%
+-
+0
+%
+3,469,050
+12.68
+%
+Larry J. LeBarre
+520,093
+(7)
+1.90
+%
+-
+0
+%
+520,093
+1.90
+%
+Drew T. Lockard
+50,000
+0.18
+%
+-
+0
+%
+50,000
+*
+All Directors & Officers as a Group (5 persons)
+12,900,997
+(8)
+47.15
+%
+-
+0
+%
+12,900,997
+47.15
+%
+Other 5% Stockholders
+Topline Capital Partners, LLC
+544 Euclid Street
+Santa Monica, CA 90402
+2,404,401
+(9)
+8.79
+%
+-
+0
+%
+2,404,401
+8.79
+%
+* Under 1%.
+(1)
+The number of shares beneficially owned by each holder is calculated in accordance with the rules of the Commission, which provide that each holder shall be deemed to be a beneficial owner of a security if that holder has the right to acquire beneficial ownership of the security within 60 days through options, warrants or the conversion of another security; provided, however, if such holder acquires any such rights in connection with or as a participant in any transaction with the effect of changing or influencing control of the issuer, then immediately upon such acquisition, the holder will be deemed to be the beneficial owner of the securities. The number the shares of common stock beneficially owned by each holder includes common stock directly owned by such holder and the number of shares of common stock such holder has the right to acquire upon the conversion of the Senior Preferred Stock and/or upon the exercise of certain options or warrants.
+(2)
+The percentage ownership for each holder is calculated in accordance with the rules of the Commission, which provide that any shares a holder is deemed to beneficially own by virtue of having a right to acquire shares upon the conversion of warrants, options or other rights, or upon the conversion of preferred stock or other rights are considered outstanding solely for purposes of calculating such holder's percentage ownership.
+(3)
+Each share of Senior Preferred Stock is convertible into approximately 66 2/3 shares of Greystone's common stock.
+(4)
+Total “Voting Shares” is defined as the number of shares of common stock outstanding, each share of which receives one vote, or 27,360,577 Voting Shares total. The number of Voting Shares reported by each reporting person above represents the number of shares of common stock beneficially owned by such reporting person plus the number of votes afforded to such reporting person as a holder of shares of Senior Preferred Stock, as applicable.
+26
+Table of Contents
+(5)
+The total includes: (i) 8,592,854 shares of common stock beneficially owned directly by Mr. Kruger; (ii) 19,000 shares held of record by Yorktown; (iii) 250,000 shares of common stock that Mr. Kruger may acquire through the exercise of a warrant
+(6)
+The total includes: (i) 3,219,050 shares of common stock beneficially owned directly by Mr. Rosene; 250,000 shares of common stock that Mr. Rosene may acquire through the exercise of a warrant
+(7)
+The total includes 520,093 shares of common stock beneficially owned directly by Mr. LeBarre.
+(8)
+The total includes: (i) 12,400,997 shares of common stock; (ii) 250,000 shares of common stock that Mr. Kruger has the right to acquire by exercising a warrant; (iii) 250,000 shares of common stock that Mr. Rosene has the right to acquire by exercising a warrant
+(9)
+Based on information provided in the Schedule 13D/A filed with the SEC on February 13, 2023 by Topline Capital Management, LLC, Topline Capital Partners, LP and Collin McBirney (the “13D/A”). Per the 13D/A, the securities reported on this Schedule as beneficially owned by TCM (the “Securities”) are held by and for the benefit of the Fund. Under the definition of “beneficial ownership” in Rule 13d-3 under the Act, it is also possible that the individual general partners, executive officers, and members of the foregoing entities might be deemed the “beneficial owners” of some or all of the Securities insofar as they may be deemed to share the power to direct the voting or disposition of such Securities. TCM, as the investment manager and general partner of the Fund, and Collin McBirney, as the member-manager of TCM, may, therefore, be deemed to beneficially own the Securities held by the Fund for the purposes of Rule 13d-3 under the Act insofar as they may be deemed to have the power to direct the voting or disposition of those Securities. This total includes 2,404,401 shares of common stock beneficially owned direct by Topline Capital Partners, LLC.
+Item 13.         Certain Relationships and Related Transactions, and Director Independence.
+Transactions with Related Persons
+General
+For information regarding loans from Warren Kruger, see “Transactions with Warren Kruger and Related Entities” under the heading “Liquidity and Capital Resources” in Item 7 of this Form 10-K.
+For information regarding an advance from Robert Rosene, see “Transactions with Robert B. Rosene, Jr.” under the heading "Liquidity and Capital Resources" in Item 7 of this Form 10-K.
+For information regarding loans from IBC and Messrs. Kruger’s and Rosene’s relationship thereto, see “Loan from International Bank of Commerce (“IBC”) in Item 7 of this Form 10-K.
+Transactions with TriEnda Holdings, L.L.C.
+TriEnda Holdings, L.L.C. (“TriEnda”) is a manufacturer of plastic pallets, protective packaging and dunnage utilizing thermoform processing. Warren F. Kruger, Greystone’s Chairman of the Board, President and CEO, and a significant stockholder of the Company, is the non-executive chairman of the board of directors of Kruger Family Holdings, LLC (“KBH”), which owns a majority interest in TriEnda. Greystone may purchase pallets from TriEnda for resale or sell Greystone pallets to TriEnda. During fiscal year 2025 and 2024, Greystone purchases from TriEnda totaled $81,970 and $7,516, respectively and sales to TriEnda totaled $517,194 and $279,138, respectively. As of May 31, 2025, TriEnda owed $617,538 to Greystone.
+Transactions with Green Plastic Pallets
+Green Plastic Pallets ("Green") is an entity owned by James Kruger, a brother to Warren Kruger, Greystone's Chairman of the Board, President and CEO, and a significant stockholder of the Company. Green purchased pallets from Greystone totaling $367,965 and $240,294 in fiscal years 2025 and 2024, respectively. As of May 31, 2025, Green owed $273,345 to Greystone.
+27
+Table of Contents
+Other Transactions
+Greystone leases two buildings located in Bettendorf, Iowa, from which it conducts its manufacturing operations, from Greystone Real Estate, L.L.C., an entity which is owned by Robert B. Rosene, Jr., a member of Greystone’s board of directors. Rental payments for both buildings are $44,500 per month.
+Director Independence
+Greystone has determined that Messrs. LeBarre, Lockard and Rosene are "independent" within the meaning of Rule 5605(a)(2) of the NASDAQ listing standards. Because of the small size of Greystone’s Board of Directors, it has not established any committees. Rather, the entire Board acts as, and performs the same functions as, the audit committee, compensation committee and nominating committee. Mr. Kruger is not considered "independent" within the meaning of Rule 5605(a)(2) of the NASDAQ listing standards.
+Item 14.   Principal Accountant Fees and Services.
+The following is a summary of the fees billed to Greystone by HoganTaylor LLP, Greystone's independent registered public accounting firm, for professional services rendered for the fiscal years ended May 31, 2025 and May 31, 2024:
+Fee Category
+Fiscal 2025 Fees
+Fiscal 2024 Fees
+Audit Fees(1)
+$
+206,133
+$
+187,250
+Audit-Related Fees
+-
+0
+Tax Fees
+-
+0
+All Other Fees
+-
+0
+Total Fees
+$
+206,133
+$
+187,250
+________________________
+(1) Audit Fees consist of aggregate fees billed for professional services rendered for the audit of Greystone's annual consolidated financial statements and review of the interim consolidated financial statements included in quarterly reports or services that are normally provided by the independent registered public accounting firm in connection with statutory and regulatory filings or engagements during the fiscal years ended May 31, 2025 and May 31, 2024, respectively.
+The entire Board of Directors of Greystone is responsible for the appointment, compensation and oversight of the work of the independent registered public accounting firm and approves in advance any services to be performed by the independent registered public accounting firm, whether audit-related or not. The entire Board of Directors reviews each proposed engagement to determine whether the provision of services is compatible with maintaining the independence of the independent registered public accounting firm. All of the fees shown above were pre-approved by the entire Board of Directors.
+PART IV
+Item 15.         Exhibits, Financial Statement Schedules.
+(a)
+(1)
+Consolidated Financial Statements
+The financial statements required under this item are included in Item 8 of Part II.
+(2)
+Schedules
+None.
+28
+Table of Contents
+(3)
+Exhibits
+Exhibit No.
+Description
+2.1
+Certificate of Ownership and Merger Merging PalWeb Corporation, a Delaware corporation, into PalWeb Oklahoma Corporation, an Oklahoma corporation, filed with the Delaware Secretary of State on May 2, 2002 (incorporated herein by reference to Exhibit 2.1 of Greystone's Form 8-K12G3 dated May 2, 2002, which was filed with the SEC on May 24, 2002).
+2.2
+Certificate of Ownership and Merger Merging PalWeb Corporation, a Delaware corporation, into PalWeb Oklahoma Corporation, an Oklahoma corporation, filed with the Oklahoma Secretary of State on May 2, 2002 (incorporated herein by reference to Exhibit 2.2 of Greystone's Form 8-K12G3 dated May 2, 2002, which was filed with the SEC on May 24, 2002).
+3.1
+Certificate of Incorporation of PalWeb Oklahoma Corporation filed with the Oklahoma Secretary of State on May 2, 2002 (incorporated herein by reference to Exhibit 3.1 of Greystone's Form 8-K12G3 dated May 2, 2002, which was filed with the SEC on May 24, 2002).
+3.2
+Bylaws of PalWeb Oklahoma Corporation as adopted on May 2, 2002 (incorporated herein by reference to Exhibit 3.2 of Greystone's Form 8-K12G3 dated May 2, 2002, which was filed with the SEC on May 24, 2002).
+4.1
+Certificate of Incorporation of PalWeb Oklahoma Corporation filed with the Oklahoma Secretary of State on May 2, 2002 (included in Exhibit 3.1).
+4.2
+Certificate of the Designation, Preferences, Rights and Limitations of PalWeb Corporation's Series 2003 Cumulative Convertible Senior Preferred Stock (incorporated herein by reference to Exhibit 4.1 of Greystone's Form 8-K dated September 8, 2003, which was filed with the SEC on September 23, 2003).
+4.3
+Certificate of Ownership and Merger, Merging Greystone Logistics, Inc., into PalWeb Corporation filed with the Oklahoma Secretary of State on March 18, 2005 (incorporated herein by reference to Exhibit 4.1 of Greystone's Form 8-K dated March 18, 2005, which was filed with the SEC on March 24, 2005).
+10.1
+Amended and Restated Loan Agreement dated July 29, 2022 among Greystone Logistics, Inc., Greystone Manufacturing, L.L.C. and International Bank of Commerce (incorporated herein by reference to Exhibit 10.1 of Greystone’s Form 8-K filed on August 4, 2022).
+10.2
+First Amendment to Amended and Restated Loan Agreement, dated May 5, 2023, among Greystone Logistics, Inc., Greystone Manufacturing, L.L.C. and International Bank of Commerce (incorporated herein by reference to Exhibit 10.2 of Greystone’s Form 10-K filed on August 28, 2023).
+10.3
+Promissory Note (Revolving Loan) dated July 29, 2022, made by Greystone Logistics, Inc. and Greystone Manufacturing, L.L.C. in favor of International Bank of Commerce (incorporated herein by reference to Exhibit 10.2 of Greystone’s Form 8-K filed on August 4, 2022).
+10.4
+Promissory Note (Equipment Term Loan) dated July 29, 2022, made by Greystone Logistics, Inc. and Greystone Manufacturing, L.L.C. in favor of International Bank of Commerce (incorporated herein by reference to Exhibit 10.3 of Greystone’s Form 8-K filed on August 4, 2022).
+10.5
+Promissory Note (Advancing Term Loan) dated May 5, 2023, made by Greystone Logistics, Inc. and Greystone Manufacturing, L.L.C. in favor of International Bank of Commerce (incorporated herein by reference to Exhibit 10.5 of Greystone’s Form 10-K filed on August 28, 2023).
+10.6
+Industrial Lease dated as of August 1, 2022, by and between Greystone Real Estate, LLC, and Greystone Manufacturing, L.L.C. (incorporated herein by reference to Exhibit 10.6 of Greystone’s Form 10-K filed on August 28, 2023).
+21.1*
+Subsidiaries of Greystone Logistics, Inc.
+24.1
+Power of Attorney (included on the signature page).
+31.1*
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) promulgated under the Securities Exchange Act of 1934, as amended, and Item 601(b)(31) of Regulation S-K, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1**
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+29
+Table of Contents
+101 INS*
+Interactive data files pursuant to Rule 405 of Regulation S-T: (i) the Consolidated Balance Sheets at May 31, 2025 and 2024, (ii) the Consolidated Statements of Income for the years ended May 31, 2025 and 2024, (iii) the Consolidated Statements of Changes in Equity for the years ended May 31, 2025 and 2024, (iv) the Consolidated Statements of Cash Flows for the years ended May 31, 2025 and 2024, and (v) the Notes to Consolidated Financial Statements.
+101 SCH*
+Inline XBRL Taxonomy Extension Schema Document
+101 CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase
+101 DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase
+101 LAB*
+Inline XBRL Taxonomy Extension Labels Linkbase
+101 PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase
+104*
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+*           Filed herewith.
+**         Furnished herewith.
+Item 16.          Form 10-K Summary.
+None.
+30
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+GREYSTONE LOGISTICS, INC.
+(Registrant)
+Date: August 29, 2025
+/s/ Warren F. Kruger
+Warren F. Kruger
+President and Chief Executive Officer
+POWER OF ATTORNEY
+Each person whose signature appears below hereby appoints Warren F. Kruger and Roy Dille, and each of them, as attorney-in-fact with full power of substitution to execute in the name and on behalf of the registrant and each such person, individually and in each capacity stated below, one or more amendments to the annual report on Form 10-K, which amendments may make such changes in the report as the attorney-in-fact acting deems appropriate and to file any such amendment to the annual report on Form 10-K with the Securities and Exchange Commission. Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Date: August 29, 2025
+/s/ Warren F. Kruger
+Warren F. Kruger
+Director, President and Chief Executive Office and Chief
+Financial Officer
+(Principal Executive Officer)
+Date: August 29, 2025
+/s/ Robert B. Rosene, Jr.
+Robert B. Rosene, Jr., Director
+Date: August 29, 2025
+/s/ Larry J. LeBarre
+Larry J. LeBarre, Director
+Date: August 29, 2025
+/s/ Drew T. Lockard
+Drew T. Lockard, Director
+31
+Table of Contents
+Index to Financial Statements
+CONSOLIDATED FINANCIAL STATEMENTS OF GREYSTONE LOGISTICS, INC.
+Report of Independent Registered Public Accounting Firm (PCAOB ID 483)
+F-2
+Consolidated Balance Sheets
+F-3
+Consolidated Statements of Income
+F-4
+Consolidated Statements of Changes in Equity
+F-5
+Consolidated Statements of Cash Flows
+F-6
+Notes to Consolidated Financial Statements
+F-7
+●
+Summary of Significant Accounting Policies
+F-7
+●
+Earnings Per Share
+F-10
+●
+Inventory
+F-10
+●
+Property, Plant, & Equipment
+F-11
+●
+Long-Term Debt
+F-12
+●
+Leases
+F-13
+●
+Revenue
+F-15
+●
+Related Party Transactions
+F-16
+●
+Income Taxes
+F-16
+●
+Equity
+F-18
+●
+Retirement Plan
+F-18
+●
+Financial Instruments
+F-19
+●
+Supplemental Information of Cash Flows
+F-19
+●
+Concentrations, Risks, & Uncertainties
+F-19
+●
+Commitments
+F-19
+F-1
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of
+Greystone Logistics, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Greystone Logistics, Inc. and its subsidiaries (the Company) as of May 31, 2025 and 2024, and the related consolidated statements of income, changes in equity, and cash flows for the years then ended, and the related notes to the consolidated financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of May 31, 2025 and 2024, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures include examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging subjective, or complex judgements. We determined that there are no critical audit matters.
+/s/ HoganTaylor LLP
+We have served as the Company's auditor since 2007.
+Tulsa, Oklahoma
+August 29, 2025
+F-2
+Table of Contents
+Greystone Logistics, Inc. and Subsidiaries
+Consolidated Balance Sheets
+May 31,
+May 31,
+2025
+2024
+Assets
+Current Assets:
+Cash
+$
+1,545,035
+$
+5,798,641
+Accounts receivable -
+Trade
+4,359,815
+4,158,381
+Related parties
+890,883
+265,570
+Other
+-
+2,107,108
+Inventory
+3,484,038
+3,871,626
+Prepaid expenses
+556,912
+585,423
+Total Current Assets
+10,836,683
+16,786,749
+Property, Plant and Equipment, net
+30,044,886
+30,066,119
+Right-to-use Assets
+5,091,348
+5,403,441
+Total Assets
+$
+45,972,917
+$
+52,256,309
+Liabilities and Equity
+Current Liabilities:
+Current portion of long-term debt
+$
+2,249,524
+$
+2,362,212
+Current portion of financing leases
+4,457
+19,171
+Current portion of operating leases
+303,815
+286,221
+Accounts payable and accrued expenses
+4,023,920
+3,670,332
+Deferred revenue
+22,964
+840,945
+Preferred dividends payable
+1,610
+-
+Total Current Liabilities
+6,606,290
+7,178,881
+Long-Term Debt, net of current portion and debt issuance costs
+8,833,483
+11,080,736
+Financing Leases, net of current portion
+-
+3,972
+Operating Leases, net of current portion
+4,864,486
+5,167,013
+Deferred Tax Liability
+5,792,349
+4,844,958
+Total Liabilities
+26,096,608
+28,275,560
+Commitments and Contingencies (Note 15)
+Equity:
+Preferred stock, $0.0001 par value, cumulative, 20,750,000 shares authorized; -0- and 50,000 shares issued and outstanding in 2025 and 2024; liquidation preference of $0 and $5,000,000 in 2025 and 2024
+-
+5
+Common stock, $0.0001 par value, 5,000,000,000 shares authorized; 27,879,701 and 28,279,701 shares issued 2025 and 2024; 27,360,577 and 28,279,701 shares outstanding in 2025 and 2024
+2,788
+2,828
+Treasury Stock, at cost, 519,124 shares
+(606,737
+)
+-
+Additional paid-in capital
+48,113,317
+53,533,272
+Accumulated deficit
+(27,633,059
+)
+(29,555,356
+)
+Total Equity
+19,876,309
+23,980,749
+Total Liabilities and Equity
+$
+45,972,917
+$
+52,256,309
+The accompanying notes are an integral part of these consolidated financial statements.
+F-3
+Table of Contents
+Greystone Logistics, Inc. and Subsidiaries
+Consolidated Statements of Income
+For the Years Ended May 31,
+2025
+2024
+Sales
+$
+57,869,480
+$
+61,780,715
+Cost of Sales
+48,391,187
+50,065,085
+Gross Profit
+9,478,293
+11,715,630
+Selling, General and Administrative Expenses
+5,906,804
+5,168,607
+Gain on involuntary conversion (see Note 4)
+(741,821
+)
+(593,647
+)
+Operating Income
+4,313,310
+7,140,670
+Other Income (Expense):
+Other Income
+162,249
+209,079
+Interest Expense
+(1,018,084
+)
+(1,291,054
+)
+Income before Income Taxes
+3,457,475
+6,058,695
+Provision for Income Taxes
+(1,106,465
+)
+(1,031,204
+)
+Net Income
+$
+2,351,010
+$
+5,027,491
+Preferred Dividends
+(428,713
+)
+(587,226
+)
+Net Income Attributable to Common Stockholders
+$
+1,922,297
+$
+4,440,265
+Net Income Per Share of Common Stock -
+Basic
+$
+0.07
+$
+0.16
+Diluted
+$
+0.07
+$
+0.15
+Weighted Average Shares of Common Stock Outstanding
+Basic
+28,063,545
+28,279,701
+Diluted
+28,559,360
+28,774,984
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+Table of Contents
+Greystone Logistics, Inc. and Subsidiaries
+Consolidated Statements of Changes in Equity
+For the Years Ended May 31, 2025 and 2024
+Preferred Stock
+Common Stock
+Treasury Stock
+Additional
+Accumulated
+Stockholders'
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Paid-In Capital
+Deficit
+Equity
+Balances, May 31, 2023
+50,000
+$
+5
+28,279,701
+$
+2,828
+-
+$
+-
+$
+53,533,272
+$
+(33,995,621
+)
+$
+19,540,484
+Preferred dividends, $11.75 per share
+-
+-
+-
+-
+-
+-
+-
+(587,226
+)
+(587,226
+)
+Net income
+-
+-
+-
+-
+-
+-
+-
+5,027,491
+5,027,491
+Balances, May 31, 2024
+50,000
+$
+5
+28,279,701
+$
+2,828
+-
+$
+-
+$
+53,533,272
+$
+(29,555,356
+)
+$
+23,980,749
+Preferred dividends, $9.27 per share
+-
+-
+-
+-
+-
+-
+-
+(428,713
+)
+(428,713
+)
+Retirement of preferred stock
+(50,000
+)
+(5
+)
+-
+-
+-
+-
+(4,999,995
+)
+-
+(5,000,000
+)
+Repurchase of common stock
+-
+-
+-
+-
+519,124
+(606,737
+)
+-
+-
+(606,737
+)
+Repurchase and retirement of common stock
+-
+-
+(400,000
+)
+(40
+)
+-
+-
+(419,960
+)
+-
+(420,000
+)
+Net income
+-
+-
+-
+-
+-
+-
+-
+2,351,010
+2,351,010
+Balances, May 31, 2025
+-
+$
+-
+27,879,701
+$
+2,788
+519,124
+$
+(606,737
+)
+$
+48,113,317
+$
+(27,633,059
+)
+$
+19,876,309
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+Table of Contents
+Greystone Logistics, Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+(Unaudited)
+For the Years Ended May 31,
+2025
+2024
+Cash Flows from Operating Activities:
+Net income
+$
+2,351,010
+$
+5,027,491
+Adjustments to reconcile net income to net cash provided by operating activities -
+Gain on involuntary conversion
+(741,821
+)
+(593,647
+)
+(Gain) loss on disposition of assets
+(43,027
+)
+43,601
+Depreciation and amortization
+5,772,850
+5,736,342
+Change in deferred taxes
+947,391
+939,679
+Increase in trade accounts receivable
+540,387
+1,037,142
+Increase in other accounts receivable
+2,107,108
+-
+Decrease in related parties receivable
+(625,313
+)
+(209,020
+)
+Increase (Decrease) in inventory
+387,588
+(690,273
+)
+Operating lease expense
+26,464
+25,473
+Increase (Decrease) in prepaid expenses
+28,511
+(56,460
+)
+Increase in accounts payable and accrued expenses
+354,282
+316,706
+Increase (Decrease) in deferred revenue
+(817,981
+)
+817,938
+Net cash provided by operating activities
+10,287,449
+12,394,972
+Cash Flows from Investing Activities:
+Purchase of property, plant and equipment
+(5,753,429
+)
+(2,801,378
+)
+Proceeds from sale of property, plant and equipment
+50,000
+-
+Net cash used in investing activities
+(5,703,429
+)
+(2,801,378
+)
+Cash Flows from Financing Activities:
+Principal payments on long-term debt and financing leases
+(2,383,786
+)
+(2,256,179
+)
+Principal payments on revolving loan
+-
+(1,500,000
+)
+Payments for retirement of preferred stock
+(5,000,000
+)
+-
+Repurchase of common stock
+(606,737
+)
+-
+Repurchase and retirement of common stock
+(420,000
+)
+-
+Payments for debt issue costs
+-
+(13,085
+)
+Dividends paid on preferred stock
+(427,103
+)
+(721,640
+)
+Net cash used in financing activities
+(8,837,626
+)
+(4,490,904
+)
+Net Increase (Decrease) in Cash
+(4,253,606
+)
+5,102,690
+Cash, beginning of period
+5,798,641
+695,951
+Cash, end of period
+$
+1,545,035
+$
+5,798,641
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6
+Table of Contents
+Greystone Logistics, Inc.
+Notes to Consolidated Financial Statements
+May 31, 2025 and 2024
+Note 1.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Organization
+Greystone Logistics, Inc. ("Greystone"), through its two wholly owned subsidiaries, Greystone Manufacturing, LLC ("GSM") and Plastic Pallet Production, Inc. ("PPP"), is engaged in the manufacturing and marketing of plastic pallets and pelletized recycled plastic resin.
+Principles of Consolidation
+The consolidated financial statements include the accounts of Greystone, its subsidiaries and entities required to be consolidated by the accounting guidance for variable interest entities (“VIE”). All material intercompany accounts and transactions have been eliminated.
+Use of Estimates
+The preparation of Greystone's consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires Greystone's management to make estimates and assumptions that affect the amounts reported in these consolidated financial statements and accompanying notes.  Actual results could differ materially from those estimates.
+Cash
+The Company maintains accounts at financial institutions which are insured by the Federal Deposit Insurance Corporation (FDIC). Cash balances at times are in excess of FDIC insurance limits.
+Accounts Receivable and Allowance for Uncollectible Accounts
+Greystone records its accounts receivable at their face value less an allowance for credit losses in an amount sufficient to absorb losses inherent in its accounts receivable portfolio based on projected expected credit losses. Greystone evaluates its accounts receivable and establishes an allowance for uncollectible accounts based on a combination of specific customer circumstances, credit conditions and history of collections, and current economic conditions. There was no allowance for credit loss at May 31, 2025 and 2024.
+F-7
+Table of Contents
+Inventory
+Inventory consists of finished pallets and raw materials which are stated at the lower of average cost or net realizable value.
+Property, Plant and Equipment
+Greystone's property, plant and equipment is stated at cost. Depreciation expense is computed using the straight-line method over the estimated useful lives, as follows:
+Years
+Plant buildings
+39
+Production machinery and equipment
+5
+-
+12
+Leasehold improvements
+5
+-
+7
+Furniture & fixtures
+3
+-
+5
+Leasehold improvements are amortized over the shorter of the useful lives or the term of the lease agreement. Upon sale, retirement or other disposal, the related costs and accumulated depreciation of items of property, plant or equipment are removed from the related accounts and any gain or loss is recognized. When events or changes in circumstances indicate that long-lived assets may be impaired, an evaluation is performed comparing the estimated future undiscounted cash flows associated with the asset to the asset’s carrying amount. If the asset’s carrying amount exceeds the cash flows, a write-down to fair value is required.
+Leases
+Greystone recognizes right-of-use assets and lease liabilities on the consolidated balance sheets and disclosure of key information about leasing arrangements.
+Greystone has operating and finance leases for facilities, office space and plant equipment. Operating leases are included in right‐of‐use (“ROU”) operating lease assets and finance lease ROU assets are included in property, plant and equipment in the consolidated balance sheets. The lease liabilities are included in operating leases and financing leases (current and non-current) in the consolidated balance sheets.
+The lease liability is initially measured at the present value of the lease payments, discounted using the interest rate implicit in the lease or, if that rate cannot be readily determined, the incremental borrowing rate. The incremental borrowing rate is defined as the rate of interest that a lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
+For finance leases, lease expenses are the sum of interest on the lease obligations and amortization of the ROU assets. Finance lease ROU assets are amortized based on the lesser of the lease term and the useful life of the leased asset according to the capital asset accounting policy. If ownership of the ROU assets transfers to Greystone at the end of the lease term or if Greystone is reasonably certain to exercise a purchase option, amortization is calculated using the estimated useful life of the leased asset.
+For operating leases, lease expense is generally recognized on a straight-line basis over the lease term and recorded to cost of sales in the consolidated statements of income.
+In accordance with Accounting Standards Codification (ASC) 842, Greystone has made accounting policy elections to not recognize right-of-use assets and lease liabilities for lease arrangements with a term of twelve months or less and to combine lease and non-lease components. The non-lease components are not material and do not result in significant timing differences in the recognition of lease expense. Short-term leases include equipment, real estate and vehicles. For these leases, the Company recognizes the leases as an operating expense on a straight-line basis over the term of the lease.
+F-8
+Table of Contents
+Debt Issuance Costs
+The Company capitalizes debt issuance costs as incurred and amortizes such costs on a straight-line basis across the term of the debt. Debt issuance costs are fully amortized when the debt is repaid or refinanced.
+Equity Based Compensation
+The grant-date fair value of warrants, stock options and other equity-based compensation issued to employees is amortized on the straight-line basis over the vesting period of the award as compensation cost. The fair value of new option grants is estimated using the Black-Scholes option pricing model. The Black-Scholes option pricing model was developed for use in estimating the fair value of traded options, which have no vesting restrictions and are fully transferable. In addition, option pricing models require the input of highly subjective assumptions including the expected stock price volatility, dividend yields and expected holding periods.
+Recognition of Revenues
+Revenue is recognized at the point in time a good or service is transferred to a customer and the customer obtains control of that good or receives the service performed. Sales arrangements with customers are short-term in nature involving single performance obligations related to the delivery of goods and generally provide for transfer of control at the time of shipment. In limited circumstances, where acceptance of the goods is subject to approval by the customer, revenue is recognized upon approval by the customer unless, historically, there have been insignificant rejections of goods by the customer. Contract liabilities associated with sales arrangements primarily relate to deferred revenue on prepaid sales of goods. Greystone generally purchases damaged pallets from its customers which are reground and used in Greystone’s pallet production process; however, damaged pallet purchases are historically insignificant.
+Income Taxes
+Greystone accounts for income taxes under the liability method, which requires recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the consolidated financial statements or tax returns. Under this method, deferred tax assets and liabilities are determined based on the difference between the consolidated financial statements and tax bases of assets and liabilities and tax loss carryforwards using enacted tax rates in effect for the year in which the differences are expected to reverse.
+Earnings Per Share
+Basic earnings per share is computed by dividing the earnings available to common stockholders by the weighted average number of common shares outstanding for the year. In arriving at income available to common stockholders, income attributable to non-controlling interest and preferred stock dividends are deducted from net income for the year. Diluted earnings per share is calculated by dividing net income attributable to common stockholders plus preferred dividends, unless the assumed conversion of the preferred stock is anti-dilutive, by the weighted-average number of common shares used in the basic earnings per share calculation plus the number of common shares that would be issued assuming exercise or conversion of all potentially dilutive common shares outstanding.
+Reclassifications
+Certain reclassifications have been made to the 2024 consolidated financial statements to conform to the 2025 consolidated financial statements presentation. These reclassifications ad no effect on net earnings.
+F-9
+Table of Contents
+Note 2.
+EARNINGS PER SHARE
+Basic and diluted earnings per share of common stock for the years ended May 31, are as follows:
+Basic earnings per share of common stock:
+May 31,
+May 31,
+2025
+2024
+Numerator -
+Net income attributable to common stockholders
+$
+1,922,297
+$
+4,440,265
+Denominator -
+Weighted-average shares outstanding - basic
+28,063,545
+28,279,701
+Income per share of common stock - basic
+$
+0.07
+$
+0.16
+Diluted earnings per share of common stock:
+Numerator -
+Net income attributable to common stockholders
+$
+1,922,297
+$
+4,440,265
+Denominator -
+Weighted-average shares outstanding - basic
+28,063,545
+28,279,701
+Incremental shares from assumed conversion of options warrants and preferred stock, as appropriate
+495,815
+495,283
+Weighted average common stock outstanding - diluted
+28,559,360
+28,774,984
+Income per share of common stock - diluted
+$
+0.07
+$
+0.15
+Greystone's Series 2003 preferred stock, which is convertible into 3,333,333 shares of common stock, was not included in the computation of diluted earnings per share for the fiscal year 2024 as the effect would have been antidilutive. As of May 31, 2025, all preferred stock had been retired and was therefore not included in the computation.
+Note 3.
+INVENTORY
+Inventory consists of the following as of May 31:
+May 31,
+May 31,
+2025
+2024
+Raw materials
+$
+2,137,159
+$
+2,040,348
+Finished goods
+1,346,879
+1,831,278
+Total inventory
+$
+3,484,038
+$
+3,871,626
+F-10
+Table of Contents
+Note 4.
+PROPERTY, PLANT AND EQUIPMENT
+A summary of the property, plant and equipment for Greystone is as follows, as of May 31:
+May 31,
+May 31,
+2025
+2024
+Production machinery and equipment
+$
+71,908,843
+$
+68,532,989
+Plant buildings and land
+3,930,207
+2,289,233
+Leasehold improvements
+2,370,743
+1,658,751
+Furniture and fixtures
+542,057
+542,057
+78,751,850
+73,023,030
+Less: Accumulated depreciation and amortization
+(48,706,964
+)
+(42,956,911
+)
+Net Property, Plant and Equipment
+$
+30,044,886
+$
+30,066,119
+Property, plant and equipment includes production equipment with a carrying value of $39,925 and $812,532 which had not been placed in service as of May 31, 2025 and 2024, respectively.
+Depreciation and amortization expense for the fiscal years ended May 31, 2025 and 2024, was $5,767,963 and $5,730,731, respectively.
+In February 2024, one of the Company’s storage warehouses caught fire with damage to finished goods inventory valued at $1,326,752 and the building with a net book value of $161,850. As of May 31, 2024, the Company recorded an insurance receivable of $2,058,602 as an estimate for damage to the inventory and building, which resulted in a gain from the involuntary conversion of $593,647 for the fiscal year ended May 31, 2024. The insurer and Company finalized the claim value for the inventory as well as a prior claim for equipment damage from an electrical storm occurring in December 2022, resulting in an additional gain from the involuntary conversion of $741,821 for the year ended May 31, 2025. All amounts owed related to these claims, reflected in other receivables as of May 31, 2024 on the consolidated balance sheets, were fully funded during the second quarter of fiscal year 2025 by the insurer.
+F-11
+Table of Contents
+Note 5.
+LONG-TERM DEBT
+Long-term debt consists of the following as of May 31, 2025 and 2024:
+May 31, 2025
+May 31, 2024
+Term loans dated July 29, 2022, payable to International Bank of
+Commerce, prime rate of interest plus 0.5% but not less than 4.50% maturing July 29, 2027
+$
+10,502,754
+$
+12,519,501
+Term loan payable to First Interstate Bank, interest rate of 3.70% monthly principal and interest payments of $27,593, due March 19, 2025, secured by certain equipment
+-
+271,061
+Term loan payable to First Interstate Bank, interest rate of 3.50%, monthly principal and interest payments of $5,997, due August 10, 2028, secured by certain real estate
+666,588
+709,916
+Other
+-
+33,964
+Total long-term debt
+11,169,342
+13,534,442
+Debt issuance costs, net of amortization
+(86,335
+)
+(91,494
+)
+Total debt, net of debt issuance costs
+11,083,007
+13,442,948
+Less: Current portion of long-term debt
+(2,249,524
+)
+(2,362,212
+)
+Long-term debt, net of current portion
+$
+8,833,483
+$
+11,080,736
+As of May 31, 2025, the prime rate of interest was 7.50%.
+Debt Issuance Costs consists of the amounts paid to third parties in connection with the issuance and modification of debt instruments. These costs are shown on the consolidated balance sheets as a direct reduction to the related debt instrument. Amortization of these costs is included in interest expense. Greystone recorded amortization of debt issuance costs of $5,159 and $453 for the years ended May 31, 2025 and 2024, respectively.
+Restated and Amended Loan Agreement between Greystone and IBC
+On July 29, 2022, Greystone and GSM (collectively “Borrowers”) and IBC entered into an Amended and Restated Loan Agreement (“IBC Restated Loan Agreement”) that provided for consolidation of certain term loans and a renewed revolver loan.
+The IBC Restated Loan Agreement, dated July 29, 2022, as amended, provided for IBC to make certain term loans to Greystone to consolidate all existing term loans and provide additional funding for the purchase of equipment and renewal of the revolving loan in the aggregate principal amount of $6,000,000 (the “Revolving Loan”), subject to borrowing base limitations. The Revolving Loan has an interest rate of the greater of 7.50% through February 4, 2025 and 6.50% beginning February 5, 2025 or prime rate of interest plus 0.50% (8% as of February 28, 2025) and a maturity date of February 5, 2026. As of May 31, 2025, Greystone’s available revolving loan borrowing capacity was approximately $5,200,000.
+The IBC term loans require equal monthly payments of principal and interest in such amounts sufficient to amortize the principal balance of the loans over the remaining lives. The monthly payments of principal and interest on the IBC term loans may vary due to changes in the prime rate of interest. As of May 31, 2025, the aggregate payments for the IBC term loans are approximately $250,000 per month.
+F-12
+Table of Contents
+The IBC Restated Loan Agreement includes customary events of default, including events of default relating to non-payment of principal and other amounts owing under the IBC Restated Loan Agreement from time to time, inaccuracy of representations, violation of covenants, defaults under other agreements, bankruptcy and similar events, the death of a guarantor, certain material adverse changes relating to a Borrower or guarantor, certain judgments or awards against a Borrower, or government action affecting a Borrower’s or guarantor’s ability to perform under the IBC Restated Loan Agreement or the related loan documents. In addition, without prior written consent, Greystone shall not declare or pay any dividends, redemptions, distributions and withdrawals with respect to its equity interest other than distributions to holders of its preferred stock in the aggregate of $1,000,000 in any fiscal year. Among other things, a default under the IBC Restated Loan Agreement would permit IBC to cease lending funds under the IBC Restated Loan Agreement and require immediate repayment of any outstanding notes with interest and any unpaid accrued fees.
+The IBC Restated Loan Agreement is secured by a lien on substantially all assets of the Borrowers.  Warren F. Kruger, President and CEO, and Robert B. Rosene, Jr. have provided limited guaranties of the Borrowers’ obligations under the IBC Restated Loan Agreement. Mr. Kruger’s guarantee is limited to 32.4% of all debt obligations to IBC. Mr. Rosene’s limited guaranty is the lesser of (i) $3,500,000 less all amounts paid on the principal amount of the loans after the date of the agreement excluding payments on the revolver and (ii) the amount owed to IBC of the loans outstanding from time to time including accrued interest and fees. During 2025, Mr. Rosene was released from his limited guaranty in accordance with the IBC Restated Loan Agreement.
+On February 5, 2024, Greystone and IBC entered into a Second Amendment to the Amended and Restated Loan Agreement. Among other things, the primary terms extended the maturity date of the Revolving Loan from July 29, 2024 to February 5, 2026. In addition, distributions to holders of its preferred stock was raised to $1,000,000. IBC authorized the Greystone stock repurchase plan not to exceed $1,000,000.
+On January 14, 2025, Greystone and IBC entered into a Third Amendment to the Amended and Restated Loan Agreement. The amendment served to limit repurchase of equity interests in Greystone Logistics in an aggregate amount not exceeding $1,000,000 through the period ended May 31, 2026.
+A waiver was obtained related to the current year preferred and common stock repurchases being in excess of the maximum allowable under the credit agreement.
+Loan Agreement with First Interstate Bank
+On August 23, 2021, Greystone and First Interstate Bank entered into a loan agreement (the “FIB Loan Agreement”) in connection with certain prior loans and a mortgage loan to refinance certain land and buildings located in Bettendorf, IA.
+The FIB Loan Agreement includes customary representations and warranties and affirmative and negative covenants which include (i) requiring the Borrowers to maintain a debt service coverage ratio of 1:25 to 1:00 as of the end of each fiscal year end and debt to tangible net worth ratio of 4:00 to 1:00 as of the end of each fiscal year end with a decrease of 0.50 in the ratio each year thereafter until reaching a minimum ratio of 3:00 to 1:00. In addition, the FIB Loan Agreement provides that Greystone shall not, without prior consent of the bank, incur or assume additional indebtedness or capital leases.
+The FIB Loan Agreement is secured by a mortgage on one of Greystone’s warehouses.
+Maturities
+Maturities of Greystone’s long-term debt for the five years subsequent to May 31, 2025, are $2,122,210, $2,305,530, $6,223,688, and $517,914 with $0 due thereafter.
+Note 6.
+LEASES
+Financing Leases
+Financing leases consist of the following as of May 31:
+May 31,
+May 31,
+2025
+2024
+Non-cancellable financing leases
+$
+4,457
+$
+23,143
+Less: Current portion
+(4,457
+)
+(19,171
+)
+Non-cancellable financing leases, net of current portion
+$
+-
+$
+3,972
+The production equipment under the non-cancelable financing leases as of May 31, 2025 and 2024 was as follows:
+May 31,
+May 31,
+2025
+2024
+Production equipment under financing leases
+$
+24,431
+$
+176,565
+Less: Accumulated amortization
+(17,509
+)
+(119,759
+)
+Production equipment under financing leases, net
+$
+6,922
+$
+56,806
+Amortization of the carrying amount of the assets was $4,887 and $24,312 for the years ended May 31, 2025 and 2024, respectively. The amortization was included in depreciation and amortization expense.
+F-13
+Table of Contents
+Operating Leases
+Greystone has four non-cancellable operating leases for (i) equipment with a fifty-two month term and a forty-eight month term and a discount rate of 5.40%, (ii) two buildings on a ten year lease with a five year renewal option and a discount rate of 6.00%, and (iii) office space on a six year lease and a discount rate of 8.50%. The leases are single-term with defined constant monthly rental rates.
+Effective January 1, 2024, Greystone and a related party entered into a non-cancellable six-year lease agreement with one five-year extension for which Greystone recorded a right-of-use asset and liability based on the present value of the lease payments in the amount of $354,041, using a term of seventy two (72) months and a discount rate of 8.50%.
+The outstanding liability for right to use assets under operating leases as of May 31, 2025 and 2024 is as follows:
+May 31,
+May 31,
+2025
+2024
+Liability under operating leases
+$
+5,168,301
+$
+5,453,234
+Less: Current portion
+(303,815
+)
+(286,221
+)
+Long-term portion of liability under operating leases
+$
+4,864,486
+$
+5,167,013
+Lease Summary Information
+For the years ended May 31, 2025 and 2024, a summary of lease activity follows:
+May 31,
+May 31,
+2025
+2024
+Lease Expense
+Financing lease expense -
+Amortization of right-of-use assets
+$
+4,887
+$
+24,312
+Interest on lease liabilities
+487
+1,719
+Operating lease expense
+636,755
+609,976
+Short-term lease expense
+1,506,817
+1,512,438
+Total
+$
+2,148,946
+$
+2,148,445
+Other Information
+Cash paid for amounts included in the measurement of lease liabilities for finance leases -
+Operating cash flows
+$
+487
+$
+26,031
+Financing cash flows
+$
+18,686
+$
+37,342
+Cash paid for amounts included in the measurement of lease liabilities for operating leases -
+Operating cash flows
+$
+610,291
+$
+583,807
+Right-of-use assets obtained in exchange for lease liability -
+Operating leases
+$
+-
+$
+354,041
+Weighted-average remaining lease term (in years) -
+Financing leases
+0.7
+1.2
+Operating leases
+11.7
+12.7
+Weighted-average discount rate -
+Financing leases
+3.0
+%
+4.0
+%
+Operating leases
+6.1
+%
+6.1
+%
+F-14
+Table of Contents
+Future minimum lease payments under non-cancelable operating and financing leases as of May 31, 2025, are approximately:
+Financing
+Operating
+Leases
+Leases
+Twelve months ending May 31, 2026
+$
+4,513
+$
+609,000
+Twelve months ending May 31, 2027
+-
+609,000
+Twelve months ending May 31, 2028
+-
+631,300
+Twelve months ending May 31, 2029
+-
+635,760
+Twelve months ending May 31, 2030
+-
+604,510
+Thereafter
+-
+4,158,580
+Total future minimum lease payments
+4,513
+7,248,150
+Less: Imputed interest
+55
+2,079,849
+Present value of minimum lease payments
+$
+4,457
+$
+5,168,301
+Note 7.
+REVENUE
+Greystone’s principal product is plastic pallets produced from recycled plastic resin. Sales are primarily to customers in the continental United States of America. International sales are made to customers in Canada, Mexico and other Central America countries which totaled 1.7% and 1.6% of total sales in fiscal years 2025 and 2024, respectively.
+Greystone’s customers include stocking and non-stocking distributors and direct sales to end-user customers. Sales to the following categories of customers for the fiscal years 2025 and 2024, respectively, were as follows:
+2025
+2024
+End-user customers
+70
+%
+82
+%
+Distributors
+30
+%
+18
+%
+Advances from a customer pursuant to a contract for the sale of plastics pallets is recognized as deferred revenue. Revenue related to these advances is recognized by Greystone as pallets are shipped to customers. Customer advances received totaled approximately $0 and $818,000 in fiscal years 2025 and 2024, respectively. The unrecognized balance of deferred revenue as of May 31, 2025 and 2024, was $22,964 and $840,945, respectively. The Company recognized $817,981 and $0 as revenue related to advances during the years ended May 31, 2025 and 2024, respectively. At June 1, 2023, accounts receivable and deferred revenue was $4,857,504 and $23,007, respectively.
+F-15
+Table of Contents
+Note 8.
+RELATED PARTY TRANSACTIONS
+Transactions with Warren F. Kruger, Chairman
+Yorktown Management & Financial Services, LLC (“Yorktown”), an entity wholly owned by Greystone’s CEO and President, owns and rents to Greystone (1) grinding equipment used to grind raw materials for Greystone’s pallet production and (2) extruders for pelletizing recycled plastic into pellets for resale and for use as raw material for manufacturing pallets. Greystone compensates Yorktown for the use of equipment as discussed below.
+Rental fees. GSM pays weekly rental fees of $27,500 to Yorktown for grinding equipment and pelletizing equipment. Total rental fees of $1,457,200 were paid in fiscal years 2025 and 2024.
+Yorktown provides administrative office space for Greystone in Tulsa, Oklahoma under a six-year lease at a rental rate of $6,250 per month. Total rent expense was $75,000 and $73,950 for fiscal years 2025 and 2024, respectively.
+Transactions with Greystone Real Estate, L.L.C.
+Greystone Real Estate, L.L.C. (“GRE”) owns two primary manufacturing facilities occupied by Greystone and is wholly owned by a member of Greystone’s Board of Directors. During fiscal year 2025 and 2024, Greystone made total rental payments of $534,000 per year to GRE.
+Effective August 1, 2022, Greystone and GRE entered into a non-cancellable ten-year lease agreement with a five-year extension for the use of these manufacturing facilities at the initial rate of $44,500 per month, increasing 5.00% per month every fifth year.
+Transactions with TriEnda Holdings, L.L.C.
+TriEnda Holdings, L.L.C. (“TriEnda”) is a manufacturer of plastic pallets, protective packaging and dunnage utilizing thermoform processing of which Warren F. Kruger, Greystone’s President and CEO, is the non-executive chairman of the board of directors of Kruger Family Holdings, LLC (“KFH”), which owns a majority interest in TriEnda. Greystone may purchase pallets from TriEnda for resale or sell Greystone pallets to TriEnda. During fiscal year 2025 and 2024, Greystone purchases from TriEnda totaled $81,970 and $7,516, respectively, and sales to TriEnda totaled $517,194 and $279,138, respectively. As of May 31, 2025 and 2024, TriEnda owed $617,538 and $143,290, respectively, to Greystone.
+Transactions with Green Plastic Pallets
+Green Plastic Pallets ("Green") is an entity owned by James Kruger, a brother to Warren Kruger, Greystone's President and CEO. Green purchased pallets from Greystone totaling $367,965 and $240,294 in fiscal years 2025 and 2024, respectively. As of May 31, 2025 and 2024, Green owed $273,345 and $122,280, respectively, to Greystone.
+Note 9.
+INCOME TAXES
+Deferred taxes as of May 31, 2025 and 2024 are as follows:
+May 31,
+May 31,
+2025
+2024
+Deferred tax asset:
+Net operating loss carryforward
+$
+-
+$
+1,051,595
+Other
+179,295
+57,293
+Total deferred tax asset
+179,295
+1,108,888
+Deferred tax liability:
+Depreciation and amortization recognized for tax in excess of financial
+(4,804,317
+)
+(5,160,509
+)
+Deferred rent adjustments
+(1,167,327
+)
+-
+Valuation allowance
+-
+(793,337
+)
+Net deferred tax liability
+$
+(5,792,349
+)
+$
+(4,844,958
+)
+F-16
+Table of Contents
+A deferred tax asset is recognized for tax-deductible temporary differences and operating losses using the applicable enacted tax rate. In assessing the realizability of deferred tax assets, management considers the likelihood of whether it is more likely than not the net deferred tax asset will be realized. Based on this evaluation, management will provide a valuation allowance if it is determined more likely than not the associated asset will not be recognized. Based on this, management has determined that Greystone will be able to realize the full effect of the deferred tax assets as of May 31, 2025, and, accordingly, no valuation allowance was recorded. As of May 31, 2024, management determined that Greystone will not be able to realize the full effect of deferred taxes and a valuation allowance of $793,337 was recorded. All remaining NOLs are anticipated to expire or be utilized during the current fiscal year.
+The net change in deferred taxes for the year ended May 31, 2025 and 2024, is as follows:
+2025
+2024
+Net operating loss carryforward
+$
+(1,051,595
+)
+$
+(1,033,000
+)
+Depreciation and amortization, tax reporting in excess of financial
+356,192
+(11,073
+)
+Interest expense carryforward
+-
+(172,126
+)
+Deferred rent adjustments
+(1,167,327
+)
+-
+Valuation allowance
+793,337
+251,024
+Other
+122,002
+25,496
+Net change
+$
+(947,391
+)
+$
+(939,679
+)
+The provision for income taxes as of May 31, 2025 and 2024 consists of the following:
+2025
+2024
+Current income tax:
+Federal
+$
+110,115
+$
+282,153
+State
+48,959
+(190,628
+)
+Deferred income tax
+947,391
+939,679
+Provision for income taxes
+$
+1,106,465
+$
+1,031,204
+Greystone's provision for income taxes for the years ended May 31, 2025 and 2024 differs from the federal statutory rate as follows:
+2025
+2024
+Tax provision using statutory rates
+21
+%
+21
+%
+State income taxes
+6
+8
+Permanent differences
+8
+-
+Change in state rates
+0
+(10
+)
+Change in valuation allowance
+(3
+)
+(2
+)
+Tax provision per consolidated financial statements
+32
+%
+17
+%
+F-17
+Table of Contents
+Note 10.
+STOCKHOLDERS' EQUITY
+Convertible Preferred Stock
+In September 2003, Greystone issued 50,000 shares of Series 2003, cumulative, convertible preferred stock, par value $0.0001, for a total purchase price of $5,000,000. Each share of the preferred stock has a stated value of $100 and a dividend rate equal to the prime rate of interest plus 3.25% (10.75% as of May 31, 2025) and may be converted into common stock at the conversion rate of $1.50 per share or an aggregate of 3,333,333 shares of common stock. The holders of the preferred stock have been granted certain voting rights so that such holder has the right to elect a majority of the Board of Directors of Greystone. Preferred stock dividends are limited under the IBC Restated Loan Agreement, see Note 5, and must be fully paid before a dividend on the common stock may be paid. As of May 31, 2025, the Company has paid $5,000,000 to retire all outstanding preferred shares.
+Warrants to Purchase Common Stock
+On September 1, 2016, the Company issued a warrant to purchase 250,000 shares of Greystone’s common stock for $0.01 per share to each of Warren F. Kruger, President and CEO, and Robert B. Rosene, Jr., a member of Greystone’s Board of Directors, as compensation for providing guarantees on Greystone’s debt with IBC. The warrants are vested and expire January 10, 2027.
+Note 11.
+RETIREMENT PLAN
+Greystone implemented a defined contribution and profit-sharing plan effective January 1, 2019. The defined contribution plan is an Internal Revenue Code of 1986, as amended, Section 401(k) plan. Greystone matches employee contributions up to 6% of employee contributions with a maximum employer contribution of 4% based on 100% of the first 3% and 50% of the next 2%. The employee is 100% vested for employer contributions to the 401(k) plan. Greystone’s contributions to the 401(k) plan totaled $295,075 and $292,361 in the fiscal years ended May 31, 2025 and 2024, respectively.
+The profit-sharing plan is an employer nonelective plan. Greystone’s contributions are discretionary. Vesting is earned ratably over a five-year period. Greystone has not authorized or made any discretionary contributions since inception.
+F-18
+Table of Contents
+Note 12.
+FINANCIAL INSTRUMENTS
+The following methods and assumptions are used in estimating the fair-value disclosures for financial instruments:
+Cash, Accounts Receivable and Accounts Payable: The carrying amounts reported in the consolidated balance sheets for cash, accounts receivable and accounts payable approximate fair value due to the short-term maturity of these instruments.
+Long-Term Debt: The carrying amount of loans with floating rates of interest approximate fair value. Fixed rate loans are valued based on cash flows using estimated rates for comparable loans. As of May 31, 2025 and 2024, the carrying amounts reported in the consolidated balance sheets approximate fair value for the variable and fixed rate loans.
+Note 13.
+SUPPLEMENTAL INFORMATION OF CASH FLOWS
+Supplemental information of cash flows for the years ended May 31, 2025 and 2024:
+2025
+2024
+Non-cash investing and financing activities:
+Right of use assets under operating leases
+$
+-
+$
+354,041
+Equipment in Accounts Payable
+$
+-
+$
+161,280
+Preferred dividend accrual
+$
+1,610
+$
+-
+Supplemental information:
+Interest paid
+$
+1,029,076
+$
+1,291,938
+Income taxes paid
+$
+149,393
+$
+-
+Note 14.
+CONCENTRATIONS, RISKS AND UNCERTAINTIES
+For the fiscal years 2025 and 2024, Greystone’s major customers, varying from three to four, accounted for approximately 76% and 81% of total sales, respectively.
+Greystone purchases damaged pallets from its customers at a price based on the value of the raw material content of the pallet. Most of these purchases are from one of Greystone’s major customers which totaled approximately $627,000 and $769,000 in fiscal years 2025 and 2024, respectively.
+Greystone is subject to litigation, claims and other commitments and contingencies arising in the ordinary course of business. Although the asserted value of these matters may be significant, the company currently does not expect that the ultimate resolution of any open matters will have a material adverse effect on its consolidated financial position or results of operations.
+Note 15.
+COMMITMENTS
+As of May 31, 2025, Greystone had outstanding commitments totaling $39,925 for the acquisition of equipment.
+F-19

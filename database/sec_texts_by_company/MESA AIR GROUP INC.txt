@@ -1,0 +1,734 @@
+10-K/A
+Table of Contents
+NVAZ0000810332FYtrue
+0000810332
+2023-10-01 2024-09-30
+0000810332
+2024-03-31
+0000810332
+2025-06-20
+iso4217:USD
+xbrli:shares   UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549   FORM 10-K/A Amendment No. 1
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended September 30, 2024 OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from      to      . Commission file number 001-38626   MESA AIR GROUP, INC. (Exact name of registrant as specified in its charter)
+NEVADA
+85-0302351
+(State or other jurisdiction ofincorporation or organization)
+(I.R.S. EmployerIdentification No.)
+410 NORTH 44TH STREET, SUITE 700PHOENIX, ARIZONA 85008
+85008
+(Address of principal executive offices)
+(Zip Code)(602) 685-4000 Registrant’s telephone number, including area code Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange of Which Registered
+Common Stock, no par value
+MESA
+Nasdaq Capital MarketSecurities registered pursuant to section 12(g) of the Act: None   Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☐
+Emerging growth company
+☐If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10-D-1(b). ☐ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒ As of March 31, 2024, the last business day of the registrant’s most recently completed second fiscal quarter, the aggregate market value the voting and non-voting stock held by non-affiliates of the registrant was approximately $36,231,551. As of June 20, 2025, the registrant had 41,861,544 shares of common stock, no par value per share, issued and outstanding. DOCUMENTS INCORPORATED BY REFERENCE None.    EXPLANATORY NOTE Mesa Air Group, Inc. (“Mesa,” the “Company,” “we,” “us,” or “our”) is filing this Amendment No. 1 on Form 10-K/A (this “Amendment”) to amend our Annual Report on Form 10-K for the fiscal year ended September 30, 2024, originally filed with the Securities and Exchange Commission (the “SEC”) on May 14, 2025 (the “Original Filing”), as follows:
+•
+to include Items 10, 11, 12, 13 and 14 of Part III of Form 10-K. We previously omitted this information from the Original Filing in reliance on General Instruction G(3) to Form 10-K, which permits the above-referenced items to be incorporated in our Form 10-K by reference to our definitive proxy statement if such statement is filed no later than 120 days after our fiscal year-end. We are filing this Amendment to provide the information required in Part III of Form 10-K because we will not file a definitive proxy statement containing that information within 120 days after the end of the fiscal year covered by the Original Filing;
+•
+to include additional exhibits in Item 15 of Part IV of the Original Filing required by Item 601 of Regulation S-K, and to ensure that all material agreements and other documents entered into and disclosed after the end of the fiscal year on Form 8-K, but prior to the filing of this Amendment, are incorporated into our Annual Report; and
+•
+to file new certifications of our principal executive officer and principal financial officer as exhibits to this Amendment under Item 15 of Part IV hereof, pursuant to Rule 12b-15 under the Securities Exchange Act of 1934, as amended (“Exchange Act”). Because no financial statements are contained within this Amendment, we are not including certifications pursuant to Section 906 of The Sarbanes-Oxley Act of 2002. This Amendment amends and restates in their entirety Items 10, 11, 12, 13, 14 and 15 of Part III of the Original Filing. The cover page of the Original Filing is also amended to delete the reference to the incorporation by reference to our definitive proxy statement. This Amendment does not otherwise change or update any of the disclosures set forth in the Original Filing and does not otherwise reflect any events occurring after the filing of the Original Filing. Accordingly, this Amendment should be read in conjunction with the Original Filings and the Company’s filings made with the SEC subsequent to the filing of the Original Filing. Capitalized terms used herein and not otherwise defined are set forth in the Original Filing.  2
+Table of Contents
+MESA AIR GROUP, INC.
+AMENDMENT NO. 1 ON FORM 10-K/A
+For the Fiscal Year Ended September 30, 2024
+INDEX
+PART III
+4
+Item 10. Directors, Executive Officers and Corporate Governance
+4
+Item 11. Executive Compensation
+9
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+25
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+27
+Item 14. Principal Accounting Fees and Services
+28
+PART IV
+30
+Item 15. Exhibits, Financial Statement Schedules
+30
+3
+Table of Contents
+PART III Item 10. Directors, Executive Officers and Corporate Governance Set forth below is the name, age, position and a description of the business experience of each of our executive officers and each of our directors as of September 30, 2024: Directors Ellen N. Artist
+Age:
+69
+Director Since:
+2011
+Committees:
+Audit Committee Chair; Audit Committee Financial Expert; member of our Nominating; and Corporate Governance Committee
+Principal Occupation:
+Principal, ENA Advisors, LLC
+Experience:
+Ms. Artist has more than 35 years of experience in aviation finance as a bankruptcy trustee, financial advisor, financial principal and commercial lender. Ms. Artist has served as Principal of ENA Advisors since July 2005. Ms. Artist led the out-of-court restructuring of lease and loan obligations for both Independence Air and American Airlines, Inc. During the course of her career, Ms. Artist has been involved in more than $10 billion in aviation, debt, equity and lease placements. Ms. Artist was formerly a founding partner at both The Seabury Group, LLC, from 1996 to 2002, and Sky Works Capital, LLC, from 2002 to 2005, two investment banking boutiques specializing in aviation activities. Other areas of expertise for Ms. Artist include claims resolution, trust accounting, litigation and interaction with counsel. Ms. Artist is a graduate of Northwestern University with a B.A. in Economics and received an M.B.A. with distinction from New York University specializing in Finance and Accounting. We believe Ms. Artist is qualified to serve on our Board due to her experience in the aviation industry, her financial expertise and general business expertise.
+Other Directorships:
+NoneMitchell I. Gordon
+Age:
+68
+Director Since:
+2011
+Committees:
+Member of our Audit and Compensation Committees
+Principal Occupation:
+Chief Executive Officer, Edition Capital Partners, LLC & Adgile Media Group, LLC
+Experience:
+Mr. Gordon has more than 30 years of experience in transportation, finance and general business management. He has served as the chief executive officer of Edition Capital Partners, LLC, a merchant banking firm, since January 2016, and Adgile Media Group, LLC, a mobile advertising company, from August 2019 to May 2023. Mr. Gordon was the chief executive officer of Edition Logistics Management, LLC, a transportation sector investment and management firm from June 2018 to July 2019. Mr. Gordon was the president, chief financial officer and director of Cambridge Capital Acquisition Corporation, a special purpose acquisition company (the “SPAC”), from December 2013 to December 2015. In 2016, the SPAC merged with and into an Israeli company, Ability Computer & 4 Table of Contents
+Software Industries, Ltd., which changed its name to Ability Inc. (“Ability”). Mr. Gordon served as an Ability director and audit committee member until 2016. Mr. Gordon also served as president of Morpheus Capital Advisors, a leading merchant banking firm serving middle market companies, from 2003 to 2013. From 1998 to 2000, Mr. Gordon served as chief financial officer, executive vice president and a member of the Office of the President of Interpool (NYSE: IPX), one of the world’s largest lessors of transportation equipment. Prior to joining Interpool, Mr. Gordon founded and was president of Atlas Capital Partners from 2000 to 2003 and was managing director and co-head of Salomon Smith Barney’s transportation investment banking group. Mr. Gordon’s background also includes serving as senior vice president and head of the transportation and automotive investment groups at Furman Selz as well as vice president of investment banking at Needham & Company. Mr. Gordon has served on the boards of Interpool, Indigo Aviation (NSE: INDIGO), Merchants Fleet, Almedica, Inc., Edition Logistic Management, Ability Inc., and Cambridge Capital Acquisition Corp. He has served on numerous nonprofit boards and is currently the chair of the Hunter College Community Advisory Board and on the board of HIAS, Inc. Mr. Gordon holds a B.S.B.A. from Washington University and an M.B.A. from Harvard Business School. We believe Mr. Gordon is qualified to serve on our Board due to his experience in the transportation industry, his financial expertise and his general business experience.
+Other Directorships:
+Mr. Gordon currently serves on the board of HIAS, Inc., a non-profit organization, and as the Chair of the Hunter College Community Advisory Board.Dana J. Lockhart
+Age:
+77
+Director Since:
+2011
+Committees:
+Member of our Audit Committee
+Principal Occupation:
+Retired
+Experience:
+Mr. Lockhart is a retired commercial aerospace executive. His experience includes over 40 years in various finance functions at major aircraft manufacturers Airbus, Lockheed and Fairchild Industries. At each company, his responsibilities included leading teams that provided leasing and other product financings services to the manufacturer’s commercial aircraft customers. He retired from Airbus in 2008, having held the position of chief financial officer of the Airbus Americas group of companies. During 2008 and 2009, he led the capital markets function of aircraft lessor GMT Global Republic Aviation. Since 2009, Mr. Lockhart has provided consulting services in the financing and procurement of civil aircraft. Mr. Lockhart holds a B.S. in Business Administration from California State University and an M.B.A. from Pepperdine University. We believe Mr. Lockhart is qualified to serve on our Board due to his experience in our industry with airlines and aircraft manufacturers.
+Other Directorships:
+NoneJonathan G. Ornstein
+Age:
+68
+Director Since:
+1998 5 Table of Contents
+Committees:
+None
+Principal Occupation:
+Chairman and Chief Executive Officer, Mesa Air Group, Inc.
+Experience:
+Mr. Ornstein has been with us since being named President and Chief Executive Officer in 1998, and Chairman of the Board in 1999. Mr. Ornstein co-founded Virgin Express S.A./N.V., an airline in Brussels, Belgium, where he served as chief executive officer and chairman from 1995 until 1999. In 1994, Mr. Ornstein served as chief executive officer of Continental Express, and was later named senior vice president of airport services for Continental Airlines. Mr. Ornstein’s first tenure with us was from 1988 to 1994, serving as our Executive Vice President and President of our then-wholly owned subsidiary WestAir Holding, Inc. Mr. Ornstein began his career in aviation in 1986 with AirLA, a commuter airline in Los Angeles. Mr. Ornstein attended the University of Pennsylvania. We believe Mr. Ornstein is qualified to serve on our Board due to his extensive executive leadership and operational experience in the regional airline industry.
+Other Directorships:
+NoneSpyridon P Skiados
+Age:
+79
+Director Since:
+2011
+Committees:
+Nominating and Corporate Governance Committee Chair
+Principal Occupation:
+President, Leadership Communications & Training, LLC, and Meetings-Nine One, LLC
+Experience:
+Mr. Skiados has served as the president of Leadership Communications & Training, an aviation industry consulting company with a focus on advising boards of directors on proper governance procedures, management and labor relations and strategic planning, since July 2009. Prior to retiring in June 2009, Mr. Skiados served as the executive director of the Air Line Pilots Association (the “ALPA”), the world’s largest pilots’ union. He had previously served as the ALPA’s director of communication and was continuously employed by the ALPA for 40 years. Mr. Skiados is the recipient of the National Aeronautics Association’s Wesley L. McDonald Distinguished Statesperson of Aviation Award, the Paul Whalen Education Award for his role in the formation of the Council on Aviation Accreditation (now known as the Aviation Accreditation Board International (“AABI”), and the Richard W. Taylor Industry Award, which is presented annually to a member of AABI who volunteers time and effort to further the goals of that organization. Mr. Skiados has successfully completed the Wharton Executive Development Program at the Wharton School, University of Pennsylvania, and attended the University of Maryland. We believe Mr. Skiados is qualified to serve on our Board due to his corporate governance expertise, labor and management expertise and general and airline business experience.
+Other Directorships:
+NoneBrigadier General Harvey W. Schiller, USAF, Ret.
+Age:
+86
+Director Since:
+2011 6 Table of Contents
+Committees:
+Presiding Independent Director; Compensation Committee Chair; member of our Nominating and Corporate Governance Committee
+Principal Occupation:
+Chief Executive Officer of Goal Acquisitions Corp.; Chairman of Schiller Management Group
+Experience:
+Mr. Schiller has a varied history of experience that includes a decorated military career as a pilot and various leadership positions in business and sports. He currently serves as the CEO of Goal Acquisitions Corp. and has served as the Chairman of Schiller Management Group since 2012. He has also served as a senior adviser of Diversified Search, an executive search firm, since 2012. Mr. Schiller previously served as the president of Turner Sports, president of the Atlanta Thrasher NHL Club, executive director of the U.S. Olympic Committee, commissioner of the America’s Cup, commissioner of the Southeastern Conference and chairman of the security company Global Options Group. He has served on the national board of directors for the Boys and Girls Clubs and as director of IDT Corporation. Mr. Schiller previously served as the Chairman for Collegiate Sports Management Group. Mr. Schiller was appointed as permanent professor at the United States Air Force Academy and the White House Commission on Presidential Scholars. Mr. Schiller is a graduate of The Citadel and earned a PhD in Chemistry from the University of Michigan. We believe Mr. Schiller is qualified to serve on our Board due to his extensive general business experience.
+Other Directorships:
+Mr. Schiller currently serves as the Chairman of SportsGird, Inc., Charlestowne Holdings, Medal of Honor Leadership and Education, and Schiller Management Group. Mr. Schiller also serves on the boards of various non-profit organizations including the Baseball Hall of Fame and the Air Force Academy Athletic Corporation.Executive Officers The table below sets forth biographical information for each of our executive officers not discussed above, as of the date of this proxy statement:
+Name
+Age
+Position
+Michael J. Lotz
+65
+President and Chief Financial Officer
+Brian S. Gillman
+56
+Executive Vice President, General Counsel and SecretaryMichael J. Lotz. Mr. Lotz serves as our President and Chief Financial Officer, and has been with us since 1998, serving as President since 2000. Mr. Lotz also served as our Chief Financial Officer from 1998 to October 1, 2021. From 1995 to 1998, Mr. Lotz worked with Mr. Ornstein, first at Continental Express as senior director of purchasing, later as vice president of airport operations, and then at Virgin Express S.A./N.V. in Brussels as chief operating officer, where the two eventually took the company public. From 1987 to 1995, Mr. Lotz served in various roles at Continental Airlines, ultimately serving as senior director of contract services and airport administration. Mr. Lotz received a B.B.A. in Financial Accounting from Iona College. Brian S. Gillman. Mr. Gillman has served as our Executive Vice President, General Counsel and Secretary since 2013. From February 2011 to September 2013, Mr. Gillman served as executive vice president and general counsel at Global Aviation Holdings Inc. From 2001 to February 2011, Mr. Gillman served as our Executive Vice President and General Counsel. From 1996 to 2001, Mr. Gillman was vice president, general counsel and secretary at Vanguard Airlines, Inc. in Kansas City, Missouri. From 1994 to 1996, Mr. Gillman practiced corporate and securities law at Stinson, Mag & Fizzell, P.C. (now known as Stinson Leonard Street LLP) in Kansas City, Missouri. Mr. Gillman received his J.D. and B.B.A. in Accounting from the University of Iowa.  7 Table of ContentsFamily Relationships There are no family relationships between any director, executive officer, or person nominated or chosen to be a director or officer. Delinquent Section 16(a) Reports Section 16(a) of the Exchange Act requires our directors, executive officers and greater than 10% stockholders to file reports of holdings and transactions in our shares with the SEC. For the fiscal year ended September 30, 2024, to our knowledge and based solely on a review of copies of reports furnished to us, or written representations, we believe that the applicable reporting requirements of Section 16(a) have been satisfied. Code of Ethics The Board of Directors has adopted a Code of Ethics for all employees, as recommended by the Nominating and Governance Committee. A copy of this Code of Ethics may be viewed on our website at www.mesa-air.com, or obtained at no charge by written request to our Corporate Secretary. We intend to disclose any amendment to our Code of Ethics on the above-referenced corporate website. Audit Committee Our Audit Committee consists of Ms. Artist and Messrs. Gordon and Lockhart, with Ms. Artist serving as our Audit Committee Chair. Pursuant to our Audit Committee charter, Audit Committee membership shall consist of at least three Board members, all of whom qualify as independent within the meaning of our Corporate Governance Guidelines and satisfy the independence requirements of the Nasdaq Listing Rules and Rule 10A-3(b)(1) under the Exchange Act. Our Audit Committee charter also requires members to have financial literacy and familiarity with fundamental financial statements that would allow them to understand key business and financial controls in the primary industries in which we operate. Our Board has determined that Ms. Artist and Messrs. Gordon and Lockhart are independent under the Nasdaq Listing Rules and Rule 10A-3(b)(1) under the Exchange Act. In addition, our Board has determined that Ms. Artist is an “audit committee financial expert” within the meaning of SEC regulations. Our Board has also determined that each member of our Audit Committee can read and understand fundamental financial statements in accordance with applicable requirements. In arriving at these determinations, our Board has examined each Audit Committee member’s scope of experience and the nature of his or her employment in the corporate finance sector. The primary purpose of our Audit Committee is to discharge the responsibilities of our Board with respect to our accounting, financial and other reporting and internal control practices and to oversee our independent registered public accounting firm. Specific responsibilities of our Audit Committee include:
+•
+selecting a qualified firm to serve as our independent registered public accounting firm to audit our financial statements;
+•
+helping to ensure the independence and performance of our independent registered public accounting firm;
+•
+discussing the scope and results of the audit with our independent registered public accounting firm, and reviewing, with management and the independent registered public accounting firm, our interim and year-end operating results;  8 Table of Contents
+•
+developing procedures for employees to anonymously submit concerns about questionable accounting or audit matters;
+•
+reviewing our policies on risk assessment and risk management;
+•
+reviewing related party transactions;
+•
+obtaining and reviewing a report by our independent registered public accounting firm at least annually that describes our internal quality control procedures, any material issues with such procedures and any steps taken to deal with such issues when required by applicable law;
+•
+approving (or, as permitted, pre-approving) all audit and all permissible non-audit services, other than de minimis non-audit services, to be performed by our independent registered public accounting firm; and
+•
+oversight of our cyber security risk management programs. Anti-Hedging and Anti-Pledging Policy In connection with our initial public offering in 2018, we adopted an insider trading policy intended to promote compliance with insider trading laws, rules and regulations and applicable Nasdaq Listing Rules and standards that includes restrictions and limitations on the ability of the Company’s directors, officers and other employees to engage in transactions involving the hedging and pledging of Company stock. Under the policy, hedging or monetization transactions, such as zero-cost collars, prepaid variable forwards, equity swaps, puts, calls, collars, forwards and other derivative instruments, which allow an employee to lock in much of the value of his or her stock holdings, often in exchange for all or part of the potential for upside appreciation in the stock, and thus to continue to own Company stock without the full risks and rewards of ownership, are prohibited. In addition, the policy addresses the practices of holding Company stock in a margin account, under which the securities may be sold by the broker without the customer’s consent if the customer fails to meet a margin call, and of pledging Company stock as collateral for a loan, in which event the securities may be sold in foreclosure if the borrower defaults on the loan. Because a margin sale or foreclosure sale may occur at a time when the pledgor is aware of material nonpublic information or otherwise is not permitted to trade in Company securities, directors, officers and other employees of the Company are prohibited from holding Company securities in a margin account or pledging Company securities as collateral for a loan. Item 11. Executive Compensation Compensation Committee Report The Compensation Committee (the “Compensation Committee”) has reviewed and discussed the following Compensation Discussion and Analysis (the “CD&A”) and discussed it with management. Based on its review and discussion with management, the Committee recommended to the Board of Directors that the CD&A be included in the Company’s Annual Report on Form 10-K. This report is provided by the following independent directors, who comprise the Committee: Harvey W. Schiller, Chairman Mitchell I. Gordon      Compensation Discussion and Analysis The following discussion and analysis should be read in conjunction with “Compensation of Named Executive Officers” and the related tables that follow.  9 Table of ContentsIn this section, we describe the material components of our executive compensation program for our named executive officers (“NEOs”), whose compensation is set forth in the 2024 Summary Compensation Table and other compensation tables contained herein. The rules regarding disclosure of certain executive compensation in proxy statements and in other filings permitted the omission of this CD&A during the period we were classified as an emerging growth company. We ceased to qualify as an emerging growth company in 2023. Accordingly, the information set forth herein is not directly comparable to the information disclosed in our prior proxy statements. For our 2024 fiscal year, our NEOs were:
+•
+Jonathan G. Ornstein, our Chairman and CEO
+•
+Michael J. Lotz, our President and CFO
+•
+Brian S. Gillman, our Executive Vice President and General Counsel Until fiscal year 2023, the Company qualified as an emerging growth company, which permitted disclosure for only three NEOs (including the CEO) and the omission of the formal CD&A. Effective with the filing of the Company’s proxy statement for its 2024 annual shareholders meeting, the Company became required to disclose its three most highly compensated executive officers (other than the CEO and CFO), who were serving as an executive officer during fiscal year 2024, as well as this CD&A. As you read the disclosure below regarding our executive compensation philosophy, objectives, and practices, you should keep in mind the limitations imposed upon the Company as a result of its participation in a U.S. government loan program during COVID. Specifically, in October 2020, we entered into the Loan and Guarantee Agreement with The United States Department of the Treasury (the “U.S. Treasury”), which provided for a secured term loan facility of up to $200 million (the “Treasury Loan Agreement”). We ultimately borrowed $195 million under that facility. Under the terms of the Treasury Loan Agreement, we are required to comply with certain covenants that restrict changes to the total compensation of certain of our executive officers whose compensation exceeds a specified threshold. These restrictions are set forth under Title IV of the CARES Act and in Section 10.05 of the Treasury Loan Agreement. As such, the Company is restricted in its ability to alter (increase) the total compensation for Messrs. Ornstein, Lotz, or Gillman while such agreement remains in effect and for a period of 12 months thereafter. Accordingly, what is discussed below relates primarily to the Company’s executive compensation policies and practices in the period prior to our entry into the Treasury Loan Agreement. Our Compensation Practices Highlights Executive Compensation Philosophy and Objectives The Company’s executive compensation policies, as endorsed by the Compensation Committee, are based on the principles that compensation should, to a significant extent, be reflective of the financial performance of the Company, and that a significant portion of executive officers’ compensation should be provided through long-term incentives. The Compensation Committee seeks to have compensation of the Company’s executive officers set at levels that are sufficiently competitive so that the Company may attract, retain and motivate highly qualified directors and executive officers to contribute to the Company’s success. In assessing the overall compensation for executive officers, the Committee will consider the Company’s performance, relative shareholder return and industry position, market compensation data, awards given to the Company’s executive officers in past years, and the recommendations of third-party consultants. The Company seeks to provide a balanced compensation program consisting of base salaries, cash incentives, equity-based incentives, perquisites and deferred compensation, but to emphasize incentive compensation that will:
+•
+be competitive in the marketplace;
+•
+permit us to attract and retain highly qualified executives;
+•
+encourage extraordinary effort on behalf of the Company;  10 Table of Contents
+•
+reward the achievement of specific financial goals by the Company, which alights the interests of management with the interests of our shareholders; and
+•
+be financially sound. The Company strives to allocate a significant percentage of total compensation to incentive compensation. The more responsibility executives have over time, the more their pay is determined by the degree to which certain performance goals are reached. We refer to that part of compensation as “at risk” pay and it is a fundamental way in which the Company aligns executive pay with shareholder interests. For example, as described in greater detail below, for our senior executive officers’ cash incentive bonuses can equal a significant percentage of base salary if maximum performance thresholds are achieved. This compensation philosophy translates into the following two principles in our executive compensation design:
+•
+Base salary should decrease as a percentage of total direct compensation as the executive’s responsibilities increase. As employees move to higher levels of responsibility with more direct influence over the Company’s performance, they have a higher percentage of at risk pay.
+•
+The ratio of long-term incentive compensation (equity) to short-term incentive compensation (cash) should increase as the executive’s responsibilities increase. We expect our executives to focus on the Company’s long-term success in achieving profitable growth and generating greater shareholder return. The compensation program is designed to motivate executives to take actions best aligned toward achieving such goals. Executives in positions that most directly affect corporate performance should have as their main priority profitably growing the Company. Receiving part of their compensation in the form of equity reinforces the link between their actions and shareholders’ investment. Equity ownership encourages executives to behave like owners and provides a clear link with shareholders’ interests. The Company believes that its compensation policies have been, thus far, successful in motivating and retaining its executive officers. Role of the Compensation Committee and Management in Setting Compensation Role of the Compensation Committee The compensation of our named executive officers is determined and approved by our Compensation Committee. The Compensation Committee primarily administers the Company’s cash compensation plans and employee stock option and award plans, and it has the responsibility for recommending the allocation of cash and other compensation, as well as equity awards and discretionary bonuses to senior executive officers of the Company. The entire Board of Directors regularly reviews the Compensation Committee decisions relating to executive compensation. The Compensation Committee currently consists of two non-employee directors, Messrs. Schiller and Gordan, both of whom are “independent” according to Nasdaq Listing Rules and “disinterested” as required by Rule 16b-3 of the Exchange Act. Role of Management At the beginning of each fiscal year, our CEO evaluates the performance of our President; and the CEO and President evaluate the performance of the other executive officers against the strategic operating plan for the prior fiscal year. In addition, the CEO’s and the President’s evaluations of individual performance also focus on executive officers’ leadership abilities, including their professional development and mentoring of their direct reports. This additional evaluation is carried out by evaluating, on a quarterly basis, each executive officer’s performance against a set of qualitative performance objectives mutually set and agreed upon by the executive officer and the CEO or President, as the case may be.  11 Table of ContentsThe CEO and President then develop compensation recommendations for the other executive officers. Factors that are weighted in making individual target compensation recommendations include:
+•
+the performance review conducted by the CEO and/or the President;
+•
+value of the job in the marketplace;
+•
+relative importance of the position within the Company;
+•
+individual tenure and experience; and
+•
+individual contributions to the Company’s results. The CEO or President’s review of an executive officer’s performance with respect to his or her performance factors is not directly tied to the executive officer’s compensation. Such reviews, however, heavily influence the CEO’s and/or President’s assessment of an executive officer’s readiness for the types of responsibilities typically associated with a particular position. Once an executive officer’s role and responsibilities are defined, “value of the job in the marketplace” and “relative importance of the position within the executive ranks” are the most determinative factors in setting the proper compensation plan for that executive officer, adjusted to take into consideration the executive officer’s tenure and experience. At the Compensation Committee’s regularly scheduled meeting in December, the Compensation Committee reviews and considers the CEO and President’s compensation recommendations for each executive officer. The other executive officers, except as described above, do not play a role in setting executive officer compensation. Compensation Methodologies; Role of Consultants and Benchmarking The Compensation Committee periodically assembles, with the assistance of independent executive compensation consultants, competitive market information about executive compensation from a periodic review of companies included in a peer group, other competitive market compensation information, executive compensation trends, our business needs, and our financial performance compared to peers. The Compensation Committee reviews this competitive information together with performance assessments of our executives and recommendations provided by the CEO and President. While the Committee previously engaged a compensation consultant in connection with setting the compensation for Messrs. Ornstein and Lotz when the Company entered into their respective employment agreements in 2018, it has not utilized a compensation consultant since that time. The base salaries and incentive compensation set forth in such agreements have not yet, with the exception that the Company’s NEOs have been paid less incentive compensation then they were contractually entitled to under the terms of such agreements. See the disclosure in the footnotes to the “Summary Compensation Table” for a discussion regarding the incentive compensation payments. Historically, the Compensation Committee’s goal is to set executive officers’ compensation levels to fall within the median to upper quintiles of surveyed companies, with guaranteed salary levels to remain reasonably consistent with median to upper quintile rates. As discussed above, the Company entered into the Treasury Loan Agreement in October 2020 with the U.S. Treasury. Under the terms of the Treasury Loan Agreement, we are required to comply with certain covenants that restrict changes to the total compensation of certain of our executive officers whose compensation exceeds a specified threshold. These restrictions materially limit the ability of the Compensation Committee to alter the compensation of certain of our executive officers. The Compensation Committee reviews and approves on an annual basis the evaluation process and compensation structure for the Company’s senior officers. The Committee evaluates, with the CEO’s and President’s input, the Company’s other executive officers and approves the annual compensation, including salary, bonus, incentive and equity compensation, for such officers. The Committee also provides oversight of management’s decisions concerning performance and compensation of other Company officers. The Committee generally meets in the first quarter of each year to review and recommend changes to annual and incentive compensation.  12 Table of ContentsCompensation Program Design and Elements of Compensation The principal components of compensation for our named executive officers are:
+•
+base salary and benefits;
+•
+short-term cash incentive compensation;
+•
+long-term equity-based compensation;
+•
+perquisites; and
+•
+severance and change in control plan. Base Salary and Benefits The compensation of our named executive officers is determined and approved by our Compensation Committee. Base salary and broad-based benefits, which are not at risk, are designed to attract and retain executives by providing fixed compensation based on competitive market practice, relative to the skills, experience and expected contributions of each executive officer of the Company. Base salaries for Messrs. Ornstein, Lotz and Gillman, and previously Messrs. Zubeck and Rich, are set in their respective employment agreements or employment terms, which are described below in the “Employment and Change of Control Arrangements with Named Executive Officers” section. Subject to the restrictions set forth in the Treasury Loan Agreement and the CARES Act, our Compensation Committee reviews base salaries annually and targets base pay for executive officers at the median to upper quintiles of the comparison groups and adjusts, as appropriate, for tenure, performance and variations in actual position responsibilities from position descriptions in the comparison groups. Compensation levels payable to executives in our industry and reviewed executive compensation information with regard to comparably sized companies are taken into account. We have further considered the increasingly active market (and correspondingly increased cash and equity compensation levels) for executives with established track records, and potential costs to the Company if replacement management executives were required. We also consider information concerning employment opportunities with third parties available to our NEOs, and the importance of retaining their services in areas such as operational leadership and continuing interactions with stakeholders. The 2024 base salaries include the following for our current NEOs:
+•
+Jonathan G. Ornstein, Chairman and Chief Executive Officer — $600,000
+•
+Michael J. Lotz, President and Chief Operating Officer — $533,333
+•
+Brian S. Gillman, Executive Vice President and General Counsel – $300,000 The above base salaries are set forth in the respective employment agreements for each of Messrs. Ornstein, Lotz and Gillman, which were entered into in July 2018 and have not changed over the subsequent five-year period.  13 Table of ContentsOur named executive officers are also eligible to participate in employee benefit and welfare programs, plans and arrangements available from time to time to our executive personnel, including pension, profit sharing, supplemental pension and other retirement plans, insurance, hospitalization, medical and group disability benefits, and travel or accident insurance plans. Our named executive officers are also eligible to participate in the Company’s 401(k) plan, and receive Company matching contributions, which are generally available to our employees. Information concerning perquisites, which, by definition, are not generally available to our employees are described in greater detail below. Short-Term Cash Incentive Compensation The Compensation Committee views cash incentive compensation as a means of closely tying a significant portion of the total potential annual cash compensation for executives to the financial performance of the Company. Our cash incentive compensation plans are designed to reward individuals for the achievement of financial objectives of the Company or other qualitative factors as determined by the Compensation Committee. Messrs. Ornstein, Lotz, Gillman and formerly Messrs. Zubeck and Rich, are entitled to cash incentive bonuses, paid on a quarterly or annual basis based on the achievement of certain business objectives and/or benchmarks mutually agreed upon by the Compensation Committee and the executive. The amounts paid to Messrs. Ornstein, Lotz and Gillman for fiscal 2024 were reduced below what each such person is contractually entitled to as a result of the limitations imposed on executive compensation under the Treasury Loan Agreement and the CARES Act. Long-Term Equity Based Compensation The purpose of the Company’s long-term incentive compensation plan is to provide a substantial equity incentive for our executive officers to manage the business for the long-term, complementing the annual bonus that rewards performance in a particular year, and to reward them for the performance of the Company and its common shares over multi-year periods. The Compensation Committee awards long-term compensation in the form of annual restricted stock awards. Vesting of restricted stock awards is tied to continuous services with us and serves as an additional retention measure. The Company believes granting restricted stock in lieu of stock options results in less dilution to existing shareholders, enables the Company to utilize its existing option plans longer (because the Company grants less restricted shares than options), and more accurately depicts the expense associated with such benefit. The Compensation Committee has not established any long-term incentive programs that are settled in cash because the Compensation Committee believes that stock settled programs offer better alignment between the interests of our executive officers and our shareholders. Annual grants of restricted stock are awarded to our named executive officers in accordance with the terms of their respective employment agreements and not in connection with an established standardized policy for granting annual equity awards. Equity Plans The Company’s only active equity compensation plan is its 2018 Equity Incentive Plan. The 2018 Equity Incentive Plan permits the issuance of incentive and non-qualified stock options, restricted stock and performance shares, which are performance bonuses payable in either cash or shares. All employees of the Company or its subsidiaries, including the named executive officers, are eligible to participate in the plan, and awards are issued at the discretion of the Compensation Committee upon recommendation by the Chief Executive Officer. Shares of restricted stock granted under the plan are issued at the weighted average price of common stock on the date of grant and typically vest in one-third increments over a three-year period.  14 Table of ContentsTiming of Equity Incentive Award Grants Equity grants made to the named executive officers must be approved by the Compensation Committee. During fiscal 2024, equity awards to employees generally were granted on June 20, 2024. As part of the Company’s annual performance and compensation review process, the Compensation Committee approves incentive awards to our named executive officers. The Compensation Committee does not grant equity awards in anticipation of the release of material nonpublic information and the Company does not time the release of material nonpublic information based on equity award grant dates. The employment agreements for Messrs. Ornstein, Lotz and Gillman provide for annual equity awards. Messrs. Ornstein, Lotz and Gillman were, entitled to receive an annual equity award with a grant date value of not less than the sum specified in their respective employment agreements or employment terms. In 2024, Messrs. Ornstein, Lotz and Gillman received 264,412, 207,191, and 70,510 shares of restricted stock, respectively. The annual equity award was paid in a combination of equity and cash due to limited equity shares available in the plan. In accordance with Item 402(x) of Regulation S-K, we are providing information regarding our procedures related to the grant of stock options close in time to the release of material non-public information. Although we do not have a formal policy that requires us to award equity or equity-based compensation on specific dates (except as otherwise provided in the employment agreements of our named executive officers), our Compensation Committee and Board have adopted a policy with respect to the grant of stock options and other equity incentive awards that generally prohibits the grant of stock options or other equity awards to executive officers during closed quarterly trading windows (as determined in accordance with our insider trading policy). Our insider trading policy also prohibits directors, officers and employees from trading in our common stock while in possession of or on the basis of material non-public information about us. Neither our Board nor our Compensation Committee takes material non-public information into account when determining the timing of equity awards, nor do we time the disclosure of material non-public information for the purpose of impacting the value of executive compensation. We generally issue equity awards to our executive officers on a limited and infrequent basis, and not in accordance with any fixed schedule. During fiscal 2024, there were no equity awards to any named executive officers within four business days preceding or one business day after the filing of any report of Forms 10-K, 10-Q, or 8-K that discloses material nonpublic information. 2025 Compensation Programs There are no additional changes planned for the 2025 compensation programs. Health and Welfare The Committee has provided named executive officers with the same health and welfare benefits it provides all its other US-based employees; including medical, dental and vision coverage, life and disability insurance. Other Compensation Plans and Perquisites Retirement Plans The Company provides opportunities for all employees to save for retirement in two benefit plans: a voluntary defined contribution plan (401(k)) and an employee stock purchase plan. These plans are designed to provide competitive retirement benefits.  15 Table of Contents401(k) The Company maintains a 401(k) Plan for its named executive officers and all other employees. Participants have the opportunity to contribute up to 85% of their annual salary up to a specified maximum. In addition, the Company makes a matching contribution to each employee equal to 50% of an employee’s salary deferrals up to six percent (6%) of annual salary, with a cap of 10% of such employee’s annual salary. The rules of the Internal Revenue Code limit the compensation that may be used in applying any deferral election or matching contribution. Severance and Change in Control Arrangements Our named executive officers are eligible for severance payments and benefits in the event of an involuntary termination of employment without “cause” or for “good reason,” as well as certain benefits in connection with a change in control of the Company. Our named executive officers are also eligible for “double trigger” severance payments and benefits in the event of an involuntary termination of employment without “cause” or a termination of employment with “good reason” in connection with, or within twelve (12) months immediately following, a change in control of the Company. Our equity awards are also designed to be “double trigger,” so long as such awards are allowed to continue in effect following any change in control transaction on substantially equivalent terms and conditions to those applicable prior to such transaction. For detailed information on the estimated potential payments and benefits payable to the named executive officers in the event of their termination of employment, including following a change in control of the Company, see the section titled “Potential Payments Upon Termination or Change in Control.” Perquisites The Company provides executive officers with a limited number of perquisites that the Company and the Committee believe are reasonable and consistent with its overall compensation program, and necessary to remain competitive. The Committee periodically reviews the level of perquisites provided to the named executive officers. Costs associated with these perquisites are included under “All Other Compensation” in the Summary Compensation Table. Clawback Policy Effective May 2023, the Board of Directors adopted a clawback policy (referred to as the “Policy For Recovery of Erroneously Awarded Incentive Compensation”) that authorizes the Company to recover incentive compensation previously paid to its Section 16 officers and any other senior executives as determined by the Compensation Committee. The policy provides that, in the event of an accounting restatement due to the material noncompliance of the Company with any financial reporting requirement under the securities laws, the Board or, if so designated by the Board, the Compensation Committee of the Board, is authorized to take action to recoup all or part of any incentive compensation received by a Section 16 officer of the Company. For purposes of this policy, incentive compensation means any cash compensation paid by or any equity compensation awarded by the Company that is based in whole or in part on the attainment of a financial reporting measure, including, but not limited to, any bonus or other performance-based cash or equity arrangement or award, but excluding base salary.  16 Table of ContentsCompensation of Named Executive Officers Summary Compensation Table The following table sets forth all of the compensation awarded to, earned by or paid to our NEOs during our fiscal years 2024, 2023 and 2022:
+Name and Principal Position
+FiscalYear
+Salary($)
+Bonus($)(1)
+StockAwards($)(1)
+OptionAwards($)
+Non-EquityIncentive PlanCompensation($)(5)
+All OtherCompensation($)(6)(7)(8)
+Total($)
+Jonathan G. Ornstein Chairman and Chief Executive Officer
+2024 2023 2022
+600,000 600,000 600,000
+417,772 679,780 213,026
+332,228 120,219 586,934
+(2)
+—  —  —
+450,000 450,000 450,000
+25,942 18,407 17,648
+1,825,942 1,868,406 1,867,608
+Michael J. Lotz Chief Financial Officer and President(9)
+2024 2023 2022
+533,333 533,333 533,333
+260,331 531,078 168,717
+327,363 93,921 464,833
+(3)
+—  —  —
+352,000 352,000 352,000
+27,022 16,599 14,186
+1,500,049 1,526,931 1,533,069
+Brian S. Gillman Executive Vice President, General Counsel and Secretary
+2024 2023 2022
+300,000 300,000 300,000
+88,594 169,945 53,257
+111,406 30,054 146,743
+(4)
+—  —  —
+120,000 120,000 120,000
+19,047 19,758 20,243
+639,047 639,757 640,243
+1)
+The amounts under the column “Stock Awards” includes the dollar amount of the aggregate grant date fair value of RSUs and restricted common stock granted to Messrs. Ornstein, Lotz, Gillman, Rich and Zubeck during the fiscal years ended September 30, 2024, 2023 and 2022 pursuant to the terms of their respective employment agreements. See “Employment and Separation Agreements with Named Executive Officers” for a summary of the employment agreements and employment arrangements with our NEOs. The amounts in the “Stock Awards” column were calculated based on the aggregate grant date fair value of each award, determined in accordance with the Financial Accounting Standards Board Accounting Standards Codification Topic 718, rather than an amount paid to or realized by our NEOs. Assumptions used to determine the grant date fair value are set forth in Note 14 to the audited consolidated financial statements in our Annual Report on Form 10-K for the fiscal year ended September 30, 2024. During the fiscal years ended September 30, 2024 and 2023, a portion of the annual equity awards payable to Messrs. Ornstein, Lotz and Gillman pursuant to the terms of their respective employment agreements were paid in cash, as reflected in the “Bonus” column for such period.
+2)
+Mr. Ornstein received one equity award during each of the fiscal years ended September 30, 2024, 2023 and 2022. On June 18, 2024, Mr. Ornstein was granted a restricted stock award of 264,412 shares under our 2018 Equity Incentive Plan (the “2018 Plan”), which vest annually in equal one-third increments beginning on June 18, 2025. On June 1, 2023, Mr. Ornstein was granted 72,421 RSUs under our 2018 Plan, which vest annually in equal one-third increments beginning on June 1, 2024. On June 1, 2022, Mr. Ornstein was granted 202,405 RSUs under the 2018 Equity Plan, which vest annually in equal one-third increments beginning on June 1, 2023.
+3)
+Mr. Lotz received one equity award during each of the fiscal years ended September 30, 2024, 2023 and 2022. On June 18, 2024, Mr. Lotz was granted a restricted stock award of 207,191 shares under our 2018 Plan, which vest annually in equal one-third increments beginning on June 18, 2025. On June 1, 2023, Mr. Lotz was granted 56,579 RSUs under our 2018 Plan, which vest annually in equal one-third increments beginning on June 1, 2024. On June 1, 2022, Mr. Lotz was granted 160,305 RSUs under our 2018 Plan, which vest annually in equal one-third increments beginning on June 1, 2023.
+4)
+Mr. Gillman received one equity award during each of the fiscal years ended September 30, 2024, 2023 and 2022. On June 18, 2024, Mr. Gillman was granted a restricted stock award of 70,510 shares under our 2018 Plan, which vest annually in equal one-third increments beginning on June 18, 2025. On June 1, 2023, Mr. Gillman was granted 18,105 RSUs under our 2018 Plan, which vest annually in equal one-third increments beginning on June 1, 2024. On June 1, 2022, Mr. Gillman was granted 50,601 RSUs under our 2018 Plan, which vest annually in equal one-third increments beginning on June 1, 2023.
+5)
+Amounts reported for the fiscal years ended September 30, 2024, 2023 and 2022 reflect incentive bonuses earned by Messrs. Ornstein, Lotz and Gillman pursuant to the terms of their respective employment agreements. The incentive bonuses paid for fiscal years 2024, 2023 and 2022 to Messrs. Ornstein, Lotz and Gillman pursuant to their respective employment agreements were reduced in each such fiscal period by $300,000, $235,000 and $80,000, respectively, as a result of the limitations imposed on executive compensation in connection with the Company’s financing transactions under the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”).
+6)
+Amounts reported for Messrs. Ornstein and Lotz include disability premiums paid by us on their behalf. Mr. Gillman was not paid any non-cash fringe benefits during the applicable periods.  17 Table of Contents
+7)
+Includes tax gross-up payments to Messrs. Ornstein, Lotz and Gillman, with respect to flight privileges (the “Gross-up Payments”). The Gross-up Payments reflect the sum of the taxes payable on flight privileges by these executives, plus the amounts necessary to put each of Messrs. Ornstein, Lotz and Gillman in the same after-tax position that each of them would have been in if he had not incurred any tax liability on the flight privileges under the Internal Revenue Code of 1986, as amended. In fiscal 2024, we made Gross-up Payments to each of Messrs. Ornstein ($7,886), Lotz ($9,865) and Gillman ($4,054). In fiscal 2023, we made Gross-up Payments to each of Messrs. Ornstein ($1,177), Lotz ($175) and Gillman ($5,259). In fiscal 2022, we made Gross-up Payments to each of Messrs. Ornstein ($5,169), Lotz ($2,882) and Gillman ($6,743).
+8)
+Includes our matching contributions to the NEOs’ accounts under our 401(k) retirement savings plan (the “401(k) Plan”), in which our NEOs are eligible to participate on the same terms as other fulltime employees. In fiscal 2024, we made matching contributions under the 401(k) Plan for each of Mr. Ornstein ($15,250), Mr. Lotz ($15,250) and Mr. Gillman ($14,993). In fiscal 2023, we made matching contributions under the 401(k) Plan for each of Mr. Ornstein ($14,423), Mr. Lotz ($14,487) and Mr. Gillman ($14,500). In fiscal 2022, we made matching contributions under the 401(k) Plan for each of Mr. Ornstein ($9,673), Mr. Lotz ($9,397) and Mr. Gillman ($13,500).
+9)
+Effective October 1, 2021, Mr. Lotz relinquished his title as Chief Financial Officer of the Company and served as President of the Company. At September 15, 2023, Mr. Lotz resumed his position as Chief Financial Officer of the Company following the resignation Torque Zubeck, who was serving in such capacity at such time. Fiscal 2024 Grants of Plan-Based Awards Table The following table sets forth information regarding the grant of plan-based awards to our NEOs in fiscal 2024.
+Estimated Future Payouts UnderNon-Equity Incentive PlanAwards
+Estimated Future PayoutsUnder Equity Incentive PlanAwards(1)
+Name
+GrantDate
+Threshold($)
+Target($)
+Maximum($)
+Threshold(#)
+Target(#)
+Maximum(#)
+All OtherStockAwards:NumberofSharesof Stockor Units(#)
+GrantDate FairValue ofStockAwards($) (2)
+Jonathan G. Ornstein
+6/18/2024
+—
+—
+—
+$
+800,000
+—
+—
+—
+$
+417,771
+Michael J. Lotz
+6/18/2024
+—
+—
+—
+$
+633,600
+—
+—
+—
+$
+327,362
+Brian S. Gillman
+6/18/2024
+—
+—
+—
+$
+200,000
+—
+—
+—
+$
+111,406
+(1)
+The amounts reported in the “Threshold” column of this table represent the annual equity awards these individuals are entitled to under the terms of their respective employment agreements and employment terms. The amounts the individuals actually received are set forth in the “Grant Date Fair Value of Stock and Option Awards” column.
+(2)
+The amounts reported in this column reflect the aggregate grant date fair value of the award granted to such individuals. The equity grants in fiscal 2024 to Messrs. Ornstein, Lotz and Gillman under their respective employment agreements were significantly below what they were contractually entitled to (see “Threshold Column”) as a result of a lack of available shares under the Company’s existing equity plan.  18 Table of ContentsOutstanding Equity Awards as of September 30, 2024 The following table presents information regarding all outstanding equity awards held by our NEOs as of September 30, 2024. Some values in the table have not been, and may never be, realized. The restricted common stock unit awards are subject to forfeiture, and their value, if any, will depend on the price and the date on which each NEO set forth below sells those shares once the restriction is removed.
+Option Awards
+Stock Awards
+Name
+VestingCommencementDate
+Number ofSecuritiesUnderlyingUnexercisedOptionsExercisable(#)
+Number ofSecuritiesUnderlyingUnexercisedOptionsUnexercisable(#)
+OptionExercisePrice($)
+OptionExpirationDate
+Number ofShares thatHave NotVested(#)(1)
+Market Valueof Sharesthat HaveNotVested ($)(2)
+Jonathan G. Ornstein
+6/01/2024
+—
+—
+—
+—
+264,412
+$
+319,938
+6/01/2023
+—
+—
+—
+—
+48,281
+$
+58,420
+6/01/2022
+—
+—
+—
+—
+67,469
+$
+81,637
+Michael J. Lotz
+6/01/2024
+—
+—
+—
+—
+207,191
+$
+250,701
+6/01/2023
+—
+—
+—
+—
+37,720
+$
+45,641
+6/01/2022
+—
+—
+—
+—
+53,435
+$
+64,656
+Brian S. Gillman
+6/01/2024
+—
+—
+—
+—
+70,510
+$
+85,317
+6/01/2023
+—
+—
+—
+—
+12,070
+$
+14,604
+6/01/2022
+—
+—
+—
+—
+16,867
+$
+20,409
+(1)
+These figures represent restricted stock awards granted to each of our NEOs during the fiscal years ended September 30, 2024, 2023 and 2022 under our 2018 Plan. These units vest annually in equal one-third increments beginning one year from the date of grant.
+(2)
+Market value amounts represent the product of the closing price of our common stock on September 30, 2024 of $1.21 multiplied by the number of unvested stock awards. Fiscal 2024 Option Exercises and Stock Vested Table The following table sets forth certain information regarding the restricted stock awards held by our NEOs that vested during fiscal 2024.
+Stock Awards
+Name
+Number ofShares Acquiredon Vesting(#)
+Value Realizedon Vesting ($) (1)
+Jonathan G. Ornstein
+91,608
+$
+111,762
+Michael J. Lotz
+72,294
+$
+88,199
+Brian S. Gillman
+22,902
+$
+27,940
+(1)
+Represents the market value of the shares of our common stock on the vesting date, calculated by multiplying the closing price of our common stock on Nasdaq on the applicable vesting date by the number of shares that vested at the close of business for each vesting date.  19 Table of ContentsPension Benefits We did not sponsor any defined benefit pension or other actuarial plan for our NEOs during fiscal 2024. Nonqualified Deferred Compensation We currently do not (and did not in fiscal 2024) maintain any nonqualified defined contribution or other deferred compensation plan or arrangement for our NEOs. Employment and Change of Control Arrangements with Named Executive Officers Jonathan G. Ornstein We entered into an employment agreement with Mr. Ornstein on February 23, 2011, effective as of March 1, 2011, to serve as the Chairman of our Board and as our Chief Executive Officer, which agreement was amended first effective as of January 22, 2014, again effective as of June 1, 2016, and again on July 26, 2018, to consolidate the prior amendments. Under Mr. Ornstein’s employment agreement, as amended and restated, we may terminate Mr. Ornstein’s employment at any time with prior written notice at least one year before the intended termination date. Mr. Ornstein’s employment agreement entitles him to a base salary and an opportunity to earn a cash incentive bonus, paid on a quarterly basis based upon achievement of certain benchmarks mutually agreed upon by our Board and Mr. Ornstein. Mr. Ornstein is also entitled to receive an annual equity award pursuant to the terms of our then-existing equity incentive plan, as determined by our Board or our Compensation Committee, in its sole discretion, provided that such award shall have a grant date value of not less than $800,000 for the fiscal year ended September 30, 2016 and any fiscal year thereafter during the term of the agreement. Mr. Ornstein’s employment agreement entitles him to participate in all employee benefit plans and arrangements available to our executive officers, including flight benefits. It also contains certain confidential information covenants prohibiting Mr. Ornstein from using or disclosing any of our confidential information, other than as required in the performance of his duties as our Chairman and Chief Executive Officer, during the term of his employment and for two years thereafter. Mr. Ornstein’s employment agreement also provides him with severance in the event his employment is terminated without Cause (as defined below) by us (or, in certain circumstances, by our successor-in-interest) or if he resigns for Good Reason (as defined below). If Mr. Ornstein’s employment is terminated by us without Cause or he resigns for Good Reason he is entitled to payment equal to two times the sum of his base salary, plus an amount equal to the greater of (i) his target annual performance bonus or (ii) half the bonuses (incentive or otherwise) earned by Mr. Ornstein with respect to the two fiscal years immediately preceding his termination. If Mr. Ornstein is terminated by us or our successor-in-interest without Cause or he resigns for Good Reason within 12 months following a Change of Control (as defined below), he is entitled to payment equal to three times the sum of his base salary, plus the greater of (i) his target performance bonus for the fiscal year in which the termination occurs or (ii) the highest amount of the bonuses (incentive or otherwise) paid to Mr. Ornstein with respect to the three fiscal years immediately preceding the year in which his termination occurs. Upon Mr. Ornstein’s termination without Cause or resignation for Good Reason, he is also entitled to the payment of continued health, dental and vision insurance premiums for himself and any covered dependents for 24 months following termination, and he is entitled to immediate vesting of any unvested equity awards. For purposes of Mr. Ornstein’s employment agreement, “Cause” means (i) Mr. Ornstein’s willful misconduct, including, but not limited to, misappropriation of trade secrets, fraud or embezzlement; (ii) Mr. Ornstein’s commission of a felony offense or any crime involving dishonesty or physical harm to any person; (iii) Mr. Ornstein’s material breach of his employment agreement that, if curable, is not cured within 30 days following written notice from us; or (iv) Mr. Ornstein’s willful refusal to follow a lawful directive of us, which refusal is not cured within 30 days following written notice from us. “Change of Control” means that (i) any person acquires more than 50% of the voting power of our then-outstanding securities; (ii) a  20 Table of Contentsmajority of the members of our Board is replaced during any 12-month period by directors whose appointment or election is not endorsed by a majority of our Board before the date of appointment or election; (iii) a tender offer or exchange offer is made where the intent of such offer is to take over control of Mesa Air Group, and such offer is consummated for the securities representing more than 50% of the combined voting power of our then-outstanding voting securities over a twelve-month period; or (iv) a reorganization, merger, consolidation, or sale or other disposition of all or substantially all of our assets. Finally, “Good Reason” means any of the following, if not cured within 20 days of our receipt of a notice of termination by Mr. Ornstein: (i) any change by us in Mr. Ornstein’s title, or any significant diminishment in Mr. Ornstein’s function, duties or responsibilities from those associated with his functions, duties or responsibilities as of January 1, 2011; (ii) any material breach of the employment agreement or any other agreement between us and Mr. Ornstein which remains uncured for a period of 10 days after Mr. Ornstein gives us notice of such breach; (iii) except with Mr. Ornstein’s prior written consent, relocation of Mr. Ornstein’s principal place of employment to a location greater than 50 miles from Phoenix, Arizona, or requiring Mr. Ornstein to provide his services outside of Maricopa County, Arizona, for more than 50% of his working days during any consecutive six-month period; or (iv) any reduction of Mr. Ornstein’s base salary, bonus opportunity or benefits, other than under circumstances in which we have imposed cuts in salary of other officers on an across-the-board basis (in which case the cuts to Mr. Ornstein’s compensation must not be in a greater percentage than the reduction imposed on any other officer). Michael J. Lotz We entered into an employment agreement with Mr. Lotz on February 23, 2011, effective as of March 1, 2011, to serve as our President and Chief Financial Officer, which agreement was amended first effective as of January 22, 2014, again effective as of June 1, 2016, and again on July 26, 2018, to consolidate the prior amendments. Mr. Lotz’s employment agreement was further amended effective October 1, 2021 to reflect the voluntary relinquishment of his role as Chief Financial Officer of the Company and to reflect that he will remain involved in the strategic financial direction, strategies, plans and policies of the Company. Under Mr. Lotz’s employment agreement, as amended and restated, we may terminate Mr. Lotz’s employment at any time with prior written notice at least one year before the intended termination date. Mr. Lotz’s employment agreement entitles him to a base salary and an opportunity to earn a cash incentive bonus paid on a quarterly basis based upon achievement of certain benchmarks mutually agreed upon by our Board and Mr. Lotz. Mr. Lotz is also entitled to receive an annual equity award pursuant to the terms of our then-existing equity incentive plan, as determined by our Board or our Compensation Committee, in its sole discretion, provided that such award shall have a grant date value of not less than $633,600 for any fiscal year following the fiscal year ended September 30, 2016. Mr. Lotz’s employment agreement entitles him to participate in all employee benefit plans and arrangements available to our executive officers, including the flight benefits discussed above. It also contains certain confidential information covenants prohibiting Mr. Lotz from using or disclosing any of our confidential information, other than as required in the performance of his duties as our President, during the term of his employment and for two years thereafter. Mr. Lotz’s employment agreement also provides him with severance in the event his employment is terminated without Cause (as defined below) by us (or, in certain circumstances, by our successor-in-interest) or if he resigns for Good Reason (as defined below). If Mr. Lotz’s employment is terminated by us without Cause or if he resigns with Good Reason, he is entitled to payment equal to two times the sum of his base salary, plus the greater of (i) his target annual performance bonus or (ii) half the sum of the bonuses (incentive or otherwise) earned by Mr. Lotz with respect to the two fiscal years immediately preceding the year in which his resignation occurs. If Mr. Lotz is terminated by us or our successor-in-interest without Cause or he resigns for Good Reason within 12 months following a Change of Control (as defined below), Mr. Lotz is entitled to payment equal to three times the sum of his base salary, plus the greater of (i) his target performance bonus for the fiscal year in which the termination occurs or (ii) the highest amount of the bonuses (incentive or otherwise) paid to Mr. Lotz with respect to the three fiscal years immediately preceding the year in which his termination occurs. Upon Mr. Lotz’s termination without Cause or resignation for Good Reason, he is also entitled to the payment of continued health, dental and vision insurance premiums for himself and any covered dependents for 24 months following termination, and he is entitled to immediate vesting of any unvested equity awards.  21 Table of ContentsFor purposes of Mr. Lotz’s employment agreement, “Cause,” “Change of Control” and “Good Reason” have identical meanings to those contained in Mr. Ornstein’s employment agreement, as set forth above. Brian S. Gillman We entered into a Second Amended and Restated Employment Agreement with Mr. Gillman on December 2, 2024, to serve as our Executive Vice President, General Counsel and Secretary. Under Mr. Gillman’s employment agreement, may terminate Mr. Gillman’s employment at any time with prior written notice at least one year before the intended termination date. Mr. Gillman’s employment agreement entitles him to a base salary and an opportunity to earn a cash incentive bonus paid on a quarterly basis based upon achievement of certain benchmarks identical to those in Mr. Lotz’s and Mr. Ornstein’s employment agreements. Mr. Gillman is also entitled to receive an annual equity award pursuant to the terms of our then-existing equity incentive plan, as determined by our Board or our Compensation Committee, in its sole discretion, provided that, effective July 15, 2019, such award shall have a grant date value of not less than $200,000 for any fiscal year. Mr. Gillman’s employment agreement entitles him to participate in all employee benefit plans and arrangements available to our executive officers, including the flight benefits discussed above. It also contains certain confidential information covenants prohibiting Mr. Gillman from using or disclosing any of our confidential information, other than as required in the performance of his duties as our Executive Vice President, General Counsel and Secretary, during the term of his employment and for two years thereafter. Mr. Gillman’s employment agreement also provides him with severance in the event his employment is terminated without Cause (as defined below) by us (or, in certain circumstances, by our successor-in-interest) or if he resigns for Good Reason (as defined below). If Mr. Gillman is terminated without Cause or if he resigns with Good Reason, he is entitled to payment equal to two times the sum of his base salary, plus an amount equal to the greater of (i) his target annual performance bonus or (ii) half the sum of the bonuses (incentive or otherwise) earned by Mr. Gillman with respect to the two fiscal years immediately preceding the year in which his termination occurs. If Mr. Gillman is terminated by us or our successor-in-interest without Cause or he resigns with Good Reason within 12 months following a Change of Control (as defined below), he is entitled to payment equal to three times the sum of his base salary, plus the greater of (i) his maximum target performance bonus for the fiscal year in which the termination occurs or (ii) the amount of all bonuses (incentive or otherwise) paid to Mr. Gillman with respect to the three fiscal years immediately preceding the year in which his termination occurs. Upon Mr. Gillman’s termination without Cause or resignation for Good Reason, he is also entitled to the payment of continued health, dental and vision insurance premiums for himself and any covered dependents for 24 months following termination, and he is entitled to immediate vesting of any unvested equity awards. For purposes of Mr. Gillman’s employment agreement, “Cause,” “Change of Control” and “Good Reason” have identical meanings to those contained in Mr. Ornstein’s employment agreement, as set forth above. Potential Payments Upon Termination or Change in Control The following table provides information regarding the potential payments upon termination without Cause or for Good Reason, as well as upon termination without Cause or for Good Reason within 12 months following a Change in Control of the Company, which would have been paid to each executive in the event he had been terminated as of September 30, 2024, the last business day of fiscal year 2024. All payments in connection with any such termination will comply with Section 409A of the Internal Revenue Code, to the extent Section 409A applies. The actual amounts to be paid out can only be determined at the time of such executive’s separation from the Company.  22 Table of Contents
+Termination without Cause or for Good Reason
+Termination without Cause or for Good Reasonfollowing a Change in Control
+CashPayment($)(1)
+Benefits($)(2)
+Acceleration ofVesting of Shares($)(3)
+Cash Payment($)(1)
+Benefits($)(2)
+Acceleration ofVesting of Shares($)(3)
+Jonathan G. Ornstein
+$
+3,450,000
+$
+30,524
+$
+201,753
+$
+4,800,000
+$
+30,524
+$
+201,753
+Michael J. Lotz
+2,830,000
+41,854
+159,117
+3,951,000
+41,845
+159,117
+Brian S. Gillman
+1,200,000
+11,427
+50,438
+1,700,000
+11,427
+50,438
+(1)
+Assumes a termination date of September 30, 2024, and is based on the executive’s salary, the minimum equity award, and compensation bonus payments for fiscal 2024 earned but not yet paid such person is entitled to under the respective employment agreements. In light of the limitations on total compensation under the Treasury Loan Agreement and the CARES Act, including in connection with the termination of an executive, such executives may not receive such amounts reflected in this table.
+(2)
+Reflects the approximate cost related to the continuation of the executive’s health benefits for a period of 24 months following such termination.
+(3)
+Calculated based on an assumed termination date of September 30, 2024 and the closing market price of our common stock on the Nasdaq Global Market on such date ($1.21). Pay Ratio Disclosure As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, we are providing the following information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Jonathan G. Ornstein, our Chairman and CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner that is intended to be consistent with Item 402(u) of Regulation S-K. For our fiscal year ended September 30, 2024, our last completed fiscal year:
+•
+the median of the annual total compensation of all employees of the Company (other than the CEO) was $45,219.80; and
+•
+the annual total compensation of the CEO, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $1,810,692. Based on this information, for fiscal 2024, the ratio of the annual total compensation of Mr. Ornstein, the CEO, to the median of the total compensation of all employees of the Company, was 39.8 to 1. Determining the Median Employee. The Company determined that, as of September 30, 2024, the employee population consisted of approximately 2,556 individuals. The employee workforce consists of full and part time employees. For purposes of measuring the compensation of the employees, the Company selected total annual compensation for fiscal 2024 as the most appropriate measure of compensation, which was consistently applied to all the employees included in the calculation. Employees on leave of absence during fiscal 2024 and had zero wages were excluded from the calculation. With respect to the total annual compensation of the “median employee,” the Company identified and calculated the elements of such employee’s compensation for fiscal 2024 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in the annual total compensation reflected above. We believe that compensation must be competitive in the marketplace for the role, internally consistent, and equitable in order to motivate our employees to deliver consistent and sustainable operating results for our shareholders. Non-Employee Director Compensation Fees. The following fees were paid to our non-employee directors during the 2024 election year, excluding Mr. Ireland who received no fees for his service on our Board. Directors who are full-time employees receive no additional compensation for serving as directors. Board members are also reimbursed for all expenses associated with attending Board or committee meetings.  23 Table of ContentsThe following table sets forth information concerning the compensation earned by or paid to our non-employee directors during the fiscal year ended September 30, 2024:
+Annual retainer (paid quarterly)
+$
+83,000
+Compensation Committee Chair retainer
+$
+10,000
+Nominating and Corporate Governance Chair retainer
+$
+10,000
+Audit Committee Chair retainer
+$
+15,000
+Presiding Independent Director retainer
+$
+20,000
+Equity Awards. Equity awards are made to our non-employee directors on an annual basis. The types and amounts of such awards are set by our Compensation Committee. During the fiscal year ended September 30, 2024, each non-employee director received a restricted common stock award in the aggregate amount of $89,700. Other benefits. As is common in the airline industry, we provide flight benefits to the members of our Board, whereby each non-employee director and certain family members of directors receive free or reduced-fare travel on flights flown by our major airline partners at no cost to us or the director. We believe that our directors’ use of free air travel is de minimis and we did not maintain any records of non-employee directors’ travel during the fiscal year ended September 30, 2024. Fiscal 2024 Director Compensation Table The following table sets forth information regarding compensation earned by our non-employee directors during the 2024 election year:
+Name
+Fees EarnedorPaid in Cash ($)
+StockAwards ($)(1)
+Total ($)
+Ellen N. Artist
+98,000
+89,700
+187,700
+Mitchell I. Gordon
+83,000
+89,700
+172,700
+Dana J. Lockhart
+83,000
+89,700
+172,700
+Daniel J. McHugh
+20,750
+—
+20,750
+(2)
+Harvey W. Schiller
+113,000
+89,700
+202,700
+Spyridon P Skiados
+93,000
+89,700
+182,700
+Jonathan Ireland(3)
+—
+—
+—
+(1)
+Represents the aggregate grant date fair value of restricted common stock awarded to each non-employee director during the fiscal year ended September 30, 2024. Restricted common stock awards vest one year from the grant date for non-employee directors. Due to the lack of available shares, $39,424 of this award was paid in cash.
+(2)
+Amount paid to Mr. McHugh until his passing on January 12, 2024.
+(3)
+Mr. Ireland resigned from the board effective August 1, 2024. As a director designee of United Airlines, Inc., he was not paid fees for his service on the board. Policies and Practices for Granting Certain Equity Awards As disclosed elsewhere herein, our named executive officers are entitled to annual equity grants under the terms of their respective employment agreements and employment terms. These awards are generally granted on a predetermined schedule. Accordingly, the Compensation Committee does not take material nonpublic information into account when determining the timing and terms of an award, nor do we time the disclosure of material non-public information for the purpose of impacting the value of executive compensation. Compensation Committee Interlocks and Insider Participation None of the members of our Compensation Committee is or has been an executive officer of Mesa Air Group, nor did any of them have any relationships requiring disclosure by us under Item 404 of Regulation S-K. With the exception of Mr. Ornstein, our Chairman and Chief Executive Officer, none of our executive officers served as a director or a member of our Compensation Committee (or other committee serving an equivalent function) of any other entity, of which an executive officer served as a director of Mesa Air Group or member of our Compensation Committee during the fiscal year ended September 30, 2024.  24
+Table of Contents
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+Equity Compensation Plan Information The following table summarizes information about our equity compensation plans as of September 30, 2024. All outstanding awards relate to our common stock.
+Plan Category
+Number ofSecurities to beIssued uponExercise ofOutstandingOptions,Warrants andRights(1)
+Weighted-AverageExercise Price ofOutstanding Options,Warrants and Rights
+Number of SecuritiesRemainingAvailablefor Future Issuanceunder EquityCompensation Plans(excluding securitiesin column (a))
+(a)
+(b)
+(c)
+Equity compensation plans approved by security holders
+5,318,542
+$
+—
+113,353
+(2)(3)
+Equity compensation plans not approved by security holders
+—
+—
+—
+Total
+5,318,543
+$
+—
+113,353
+(2)(3)
+(1)
+As of September 30, 2024, we had 5,318,542 shares of restricted stock unit awards issued to certain of our employees and directors under our 2018 Plan.
+(2)
+The number of securities remaining available for future issuance in column (c) consists of 113,353 shares of common stock authorized and available for issuance under our 2018 Plan prior to the annual 1% increase.
+(3)
+The number of shares authorized for issuance under our 2018 Plan are subject to an annual increase. Subject to adjustment as described in our 2018 Plan, the maximum aggregate number of shares of common stock that may be issued under our 2018 Plan will be cumulatively increased on January 1, 2020 and on each subsequent January 1 through and including January 1, 2028, by a number of shares equal to the smaller of (a) 1% of the number of shares issued and outstanding on the immediately preceding December 31, or (b) an amount determined by our Board. Subsequent to the September 30, 2024 fiscal year end, and in connection with the 2018 Plan’s annual increase, our Board approved a 1% increase for fiscal 2024.
+25
+Table of Contents
+BENEFICIAL OWNERSHIP OF COMMON STOCK
+The table below sets forth certain information with respect to the beneficial ownership of our common stock as of June 20, 2025 by:
+•
+each of our NEOs;
+•
+each of our directors;
+•
+all of our directors and executive officers as a group; and
+•
+each person, or group of affiliated persons, known by us to beneficially own more than 5% of our common stock.
+The percentage of shares beneficially owned listed in the table below is based on 41,861,544 shares of our common stock outstanding as of June 20, 2025. In computing the number of shares beneficially owned and the percentage ownership of each of the beneficial owners listed in the table below, we deemed to be outstanding all shares of restricted common stock that have vested or will vest within 60 days of June 20, 2025, and all warrants exercisable within 60 days of June 20, 2025. Beneficial ownership is determined in accordance with the rules of the SEC and generally includes any shares over which a person exercises sole or shared voting or investment power. Unless otherwise indicated, the persons or entities identified in the table below have sole voting and investment power with respect to all shares shown to be beneficially owned by them, subject to applicable community property laws. The information contained in the table below is not necessarily indicative of beneficial ownership for any other purpose, and the inclusion of any shares in the table below does not constitute an admission of beneficial ownership of those shares. Except as otherwise noted below, the address for the individuals listed in the table below is c/o Mesa Air Group, Inc., 410 North 44th Street, Suite 700, Phoenix, Arizona 85008. The information provided in the table below is based on our records, information filed with the SEC and information provided to us, except where otherwise noted:
+Number ofSharesBeneficiallyOwned
+PercentageofClass
+Named Executive Officers
+Jonathan G. Ornstein
+1,010,014
+2.41
+%
+Michael J. Lotz
+578,134
+1.3
+%
+Brian S. Gillman
+155,530
+*
+Non-Employee Directors
+Ellen N. Artist
+139,480
+*
+Mitchell I. Gordon
+143,280
+*
+Dana J. Lockhart
+151,980
+*
+Harvey W. Schiller
+125,254
+*
+Spyridon P Skiados
+124,180
+*
+All executive officers and directors as a group (8 persons)
+2,427,852
+5.79
+%
+5% Shareholders
+The Yucaipa Companies LLC1
+2,964,848
+7.1
+%
+United Airlines Holdings, Inc.2
+4,042,061
+9.65
+%
+Par Investment Partners, L.P. 3
+2,140,934
+5.1
+%
+*
+Represents beneficial ownership of less than 1% of our outstanding common stock.
+1
+Information is based on a Schedule 13D/A filed with the SEC on December 28, 2020. The address for Ronald W. Burkle is c/o The Yucaipa Companies LLC is 9130 W. Sunset Boulevard, Los Angeles, California 90069.
+2
+Information is based on a Schedule 13D/A filed with the SEC on May 4, 2023. The address for United Airlines Holdings, Inc. is 233 South Wacker Drive, Chicago, Illinois 60606.
+3
+Information is based on a Schedule 13G filed with the SEC on June 20, 2025. The address for Par Investment Partners, L.P. is 200 Clarendon St., 48th Floor, Boston, MA 02116.
+26
+Table of Contents
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+Related Party Transaction Policy
+Our Board has a written policy and procedures for review and approval of transactions involving the Company and “related persons” (which includes our directors and executive officers or their immediate family members, or shareholders and their immediate family members owning 5% or more of our common stock). The policy applies to any transaction in which the Company is a participant and any related person that has a direct or indirect material interest, excluding transactions: (a) involving payment or reimbursement of expenses of the related person incurred in the ordinary course of the related person’s service as a director or officer of the Company; (b) where the financial or compensatory arrangements are approved or ratified by our Board; (c) where the related person’s interest arises (i) only from such person’s position as a director of a corporation or organization which is a party to the transaction; (ii) only from such person’s direct or indirect ownership of less than a 10% equity interest in another person (other than a partnership, limited liability company, trust or similar entity) that is a party to the transaction; or (iii) from both such position and such ownership; (d) where the related person’s interest arises only from the ownership of a class of equity securities of the Company and all holders of that class receive the same benefits on a pro rata basis; and (e) where an immediate family member’s interest arises from his or her status as an employee of a firm, corporation or other entity for which he or she is not also an officer, director, general partner, or principal.
+Our Audit Committee reviews and approves in advance all related person transactions. In determining whether to approve a related person transaction, our Audit Committee looks to whether the related person transaction is on terms and conditions no less favorable to the Company than may reasonably be expected in arm’s-length transactions with unrelated parties. Our Audit Committee will also consider such other factors as it may determine under the circumstances of a particular transaction.
+Our Audit Committee is responsible for reviewing the material facts of all related person transactions, subject to the exceptions described above. Our Audit Committee will either approve or disapprove the entry into the related person transaction. If advance approval is not feasible, the transaction will be considered and, if our Audit Committee determines it to be appropriate, ratified at our Audit Committee’s next regularly scheduled meeting. In determining whether to approve or ratify a transaction with a related person, our Audit Committee will consider, among other factors that it determines to be appropriate, whether the transaction is on terms no less favorable than terms generally available to an unaffiliated third party under the same or similar circumstances and the extent of the related person’s interest in the transaction. Information relating to our transactions with related persons is set forth immediately below.
+Due to the nature of Mesa’s business, Mesa regularly transacts with its major partners, United Airlines, Inc. and, formerly, American Airlines, Inc., in the ordinary course of business. Related person transactions are derived from passenger service under Mesa’s CPAs with United and, formerly, American. Mesa is also a party to a Second Amended and Restated Credit and Guaranty Agreement, as amended, pursuant to which Mesa has borrowed funds from United.
+Except as noted in the immediately preceding paragraph, since the beginning of our fiscal year ended September 30, 2024, and since the beginning of our fiscal year ended September 30, 2023, we had no transactions pursuant to which we were a participant in which the amount involved exceeded or will exceed $120,000, and in which any of our directors, executive officers or holders of more than 5% of our capital stock, or any member of the immediate family of the foregoing persons, had or will have a direct or indirect material interest.
+Indemnification Agreements
+Our Second Amended and Restated Articles of Incorporation compel indemnification of our directors and officers and permit indemnification of our employees and other agents, in each case to the maximum extent permitted by Nevada law, and our Bylaws provide for indemnification of our directors, officers, employees and other agents to the maximum extent permitted by Nevada law. In addition, we have entered into indemnification agreements with our directors and NEOs containing provisions which are in some respects broader than the specific indemnification provisions contained in Nevada law. The indemnification agreements may require us, among other things, to indemnify our directors and officers against certain liabilities that may arise by reason of their status or service as directors and officers and to advance their expenses incurred as a result of any proceeding against them as to which they could be indemnified.
+27
+Table of Contents
+Director Independence
+Our Board of Directors periodically reviews the independence of each director. During these reviews, our Board of Directors considers transactions and relationships between each director (and his or her immediate family and affiliates) and the Company and management, to determine whether any such transactions or relationships are inconsistent with a determination that the director was independent. Our Board of Directors has affirmatively determined that each director other than Jonathan G. Ornstein, our Chairman and Chief Executive Officer, is “independent,” as defined by the rules of the Nasdaq Stock Market. Under the Nasdaq Stock Market rules, a director can be independent only if the director does not trigger a categorical bar to independence and our Board of Directors affirmatively determines that the director does not have a relationship which, in the opinion of our Board of Directors, would interfere with the exercise of independent judgment by the director in carrying out the responsibilities of a director. Accordingly, a majority of our directors are independent, as required under applicable Nasdaq ListingRules. In making this determination, our Board considered the current and prior relationships that each non-employee director has with the Company and all other facts and circumstances our Board deemed relevant in determining their independence.
+In accordance with the rules of the Nasdaq Stock Market our Board has determined that all of the members of the Audit Committee are independent under the Nasdaq Listing Rules and Rule 10A-3(b)(1) under the Exchange Act. Our Board has determined that each member of our Compensation Committee is independent under the Nasdaq Listing Rules and is a “non-employee director” as defined in Rule 16b-3 under the Exchange Act. Our Board has affirmatively determined that each of members of the Nominating and Corporate Governance Committee meet the definition of “independent director” for purposes of the Nasdaq Listing Rules.
+Item 14. Principal Accounting Fees and Services
+AUDIT AND NON-AUDIT FEES
+The following table presents fees for professional audit services rendered by Marcum LLP and RSM US LLP, our independent auditors for the fiscal years ended September 30, 2024 and 2023, respectively:
+Fiscal Year Ended September 30,
+2024
+2023
+Audit fees(1)
+$
+1,184,016
+$
+1,397,719
+Audit-related fees(2)
+$
+—
+$
+—
+Tax fees(3)
+$
+—
+$
+—
+All other fees(4)
+$
+—
+$
+—
+Total fees
+$
+1,184,016
+$
+1,397,719
+(1)
+Consists of fees billed for professional services rendered in connection with the audit of our consolidated financial statements, including audited financial statements presented in our Annual Report on Form 10-K for the fiscal years ended September 30, 2024 and September 30, 2023, review of the interim consolidated financial statements included in our Quarterly Reports on Form 10-Q and services normally provided in connection with regulatory filings.
+(2)
+Consists of fees billed for professional services for assurance and related services that are traditionally performed by our independent registered public accounting firm, including due diligence related to mergers and acquisitions, audits of employee benefit plans and special procedures required to meet certain regulatory requirements.
+(3)
+Consists of fees billed for professional services for tax compliance, tax advice and tax planning. These services include assistance regarding federal, state and international tax compliance.
+(4)
+Consists of all other fees billed for professional services not included in the categories above.
+28
+Table of Contents
+POLICY ON AUDIT COMMITTEE PRE-APPROVAL OF AUDIT AND PERMISSIBLE NON-AUDIT SERVICES OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Consistent with the requirements of the SEC and the PCAOB regarding auditor independence, our Audit Committee has responsibility for appointing, setting compensation, retaining and overseeing the work of our independent registered public accounting firm. In recognition of this responsibility, our Audit Committee has adopted a policy and procedures for the pre-approval of audit and non-audit services rendered by our independent registered public accounting firm to the Company. The policy generally pre-approves specified services in the defined categories of audit services, audit-related services and tax services up to specified amounts. Pre-approval may also be given as part of our Audit Committee’s approval of the scope of the engagement of the independent auditor or on an individual, explicit and case-by-case basis before the independent auditor is engaged to provide each service. All the services provided by Marcum LLP and RSM US LLP for the fiscal years ended September 30, 2024 and September 30, 2023, respectively, described above were pre-approved by our Audit Committee or our Board. Our Audit Committee determined that the rendering of services other than audit services by Marcum LLP and RSM US LLP was compatible with maintaining the principal accountant’s independence.
+29
+Table of Contents
+PART IV
+Item 15. Exhibits, Financial Statements Schedules
+A)
+Documents filed as part of this Amendment:
+EXHIBIT INDEX
+Incorporated by Reference
+ExhibitNumber
+Exhibit Description
+Form
+Date
+Number
+Filed Herewith
+2.1
+Agreement, Plan of Conversion and Plan of Merger
+8-K
+April 8, 2025
+2.1
+10.21
+Three Party Agreement, dated April 4, 2025
+8-K
+April 8, 2025
+10.1
+31.1
+Certification of Principal Executive Officer pursuant to Rule 13(a)-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of Sarbanes-Oxley Act of 2002
+X
+31.2
+Certification of Principal Financial Officer pursuant to Rule 13(a)-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of Sarbanes-Oxley Act of 2002
+X
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+X
+30
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Date: July 10, 2025
+MESA AIR GROUP, INC.
+By:
+/s/ Michael J. Lotz
+Michael J. Lotz
+President and Chief Financial Officer (Principal Financial Officer)
+31

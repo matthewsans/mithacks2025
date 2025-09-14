@@ -1,0 +1,748 @@
+amix20250331_10ka.htm
+FY
+2025
+--03-31
+true
+0001617867
+00016178672024-04-012025-03-31
+thunderdome:item
+xbrli:shares
+00016178672025-07-23
+iso4217:USD
+00016178672024-09-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C., 20549
+FORM 10-K/A
+(Amendment No. 1)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended March 31, 2025
+OR
+☐
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _________________ to ___________________
+Commission File Number: 001-41940
+AUTONOMIX MEDICAL, INC.
+(Exact Name of Registrant as Specified in its Charter)
+Delaware
+47-1607810
+(State or Other Jurisdiction of
+(I.R.S. Employer Identification No.)
+Incorporation or Organization)
+21 Waterway Avenue, Suite 300
+The Woodlands, Texas 77380
+(Address of Principal Executive Offices) (Zip Code)
+Registrant’s Telephone Number, including Area Code:
+(713) 588-6150
+Securities Registered Pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value
+AMIX
+The Nasdaq Stock Market
+Securities Registered Pursuant to Section 12(g) of the Act:
+None
+(Title of Class)
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  ☐    No   ☒
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes  ☐    No   ☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter periods as the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☒    No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (check one)
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7262(b)) by the registered public accounting firm that prepared or issued its audit report.  ☐
+Table of Contents
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☒
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes  ☐    No   ☒
+The aggregate market value of the registrant’s voting equity held by non-affiliates of the registrant, computed by reference to the price at which the common stock was last sold as of the last business day of the registrant’s most recently completed second fiscal quarter, was $8,113,215. In determining the market value of the voting equity held by non-affiliates, securities of the registrant beneficially owned by directors, officers and 10% or greater shareholders of the registrant have been excluded. This determination of affiliate status is not necessarily a conclusive determination for other purposes.
+The number of shares of the registrant’s common stock outstanding as of July 23, 2025 was 5,049,887.
+DOCUMENTS INCORPORATED BY REFERENCE
+None.
+Table of Contents
+EXPLANATORY NOTE
+Autonomix Medical, Inc. is filing this Amendment No. 1 on Form 10-K/A, or this Amendment No. 1 to our Annual Report on Form 10-K for the fiscal year ended March 31, 2025, or the Original 10-K, originally filed with the U.S. Securities and Exchange Commission, or SEC, on May 29, 2025, or Original Filing Date, solely for the purpose of including the information required by Items 10 through 14 of Part III of Form 10-K. This information was previously omitted from the Original 10-K in reliance on General Instruction G(3) to Form 10-K, which permits the information in the above referenced items to be incorporated in the Original 10-K by reference from our definitive proxy statement so long as such proxy statement is filed no later than 120 days after our fiscal year-end. We are filing this Amendment No. 1 to include the Part III information in the Original Form 10-K.
+This Amendment No. 1 amends and restates in their entirety Items 10 through 14 of the Original 10-K. Pursuant to Rule 12b-15 under the Securities Exchange Act of 1934, as amended, or the Exchange Act, this Amendment No. 1 also contains new certifications by the principal executive officer and the principal financial officer as required by Section 302 of the Sarbanes-Oxley Act of 2002. Accordingly, Item 15 of Part IV is amended to include the currently dated certifications of our principal executive officer and principal financial officer as exhibits. Because no financial statements have been included in this Amendment No. 1 and this Amendment No. 1 does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K, paragraphs 3, 4 and 5 of the certifications have been omitted. In addition, because no financial statements are included in this Amendment No. 1, new certifications of our principal executive officer and principal financial officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 are not required to be included with Amendment No. 1.
+Except as described above, no other changes have been made to the Original 10-K. The Original 10-K continues to speak as of the date of the Original 10-K, and we have not updated the disclosures contained therein to reflect any events that have occurred as of a date subsequent to the date of the Original 10-K. Accordingly, this Amendment No. 1 should be read in conjunction with the Original 10-K. Defined terms used, but not defined, herein have the meanings ascribed to them in the Original 10-K.
+Unless stated otherwise, references in this Amendment No. 1 to “Autonomix Medical,” or “the Company”, “we”, “our” and “us” are used herein to refer to Autonomix Medical, Inc.
+Table of Contents
+TABLE OF CONTENTS
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+4
+Item 11.
+Executive Compensation
+9
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+14
+Item 13.
+Certain Relationships and Related Transactions and Director Independence
+16
+Item 14.
+Principal Accounting Fees and Services
+17
+PART IV
+Item 15.
+Exhibits, Financial Statement Schedules
+18
+3
+Table of Contents
+PART III
+Item 10.         Directors, Executive Officers and Corporate Governance
+Directors and Executive Officers
+The following table sets forth the names and ages of all of our directors and executive officers as of June 30, 2025. Our officers are appointed by, and serve at the pleasure of, the Board of Directors.
+Name
+Age
+Position
+Brad Hauser
+48
+Chief Executive Officer and President
+Dr. Robert Schwartz
+74
+Chief Medical Officer
+Landy Toth
+48
+Chief Technology Officer
+Trent Smith
+56
+Chief Financial Officer
+Walter V. Klemp
+66
+Executive Chairman
+Lori Bisson
+55
+Vice Chair and Director
+Jonathan P. Foster
+61
+Director
+David Robins
+56
+Director
+Christopher Capelli
+65
+Director
+Set forth below is biographical information about each of the individuals named in the table above:
+Brad Hauser, Chief Executive Officer and President. Mr. Hauser became our President and Chief Executive Officer effective June 17, 2024. Prior to his appointment as President and Chief Executive Officer, Mr. Hauser served as the Chief Operating Officer at Beauty Health from January 2023 to June 2024. Mr. Hauser previously served as the President and Chief Executive Officer at Soliton, Inc., a medical device company focused on developing new technology for use in aesthetics, from November 2020 to December 2021. Soliton was purchased by AbbVie in 2021 and he continued to provide transition support post-acquisition as the President and Chief Executive Officer of Soliton with Allergan Aesthetics, an AbbVie company, until July 2022. Mr. Hauser previously served as Vice President, Research and Development and General Manager for CoolSculpting at Allergan Pharmaceuticals since ZELTIQ Aesthetics, Inc. was acquired by Allergan in April 2017. Previously, he served as the Senior Vice President of Research and Development at ZELTIQ Aesthetics, Inc. from January 2017 to April 2017 and as its Vice President of Research and Development from July 2015 to January 2017. Mr. Hauser joined ZELTIQ in December 2013 as Vice President of Product and Clinical Strategy. Prior to joining ZELTIQ, he held multiple roles in the aesthetic industry, including Executive Vice President of Commercial Operations at Cutera, Director of Research and Development at Medicis and Managing Director of Product and Clinical Marketing at Solta Medical. Mr. Hauser received his B.A. degree in Human Biology from Stanford University.
+Dr. Robert Schwartz, Chief Medical Officer. Dr. Schwartz was a co-founder of our company, has served as our Chief Medical Officer since June 2023, and served as our Chief Executive Officer from February 2022 until June 2023. Dr. Schwartz is President of the Jon DeHaan Center for Medical Innovation. He was previously Director at the Center for Applied Vascular Biology and Interventions, Mayo Foundation. Dr. Schwartz has also served as Professor and Associate Professor at the Mayo Medical School. He holds Board Certifications on the National Board of Medical Examiners, American Board of Internal Medicine, and the American Board of Internal Medicine, Cardiovascular Diseases. He has published numerous articles in peer review journals dealing with various topics in interventional cardiology. Dr. Schwartz is the recipient of various awards including the Andreas Gruentzig Award for Basic Research in Coronary Restenosis from the Thoraxcenter/European Society of Cardiology. He holds professional memberships as Fellow of the American College of Cardiology, American Heart Association, and The Society for Cardiac Angiography and Interventions. Dr. Schwartz is also a member of the Society of Atherosclerosis Imaging. Dr. Schwartz received a Master’s Degree in Electrical Engineering, and his doctorate from the University of Colorado-Denver and continued his internship, residency, and Fellowship at the Mayo Graduate School of Medicine. Dr. Schwartz has agreed to provide services to us on a part-time basis of 25% of his working time.
+Landy Toth, Chief Technology Officer. Mr. Toth is a key inventor and is responsible for Autonomix’s development efforts to date. Mr. Toth founded Tricord Holdings, LLC in 2012 and Autonomix in August 2014 and has been the Chief Technology Officer since that time. In addition to these efforts, he founded and has filled the role of Chief Technology Officer of LifeLens Technologies, Inc. since September 2016 and also assumed the role of Chief Executive Officer in November 2024. Over the past 20 years, Mr. Toth has successfully commercialized medical device technologies within startup environments. His focus has been the development and commercialization of wearable and interventional diagnostic medical technologies. He presently has 647 publications across 56 patent families. His portfolio has a grant rate greater than 70% after 2 years. Mr. Toth holds a MASc from the University of Toronto and a BASc from the University of Waterloo. Mr. Toth has also been an employee of Davos Chemical Corporation since January 2011. Mr. Toth has agreed to provide services to us on a part-time basis of 25% of his working time.
+4
+Table of Contents
+Trent Smith, Chief Financial Officer. Mr. Smith joined us in July 2023 as our Chief Financial Officer. Mr. Smith has extensive management, accounting, financial and international experience. From June 2018 to September 2022, Mr. Smith served as the Corporate Controller and Vice-President of Soliton, Inc., a medical device company focused on developing new technology for use in aesthetics that was acquired by AbbVie, Inc. in December 2021 and he continued to provide transition support post acquisition. From 2011 to 2018, Mr. Smith held various positions with InfuSystem Holdings, Inc., a national provider of infusion pumps and related services to the healthcare industry, where he served as Corporate Controller and Vice-President before a promotion to Chief Accounting Officer and Executive Vice President. From 2010 to 2011, Mr. Smith served as the Director of External Reporting of Syncreon Holdings, Inc., an international leader in global supply chain management, where he was responsible for creating the external reporting department to be compliant with SEC type reporting. From 2006 to 2010, Mr. Smith served as the Director of Accounting and Financial Reporting of Champion Homes, Inc., a leader in the manufactured housing industry and one of the largest modular homebuilders in North America. From 2005 to 2006, Mr. Smith served as the Director of External Financial Reporting for Dura Automotive Systems, a Tier 1 international designer and manufacturer of automotive components headquartered in Auburn Hills, MI. From 1999 to 2006, Mr. Smith served in various roles and divisions for Valeo, Inc., an international Tier 1 automotive supplier, including as Financial Controller and Treasurer of Valeo Distribution North America and Director of Accounting and Internal Controls for Valeo Wiper Systems, Valoe’s largest division in North America. Mr. Smith began his professional career as an auditor with Deloitte & Touche, LLP in 1995. Mr. Smith served on active duty in the United States Navy from 1987 through 1991 and the reserves until 1993. Mr. Smith is a Certified Public Accountant and a graduate of the University of Illinois where he earned a Bachelor of Science in Accounting.
+Walter V. Klemp, Executive Chairman. Mr. Klemp joined us in January 2022 as our Executive Chairman. Mr. Klemp is a co-founder of Moleculin Biotech, Inc., a clinical-stage pharmaceutical company, and has served as its Chairman of the Board and Chief Executive Officer since July 2015 and as president since August 2017. From July 2018 until December 2021, Mr. Klemp served as Executive Chairman on the Board of Directors of Soliton, Inc., a medical device company focused on developing new technology for use in aesthetics. In December 2021 Soliton, Inc. was acquired by AbbVie, Inc. From November 2011 to July 2018, Mr. Klemp served as Chief Executive Officer of Soliton. Mr. Klemp served as President and Chief Executive Officer of Zeno Corporation from 2004 to April 2011, where he developed and marketed dermatology devices and drugs from concept through FDA approval and market launch. From 1987 to 2000, Mr. Klemp served as Chief Executive Officer and Chairman of Drypers Corporation, a publicly traded multinational consumer products company that was listed as #1 on the INC 500 List of America’s Fastest Growing Companies. We believe that Mr. Klemp’s extensive experience in the medical device field provide him with the qualifications to serve as a Chairman of the Board.
+Lori Bisson, Vice Chair and Director. Ms. Bisson joined us in July 2023 as a director and served as our Chief Executive Officer from July 2023 until June 2024 and as Vice Chair since June 2024. From January 2015 until June 2022, Ms. Bisson served as Chief Financial Officer of Soliton, Inc., a medical device company focused on developing new technology for use in aesthetics. Soliton was purchased by AbbVie in 2021 and she continued to provide transition support post-acquisition. Prior to joining Soliton, Ms. Bisson worked as a financial and business development consultant as a shareholder in Condon & Company, PC, from 2009 through December 2014, where she advised a number of life science companies. From 2005 to 2009, Ms. Bisson served as the Chief Financial Officer and Vice President of Operations for Zeno Corporation, a medical device company focused on new technology in the aesthetics area. Ms. Bisson previously served as the Chief Financial Officer of Gulfstream Trading, Ltd., an international oil trading organization from 2001 to 2005. From 1995 to 2001, Ms. Bisson held various positions with Drypers Corporation, a publicly traded multinational consumer products company, where she ultimately held the title of Vice President of Integrated Solutions and oversaw accounting, information technology, and logistics for the U.S. operation. Ms. Bisson began her career at Arthur Andersen, LLP as an auditor focused on consumer products companies. Ms. Bisson also serves as an advisor to Moleculin Biotech, Inc., a clinical stage pharmaceutical company focused on the development of oncology drug candidates. Ms. Bisson is a Certified Public Accountant and holds a B.A. degree in Accounting from Baylor University. We believe that Ms. Bisson’s extensive experience in the medical device field provides her with the qualifications to serve as a director.
+Jonathan P. Foster, Director. Mr. Foster joined us in January 2022 as a director. Mr. Foster has served as the Chief Financial Officer and Executive Vice President of Moleculin Biotech, Inc., a clinical-stage pharmaceutical company, since August 2016. Mr. Foster brings more than 30 years in financial experience holding a variety of executive and senior financial positions with public, private, start-up to large corporate and international companies. From February 2012 to August 2016, Mr. Foster served as Chief Financial Officer and Executive Vice President of InfuSystem Holdings, Inc., a national provider of infusion pumps and related services to the healthcare industry. From May 2011 to January 2012, Mr. Foster served as a consultant to the Chief Financial Officer of LSG Sky Chefs, USA, Inc., a subsidiary of Deutsche Lufthansa AG. Prior to that Mr. Foster served in various C-suite capacities with public and private companies with his start beginning as Manager at Deloitte & Touche, LLP. Mr. Foster served on the Board of Financial Institutions for the State of South Carolina from 2006 to 2012 and from June 2018 until December 2021 served on the Board of Directors of Soliton, Inc., a medical device company focused on developing new technology for use in aesthetics, where he was the Chairman of the Audit and Compensation Committees and the past Chairman of the Nominating & Governance Committee. In December 2021 Soliton, Inc. was acquired by AbbVie, Inc. Since June 2021, Mr. Foster has served on the Board of Directors of Volcon, Inc. where he is the past Chairman and current member of the Audit Committee, a member of the Nominating & Governance Committee and is the Chairman of the Compensation Committee. Mr. Foster is a Certified Public Accountant (South Carolina) and holds the designation of Chartered Global Management Accountant from the American Institute of Certified Public Accountants. He received his BS in Accounting from Clemson University in 1985. We believe that Mr. Foster’s extensive experience in the medical field provide him with the qualifications to serve as a director.
+5
+Table of Contents
+David Robins, Director. Mr. Robins was a co-founder of our company and has served as a director since February 2022. Mr. Robins is also a founder and board member of LifeLens that is currently developing on the body sensing devices. Since 2013, Mr. Robins has served as co-CEO of DavosPharma, a privately held corporation that focuses on supporting biotechnology and medical device companies with manufacturing their products for clinical trials and commercialization. He received his BS in Engineering Chemistry from Queen’s University in Kingston, Ontario and a MS in Chemical Engineering from Syracuse University. Mr. Robins has a significant background in taking medical devices and drugs from clinical trials to commercialization and FDA approvals. We believe that Mr. Robins’ extensive experience in medical device development provide him with the qualifications to serve as a director.
+Christopher Capelli, Director. Dr. Capelli currently works at AbbVie as Research Fellow and Scientific Officer & Medical Device Advisor/Soliton for Allergan Aesthetics R&D Surgical Devices. Prior to being acquired by AbbVie in December 2021, he was the Vice Chairman of the Board, Chief Science Officer and Co-founder for Soliton, Inc., a medical device company that was commercializing RESONIC™ for the dermatologic esthetics marketplace based on its Rapid Acoustic Pulse (“RAP”) technology. Dr. Capelli is the lead inventor in Soliton’s RAP technology. A graduate of Massachusetts Institute of Technology (“MIT”) with a Bachelor of Science degree in Mechanical Engineering, Dr. Capelli earned his MD from the University of Wisconsin Medical School and maintains a medical license in the State of Wisconsin. As a result of his scientific work since graduating from MIT, Dr. Capelli holds over 100 issued patents and patent applications worldwide. These patents served as the basis for the creation of five companies having a total market capitalization greater than $36 billion. As a businessman, Dr. Capelli has been directly involved in the start-up of numerous venture-capital backed biomedical company ventures. We believe that Dr. Capelli’s extensive experience in medical device development provide him with the qualifications to serve as a director.
+No director is related to any other director or executive officer of our company or our subsidiaries, and, there are no arrangements or understandings between a director and any other person pursuant to which such person was elected as director.
+GOVERNANCE OF THE COMPANY
+Board Committees
+Our board of directors has three standing committees: an Audit Committee, a Compensation Committee and a Nominating and Corporate Governance Committee. Each of the Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee have a written charter. The charters, which include the functions and responsibilities of each of the committees, can be found in the “Investors - Corporate Governance” section on our web site at https://ir.autonomix.com/corporate-governance.
+Audit Committee. Our audit committee consists of three independent directors. The members of the audit committee are Jonathan Foster, David Robins and Christopher Capelli. Mr. Foster is the chairperson of the audit committee. The audit committee consists exclusively of directors who are financially literate. In addition, Mr. Foster is considered an “audit committee financial expert” as defined by the SEC’s rules and regulations.
+The audit committee responsibilities include:
+●
+overseeing the compensation and work of and performance by our independent registered public accounting firm and any other registered public accounting firm performing audit, review or attestation services for us;
+●
+engaging, retaining and terminating our independent registered public accounting firm and determining the terms thereof;
+●
+assessing the qualifications, performance and independence of the independent registered public accounting firm;
+●
+evaluating whether the provision of permitted non-audit services is compatible with maintaining the auditor’s independence;
+●
+reviewing and discussing the audit results, including any comments and recommendations of the independent registered public accounting firm and the responses of management to such recommendations;
+●
+reviewing and discussing the annual and quarterly financial statements with management and the independent registered public accounting firm;
+●
+producing a committee report for inclusion in applicable Commission filings;
+●
+reviewing the adequacy and effectiveness of internal controls and procedures;
+●
+establishing procedures regarding the receipt, retention and treatment of complaints received regarding the accounting, internal accounting controls, or auditing matters and conducting or authorizing investigations into any matters within the scope of the responsibility of the audit committee; and
+●
+reviewing transactions with related persons for potential conflict of interest situations.
+6
+Table of Contents
+Compensation Committee. Our compensation committee consists of three independent directors. The members of the compensation committee are Jonathan Foster, David Robins and Christopher Capelli. Mr. Foster is the chairperson of the compensation committee. The committee has primary responsibility for:
+●
+reviewing and recommending all elements and amounts of compensation for each executive officer, including any performance goals applicable to those executive officers;
+●
+reviewing and recommending for approval the adoption, any amendment and termination of all cash and equity-based incentive compensation plans;
+●
+once required by applicable law, causing to be prepared a committee report for inclusion in applicable Commission filings;
+●
+approving any employment agreements, severance agreements or change of control agreements that are entered into with the CEO and certain executive officers; and
+●
+reviewing and recommending the level and form of non-employee director compensation and benefits.
+Nominating and Governance Committee. The nominating and governance committee consists of three independent directors. The members of the nominating and governance committee are Jonathan Foster, David Robins and Christopher Capelli. Mr. Robins is the chairperson of the nominating and governance committee. The committee’s responsibilities include:
+●
+recommending persons for election as directors by the stockholders;
+●
+recommending persons for appointment as directors to the extent necessary to fill any vacancies or newly created directorships;
+●
+reviewing annually the skills and characteristics required of directors and each incumbent director’s continued service on the board;
+●
+reviewing any stockholder proposals and nominations for directors;
+●
+advising the board of directors on the appropriate structure and operations of the board and its committees;
+●
+reviewing and recommending standing board committee assignments;
+●
+developing and recommending to the board Corporate Governance Guidelines, a Code of Business Conduct and Ethics and other corporate governance policies and programs and reviewing such guidelines, code and any other policies and programs at least annually;
+●
+making recommendations to the board as to determinations of director independence; and
+●
+making recommendations to the board regarding corporate governance based upon developments, trends, and best practices.
+Nomination of Director Candidates
+We receive suggestions for potential director nominees from many sources, including members of the Board, advisors, and stockholders. Our Nominating and Corporate Governance Committee charter states that our Nominating and Corporate Governance Committee shall consider any director candidates recommended by our stockholders pursuant to the procedures set forth in our proxy statement, or made in accordance with applicable laws, rules and regulations and the provisions of our charter documents. Any such nominations, together with appropriate biographical information, should be submitted to the Chairperson of the Nominating and Corporate Governance Committee in the manner discussed below. Any candidates submitted by a stockholder or stockholder group are reviewed and considered in the same manner as all other candidates.
+Qualifications for consideration as a Board nominee may vary according to the particular areas of expertise being sought as a complement to the existing board composition. However, minimum qualifications include high level leadership experience in business activities, breadth of knowledge about issues affecting the Company, experience on other boards of directors, preferably public company boards, and time available for meetings and consultation on Company matters. Our Nominating and Corporate Governance Committee does not have a formal policy with regard to the consideration of diversity in identifying director candidates but seeks a diverse group of candidates who possess the background, skills and expertise to make a significant contribution to the Board, to the Company and our stockholders. Candidates whose evaluations are favorable are recommended by our Nominating and Corporate Governance Committee to the full Board for consideration. The full Board selects and recommends candidates for nomination as directors for stockholders to consider and vote upon at the annual meeting.
+7
+Table of Contents
+A stockholder wishing to nominate a candidate for election to our Board of Directors at any annual meeting at which the Board of Directors has determined that one or more directors will be elected must submit a written notice of his or her nomination of a candidate to the Chairperson of the Nominating and Corporate Governance Committee (c/o the Corporate Secretary), providing the candidates name, biographical data and other relevant information together with a consent from the nominee. Pursuant to our Bylaws, the submission must be received at our principal executive offices 120 days prior to the anniversary date of our previous year’s proxy statement so as to permit the Board of Directors time to evaluate the qualifications of the nominee.
+In addition to satisfying the foregoing requirements under our Bylaws, stockholders who intend to solicit proxies in support of director nominees other than our nominees must comply with the additional requirements of Rule 14a-19(b) under the Exchange Act to comply with the universal proxy rules. The requirements under the universal proxy rules are in addition to the applicable procedural requirements under our Bylaws described above.
+Stockholder Communications with Directors
+Persons wishing to write to our Board of Directors, or to a specified director or committee of the Board, should send correspondence to the Corporate Secretary at 21 Waterway Avenue, Suite 300, The Woodlands, Texas 77380. Electronic submissions of stockholder correspondence will not be accepted.
+The Corporate Secretary will forward to the directors all communications that, in his or her judgment, are appropriate for consideration by the directors. Examples of communications that would not be appropriate for consideration by the directors include commercial solicitations and matters not relevant to the stockholders, to the functioning of the Board or to the affairs of the Company. Any correspondence received that is addressed generically to the Board of Directors will be forwarded to the Chairman of the Board.
+Anti-Hedging Policy
+Our policies prohibit directors, officers and other employees from purchasing financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds), or otherwise engaging in transactions, that hedge or offset, or are designed to hedge or offset, any decrease in the market value of our equity securities without our prior approval.
+Code of Ethics
+We have adopted a written code of ethics that applies to our directors, principal executive officer, principal financial officer, principal accounting officer or controller and any persons performing similar functions. The code of ethics is on the “Investors - Corporate Governance” section of our web site at https://ir.autonomix.com/corporate-governance. We intend to disclose any future amendments to, or waivers from, the code of ethics within four business days of the waiver or amendment through a website posting or by filing a Current Report on Form 8-K with the SEC.
+Insider Trading Policy
+Our Board has adopted an Insider Trading Policy that applies to all of our directors, executive officers, and employees. The policy attempts to establish standards that will avoid even the appearance of improper conduct on the part of insiders by requiring, among other things, that insiders maintain the confidentiality of information about the Company and to not engage in transactions in the Company’s securities while aware of material nonpublic information. Our insider trading policy was filed as Exhibit 19 to the original Annual Report of Form 10-K filed on May 29, 2025.
+Delinquent Section 16(A) Reports
+Section 16(a) of the Exchange Act requires our directors and executive officers and persons who own more than 10% of the outstanding shares of common stock to file reports with the SEC disclosing their ownership of common stock at the time they become subject to Section 16(a) and changes in such ownership that occur during the year. Based solely on a review of copies of such reports furnished to us, or on written representations that no reports were required, we believe that all directors, executive officers and holders of more than 10% of the common stock complied in a timely manner with the filing requirements applicable to them with respect to transactions during the year ended March 31, 2025, other than one Form 4 by David Robins reporting one transaction that was filed on July 26, 2024.
+8
+Table of Contents
+Item 11.         Executive Compensation
+Executive Officer Compensation
+Our named executive officers for the years ended March 31, 2025 and 2024, which consist of our principal executive officer and our two other most highly compensated executive officers, are:
+Summary Compensation Table – Fiscal 2025 and 2024
+Name and Principal Position
+Year
+Salary
+( $ )
+Non-Equity
+Incentive Plan Compensation
+( $ )
+Option
+Awards
+( $ ) (1)
+All Other
+Compensation
+( $ ) (2)
+Total
+( $ )
+Brad Hauser - Chief Executive Officer and President (3)
+2025
+356,250
+202,350
+1,103,961
+-
+1,662,561
+Lori Bisson - Vice Chair (4)
+2025
+210,000
+93,813
+355,285
+-
+659,098
+2024
+225,000
+150,000
+1,468,725
+17,505
+1,861,230
+Dr. Robert Schwartz, Former Chief Executive Officer and current Chief Medical Officer (5)
+2025
+100,000
+33,250
+247,861
+-
+381,111
+2024
+100,000
+35,000
+-
+-
+135,000
+Landy Toth - Chief Technology Officer (6)
+2025
+147,917
+-
+165,241
+-
+313,158
+2024
+187,500
+-
+-
+-
+187,500
+Trent Smith - Chief Financial Officer (7)
+2025
+295,000
+108,300
+214,831
+-
+618,131
+2024
+159,375
+74,250
+673,783
+18,114
+925,522
+Walter Klemp - Executive Chair (8)
+2025
+160,417
+-
+165,241
+-
+325,658
+2024
+200,000
+-
+-
+-
+200,000
+(1)
+Represents the full grant date fair value of the option award our board approved and granted to each non-employee director, calculated in accordance with FASB ASC Topic 718. These option awards have been updated from the prior year 10-K/A filed on July 26, 2024 to reflect the option awards broken down for fiscal years 2025 and 2024. These amounts do not necessarily correspond to the actual value that may be realized by the named executive officer or director. For a summary of the assumptions made in the valuation of the awards, please see Note 4 to our financial statements as of and for the period ended March 31, 2025 included in the Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC) on May 29, 2025.
+(2)
+Other compensation amount represents health care insurance costs the Company currently pays for all employees, including $12,634 each for Ms. Bisson and Mr. Smith in fiscal year 2024. In addition, during fiscal year 2024, the Company reimbursed Ms. Bisson $4,871 and Mr. Smith $5,480 each for COBRA reimbursements.
+(3)
+Mr. Hauser joined the Company on June 17, 2024. For fiscal year 2025, Mr. Hauser's annual base salary was $450,000.
+(4)
+Ms. Bisson joined the Company on July 1, 2023. Ms. Bisson’s annual base salary was $300,000. Ms. Bisson's annual base salary was increased to $375,000 on February 1, 2024. Ms. Bisson's annual base salary was decreased to $150,000 on June 17, 2024 upon transitioning from Chief Executive Officer to Vice Chair.
+(5)
+Mr. Schwartz took a voluntary pay reduction as follows: $50,000 effective April 2025 (fiscal year 2026), which will result in Mr. Schwartz' annual salary being $50,000 on a go-forward basis.
+(6)
+Mr. Toth took voluntary pay reductions as follows: $50,000 in fiscal year 2025 and $87,500 effective April 2025 (fiscal year 2026), which will result in Mr. Toth's annual salary being $50,000 on a go-forward basis.
+(7)
+Mr. Smith joined the Company on July 24, 2023. For fiscal year 2024, Mr. Smith’s annual base salary was $225,000. For fiscal year 2025, Mr. Smith's base salary was increased to $285,000 on February 1, 2024. In June 2024, Mr. Smith received a retroactive salary payment of $20,000. This payment covered the period February 1, 2024 through May 31, 2024. As such, $10,000 applied to fiscal year 2024 and $10,000 applied to fiscal year 2025.
+(8)
+Mr. Klemp took voluntary pay reductions as follows: $50,000 in fiscal year 2025 and $100,000 effective April 2025 (fiscal year 2026), which will result in Mr. Klemp's annual salary being $50,000 on a go-forward basis.
+Employment Agreements
+Brad Hauser Employment Agreement
+On June 17, 2024, we entered into an employment agreement with Brad Hauser pursuant to which Mr. Hauser agreed to serve as our chief executive officer and president for an initial three-year period, which may be extended on a year-to-year basis. Mr. Hauser’s agreement provides for an initial annual base salary of $450,000 (subject to an annual review and increase at the discretion of our Compensation Committee) and a target annual bonus of 60% of his base salary. Pursuant to the agreement, Mr. Hauser was granted a ten-year option (the “Inducement Options”) to purchase 45,000 shares of common stock at an exercise price equal to the closing price of our common stock on the date of the employment agreement. The option vests in four equal annual installments (or 11,250 shares each installment) on each of the succeeding four anniversary dates of the execution of the employment agreement, provided Mr. Hauser is employed by us on each vesting date. In the event of a “change of control” or the termination of the agreement by us without “cause” or by Mr. Hauser for “good reason,” all of the unvested options shall immediately vest. The Inducement Options were granted outside of our 2023 Stock Plan as an inducement material to Mr. Hauser’s entering into employment with us in accordance with Nasdaq Stock Market Listing Rule 5635(c)(4). Commencing with the year ending March 31, 2025, Mr. Hauser will be eligible to receive annual option grants as determined by the Compensation Committee of the Board of Directors, based on criteria established by the Compensation Committee. The number of shares underlying the target annual option grant will be equal to $1,000,000 divided by the Black-Scholes value per share of our common stock on the date of grant.
+9
+Table of Contents
+If Mr. Hauser’s employment is terminated at our election without “cause,” or by Mr. Hauser for “good reason,” Mr. Hauser shall be entitled to receive severance payments equal to twelve months of Mr. Hauser’s base salary and 100% of the target bonus for the year in which such termination occurs; provided that such amounts shall be increased by 50% if Mr. Hauser’s agreement is terminated without “cause” or by Mr. Hauser for “good reason” within three months prior to or twelve months after a “change of control.” In the event that any payments or benefits provided to Mr. Hauser would trigger the excise tax under Section 4999 of the Internal Revenue Code or any similar provision, the Company agreed to provide Mr. Hauser with a gross-up payment to ensure that, after payment of all taxes (including the excise tax, federal, state, and local income taxes, and employment taxes) imposed on the gross-up payment, Mr. Hauser receives a net amount equal to the payments or benefits Mr. Hauser would have received if the excise tax didn't apply.
+Lori Bisson – Employment Agreement
+On June 17, 2024, we entered into an employment agreement with Lori Bisson pursuant to which Ms. Bisson agreed to serve as our Executive Vice Chair and Strategic Adviser to the Chief Executive Officer (“Vice Chair”) for a two-year period. Ms. Bisson’s agreement provides for an initial annual base salary of $150,000 (subject to an annual review and increase at the discretion of our Compensation Committee) and a target annual bonus of 50% of her base salary. Pursuant to the agreement, Ms. Bisson continued to vest in the option grants issued to Ms. Bisson in her role as chief executive officer and president in accordance with the vesting schedule set out in her initial employment agreement. In the event of a “change of control” or the termination of the agreement by us without “cause” or by Ms. Bisson for “good reason,” all of the unvested options shall immediately vest. Ms. Bisson is entitled to receive any compensation, including incentive compensation, for the fiscal year ended March 31, 2024 that has not been paid as of the date of the agreement. Commencing with the year ending March 31, 2025, Ms. Bisson will be eligible to receive annual option grants as determined by the Compensation Committee of the Board of Directors, based on criteria established by the Compensation Committee. Ms. Bisson agreed to waive any severance payments due to her in connection with the termination of the prior employment agreement that we entered into with her on June 30, 2023.
+On June 30, 2023, we entered into an employment agreement with Lori Bisson pursuant to which Ms. Bisson agreed to serve as our Chief Executive Officer commencing July 1, 2023 for an initial term of three years, which will be automatically renewed for additional one-year terms unless either party chooses not to renew the agreement. The agreement provided for an initial annual base salary of $300,000. Ms. Bisson is eligible to receive an annual bonus of up to 50% of her base salary, provided that the final determination on the amount of the annual bonus, if any, will be made by the Compensation Committee of the Board of Directors, based on criteria established by the Compensation Committee.
+Pursuant to the agreement, Ms. Bisson was granted a ten-year option to purchase 46,680 shares of our common stock at an exercise price of $40.00 per share. The option vests in 48 equal installments (or 973 shares each installment) on each of the succeeding forty-eight monthly anniversary dates of the execution of the employment agreement, provided Ms. Bisson is either CEO or a member of the Board of Directors on such vesting date. In the event of a “change of control” or the termination of the prior agreement by us without “cause” or by Ms. Bisson for “good reason,” all of the unvested options shall immediately vest. Commencing with the first full compensation year subsequent to the completion of this offering, Ms. Bisson will be eligible to receive annual option grants as determined by the Compensation Committee of the Board of Directors, based on criteria established by the Compensation Committee. The number of shares underlying the target annual option grant for the initial grant after the completion of the IPO was to be equal to $300,000 divided by the Black-Scholes value per share of our common stock on the date of grant. In the event Ms. Bisson’s agreement is terminated without “cause” or by Ms. Bisson for “good reason” within three months prior to or twelve months after of a “change of control”, all of the unvested options shall immediately vest.
+If Ms. Bisson’s employment is terminated at our election without “cause”, which requires 90 days advance notice, or by Ms. Bisson for “good reason,” Ms. Bisson shall be entitled to receive severance payments equal to twelve months of Ms. Bisson’s base salary and 100% of the target bonus for the year in which such termination occurs; provided that such amounts shall be increased by 50% if Ms. Bisson’s agreement is terminated without “cause” or by Ms. Bisson for “good reason” within three months prior to or twelve months after of a “change of control.” Ms. Bisson agreed not to compete with us until twelve months after the termination of her employment.
+Trent Smith – Chief Financial Officer
+On July 24, 2023, we entered into an employment agreement with Trent Smith pursuant to which Mr. Smith agreed to serve as our Chief Financial Officer for an initial term of three years, which will be automatically renewed for additional one-year terms unless either party provides 90 days written notice to the other party of its decision not to renew the agreement. The agreement provided for an initial annual base salary of $225,000. Mr. Smith is eligible to receive an annual bonus of up to 33% of his base salary, provided that the final determination on the amount of the annual bonus, if any, will be made by the Compensation Committee of the Board of Directors, based on criteria established by the Compensation Committee.
+Pursuant to the agreement, Mr. Smith was granted a ten-year option to purchase 21,250 shares of our common stock at an exercise price of $40.00 per share. The option vests vest in four equal annual installments (or 5,313 shares each installment) on each of the succeeding four anniversary dates of the execution of the employment agreement, provided Mr. Smith is CFO on such vesting date. In the event of a “change of control” or the termination of the agreement by us without “cause” or by Mr. Smith for “good reason,” all of the unvested options shall immediately vest. Commencing with the fiscal year ended March 31, 2025, Mr. Smith will be eligible to receive annual option grants as determined by the Compensation Committee of the Board of Directors, based on criteria established by the Compensation Committee.
+10
+Table of Contents
+If Mr. Smith’s employment is terminated upon his disability or death, at our election without “cause”, which requires 90 days advance notice, or by Mr. Smith for “good reason,” which requires 30 days advance notice, Mr. Smith shall be entitled to receive severance payments equal to nine months of Mr. Smith’s base salary and 100% of the target bonus for the year in which such termination occurs; provided that such amounts shall be increased to thirteen and one-half months of Mr. Smith’s base salary and 125% of the target bonus for the year in which such termination occurs if Mr. Smith’s agreement is terminated without “cause” or by Mr. Smith for “good reason” within three months prior to or twelve months after of a “change of control.” Mr. Smith agreed not to compete with us until twelve months after the termination of his employment.
+Other Agreements
+In January 2022, we entered into an at-will employment letter with Dr. Schwartz to serve as our acting Chief Executive Officer on a part-time basis comprising 25% of his working time until we identified a full-time Chief Executive Officer, at which time Dr. Schwartz would become our Chief Medical Officer. Pursuant to the letter, we agreed to pay Dr. Schwartz a base salary of $100,000 per year, and to pay Dr. Schwartz an annual incentive cash bonus of up to 35% of his base salary subject to the achievement of agreed upon goals and objectives and the approved of our Board of Directors or Compensation Committee. In connection with the employment letter, we issued Dr. Schwartz a grant of 20,000 shares of our common stock. Upon the appointment of Ms. Bisson as Chief Executive Officer, Dr. Schwartz agreed to serve as our Chief Medical Officer on a part-time basis comprising 25% of his working time.
+Effective January 2022, we entered into an amended and restated consulting agreement with Mr. Toth to provide services to us on a part-time basis comprising 25% of his working time. Pursuant to the consulting agreement, we agreed to pay Mr. Toth a base salary of $187,500 per year commencing in June 2022. In connection with the consulting agreement, we issued Mr. Toth a stock grant of 77,500 shares of common stock. The consulting agreement may be terminated by either party on 30 days’ notice.
+In January 2022, we entered into a director offer letter with Mr. Klemp to serve as our Executive Chairman. Pursuant to the letter, we agreed to pay Mr. Klemp annual board fees of $200,000 per year. In connection with Mr. Klemp’s appointment to the Board, we issued Mr. Klemp a stock grant of 144,5000 shares of common stock.
+Narrative Disclosure to Summary Compensation Table
+We have established for compensation purposes a compensation year that matches our fiscal year that ends March 31. Subsequent to the end of the fiscal year, our Compensation Committee completes its annual review of executive compensation and determines, after researching comparable companies, the compensation arrangements for the next compensation year.
+We review compensation annually for all employees, including our executives. In setting executive base salaries and bonuses and granting equity incentive awards, we consider compensation for comparable positions in the market, the individual executive’s performance as compared to our expectations and objectives, our desire to motivate our employees to achieve short and long-term results that are in the best interests of our stockholders and a long-term commitment to our company. We do not target a specific competitive position or a specific mix of compensation among base salary, bonus or long-term incentives. Our Compensation Committee typically reviews and discusses management’s proposed compensation with the Chief Executive Officer for all executives other than the Chief Executive Officer. Based on those discussions and its discretion, the Compensation Committee then determines the compensation for each executive officer. Our Compensation Committee, without members of management present, discusses and ultimately approves the compensation of our executive officers.
+Annual Base Salary
+For the 2025 fiscal year, the annual base salaries for Ms. Bisson, Dr. Schwartz, Mr. Toth, Mr. Smith, Mr. Klemp and Mr. Hauser were $375,000, $100,000, $137,500, $285,000 and $450,000, respectively. Upon Ms. Bisson's change in responsibilities in June 2024, her annual base salary was reduced to $150,000. For the 2026 fiscal year, the base salaries for Ms. Bisson, Dr. Schwartz, Mr. Toth, Mr. Smith, Mr. Klemp and Mr. Hauser will be $150,000, $50,000, $50,000, $296,400, $50,000 and $468,000, respectively.
+Annual Bonus and Non-Equity Incentive Plan Compensation.
+We seek to motivate and reward our executives for achievements relative to our corporate goals and objectives, and with respect to their respective individual goals, for each fiscal year. For the last fiscal year, the target bonus for Ms. Bisson, Dr. Schwartz, Mr. Toth, Mr. Smith, Mr. Klemp and Mr. Hauser were 50%, 35%, 0%, 40%, 0% and 60%, respectively, of their base salary. For the 2026 fiscal year, the target bonus each year for Ms. Bisson, Dr. Schwartz, Mr. Toth, Mr. Smith, Mr. Klemp and Mr. Hauser are 50%, 35%, 0%, 40%, 0%, and 60% respectively, of their base salary.
+The actual performance-based annual bonus paid is calculated by multiplying the executive’s annual base salary, target bonus percentage, the percentage attainment of the corporate goals established by the Board for such year, which represents the total potential bonus payable to our named executive officers, and the percentage attainment of the individual goals approved by our Compensation Committee with respect to our other executive officers. However, the Compensation Committee is not required to calculate bonuses in this manner and retains discretion in the amounts it awards and the factors it takes into consideration in determining bonus amounts. At the end of the fiscal year, the Compensation Committee reviews our performance against our goals and objectives and approves the extent to which we achieved each of our corporate and individual goals and objectives, and, for each named executive officer, the amount of the bonus awarded.
+11
+Table of Contents
+For the last fiscal year, bonuses were awarded based on our achievement of specified corporate goals, including securing strategic partnerships, progress on our pivotal trial, completion of financings and completion of the ongoing clinical proof of concept trial. These corporate goals accounted for 100% of our base line bonuses. In addition, our Compensation Committee specified a series of "stretch goals," that, if achieved, would result in an additional 20%. Based on the level of achievement, our Compensation Committee awarded Ms. Bisson, Dr. Schwartz, Mr. Smith and Mr. Hauser 95%, respectively, of their potential bonuses for the year. These actual bonus amounts are reflected in the "Non-Equity Incentive Plan Compensation" column of the Summary Compensation Table above.
+For the 2026 fiscal year, bonuses will be awarded based on our achievement of specified corporate goals, including securing strategic partnerships, progress on our pivotal trial, completion of financings, design lock for catheter and completion of the second phase of the clinical proof of concept trial. These corporate goals account for 100% of our base line bonuses. In addition, our Compensation Committee specified a series of “stretch goals,” that, if achieved, would result in an additional 20%.
+Long-Term Incentives
+Our 2023 Stock Plan provides for the grant of stock options, stock awards, stock unit awards and stock appreciation rights to key employees, non-employee directors and consultants.
+Each year our Compensation Committee establishes a value for the expected equity grant issuable to each of our named executive officers. For options, we typically set the option exercise price and grant date fair value based on the closing price of our common stock on Nasdaq on the date of grant, however, there may be instances where we may use an average closing price, up to five days, to set the option exercise price. The shares underlying options typically vest in four equal annual installments. For other equity awards, the grant date fair value is based on the closing price of our common stock on Nasdaq on the date of grant.
+As of July 25, 2025, no equity grants for Ms. Bisson, Mr. Smith, Mr. Klemp and Mr. Hauser have been granted for fiscal year 2026. The final determination for any equity grants remain at the discretion of the Compensation Committee.
+12
+Table of Contents
+Equity Awards
+The following table sets forth certain information concerning our outstanding equity awards for our named executive officers at March 31, 2025.
+Outstanding Equity Awards At Fiscal Year-End
+Option Awards
+Name and Principal Position
+Grant Date
+of Equity
+Award
+Number of
+Securities
+Underlying
+Unexercised
+Options
+( # )
+Exercisable (1)
+Number of
+Securities
+Underlying
+Unexercised
+Options
+( # )
+Unexercisable (1)
+Option
+Exercise
+Price
+( $ )
+Option
+Expiration
+Date
+Brad Hauser - Chief Executive Officer
+06/17/24
+-
+45,000
+27.00
+06/17/34
+Lori Bisson - Vice Chair
+06/21/24
+-
+18,862
+26.56
+06/21/34
+06/30/23
+20,423
+26,257
+40.00
+06/30/33
+Dr. Robert Schwartz, Chief Medical Officer
+06/21/24
+-
+13,159
+26.56
+06/21/34
+Landy Toth - Chief Technology Officer
+06/21/24
+-
+8,773
+26.56
+06/21/34
+Trent Smith - Chief Financial Officer
+06/21/24
+-
+11,405
+26.56
+06/21/34
+07/24/23
+5,313
+15,937
+40.00
+07/24/33
+Walter Klemp - Executive Chairman
+06/21/24
+-
+8,773
+26.56
+06/21/34
+(1)       The shares underlying the options granted on June 30, 2023 for Ms. Bisson vest in equal monthly installments over a four-year period (i.e., 1/48th of each grant vests each month on the anniversary of the grant date). The shares underlying the options granted on July 21, 2023 for Mr. Smith vest in annual installments over a four-year period (i.e., one-quarter of each grant vests on the first, second, third and fourth anniversary of the grant date), subject to continued service with us through each applicable vesting date. The shares underlying the options granted on June 21, 2024 vest in annual installments over a four-year period (i.e., one-quarter of each grant vests on the first, second, third and fourth anniversary of the grant date), subject to continued service with us through each applicable vesting date.
+Director Compensation
+13
+Table of Contents
+Commencing upon the closing of our IPO in January 2024, our non-employee directors began to receive annual compensation of $50,000. In May 2024, the Board of Directors approved an updated non-employee director compensation plan, pursuant to which upon the initial appointment (or election) of an non-employee director to the Board, the non-employee director shall be issued a 10-year option to purchase 3,750 shares of the Company’s common stock, under the 2023 Stock Plan, that will vest in three equal annual installments over a three-year period. In addition, on the date of our annual meeting, each non-employee director that is re-elected at the Annual Shareholder Meeting will be issued a 10-year option to purchase 2,500 shares of the Company’s common stock, under the 2023 Stock Plan that will vest quarterly over a one-year period. In addition, each non-employee director will receive an annual compensation of $40,000 and special service pay amounts based on service for committee responsibilities as follows: Audit Committee Chair - $15,000; Compensation Committee Chair - $10,000; and Nominating and Governance Chair - $7,500. Each non-chair committee member will also received the following compensations: Audit Committee member - $7,500; Compensation Committee member - $5,000; and Nominating and Governance Committee member - $3,750.
+The following table sets forth the total compensation earned by our non-employee directors in fiscal 2025. Mr. Klemp’s compensation is fully reflected in the “Summary Compensation Table” above:
+Name
+Year
+Fees earned
+or paid in
+cash
+( $ )
+Option
+awards
+( $ ) (1)
+Total
+( $ )
+Jonathan P. Foster
+2025
+68,750
+$
+-
+68,750
+David Robins
+2025
+60,000
+$
+-
+60,000
+Christopher Capelli
+2025
+56,250
+$
+-
+56,250
+(1)         Represents the full grant date fair value of the option award our board approved and granted to each non-employee director, calculated in accordance with FASB ASC Topic 718. These amounts do not necessarily correspond to the actual value that may be realized by the director. For a summary of the assumptions made in the valuation of the awards, please see Note 4 to our financial statements as of and for the period ended March 31, 2025 included in the Annual Report on Form 10-K filed with the SEC on May 29, 2025. As of March 31, 2025, the aggregate number of shares outstanding under all options to purchase our common stock held by our non-employee directors were: Mr. Capelli – 3,750 shares.
+Recoupment Policy
+We adopted the Autonomix Medical, Inc. Dodd-Frank Restatement Recoupment Policy. In the event that we are required to prepare a financial restatement, the Committee will recoup all erroneously awarded incentive-based compensation calculated on a pre-tax basis, by a person (i) after beginning service as an executive officer, (ii) who served as an executive officer at any time during the performance period for that incentive-based compensation, and (iii) during the three completed fiscal years immediately preceding the date that the Company is required to prepare a restatement, and any transition period (that results from a change in the Company’s fiscal year) of less than nine months within or immediately following those three completed fiscal years. “clawback” or recoupment policy in our executive compensation program contributes to creating and maintaining a culture that emphasizes integrity and accountability and reinforces the performance-based principles underlying our executive compensation program.
+Granting of Certain Equity Awards Close in Time to the Release of Material Nonpublic Information
+We do not grant equity awards in anticipation of the release of material nonpublic information that is likely to result in changes to the price of our common stock, and do not time the public release of such information based on award grant dates. During the last completed fiscal year, we have not made awards to any named executive officer during the period beginning four business days before and ending one business day after the filing of a period report on Form 10-Q or Form 10-K or the filing or furnishing of a current report on Form 8-K, and we have not timed the disclosure of material nonpublic information for the purpose of affecting the value of executive compensation.
+Risks from Compensation Policies and Practices
+Our Compensation Committee reviews our compensation policies and practices to determine areas of potential risks and the actions we have taken, or should take, to mitigate any such identified risks. Based on the Compensation Committee’s review of our compensation policies and practices, we do not believe that any risks relating to our compensation policies and practices for our employees are reasonably likely to have a material adverse effect on our business.
+Item 12.         Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The following table sets forth information, as of June 30, 2025, regarding beneficial ownership of our common stock by:
+•
+each of our directors;
+•
+each of our named executive officers;
+•
+all directors and executive officers as a group; and
+14
+Table of Contents
+•
+each person, or group of affiliated persons, known by us to beneficially own more than five percent of our shares of common stock.
+Beneficial ownership is determined according to the rules of the SEC, and generally means that person has beneficial ownership of a security if he or she possesses sole or shared voting or investment power of that security and includes options that are currently exercisable or exercisable within 60 days. Each director or officer, as the case may be, has furnished us with information with respect to beneficial ownership. Except as otherwise indicated, we believe that the beneficial owners of common stock listed below, based on the information each of them has given to us, have sole investment and voting power with respect to their shares, except where community property laws may apply. Except as otherwise noted below, the address for each person or entity listed in the table is c/o Autonomix Medical, Inc., 21 Waterway Avenue, Suite 300, The Woodlands, TX 77380.
+As of June 30, 2025
+Shares
+beneficially
+owned (1)
+Percent
+of
+Class
+Name of Beneficial Owner
+Executive officers and directors:
+Brad Hauser
+11,250
+*
+Lori Bisson
+32,779
+*
+Dr. Robert Schwartz
+39,055
+*
+Landy Toth
+103,508
+2.6
+%
+Walter Klemp
+152,943
+3.8
+%
+Jonathan P. Foster
+36,563
+*
+Christopher Capelli
+3,750
+*
+David Robins
+26,582
+(2)
+*
+Trent Smith
+11,914
+*
+All Executive Officers and Directors as a group (9 persons)
+418,343
+10.2
+%
+*Less than 1%
+(1)       Consists of shares of common stock underlying options and convertible notes to purchase common stock that vest within 60 days of June 30, 2025.
+(2)       Includes a portion of 80,000 warrants to purchase shares of the Company’s common stock that was held by Impulse Medical, Inc., in which Mr. Robins owns 19.5% through Portsmouth Therapeutics, Inc., an entity in which Mr. Robins also owns a 33.33% interest. The shares underlying the warrants are subject to a lockup agreement for a period of six months after the closing of the Company’s IPO with respect to 12.5% of the shares issued and twelve months after the closing of the Company’s IPO for the remainder of the shares.
+15
+Table of Contents
+Securities Authorized for Issuance under Equity Compensation Plans
+The following table sets forth information regarding our equity compensation plans at March 31, 2025:
+Plan category
+Number of securities to be
+issued upon exercise of
+outstanding options,
+warrants and rights
+( a )
+Weighted-average
+exercise price of
+outstanding options,
+warrants and rights
+( b )
+Number of securities remaining
+available for future issuance
+under equity compensation
+plans (excluding securities
+reflected in column (a))
+( c )
+Equity compensation plans approved by security holders (1)
+171,483
+$
+38.91
+75,633
+Equity compensation plans not approved by security holders (2)
+75,988
+$
+22.48
+-
+(1) Represents shares of common stock issuable upon exercise of outstanding stock options under our current 2023 Stock Plan.
+(2) Consists of warrants issued for services.
+Item 13.         Certain Relationships and Related Transactions, and Director Independence
+In December 2021, we granted a company affiliated with certain early investors in the Company a license to our technology for use in the field of cardiology. In July 2023, we entered into a termination agreement for the license agreement in exchange for the issuance, upon the closing of our IPO, of a warrant to purchase 80,000 shares of our common stock at an exercise price of $0.02 per share. One of our directors, David Robins, holds a 19.5% interest in the company receiving the warrant.
+In September 2023, we commenced a private placement for up to $2.0 million in principal amount of convertible notes with a maturity date of December 31, 2025. For each dollar in principal amount of convertible notes purchased, we issued a warrant to purchase 0.0125 shares of our common stock, with an exercise price of $20.00 per share. On the closing of our IPO, the principal amount of the convertible notes converted into our common stock at a conversion price of $40.00 per share. Subsequent to September 30, 2023, members of the Company’s management, Board of Directors and an immediate family member of the Company’s management, collectively purchased $500,000 ($400,000 (for management and members of the Board of Directors) and $100,000 (for the immediate family member of the Company's management, respectively) in principal amount of convertible notes in the private placement.
+Policies and Procedures for Related Party Transactions
+Our audit committee charter provides that our audit committee is responsible for reviewing and approving in advance any related party transaction. This will cover, with certain exceptions set forth in Item 404 of Regulation S-K under the Securities Act, any transaction, arrangement or relationship, or any series of similar transactions, arrangements or relationships in which we were or will be a participant to, where the amount involved exceeds the lesser of $120,000 or one percent of the average of our total assets at year-end for the last two completed fiscal years, and a related person had or will have a direct or indirect material interest, including, without limitation, purchases of goods or services by or from the related person or entities in which the related person has a material interest, indebtedness, guarantees of indebtedness and employment by us of a related person. In determining whether to approve a proposed transaction, our audit committee will consider all relevant facts and circumstances including: (i) the materiality and character of the related party’s direct or indirect interest; (ii) the commercial reasonableness of the terms; (iii) the benefit or perceived benefit, or lack thereof, to us; (iv) the opportunity cost of alternate transactions; and (v) the actual or apparent conflict of interest of the related party.
+16
+Table of Contents
+Director Independence
+The rules of the Nasdaq Stock Market, or the Nasdaq Rules, require a majority of a listed company’s board of directors to be composed of independent directors. In addition, the Nasdaq Rules require that, subject to specified exceptions, each member of a listed company’s audit, compensation and nominating and governance committees be independent. Under the Nasdaq Rules, a director will only qualify as an independent director if, in the opinion of our Board of Directors, that person does not have a relationship that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. The Nasdaq Rules also require that audit committee members satisfy independence criteria set forth in Rule 10A-3 under the Securities Exchange Act of 1934, as amended, or the Exchange Act. In order to be considered independent for purposes of Rule 10A-3, a member of an audit committee of a listed company may not, other than in his or her capacity as a member of the audit committee, the board of directors, or any other board committee, accept, directly or indirectly, any consulting, advisory, or other compensatory fee from the listed company or any of its subsidiaries or otherwise be an affiliated person of the listed company or any of its subsidiaries. In considering the independence of compensation committee members, the Nasdaq Rules require that our board of directors must consider additional factors relevant to the duties of a compensation committee member, including the source of any compensation we pay to the director and any affiliations with our company.
+Our board of directors undertook a review of the composition of our board of directors and its committees and the independence of each director. Based upon information requested from and provided by each director concerning his or her background, employment and affiliations, including family relationships, our board of directors has determined that each of our directors, with the exception of Ms. Bisson and Mr. Klemp, are independent as defined under the Nasdaq Rules.
+Item 14.         Principal Accounting Fees and Services
+Aggregate fees for professional services rendered by the independent registered public accounting firm Forvis Mazars, LLP (PCAOB Firm ID No. 686) for their services for the fiscal years ended March 31, 2025 and 2024, respectively, were as follows:
+2025
+2024
+Audit fees
+$
+505,386
+$
+221,550
+Audit-related fees
+-
+-
+Tax fees
+61,110
+6,825
+All other fees
+-
+-
+Total
+$
+566,496
+$
+228,375
+Audit Fees
+Audit fees represent the aggregate fees billed for professional services rendered by our independent accounting firm for the audit of our annual financial statements, review of financial statements included in our quarterly reports, comfort and consent procedures for registration statements or services that are normally provided in connection with statutory and regulatory filings or engagements for those fiscal years.
+Audit-Related Fees
+Audit-related fees represent the aggregate fees billed for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and are not reported under Audit Fees.
+Tax Fees
+Tax fees represent the aggregate fees billed for professional services rendered by our principal accountants for permissible tax compliance services.
+All Other Fees
+All other fees represent the aggregate fees billed for products and services other than the services reported in the other categories.
+Audit Committee Pre-Approval Policies and Procedures
+The Audit Committee on an annual basis reviews audit and non-audit services performed by the independent auditors. All audit and non-audit services are pre-approved by the Audit Committee, which considers, among other things, the possible effect of the performance of such services on the auditors’ independence.
+17
+Table of Contents
+PART IV
+Item 15.         Exhibits, Financial Statement Schedules
+(a)         The following documents are filed or furnished as part of this Form 10-K:
+1.        Financial Statements
+Reference is made to the Index to Financial Statements under Item 8, Part II hereof.
+2.        Financial Statement Schedules
+The Financial Statement Schedules have been omitted either because they are not required or because the information has been included in the financial statements or the notes thereto included in this Annual Report on Form 10-K.
+3.        Exhibits
+18
+Table of Contents
+Exhibit Index
+Exhibit
+Number
+Description of Document
+3.1
+Amended and Restated Certificate of Incorporation of Autonomix Medical, Inc. (incorporated by reference from exhibit 2.1 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+3.2
+Certificate of Amendment to the Amended and Restated Certificate of Incorporation of Autonomix Medical, Inc., filed with the Secretary of State of the State of Delaware (incorporated by reference from exhibit 3.1 of the Form 8-K filed October 28, 2024)
+3.3
+Amended and Restated Bylaws of Autonomix Medical, Inc. (incorporated by reference from exhibit 2.2 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+4.1
+Form of Warrant Agreement issued in SAFE offering (incorporated by reference from exhibit 3.1 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+4.2
+Form of Selling Agent Warrant (incorporated by reference from exhibit 3.2 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+4.3
+Form of Pre-Funded Warrant issued in November 2024 offering (incorporated by reference from exhibit 4.1 of the Form 8-K filed November 25, 2024)
+4.4
+Form of Series A Warrant issued in November 2024 offering (incorporated by reference from exhibit 4.2 of the Form 8-K filed November 25, 2024)
+4.5
+Form of Representative’s Warrant issued in November 2024 offering (incorporated by reference from exhibit 4.4 of the Form 8-K filed November 25, 2024)
+4.6
+Warrant Agency Agreement, dated November 22, 2024, with Equity Stock Transfer, LLC (incorporated by reference from exhibit 4.3 of the Form 8-K filed November 25, 2024)
+4.7
+Description of the Company's Securities (incorporated by reference from exhibit 4.7 of the Form 10-K filed May 29, 2025)
+10.1**
+Employment Letter dated January 4, 2022 between the Company and Robert Schwartz (incorporated by reference from exhibit 6.1 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.2**
+Amended and Restated Consulting Agreement effective January 4, 2022 between the Company and Landy Toth (incorporated by reference from exhibit 6.2 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.3**
+Employment Agreement between the Company and Lori Bisson dated June 30, 2023 (incorporated by reference from exhibit 6.3 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.4**
+Employment Agreement between the Company and Trent Smith dated July 24, 2023 (incorporated by reference from exhibit 6.4 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.5**
+Autonomix Medical, Inc. 2023 Stock Plan, as amended and restated (incorporated by reference from exhibit 6.5 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.6
+Form of Indemnification Agreement with Executive Officers and Directors of the Company (incorporated by reference from exhibit 6.6 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.7
+Form of Lock-Up Agreement to be entered into between the Company and its officers and directors (incorporated by reference from exhibit 6.7 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.8+
+Exclusive License Agreement dated December 21, 2021 between Autonomix Medical, Inc. and Impulse Medical, Inc. (incorporated by reference from exhibit 6.8 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.9
+Exclusive License Termination Agreement dated July 7, 2023 between Autonomix Medical, Inc. and Impulse Medical, Inc. (incorporated by reference from exhibit 6.9 of the Form 1-A POS, file number 024-12296, filed January 19, 2024)
+10.10**
+Employment Agreement between Brad Hauser and Autonomix Medical, Inc. dated June 17, 2024. (incorporated by reference from exhibit 10.1 of the Form 8-K filed June 17, 2024)
+10.11**
+Employment Agreement between Lori Bisson and Autonomix Medical, Inc. dated June 17, 2024. (incorporated by reference from exhibit 10.2 of the Form 8-K filed June 17, 2024)
+10.12
+License Agreement between Autonomix Medical, Inc. and RF Innovations, Inc. (incorporated by reference from exhibit 10.1 of the Form 8-K filed July 15, 2024)
+10.13**
+Non-Employee Director Compensation Plan (incorporated by reference from exhibit 10.2 of the Form 10-Q filed November 8, 2024)
+10.14
+Underwriting Agreement, dated November 22, 2024, with Ladenburg Thalmann & Co. Inc. (incorporated by reference from exhibit 1.1 of the Form 8-K filed November 25, 2024)
+10.15
+At Market Issuance Sales Agreement, dated February 28, 2025, by and between Autonomix Medical, Inc. and Ladenburg Thalmann & Co. Inc. (incorporated by reference from exhibit 1.1 of the Form 8-K filed February 28, 2025)
+19
+Autonomix Medical, Inc. Insider Trading Policy (incorporated by reference from exhibit 19 of the Form 10-K filed May 29, 2025)
+23.1
+Consent of Forvis Mazars, LLP (incorporated by reference from exhibit 23.1 of the Form 10-K filed May 29, 2025)
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13a-14 of the Securities Exchange Act of 1934, as amended (incorporated by reference from exhibit 31.1 of the Form 10-K filed May 29, 2025)
+31.2
+Certification of Principal Financial Officer pursuant to Rule 13a-14 of the Securities Exchange Act of 1934, as amended (incorporated by reference from exhibit 31.2 of the Form 10-K filed May 29, 2025)
+31.3*
+Certification of Principal Executive Officer pursuant to Rule 13a-14 of the Securities Exchange Act of 1934, as amended
+31.4*
+Certification of Principal Financial Officer pursuant to Rule 13a-14 of the Securities Exchange Act of 1934, as amended
+32.1
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (incorporated by reference from exhibit 32.1 of the Form 10-K filed May 29, 2025)
+32.2
+Certification of Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002(incorporated by reference from exhibit 32.2 of the Form 10-K filed May 29, 2025)
+97
+Autonomix Medical, Inc. Restatement Recoupment Policy (incorporated by reference from exhibit 97 of the Form 10-K filed May 31, 2024)
+101.INS*
+XBRL Instance Document
+101.SCH*
+XBRL Taxonomy Extension Schema Document
+101.CAL*
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF*
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB*
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE*
+XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*
+Filed herewith.
+**
+Denotes a management contract or compensatory plan or arrangement.
++
+Pursuant to Item 601(b)(10)(iv) of Regulation S-K promulgated by the SEC, certain portions of this exhibit have been redacted. The Company hereby agrees to furnish supplementally to the SEC, upon its request, an unredacted copy of this exhibit.
+19
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+AUTONOMIX MEDICAL, INC.
+Date: July 28, 2025
+By:
+/s/    BRAD HAUSER
+Brad Hauser
+Chief Executive Officer and President
+(Principal Executive Officer)
+Date: July 28, 2025
+/s/    TRENT SMITH
+Trent Smith
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+20

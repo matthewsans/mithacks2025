@@ -1,0 +1,2296 @@
+10-K
+falseFY0000037472Chief Information OfficerDec. 31, 2025Dec. 31, 2041OneOnehttp://fasb.org/srt/2024#ChiefExecutiveOfficerMember http://fasb.org/srt/2024#PresidentMember00000374722024-04-012024-06-300000037472flxs:TotalRestructuringAndRelatedExpensesMember2023-07-012024-06-300000037472flxs:PriceRangeAggregateMember2024-07-012025-06-300000037472us-gaap:TreasuryStockCommonMember2023-07-012024-06-300000037472us-gaap:AllowanceForNotesReceivableMember2023-07-012024-06-3000000374722024-01-012024-03-310000037472srt:MinimumMemberflxs:DeliveryEquipmentMember2025-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMember2025-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMembersrt:MaximumMember2025-06-030000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMembersrt:MaximumMember2021-09-0800000374722024-06-300000037472flxs:StateTaxCreditExpirationOneMember2025-06-300000037472country:US2025-06-300000037472us-gaap:AdditionalPaidInCapitalMember2024-06-300000037472flxs:RestrictedStockAndRestrictedStockUnitsRsusMember2024-07-012025-06-300000037472us-gaap:AllowanceForNotesReceivableMember2024-06-3000000374722025-06-300000037472flxs:RestrictedStockAndRestrictedStockUnitsRsusMember2024-06-300000037472flxs:CentralStatesSeAndSwAreasPensionFundMember2024-07-012025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMember2024-06-300000037472us-gaap:AllowanceForNotesReceivableMember2024-07-012025-06-300000037472us-gaap:RestrictedStockUnitsRSUMembersrt:MaximumMember2024-07-012025-06-3000000374722024-10-012024-12-310000037472flxs:PlansInYellowZoneMembersrt:MaximumMember2024-07-012025-06-3000000374722023-10-012023-12-310000037472flxs:LongTermManagementIncentiveCompensationPlanMemberus-gaap:RestrictedStockUnitsRSUMember2024-07-012025-06-300000037472us-gaap:FurnitureAndFixturesMember2025-06-300000037472srt:MinimumMemberus-gaap:BuildingAndBuildingImprovementsMember2025-06-300000037472us-gaap:RestrictedStockUnitsRSUMembersrt:MinimumMember2024-07-012025-06-300000037472country:MX2025-03-310000037472us-gaap:AllowanceForNotesReceivableMember2022-07-012023-06-300000037472flxs:WellsFargoBankN.a.Memberus-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMemberflxs:CreditAgreementMembersrt:MaximumMember2024-07-012025-06-3000000374722022-06-300000037472us-gaap:RetainedEarningsMember2024-06-300000037472us-gaap:CommonStockMember2022-07-012023-06-300000037472flxs:PriceRangeGroupTwoMember2025-06-300000037472us-gaap:CommonStockMember2025-06-300000037472us-gaap:CommonStockMember2023-12-310000037472us-gaap:ConstructionInProgressMember2025-06-300000037472flxs:RestrictedStockAndRestrictedStockUnitsRsusMember2023-07-012024-06-3000000374722025-01-012025-03-310000037472flxs:DeliveryEquipmentMembersrt:MaximumMember2025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMemberus-gaap:RestrictedStockUnitsRSUMember2025-06-300000037472us-gaap:RetainedEarningsMember2022-07-012023-06-300000037472us-gaap:EmployeeStockOptionMember2024-07-012025-06-300000037472us-gaap:ConstructionInProgressMember2024-06-300000037472us-gaap:AllowanceForNotesReceivableMember2022-06-300000037472us-gaap:RetainedEarningsMember2023-06-300000037472flxs:HuntingburgIndianaMember2025-01-012025-03-310000037472srt:MinimumMember2024-07-012025-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:InterestRateThreeMember2025-06-300000037472flxs:DeliveryEquipmentMember2025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMemberflxs:TimeBasedSharesMember2025-06-300000037472flxs:RestrictedStockAndRestrictedStockUnitsRsusMember2023-06-300000037472flxs:PriceRangeGroupFourMember2024-07-012025-06-300000037472us-gaap:ComputerEquipmentMember2024-06-300000037472us-gaap:RetainedEarningsMember2022-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMember2025-06-3000000374722024-07-012024-09-3000000374722023-07-012023-09-300000037472us-gaap:LandMember2024-06-300000037472us-gaap:LandMember2025-06-300000037472flxs:CentralStatesSeAndSwAreasPensionFundMember2023-07-012024-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMemberflxs:TimeBasedSharesMember2024-07-012025-06-300000037472us-gaap:TreasuryStockCommonMember2022-07-012023-06-300000037472us-gaap:PerformanceSharesMemberflxs:LongTermManagementIncentiveCompensationPlanMember2024-07-012025-06-300000037472flxs:PriceRangeGroupThreeMember2024-07-012025-06-300000037472us-gaap:BuildingAndBuildingImprovementsMember2024-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMemberus-gaap:LetterOfCreditMember2021-09-080000037472flxs:PriceRangeGroupOneMember2025-06-300000037472us-gaap:BuildingAndBuildingImprovementsMember2025-06-300000037472flxs:StockOptionPlans2006And2009Member2025-06-300000037472us-gaap:RetainedEarningsMember2025-06-300000037472flxs:PriceRangeAggregateMember2025-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMember2021-09-080000037472us-gaap:CommonStockMember2023-07-012024-06-300000037472country:MX2024-06-300000037472us-gaap:OtherRestructuringMember2023-07-012024-06-300000037472country:MX2024-07-012025-06-300000037472flxs:FormerChiefFinancialOfficerChiefOperatingOfficerCurrentChiefExecutiveOfficerMemberflxs:StockBasedCompensationOutsidePlanMember2024-07-012025-06-300000037472srt:MaximumMemberus-gaap:ComputerEquipmentMember2025-06-300000037472flxs:PlansInRedZoneMembersrt:MaximumMember2024-07-012025-06-300000037472us-gaap:StateAndLocalJurisdictionMember2025-06-300000037472us-gaap:PerformanceSharesMemberflxs:LongTermManagementIncentiveCompensationPlanMember2023-06-300000037472us-gaap:OneTimeTerminationBenefitsMember2023-07-012024-06-300000037472us-gaap:PerformanceSharesMemberflxs:LongTermManagementIncentiveCompensationPlanMember2025-06-300000037472us-gaap:AdditionalPaidInCapitalMember2023-07-012024-06-3000000374722022-07-012023-06-300000037472srt:MinimumMemberus-gaap:FurnitureAndFixturesMember2025-06-300000037472flxs:HuntingburgIndianaMember2025-04-012025-06-300000037472flxs:PriceRangeGroupOneMember2024-07-012025-06-300000037472us-gaap:PerformanceSharesMemberflxs:LongTermManagementIncentiveCompensationPlanMember2024-06-300000037472flxs:DeliveryEquipmentMember2024-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMember2023-07-012024-06-300000037472us-gaap:TreasuryStockCommonMember2023-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMemberflxs:TimeBasedSharesMember2023-06-300000037472us-gaap:EmployeeStockOptionMember2025-06-300000037472us-gaap:AdditionalPaidInCapitalMember2022-06-3000000374722025-08-220000037472flxs:DublinGeorgiaMember2023-07-012024-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMember2021-09-082021-09-080000037472us-gaap:AdditionalPaidInCapitalMember2022-07-012023-06-300000037472us-gaap:AdditionalPaidInCapitalMember2024-07-012025-06-300000037472us-gaap:CommonStockMember2024-07-012025-06-300000037472us-gaap:AllowanceForNotesReceivableMember2025-06-300000037472srt:MinimumMemberus-gaap:ComputerEquipmentMember2025-06-300000037472us-gaap:AllowanceForNotesReceivableMember2023-06-300000037472country:US2024-06-300000037472us-gaap:TreasuryStockCommonMember2022-06-300000037472flxs:FormerChiefFinancialOfficerChiefOperatingOfficerCurrentChiefExecutiveOfficerMemberflxs:StockBasedCompensationOutsidePlanMember2025-06-300000037472us-gaap:RetainedEarningsMember2024-07-012025-06-300000037472flxs:RestrictedStockAndRestrictedStockUnitsRsusMember2025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMemberflxs:TimeBasedSharesMember2024-06-300000037472flxs:PlansInYellowZoneMembersrt:MinimumMember2024-07-012025-06-3000000374722023-06-300000037472flxs:WellsFargoBankN.a.Memberus-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMembersrt:MinimumMemberflxs:CreditAgreementMember2024-07-012025-06-300000037472us-gaap:FurnitureAndFixturesMembersrt:MaximumMember2025-06-300000037472us-gaap:CommonStockMember2024-06-300000037472country:MX2025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMemberflxs:TimeBasedSharesMember2023-07-012024-06-300000037472us-gaap:CommonStockMember2022-06-3000000374722024-12-310000037472us-gaap:MachineryAndEquipmentMember2024-06-3000000374722021-07-012022-06-300000037472srt:MaximumMember2024-07-012025-06-300000037472flxs:PriceRangeGroupThreeMember2025-06-300000037472us-gaap:RetainedEarningsMember2023-07-012024-06-3000000374722024-07-012025-06-300000037472flxs:PriceRangeGroupFiveMember2025-06-300000037472us-gaap:MachineryAndEquipmentMembersrt:MinimumMember2025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMember2023-06-300000037472us-gaap:TreasuryStockCommonMember2024-06-300000037472flxs:WellsFargoBankN.a.Memberflxs:CreditAgreementMember2024-07-012025-06-300000037472flxs:ManufacturingNetworkOptimizationMember2023-07-012024-06-300000037472us-gaap:TreasuryStockCommonMember2025-06-300000037472flxs:FormerChiefFinancialOfficerChiefOperatingOfficerCurrentChiefExecutiveOfficerMember2024-06-300000037472srt:MinimumMemberflxs:PlansInGreenZoneMember2024-07-012025-06-300000037472flxs:PriceRangeGroupFiveMember2024-07-012025-06-300000037472us-gaap:AdditionalPaidInCapitalMember2025-06-300000037472us-gaap:FurnitureAndFixturesMember2024-06-300000037472country:MX2025-01-012025-03-310000037472flxs:CertainStateTaxCreditCarryforwardMember2025-06-300000037472us-gaap:OperatingExpenseMember2023-07-012024-06-300000037472us-gaap:ComputerEquipmentMember2025-06-3000000374722023-07-012024-06-300000037472us-gaap:CommonStockMember2023-06-300000037472us-gaap:MachineryAndEquipmentMember2025-06-300000037472flxs:PriceRangeGroupTwoMember2024-07-012025-06-300000037472flxs:LongTermManagementIncentiveCompensationPlanMember2024-07-012025-06-300000037472us-gaap:PerformanceSharesMemberflxs:LongTermManagementIncentiveCompensationPlanMember2023-07-012024-06-300000037472flxs:HuntingburgIndianaMember2024-07-012025-06-300000037472flxs:PriceRangeGroupFourMember2025-06-3000000374722025-04-012025-06-300000037472flxs:FixedAssetImpairmentsMember2023-07-012024-06-300000037472flxs:FormerChiefExecutiveOfficerMemberflxs:StockBasedCompensationOutsidePlanMember2020-04-012020-06-300000037472us-gaap:AdditionalPaidInCapitalMember2023-06-300000037472us-gaap:MachineryAndEquipmentMembersrt:MaximumMember2025-06-300000037472srt:MaximumMemberus-gaap:BuildingAndBuildingImprovementsMember2025-06-300000037472flxs:CentralStatesSeAndSwAreasPensionFundMember2022-07-012023-06-30xbrli:pureflxs:Customeriso4217:USDxbrli:sharesxbrli:sharesflxs:Itemflxs:Segmentiso4217:USD
+Table of Contents
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D. C.
+20549 FORM 10-K  Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934For the fiscal year ended June 30, 2025or Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934For the transition period from
+to   Commission file number 0-5151 FLEXSTEEL INDUSTRIES, INC.(Exact Name of Registrant as Specified in Its Charter)
+Incorporated in State of Minnesota
+42-0442319
+(State or other Jurisdiction of
+(I.R.S. Identification No.)
+Incorporation or Organization)
+385 BELL STREETDUBUQUE, IA 52001-0877(Address of Principal Executive Offices)
+(Zip Code)(563) 556-7730(Registrant’s Telephone Number, Including Area Code)  Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 Par Value
+FLXS
+The Nasdaq Stock Market, LLC
+Indicate by check mark whether the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes  No  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes  No  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes 
+No  Indicate by check mark whether the registrant has submitted electronically, if any, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes 
+No  Indicate by check mark whether the Registrant is a large, accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company, or an emerging growth company.
+See definitions of “large, accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act (check one). Large Accelerated Filer  Accelerated Filer 
+Non-Accelerated Filer 
+Smaller Reporting Company 
+Emerging Growth Company  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+1
+Table of Contents
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements ☐ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes 
+No 
+Common Stock - $1.00 Par Value
+Shares Outstanding as of August 22, 2025
+5,275,963
+The aggregate market value of the voting stock held by non-affiliates, computed by reference to the last sales price on December 31, 2024 (which was the last business day of the registrant’s most recently completed second quarter) was $242,376,629. DOCUMENTS INCORPORATED BY REFERENCEIn Part III, portions of the registrant’s 2025 Proxy Statement to be filed with the Securities and Exchange Commission within 120 days of the Registrant’s fiscal year end.
+2
+Table of Contents
+TABLE OF CONTENTS
+Page
+PART I
+ITEM 1.
+BUSINESS
+4
+ITEM 1A.
+RISK FACTORS
+6
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS
+10
+ITEM 1C.
+CYBERSECURITY
+10
+ITEM 2.
+PROPERTIES
+11
+ITEM 3.
+LEGAL PROCEEDINGS
+11
+ITEM 4.
+MINE SAFETY DISCLOSURES
+11
+PART II
+ITEM 5.
+MARKET FOR THE REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+11
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+13
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+18
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+19
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+42
+ITEM 9A.
+CONTROLS AND PROCEDURES
+42
+ITEM 9B.
+OTHER INFORMATION
+42
+ITEM 9C.
+DISCLOSURE REGARDING FOREIGN JURSIDICTIONS THAT PREVENT INSPECTIONS
+42
+PART III
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+43
+ITEM 11.
+EXECUTIVE COMPENSATION
+43
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS
+43
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS AND DIRECTOR INDEPENDENCE
+43
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+43
+PART IV
+ITEM 15.
+EXHIBITS, FINANCIAL STATEMENTS, AND SCHEDULES
+44
+SIGNATURES
+45
+EXHIBIT INDEX
+46
+3
+Table of Contents
+PART ICautionary Statement Relevant to Forward-Looking Information for the Purpose of “Safe Harbor” Provisions of the Private Securities Litigation Reform Act of 1995 The Company and its representatives may from time to time make written or oral forward-looking statements with respect to long-term goals or anticipated results of the Company, including statements contained in the Company’s filings with the Securities and Exchange Commission and in its reports to stockholders.Statements, including those in this Annual Report on Form 10-K, which are not historical or current facts, are “forward-looking statements” made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+There are certain important factors that could cause the Company’s results to differ materially from those anticipated by some of the statements made herein.
+Investors are cautioned that all forward-looking statements involve risk and uncertainty.
+Some of the factors that could affect results are the cyclical nature of the furniture industry, supply chain disruptions, litigation, the effectiveness of new product introductions and distribution channels, the product mix of sales, pricing pressures, the cost of raw materials and fuel, changes in foreign currency values, retention and recruitment of key employees, actions by governments including laws, regulations, taxes and tariffs, the amount of sales generated and the profit margins thereon, competition (both U.S. and foreign), credit exposure with customers, participation in multi-employer pension plans, disruptions or security breaches to business information systems, the impact of any future pandemic, and general economic conditions.
+For further information regarding these risks and uncertainties, see the “Risk Factors” section in Item 1A of this Annual Report on Form 10-K.The Company specifically declines to undertake any obligation to publicly revise any forward-looking statements that have been made to reflect events or circumstances after the date of such statements or to reflect the occurrence of anticipated or unanticipated events.Item 1.
+BusinessGeneralFlexsteel Industries, Inc., and Subsidiaries (the “Company”) is one of the largest manufacturers, importers, and marketers of residential furniture products in the United States. Product offerings include a wide variety of furniture such as sofas, loveseats, chairs, reclining rocking chairs, swivel rockers, sofa beds, convertible bedding units, occasional tables, desks, dining tables and chairs, kitchen storage, bedroom furniture, and outdoor furniture. A featured component in most of the upholstered furniture is a unique steel drop-in seat spring from which the name “Flexsteel” is derived. The Company distributes its products throughout the United States through its e-commerce channel and direct sales force.The Company operates in one reportable segment, furniture products.
+The Company’s furniture products business involves the distribution of manufactured and imported products consisting of a broad line of furniture for the residential market. Manufacturing and Offshore SourcingDuring the fiscal year ended June 30, 2025, the Company operated manufacturing facilities located in Juarez, Mexico.
+This ongoing manufacturing operation is integral to the Company’s product offerings and distribution strategy by offering smaller and more frequent product runs of a wider product selection. The Company identifies and eliminates manufacturing inefficiencies and adjusts manufacturing schedules on a daily basis to meet customer requirements.
+The Company has established relationships with key suppliers to ensure prompt delivery of quality component parts.
+The Company’s production includes the use of selected component parts sourced offshore to enhance value in the marketplace.The Company integrates manufactured products with finished products acquired from offshore suppliers who can meet quality specifications and scheduling requirements. The Company will continue to pursue and refine this blended strategy, offering customers manufactured goods, products manufactured utilizing imported component parts, and ready-to-deliver imported products.
+This blended focus on products allows the Company to provide a wide range of price points, styles and product categories to satisfy customer requirements. CompetitionThe furniture industry is highly competitive and includes a large number of U.S. and foreign manufacturers and distributors, none of which dominate the market. The Company competes in markets with a large number of relatively small manufacturers; however, certain competitors have substantially greater sales volumes than the Company.
+The Company’s products compete based on style, quality, comfort, price, delivery, service and durability.
+The Company believes its patented, guaranteed-for-life Blue Steel Spring, manufacturing and sourcing capabilities, facility locations, commitment to customers, product quality, delivery, service, value and experienced production, sales, marketing and management teams, are some of its competitive advantages.
+4
+Table of Contents
+SeasonalityThe Company’s business is not considered seasonal. Foreign OperationsThe Company has minimal export sales.
+On June 30, 2025, the Company had approximately 30 employees located in Asia to ensure Flexsteel’s quality standards are met and to coordinate the delivery of products acquired from overseas suppliers.
+The Company leases and operates three manufacturing facilities in Juarez, Mexico and leases one manufacturing facility in Mexicali, Mexico.
+The Company had approximately 1,000 employees located in Mexico on June 30, 2025. The four Mexico facilities total 1,061,000 square feet. As of June 30, 2025, the Company has not begun operations in the Mexicali facility and expects to sublease the facility until such time that demand necessitates the additional capacity.
+See “Risk Factors” in Item 1A and Note 2 Leases of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for further discussion of the leased assets. Customer BacklogThe approximate backlog of customer orders believed to be firm as of the end of the current fiscal year and the prior two fiscal years were as follows (in thousands):
+June 30, 2025
+June 30, 2024
+June 30, 2023
+$
+66,465
+$
+59,543
+$
+49,729
+Raw MaterialsThe Company utilizes various types of wood, fabric, leather, filling material, high carbon spring steel, bar and wire stock, polyurethane foam and other raw materials in manufacturing furniture.
+The Company purchases these materials from numerous outside suppliers, both U.S. and foreign, and is not dependent upon any single source of supply.
+The costs of certain raw materials fluctuate, but all continue to be readily available within supplier lead-times; however, we could experience supply-chain disruptions at any time, which could impact the availability of materials.Industry FactorsThe Company has exposure to actions by governments, including tariffs, see “Risk Factors” in Item 1A of this Annual Report on Form 10-K. Government RegulationsThe Company is subject to various local, state, and federal laws, regulations and agencies that affect businesses generally, see “Risk Factors” in Item 1A of this Annual Report on Form 10-K.
+Our compliance with federal, state and local laws and regulations did not have a material effect upon our capital expenditures, earnings or competitive position during the fiscal year ended June 30, 2025.Environmental MattersAll of Flexsteel’s stakeholders have a responsibility to protect our employees and our environment. The officers of Flexsteel and its subsidiaries will use our role as business and community leaders to set the tone at the top to guide our management teams in their efforts to improve the workplace and the environment we directly impact. Because we are committed to sustainable business practices, to our people, and to our communities, we will continue to grow and expand the scope of our dedications to the stewardship of our valued resources.
+The Company is subject to environmental laws and regulations with respect to product content and industrial waste. Further discussion is included in “Risk Factors” in Item 1A of this Annual Report on Form 10-K. Trademarks and PatentsThe Company owns the United States improvement patents to its Flexsteel guaranteed-for-life Blue Steel Spring – the all-riveted, high-carbon, steel-banded seating platform that gives upholstered and leather furniture the strength and comfort to last a lifetime, as well as patents on convertible beds.
+The Company owns other patents and owns certain trademarks in connection with its furniture.It is not common in the furniture industry to obtain a patent for furniture design.
+If a particular design of a furniture manufacturer is well accepted in the marketplace, it is common for other manufacturers to imitate the same design without recourse by the furniture manufacturer who initially introduced the design.
+Furniture products are designed by the Company’s own design staff and through the services of third-party designers.
+New models and designs of furniture, as well as new fabrics, are introduced continuously.
+5
+Table of Contents
+EmployeesThe Company had approximately 1,400 employees on June 30, 2025, including 7 employees who are covered by collective bargaining agreements.
+Approximately all of the Company's employees are full-time. Management believes it has good relations with employees.Available InformationCopies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our website (www.flexsteel.com) as soon as reasonably practicable after we electronically file the material with or furnish it to the U.S. Securities and Exchange Commission (SEC). Additionally, the SEC maintains an internet site (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. Information on our website or linked to our website is not incorporated by reference into this Annual Report.Item 1A.
+Risk FactorsThe Company is subject to a variety of risks.
+You should carefully consider the risk factors detailed below in conjunction with the other information contained in this Annual Report on Form 10-K.
+Should any of these risks materialize the Company’s business, financial condition, and future prospects could be negatively impacted.
+There may be additional factors that are presently unknown to the Company or that the Company currently believes to be immaterial that could affect its business. Risks related to our industry:Changes in global trade policy and the impact on tariffs may have a material adverse effect on our business and results of operations. We source certain finished products from external suppliers in foreign countries, primarily Vietnam, and have significant manufacturing operations in Mexico. On April 2, 2025, the President of the United States issued an executive order to regulate imports by imposing reciprocal country specific tariffs on multiple nations around the world, including Vietnam.
+A further executive order issued April 9, 2025, paused the implementation of the country specific tariffs on Vietnam and many other countries for 90 days, maintaining a 10% global baseline tariff, while the United States works with its trade partners to negotiate new trade agreements. On July 31, 2025, a further executive order was issued clarifying certain matters related to tariffs, including a country specific tariff of 20% on goods from Vietnam. Although the country specific tariffs and the global 10% baseline tariffs do not apply to our products imported from Mexico, that status could change at any time. The current situation is dynamic, and it is unknown if the United States and its trade partners will reach an agreement to further pause or adjust the current tariffs. Tariffs or other trade restrictions may lead to continuing uncertainty and volatility in U.S. economic conditions and commodity markets, declining consumer confidence, significant inflation or diminished expectations for the economy, and ultimately reduced demand for our products. In addition, tariffs on our imported goods could have a material adverse impact on our future net sales, cost of goods sold, profit and cash flow. The ultimate effect will be dependent on the magnitude and duration of the tariffs and the countries implicated as well as our ability to offset or recoup the increased costs. Inflation and changes in foreign currency may impact our profitability.Cost inflation including significant increases in ocean container rates, tariffs, raw materials prices, labor rates, and domestic transportation costs have and could continue to impact profitability.
+Imbalances between supply and demand for these resources may continue to exert upward pressure on costs. The Company purchases raw materials, component parts, and certain finished goods from foreign external suppliers.
+Prices for these purchases are primarily negotiated in U.S. dollars on a purchase order basis.
+A negative shift in the U.S. dollar relative to the local currency of our supplier could result in price increases and negatively impact our cost structure.
+In addition, our manufactured products are produced in Mexico.
+The wages of our employees and certain other employee benefit and indirect costs are made in Pesos.
+A negative shift in the value of the U.S. dollar against the Peso could increase the cost of manufacturing. In addition, the Company has certain asset and liabilities related to our manufacturing operations which are denominated in pesos, primarily our VAT receivable for recoverable VAT paid in Mexico. A negative shift in the value of the Peso against the U.S. dollar could result in the value of our receivable decreasing which may impact our earnings.Our ability to recover these cost increases through price increases may continue to lag the cost increases, resulting in downward pressure on margins. In addition, price increases to offset rising costs could negatively impact demand for our products.
+6
+Table of Contents
+The Company’s products are considered deferrable purchases for consumers during economic downturns. Prolonged negative economic conditions could impact the business.Economic downturns and prolonged negative economic conditions could affect consumer spending habits by decreasing the overall demand for home furnishing products. These events could impact retailers resulting in an impact on the Company’s business. A recovery in the Company’s sales could lag significantly behind a general economic recovery due to the deferrable nature and relatively significant cost of purchasing home furnishing products.Future success depends on the Company’s ability to manage its global supply chain.The Company acquires raw materials, component parts, and certain finished products from external suppliers, both U.S. and foreign.
+Many of these suppliers are dependent upon other suppliers in countries other than where they are located. This global interdependence within the Company’s supply chain is subject to delays in delivery, availability, quality, and pricing. Changes in international trade policies including tariffs, access to ports and border crossings, or railways could disrupt the supply chain, increase cost and reduce competitiveness. The delivery of goods from these suppliers has been and may continue to be delayed by customs, labor issues, availability of third-party transportation and equipment, geopolitical pressures, changes in political, economic, and social conditions, weather, laws, and regulations. Unfavorable fluctuations in price, international trade policies, quality, delivery, and availability of these products could continue to adversely affect the Company’s ability to meet demands of customers and cause negative impacts to the Company’s cost structure, profitability, and its cash flow.Enacted tariffs and potential future increases in tariffs on manufactured goods imported from various other countries could adversely affect our business. Inability to reduce acquisition costs or pass-through price increases may have an adverse impact on sales volume, earnings, and liquidity.
+Similarly, increases in pricing may have an adverse impact on the competitiveness of the Company’s products relative to other furniture manufacturers with less exposure to the tariff and could also lead to adverse impacts on volume, earnings, and liquidity. Additionally, a disruption in supply from foreign countries could adversely affect our ability to timely fill customer orders for those products and decrease our sales, earnings, and liquidity. The main foreign countries we source from are Vietnam, China, Thailand, and Mexico. If we were unsuccessful in obtaining those products from other sources or at comparable cost, a disruption in our supply chain could adversely affect our sales, earnings, financial condition, and liquidity.Finally, the Company relies on third parties to deliver customer orders. The capacity of these third parties or cost of this service could be impacted by labor disputes, cost inflation (particularly fuel), and availability of drivers which could increase cost and have negative impacts on our earnings.Competition from U.S. and foreign finished product manufacturers may adversely affect the business, operating results or financial condition.The furniture industry is very competitive and fragmented. The Company competes with U.S. and foreign manufacturers and distributors. As a result, the Company may not be able to maintain or raise the prices of its products in response to competitive pressures or increasing costs. Also, due to the large number of competitors and their wide range of product offerings, the Company may not be able to significantly differentiate its products (through styling, finish, and other construction techniques) from those of its competitors.Additionally, most of our sales are to distribution channels that rely on physical stores to merchandise and sell our products and an involuntary shut down of those or a significant shift in consumer preference toward purchasing products online could have a materially adverse impact on our sales and operating margin. These and other competitive pressures could cause us to lose market share, revenues, and customers, increase expenditure or reduce prices, any of which could have a material adverse effect on our results of operations or liquidity.Future costs of complying with various laws and regulations may adversely impact future operating results.The Company’s business is subject to various laws and regulations which could have a significant impact on operations and the cost to comply with such laws and regulations could adversely impact the Company’s financial position, results of operations and cash flows. In addition, inadvertently failing to comply with such laws and regulations could produce negative consequences which could adversely impact the Company’s operations.
+7
+Table of Contents
+Failure to anticipate or respond to changes in consumer or designer tastes and fashions in a timely manner could adversely affect the Company’s business and decrease sales and earnings.Furniture is a styled product and is subject to rapidly changing consumer and end-user trends and tastes and is highly fashion oriented. If the Company is not able to acquire sufficient cover variety or if the Company is unable to predict or respond to changes in fashion trends, it may lose sales and have to sell excess inventory at reduced prices.Use of social media to disseminate negative commentary may adversely impact the Company’s reputation and business.There has been a substantial increase in the use of social media platforms, including blogs, social media websites, and other forms of internet-based communications, which allow individuals to access a broad audience of consumers and other interested people. Negative commentary regarding the Company or its products may be posted on social media platforms at any time and may have an adverse impact on its reputation, business, or relationships with third parties, including suppliers, customers, investors, and lenders. Consumers value readily available information and often act on such information without further investigation and without regard to its accuracy or context. The harm may be immediate without affording the Company an opportunity for redress or correction.Public health events could have a materially adverse effect on our ability to operate, our ability to keep employees safe from the pandemic, our results of operations, and financial condition. During the initial height of the COVID-19 pandemic, purchases of home furnishings were heavily impacted as they are largely deferable and heavily influenced by consumer sentiment. Public health organizations recommended, and many governments implemented, measures from time-to-time to slow and limit the transmission of the virus, including certain business shutdowns and shelter in place and social distancing requirements. Such preventive measures, or others we may voluntarily put in place, may have a material adverse effect on our business for an indefinite period of time, such as the potential shut down of certain locations, decreased employee availability, potential border closures, and disruptions to the businesses of our selling channel partners, and others.Our suppliers and customers may also face these and other challenges, which have and could to lead to a future disruption in our supply chain, raw material inflation or the inability to get the raw materials necessary to produce our products, increased shipping and transportation costs, as well as decreased consumer spending and decreased demand for our products. Risks related to our operations:Business information systems could be impacted by disruptions and security breaches.The Company employs information technology systems to support its global business. Security breaches and other disruptions to the Company’s information technology infrastructure could interfere with operations, compromise information belonging to the Company and its customers or suppliers and expose the Company to liability which could adversely impact the Company’s business and reputation. In the ordinary course of business, the Company relies on information technology networks and systems to process, transmit and store electronic information, and to manage or support a variety of business processes and activities. Additionally, the Company collects and stores certain data, including proprietary business information, and may have access to confidential or personal information in certain areas of its businesses that is subject to privacy and security laws, regulations, and customer-imposed controls.
+While security breaches and other disruptions to the Company’s information technology networks and infrastructure could happen, none have occurred to date that has had a material impact on the Company. Any such events could result in legal claims or proceedings, liability or penalties under privacy laws, disruption in operations, and damage to the Company’s reputation, which could adversely affect the Company’s business.In addition, in response to shifts in employee workplace preferences, we have allowed certain of our employees the option of a hybrid work schedule where they may choose to work partially from home. Although we continue to implement strong physical and cyber security measures to ensure that our business operations remain functional and to ensure uninterrupted service to our customers, our systems and our operations remain vulnerable to cyber attacks and other disruptions because a material portion of our employees work remotely either full or part-time, and we cannot be certain that our mitigation efforts will be effective. The implementation of a new business information system could disrupt the business.The Company continues to migrate business and financial processes from legacy ERP systems to SAP.
+The Company takes great care in the planning and execution of these migrations, however, implementation issues related to the transition could arise and may result in the following:•Disruption of the Company’s domestic and international supply chain;•Inability to fill customer orders accurately and on a timely basis;•Negative impact on financial results;•Inability to fulfill federal, state and local tax filing requirements in a timely and accurate matter; and
+8
+Table of Contents
+•Increased demands of management and associates to the detriment of other corporate initiatives.
+The Company’s participation in a multi-employer pension plan may have exposure under the plan that could extend beyond what its obligations would be with respect to its employees.The Company participates in, and makes periodic contributions to, one multi-employer pension plan that covers union employees. Multi-employer pension plans are managed by trustee boards comprised of participating employer and labor union representatives, and the employers participating in a multi-employer pension plan are jointly responsible for maintaining the plan’s funding requirements. Based on the most recent information available to the Company, the present value of actuarially accrued liabilities of the multi-employer pension plan substantially exceeds the value of the assets held in trust to pay benefits. As a result of the Company’s participation, it could experience greater volatility in the overall pension funding obligations. The Company’s obligations may be impacted by the funded status of the plans, the plans’ investment performance, changes in the participant demographics, financial stability of contributing employers and changes in actuarial assumptions. See Note 13 Benefit and Retirement Plans of Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for more information.Future results may be affected by various legal proceedings and compliance risk, including those involving product liability, environmental, or other matters. The Company faces the risk of exposure to product liability claims in the event the use of any of its products results in personal injury or property damage. In the event any of the Company’s products prove to be defective, it may be required to recall or redesign such products. The Company is also subject to various laws and regulations relating to environmental protection and the discharge of materials into the environment. The Company could incur substantial costs, including legal expenses, as a result of the noncompliance with, or liability for cleanup or other costs or damages under, environmental laws. Given the inherent uncertainty of litigation, these various legal proceedings and compliance matters could have a material impact on the business, operating results, and financial condition. See Note 14 Commitments and Contingencies of Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for more information.We may experience impairment of our long-lived assets, which would decrease our earnings and net worth.At June 30, 2025, we had $36.2 million in property, plant and equipment and $41.5 million in right of use assets associated with leased facilities. These long-lived assets are tested for impairment whenever events or circumstances indicate that the carrying amount of the asset may not be recoverable. The outcome of impairment testing could result in the write-down of all or a portion of the value of these assets. A write-down of our assets would, in turn, reduce our earnings and net worth. During the quarter ended March 31, 2025 the Company determined that the right of use asset related to our leased Mexicali, Mexico facility was not fully recoverable and recorded a pre-tax non-cash asset impairment charge of $14.1 million due to substantial changes in U.S. trade policy in early 2025 that created significant uncertainty in US-Mexico trade relations, slowed foreign direct investment in Mexico, and greatly diminished tenant interest in subleasing the Mexicali facility. If capacity requirements do not necessitate the utilization of our leased Mexicali facility and we are unsuccessful at subleasing the facility in the future, the remaining carrying amount of the right of use asset associated with that lease may not be recoverable. A write-down of all or a portion of the remaining value of the Mexicali right of use asset could have a material impact on our earnings in the period of impairment. At June 30, 2025 the Company does not believe any further impairment indicators exist, but impairment assessment involves the use of considerable judgement and any change in future market or economic conditions could cause actual results to differ from estimates.The Company’s success depends on its ability to recruit and retain key employees and highly skilled workers in a competitive labor market.If the Company is not successful in recruiting and retaining key employees and highly skilled workers or experiences the unexpected loss of those employees, the operations may be negatively impacted.Additionally, we are and will continue to be dependent upon our senior management team and other key personnel. Losing the services of one or more key members of our management team or other key personnel could adversely affect our operations. Ongoing or future communicable diseases increase the risk that certain senior executive officers or a member of the board of directors could become ill, causing them to be incapacitated or otherwise unable to perform their duties for an extended absence. This could negatively impact the efficiency and effectiveness of processes and internal controls throughout the Company and our ability to service customers.We may not be able to collect amounts owed to us.We generally grant payment terms between 10 and 60 days to customers, often without requiring collateral. Some of our customers have experienced, and may in the future experience, cash flow and credit-related issues. In the event of negative economic events such as economic recession or significant decline in consumer demand, supply chain disruptions, weather events or natural disasters, public
+9
+Table of Contents
+health events or other unforeseen issues with negative economic impact to our customers, which have occurred in the past, we may not be able to collect amounts owed to us. While we perform credit evaluations of our customers, those evaluations may not prevent uncollectible trade accounts receivable. Credit evaluations involve significant management diligence and judgment, especially in the current environment. Should customers experience liquidity issues beyond what we anticipate, if payment is not received on a timely basis, or if a customer declares bankruptcy or closes stores, we may have difficulty collecting amounts owed to us by these customers, which could adversely affect our sales, earnings, financial condition, and liquidity. In addition, we have receivables for recoverable value added tax paid under such regimes in foreign jurisdictions, primarily Mexico. The collection of these amounts are subject to approval by foreign governmental agencies who evaluate the claims. Any actions taken by those agencies to delay, limit or deny the amounts submitted or retroactive changes in legislation surrounding these regimes may impact our ability to recover these amounts. Item 1B.
+Unresolved Staff Comments None.Item 1C.
+CybersecurityRisk Management and Strategy The Company's cybersecurity risk management program is integrated into the overall risk management framework, including risk identification, assessment, and mitigation across all areas of the business. The cybersecurity risk management program is designed to align with industry best practices and has adopted the framework and measurement practices developed by the National Institute of Standards and Technology (NIST). In addition, the Company has implemented a cross-functional cybersecurity steering team to facilitate coordination across key departments and assists in defining policies, procedures, and mitigation strategies, and will be called on to assist in risk assessment of any threat or incident. The Company has a written Emergency Action Plan that includes the handling of material cybersecurity incidents and business continuity if there is a disruption in operations. The Company utilizes a third-party cybersecurity partner to assist in monitoring our systems 24 hours a day, and to structure the technical handling of cybersecurity threats and incidents. In addition, the partner is utilized to regularly conduct formal penetration testing and tabletop exercises used to further prepare the organization. This partner also provides ongoing insights and advisory services in order to better align our program with current best practices. The Company uses a variety of processes to address risk associated with the use of third-party service providers. All employees, including anyone with access to Company-provided email accounts, must engage in quarterly cybersecurity awareness training and are tested internally on a regular basis. Additionally, we maintain cyber insurance coverage, including protection to further mitigate potential financial losses from cybersecurity incidents. As of the date of this Annual Report on Form 10-K we are not aware of any cybersecurity incidents that have materially affected or are reasonably likely to materially affect our business, results of operations or financial condition. However, despite our best efforts, we cannot eliminate all risks from cybersecurity threats or provide assurances that we have not experienced undetected cybersecurity incidents. See “Risk Factors” in Item 1A in this Annual Report on Form 10-K for further discussion.Governance The Board of Directors is responsible for the oversight of our cybersecurity risk management program. On a quarterly basis, our Chief Information Officer (CIO) provides a cybersecurity status report and update to the Board of Directors, which includes a scorecard of cybersecurity threats, updates on key initiatives, and any changes in trends that may impact the Company. The CIO reports directly to the President and Chief Executive Officer (CEO) and meets regularly with him, the Chief Financial Officer, and other members of the Executive Leadership Team. The CIO has over 25 years of experience in IT Operations and is supported by an internal Director of IT Security and a virtual Chief Information Security Officer (vCISO) service to ensure comprehensive focus on the program.
+The Emergency Action Plan defines the handling of cyber related incidents with support of the cross-functional steering team to assess the potential materiality of cybersecurity events and to report on the detection, analysis, and containment from such events. As the severity of events meet certain levels as specified by the Incident Response Plan, those events are escalated to senior levels of management and reported to the Board of Directors. Our Board of Directors is responsible for the oversight of controls and procedures related to the public disclosure of material cybersecurity incidents.
+10
+Table of Contents
+Item 2.
+PropertiesThe Company owns the following facilities as of June 30, 2025:
+Approximate
+Location
+Size (square feet)
+Principal Operations
+Edgerton, Kansas
+500,000
+Distribution
+Huntingburg, Indiana
+337,000
+Distribution
+Dubuque, Iowa
+40,000
+Corporate Office
+The Company leases the following facilities as of June 30, 2025:
+Approximate
+Location
+Size (square feet)
+Principal Operations
+Mexicali, Mexico
+508,000
+Manufacturing
+Greencastle, Pennsylvania
+206,000
+Distribution
+Juarez, Mexico
+225,000
+Manufacturing
+Juarez, Mexico
+197,000
+Manufacturing
+Juarez, Mexico
+131,000
+Manufacturing
+High Point, North Carolina
+54,000
+Showroom
+El Paso, Texas
+38,000
+Warehouse
+High Point, North Carolina
+11,000
+Design & Engineering Center
+Las Vegas, NV
+10,000
+Showroom
+Shenzhen, China
+2,000
+Office
+Bangkok, Thailand
+1,500
+Office
+Binh Duong, Vietnam
+1,000
+Office
+See Note 2 Leases of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for further discussion of the leased assets.Item 3.
+Legal Proceedings See Note 14 Commitments and Contingencies of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for discussion of legal proceedings.Item 4.
+Mine Safety DisclosuresNone.PART IIItem 5.
+Market for the Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market InformationThe Company’s common stock is traded on the NASDAQ Global Select Market under the trading symbol FLXS.Holders of RecordThe Company had 187 registered holders of common stock and estimates there were approximately 3,000 beneficial holders of common stock of the Company as of June 30, 2025.
+The payment of future cash dividends is within the discretion of the Company’s Board of Directors and will depend, among other factors, on its earnings, capital requirements and operating and financial condition.Purchases of Equity SecuritiesOn December 11, 2024, the Board of Directors approved a share repurchase program authorizing the Company to purchase up to $30 million of the Company’s common stock.
+11
+Table of Contents
+The following table details shares repurchased by the Company during the three months ended June 30, 2025.
+Total Number
+Average
+Total Number
+Approximate Dollar Value
+of Shares
+Price Paid
+of Shares Purchased
+of Shares that May Yet
+Period
+Purchased
+per Share
+as Part of Plan
+Be Purchased
+April 1, 2025, to April 30, 2025
+—
+$
+—
+—
+$
+30,000,000
+May 1, 2025, to May 31, 2025
+—
+—
+—
+30,000,000
+June 1, 2025, to June 30, 2025
+—
+—
+—
+30,000,000
+As of June 30, 2025
+—
+$
+—
+—
+$
+30,000,000
+12
+Table of Contents
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of OperationsGeneralThe following analysis of the results of operations and financial condition of the Company should be read in conjunction with the consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K.Results of OperationsThe following table has been prepared as an aid in understanding the Company’s results of operations on a comparative basis for the fiscal years ended June 30, 2025, 2024, and 2023.
+Amounts presented are percentages of the Company’s net sales.
+For the years ended June 30,
+2025
+2024
+2023
+Net sales
+100.0
+%
+100.0
+%
+100.0
+%
+Cost of goods sold
+77.8
+78.9
+82.0
+Gross margin
+22.2
+21.1
+18.0
+Selling, general and administrative expenses
+15.1
+17.1
+16.0
+Restructuring expense
+—
+0.7
+—
+Right-of-use asset impairment
+3.2
+—
+—
+(Gain) on sale of real estate
+(0.2
+)
+—
+—
+(Gain) on disposal of assets held for sale
+(2.0
+)
+(0.8
+)
+—
+Environmental remediation
+—
+—
+(0.7
+)
+Other expense
+—
+—
+0.1
+Operating income
+6.0
+4.1
+2.7
+Interest income
+0.1
+0.0
+0.0
+Interest (expense)
+(0.0
+)
+(0.4
+)
+(0.3
+)
+Income before income taxes
+6.1
+3.8
+2.3
+Income tax provision (benefit)
+1.5
+1.2
+(1.4
+)
+Net income and comprehensive income
+4.6
+%
+2.6
+%
+3.8
+%
+Fiscal 2025 Compared to Fiscal 2024Net sales were $441.1 million for the year ended June 30, 2025, compared to net sales of $412.8 million in the prior year, an increase of $28.3 million or 6.9%. The increase in sales was primarily driven by unit volume in our soft seating products, offset by a decline in our homestyles ready-to-assemble product line. Gross margin for the year ended June 30, 2025, was 22.2%, compared to 21.1% for the prior fiscal year, an increase of 110 basis points (“bps”). The 110-bps increase was primarily driven by fixed cost leverage on higher sales, supply chain cost savings, and product portfolio management.Selling, general, and administrative (“SG&A”) expenses decreased by $3.7 million in the year ended June 30, 2025, compared to the prior fiscal year. As a percentage of net sales, SG&A expense was 15.1% in fiscal year 2025 compared to 17.1% of net sales in the prior fiscal year.
+The decrease of 200-bps is primarily due to fixed cost leverage on higher sales volume and structural cost savings partially offset by investments in growth initiatives. The prior year SG&A expense also included a $1.5 million expense due to CEO transition costs associated with the revaluation of previously awarded equity awards which did not recur in the current year.In July 2022, Flexsteel commenced a 12-year lease for a manufacturing facility in Mexicali, Mexico to support strong demand growth which was elevated due to pandemic-driven buying at that time.
+Subsequently, U.S. furniture demand reverted to pre-pandemic norms, and the Company’s plan for the facility pivoted to subleasing the space short-term while maintaining the option to utilize it longer term to support growth. While the Company secured multiple short-term sublease tenants at the beginning of the lease term, substantial changes in U.S. trade policy in early 2025 created significant uncertainty in US-Mexico trade relations, slowed foreign direct investment in Mexico, and greatly diminished tenant interest in subleasing the Mexicali facility. As a result, management concluded that the right of use asset related to this lease was not fully recoverable and recorded a pre-tax non-cash asset impairment charge of $14.1 million during the quarter ended March 31, 2025. See Note 2, Leases, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.
+13
+Table of Contents
+During the year ended June 30, 2025, the Company completed the sale of its Dublin, Georgia facility which had been previously recorded as held for sale. The Company recorded a pre-tax gain of $5.0 million related to the sale. See Note 6, Assets Held For Sale, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.During the year ended June 30, 2025, the Company completed the sale of 2 separate ancillary buildings, formerly part of its Huntingburg, Indiana distribution center complex.
+The Company received proceeds of $0.8 million and recorded a pre-tax gain of $0.7 million related to the first sale. The Company received proceeds of $4.0 million and recorded a pre-tax gain of $3.7 million related to the second sale.
+The Company has adequate distribution capacity to support our growth as we continue to optimize our distribution and logistics network.
+See Note 6, Assets Held For Sale, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information. Income tax expense was $6.8 million, or an effective rate of 25.3%, for the year ended June 30, 2025, compared to income tax expense of $5.0 million in the prior year, or an effective tax rate of 32.3%. The current year effective tax rate was primarily impacted by the effect of state and foreign taxes, offset by a research & development credit benefit. The prior year tax rate was impacted by the effect of state taxes, nondeductible stock compensation, and foreign taxes, offset by a research & development credit benefit. See Note 10, Income Taxes, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.Net income was $20.2 million, or $3.55 per diluted share for the year ended June 30, 2025, compared to net income of $5.5 million, or $1.91 per diluted share in the prior year.On July 31, 2025, the President of the United States issued an executive order intended to clarify certain matters related to previously issued executive orders on tariffs. This executive order included, among other things, a country specific tariff of 20% on goods imported from Vietnam. The current situation is dynamic, and it is unknown if the United States and its trade partners will reach an agreement to further pause or adjust the current tariffs. Depending on our ability to mitigate these tariffs, they could have a material impact on our future net sales, cost of goods sold, profit and cash flow. The ultimate effect will be dependent on the magnitude and duration of the tariffs and the countries implicated as well as our ability to successfully mitigate the potential impact. The Company is assessing options to mitigate any potential impact, which includes supply chain adjustments, negotiating concessions with current suppliers, and pricing actions.On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the United States. The OBBBA includes a number of provisions which impact the United States tax code. These regulations impacting the tax code have multiple effective dates ranging from fiscal years beginning January 1, 2025, to fiscal years beginning January 1, 2027. The Company has not adjusted its provision for income tax or measurement of deferred tax assets as of June 30, 2025, based on the changes that may be triggered by the OBBBA due to the law being signed on July 4, 2025. The Company is currently assessing the impact of the OBBBA but does not expect it to have a material impact on our future financial position and results of operations.Fiscal 2024 Compared to Fiscal 2023Net sales were $412.8 million for the year ended June 30, 2024, compared to net sales of $393.7 million in the prior year, an increase of $19.1 million or 4.8%. Sales of products sold through retailers increased by $22.9 million or 6.7% primarily driven by growth with strategic customers and new product introductions. Sales of products sold through e-commerce channels decreased by ($3.8) million, or (7.5%) due to a decrease in consumer demand. Gross margin as a percent of net sales for the year ended June 30, 2024, was 21.1%, compared to 18.0% for the prior fiscal year, an increase of 310-bps. The 310-bps increase was primarily driven by an increase of 240-bps primarily related to cost savings initiatives for materials, labor, and logistics, product portfolio management and disciplined promotional pricing and a 70-bps improvement on volume leverage of fixed cost structure.SG&A expenses increased by $7.6 million in the year ended June 30, 2024, compared to the prior fiscal year. As a percentage of net sales, SG&A expense was 17.1% in fiscal year 2024 compared to 16.0% of net sales in the prior fiscal year.
+The increase of 110-bps is primarily due to an increase of 40-bps due to CEO transition costs associated with the revaluation of previously awarded equity awards, an increase of 40-bps due to higher incentive compensation, and an increase of 30-bps driven by investments in growth initiatives partially offset by cost leverage on higher sales volume.There was $3.0 million in restructuring expenses recorded in the year ended June 30, 2024, associated with the previously announced closure of the Dublin, Georgia manufacturing facility. The $3.0 million primarily consists of $2.6 million in one-time employee termination benefits and other associated costs. All charges related to the restructuring activities were completed in fiscal year 2024. There were no restructuring expenses incurred in the prior fiscal year. See Note 5, Restructuring, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.
+14
+Table of Contents
+During the year ended June 30, 2024, the Company completed the sale of the Starkville, Mississippi location which had been previously recorded as held for sale. The Company recorded a gain of $3.3 million related to the sale in the fiscal year. See Note 6, Assets Held For Sale, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information. Income tax expense was $5.0 million, or an effective rate of 32.3%, for the year ended June 30, 2024, compared to income tax benefit of ($5.6) million in the prior year, or an effective tax rate of (60.3%). The effective tax rate was impacted by the effect of state taxes, nondeductible stock compensation and foreign taxes, offset by a research & development credit benefit. The prior year tax rate was negative due to the reversal of a full valuation allowance on deferred tax assets. See Note 10, Income Taxes, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.Net income was $10.5 million, or $1.91 per diluted share for the year ended June 30, 2024, compared to net income of $14.8 million, or $2.74 per diluted share in the prior year.Liquidity and Capital ResourcesWorking capital (current assets less current liabilities) on June 30, 2025, was $110.4 million compared to $95.0 million on June 30, 2024.
+The $15.4 million increase in working capital is primarily due to an increase in cash of $35.2 million offset by a decrease of $9.0 million of trade receivables, a decrease of $7.4 million in inventory, an increase in sales & advertising related accruals of $2.0 million and a decrease of $1.7 million in assets held for sale. Capital expenditures were $3.3 million for the fiscal year ended June 30, 2025.A summary of operating, investing, and financing cash flow is shown in the following table:
+For the years ended June 30,
+(in thousands)
+2025
+2024
+Net cash provided by operating activities
+$
+36,979
+$
+31,883
+Net cash provided by (used in) investing activities
+9,432
+(593
+)
+Net cash (used in) financing activities
+(11,166
+)
+(29,894
+)
+Increase in cash and cash equivalents
+$
+35,245
+$
+1,396
+Net cash provided by operating activitiesFor the year ended June 30, 2025, cash provided by operating activities was $37.0 million, which primarily consisted of net income of $20.2 million, adjusted for non-cash items including an impairment of our Mexicali facility right-of-use asset of $14.1 million, stock-based compensation expense of $3.9 million, and depreciation expense of $3.7 million, offset by gain on disposition of property, plant and equipment of $9.5 million, $3.8 million in deferred income tax benefit, and accounts receivable allowance benefit of $0.2 million. Net cash provided by operating assets and liabilities was $8.7 million and was primarily due to a decrease in trade receivables of $9.3 million and a decrease in inventory of $7.4 million due to inventory optimization initiatives, offset by an increase in other assets of $7.6 million primarily related to our receivable for recoverable VAT paid in Mexico.For the year ended June 30, 2024, cash provided by operating activities was $31.9 million, which primarily consisted of net income of $10.5 million, adjusted for non-cash items including depreciation of $4.0 million and stock-based compensation of $4.6 million, offset by $1.5 million in deferred income taxes, accounts receivable allowance recoveries of $0.2 million, and gain from the sale of capital assets of $2.8 million. Net cash provided by operating assets and liabilities was $17.2 million and was primarily due to a decrease in inventory of $25.5 million due to inventory optimization initiatives, an increase in accounts payable of $1.4 million due to timing of inventory purchases, and an increase in other liabilities of $4.4 million offset by an increase in other assets of $8.2 million and an increase in accounts receivable of $5.9 million due to higher net sales.Net cash provided by (used in) investing activitiesFor the year ended June 30, 2025, net cash provided by investing activities was $9.4 million, primarily due to proceeds of $11.6 million from the sales of property, plant and equipment, and corporate owned life insurance proceeds of $1.2 million, offset by capital expenditures of $3.3 million partially.For the year ended June 30, 2024, net cash used in investing activities was $0.6 million, primarily due to capital expenditures of $4.8 million partially offset by proceeds of $4.2 million from the sale of capital assets
+15
+Table of Contents
+Net cash (used in) financing activitiesFor the year ended June 30, 2025, net cash used in financing activities was $11.2 million, primarily due to proceeds from lines of credit of $202.3 million, offset by payments on lines of credit of $207.3 million, dividends paid of $3.6 million, and $2.8 million for tax payments on employee vested restricted shares netted with proceeds from the issuance of common stock.For the year ended June 30, 2024, net cash used in financing activities was $29.9 million, primarily due to proceeds from lines of credit of $367.8 million, offset by payments on lines of credit of $391.3 million, dividends paid of $3.2 million, $1.7 million for treasury stock purchases, and $1.5 million for tax payments on employee vested restricted shares netted with proceeds from the issuance of common stock.Financing ArrangementsLine of CreditOn September 8, 2021, the Company, as the borrower, entered into a credit agreement (the “Credit Agreement”) with Wells Fargo Bank, National Association (the “Lender”), and the other lenders thereto. The Credit Agreement has a five-year term and provides for up to an $85 million revolving line of credit. Subject to certain conditions, the Credit Agreement also provides for the issuance of letters of credit in an aggregate amount up to $5 million which, upon issuance, would be deemed advances under the revolving line of credit. Proceeds of borrowings were used to refinance all indebtedness owed to a prior lender and for working capital purposes. The Company’s obligations under the Credit Agreement are secured by substantially all its assets, excluding real property. The Credit Agreement contains customary representations, warranties, and covenants, including a financial covenant to maintain a fixed coverage ratio of not less than 1.00 to 1.00. In addition, the Loan Agreement places restrictions on the Company’s ability to incur additional indebtedness, to create liens or other encumbrances, to sell or otherwise dispose of assets, and to merge or consolidate with other entities.On April 18, 2022, the Company entered into a first amendment to the Credit Agreement (“First Amendment to the Credit Agreement”), with the Lender, and the lenders thereto.
+The amendment to the Credit Agreement changed the definition of the term "Payment Conditions" and further defined default or event of default and the calculation of the Fixed Charge Coverage Ratio.Subject to certain conditions, borrowings under the Credit Agreement initially bore interest at LIBOR plus 1.25% or 1.50% per annum. On May 24, 2023, the Company entered into a second amendment to the Credit Agreement (“Second Amendment to the Credit Agreement”) with the Lender to transition the applicable interest rate from LIBOR to Secured Overnight Financing Rate (“SOFR”).
+Effective as of the date of the Second Amendment to the Credit Agreement, borrowings under the amended Credit Agreement bear interest at SOFR plus 1.36% to 1.61% or an effective interest rate of 5.76% on June 30, 2025.On June 3, 2025, the Company entered into a third amendment to its Credit Agreement ("Third Amendment to the Credit Agreement") with Wells Fargo Bank, NA. The amendment reduced the maximum revolving line of credit amount to $55 million and modified certain definitions in the Credit Agreement which include dollar figures derived from the maximum revolver amount. The reduction in the maximum revolving line of credit amount was initiated by the Company to better align with current and projected borrowing availability under the terms of the Credit Agreement.As of June 30, 2025, there were no outstanding borrowings under the Credit Agreement, exclusive of fees and letters of credit.Letters of credit outstanding at the Lender as of June 30, 2025, totaled $0.9 million.See Note 9 Credit Arrangements of Notes to Consolidated Financial Statements of this Annual Report on Form 10-K.Contractual ObligationsThe following table summarizes our contractual obligations on June 30, 2025, and the effect these obligations are expected to have on our liquidity and cash flow in the future (in thousands):
+2-3
+4-5
+More than
+Total
+1 Year
+Years
+Years
+5 Years
+Operating lease obligations
+$
+67,976
+$
+10,003
+$
+20,062
+$
+17,511
+$
+20,400
+Warehouse management obligation
+1,735
+1,388
+347
+—
+—
+16
+Table of Contents
+OutlookOur focus for fiscal 2026 will be to remain financially agile with strong liquidity, continue building our foundation for profitable long-term growth in both retail and e-commerce sales channels, build global supply chain resiliency, continue focusing on operational excellence, strengthen digital capabilities, re-imagine the customer experience, and build strong culture and talent.Critical Accounting PoliciesThe discussion and analysis of our consolidated financial statements and results of operations are based on consolidated financial statements prepared in accordance with generally accepted accounting principles (GAAP) in the United States of America.
+Preparation of these consolidated financial statements requires the use of estimates and judgments that affect the reported results.
+We use estimates based on the best information available in recording transactions and balances resulting from business operations.
+Estimates are used for such items as the collectability of trade accounts receivable and inventory valuation.
+Ultimate results may differ from these estimates under different assumptions or conditions.Allowance for Credit Losses – We establish an allowance for credit losses to reduce trade accounts receivable to an amount that reasonably approximates their net realizable value. Our accounts receivable allowance consists of an allowance for expected credit losses which is established through a review of open accounts, historical collection, and historical write-off amounts. The amount ultimately realized from trade accounts receivable may differ from the amount estimated in the consolidated financial statements.Inventories – We value inventory at the lower of cost or net realizable value. Cost of manufactured inventory includes materials, labor and overhead. In addition, finished goods inventory includes capitalized freight, import duties, and warehousing costs. Our inventory valuation reflects markdowns for the excess of the cost over the amount expected to be realized and considers obsolete and excess inventory. Markdowns establish a new cost basis for the Company’s inventory. Subsequent changes in facts or circumstances do not result in the reversal of previously recorded markdowns or an increase in that newly established cost basis.Valuation of Long-Lived Assets – We periodically review the carrying value of long-lived assets and estimated depreciable or amortizable lives for continued appropriateness.
+This review is based upon projections of anticipated future cash flows and is performed whenever events or changes in circumstances indicate that asset carrying values may not be recoverable or that the estimated depreciable or amortizable lives may have changed. For long-lived assets, including right-of-use lease assets, if the net book value of the asset is greater than its estimated fair value less cost to sell, an impairment is recorded for the excess of net book value over estimated fair value less cost to sell. We recorded $14.1 million of impairments in the fiscal year 2025 related to our Mexicali facility lease right-of-use asset. See Note 2, Leases, for the Company’s lease disclosures. No impairments were recorded in fiscal years 2024 and 2023. Restructuring Costs – The Company groups exit or disposal cost obligations into three categories: Involuntary employee termination benefits, costs to terminate contracts, and other associated costs.
+Involuntary employee termination benefits must be a one-time benefit, and this element of restructuring cost is recognized as incurred upon communication of the plan to the identified employees.
+Costs to terminate contracts are recognized upon the effectiveness of the termination agreement with the provider.
+Other associated restructuring costs are expensed as incurred.
+Any inventory impairment costs as a result of restructuring activities are accounted for as costs of goods sold.Income Taxes - In determining taxable income for financial statement purposes, we must make certain estimates and judgments. These estimates and judgments affect the calculation of certain tax liabilities and the determination of the recoverability of certain deferred tax assets, which arise from temporary differences between the tax and financial statement recognition of revenue and expense. In evaluating our ability to recover our deferred tax assets we consider all available positive and negative evidence including our past operating results, the existence of cumulative losses in the most recent years, and our forecast of future taxable income. In estimating future taxable income, we develop assumptions including the amount of future pre-tax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment about the forecasts of future taxable income and are consistent with the plans and estimates we are using to manage the underlying businesses.At June 30, 2025, the Company determined that based on the weight of available evidence, we will be able to recover our deferred tax assets. The realization of our deferred tax assets is primarily dependent on future taxable income in the appropriate jurisdiction. Any reduction in future taxable income, including but not limited to any future restructuring activities may require that we establish a valuation allowance against our deferred tax assets. Establishing a valuation allowance or an increase in the valuation allowance could result in additional income tax expense in such a period and could have a significant impact on our future earnings.
+Refer to Note 10 Income Taxes of Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for more information.
+17
+Table of Contents
+Item 7A.
+Quantitative and Qualitative Disclosures About Market RiskGeneral – Market risk represents the risk of changes in the value of a financial instrument, derivative or non-derivative, caused by fluctuations in interest rates, foreign exchange rates and equity prices. As discussed below, management of the Company does not believe that changes in these factors could cause material fluctuations in the Company’s results of operations or cash flows. The ability to import furniture products can be adversely affected by political issues in the countries where suppliers are located, as well as disruptions associated with shipping distances and negotiations with port employees. Other risks related to furniture product importation include government imposition of regulations and/or quotas; duties, taxes or tariffs on imports; and significant fluctuation in the value of the U.S. dollar against foreign currencies. Any of these factors could interrupt supply, increase costs, decrease demand, and decrease earnings. Foreign Currency Risk – During fiscal years 2025, 2024, and 2023, the Company did not have sales but had purchases and other expenses denominated in foreign currencies, primarily the Mexican Peso. The wages of our employees and certain other employee benefits and indirect costs related to our operations in Mexico are made in Pesos and subject to foreign currency fluctuation with the U.S. dollar.
+The Company does not employ any foreign currency hedges against this operating expense exposure. A negative shift in the value of the U.S. dollar against the Peso could increase the cost of our manufactured product. In addition, the Company has certain asset and liabilities related to our manufacturing operations which are denominated in pesos, primarily our VAT receivable for recoverable VAT paid in Mexico. A negative shift in the value of the Peso against the U.S. dollar could result in the value of our receivable decreasing which may impact our earnings. During the third quarter of fiscal year 2025, we utilized a derivative instrument to reduce our exposure to foreign currency risk from changes in the peso’s exchange rate for this exposure. This instrument expired on March 31, 2025, without being utilized and the Company does not currently hedge foreign currency risk. See “Risk Factors” in Item 1A in this Annual Report on Form 10-K for further discussion. Interest Rate Risk – The Company’s primary market risk exposure regarding financial instruments is changes in interest rates.
+On June 30, 2025, the Company had no outstanding balance on its line of credit.
+18
+Table of Contents
+Item 8.
+Financial Statements and Supplementary DataIndex to Consolidated Financial Statements
+Page
+Report of Independent Registered Public Accounting Firm PCAOB ID 34
+20
+Report of Independent Registered Public Accounting Firm – Internal Control Over Financial Reporting
+23
+Consolidated Balance Sheets at June 30, 2025 and 2024
+24
+Consolidated Statements of Income and Comprehensive Income for the Years Ended June 30, 2025, 2024, and 2023
+25
+Consolidated Statements of Changes in Shareholders’ Equity for the Years Ended June 30, 2025, 2024, and 2023
+26
+Consolidated Statements of Cash Flows for the Years Ended June 30, 2025, 2024, and 2023
+27
+Notes to Consolidated Financial Statements
+28-41
+Schedule II Valuation and Qualifying Accounts
+44
+19
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRMTo the shareholders and the Board of Directors of Flexsteel Industries, Inc.Opinion on the Financial StatementsWe have audited the accompanying consolidated balance sheets of Flexsteel Industries, Inc. and subsidiaries (the “Company”) as of June 30, 2025 and 2024, the related consolidated statements of income, comprehensive income, shareholders’ equity, and cash flows, for each of the three years in the period ended June 30, 2025, and the related notes and the schedule listed in the Index at Item 15 (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of June 30, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended June 30, 2025, in conformity with accounting principles generally accepted in the United States of America.We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of June 30, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated August 22, 2025 expressed an unqualified opinion on the Company’s internal control over financial reporting.Basis for OpinionThese financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.Critical Audit MattersThe critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.Inventories — Refer to Notes 1 and 3 to the financial statementsCritical Audit Matter DescriptionThe Company has inventories of $89.1 million as of June 30, 2025. The Company records inventories at the lower of cost or net realizable value utilizing the first-in, first-out (“FIFO”) method. The Company’s inventory valuation reflects markdowns for the excess of the cost over the amount expected to be realized. Markdowns establish a new cost basis for the Company’s inventories. Subsequent changes in facts or circumstances do not result in the reversal of previously recorded markdowns or an increase in that newly established cost basis. Given the quantitative and qualitative materiality of the balance, coupled with the judgments and subjectivity involved to estimate the markdowns to the net realizable value of inventories, auditing management’s estimates of net realizable value required subjective auditor judgment.
+20
+Table of Contents
+How the Critical Audit Matter Was Addressed in the AuditOur audit procedures related to estimated net realizable value of inventories included the following, among others:•We tested the design and operating effectiveness of internal controls over the inventory valuation process, including controls over the inputs that are used in management’s inventory markdown for the excess of the cost over the amount expected to be realized.•We tested management's process to determine the inventory markdowns and net realizable value of inventory through inquiries of management, and evaluation of accounting policies and process documentation.•We tested the accuracy and completeness of the Company’s measurement of inventory markdowns using a sampling approach. We evaluated the appropriateness of methodologies and assumptions used by management to estimate inventory markdowns including inventory quantities on-hand, historical sales activity, and other assumptions used by management. •We evaluated management’s measurement of the inventory markdowns and net realizable value by testing the mathematical accuracy of the Company’s calculation. •We performed retrospective reviews of actual products sold in the current year against prior year inventory markdowns to net realizable value.Mexicali Right-of-Use Asset Impairment — Refer to Notes 1 and 2 to the financial statementsCritical Audit Matter DescriptionThe Company periodically reviews the carrying value of long-lived assets and estimated depreciable or amortizable lives for continued appropriateness. This review is based upon projections of anticipated future cash flows and is performed whenever events or changes in circumstances indicate that asset carrying values may not be recoverable or that the estimated depreciable or amortizable lives may have changed. Events that result in an impairment review may include a significant decrease in the operating performance of the long-lived asset, or the decision to close a manufacturing facility, or distribution center. If it is determined estimated fair value, less cost to sell, is less than the carrying value, the asset is written down to its fair value. In the third quarter of fiscal year 2025, indicators arose that the right-of-use asset assigned to the Company’s manufacturing facility in Mexicali, Mexico may not be fully recoverable.
+As a result of management’s analysis, management concluded that the right-of-use asset related to this lease is not fully recoverable and recorded a $14.1 million impairment in fiscal year 2025.We identified the Mexicali Right-of-Use Asset Impairment as a critical audit matter because the impairment assessment involves significant judgment due to the estimation of future cash flows and fair values. Key assumptions, sublease rental income per square foot and discount rate, are influenced by economic conditions and are inherently subjective. Because of the materiality of the impairment and the complexity of the assumptions, auditing management’s estimates of estimated fair value required subjective auditor judgment.How the Critical Audit Matter Was Addressed in the AuditOur audit procedures related to the sublease rental income per square foot and selection of discount rate, among others:•We tested the effectiveness of controls over management’s valuation, including those over the sublease rental income per square foot and selection of discount rate.•We inquired of management regarding the viability of subleasing the manufacturing facility and appropriate sublease rental income per square foot.•We evaluated the reasonableness of management’s plan to sublease the Mexicali, Mexico manufacturing facility through:oInspection of internal communications between management and the Board of DirectorsoInspection of historical subleasing agreements between the Company and tenants.•We evaluated the methods and inputs used by management to determine the fair value of the lease right-of-use asset, as well as evaluated management's analysis to assess the sensitivity of sublease rental income per square foot and discount rate.
+21
+Table of Contents
+•With the assistance of fair value specialists, we evaluated the reasonableness of the sublease rental income per square foot by:oTesting the source information underlying the determination of sublease rental income per square foot and testing the mathematical accuracy of the informationoComparing sublease rental income per square foot to market dataoDeveloping ranges of independent estimates and comparing those to the sublease rental income per square foot selected by management.•With the assistance of fair value specialists, we evaluated the reasonableness of the discount rate by:oTesting the source information underlying the determination of the discount rate and testing the mathematical accuracy of the informationoComparing the discount rate to market dataoDeveloping ranges of independent estimates and comparing those to the discount rate selected by managementoEvaluating the application of the discount rate on the anticipated future cash flows and recalculating the net present value. /s/ Deloitte & Touche LLPMinneapolis, MNAugust 22, 2025We have served as the Company’s auditor since 1965.
+22
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRMTo the shareholders and the Board of Directors of Flexsteel Industries, Inc.Opinion on Internal Control over Financial ReportingWe have audited the internal control over financial reporting of Flexsteel Industries, Inc. and subsidiaries (the “Company”) as of June 30, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of June 30, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO.We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended June 30, 2025, of the Company and our report dated August 22, 2025, expressed an unqualified opinion on those financial statements.Basis for OpinionThe Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.Definition and Limitations of Internal Control over Financial ReportingA company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. /s/ Deloitte & Touche LLPMinneapolis, MNAugust 22, 2025
+23
+Table of Contents
+FLEXSTEEL INDUSTRIES, INC. AND SUBSIDIARIESConsolidated Balance Sheets(Amounts in thousands)
+June 30,
+2025
+2024
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents
+$
+40,006
+$
+4,761
+Trade receivables - less allowances: 2025, $1,790; 2024, $2,440
+35,229
+44,238
+Inventories
+89,135
+96,577
+Other
+8,002
+8,098
+Assets held for sale
+—
+1,707
+Total current assets
+172,372
+155,381
+NONCURRENT ASSETS:
+Property, plant and equipment, net
+36,212
+36,709
+Operating lease right-of-use assets
+41,545
+61,439
+Deferred income taxes
+12,444
+8,607
+Other assets
+19,913
+12,326
+TOTAL
+$
+282,486
+$
+274,462
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Accounts payable - trade
+$
+25,617
+$
+25,830
+Current portion of operating lease liabilities
+7,809
+7,517
+Accrued liabilities:
+Payroll and related items
+11,260
+12,059
+Insurance
+1,950
+1,900
+Sales and advertising related items
+8,061
+6,073
+Other
+7,317
+7,027
+Total current liabilities
+62,014
+60,406
+LONG-TERM LIABILITIES:
+Operating lease liabilities, less current maturities
+51,561
+58,076
+Line of credit
+—
+4,822
+Other liabilities
+1,049
+791
+Total liabilities
+114,624
+124,095
+COMMITMENTS AND CONTINGENCIES (Note 14)
+SHAREHOLDERS' EQUITY:
+Common stock - $1 par value; authorized 15,000 shares; 8,514 shares issued   and 5,307 shares outstanding as of June 30, 2025, and 8,407 shares issued and   5,200 shares outstanding as of June 30, 2024
+8,514
+8,407
+Additional paid-in capital
+40,644
+39,573
+Treasury stock, at cost; 3,207 shares as of June 30, 2025 and   2024, respectively
+(71,731
+)
+(71,731
+)
+Retained earnings
+190,435
+174,118
+Accumulated other comprehensive income
+—
+—
+Total shareholders' equity
+167,862
+150,367
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+$
+282,486
+$
+274,462
+See accompanying Notes to Consolidated Financial Statements.
+24
+Table of Contents
+FLEXSTEEL INDUSTRIES, INC. AND SUBSIDIARIESConsolidated Statements of Income AND COMPREHENSIVE INCOME(Amounts in thousands, except per share data)
+For the years ended June 30,
+2025
+2024
+2023
+Net sales
+$
+441,073
+$
+412,752
+$
+393,692
+Cost of goods sold
+343,129
+325,508
+322,745
+Gross profit
+97,944
+87,244
+70,947
+Selling, general and administrative expenses
+66,696
+70,444
+62,846
+Restructuring expense
+—
+2,982
+—
+Right-of-use asset impairment
+14,079
+—
+—
+(Gain) on sale of real estate
+(753
+)
+—
+—
+(Gain) on disposal of assets held for sale
+(8,693
+)
+(3,262
+)
+—
+Environmental remediation
+—
+—
+(2,788
+)
+Other expense
+—
+—
+347
+Operating income
+26,615
+17,080
+10,542
+Other income (expense):
+Interest income
+421
+20
+18
+Interest (expense)
+(70
+)
+(1,550
+)
+(1,341
+)
+Total other income (expense)
+351
+(1,530
+)
+(1,323
+)
+Income before income taxes
+26,966
+15,550
+9,219
+Income tax provision (benefit)
+6,812
+5,022
+(5,559
+)
+Net income and comprehensive income
+$
+20,154
+$
+10,528
+$
+14,778
+Weighted average number of common shares outstanding:
+Basic
+5,249
+5,170
+5,225
+Diluted
+5,678
+5,519
+5,385
+Earnings per share of common stock
+Basic
+$
+3.84
+$
+2.04
+$
+2.83
+Diluted
+$
+3.55
+$
+1.91
+$
+2.74
+25
+Table of Contents
+FLEXSTEEL INDUSTRIES, INC. AND SUBSIDIARIESConsolidated Statements of Changes in Shareholders’ Equity(Amounts in thousands)
+Total Par
+Value of
+Common
+Treasury
+Retained
+Shares ($1 Par)
+Capital
+Stock
+Earnings
+Total
+Balance at June 30, 2022
+$
+8,190
+$
+34,467
+$
+(66,372
+)
+$
+155,275
+$
+131,560
+Issuance of common stock:
+Stock-based compensation
+34
+3,157
+—
+—
+3,191
+Vesting of restricted stock units and restricted shares
+68
+(1,019
+)
+(951
+)
+Treasury stock purchases
+—
+—
+(3,700
+)
+—
+(3,700
+)
+Cash dividends declared
+—
+—
+—
+(3,257
+)
+(3,257
+)
+Net income
+—
+—
+—
+14,778
+14,778
+Balance at June 30, 2023
+$
+8,292
+$
+36,605
+$
+(70,072
+)
+$
+166,796
+$
+141,621
+Issuance of common stock:
+Stock-based compensation
+24
+4,622
+—
+—
+4,646
+Vesting of restricted stock units and restricted shares
+88
+(1,739
+)
+—
+—
+(1,651
+)
+Stock options exercised, net
+3
+85
+—
+—
+88
+Treasury stock purchases
+—
+—
+(1,659
+)
+—
+(1,659
+)
+Cash dividends declared
+—
+—
+—
+(3,206
+)
+(3,206
+)
+Net income
+—
+—
+—
+10,528
+10,528
+Balance at June 30, 2024
+$
+8,407
+$
+39,573
+$
+(71,731
+)
+$
+174,118
+$
+150,367
+Issuance of common stock:
+Stock-based compensation
+14
+3,855
+—
+—
+3,869
+Vesting of restricted stock units and restricted shares
+29
+(823
+)
+—
+—
+(794
+)
+Stock options exercised, net
+64
+(1,961
+)
+—
+—
+(1,897
+)
+Cash dividends declared
+—
+—
+—
+(3,837
+)
+(3,837
+)
+Net income
+—
+—
+—
+20,154
+20,154
+Balance at June 30, 2025
+8,514
+40,644
+(71,731
+)
+190,435
+167,862
+Cash dividends declared per common share were $0.71, $0.60, and $0.60 for the fiscal years ended June 30, 2025, 2024, and 2023, respectively.See accompanying Notes to Consolidated Financial Statements.
+26
+Table of Contents
+FLEXSTEEL INDUSTRIES, INC. AND SUBSIDIARIESConsolidated Statements of Cash Flows(Amounts in thousands)
+For the years ended June 30,
+2025
+2024
+2023
+OPERATING ACTIVITIES:
+Net income
+$
+20,154
+$
+10,528
+$
+14,778
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+Depreciation
+3,654
+3,997
+4,572
+Deferred income taxes
+(3,837
+)
+(1,454
+)
+(7,154
+)
+Stock-based compensation expense
+3,869
+4,647
+3,191
+Change in provision for losses on accounts receivable
+(244
+)
+(160
+)
+(380
+)
+Right-of-use asset impairment
+14,079
+—
+—
+(Gain) on disposition of property, plant and equipment
+(9,446
+)
+(2,839
+)
+(313
+)
+Changes in operating assets and liabilities:
+Trade receivables
+9,253
+(5,910
+)
+3,318
+Inventories
+7,441
+25,499
+19,136
+Other current assets
+(962
+)
+(1,681
+)
+(1,467
+)
+Other assets
+(7,586
+)
+(6,518
+)
+(3,865
+)
+Accounts payable - trade
+(579
+)
+1,373
+(7,320
+)
+Accrued liabilities
+830
+4,177
+(1,270
+)
+Other long-term liabilities
+353
+224
+(237
+)
+Net cash provided by operating activities
+36,979
+31,883
+22,989
+INVESTING ACTIVITIES:
+Proceeds from sale of investments
+1,155
+—
+—
+Proceeds from sales of property, plant and equipment
+11,535
+4,179
+340
+Capital expenditures
+(3,258
+)
+(4,772
+)
+(4,790
+)
+Net cash provided by (used in) investing activities
+9,432
+(593
+)
+(4,450
+)
+FINANCING ACTIVITIES:
+Dividends paid
+(3,556
+)
+(3,219
+)
+(3,241
+)
+Treasury stock purchases
+—
+(1,659
+)
+(3,700
+)
+Proceeds from lines of credit
+202,344
+367,818
+363,805
+Payments on lines of credit
+(207,262
+)
+(391,270
+)
+(373,271
+)
+Proceeds from issuance of common stock
+141
+88
+—
+Shares withheld for tax payments on vested shares and options exercised
+(2,833
+)
+(1,652
+)
+(951
+)
+Net cash (used in) financing activities
+(11,166
+)
+(29,894
+)
+(17,358
+)
+Increase in cash and cash equivalents
+35,245
+1,396
+1,181
+Cash and cash equivalents at beginning of year
+4,761
+3,365
+2,184
+Cash and cash equivalents at end of year
+$
+40,006
+$
+4,761
+$
+3,365
+SUPPLEMENTAL INFORMATION
+Interest paid
+107
+1,694
+1,069
+Interest received
+421
+—
+—
+Cash paid for income taxes, net
+9,397
+4,296
+4,104
+Capital expenditures in accounts payable
+390
+23
+311
+See accompanying Notes to Consolidated Financial Statements.
+27
+Table of Contents
+FLEXSTEEL INDUSTRIES, INC. AND SUBSIDIARIESNotes to Consolidated Financial Statements 1.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES DESCRIPTION OF BUSINESS – Flexsteel Industries, Inc., and Subsidiaries (the “Company” or “Flexsteel” or “Our”) is one of the largest manufacturers, importers, and marketers of furniture products in the United States. Product offerings include a wide variety of furniture such as sofas, loveseats, chairs, reclining rocking chairs, swivel rockers, sofa beds, convertible bedding units, occasional tables, desks, dining tables and chairs, kitchen storage, bedroom furniture, and outdoor furniture. A featured component in most of the upholstered furniture is a unique steel drop-in seat spring from which the name “Flexsteel” is derived. The Company distributes its products throughout the United States through its e-commerce channel and dealer sales force. PRINCIPLES OF CONSOLIDATION – The consolidated financial statements include the accounts of Flexsteel Industries, Inc. and its wholly owned subsidiaries. All intercompany transactions and accounts have been eliminated in consolidation. The Company’s consolidated financial statements and results of operations are based on consolidated financial statements prepared in accordance with Generally Accepted Accounting Principles (GAAP) in the United States of America. USE OF ESTIMATES – The preparation of consolidated financial statements in conformity with GAAP in the United States of America requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes.
+Ultimate results could differ from those estimates. FAIR VALUE – The Company’s cash and cash equivalents, investments, accounts receivable, other current assets, accounts payable and certain accrued liabilities are carried at amounts which reasonably approximate their fair value due to their short-term nature. GAAP on fair value measurement for certain financial assets and liabilities require that each asset and liability carried at fair value be classified into one of the following categories: Level 1: Quoted market prices in active markets for identical assets and liabilities; Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data; or Level 3: Unobservable inputs that are not corroborated by market data. The Company has not changed its valuation techniques in measuring the fair value of any financial assets and liabilities during the period.  ALLOWANCE FOR CREDIT LOSSES – The Company establishes an allowance for credit losses to reduce trade accounts receivable to an amount that reasonably approximates their net realizable value. The Company’s allowance for credit losses is established through review of open accounts, historical collection, and historical write-off amounts. The amount ultimately realized from trade accounts receivable may differ from the amount estimated in the consolidated financial statements. INVENTORIES – Inventories are stated at the lower of cost or net realizable value utilizing the first‑in - first‑out (“FIFO”) method. Cost of manufactured inventory includes materials, labor and overhead. In addition, finished goods inventory includes capitalized freight, import duties, and warehousing costs. Our inventory valuation reflects markdowns for the excess of the cost over the amount expected to be realized and considers obsolete and excess inventory. Markdowns establish a new cost basis for the Company’s inventory. Subsequent changes in facts or circumstances do not result in the reversal of previously recorded markdowns or an increase in that newly established cost basis. PROPERTY, PLANT AND EQUIPMENT – Property, plant and equipment is stated at cost and depreciated using the straight-line method over the estimated useful lives of the assets.  VALUATION OF LONG–LIVED ASSETS – The Company periodically reviews the carrying value of long-lived assets and estimated depreciable or amortizable lives for continued appropriateness.
+This review is based upon projections of anticipated future cash flows and is performed whenever events or changes in circumstances indicate that asset carrying values may not be recoverable or that the estimated depreciable or amortizable lives may have changed. For long-lived assets, including right-of-use lease assets, if the net book value of the asset is greater than its estimated fair value less cost to sell, an impairment is recorded for the excess of net book value over estimated fair value less cost to sell. ASSETS HELD FOR SALE – Assets held for sale represent land, buildings, machinery and equipment for locations that have met the criteria of “held for sale” accounting, as specified by Accounting Standards Codification (“ASC”) 360, “Property, Plant, and Equipment.” Once an asset is classified as held for sale, the Company ceases depreciating the asset. The assets held for sale are being marketed for sale and it is the Company’s intention to complete the sale of the assets within the upcoming year. RESTRUCTURING COSTS - The Company groups exit or disposal cost obligations into three categories: involuntary employee termination benefits, costs to terminate contracts, and other associated costs. Involuntary employee termination benefits must be a one-time benefit, and this element of restructuring cost is recognized as incurred upon communication of the plan to the identified employees.
+28
+Table of Contents
+Costs to terminate contracts are recognized upon termination agreement with the provider. Other associated restructuring costs are expensed as incurred. Any inventory impairment costs as a result of restructuring activities are accounted for as cost of goods sold.  LEASES – The Company accounts for its leases in accordance with ASC 842, Leases. ASC 842 requires lessees to (i) recognize a right-of-use asset (“ROU asset”) and a lease liability that is measured at the present value of the remaining lease payments, on the Consolidated Balance Sheets, (ii) recognize a single lease cost, calculated over the lease term on a straight-line basis and (iii) classify lease-related cash payments within operating and financing activities. The Company made an accounting policy election to not recognize short-term leases on the Consolidated Balance Sheets and all non-lease components, such as common area maintenance, were excluded. See Note 2, Leases, for the Company’s lease disclosures.  WARRANTY – The Company estimates the amount of warranty claims on sold product that may be incurred based on current and historical data. The actual warranty expense could differ from the estimates made by the Company based on product performance. REVENUE RECOGNITION – Revenue is recognized when control of the promised goods or services is transferred to our customers in an amount that reflects the consideration that we expect to receive in exchange for those goods or services. We generate revenue primarily by manufacturing and delivering furniture products to independent furniture retailers in the United States. Each unit of furniture is a separate performance obligation. We satisfy our performance obligations when control of our product is passed to our customer, which is the point in time that our customers are able to direct the use of and obtain substantially all of the remaining economic benefit of the goods or services. Net sales consist of product sales and outbound shipping and handling charges for customer deliveries, net of adjustments for returns and allowances. Shipping and handling costs are included in cost of goods sold. The Company’s revenues result from the sale of goods and reflect the consideration to which the Company expects to be entitled. Revenue is reduced by appropriate allowances, estimated returns, price concessions, or similar adjustments as applicable. The Company records revenue based on a five-step model in accordance with ASC 606, Revenue from Contracts with Customers. For its customer contracts, typically purchase orders, the Company identifies the performance obligations (goods), determines the transaction price, allocates the contract transaction price to the performance obligations, and recognizes the revenue when the performance obligation is transferred to the customer. A good is transferred when the customer obtains control of that good and risk of loss transfers at a point in time.  Provisions for customer volume rebates, product returns, discounts, and allowances are variable considerations and are recorded as a reduction of revenue in the same period the related sales are recorded. Such provisions are calculated based upon historical data and discount percentages, set with each customer. Consideration given to customers for cooperative advertising is recognized as a reduction of revenue except to the extent there is a distinct good or service and evidence of the fair value of the advertising, in which case the expense is classified as selling, general and administrative expense (SG&A). The Company has a limited lifetime warranty on all products. The Company does not offer the option to purchase warranties. The Company accounts for warranties under ASC 460, Guarantees, and not as variable consideration related to revenue.  Occasionally, the Company receives deposits from customers before it has transferred control of the product to customers, resulting in contract liabilities. These contract liabilities are reported within “Accounts payable - trade” in the consolidated balance sheets. As of June 30, 2025, the Company had $0.25 million of customer deposits. As of June 30, 2024, the Company had $0.14 million of customer deposits. The Company follows the following practical expedients and policy elections: •The Company does not adjust contract prices for the effects of a significant financing component, as it expects the period when the goods or services are transferred to the customer and when the customer pays for those goods and services to be less than a year.•Costs for outbound shipping and handling activities that occur after the product is received in the Company’s distribution centers, but before the customer obtains control of the product are accounted for as fulfillment activities. Accordingly, these expenses are recorded at the same time the Company recognizes revenue. Inbound shipping and handling activities incurred to transport product to the Company’s distribution centers is expensed when the product is received by the Company, unless there are revenue surcharges to recover such costs, in which case these expenses are recorded at the same time the Company recognizes revenue. •Incremental costs of obtaining a contract, specifically commissions, are recorded as an SG&A expense when incurred. •All taxes imposed on and concurrent with revenue-producing transactions and collected by the Company from a customer, including sales, use, excise, and franchise taxes are excluded from the measurement of the transaction price.
+29
+Table of Contents
+ADVERTISING COSTS – are charged to selling, general and administrative expenses in the periods incurred. The Company conducts no direct-response advertising programs and there are no assets related to advertising recorded on the consolidated balance sheets.
+Advertising expenditures, primarily shared customer advertising in which an identifiable benefit is received and national trade-advertising programs, were approximately $3.4 million, $5.9 million, and $5.1 million in fiscal years 2025, 2024, and 2023, respectively.  DESIGN, RESEARCH, AND DEVELOPMENT COSTS – are charged to selling, general and administrative expenses in the periods incurred. Expenditures for design, research, and development costs were approximately $2.1 million, $2.1 million, and $2.1 million in fiscal years 2025, 2024, and 2023, respectively. INSURANCE – The Company is self-insured for health care and most workers’ compensation up to predetermined amounts above which third-party insurance applies. The Company purchases specific stop-loss insurance for individual health care claims in excess of $175,000 per plan year.
+For workers’ compensation, the Company retains the first $250,000 per claim and purchases excess coverage up to the statutory limits for amounts in excess of the retention limit. Losses are accrued based upon the Company’s estimates of the aggregate liability for claims incurred using certain actuarial assumptions followed in the insurance industry and based on Company experience. The Company records these insurance accruals within “Accrued liabilities – insurance” on the consolidated balance sheets. INCOME TAXES – The Company uses the liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on differences between the financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. The Company recognizes in its financial statements the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. In December 2019, the FASB issued ASU 2019-12 “Income Taxes Simplifying the Accounting for Income Taxes (Topic 740)” as part of its initiative to reduce complexity in the accounting standards. The amendments in ASU 2019-12 eliminate certain exceptions related to the approach for interim period tax allocation, the methodology for calculating income taxes in an interim period, and the recognition of deferred tax liabilities for outside basis differences.  EARNINGS PER SHARE (EPS) – Basic EPS of common stock is based on the weighted-average number of common shares outstanding during each fiscal year. Diluted EPS of common stock includes the dilutive effect of potential common shares outstanding. The Company’s potential common shares outstanding are stock options, shares associated with the long-term management incentive compensation plan and non-vested restricted shares. The Company calculates the dilutive effect of outstanding options using the treasury stock method; all options are anti-dilutive when there is a loss. Anti-dilutive shares are not included in the computation of diluted EPS when their exercise price was greater than the average closing market price of the common shares. The Company calculates the dilutive effect of shares related to the long-term management incentive compensation plan and non-vested shares based on the number of shares, if any, that would be issuable if the end of the fiscal year were the end of the contingency period. In computing EPS, net income as reported for each respective period is divided by the fully diluted weighted average number of shares outstanding:
+June 30,
+(in thousands)
+2025
+2024
+2023
+Basic shares
+5,249
+5,170
+5,225
+Potential common shares:
+Stock options
+100
+117
+62
+Long-term incentive plan
+329
+232
+98
+Diluted shares
+5,678
+5,519
+5,385
+Anti-dilutive shares
+6
+37
+161
+STOCK–BASED COMPENSATION – The Company recognizes compensation expense related to the cost of employee services received in exchange for Company equity interests based on the award’s fair value at the date of grant. The Company recognizes long-term incentive compensation plan expenses during the three-year performance periods; stock awards are issued following the end of the performance periods and are subject to verification of results and the Compensation Committee of the Board of Directors approval.
+See Note 11, Stock-Based Compensation. SEGMENT REPORTING – The Company operates as one operating segment and one reportable segment, furniture products. The Company’s operations involve the distribution of manufactured and imported furniture for the residential market. The Company’s furniture products are sold primarily throughout the United States by the Company’s internal sales force and various independent representatives. The Company has minimal export sales, primarily to Canada or Mexico. No single customer accounted for more than 10% of net sales. See Note 12, Segment Information.
+30
+Table of Contents
+TREASURY STOCK – Treasury stock purchases are stated at cost and presented as a reduction of equity on the consolidated balance sheets. As of June 30, 2025, the Company has purchased a total of 3,207,158 shares at a cost of $71.7 million under approved share repurchase programs and has $30 million remaining in the share repurchase program approved in December 2024.  RECENT ACCOUNTING STANDARDS PENDING ADOPTION – In November 2024, the FASB issued ASU 2024-03, “Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses”, which requires disclosure in the notes to the financial statements of specified information about certain costs and expenses. The amendments are effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the disclosure impacts of this ASU on its consolidated financial statements In December 2023, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update (“ASU”) No. 2023 09 “Improvements to Income Tax Disclosures.” The amendments in this ASU are intended to increase transparency through improvements to income tax disclosures primarily related to the income tax rate reconciliation and income taxes paid information. This ASU will become effective for us for the annual period beginning in fiscal year 2026, with early adoption permitted. The Company is currently evaluating the effect that the new guidance will have on our related disclosures, but do not expect this guidance will have a material impact on our financial position and results of operations.  RECENTLY ADOPTED ACCOUNTING STANDARDS – In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures which requires business entities to enhance segment disclosures about significant segment expenses and disclose the position and title of the chief operating decision maker. The ASU also requires that a public entity with a single reportable segment, like the Company, provide all of the disclosures required as part of ASU 2023-07 and all existing disclosures required by Topic 280.
+The ASU was adopted July 1, 2024, and has been applied retrospectively to all prior periods presented. The adoption did not have an impact on the Company’s consolidated balance sheets or results of operations. See Note 12, Segment Information.2.
+LEASES The Company accounts for its leases in accordance with ASU 842, Leases. ASC 842 requires lessees to (i) recognize a right-of-use asset (“ROU asset”) and a lease liability that is measured at the present value of the remaining lease payments on the Consolidated Balance Sheets, (ii) recognize a single lease cost, calculated over the lease term on a straight-line basis and (iii) classify lease-related cash payments within operating and financing activities. The Company made an accounting policy election to not recognize short-term leases on the Consolidated Balance Sheets and all non-lease components, such as common area maintenance, were excluded. At any given time during the lease term, the lease liability represents the present value of the remaining lease payments, and the ROU asset is measured as the amount of the lease liability, adjusted for pre-paid rent, unamortized initial direct costs, the remaining balance of lease incentives received, and any impairment. Both the lease ROU asset and lease liability are reduced to zero at the end of the lease term. The Company leases distribution centers and warehouses, manufacturing facilities, showrooms, and office space. At the lease inception date, the Company determines if an arrangement is, or contains, a lease. Some of the Company’s leases include options to renew at similar terms. The Company assesses these options to determine if the Company is reasonably certain of exercising these options based on relevant economic and financial factors. Options that meet these criteria are included in the lease term at the lease commencement date.  For purposes of measuring the Company’s ROU asset and lease liability, the discount rate utilized by the Company was based on the average interest rates effective for the Company’s line of credit. Some of the Company’s leases contain variable rent payments, including common area maintenance and utilities. Due to the variable nature of these costs, they are not included in the measurement of the ROU asset and lease liability. In July 2022, Flexsteel commenced a 12-year lease for a manufacturing facility in Mexicali, Mexico to support strong demand growth which was elevated due to pandemic-driven buying at that time.
+Subsequently, U.S. furniture demand reverted to pre-pandemic norms, and the Company’s plan for the facility pivoted to subleasing the space short-term while maintaining the option to utilize it longer term to support growth. While the Company secured multiple short-term sublease tenants at the beginning of the lease term, substantial changes in U.S. trade policy in early 2025 created significant uncertainty in US-Mexico trade relations, slowed foreign direct investment in Mexico, and greatly diminished tenant interest in subleasing the Mexicali facility. As a result, management concluded that the right of use asset related to this lease was not fully recoverable and recorded a pre-tax, non-cash asset impairment charge of $14.1 million during the quarter ended March 31, 2025. The fair value of the right of use asset on March 31, 2025, was estimated under the income approach using a discounted cash flow technique, including assumptions for future sublease rental income and an appropriate discount rate. This technique involves estimates and uncertainties and actual results could differ. The impairment charge is included within
+31
+Table of Contents
+operating income in the Consolidated Statements of Income and Comprehensive Income under right-of-use asset impairment. The remaining carrying value of the ROU asset related to the Mexicali lease was $13.5 million at June 30, 2025. The components of the Company’s leases reflected on the Company’s consolidated statements of income were as follows:
+(in thousands)
+June 30, 2025
+June 30, 2024
+Operating lease expense
+$
+8,643
+$
+9,772
+Variable lease expense
+1,661
+1,853
+Total lease expense
+$
+10,304
+$
+11,625
+Other information related to leases and future minimum lease payments under non-cancellable operating leases were as follows:
+Fiscal year
+June 30, 2025
+June 30, 2024
+(in thousands)
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows from operating leases
+$
+9,698
+$
+9,502
+Cash received from subleasing of operating lease:
+Operating cash flows received from subleasing of operating lease
+$
+594
+$
+2,744
+Right-of-use assets obtained in exchange for lease liabilities:
+Operating leases
+$
+4,119
+$
+797
+Weighted-average remaining lease term (in years):
+Operating leases
+7.2
+8.2
+Weighted-average discount rate:
+Operating leases
+4.0
+%
+3.1
+%
+Fiscal year
+June 30, 2025
+(in thousands)
+Payments in FY2026
+$
+10,003
+FY2027
+10,166
+FY2028
+9,896
+FY2029
+8,817
+FY2030
+8,694
+Thereafter
+20,400
+Total future minimum lease payments
+$
+67,976
+Less imputed interest
+8,606
+Lease liability
+$
+59,370
+3.
+INVENTORIESA comparison of inventories is as follows:
+June 30,
+(in thousands)
+2025
+2024
+Raw materials
+$
+11,114
+$
+14,030
+Work in process and finished parts
+$
+2,632
+2,654
+Finished goods
+$
+75,389
+79,893
+Total
+$
+89,135
+$
+96,577
+32
+Table of Contents
+4.
+PROPERTY, PLANT AND EQUIPMENT A comparison of property, plant and equipment is as follows:
+Estimated
+June 30,
+(in thousands)
+Life (Years)
+2025
+2024
+Land
+$
+3,175
+$
+3,226
+Buildings and improvements
+5-39
+38,455
+41,968
+Machinery and equipment
+3-7
+20,281
+20,864
+Delivery equipment
+3-5
+2,241
+2,570
+Furniture and fixtures
+3-7
+3,248
+3,226
+Computer software and hardware
+3-7
+10,118
+10,033
+Construction in progress
+3,301
+1,439
+Total
+80,819
+83,326
+Less accumulated depreciation
+(44,607
+)
+(46,617
+)
+Net
+$
+36,212
+$
+36,709
+The Company recognized no impairment charges for fiscal years 2025, 2024, and 2023. 5.
+RESTRUCTURING Manufacturing Network OptimizationOn February 5, 2024, the Company announced its plan to close its Dublin, Georgia manufacturing facility. The closure was completed in the fourth quarter of fiscal year 2024. As a result of the closure the Company incurred cumulative restructuring expense and related costs of $3.0 million as of June 30, 2024.
+See Note 6, Assets Held For Sale for more information. The following is a summary of restructuring costs:
+For the years ended June 30,
+(in thousands)
+2025
+2024
+2023
+One-time employee termination benefits
+—
+2,558
+—
+Fixed asset impairments
+—
+74
+—
+Other associated costs
+—
+350
+—
+Total restructuring and related expenses
+$
+—
+$
+2,982
+$
+—
+Reported as:
+Operating expenses
+$
+—
+$
+2,982
+$
+—
+One-time employee termination benefits include costs for employee separation benefits. During the year ended June 30, 2024, the Company recorded one-time employee termination benefits, fixed asset impairment charges and other associated costs related to the Dublin closure. Other associated costs include legal and professional fees, inventory and equipment transfer costs, and other transition costs. All expenses related to the manufacturing network optimization restructuring plan were incurred and paid during the year ended June 30, 2024.  The roll forward of the accrued restructuring costs is as follows, for the years ended June 30, 2025, 2024, and 2023:
+One-time
+Employee
+Fixed Asset
+Other
+Termination
+Impairment
+Associated
+(in thousands)
+Benefits
+Costs
+Costs
+Total
+Accrual balance at June 30, 2023
+$
+—
+$
+—
+$
+—
+$
+—
+Costs incurred
+2,558
+74
+350
+2,982
+Expenses paid
+(2,558
+)
+(74
+)
+(350
+)
+(2,982
+)
+Accrual balance at June 30, 2024
+$
+—
+$
+—
+$
+—
+$
+—
+Costs incurred
+—
+—
+—
+—
+Expenses paid
+—
+—
+—
+—
+Accrual balance at June 30, 2025
+$
+—
+$
+—
+$
+—
+$
+—
+33
+Table of Contents
+6. ASSETS HELD FOR SALE During fiscal year 2024, the Company committed to a restructuring plan to sell the Company's Dublin, Georgia location. As of December 31, 2024, the Company completed the sale and received proceeds of $6.7 million and recorded a pre-tax gain of $5.0 million.During the quarter ended March 31, 2025, the Company completed the sale of an ancillary building which was formerly part of the Company's Huntingburg, Indiana distribution center complex.
+The Company received proceeds of $0.8 million and recorded a pre-tax gain of $0.7 million related to the sale.During fiscal year 2025, the Company committed to a plan to sell a second ancillary building at the Huntingburg, Indiana distribution center complex.
+This property was recorded as held for sale at the quarter ended March 31, 2025, and the Company completed the sale during the quarter ended June 30, 2025. The Company received proceeds of $4.0 million and recorded a pre-tax gain of $3.7 million related to the sale. There are no assets held for sale as of June 30, 2025. 7.
+OTHER NONCURRENT ASSETS
+June 30,
+(in thousands)
+2025
+2024
+VAT receivable
+19,041
+11,447
+Other
+872
+879
+Total
+$
+19,913
+$
+12,326
+8.
+ACCRUED LIABILITIES – OTHER
+June 30,
+(in thousands)
+2025
+2024
+Dividends
+$
+1,255
+$
+973
+Warranty
+915
+1,017
+Income taxes
+1,345
+362
+Other
+3,802
+4,675
+Total
+$
+7,317
+$
+7,027
+9.
+CREDIT ARRANGEMENTSOn September 8, 2021, the Company, as the borrower, entered into a credit agreement (the “Credit Agreement”) with Wells Fargo Bank, National Association (the “Lender”), and the other lenders thereto. The Credit Agreement has a five-year term and provides for up to an $85 million revolving line of credit. Subject to certain conditions, the Credit Agreement also provides for the issuance of letters of credit in an aggregate amount up to $5 million which, upon issuance, would be deemed advances under the revolving line of credit. Proceeds of borrowings were used to refinance all indebtedness owed to a prior lender and for working capital purposes. The Company’s obligations under the Credit Agreement are secured by substantially all its assets, excluding real property. The Credit Agreement contains customary representations, warranties, and covenants, including a financial covenant to maintain a fixed coverage ratio of not less than 1.00 to 1.00. In addition, the Loan Agreement places restrictions on the Company’s ability to incur additional indebtedness, to create liens or other encumbrances, to sell or otherwise dispose of assets, and to merge or consolidate with other entities.
+As of June 30, 2025, management believes the Company was in compliance with all covenants.On April 18, 2022, the Company entered into a first amendment to the Credit Agreement (“First Amendment to the Credit Agreement”), with the Lender, and the lenders thereto.
+The amendment to the Credit Agreement changed the definition of the term "Payment Conditions" and further defined default or event of default and the calculation of the Fixed Charge Coverage Ratio.Subject to certain conditions, borrowings under the Credit Agreement initially bore interest at LIBOR plus 1.25% or 1.50% per annum. On May 24, 2023, the Company entered into a second amendment to the Credit Agreement (“Second Amendment to the Credit Agreement”) with the Lender to transition the applicable interest rate from LIBOR to Secured Overnight Financing Rate (“SOFR”).
+34
+Table of Contents
+Effective as of the date of the Second Amendment to the Credit Agreement, borrowings under the amended Credit Agreement bear interest at SOFR plus 1.36% to 1.61% or an effective interest rate of 5.76% on June 30, 2025.On June 3, 2025, the Company entered into a third amendment to its Credit Agreement ("Third Amendment to the Credit Agreement") with Wells Fargo Bank, NA. The amendment reduced the maximum revolving line of credit amount to $55 million and modified certain definitions in the Credit Agreement which include dollar figures derived from the maximum revolver amount. The reduction in the maximum revolving line of credit amount was initiated by the Company to better align with current and projected borrowing availability under the terms of the Credit Agreement.As of June 30, 2025, there were no outstanding borrowings under the Credit Agreement, exclusive of fees and letters of credit.Letters of credit outstanding at the Lender as of June 30, 2025, totaled $0.9 million.10.
+INCOME TAXESThe Company recognizes deferred tax assets to the extent that they believe the assets are more likely than not to be realized. In making such a determination, the Company considers all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies, and results of recent operations. As of June 30, 2023, it was determined the Company had reached a more-likely-than-not position that the Company will realize the entirety of its deferred tax assets. Therefore, the Company reversed the previously recorded valuation allowance against the federal and state deferred tax assets recorded as of June 30, 2022, of $9.8 million.Income tax expense was calculated based upon the following components of income before income taxes for the years ended June 30:
+(in thousands)
+2025
+2024
+2023
+United States
+$
+24,028
+$
+15,348
+$
+6,680
+Outside the United States
+2,938
+202
+2,539
+Income before income taxes
+$
+26,966
+$
+15,550
+$
+9,219
+The income tax (provision) benefit is as follows for the years ended June 30:
+(in thousands)
+2025
+2024
+2023
+Federal - current
+$
+(7,847
+)
+$
+(4,708
+)
+$
+(799
+)
+State and other - current
+(2,802
+)
+(1,768
+)
+(796
+)
+Deferred
+3,837
+1,454
+7,154
+Total
+$
+(6,812
+)
+$
+(5,022
+)
+$
+5,559
+Reconciliation between the U.S. federal statutory tax rate and the effective tax rate is as follows for the years ended June 30:
+2025
+2024
+2023
+Federal statutory tax rate
+21.0
+%
+21.0
+%
+21.0
+%
+State taxes, net of federal effect
+3.5
+4.7
+5.2
+Foreign rate differential
+0.9
+2.1
+2.8
+Uncertain tax positions
+0.6
+1.1
+(2.1
+)
+Stock based compensation
+(4.1
+)
+(1.1
+)
+(0.5
+)
+Section 162(m)
+4.0
+4.2
+2.5
+Foreign adjustments
+(0.2
+)
+1.7
+(0.1
+)
+Expired state credits
+—
+0.6
+17
+Research & development credit
+(2.0
+)
+(4.8
+)
+—
+Remeasurement of deferred tax assets and valuationallowance
+(0.1
+)
+0.3
+(106.7
+)
+State rate change and other state items
+1.0
+2.1
+(0.5
+)
+Other
+0.6
+0.4
+1.0
+Effective tax rate
+25.2
+%
+32.3
+%
+(60.3
+)
+%
+35
+Table of Contents
+The components of the gross liabilities related to unrecognized tax benefits and the related deferred tax assets are as follows:
+June 30,
+(in thousands)
+2025
+2024
+Gross unrecognized tax benefits
+$
+777
+$
+607
+Accrued interest and penalties
+210
+172
+Gross liabilities related to unrecognized tax benefits
+$
+987
+$
+779
+Deferred tax assets
+186
+84
+Valuation allowance
+—
+—
+Net deferred tax assets
+$
+186
+$
+84
+A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows:
+(in thousands)
+2025
+2024
+2023
+Balance at July 1
+$
+607
+$
+424
+$
+604
+Reductions for tax positions of the prior year
+—
+—
+—
+Additions based on tax positions related to the current year
+314
+183
+10
+Lapse of statute of limitations
+(154
+)
+—
+(190
+)
+Addition for tax positions of the prior year
+9
+—
+—
+Balance at June 30
+$
+777
+$
+607
+$
+424
+The Company records interest expense and penalties related to income taxes as income tax expense in the consolidated statements of income. The Company does not expect that there will be any positions for which it is reasonably possible that the total amounts of unrecognized tax benefits will significantly increase or decrease within the next twelve months. The amount of unrecognized tax benefits as of June 30, 2025, and 2024 that if recognized, would affect the effective tax rate was $0.6 million and $0.4 million respectively.The primary components of deferred tax assets and (liabilities) are as follows:
+June 30,
+(in thousands)
+2025
+2024
+Accounts receivable
+$
+432
+$
+602
+Inventory
+2,257
+1,995
+Self-insurance
+31
+22
+Payroll and related
+1,402
+1,001
+Accrued liabilities
+524
+668
+Property, plant, and equipment
+473
+1,100
+Investment tax credit
+134
+185
+Valuation allowance
+(31
+)
+(52
+)
+Net operating loss carryover
+5
+7
+Lease assets
+(10,042
+)
+(15,160
+)
+Lease liabilities
+14,351
+16,185
+Research & development expenditure
+2,722
+1,909
+Other
+186
+145
+Total
+$
+12,444
+$
+8,607
+On June 30, 2025, certain state tax attribute carryforwards of $0.2 million were available, with $0.2 million of credits expiring beginning in fiscal years 2026 through 2028, and $0.1 million of state NOLs carryforward. Some of the state NOL carryforwards will have an indefinite carryforward and some will expire in varying amounts between 2035 and 2041. As of June 30, 2023, it was determined that the Company has reached a more-likely-than-not position that the Company will realize the entirety of its state attribute carryforwards and its U.S. federal deferred tax assets. The Company is subject to U.S. federal income tax as well as income tax of multiple state and foreign jurisdictions.
+Generally, fiscal years 2021 through 2025 remain open to examination by the Internal Revenue Service or other taxing jurisdictions to which the Company is subject. On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the United States. The OBBBA includes a number of provisions which impact the United States tax code. The regulations impacting the tax code have multiple effective dates ranging from fiscal years beginning January 1, 2025, to fiscal years beginning January 1, 2027. The Company has not adjusted its provision for income tax or measurement of deferred tax assets as of June 30, 2025, based on the changes that may be triggered by the OBBBA due
+36
+Table of Contents
+to the law being signed on July 4, 2025. The Company is currently assessing the impact of the OBBBA but does not expect it to have a material impact on our financial position and results of operations.11.
+STOCK-BASED COMPENSATIONThe Company accounts for its stock-based compensation plans in accordance with ASC 718, Stock Compensation, which requires the Company to measure all share-based payments at grant date fair value and recognize the cost over the requisite service period. Restricted shares and restricted stock units (“RSUs”) generally vest over 1 to 3 years. Stock options are granted at an exercise price equal to the fair value of the Company’s common stock price at the grant date and are exercisable for up to 10 years from the date of grant. Stock-based compensation is included in selling, general and administrative expenses on the Consolidated Statements of Income and Comprehensive Income. Forfeitures are recognized as incurred. Total stock-based compensation expense was $3.9 million, $4.6 million and $3.2 million for fiscal years 2025, 2024, and 2023, respectively. On December 14, 2022, the Company’s shareholders approved the Flexsteel Industries, Inc. 2022 Equity Incentive Plan (“2022 Plan”). The 2022 Plan replaces the Long-Term Incentive Compensation Plan (“LTIP”) and the 2013 Omnibus Stock Plan (collectively, the “Prior Plans”) and no further awards will be made under either of the Prior Plans, but these Prior Plans will continue to govern awards previously granted under them. (1)2022 Equity Incentive PlanThe 2022 Plan is a long-term incentive plan pursuant to which awards may be granted to certain employees, independent contractors and directors of the Company, in the form of stock options, stock appreciation rights, restricted stock, restricted stock units, performance units, performance shares or other stock-based awards. For periods beginning on or after July 1, 2023, restricted stock units ("RSUs") and performance stock units ("PSUs") granted to officers and key employees as part of long-term compensation programs are issued from the 2022 Plan. RSUs and PSUs awarded from the 2022 Plan are included in the Long-Term Incentive Compensation or Restricted Share and RSUs tables below.(2)Long-Term Incentive Compensation Plan (“LTIP”)The LTIP provides for PSUs to be awarded to officers and key employees based on performance goals set by the Compensation Committee of the Board of Directors (the “Committee”). In conjunction with each grant of PSUs, the Committee granted RSUs under the 2013 Omnibus Stock Plan that vested at the end of three years. No further awards will be issued under this plan.(3)2013 Omnibus Stock PlanThe 2013 Omnibus Stock Plan was for key employees, officers and directors and provides for the granting of incentive and nonqualified stock options, restricted stock, restricted stock units, stock appreciation rights and performance units. No further stock units will be granted under this plan.Long-Term Incentive CompensationThe table below sets forth, as of June 30, 2025, the number of unvested PSUs granted at the target performance level for the 2023-2025, 2024-2026, and 2025-2027 performance periods under the 2022 Plan and LTIP (as applicable) and the number of unvested RSUs granted in conjunction with the PSUs.
+For PSUs awarded for the three year performance periods ending June 2025, 2026 and 2027, achievement is based on meeting performance goals set for each year within the three year period.
+The Committee selected Adjusted Operating Income as the performance metric for the performance periods ending June 2025, 2026, and 2027:
+37
+Table of Contents
+Time Based Vest
+Performance Based Vest
+Total
+Weighted average
+Weighted average
+Weighted average
+fair value
+fair value
+fair value
+(shares in thousands)
+Shares
+per share
+Shares
+per share
+Shares
+per share
+Unvested as of June 30, 2023
+79
+$
+24.56
+211
+$
+19.19
+290
+$
+20.65
+Granted
+66
+18.91
+99
+18.91
+165
+18.91
+Vested
+(21
+)
+42.31
+(75
+)
+12.15
+(96
+)
+18.76
+Forfeited
+(27
+)
+20.80
+(53
+)
+18.76
+(80
+)
+19.45
+Unvested as of June 30, 2024
+97
+$
+17.92
+182
+$
+22.07
+279
+$
+20.65
+Granted
+31
+31.66
+46
+31.66
+77
+31.66
+Vested
+—
+—
+—
+—
+—
+—
+Forfeited
+—
+—
+(37
+)
+39.07
+(37
+)
+39.07
+Unvested as of June 30, 2025
+128
+$
+21.25
+191
+$
+21.09
+319
+$
+21.17
+Total unrecognized stock-based compensation related to the unvested PSUs at the target performance level and the related unvested RSUs was $2.2 million as of June 30, 2025, which is expected to be recognized over a period of 0.9 years.Restricted Shares and RSUsA summary of the activity in the Company’s unvested restricted shares and unvested RSUs, not granted in conjunction with PSUs, as of June 30, 2025, is presented below:
+Weighted average
+Shares
+fair value
+(in thousands)
+per share
+Unvested as of June 30, 2023
+74
+$
+21.67
+Granted
+4
+21.14
+Vested
+(58
+)
+21.71
+Forfeited
+(4
+)
+19.40
+Unvested as of June 30, 2024
+16
+$
+21.96
+Granted
+4
+31.66
+Vested
+(3
+)
+21.53
+Forfeited
+—
+20.33
+Unvested as of June 30, 2025
+17
+$
+24.32
+Total unrecognized stock-based compensation related to unvested restricted shares and unvested RSUs (not granted in conjunction with the PSUs) was $0.2 million as of June 30, 2025, which is expected to be recognized over a weighted average period of 1.1 years.OptionsNo stock options were granted during fiscal years 2025, 2024, and 2023.A summary of the activity of the Company’s stock option plans during the years ended June 30, 2025, 2024, and 2023, is presented below:
+Weighted
+Shares
+Average
+(in thousands)
+Exercise Price
+Outstanding at June 30, 2023
+202
+$
+20.98
+Granted
+—
+—
+Exercised
+(3
+)
+32.13
+Cancelled
+(19
+)
+27.40
+Outstanding at June 30, 2024
+180
+$
+20.01
+Granted
+—
+—
+Exercised
+(102
+)
+19.49
+Cancelled
+(12
+)
+35.36
+Outstanding at June 30, 2025
+66
+$
+18.02
+38
+Table of Contents
+The following table summarizes information for options outstanding at June 30, 2025:
+Options
+Weighted Average
+Range of
+Outstanding
+Remaining
+Exercise
+Prices
+(in thousands)
+Life (Years)
+Price
+$
+9.97 - 15.14
+43
+4.8
+$
+10.62
+18.30 - 19.72
+6
+5.9
+18.30
+21.96 - 27.57
+3
+3.5
+24.49
+31.06 - 32.80
+6
+3.2
+32.40
+43.09 - 47.45
+8
+1.3
+44.39
+$
+9.97 - 47.45
+66
+4.3
+$
+18.02
+The Company does not have any unrecognized stock-based compensation expense related to options. Stock-based compensation granted outside a planDuring the quarter ended June 30, 2020, the Company awarded its former Chief Financial Officer/Chief Operating Officer (current Chief Executive Officer) 79,000 options outside of any Company stock plans.
+All 79,000 options remain outstanding as of June 30, 2025, with an exercise price of $9.97 and a remaining life of 4.8 years. There is no remaining unrecognized stock-based compensation expense related to these options.12.
+SEGMENT INFORMATIONAs disclosed in Note 1 – Summary of Significant Accounting Policies, the Company operates as a single operating segment and reportable segment reflecting the integrated nature of its operations across various products, manufacturing platforms and sales channels across the entire United States.The Company's chief operating decision maker (“CODM”) is its President and Chief Executive Officer, who has final authority over the allocation of resources, assessment of performance, and key operating decisions.The CODM manages the business on a consolidated basis and measures segment performance using operating income and net income, which the Company believes provide the best analysis of business performance. The CODM analyzes the performance of operating income and net income to provide insight into all aspects of the segment’s operations and overall success for a given period. In addition, the CODM reviews significant segment expenses focused on cost of sales, selling and general administrative expenses, and restructuring charges, net. These costs used to measure segment profitability are the same costs already reported in the accompanying Consolidated Statements of Income and Comprehensive Income. Similarly, segment assets are reported in the accompanying Consolidated Balance Sheets.The Company has minimal export sales, primarily to Canada or Mexico. The Company leases and operates three manufacturing facilities in Juarez, Mexico and leases one manufacturing facility in Mexicali, Mexico. Long-lived assets, including property, plant & equipment and right-of-use assets related to leases, located in the United States and Mexico totaled $42.4 million and $35.4 million, respectively, at June 30, 2025 and $46.6 million and $51.5 million, respectively, at June 30, 2024, respectively.13.
+BENEFIT AND RETIREMENT PLANSDefined Contribution and Retirement PlansThe Company sponsors a defined contribution retirement plan, which covers substantially all employees. The Company’s total matching contribution expense was $1.6 million, $1.8 million, and $1.6 million in fiscal years 2025, 2024, and 2023, respectively.Multi-employer Pension PlansThe Company contributes to one multi-employer defined benefit pension plan under the terms of collective-bargaining agreements that cover its union-represented employees. The Company’s participation in the current and previous defined benefit pension plans for the fiscal year ended June 30, 2025, is outlined in the following table. Unless otherwise noted, the most recent Pension Protection Act zone status available in 2025 and 2024 is for the plan’s year-end on December 31, 2024, and 2023, respectively.
+The zone status is based on information that the Company received
+39
+Table of Contents
+from the plan and is certified by the plan’s actuary.
+Among other factors, plans in the red zone are generally less than 65 percent funded, plans in the yellow zone are between 65 percent and 80 percent funded, and plans in the green zone are at least 80 percent funded.
+Pension Protection
+Expiration Date
+Number of
+Act Zone Status
+Company Contributions
+of Collective
+Company
+EIN/Pension
+June 30,
+Rehabilitation
+(in thousands)
+Surcharge
+Bargaining
+Employees
+Pension Fund
+Plan Number
+2025
+2024
+Plan Status
+2025
+2024
+2023
+Imposed
+Agreement
+in Plan
+Central States SE and SW Areas Pension Fund
+366044243
+Red
+Red
+Implemented
+$
+113
+$
+109
+$
+115
+No
+3/31/2025
+7
+$
+113
+$
+109
+$
+115
+14.
+COMMITMENTS AND CONTINGENCIESFrom time to time, the Company is subject to various other legal proceedings, including lawsuits, which arise out of, and are incidental to, the conduct of the Company’s business. The Company does not consider any of such other proceedings that are currently pending, individually or in the aggregate, to be material to its business or likely to result in a material effect on its consolidated operating results, financial condition, or cash flows.15.
+QUARTERLY FINANCIAL INFORMATION – UNAUDITED
+(in thousands, except per share amounts)
+For the Quarter Ended
+September 30
+December 31(a)
+March 31(b)
+June 30(c)
+Fiscal 2025:
+Net sales
+$
+104,007
+$
+108,483
+$
+113,972
+$
+114,611
+Gross profit
+22,367
+22,805
+25,336
+27,436
+Operating income
+6,047
+11,654
+(5,060
+)
+13,974
+Net income
+4,140
+9,054
+(3,742
+)
+10,702
+Earnings per share:
+Basic
+$
+0.80
+$
+1.73
+$
+(0.71
+)
+$
+2.03
+Diluted
+$
+0.74
+$
+1.62
+$
+(0.71
+)
+$
+1.89
+(a)During the quarter ended December 31, 2024, the Company completed the sale of its Dublin, GA manufacturing facility. See Note 6, Assets Held for Sale of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for mor information.(b)During the quarter ended March 31, 2025, the Company determined that the carrying amount of the right of use asset associated with its 12-year lease for a manufacturing facility in Mexicali, Mexico was no longer fully recoverable and recorded a pre-tax non-cash asset impairment charge of $14.1. See Note 2, Leases, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information. In addition, during the quarter, the Company completed the sale of an ancillary building, formerly part of its Huntingburg, IN distribution center complex.
+The Company recorded a pre-tax gain of $0.7 million related to the sale. (c)During the quarter June 30, 2025, the Company completed the sale of a second ancillary building, formerly part of its Huntingburg, IN distribution center complex.
+The Company recorded a pre-tax gain of $3.7 million related to the sale.
+For the Quarter Ended
+September 30
+December 31(a)
+March 31
+June 30(b)
+Fiscal 2024:
+Net sales
+$
+94,603
+$
+100,108
+$
+107,219
+$
+110,822
+Gross profit
+18,410
+21,950
+23,317
+23,567
+Operating income
+1,918
+4,584
+2,982
+7,596
+Net income
+752
+3,051
+1,803
+4,922
+Earnings per share:
+Basic
+$
+0.15
+$
+0.59
+$
+0.35
+$
+0.95
+Diluted
+$
+0.14
+$
+0.57
+$
+0.33
+$
+0.89
+(a)During the quarter ended March 31, 2024, the Company recorded expense of $2.6 million as a result of the restructuring activity associated with the closure of the Dublin, Georgia facility. See Note 5 Restructuring, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.(b)During the quarter June 30, 2024, the Company recorded income of $3.3 million associated with the sale of the Starkville, Mississippi facility. See Note 6, Assets Held for Sale, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information. The Company recorded expense of $0.4 million as a result of the restructuring activity associated with the closure of the Dublin, Georgia facility. See Note 5 Restructuring, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for more information.
+40
+Table of Contents
+16.
+SUBSEQUENT EVENTSThere are no subsequent events as of August 22, 2025.
+41
+Table of Contents
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial DisclosureNone.Item 9A.
+Controls and ProceduresEvaluation of disclosure controls and procedures – Based on their evaluation as of the end of the period covered by this Annual Report on Form 10-K, the Company’s chief executive officer and chief financial officer have concluded that disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) were effective as of June 30, 2025.Management’s Annual Report on Internal Control Over Financial Reporting – Management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules 13a-15(f) or 15d-15(f) of the Securities Exchange Act of 1934, as amended.
+The Company performed an evaluation under the supervision and with the participation of its management, including the CEO and CFO, to assess the effectiveness of the design and operation of its disclosure controls and procedures under the Exchange Act as of June 30, 2025. In making this assessment, the Company used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control — Integrated Framework (2013).
+Based on those criteria, management concluded that the internal control over financial reporting is effective as of June 30, 2025. The effectiveness of the Company’s internal control over financial reporting as of June 30, 2025, has been audited by Deloitte & Touche LLP, the Company’s independent registered public accounting firm, as stated in their report in Part II, Item 8 of this Form 10-K.Changes in Internal Control over Financial ReportingNo change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the fiscal quarter ended June 30, 2025, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.Item 9B.
+Other InformationRule 10b5-1 Trading PlansDuring the quarter ended June 30, 2025, no director or officer of the Company adopted, modified or terminated a "Rule 10b5-1 trading arrangement" or a "non-Rule 10b5-1 trading arrangement" as each term is defined in Item 408(a) of Regulation S-K.Benefit Plan AmendmentsEffective August 19, 2025, the Company amended its “Cash Incentive Plan,” “Cash Incentive Notification of Award,” and “Severance Plan for Management Employees” to align plan terms with current peer and market practices and improve administrative consistency. Revisions include the removal of outdated tax code references and the alignment of key definitions such as “retirement,” “change in control,” “termination for cause”, “disability”, and “good reason” across benefit plans.
+Amendments to the “Severance Plan for Management Employees” also include an increase to the change of control protection period to 24 months after termination and an increase to the chief executive officer severance benefits to twice the severance benefits of other eligible employees. The amended “Cash Incentive Plan,” “Cash Incentive Notification of Award,” and “Severance Plan for Management Employees” have been attached to this Form 10-K as Exhibits 10.1, 10.2 and 10.11, respectively.Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.None.
+42
+Table of Contents
+PART IIIItem 10.
+Directors, Executive Officers, and Corporate GovernanceIn accordance with General Instruction G(3) to Form 10-K, the Company intends to file with the SEC the information required by this item not later than 120 days after the end of the fiscal year covered by this Form 10-K.Item 11.
+Executive CompensationIn accordance with General Instruction G(3) to Form 10-K, the Company intends to file with the SEC the information required by this item not later than 120 days after the end of the fiscal year covered by this Form 10-K.Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder MattersIn accordance with General Instruction G(3) to Form 10-K, the Company intends to file with the SEC the information required by this item not later than 120 days after the end of the fiscal year covered by this Form 10-K.Item 13.
+Certain Relationships and Related Transactions, and Director IndependenceIn accordance with General Instruction G(3) to Form 10-K, the Company intends to file with the SEC the information required by this item not later than 120 days after the end of the fiscal year covered by this Form 10-K.Item 14.
+Principal Accountant Fees and Services In accordance with General Instruction G(3) to Form 10-K, the Company intends to file with the SEC the information required by this item not later than 120 days after the end of the fiscal year covered by this Form 10-K.
+43
+Table of Contents
+PART IVItem 15.
+Exhibits, Financial Statements and SchedulesFinancial Statements and Financial Statement SchedulesSee “Index to Consolidated Financial Statements” in Part II, Item 8 of this Annual Report on Form 10-K. Schedule II is included in Part II, Item 8, and all other financial statement schedules have been omitted because they are not required or are not applicable or because the information required in those schedules either is not material or is included in the consolidated financial statements or the accompanying notes.ExhibitsThe exhibits listed in the accompanying index to exhibits are filed or incorporated as part of this Annual Report on Form 10-K.The following financial statement schedule for the years ended June 30, 2025, 2024, and 2023 is submitted herewith:SCHEDULE IIVALUATION AND QUALIFYING ACCOUNTSFor the Years Ended June 30, 2025, 2024, and 2023
+(in thousands)
+Balance atBeginning of
+(Additions)Reductions to
+Deductions from
+Balance at End
+Description
+Year
+Income
+Reserves
+of Year
+Accounts Receivable Allowances:
+2025
+$
+2,440
+$
+(244
+)
+$
+(406
+)
+$
+1,790
+2024
+$
+2,600
+$
+(144
+)
+$
+(16
+)
+$
+2,440
+2023
+$
+2,980
+$
+(230
+)
+$
+(150
+)
+$
+2,600
+44
+Table of Contents
+SIGNATURES Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+FLEXSTEEL INDUSTRIES, INC.
+Date:
+August 22, 2025
+By:
+/s/ Derek P. Schmidt
+Derek P. Schmidt
+Chief Executive Officer and Director
+(Principal Executive Officer)
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Date:
+August 22, 2025
+/s/ Derek P. Schmidt
+Derek P. Schmidt
+Chief Executive Officer and Director(Principal Executive Officer)
+Date:
+August 22, 2025
+/s/ Michael J. Ressler
+Michael J. Ressler
+Chief Financial Officer(Principal Financial Officer and Principal Accounting Officer)
+Date:
+August 22, 2025
+/s/ Thomas M. Levine
+Thomas M. Levine
+Chair of the Board of Directors
+Date:
+August 22, 2025
+/s/ William S. Creekmuir
+William S. Creekmuir
+Director
+Date:
+August 22, 2025
+/s/ F. Brooks Bertsch
+F. Brooks Bertsch
+Director
+Date:
+August 22, 2025
+/s/ Kathryn P. Dickson
+Kathryn P. Dickson
+Director
+Date:
+August 22, 2025
+/s/ M. Scott Culbreth
+M. Scott Culbreth
+Director
+Date:
+August 22, 2025
+/s/ Jeanne McGovern
+Janne McGovern
+Director
+Date:
+August 22, 2025
+/s/ Terence P. Calloway
+Terence P. Calloway
+Director
+45
+Table of Contents
+Exhibit Index
+Exhibit No.
+3.1
+Amended and Restated Articles of Incorporation of the Company (incorporated by reference to Form 8-K, as filed with the Securities and Exchange Commission on December 7, 2016).
+3.2
+Amended and Restated Bylaws of the Company (incorporated by reference to Form 8-K, as filed with the Securities and Exchange Commission on March 8, 2024).
+4.1
+Description of the Company’s common stock (incorporated by reference to Exhibit No. 4.1 to the Annual Report on Form 10-K for the fiscal year ended June 30, 2019).
+10.1
+Amended Cash Incentive Compensation Plan, dated August 19, 2025.† *
+10.2
+Form of Notification of Award for the Cash Incentive Compensation Plan.† *
+10.3
+Form of Notification of Award for the Long-Term Incentive Compensation Plan (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on September 8, 2021). *
+10.4
+Form of Notification of Award for incentive stock options issued under the Omnibus Stock Plan (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on September 8, 2021). *
+10.5
+Form of Notification of Award for director non-qualified stock options issued under the Omnibus Stock Plan (incorporated by reference to Form 8-K filed with the Securities and Exchange Commission on December 13, 2013). *
+10.6
+Form of Notification of Award for restricted stock units under the Omnibus Stock Plan (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on September 8, 2021). *
+10.7
+Long-Term Incentive Compensation Plan, dated July 1, 2013 (incorporated by reference to Appendix B to the Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on October 28, 2013). *
+10.8
+Form of Notification of Non-Statutory Stock Option Award (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on September 8, 2021). *
+10.9
+Amended and Restated Omnibus Stock Plan (incorporated by Reference to the Form 8-K filed with the Securities and Exchange Commission on December 15, 2020). *
+10.10
+Form of Notification of Restricted Stock Award under the Omnibus Stock Plan (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on September 8, 2021). *
+10.11
+Amended Severance Plan for Management Employees dated August 19, 2025, including Form of Participation Agreement.† *
+10.12
+Letter Agreement dated March 10, 2020, by and between Flexsteel Industries, Inc. and Derek P. Schmidt (incorporated by reference to Form 8-K filed with the Securities and Exchange Commission on March 18, 2020). *
+10.13
+Employment Agreement between the Company and Derek P. Schmidt dated April 25, 2024 (incorporated by reference to the Form 8-K filed with the Securities and Exchange Commission on April 29, 2024).*
+10.14
+Credit Agreement between Flexsteel Industries, Inc. and Wells Fargo Bank, National Association, dated September 8, 2021 (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on September 8, 2021).
+10.15
+First Amendment to the Credit Agreement between Flexsteel Industries, Inc. and Wells Fargo Bank, National Association, dated April 22, 2022 (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on August 26, 2022).
+10.16
+Second Amendment to the Credit Agreement between Flexsteel Industries, Inc. and Wells Fargo Bank, National Association, dated May 24, 2023 (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on August 25, 2023).
+10.17
+Third Amendment to the Credit Agreement between Flexsteel Industries, Inc. and Wells Fargo Bank, National Association, dated June 3, 2025 (incorporated by reference to Form 8-K filed with the Securities and Exchange Commission on June 3, 2025).
+10.18
+Letter Agreement dated January 10, 2024 by and between Flexsteel Industries, Inc. and Michael Ressler (incorporated by reference to Form 8-K filed with the Securities and Exchange Commission on January 11, 2024). *
+10.19
+2022 Equity Incentive Plan (incorporated by reference to Form 8-K filed with the Securities and Exchange Commission on December 16, 2022). *
+10.20
+Form of Stock Option Agreement under the 2022 Equity Incentive Plan (incorporated by reference to Form 10-Q filed with the Securities and Exchange Commission on February 8, 2023). *
+10.21
+Form of Performance Share Unit Agreement under the 2022 Equity Incentive Plan (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on August 25, 2023). *
+10.22
+Form of Restricted Stock Unit Agreement under the 2022 Equity Incentive Plan (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on August 25, 2023). *
+46
+Table of Contents
+19.1
+Flexsteel Industries, Inc. Insider Trading Policy.†
+21.1
+Subsidiaries of the Company. †
+23
+Consent of Independent Registered Public Accounting Firm. †
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended. †
+31.2
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended. †
+32
+Certification by Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350 as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. †
+97.1
+Incentive Compensation Clawback Policy adopted October 6, 2023 (incorporated by reference to Form 10-K filed with the Securities and Exchange Commission on August 30, 2024).
+*
+Management contracts, compensatory plans and arrangements required to be filed as an exhibit to this report.
+†
+Filed herewith
+101.INS
+XBRL Instance Document**
+101.SCH
+Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+104.Cover Page
+Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+**
+In accordance with Regulation S-T, the XBRL-related information in Exhibit 101 to this Annual Report on Form 10-K shall be deemed to be “furnished” and not “filed.”
+47

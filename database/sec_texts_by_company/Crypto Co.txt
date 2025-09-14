@@ -1,0 +1,3361 @@
+true
+FY
+0001688126
+0001688126
+2023-01-01
+2023-12-31
+0001688126
+2023-06-30
+0001688126
+2024-04-15
+0001688126
+2023-12-31
+0001688126
+2022-12-31
+0001688126
+2022-01-01
+2022-12-31
+0001688126
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2023-01-01
+2023-12-31
+0001688126
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2022-01-01
+2022-12-31
+0001688126
+us-gaap:ShareBasedPaymentArrangementNonemployeeMember
+2023-01-01
+2023-12-31
+0001688126
+us-gaap:ShareBasedPaymentArrangementNonemployeeMember
+2022-01-01
+2022-12-31
+0001688126
+us-gaap:CommonStockMember
+2021-12-31
+0001688126
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001688126
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001688126
+2021-12-31
+0001688126
+us-gaap:CommonStockMember
+2022-12-31
+0001688126
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001688126
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001688126
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001688126
+us-gaap:AdditionalPaidInCapitalMember
+2022-01-01
+2022-12-31
+0001688126
+us-gaap:RetainedEarningsMember
+2022-01-01
+2022-12-31
+0001688126
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001688126
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001688126
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001688126
+us-gaap:CommonStockMember
+2023-12-31
+0001688126
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001688126
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-12-31
+0001688126
+srt:RevisionOfPriorPeriodReclassificationAdjustmentMember
+2023-12-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-03-31
+0001688126
+srt:RevisionOfPriorPeriodReclassificationAdjustmentMember
+2023-03-31
+0001688126
+2023-03-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-06-30
+0001688126
+srt:RevisionOfPriorPeriodReclassificationAdjustmentMember
+2023-06-30
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-09-30
+0001688126
+srt:RevisionOfPriorPeriodReclassificationAdjustmentMember
+2023-09-30
+0001688126
+2023-09-30
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-01-01
+2023-12-31
+0001688126
+srt:RestatementAdjustmentMember
+2023-01-01
+2023-12-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2023-01-01
+2023-12-31
+0001688126
+srt:RestatementAdjustmentMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2023-01-01
+2023-12-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+us-gaap:ShareBasedPaymentArrangementNonemployeeMember
+2023-01-01
+2023-12-31
+0001688126
+srt:RestatementAdjustmentMember
+us-gaap:ShareBasedPaymentArrangementNonemployeeMember
+2023-01-01
+2023-12-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-01-01
+2023-03-31
+0001688126
+srt:RestatementAdjustmentMember
+2023-01-01
+2023-03-31
+0001688126
+2023-01-01
+2023-03-31
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-04-01
+2023-06-30
+0001688126
+srt:RestatementAdjustmentMember
+2023-04-01
+2023-06-30
+0001688126
+2023-04-01
+2023-06-30
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2023-07-01
+2023-09-30
+0001688126
+srt:RestatementAdjustmentMember
+2023-07-01
+2023-09-30
+0001688126
+2023-07-01
+2023-09-30
+0001688126
+srt:ScenarioPreviouslyReportedMember
+2022-12-31
+0001688126
+srt:RestatementAdjustmentMember
+2022-12-31
+0001688126
+srt:RestatementAdjustmentMember
+2023-12-31
+0001688126
+srt:RestatementAdjustmentMember
+2023-10-01
+2023-12-31
+0001688126
+CRCW:BlockChainTrainingAllianceIncMember
+CRCW:StockPurchaseAgreementMember
+2021-04-08
+2021-04-08
+0001688126
+CRCW:BlockChainTrainingAllianceIncMember
+CRCW:StockPurchaseAgreementMember
+CRCW:PromissoryNotesMember
+2021-04-08
+0001688126
+CRCW:BITMember
+2022-02-28
+0001688126
+CRCW:BITMember
+2022-02-28
+2022-02-28
+0001688126
+CRCW:IDIMember
+2022-02-28
+0001688126
+CRCW:TwoThousandSeventeenEquityIncentivePlanMember
+srt:MaximumMember
+2017-07-21
+2017-07-21
+0001688126
+CRCW:TwoThousandSeventeenEquityIncentivePlanMember
+2017-07-21
+2017-07-21
+0001688126
+CRCW:BoardOfDirectorsMember
+2020-01-01
+2020-12-31
+0001688126
+CRCW:EmployeesMember
+2020-01-01
+2020-12-31
+0001688126
+CRCW:NonemployeesMember
+2020-01-01
+2020-12-31
+0001688126
+CRCW:TwoThousandSeventeenEquityIncentivePlanMember
+2017-07-21
+0001688126
+CRCW:TwoThousandSeventeenEquityIncentivePlanMember
+2023-12-31
+0001688126
+srt:MinimumMember
+2023-01-01
+2023-12-31
+0001688126
+srt:MaximumMember
+2023-01-01
+2023-12-31
+0001688126
+CRCW:SmallBusinessAdministrationMember
+2020-06-10
+0001688126
+CRCW:SmallBusinessAdministrationMember
+2020-06-10
+2020-06-10
+0001688126
+CRCW:SmallBusinessAdministrationMember
+2021-02-02
+0001688126
+CRCW:SmallBusinessAdministrationMember
+2021-02-02
+2021-02-02
+0001688126
+CRCW:PurchaseAgreementMember
+CRCW:MinerAcquisitionsMember
+2022-02-23
+0001688126
+CRCW:FirstPurchaseAgreementMember
+CRCW:BitmineImmersionTechnologiesIncMember
+CRCW:MinerAcquisitionsMember
+2022-02-23
+0001688126
+CRCW:FirstPurchaseAgreementMember
+CRCW:BitmineImmersionTechnologiesIncMember
+CRCW:MinerAcquisitionsMember
+2022-02-23
+2022-02-23
+0001688126
+CRCW:SecondPurchaseAgreementMember
+CRCW:InnovativeDigitalinvestorsLLCMember
+CRCW:MinerAcquisitionsMember
+2022-02-23
+0001688126
+CRCW:SecondPurchaseAgreementMember
+CRCW:InnovativeDigitalinvestorsLLCMember
+CRCW:MinerAcquisitionsMember
+2022-02-23
+2022-02-23
+0001688126
+CRCW:PurchaseAgreementMember
+CRCW:MinerAcquisitionsMember
+2022-02-23
+0001688126
+CRCW:PromissoryNotesMember
+CRCW:AJBCapitalInvestmentsLLCMember
+2022-01-13
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:PromissoryNotesMember
+2022-01-13
+2022-01-13
+0001688126
+CRCW:PromissoryNotesMember
+CRCW:SixthStreetSPAMember
+2022-01-18
+0001688126
+CRCW:PromissoryNotesMember
+CRCW:SixthStreetSPAMember
+2022-01-18
+2022-01-18
+0001688126
+CRCW:PromissoryNotesMember
+CRCW:AJBCapitalInvestmentsLLCMember
+2022-02-24
+0001688126
+CRCW:PromissoryNotesMember
+CRCW:AJBCapitalInvestmentsLLCMember
+2022-02-24
+2022-02-24
+0001688126
+CRCW:EfratInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+2022-04-07
+0001688126
+CRCW:EfratInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+2022-04-07
+2022-04-07
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+2022-05-03
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+2022-05-03
+2022-05-03
+0001688126
+CRCW:ThousandAndEightHundredDiagonalLendingLLCMember
+CRCW:ConvertiblePromissoryNoteMember
+2022-07-08
+0001688126
+CRCW:ThousandAndEightHundredDiagonalLendingLLCMember
+CRCW:ConvertiblePromissoryNoteMember
+2022-07-08
+2022-07-08
+0001688126
+CRCW:CoventryEnterprisesLLCMember
+CRCW:UnsecuredConvertiblePromissoryNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2022-07-27
+0001688126
+CRCW:CoventryEnterprisesLLCMember
+CRCW:UnsecuredConvertiblePromissoryNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2022-07-27
+2022-07-27
+0001688126
+CRCW:ConvertiblePromissoryNoteMember
+CRCW:ThousandAndEightHundredDiagonalLendingLLCMember
+2022-09-30
+0001688126
+CRCW:ConvertiblePromissoryNoteMember
+CRCW:ThousandAndEightHundredDiagonalLendingLLCMember
+2022-09-30
+2022-09-30
+0001688126
+CRCW:ConvertiblePromissoryNoteMember
+CRCW:ThousandAndEightHundredDiagonalLendingLLCMember
+2022-12-15
+0001688126
+CRCW:ConvertiblePromissoryNoteMember
+CRCW:ThousandAndEightHundredDiagonalLendingLLCMember
+2022-12-15
+2022-12-15
+0001688126
+CRCW:ThirdDiagonalNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2023-01-10
+0001688126
+CRCW:ThirdDiagonalNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2023-01-10
+2023-01-10
+0001688126
+CRCW:DiagonalNotesMember
+2023-11-13
+2023-11-13
+0001688126
+CRCW:FastCapitalLLCMember
+CRCW:ConvertiblePromissoryNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2023-02-02
+0001688126
+CRCW:FastCapitalLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:ConvertiblePromissoryNoteMember
+2023-02-02
+2023-02-02
+0001688126
+CRCW:FastCapitalLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:ConvertiblePromissoryNoteMember
+2023-12-31
+0001688126
+CRCW:FourthDiagonalNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2023-03-02
+0001688126
+CRCW:FourthDiagonalNoteMember
+CRCW:SecuritiesPurchaseAgreementMember
+2023-03-02
+2023-03-02
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:AJBJuneNoteMember
+2023-06-23
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:AJBJuneNoteMember
+2023-06-23
+2023-06-23
+0001688126
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:AJBCapitalInvestmentsLLCMember
+srt:MaximumMember
+CRCW:AJBJuneNoteMember
+2023-06-23
+2023-06-23
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:AJBJuneNoteMember
+2023-12-31
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:AJBNovemberNoteMember
+2023-11-13
+0001688126
+CRCW:AJBCapitalInvestmentsLLCMember
+CRCW:SecuritiesPurchaseAgreementMember
+CRCW:AJBNovemberNoteMember
+2023-11-13
+2023-11-13
+0001688126
+us-gaap:ConvertibleDebtMember
+2023-01-01
+2023-12-31
+0001688126
+CRCW:SecurityPurchaseAgreementMember
+us-gaap:SubsequentEventMember
+2024-03-12
+0001688126
+CRCW:SecurityPurchaseAgreementMember
+us-gaap:SubsequentEventMember
+2024-03-12
+2024-03-12
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+CRCW:cryptocurrency
+CRCW:Days
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+WASHINGTON,
+DC 20549
+FORM
+10-K/A
+(Amendment No. 2)
+☒
+ANNUAL
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the fiscal year ended December 31, 2023
+or
+☐
+TRANSITION
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from _______. to ________.
+Commission
+file number 000-55726
+THE
+CRYPTO COMPANY
+(Exact
+name of Registrant as specified in its charter)
+Nevada
+46-4212105
+(State
+or other jurisdiction
+(I.R.S.
+Employer
+of
+incorporation or organization)
+Identification
+No.)
+23823
+Malibu Road #50477
+Malibu,
+CA 90265
+(Address
+of principal executive offices - Zip Code)
+Registrant’s
+telephone number, including area code: (424) 228-9955
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+None
+N/A
+N/A
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock, par value $0.001 per share
+Indicate
+by check mark if the Registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate
+by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate
+by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate
+by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant
+was required to submit such files). Yes ☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large
+accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated
+filer ☒
+Smaller
+reporting company ☒
+Emerging growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. ☐
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate
+by check mark whether the Registrant is a shell company (as defined by Rule 12b-2 of the Act). Yes ☐ No ☒
+As
+of June 30, 2023 the value of common stock held by non-affiliates was $195,157.
+Number
+of shares outstanding of the Registrant’s common stock was 1,071,110,533 as of April 15, 2024.
+DOCUMENTS
+INCORPORATED BY REFERENCE
+None.
+EXPLANATORY
+NOTE
+This
+Amendment No. 2 on Form 10-K/A (this “Amendment No. 2”) amends the Annual Report
+on Form 10-K of The Crypto Company (the “Company”) for the fiscal year ended December 31, 2023, as originally filed with the
+Securities and Exchange Commission (“SEC”) on April 16, 2024 (the “Original Filing”), and supplements the Form
+10-K/A filed with the SEC on June 2, 2025 (“Amendment No. 1”). This Amendment No. 2 is being filed solely to revise the Notes
+to Consolidated Financial Statements of the Original Filing, as amended by Amendment No. 1, by amending and restating Note 3 to the Consolidated
+Financial Statements, to include the quarterly impact of each adjustment made to the December 31, 2023 financial statements.
+The
+Company’s Principal Executive Officer and Principal Financial Officer have also provided new certifications dated as of the date
+of this filing in connection with this Amendment No. 2 (Exhibits 31.1, 31.2, 32.1 and 32.2).
+References throughout this Amendment No. 2 to “we,”
+“us,” the “Company” or “our company” are to The Crypto Company, Inc. unless otherwise indicated.
+Capitalized terms not defined in this Amendment No.
+2 have the meaning given to them in the Original Filing, as amended by Amendment No. 1.
+Except
+as described above, no other information included in the Original Filing, as amended by Amendment No. 1 is being amended or updated by this Amendment No. 2 and this
+Amendment No. 2 does not purport to reflect any information or events subsequent to the Original Filing, as amended by Amendment No. 1. This Amendment No. 2 continues
+to describe the conditions as of the date of the Original Filing and, except as expressly contained herein, we have not updated, modified
+or supplemented the disclosures contained in the Original Filing. Accordingly, this Amendment No. 2 should be read in conjunction with
+the Original Filing, Amendment No. 1 and with our filings with the SEC subsequent to the Original Filing.
+PART
+I
+FORWARD-LOOKING
+STATEMENTS
+This
+report contains forward-looking statements. Forward-looking statements give our current expectations or forecasts of future events. You
+can identify these statements by the fact that they do not relate strictly to historical or current facts. You can find many (but not
+all) of these statements by looking for words such as “approximates,” “believes,” “hopes,” “expects,”
+“anticipates,” “estimates,” “projects,” “intends,” “plans,” “would,”
+“should,” “could,” “may” or other similar expressions in this report. In particular, forward-looking
+statements include statements relating to future actions, prospective products, applications, customers and technologies, and future
+performance or future financial results. These forward-looking statements are subject to certain risks and uncertainties that could cause
+actual results to differ materially from our historical experience and our present expectations or projections. Factors that could cause
+actual results to differ from those discussed in the forward-looking statements include, but are not limited to:
+●
+our
+ability to execute our business plan and achieve profitability;
+●
+our
+levels of indebtedness;
+●
+rapidly
+advancing technology;
+●
+the
+impact of competitive or alternative services and technologies;
+●
+the
+impact of government regulations on certain uses of blockchain technology, volatility of digital assets in general, and the public
+perceptions of blockchain technology and crypto currency;
+●
+our
+exposure to and ability to defend third-party claims and challenges to our intellectual property rights;
+●
+our
+ability to obtain adequate financing in the future, as and when we need it;
+●
+our
+history of losses;
+●
+our
+ability to identify and acquire additional assets or businesses to enhance our revenue sources;
+●
+our
+success at managing the risks involved in the foregoing items; and
+●
+other
+factors discussed in this report.
+Although
+we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels
+of activity, performance, or achievements. The forward-looking statements are based upon management’s beliefs and assumptions and
+are made as of the date of this report. We undertake no obligation to publicly update or revise any forward-looking statements included
+in this report to conform such statements to actual results or changes in our expectations. You should not place undue reliance on these
+forward-looking statements.
+1
+Item
+7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Forward-Looking Statements
+This
+report contains forward-looking statements that involve risks and uncertainties. These statements relate to future events or our future
+financial performance. In some cases, you can identify forward-looking statements by terminology including, “could” “may”,
+“will”, “should”, “expect”, “plan”, “anticipate”, “believe”,
+“estimate”, “predict”, “potential” and the negative of these terms or other comparable terminology.
+These statements are only predictions. Actual events or results may differ materially.
+While
+these forward-looking statements, and any assumptions upon which they are based, are made in good faith and reflect our current judgment
+regarding the direction of our business, actual results will almost always vary, sometimes materially, from any estimates, predictions,
+projections, assumptions or other future performance suggested in this Annual Report.
+The
+following discussion should be read in conjunction with the consolidated financial statements and the related notes
+contained elsewhere in this Annual Report. In addition to historical information, the following discussion contains forward-looking
+statements based upon current expectations that are subject to risks and uncertainties. Actual results may differ substantially from
+those referred to herein due to a number of factors, including, but not limited to, risks generally described in this
+report.
+We
+are engaged in the business of providing consulting services and education for blockchain technology and for the building of technological
+infrastructure and enterprise blockchain technology solutions. We currently generate revenues and incur expenses solely through these
+consulting and education operations.
+2
+Recent
+Events
+Results
+of Continuing Operations
+Comparison
+of the fiscal years ended December 31, 2023 and December 31, 2022
+For
+the year ended December 31, 2023, revenues relating to consulting services were $197,459 compared to $619,538 for the year ended
+December 31, 2022. The decrease in revenue is mainly attributable to a decrease in online sales and exiting the Bitcoin mining
+business as well as the reclassification of $207,938 initially recorded as revenue in the 2023 period which was reclassified
+to other liabilities due to a lack of support for revenue recognition under the guidelines of ASC 606.
+Cost
+of services for the periods ended December 31, 2023 and December 31, 2022 were $313,756 and $369,313, respectively. The decrease is attributable
+to the decrease in revenue offset by a slight increase in training revenue. Cost of services of TechCC, a wholly owned subsidiary of the Company, is comprised of payroll expense.
+General
+and administrative expenses and share-based compensation
+For
+the year ended December 31, 2023, our general and administrative expenses were $1,548,277 a decrease of 17.0% compared to $1,864,543
+for the year ended December 31, 2022. General and administrative expenses consist primarily of costs relating to professional services,
+payroll and payroll-related expenses for the Company excluding payroll at TechCC and depreciation and amortization expenses. Professional
+services included in general and administrative expenses consist primarily of contracting fees, consulting fees, accounting fees, and
+legal costs. The decrease for the year ended December 31, 2023 reflects decreased costs associated with outside consulting, legal, and accounting
+costs, and costs incurred to effect the BTA acquisition and other business development efforts.
+Share-based
+compensation was $1,155,480 for the year ended December 31, 2023, a decrease of 45.1% compared to $2,104,126 for the year ended December
+31, 2022. Share-based compensation decreased due to warrant issuances in 2022 to various lenders as compared to less issuances in 2023.
+Impairment of goodwill and intangible assets
+As a result of the less than expected operating performance
+at BTA we determined at December 31, 2023, that the intangible assets of $530,837 and goodwill were fully impaired. As a result, we recorded
+a loss on impairment of $1,271,306 for the year ended December 31, 2023 compared to no impairment for the period ended December 31, 2022.
+Other
+Income
+Other
+income and expenses for the year ended December 31, 2023 was $(2,625) compared to $(56,863) during the same period in 2022. The decrease
+in other expenses is primarily attributable to the loss on disposal of business amounting to $(142,728) during the year ended December
+31, 2022.
+Liquidity
+and Capital Resources
+Our consolidated financial statements are prepared using the accrual method of accounting in accordance with United States
+(“U.S.”) generally accepted accounting principles (“GAAP”) and have been prepared on a going concern basis,
+which contemplates the realization of assets and the settlement of liabilities in the normal course of business. The Company has
+incurred significant losses and experienced negative cash flows since inception. As of December 31, 2023, we had cash on hand of
+$72,970. Our loss before provision for income taxes from continuing operations was $7,231,317 for the year ended December 31, 2023.
+Our working capital was negative $6,126,104 as of December 31, 2023.
+During
+2023 we funded our operations with various loans as described in this Annual Report on Form 10-K. We intend to continue funding our operations
+through debt instruments and, if possible, through equity issuances. There can be no assurances that we will be successful in
+obtaining additional funding, and if funding can be obtained on favorable terms.
+3
+Operating
+Activities
+We
+have incurred, and expect to continue to incur, significant expenses in the areas of professional fees and contracting services.
+Net
+cash used in operating activities for the year ended December 31, 2023 was $1,642,137 compared to net cash used of $1,930,308 for the
+year ended December 31, 2022. The decrease was primarily due to a decrease in non- cash share based compensation, offset by increased operating losses.
+Investing
+Activities
+Net
+cash used in investing activities for the year ended December 31, 2023 was $-0- compared to net cash used of $50,000 for the year ended
+December 31, 2022. The difference is primarily attributable to the purchase of equipment in 2022.
+Financing
+Activities
+Net
+cash provided by financing activities for the year ended December 31, 2023 was $1,604,500, compared to $2,015,215 for the year ended
+December 31, 2022. The decrease of $410,715 was primarily the result of a decrease in proceeds from issuance of notes payable.
+Subsequent
+to December 31, 2023, we raised approximately $262,000 in cash proceeds from various transactions described in the Notes to the Consolidated Financial Statements- Note 9 Subsequent Events
+The
+Company borrowed funds pursuant to the terms of a Securities Purchase Agreement (the “AJB SPA”) entered into with AJB Capital
+Investments, LLC (“AJB”), and issued a Promissory Note in the principal amount of $120,000 (the “AJB Note”) to
+AJB in a private transaction for a purchase price of $108,000, each dated as of April 12, 2024 and as described in the Notes to the Consolidated Financial Statements- Note 9 Subsequent Events. In connection with the sale of the AJB Note, the Company also paid certain
+fees and expenses of AJB and of the Company’s Auditor. After payment of the fees and expenses, the net proceeds to the Company
+were $45,000, which will be used for working capital, to fund potential acquisitions or other forms of strategic relationships, and other
+general corporate purposes.
+The
+maturity date of the AJB Note is October 12, 2024. The AJB Note bears no interest on the principal except for default interest, if any.
+The Company may prepay the AJB Note at any time without penalty. Under the terms of the AJB Note, the Company may not issue additional
+debt that is not subordinate to AJB, must comply with the Company’s reporting requirements under the Securities Exchange Act of
+1934, and must maintain the listing of the Company’s common stock on the OTC Market or other exchange, among other restrictions
+and requirements. The Company’s failure to make required payments under the AJB Note or to comply with any of these covenants,
+among other matters, would constitute an event of default. Upon an event of default under the AJB SPA or AJB Note, the AJB Note will
+bear interest at the lesser of 18% per annum or the maximum amount permitted under law, AJB may immediately accelerate the AJB Note due
+date, AJB may convert the amount outstanding under the AJB Note into shares of Company common stock at a discount to the market price
+of the stock, and AJB will be entitled to its costs of collection, among other penalties and remedies.
+The
+Company provided various representations, warranties, and covenants to AJB in the AJB SPA. The Company’s breach of any representation
+or warranty, or failure to comply with the covenants would constitute an event of default.
+The
+Company also entered into a Security Agreement with AJB pursuant to which the Company granted to AJB a security interest in substantially
+all of the Company’s assets to secure the Company’s obligations under the AJB SPA and AJB Note.
+The offer and sale
+of the AJB Note was made in a private transaction exempt from the registration requirements of the Securities Act of 1933, as amended
+(the “Securities Act”), in reliance on exemptions afforded by Section 4(a)(2) of the Securities Act and Rule 506(b) of Regulation
+D promulgated thereunder.
+Critical
+Accounting Policies and Estimates
+Stock-Based
+Compensation
+In
+accordance with ASC No. 718, Compensation-Stock Compensation (“ASC 718”), the Company measures the compensation costs of
+stock-based compensation arrangements based on the grant date fair value of granted instruments and recognizes the costs in consolidated financial statements over the period during which employees are required to provide services. Stock-based
+compensation arrangements include stock options.
+Equity
+instruments (“instruments”) issued to non-employees are recorded on the basis of the fair value of the instruments, as required
+by ASC 718. ASC No. 505, Equity Based Payments to Non-Employees (“ASC 505”), defines the measurement date and recognition
+period for such instruments. In general, the measurement date is (a) when a performance commitment, as defined, is reached or (b) when
+the earlier of (i) the non-employee performance is complete and (ii) the instruments are vested. The compensation cost is remeasured
+at fair value at each reporting period when the award vests. As a result, stock option-based payments to non-employees can result in
+significant volatility in compensation expense.
+The
+Company accounts for its stock-based compensation using the Black-Scholes model to estimate the fair value of stock option awards. Using
+this model, fair value is calculated based on assumptions with respect to the (i) expected volatility of the Company’s common stock
+price, (ii) expected life of the award, which for options is the period of time over which employees and non-employees are expected to
+hold their options prior to exercise, and (iii) risk-free interest rate.
+4
+Fair
+Value Measurements
+The
+Company recognizes and discloses the fair value of its assets and liabilities using a hierarchy that prioritizes the inputs to valuation
+techniques used to measure fair value. The hierarchy gives the highest priority to valuations based upon unadjusted quoted prices in
+active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to valuations based upon unobservable
+inputs that are significant to the valuation (Level 3 measurements). Each level of input has different levels of subjectivity and difficulty
+involved in determining fair value.
+Level
+1
+Inputs
+are unadjusted, quoted prices for identical assets or liabilities in active markets at the measurable date.
+Level
+2
+Inputs,
+other than quoted prices included in Level 1 that are observable for the asset or liability through corroboration with market data
+at the measurement date.
+Level
+3
+Unobservable
+inputs that reflect management’s best estimate of what participants would use in pricing the asset or liability at the measurement
+date.
+The
+carrying amounts of the Company’s financial assets and liabilities, including cash, accounts payable, and accrued liabilities approximate
+fair value because of the short maturity of these instruments.
+Goodwill
+and Indefinite-lived intangible Assets
+We
+test for the impairment of our goodwill and indefinite-lived assets at least annually and whenever events or circumstances occur indicating
+that a possible impairment has been incurred.
+We
+perform our annual goodwill impairment test on the first day of our fourth quarter based on the income approach, also known as the discounted
+cash flow (“DCF”) method, which utilizes the present value of future cash flows to estimate fair value. We also use the market
+approach, which utilizes market price data of companies engaged in the same or a similar line of business as that of our company, to
+estimate fair value. A reconciliation of the two methods is performed to assess the reasonableness of fair value of each of the reporting
+units.
+The
+future cash flows used under the DCF method are derived from estimates of future revenues, operating income, working capital requirements
+and capital expenditures, which in turn reflect specific global, industry and market conditions. The discount rate developed is based
+on data and factors relevant to the economies in which the business operates and other risks associated with those cash flows, including
+the potential variability in the amount and timing of the cash flows. A terminal growth rate is applied to the final year of the projected
+period and reflects our estimate of stable growth to perpetuity. We then calculate the present value of the respective cash flows for
+each reporting unit to arrive at the fair value using the income approach and then determine the appropriate weighting between the fair
+value estimated using the income approach and the fair value estimated using the market approach. Finally, we compare the estimated fair
+value of our goodwill and indefinite-lived assets to its respective carrying value in order to determine if the goodwill assigned to
+each reporting unit is potentially impaired. In January 2017, the Financial Accounting Standards Board (“FASB”) issued ASU
+2017-04, “Intangibles-Goodwill and Other (Topic 350): Simplifying the Accounting for Goodwill Impairment”, which eliminated
+Step 2 from the goodwill impairment test. If the fair value of the asset exceeds its carrying value, goodwill is not impaired and no
+further testing is required. If the fair value of the asset is less than the carrying value, an impairment charge is recognized for the
+amount by which the carrying amount exceeds the asset’s fair value; however, the loss recognized should not exceed the total amount
+of goodwill allocated to that asset.
+5
+Significant
+assumptions used include management’s estimates of future growth rates, the amount and timing of future operating cash flows, capital
+expenditures, discount rates, as well as market and industry conditions and relevant comparable company multiples for the market approach.
+Assumptions utilized are highly judgmental, especially given the role technology plays in driving the demand for consulting services
+in the blockchain technology space. Based on the analysis that we performed at December 31, 2023, we determined that there was no impairment
+of our goodwill or intangible assets.
+Revenue
+Recognition
+The
+Company recognizes consulting revenue when the service is rendered, the fee for arrangement is fixed or determinable, and collectability
+is reasonably assured.
+Income
+Taxes
+Deferred
+tax assets and liabilities are recognized for expected future consequences of events that have been included in the consolidated financial statements or tax returns. Under the asset and liability method, deferred income tax assets and liabilities
+are determined based on the differences between the financial reporting and tax bases of assets and liabilities and are measured
+using the currently enacted tax rates and laws. A valuation allowance is provided for the amount of deferred tax assets that, based
+on available evidence, are not expected to be realized. The provision for income taxes represents the tax payable for the period and
+the change during the period in deferred tax assets and liabilities.
+When
+tax returns are filed, it is highly certain that some positions taken would be sustained upon examination by the taxing authorities,
+while others are subject to uncertainty about the merits of the position taken or the amount of the position that would be
+ultimately sustained. The benefit of a tax position is recognized in the consolidated financial statements in the period
+during which, based on all available evidence, management believes it is more likely than not that the position will be sustained
+upon examination, including the resolution of appeals or litigation processes, if any. Tax positions taken are not offset or
+aggregated with other positions. Tax positions that meet the more-likely-than-not recognition threshold are measured as the largest
+amount of tax benefit that is more than 50 percent likely of being realized upon settlement with the applicable taxing authority.
+The portion of the benefits associated with tax positions taken that exceeds the amount measured as described above is reflected as
+a liability for unrecognized tax benefits along with any associated interest and penalties that would be payable to the taxing
+authorities upon examination.
+Off-Balance
+Sheet Transactions
+We
+do not have any off-balance sheet transactions.
+Trends,
+Events and Uncertainties
+The
+blockchain technology market is dynamic and unpredictable. Although we undertake compliance efforts, including efforts with commercially
+reasonable diligence, there can be no assurance that there will not be a new or unforeseen law, regulation or risk factor which will
+materially impact our ability to continue our business as currently operated or raise additional capital to foster our continued growth.
+We
+cannot assure you that our consulting business will develop as planned, that we will ever earn revenues sufficient to support our operations,
+or that we will ever be profitable. Furthermore, since we have no committed source of financing, we cannot assure you that we will be
+able to raise money as and when we need it to continue our operations. If we cannot raise funds as and when we need them, we may be required
+to severely curtail, or even to cease, our operations.
+Other
+than as discussed above and elsewhere in this Annual Report on Form 10-K, we are not aware of any trends, events or uncertainties that
+are likely to have a material effect on our financial condition.
+Item
+8. Financial Statements and Supplementary Data
+See the Index to the Financial Statements beginning on page F-1 following
+the signature page of this Amendment.
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+On May 3, 2024, the SEC entered an order barring BF Borgers, the Company’s
+then independent registered public accounting firm, from appearing or practicing before the SEC as an accountant and therefore BF Borgers
+could no longer act as the Company’s independent registered public accounting firm. Effective May 8, 2024, the Company dismissed
+Borgers as its independent registered public accounting firm. Subsequently, the Company engaged Bush and Associates CPA as the Company’s
+new independent registered public accounting firm.
+6
+Item
+9A. Controls and Procedures
+Internal
+Control over Financial Reporting and Evaluation of Disclosure Controls and Procedures.
+Conclusions
+Regarding the Effectiveness of Disclosure Controls and Procedures
+Our management, including our principal executive officer and principal
+financial officer, conducted an evaluation of the effectiveness of our disclosure controls and procedures, as defined in Rule 13a-15(e)
+or 15d-15(e) of the Exchange Act, as of December 31, 2023 As a result of adjustments discovered during the re-audit of the Company’s
+December 31, 2023 financial statements, management has concluded that the Company’s disclosure controls and procedures were not
+effective as of December 31, 2023.
+Management’s
+Annual Report on Internal Control over Financial Reporting
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule
+13a-15(f) or 15d-15(f) promulgated under the Exchange Act. Those rules define internal control over financial reporting as a process
+designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with generally accepted accounting principles and includes
+those policies and procedures that:
+●
+Pertain
+to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets
+of the Company;
+●
+Provide
+reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial
+statements in accordance with generally accepted accounting principles, and the receipts and expenditures of the company are being
+made only in accordance with authorizations of management and directors of the Company; and
+●
+Provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisitions, use or disposition of the company’s
+assets that could have a material effect on the consolidated financial statements.
+Because
+of its inherent limitations, internal controls over financial reporting may not prevent or detect misstatements. Projections of any evaluation
+of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+Management
+assessed the effectiveness of our internal control over financial reporting as of December 31, 2023. In making this assessment, our management
+used the criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO 2013).
+Based
+on its assessment, management has concluded that as of December 31, 2023, our disclosure controls and procedures and internal control
+over financial reporting were not effective.
+Changes
+in Internal Control Over Financial Reporting
+There
+were changes in our internal control over financial reporting that occurred during the quarter ended December 31, 2023 that has materially
+affected
+our internal control over financial reporting. As a result of the re-audit of the December 31, 2023 financial statements we determined that we had a material weakness
+in both disclosure controls and control over financial reporting.
+Inherent
+Limitations of Controls
+Management
+does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all
+errors and all fraud. Controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving
+their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and
+procedures. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that
+all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities
+that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls
+can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls.
+The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there
+can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls
+may become inadequate because of changes in conditions, or deterioration in the degree of compliance with the policies or procedures.
+Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Item
+14. Principal Accounting Fees and Services
+The
+following table sets forth fees billed and to be billed to us by our independent registered public accounting firm for the years
+ended December 31, 2023 and 2022 for (i) services rendered for the audit of our annual consolidated financial statements
+and the review of our quarterly consolidated financial statements, (ii) services rendered that are reasonably related to
+the performance of the audit or review of our consolidated financial statements that are not reported as Audit Fees, and
+(iii) services rendered in connection with tax preparation, compliance, advice and assistance.
+Year
+Ended December 31,
+2023
+2022
+Audit fees
+$115,000
+$99,000
+Total
+fees
+$115,000
+$99,000
+Audit
+Fees: Represents fees for professional services provided for the audit of our annual consolidated financial
+statements, review of our consolidated financial statements included in our quarterly reports and services in connection
+with statutory and regulatory filings.
+The
+board of directors has an Audit Committee comprised of one independent board member, Holly Ruxin.
+Ms. Ruxin
+serves as the Chair of the Audit Committee. The Audit Committee oversees the accounting and financial reporting processes of the Company and
+the audits of the Company’s consolidated financial statements.
+The
+Audit Committee of the Company oversees the accounting and financial reporting processes of the Company and approves all auditing services
+and the terms thereof and non-audit services (other than non-audit services published under Section 10A(g) of the Exchange Act or the
+applicable rules of the SEC or the Public Company Accounting Oversight Board) to be provided to us by the independent auditor; provided,
+however, the pre-approval requirement is waived with respect to the provisions of non-audit services for us if the “de minimis”
+provisions of Section 10A(i)(1)(B) of the Exchange Act are satisfied.
+7
+PART
+IV
+Item
+15. Exhibits, Financial Statement Schedules
+Financial
+Statements
+See
+pages beginning with page F-1.
+Exhibit
+Index
+Exhibit
+No.
+Description
+of Exhibit
+Form
+Exhibit
+Filing
+Date
+2.1
+Share Purchase Agreement, dated as of June 7, 2017, by and among Croe, Inc., The Crypto Company and John B. Thomas P.C., in its sole capacity as representative for certain shareholders of the Croe, Inc. listed on Schedule I thereto
+8-K
+2.1
+6/9/17
+2.2
+Share Purchase Agreement, dated as of June 7, 2017, by and among Croe, Inc., The Crypto Company, Uptick Capital, LLC and John B. Thomas P.C., in its sole capacity as representative for certain shareholders of the Croe, Inc. listed on Schedule I thereto
+8-K
+2.2
+6/9/17
+2.3
+Share Exchange Agreement, dated as of June 7, 2017, by and between Croe, Inc. and Michael Poutre, in his sole capacity as representative for the shareholders of Crypto
+8-K
+2.3
+6/9/17
+2.4
+Equity Purchase Agreement, dated as of December 22, 2017, by and among The Crypto Company, CoinTracking, LLC, Kachel Holding GmbH and Dario Kachel
+8-K
+2.1
+1/16/18
+2.5
+Purchase and assignment of shares, agreements on a purchase price of loan agreement and compensation agreement, dated as of December 28, 2018, by and among CoinTracking, LLC, Kachel Holding GmbH and CoinTracking GmbH
+8-K
+2.1
+1/4/19
+2.6
+Stock Purchase Agreement by and among The Crypto Company, Blockchain Training Alliance, Inc. and certain stockholders dated March 15, 2021
+10-K
+2.6
+3/30/2021
+3.1
+Articles of Conversion (Utah)
+8-K
+3.1
+10/11/17
+3.2
+Articles of Conversion (Nevada)
+8-K
+3.2
+10/11/17
+3.3
+Articles of Incorporation of The Crypto Company
+8-K
+3.3
+10/11/17
+3.4
+Certificate of Amendment to Articles of Incorporation of Crypto Sub, Inc.
+8-K
+3.4
+10/11/17
+3.5
+Certificate of Amendment to Articles of Incorporation of Crypto Sub, Inc.
+8-K
+3.1
+2/7/2023
+3.6
+Amended and Restated Bylaws
+8-K
+3.1
+2/28/18
+4.1
+Description of Securities
+10-K
+4.1
+7/26/19
+10.1
+Form of Securities Purchase Agreement by and between the Company and each purchaser thereunder (September 8, 2017)
+8-K
+10.1
+9/29/17
+10.2
+Form of Securities Purchase Agreement by and between the Company and each purchaser thereunder (September 20, 2017)
+8-K
+10.2
+9/29/17
+10.3
+Form of Securities Purchase Agreement by and between the Company and each purchaser thereunder (September 25, 2017)
+8-K
+10.3
+9/29/17
+10.4
+Form of Common Stock Purchase Warrant (September 25, 2017)
+8-K
+10.4
+9/29/17
+10.5
+Form of Securities Purchase Agreement by and between the Company and each purchaser thereunder (December 12, 2017)
+8-K
+10.1
+12/13/17
+10.6
+Form of Non-Qualified Stock Option Agreement
+8-K
+10.1
+4/17/18
+10.7
+Separation Agreement and General Mutual Release
+8-K
+10.1
+5/25/18
+10.8
+Form of Director Services Agreement
+8-K
+10.2
+5/25/18
+8
+10.9
+Securities Purchase Agreement, dated February 29, 2024, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.9
+4/16/24
+10.10
+Promissory Note in favor of AJB Capital Investments, LLC, dated February 29, 2024
+10-K
+10.10
+4/16/24
+10.11
+Security Agreement, dated February 29, 2024, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.11
+4/16/24
+10.12
+Securities Purchase Agreement, dated February 23, 2024, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.12
+4/16/24
+10.13
+Promissory Note in favor of AJB Capital Investments, LLC, dated February 23, 2024
+10-K
+10.13
+4/16/24
+10.14
+Security Agreement, dated February 23, 2024, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.14
+4/16/24
+10.15
+License Agreement with AllFi Holdings LLC
+8-K
+10.1
+2/29/24
+10.16
+Voluntary Mutual Termination and Release Agreement with TelBill, LLC
+8-K
+10.2
+2/29/24
+10.17
+Securities Purchase Agreement, dated February 1, 2024, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.17
+4/16/24
+10.18
+Promissory Note in favor of AJB Capital Investments, LLC, dated February 1, 2024
+10-K
+10.18
+4/16/24
+10.19
+Security Agreement, dated February 1, 2024, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.19
+4/16/24
+10.20
+Securities Purchase Agreement, dated November 13, 2023, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.20
+4/16/24
+10.21
+Promissory Note in favor of AJB Capital Investments, LLC, dated November 13, 2023
+10-K
+10.21
+4/16/24
+10.22
+Security Agreement, dated November 13, 2023, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.22
+4/16/24
+10.23
+Intellectual Property Assignment Agreement by and between The Crypto Company and AllFi Technologies, Inc.
+8-K
+10.1
+10/10/23
+10.24
+Subscription Agreement by and between the Crypto Company and AllFi Technologies, Inc.
+8-K
+10.2
+10/10/23
+10.25
+Code Licensing Commercial Agreement by and between The Crypto Company and TelBill, LLC
+8-K
+10.1
+9/7/23
+10.26
+Securities Purchase Agreement, dated June 26, 2023, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.26
+4/16/24
+10.27
+Promissory Note in favor of AJB Capital Investments, LLC, dated June 26, 2023
+10-K
+10.27
+4/16/24
+10.28
+Security Agreement, dated June 26, 2023, between The Crypto Company and AJB Capital Investments, LLC
+10-K
+10.28
+4/16/24
+10.29
+Second Amendment to Promissory Note in favor of AJB Capital Investments, LLC, dated April 14, 2023
+10-K
+10.29
+4/16/24
+10.30
+Securities Purchase Agreement dated April 12, 2024, between The Crypto Company and AJB Capital Investments, LLC.
+10-K
+10.30
+4/16/24
+10.31
+Promissory Note in favor of AJB Capital Investments, LLC, dated April 12, 2024.
+10-K
+10.31
+4/16/24
+10.32
+Security Agreement dated April 12, 2024, between The Crypto Company and AJB Capital Investments, LLC.
+10-K
+10.32
+4/16/24
+21.1
+List of Subsidiaries of The Crypto Company
+*
+31
+Certification of the Chief Executive Officer, Interim Chief Financial Officer and Chairman of the Board pursuant to section 302 of the Sarbanes-Oxley Act of 2002
+*
+32
+Certification of the Chief Executive Officer, Interim Chief Financial Officer and Chairman of the Board pursuant to section 906 of the Sarbanes-Oxley Act of 2002
+**
+101.INS
+Inline
+XBRL Instance Document
+101.SCH
+Inline
+XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline
+XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+*
+Filed herewith
+**
+Furnished, not filed.
+Item
+16. Form 10-K Summary
+None.
+9
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Exchange Act, the Registrant caused this report to be signed on its behalf by the undersigned,
+thereto duly authorized, on July 30, 2025.
+THE
+CRYPTO COMPANY
+(Registrant)
+By:
+/s/
+Ron Levy
+Ron
+Levy
+Chief
+Executive Officer
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the Registrant
+in the capacities indicated on July 30, 2025.
+Signature
+Title
+/s/
+Ron Levy
+Chief
+Executive Officer, Interim Chief Financial Officer and Chairman of the Board
+Ron
+Levy
+(Principal
+Executive Officer, Principal Financial Officer and Principal Accounting Officer)
+/s/
+Holly Ruxin
+Holly
+Ruxin
+Director
+10
+THE
+CRYPTO COMPANY
+INDEX
+TO CONSOLIDATED FINANCIAL STATEMENTS
+Page
+Report of Independent Registered Public Accounting Firm (PCAOB ID No. 6797)
+F-2
+Consolidated Balance Sheets December 31, 2023 and 2022
+F-3
+Consolidated Statement of Operations For the Years Ended December 31, 2023 and December 31, 2022
+F-4
+Consolidated Statement of Stockholders’ Equity (Deficit) For the Years Ended December 31, 2023 and December 31,
+2022
+F-5
+Consolidated Statement of Cash Flows For Years Ended December 31, 2023 and 2022
+F-6
+Notes
+to Consolidated Financial Statements
+F-7
+– F-23
+F-1
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Board
+of Directors and Shareholders
+The
+Crypto Company
+23838
+Malibu Road #50477,
+Malibu,
+CA 90265
+Opinion
+on the Financial Statements
+We
+have audited the accompanying balance sheets of The Crypto Company (the “Company”) as of December 31, 2023, and the related
+statements of operations and comprehensive loss, changes in stockholders’ equity and cash flows for the year then ended, and the
+related notes to the financial statements (collectively referred to as the “financial statements”). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of The Crypto Company as of December 31, 2023, and the results
+of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United
+States of America.
+The
+financial statements of The Crypto Company as of December 31, 2023 and 2022, before adjustments described in Note 3, were audited by
+other auditors whose report dated April 16, 2024, expressed an unqualified opinion on those statements, including an explanatory paragraph
+concerning going concern. We also audited the adjustments described in Note 3 that were applied to restate the 2023 financial statements.
+In our opinion, such adjustments are appropriate and have been properly applied.
+Going
+Concern
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+2 to the financial statements, the Company has suffered recurring losses from operations, negative cash flows from operations and has
+a significant accumulated deficit, that raises substantial doubt about its ability to continue as a going concern. Management’s plans
+in regard to these matters are also described in Note 2. The financial statements do not include any adjustments that might result from
+the outcome of this uncertainty.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these financial
+statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United
+States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the entity’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion.
+Critical
+Audit Matters
+Critical
+audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be
+communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters.
+/s/
+Bush & Associates CPA LLC
+We
+have served as the Company’s auditor since 2025.
+Henderson,
+Nevada
+June
+2, 2025
+PCAOB
+ID Number 6797
+F-2
+THE
+CRYPTO COMPANY
+CONSOLIDATED BALANCE SHEETS
+December
+31, 2023
+December
+31, 2022
+(As Restated)
+ASSETS
+CURRENT ASSETS
+Cash and cash
+equivalents
+$72,970
+$110,606
+Prepaid expenses
+-
+81,317
+Total current assets
+72,970
+191,923
+Fixed assets
+-
+50,000
+Goodwill
+-
+740,469
+Intangible
+assets
+-
+574,169
+TOTAL ASSETS
+$72,970
+$1,556,561
+LIABILITIES AND STOCKHOLDERS’
+DEFICIT
+CURRENT LIABILITIES
+Accounts payable and accrued
+expenses
+$3,022,865
+$2,265,548
+Other liabilities
+207,938
+-
+Notes
+payable, net
+2,968,271
+2,211,353
+Total current liabilities
+6,199,074
+4,476,901
+Convertible debt
+125,000
+125,000
+Notes payable - other
+13,333
+14,100
+TOTAL LIABILITIES
+6,337,407
+4,616,001
+STOCKHOLDERS’ DEFICIT
+Common stock, $0.001 par
+value; 2,000,000,000 shares authorized, 565,709,873 and 23,950,380 shares issued and outstanding, respectively
+565,710
+23,950
+Additional paid-in-capital
+39,932,605
+36,448,046
+Accumulated
+deficit
+(46,762,752)
+(39,531,436)
+TOTAL STOCKHOLDERS’
+DEFICIT
+(6,264,437)
+(3,059,440)
+TOTAL LIABILITIES AND
+STOCKHOLDERS’ DEFICIT
+$72,970
+$1,556,561
+Note : Amounts may not foot due to rounding
+The
+accompanying notes are an integral part of the consolidated financial statements.
+F-3
+THE
+CRYPTO COMPANY
+CONSOLIDATED STATEMENTS OF OPERATIONS
+December
+31, 2023
+December
+31, 2022
+For
+the year ended
+December
+31, 2023
+December
+31, 2022
+As Restated
+Revenue:
+Services
+$197,459
+$619,538
+Cost of services
+313,756
+369,313
+Gross
+margin
+(116,297)
+250,225
+Operating expenses:
+General and administrative
+expenses
+1,548,277
+1,864,543
+Amortization
+43,332
+43,332
+Depreciation
+-
+87,222
+Impairment of goodwill
+1,271,306
+-
+Share-based compensation
+- employee
+6,761
+275,351
+Share-based
+compensation - non-employee
+1,148,719
+1,828,775
+Share-based
+compensation
+1,148,719
+1,828,775
+Total
+Operating Expenses
+4,018,395
+4,099,223
+Operating loss
+(4,134,692)
+(3,848,998)
+Other income
+28,375
+18,265
+Loss on disposal of business
+-
+(142,728)
+Loss on sale of equipment
+(31,000)
+-
+Other income recovery of
+token investment
+-
+67,600
+Interest
+expense
+(3,093,999)
+(1,757,057)
+Loss before provision for income taxes
+(7,231,317)
+(5,662,918)
+Provision for income
+taxes
+-
+-
+Net (loss)
+(7,231,317)
+(5,662,918)
+Net (loss)
+per share
+$(0.05)
+$(0.24)
+Weighted
+average common shares outstanding – basic and diluted
+134,932,832
+23,188,092
+Note : Amounts may not foot due to rounding
+The
+accompanying notes are an integral part of the consolidated financial statements.
+F-4
+THE
+CRYPTO COMPANY
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ DEFICIT
+Shares
+Amount
+capital
+Deficit
+Deficit
+Additional
+Total
+Common
+stock
+paid-in-
+Accumulated
+Stockholders’
+Shares
+Amount
+capital
+Deficit
+Deficit
+Balance,
+December 31, 2021
+22,205,248
+$22,206
+$32,830,497
+$(33,868,518)
+$(1,015,817)
+Stock issued for cash at $3.28 per share
+8,000
+8
+26,232
+26,240
+Stock compensation expense in connection with
+issuance of common stock
+1,726,382
+1,726
+2,058,650
+2,060,377
+Stock issued in connection with warrant exercise’
+73,250
+73
+43,677
+43,750
+Debt discount for warrants
+1,488,928
+1,488,928
+Return of shares for financing commitment
+(62,500)
+(63)
+63
+Net loss
+(5,662,918)
+(5,662,918)
+Balance, December 31,
+2022
+23,950,380
+$23,950
+$36,448,046
+$(39,531,436)
+$(3,059,440)
+Additional
+Total
+Common
+stock
+paid-in-
+Accumulated
+Stockholders’
+Shares
+Amount
+capital
+Deficit
+Deficit
+Balance,
+December 31, 2022
+23,950,380
+$23,950
+$36,448,046
+$(39,531,436)
+$(3,059,440)
+Balance
+23,950,380
+$23,950
+$36,448,046
+$(39,531,436)
+$(3,059,440)
+Stock issued for cash at $5.00 per share
+125,000
+125
+24,875
+25,000.00
+Stock issued for cash
+125,000
+125
+24,875
+25,000.00
+Stock compensation expense in connection with
+issuance of common stock
+13,665,157
+13,666
+396,409
+410,075.05
+Debt discount for warrants
+2,041,490
+2,041,490.00
+Stock issued for loan payments
+496,969,336
+496,969
+1,003,185
+1,500,154
+Stock issued for accrued salary
+31,000,000
+31,000
+18,600
+49,600
+Net loss
+(7,231,317)
+(7,231,317)
+Balance, December 31,
+2023 As Restated
+565,709,873
+$565,710
+$39,932,605
+$(46,762,752)
+$(6,264,437)
+Balance
+565,709,873
+$565,710
+$39,932,605
+$(46,762,752)
+$(6,264,437)
+Note : Amounts may not foot due to rounding
+The
+accompanying notes are an integral part of the consolidated financial statements.
+F-5
+THE
+CRYPTO COMPANY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+December
+31, 2023
+December
+31, 2022
+For
+the Year Ended
+December
+31, 2023
+December
+31, 2022
+(As Restated)
+Cash flows from operating
+activities:
+Net
+(loss)
+$(7,231,317)
+$(5,662,918)
+Adjustments to reconcile net loss to net cash
+used in operations:
+Depreciation and amortization
+43,332
+130,554
+Share-based compensation
+1,155,480
+2,104,126
+Debt discount for warrants
+2,041,490
+1,488,928
+Impairment of goodwill
+1,271,306
+-
+Loss on disposal of equipment
+31,000
+(327,608)
+Prepaid expenses
+81,317
+4,862
+Accounts payable and accrued
+expenses
+757,317
+331,748
+Other liabilities
+207,938
+-
+Net cash (used in) operating
+activities
+(1,642,136)
+(1,930,308)
+Cash flows from investing
+activities:
+Purchase
+of computer equipment
+-
+(50,000)
+Net cash (used in) investing
+activities
+-
+(50,000)
+Cash flows from financing
+activities:
+Payment of notes payable
+(227,251)
+(761,671)
+Proceeds from issuance
+of notes payable
+1,806,751
+2,750,646
+Proceeds
+from common stock issuance
+25,000
+26,240
+Net
+cash provided by financing activities
+1,604,500
+2,015,215
+Net (decrease) increase in cash and cash equivalents
+(37,636)
+34,907
+Cash and cash equivalents
+at the beginning of the period
+110,606
+75,699
+Cash and cash equivalents
+at the end of the period
+$72,970
+$110,606
+Note : Amounts may not foot due to rounding
+The
+accompanying notes are an integral part of the consolidated financial statements.
+F-6
+THE
+CRYPTO COMPANY
+NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+1 – THE COMPANY
+The
+Crypto Company was incorporated in the State of Nevada on March 9, 2017. The Company is engaged in the business of providing consulting
+services and education for distributed ledger technologies (“blockchain”), for the building of technological infrastructure
+and enterprise blockchain technology solutions. The Company currently generates revenues and incurs expenses solely through these consulting
+operations.
+Unless
+expressly indicated or the context requires otherwise, the terms “Crypto,” the “Company,” “we,”
+“us,” and “our” in these consolidated financial statements refer to The Crypto Company and, where
+appropriate, its wholly-owned subsidiary Technology Convergence Company (“TechCC”) formerly Blockchain Training
+Alliance, Inc. (“BTA”) and an inactive subsidiary Coin Tracking, LLC (“CoinTracking”).
+The
+Company entered into a Stock Purchase Agreement (the “SPA”) effective as of March 24, 2021 with BTA and its stockholders. On April 8, 2021, the Company completed the acquisition of all of the issued and outstanding
+stock of BTA and BTA became a wholly-owned subsidiary of the Company. As a result of this acquisition, the operations of BTA became consolidated
+with Company operations on April 8, 2021.
+TechCC
+is a blockchain training company and service provider that provides training and educational courses focused on blockchain technology
+and education as to the general understanding of blockchain to corporate and individual clients.
+During
+the years ended December 31, 2023 and 2022, the Company generated revenues and incurred expenses primarily through the business of providing
+consulting services and education for distributed ledger technologies, for the building of technological infrastructure
+and enterprise blockchain technology solutions, both of which have ceased operations as of the date of this Annual Report.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Going
+Concern
+The
+Company’s consolidated financial statements are prepared using the accrual method of accounting in accordance with
+United States (“U.S.”) generally accepted accounting principles (“GAAP”) and have been prepared on a going
+concern basis, which contemplates the realization of assets and the settlement of liabilities in the normal course of business. The
+Company has incurred significant losses and experienced negative cash flows since inception. As of December 31, 2023, the Company
+had cash of $72,970. In addition, the Company’s net loss was $7,231,317 for the year ended December 31, 2023 and the
+Company’s had a working capital deficit of $6,126,104. As of December 31, 2023 the accumulated deficit amounted to
+$46,762,752. As a result of the Company’s history of losses and financial condition, there is substantial doubt about the
+ability of the Company to continue as a going concern.
+The
+ability to continue as a going concern is dependent upon the Company generating profitable operations in the future and/or obtaining
+the necessary financing to meet its obligations and repay its liabilities arising from normal business operations when they come
+due. Management is evaluating different strategies to obtain financing to fund the Company’s expenses and achieve a level of
+revenue adequate to support the Company’s current cost structure. Financing strategies may include, but are not limited to,
+private placements of capital stock, debt borrowings, partnerships and/or collaborations. There can be no assurance that any of
+these future-funding efforts will be successful. The consolidated financial statements do not include any adjustments
+relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that
+might result from the outcome of this uncertainty.
+Basis
+of presentation – The company prepares its consolidated financial statements based upon the accrual method of
+accounting, recognizing income when earned and expenses when incurred.
+Consolidation –
+The consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries, Blockchain
+Training Alliance and CoinTracking LLC which is inactive. All significant intercompany accounts and transactions are eliminated in
+consolidation.
+F-7
+Use
+of estimates – The preparation of these consolidated financial statements in conformity with US GAAP requires
+management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, and expenses and the
+related disclosure of contingent assets and liabilities. The Company bases its estimates on historical experience and on various
+other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. The Company’s
+significant estimates and assumptions include but are not limited to the recoverability and useful lives of long-lived assets,
+allocation of revenue on software subscriptions, valuation of goodwill from business acquisitions, valuation and recoverability of
+investments, valuation allowances of deferred taxes, and share- based compensation expenses. Actual results may differ from these
+estimates. In addition, any change in these estimates or their related assumptions could have an adverse effect on the
+Company’s operating results.
+Cash
+and cash equivalents – The Company defines its cash and cash equivalents to include only cash on hand and certain highly liquid
+investments with original maturities of ninety days or less. The Company maintains its cash and cash equivalents at financial institutions,
+the balances of which may, at times, exceed federally insured limits. Management believes that the risk of loss due to the concentration
+is minimal.
+Investments
+in cryptocurrency – Investments are comprised of several cryptocurrencies the Company owns, of which a majority is Bitcoin,
+that are actively traded on exchanges. The Company records its investments as indefinite-lived intangible assets at cost less impairment
+and are reported as long-term assets in the consolidated balance sheets. An intangible asset with an indefinite useful life is not amortized
+but assessed for impairment annually, or more frequently, when events or changes in circumstances occur indicating that it is more likely
+than not that the indefinite-lived asset is impaired. Impairment exists when the carrying amount exceeds its fair value. In testing for
+impairment, the Company has the option to first perform a qualitative assessment to determine whether it is more likely than not that
+an impairment exists. If it is determined that it is not more likely than not that an impairment exists, a quantitative impairment test
+is not necessary. If the Company concludes otherwise, it is required to perform a quantitative impairment test. To the extent an impairment
+loss is recognized, the loss establishes the new cost basis of the asset. Subsequent reversal of impairment losses is not permitted.
+Realized
+gains and losses on sales of investments in cryptocurrency, and impairment losses, are included in other income/(expense) in the Consolidated
+Statements of Operations.
+As
+of
+December 31, 2023 and 2022 there were $-0- in investments in cryptocurrency on the Company’s Balance Sheet. However, during
+the year ended December 31, 2022 the Company received tokens from cryptocurrency investments that were previously written down to -0-
+value. These tokens were immediately liquidated, and the total proceeds received from them was $67,600 and classified as “Other
+Income from the Recovery of Tokens” in the Company’s Statement of Operations.
+Equipment
+– Equipment is recorded at cost and depreciated using the straight-line method over the estimated useful life ranging from
+three to five years. Normal repairs and maintenance are expensed as incurred. Expenditures that materially adapt, improve, or alter the
+nature of the underlying assets are capitalized. When equipment is retired or otherwise disposed of, the cost and related accumulated
+depreciation are removed from the accounts, and the resulting gain or loss is credited or charged to income.
+Business
+combination – The purchase price of an acquired company is allocated between tangible and intangible assets acquired and liabilities
+assumed from the acquired business based on their estimated fair values with the residual of the purchase price recorded as goodwill.
+The results of operations of acquired businesses are included in our operating results from the dates of acquisition.
+Goodwill
+and intangible assets – The Company records the excess of purchase price over the fair value of the tangible and identifiable
+intangible assets acquired as goodwill. Intangible assets resulting from the acquisitions of entities accounted for using the purchase
+method of accounting are recorded at the estimated fair value of the assets acquired. Identifiable intangible assets are comprised of
+purchased customer relationships, trade names, and developed technologies. Intangible assets subject to amortization are amortized over
+the period of estimated economic benefit of five years. In accordance with ASC 350, Intangibles – Goodwill and Other (“ASC
+350”), goodwill and other intangible assets with indefinite lives are not amortized but tested annually, on December 31, or more
+frequently if the Company believes indicators of impairment exist. Indefinite lived intangible assets also include investments in cryptocurrency
+(see Investments in Cryptocurrency).
+F-8
+The
+Company assesses whether goodwill impairment and indefinite lived intangible assets exists using both qualitative and quantitative assessments.
+The qualitative assessment involves determining whether events or circumstances exist that indicate it is more likely than not that the
+fair value of a reporting unit is less than its carrying amount, including goodwill. If based on this qualitative assessment the Company
+determines it is more likely than not that the fair value of a reporting unit is less than its carrying amount, or if the Company elects
+not to perform a qualitative assessment, a quantitative assessment is performed to determine whether a goodwill impairment exists at
+the reporting unit. As of December 31, 2023 the Company determined that no impairment had occurred.
+Income
+taxes – Deferred tax assets and liabilities are recognized for expected future consequences of events that have been
+included in the consolidated financial statements or tax returns. Under the asset and liability method, deferred income
+tax assets and liabilities are determined based on the differences between the financial reporting and tax bases of assets and
+liabilities and are measured using the currently enacted tax rates and laws. A valuation allowance is provided for the amount of
+deferred tax assets that, based on available evidence, are not expected to be realized. The provision for income taxes represents
+the tax payable for the period and the change during the period in deferred tax assets and liabilities.
+When
+tax returns are filed, it is highly certain that some positions taken would be sustained upon examination by the taxing authorities,
+while others are subject to uncertainty about the merits of the position taken or the amount of the position that would be
+ultimately sustained. The benefit of a tax position is recognized in the consolidated financial statements in the period
+during which, based on all available evidence, management believes it is more likely than not that the position will be sustained
+upon examination, including the resolution of appeals or litigation processes, if any. Tax positions taken are not offset or
+aggregated with other positions. Tax positions that meet the more-likely-than-not recognition threshold are measured as the largest
+amount of tax benefit that is more than 50 percent likely of being realized upon settlement with the applicable taxing authority.
+The portion of the benefits associated with tax positions taken that exceeds the amount measured as described above is reflected as
+a liability for unrecognized tax benefits along with any associated interest and penalties that would be payable to the taxing
+authorities upon examination.
+As
+of December 31, 2023, we had a net operating loss carryforward for federal income tax purposes of approximately $10,613,000 portions
+of which will begin to expire in 2037. Utilization of some of the federal and state net operating loss and credit carryforwards are subject
+to annual limitations due to the “change in ownership” provisions of the Internal Revenue Code of 1986 and similar state
+provisions. The annual limitations may result in the expiration of net operating losses and credits before utilization.
+Fair
+value measurements – The Company recognizes and discloses the fair value of its assets and liabilities using a hierarchy that
+prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy gives the highest priority to valuations based
+upon unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to
+valuations based upon unobservable inputs that are significant to the valuation (Level 3 measurements). Each level of input has different
+levels of subjectivity and difficulty involved in determining fair value.
+Level
+1
+Inputs
+are unadjusted, quoted prices for identical assets or liabilities in active markets at the measurable date.
+Level
+2
+Inputs,
+other than quoted prices included in Level 1, which are observable for the asset or liability through corroboration with market data
+at the measurement date.
+Level
+3
+Unobservable
+inputs that reflect management’s best estimate of what participants would use in pricing the asset or liability at the measurement
+date.
+F-9
+The
+carrying amounts of the Company’s financial assets and liabilities, including cash, accounts payable and accrued expenses approximate
+fair value because of the short maturity of these instruments.
+Revenue
+recognition – The Company recognizes revenue under ASC 606, Revenue from Contracts with Customers (“ASC 606”).
+The core principle of the new revenue standard is that a company should recognize revenue to depict the transfer of promised goods or
+services to customers in an amount that reflects the consideration to which the company expects to be entitled in exchange for those
+goods or services. The following five steps are applied to achieve that core principle:
+●
+Step
+1: Identify the contract with the customer
+●
+Step
+2: Identify the performance obligations in the contract
+●
+Step
+3: Determine the transaction price
+●
+Step
+4: Allocate the transaction price to the performance obligations in the contract
+●
+Step
+5: Recognize revenue when the Company satisfies a performance obligation
+In
+order to identify the performance obligations in a contract with a customer, a company must assess the promised goods or services in
+the contract and identify each promised good or service that is distinct. A performance obligation meets ASC 606’s definition of
+a “distinct” good or service (or bundle of goods or services) if both of the following criteria are met: The customer can
+benefit from the good or service either on its own or together with other resources that are readily available to the customer (i.e.,
+the good or service is capable of being distinct), and the entity’s promise to transfer the good or service to the customer is
+separately identifiable from other promises in the contract (i.e., the promise to transfer the good or service is distinct within the
+context of the contract).
+If
+a good or service is not distinct, the good or service is combined with other promised goods or services until a bundle of goods or services
+is identified that is distinct.
+The
+transaction price is the amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods
+or services to a customer. The consideration promised in a contract with a customer may include fixed amounts, variable amounts, or both.
+When determining the transaction price, an entity must consider the effects of all of the following:
+Variable
+consideration is included in the transaction price only to the extent that it is probable that a significant reversal in the amount of
+cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is subsequently resolved.
+The transaction price is allocated to each performance obligation on a relative standalone selling price basis. The transaction price
+allocated to each performance obligation is recognized when that performance obligation is satisfied, at a point in time or over time
+as appropriate.
+The
+Company adopted ASC 606 as of January 1, 2018 using the modified retrospective transition method for contracts as of the date of initial
+application.
+Share-based
+compensation
+In
+accordance with ASC No. 718, Compensation – Stock Compensation (“ASC 718”), the Company measures the compensation
+costs of share-based compensation arrangements based on the grant date fair value of granted instruments and recognizes the costs in
+the consolidated financial statements over the period during which employees are required to provide services. Share-based
+compensation arrangements include stock options.
+Equity
+instruments (“instruments”) issued to non-employees are recorded on the basis of the fair value of the instruments, as required
+by ASC 718. ASC No. 505, Equity Based Payments to Non-Employees (“ASC 505”), defines the measurement date and recognition
+period for such instruments. In general, the measurement date is (a) when a performance commitment, as defined, is reached or (b) when
+the earlier of (i) the non-employee performance is complete and (ii) the instruments are vested. The compensation cost is remeasured
+at fair value at each reporting period when the award vests. As a result, stock option-based payments to non-employees can result in
+significant volatility in compensation expense.
+The
+Company accounts for its share-based compensation using the Black-Scholes model to estimate the fair value of stock option awards. Using
+this model, fair value is calculated based on assumptions with respect to the (i) expected volatility of the Company’s common stock
+price, (ii) expected life of the award, which for options is the period of time over which employees and non-employees are expected to
+hold their options prior to exercise, and (iii) risk-free interest rate.
+Net
+loss per common share – The Company reports earnings per share (“EPS”) with a dual presentation of basic EPS and
+diluted EPS. Basic EPS is computed as net income divided by the weighted average of common shares for the period. Diluted EPS reflects
+the potential dilution that could occur from common shares issued through stock options, or warrants. For the year ended December 31,
+2023 and the year ended December 31, 2022, the Company had no potentially dilutive common stock equivalents. Therefore, the basic EPS
+and the diluted EPS are the same.
+Marketing
+expense – Marketing expenses are charged to operations, under general and administrative expenses. The Company incurred $26,869
+of marketing expenses for the year ended December 31, 2023, compared to $31,777 for year ended December 31, 2022.
+Reclassifications
+– Certain amounts in the prior period consolidated financial statements have been reclassified to conform to the
+current period presentation. Such reclassifications had no effect on the Company’s financial position, results of operations
+or cashflows.
+F-10
+NOTE 3 – RESTATEMENT
+ANNUAL
+IMPACT
+The following presents a reconciliation of the Balance
+Sheets, Statements of Operations, and Statements of Cash Flows from the prior period as previously reported to the restated amounts:
+SCHEDULE OF ERROR CORRECTIONS AND PRIOR PERIOD ADJUSTMENTS
+THE CRYPTO COMPANY
+CONSOLIDATED BALANCE SHEETS
+As Reported
+Restatement Adjustments
+As Restated
+December 31, 2023
+As Reported
+Restatement Adjustments
+As Restated
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+$
+72,970
+$
+-
+$
+72,970
+Prepaid expenses (b)
+30,317
+(30,317
+)
+-
+Total current assets
+103,287
+(30,317
+)
+72,970
+Fixed assets:
+-
+Goodwill (a)
+740,469
+(740,469
+)
+-
+Intangible assets (a)
+530,837
+(530,837
+)
+-
+TOTAL ASSETS
+$
+1,374,593
+$
+(1,301,623
+)
+$
+72,970
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current
+liabilities:
+Accounts payable and accrued expenses (b)
+$
+2,678,883
+$
+343,982
+$
+3,022,865
+Other liabilities (c)
+-
+207,938
+207,938
+Deferred revenue
+Notes payable, net (b)
+2,506,443
+491,828
+2,968,271
+Total current liabilities
+5,185,326
+1,013,748
+6,199,074
+Convertible debt
+125,000
+-
+125,000
+Notes payable - other
+13,333
+-
+13,333
+TOTAL LIABILITIES
+5,323,659
+1,013,748
+6,337,407
+STOCKHOLDERS’ DEFICIT
+Common stock, $0.001 par value; 2,000,000,000 shares authorized, 565,709,873 and 23,950,380 shares issued and outstanding, respectively
+565,320
+390
+565,710
+Additional paid-in-capital
+39,932,216
+389
+39,932,605
+Accumulated deficit
+(44,446,602
+)
+(2,316,150
+)
+(46,762,752
+)
+TOTAL STOCKHOLDERS’ DEFICIT
+(3,949,066
+)
+(2,315,371
+)
+(6,264,437
+)
+TOTAL LIABILITIES AND STOCKHOLDERS’ DEFICIT
+$
+1,374,593
+$
+(1,301,623
+)
+$
+72,970
+F-11
+THE CRYPTO COMPANY
+CONSOLIDATED STATEMENTS OF OPERATIONS
+As Reported
+Restatement Adjustments
+As Restated
+For the year ended December 31,2023
+As Reported
+Restatement Adjustments
+As Restated
+Revenue:
+Services (c)
+$
+405,397
+$
+(207,938
+)
+$
+197,459
+Cost of services
+313,756
+-
+313,756
+Gross margin
+91,641
+(207,938
+)
+(116,297
+)
+Operating expenses:
+General and administrative expenses (b)
+1,238,275
+310,002
+1,548,277
+Amortization
+43,332
+-
+43,332
+Impairment of goodwill and intangible assets (a)
+-
+1,271,306
+1,271,306
+Share-based compensation - employee
+6,761
+-
+6,761
+Share-based compensation - non-employee
+1,148,719
+-
+1,148,719
+Share-based compensation
+1,148,719
+-
+1,148,719
+Total Operating Expenses
+2,437,087
+1,581,308
+4,018,395
+Operating loss
+(2,345,446
+)
+(1,789,246
+)
+(4,134,692
+)
+Other
+income (expense)
+Other income
+28,375
+-
+28,375
+Loss on sale of equipment
+(31,000
+)
+-
+(31,000
+)
+Interest expense (b)
+(2,567,096
+)
+(526,903
+)
+(3,093,999
+)
+Loss before provision for income taxes
+(4,915,167
+)
+(2,316,150
+)
+(7,231,317
+)
+Provision for income taxes
+-
+-
+Net (loss)
+(4,915,167
+)
+(2,316,150
+)
+(7,231,317
+)
+Net (loss) per share
+$
+(0.04
+)
+$
+(0.02
+)
+$
+(0.05
+)
+Weighted average common shares outstanding – basic and diluted
+134,932,832
+134,932,832
+134,932,832
+F-12
+THE CRYPTO COMPANY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+As Reported
+Restatement Adjustments
+As Restated
+For the Year Ended
+December 31, 2023
+December 31, 2023
+As Reported
+Restatement Adjustments
+As Restated
+Cash flows from operating activities:
+Net income (loss)
+$
+(4,915,167
+)
+$
+(2,316,150
+)
+$
+(7,231,317
+)
+Adjustments to reconcile net loss to net cash used in operations:
+Depreciation and amortization
+43,332
+-
+43,332
+Share-based compensation
+1,155,480
+-
+1,155,480
+Debt discount for warrants
+2,041,490
+-
+2,041,490
+Impairment of goodwill
+-
+1,271,306
+1,271,306
+Loss on disposal of equipment
+31,000
+-
+31,000
+Prepaid expenses
+51,000
+30,317
+81,317
+Other liabilities
+-
+207,938
+207,938
+Accounts payable and accrued expenses
+413,335
+343,982
+757,317
+Net cash provided by/used in operating activities
+(1,179,530
+)
+(462,606
+)
+(1,642,136
+)
+Cash flows from financing activities:
+Payment of notes payable
+(227,251
+)
+-
+(227,251
+)
+Proceeds from issuance of notes payable
+1,344,145
+462,606
+1,806,751
+Proceeds from common stock issuance
+25,000
+-
+25,000
+Net cash provided by financing activities
+1,141,894
+462,606
+1,604,500
+Net (decrease) increase in cash and cash equivalents
+(37,636
+)
+-
+(37,636
+)
+Cash and cash equivalents at the beginning of the period
+110,606
+-
+110,606
+Cash and cash equivalents at the end of the period
+$
+72,970
+-
+$
+72,970
+F-13
+Notes:
+With
+the exception of item (c) described below all of the line items in the annual restatement above, were determined to only impact the Company’s
+fourth quarter ended December 31, 2023 and had no impact on the financial statements for Company’s first three quarters.
+(a)Based
+on an annual review performed on December 31, 2023, the Company determined that its goodwill
+and intangible assets had been fully impaired and recorded an impairment charge amounting
+to $1,271,306.
+(b)At
+year end December 31, 2023, the Company recorded the following charges and adjustments to
+the financial statement above. These entries only impacted the Company’s fourth quarter
+and had no impact on prior quarters:
+-$526,903
+was recorded as default interest due to a notification by lender to the Company in Q4 of
+2023
+-$310,000
+in accrued salary, board fees and accrued expenses which should have been recorded relating
+the Company’s Q4 activity, was not recorded
+-$30,317
+in prepaid expenses was reclassified against accrued expenses in Q4
+(b)At year end
+December 31, 2023, the Company recorded the following charges and adjustments to the financial statement above. These entries only
+impacted the Company’s fourth quarter and had no impact on prior quarters: -$526,903 was recorded as default interest due to a notification by lender to the Company in Q4 of 2023 -$310,000 in accrued salary, board fees and accrued expenses which should have been recorded relating the Company’s Q4 activity, was not recorded
+-$30,317 in
+prepaid expenses was reclassified against accrued expenses in Q4
+(c)Represents
+quarterly reduction of revenue which has been reclassified as an accrued liability due to
+the lack of documentation to support revenue recognition under the guidelines of ASC 606.
+The reduction in quarterly revenue amounted to $127,784 for the period ended March 31, 2023,
+$77,965 for the quarter ended June 30, 2023, and $2,189 for the quarter ended September 30,
+2023. These adjustments amounted to $207,938. The quarterly restatement on the Company’s
+balance sheet and statements of operations of these revenue adjustments, which had no impact
+on cash flows, are reflected below.
+QUARTERLY
+RESTATEMENT IMPACT
+BALANCE
+SHEETS
+March
+31,
+March
+31,
+June
+30,
+June
+30,
+September
+September
+2023
+2023
+2023
+2023
+2023
+2023
+As
+Filed
+Adjustments
+Restated
+As
+Filed
+Adjustments
+Restated
+As
+Filed
+Adjustments
+Restated
+ASSETS
+Current
+assets:
+Cash
+and cash equivalents
+$16,677
+$16,677
+$17,682
+$17,682
+$20,435
+$20,435
+Prepaid
+expenses
+57,717
+57,717
+19,117
+19,117
+3,750
+3,750
+Total
+current assets
+74,394
+74,394
+36,799
+36,799
+24,185
+24,185
+Goodwill
+740,469
+740,469
+740,469
+740,469
+740,469
+740,469
+Intangible
+assets
+563,336
+563,336
+552,503
+552,503
+541,670
+541,670
+Total
+assets
+$1,378,199
+-
+$1,378,199
+$1,329,771
+-
+$1,329,771
+$1,306,324
+-
+$1,306,324
+LIABILITIES
+AND STOCKHOLDERS’ DEFICIT
+Current
+liabilities:
+Accounts
+payable and accrued expenses
+$2,457,771
+$2,457,771
+$2,589,752
+$2,589,752
+$2,632,066
+$2,632,066
+Other
+liabilities
+127,784
+127,784
+205,749
+205,749
+207,938
+207,938
+Deferred
+revenue
+60,000
+60,000
+-
+-
+-
+Notes,
+payable, net
+2,361,218
+2,361,218
+2,408,045
+2,408,045
+2,440,845
+2,440,845
+Total
+current liabilities
+4,878,989
+127,784
+5,006,773
+4,997,797
+205,749
+5,203,546
+5,072,911
+207,938
+5,280,849
+Convertible
+debt
+125,000
+125,000
+125,000
+125,000
+125,000
+Notes
+payable other
+13,864
+13,864
+13,687
+13,687
+13,510
+13,510
+Total
+liabilities
+5,017,853
+127,784
+5,145,637
+5,136,484
+205,749
+5,342,233
+5,211,421
+207,938
+5,419,359
+-
+-
+Stockholders’
+Deficit:
+Common
+stock
+25,741
+25,741
+53,821
+53,821
+208,688
+208,688
+Additional
+paid in capital
+38,637,372
+38,637,372
+39,238,579
+39,238,579
+39,340,646
+39,340,646
+Accumulated
+deficit
+(42,302,767)
+(127,784)
+(42,430,551)
+(43,099,113)
+(205,749)
+(43,304,862)
+(43,454,431)
+(207,938)
+(43,662,369)
+Total
+stockholders’ deficit
+(3,639,654)
+(127,784)
+(3,767,438)
+(3,806,713)
+(205,749)
+(4,012,462)
+(3,905,097)
+(207,938)
+(4,113,035)
+Total
+liabilities and deficit
+$1,378,199
+-
+$1,378,199
+$1,329,771
+-
+$1,329,771
+$1,306,324
+-
+$1,306,324
+F-14
+STATEMENTS
+OF OPERATIONS
+Three
+months
+Three
+months
+Three
+months
+Three
+months
+Three
+months
+Three
+months
+ended
+ended
+ended
+ended
+ended
+ended
+March
+31,
+March
+31,
+June
+30,
+June
+30,
+September
+30,
+September
+30,
+2023
+2023
+2023
+2023
+2023
+2023
+As
+filed
+Adjustments
+As
+restated
+As
+filed
+Adjustments
+As
+restated
+As
+filed
+Adjustments
+As
+restated
+Services
+$           156,893
+(127,784)
+$             29,109
+$           106,610
+(77,965)
+$         28,645
+$           124,195
+(2,189)
+$           122,006
+Cost
+of services
+97,868
+97,868
+117,314
+117,314
+14,900
+14,900
+Gross
+profit
+59,025
+(127,784)
+(68,759)
+(10,705)
+(77,965)
+(88,670)
+109,295
+(2,189)
+107,106
+Operating
+expenses:
+General
+and administrative expenses
+431,049
+431,049
+320,500
+320,500
+244,183
+244,183
+Amortization
+10,833
+10,833
+10,833
+-
+10,833
+10,833
+10,833
+Stock
+based compensation
+386,560
+-
+386,560
+119,919
+-
+119,919
+113,818
+113,818
+Total
+operating expenses
+828,442
+-
+828,442
+451,252
+-
+451,252
+368,834
+-
+368,834
+Loss
+from operations
+(769,417)
+(127,784)
+(897,201)
+(461,957)
+(77,965)
+(539,922)
+(259,539)
+(2,189)
+(261,728)
+Other
+income (expense)
+-
+-
+-
+Other
+income
+25,775
+25,775
+Loss
+on the sale of equipment
+(31,000)
+(31,000)
+Interest
+(expense)
+(1,970,913)
+(1,970,913)
+(346,402)
+(346,402)
+(99,306)
+(99,306)
+Loss
+before provision of income taxes
+(2,771,331)
+(127,784)
+(2,899,115)
+(782,584)
+(77,965)
+(860,549)
+(358,845)
+(2,189)
+(361,034)
+Provision
+for income taxes (benefit)
+-
+-
+-
+Net
+loss
+$(2,771,331)
+(127,784)
+$(2,899,115)
+$(782,584)
+(77,965)
+$(860,549)
+$(358,845)
+(2,189)
+$(361,034)
+Net
+loss per share
+$(0.11)
+$(0.12)
+$(0.02)
+$(0.02)
+$(0.00)
+$(0.00)
+Weighted
+average shares basic and diluted
+25,097,908
+25,097,908
+35,731,866
+35,731,866
+110,774,232
+110,774,232
+F-15
+NOTE
+4 – RECENT ACCOUNTING PRONOUNCEMENTS
+The
+Company has implemented all new accounting pronouncements that are in effect and that may impact its consolidated
+financial statements and does not believe that there are any other new pronouncements that have been issued that might have a
+material impact on its financial position or results of operations except as noted below:
+On
+November 15, 2019, the FASB issued ASU 2019-10, which (1) provides a framework to stagger effective dates for future major accounting
+standards and (2) amends the effective dates for certain major new accounting standards to give implementation relief to certain types
+of entities. Specifically, ASU 2019-10 amends the effective date for ASU 2017-04 to fiscal years beginning after December 15, 2022, and
+interim periods therein.
+Early
+adoption continues to be permitted for interim or annual goodwill impairment tests performed on testing dates after January 1, 2017.
+The Company does not anticipate the adoption of ASU 2017-04 will have a material impact on its consolidated financial
+statements for both annual and interim reporting periods.
+In
+December 2019, the FASB issued ASU 2019-12, Income Taxes (Topic 740) which enhances and simplifies various aspects of the income
+tax accounting guidance, including requirements such as tax basis step-up in goodwill obtained in a transaction that is not a business
+combination, ownership changes in investments, and interim-period accounting for enacted changes in tax law. The amendment will be effective
+for public companies with fiscal years beginning after December 15, 2020.
+In
+February 2020, the FASB issued ASU 2020-02, Financial Instruments-Credit Losses (Topic 326) and Leases (Topic 842) - Amendments
+to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 119 and Update to SEC Section on Effective Date Related to
+Accounting Standards Update No. 2016-02, Leases (Topic 842) which amends the effective date of the original pronouncement for
+smaller reporting companies. ASU 2016-13 and its amendments will be effective for us for interim and annual periods in fiscal years
+beginning after December 15, 2022.
+In
+August 2020, the FASB issued ASU 2020-06, Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and
+Hedging - Contracts in Entity’s Own Equity (Subtopic 815 - 40), (“ASU 2020-06”). ASU 2020-06 simplifies the
+accounting for certain financial instruments with characteristics of liabilities and equity, including convertible instruments and
+contracts on an entity’s own equity. The ASU2020-06 amendments are effective for fiscal years beginning after December 15,
+2023, and interim periods within those fiscal years.
+NOTE
+5 – ACQUISITION
+On April 8, 2021, the Company completed the acquisition of all of the issued and outstanding stock of BTA and BTA
+became a wholly owned subsidiary of the Company. At the closing the Company delivered to the sellers a total of $600,000 in cash, promissory
+notes in the total principal amount of $150,000 bearing 1% interest per annum, and an aggregate of 201,439 shares of Company common stock
+valued at $604,317 in accordance with the terms of the SPA. Additionally, the Company acquired $4,860 in cash at BTA.
+As
+a result of the foregoing the Company initially recorded goodwill of $1,349,457. The Company conducted a valuation study on the acquisition
+of BTA. The final valuation report determined the amount goodwill to be $740,469 and the remaining $650,000 of the goodwill relates to
+amortizable intangibles amortized over a fifteen-year period, or approximately $54,166 per year.
+During
+the twelve months ended December 31, 2023 and 2022 the Company recorded $43,332
+and $43,332,
+respectively, in amortization expense. During the year ended December 31, 2023 the Company determined that the goodwill and intangible
+assets at BTA had become fully impaired. As a result, the recorded an impairment charge of $1,271,306 on its financial statements.
+As of December 31, 2023 and 2022, the balance of goodwill and intangibles was $-0-
+and $-0-
+compared to $740,469 and $617,501,
+respectively.
+Effective
+October 27, 2022, the “Company entered into an agreement with each of Bitmine Immersion Technologies, Inc. (“BIT”)
+and Innovative Digital Investors, LLC (“IDI”) that served to terminate or modify certain prior agreements entered into by
+the parties in February 2022.
+Pursuant
+to an agreement with BIT, BIT repurchased from the Company all of the Bitcoin miners purchased by the Company from BIT in February 2022,
+and also purchased certain of the Bitcoin miners purchased by the Company from IDI in February 2022. As part of these transactions, the
+parties agreed that any remaining amounts due under the promissory note delivered by the Company to BIT in February 2022 in the original
+principal amount of $168,750 was cancelled and extinguished. BIT delivered cash consideration of $212,750 to the Company to pay the remainder
+of the consideration owed to the Company to repurchase the miners it delivered to the Company in February 2022 and to purchase certain
+miners IDI sold to the Company in February 2022.
+In
+addition, pursuant to an agreement with IDI, IDI repurchased from the Company certain Bitcoin miners purchased by the Company from IDI
+in February 2022. The Company and IDI agreed that any remaining amounts due under the promissory note delivered by the Company to IDI
+in February 2022 in the original principal amount of $348,000 was cancelled and extinguished. IDI also agreed to sell and deliver 20
+new Bitcoin miners to the Company. As part of the agreements and accommodations by the Company, IDI and BIT the parties terminated the
+hosting agreement between the Company, BIT and IDI entered into in February 2022.
+As
+a result of these transactions the Company no longer owns any of the Bitcoin miners it acquired in February 2022 and each of the promissory
+notes delivered by the Company in February 2022 to BIT and IDI are satisfied and extinguished in full.
+F-16
+NOTE
+6 – SUMMARY OF STOCK OPTIONS
+On
+July 21, 2017, the Company’s board of directors adopted The Crypto Company 2017 Equity Incentive Plan (the “Plan”),
+which was approved by its stockholders on August 24, 2017. The Plan is administered by the board of directors (the “Administrator”).
+Under the Plan, the Company may grant equity awards to eligible participants which may take the form of stock options (both incentive
+stock options and non-qualified stock options) and restricted stock awards. Awards may be granted to officers, employees, non-employee
+directors (as defined in the Plan) and other key persons (including consultants and prospective employees). The term of any stock option
+award may not exceed 10 years and may be subject to vesting conditions, as determined by the Administrator. Options granted generally
+vest over eighteen to thirty-six months. Incentive stock options may be granted only to employees of the Company or any subsidiary that
+is a “subsidiary corporation” within the meaning of Section 424(f) of the Internal Revenue Code.
+During
+the year ended December 31, 2020, the Company issued 500,000 stock options to members of its board of directors, 1,250,000 stock options
+to employees, and 170,000 stock options to non-employees. No stock options were issued in 2023.
+5,000,000
+shares of the Company’s common stock are reserved for issuance under the Plan. As of December 31, 2023, there are outstanding stock
+option awards issued from the Plan covering a total of 2,281,349 shares of the Company’s common stock and there remain reserved
+for future awards 2,718,651 shares of the Company’s common stock.
+SCHEDULE
+OF STOCK OPTIONS ACTIVITY
+Weighted
+Average
+Weighted
+Remaining
+Average
+Contractual
+Number
+Exercise
+Term
+of
+Shares
+Price
+(years)
+Options outstanding, at December 31, 2021
+2,281,349
+$2.26
+Options granted
+-
+Options cancelled
+-
+Options exercised
+-
+Options outstanding, at December 31, 2022
+2,281,349
+$2.26
+3.25
+Options granted
+-
+Options cancelled
+-
+Options exercised
+-
+Options vested and outstanding,
+at December 31, 2023
+2,281,349
+$2.26
+2.25
+The
+Company recognized $-0- and $-0- of compensation expense related to stock options for the years ended December 31, 2023 and 2022, respectively.
+As of December 31, 2023 these options had no intrinsic value since they were all out of the money as of December 31, 2023.
+The
+determination of the fair value of share-based compensation awards utilizing the Black-Scholes model is affected by the Company’s
+stock price and a number of complex and subjective assumptions, including stock price, volatility, expected life of the equity award,
+forfeitures rates if any, risk-free interest rates and expected dividends. Volatility is based on the historical volatility of comparable
+companies measured over the most recent period, generally commensurate with the expected life of the Company’s stock options, adjusted
+for future expectations given the Company’s limited historical share price data.
+The
+risk-free rate is based on implied yields in effect at the time of the grant on U.S. Treasury zero-coupon bonds with remaining terms
+equal to the expected term of the stock options. The expected dividend is based on the Company’s history and expectation of dividend
+pay-outs. Forfeitures are recognized when they occur.
+The
+range of assumptions used for the year ended December 31, 2023 was as follows:
+Schedule
+Of Stock Option Assumptions
+SCHEDULE
+OF STOCK OPTION ASSUMPTIONS USED
+Year
+ended December 31, 2023 Ranges
+Volatility
+102
+Expected dividends
+0%
+Expected term (in years)
+5
+– 10 years
+Risk-free rate
+0.40%
+The
+Company recognized $186,823 and $2,086,151 of compensation expense related to restricted stock awards for the years ended December 31,
+2023 and 2022, respectively. The $186,823 dollar expense represented the issuance of 17,761,895 shares for services which were valued
+at approximately $0.01 per share based on the Company’s stock trading price on the OTC market on the date of issuance.
+F-17
+NOTE
+7 – RELATED PARTY TRANSACTIONS
+There
+were no related party transactions in 2023 or 2022.
+NOTE
+8 – NOTE PAYABLE AND OTHER LIABILITIES
+Notes payable
+●
+On June 10, 2020, the Company received a loan from the Small Business Administration of $12,100 (the “2020 SBA Loan”). The
+2020 SBA Loan bears interest at 3.75% per annum and is payable over 30 years with all payments of principal and interest deferred for
+the first 12 months.
+●
+On February 2, 2021, the Company received a loan from the Small Business Administration of $18,265 (the “2021 SBA Loan”).
+The 2021 SBA Loan bears interest at 1% per annum and is payable over 5 years with all payments of principal and interest deferred for
+the first 10 months.
+●
+Effective February 23, 2022, the Company entered into two separate Purchase Agreement and Bill of Sales to purchase a total of 215 cryptocurrency
+miners (each, a “Purchase Agreement”). The first Purchase Agreement was entered into with Bitmine Immersion Technologies,
+Inc. (“BIT”) whereby the Company agreed to purchase a total of 95 miners for a total purchase price of $337,500 and the second
+Purchase Agreement was entered into with Innovative Digital investors, LLC (“IDI”) whereby the Company agreed to purchase
+a total of 120 miners for a total purchase price of $696,000. In each case the Company paid one half of the purchase price at closing
+(effective February 25, 2022) and the other half of the purchase price is payable in accordance with a 10% unsecured promissory note
+delivered to each of BIT and IDI. The promissory note delivered to BIT is in the principal amount of $168,750, is payable in two installment
+payments, and by its original term had a maturity date of May 15, 2022. The promissory note delivered to IDI is in the principal amount
+of $348,000, is payable in four installment payments, and by its original terms had a maturity date of October 15, 2022.
+The
+maturity dates of the bitmine promissory note delivered to each of BIT and IDI (originally May 15, 2022 and October 15, 2022) were, in
+each case extended by two months by mutual agreement of the parties due to supply chain delays effecting the shipment and delivery of
+the mining equipment to the Company. See Note 9 “Subsequent Events” for an update this agreement.
+●
+Effective January 13, 2022, the Company borrowed funds pursuant to the terms of a Securities Purchase Agreement entered into with AJB
+Capital Investments, LLC (“AJB”), and issued a Promissory Note in the principal amount of $750,000 (the “Jan. AJB Note”)
+to AJB in a private transaction for a purchase price of $675,000 (giving effect to a 10% original issue discount). The maturity date
+of the Jan. AJB Note was July 12, 2022. The Jan. AJB Note bears interest at 10% per year, and principal and accrued interest was to be
+due on the maturity date. In connection with a subsequent loan extended to the Company by AJB on or about May 3, 2022 (as further described
+below) the Company repaid all outstanding obligations that were due to AJB under the Jan. AJB Note.
+●
+Effective January 18, 2022, the Company borrowed funds pursuant to a Securities Purchase Agreement (the “Sixth Street SPA”)
+entered into with Sixth Street Lending, LLC (“Sixth Street”) and issued a Promissory Note in the principal amount of $116,200
+(the “Sixth Street Note”) to Sixth Street in a private transaction to for a purchase price of $103,750 (giving effect to
+an original issue discount). The Company agreed to various covenants in the Sixth Street SPA. The Sixth Street Note had a maturity date
+of January 13, 2023 and the Company agreed to pay interest on the unpaid principal balance of the Sixth Street Note at the rate of twelve
+percent (12.0%) per annum from the date on which the Sixth Street Note was issued until the same becomes due and payable, whether at
+maturity or upon acceleration or by prepayment or otherwise. Payments are due monthly, beginning in the end of February 2022. The Company
+had the right to prepay the Sixth Street Note in accordance with the terms set forth in the Sixth Street Note.
+In
+connection with a subsequent loan extended to the Company by 1800 Diagonal Lending, LLC on or about September 30, 2022 (as further described
+below) the Company repaid all outstanding obligations that were due to Sixth Street under the Sixth Street Note.
+●
+On February 24, 2022, the Company borrowed funds pursuant to the terms of a Securities Purchase Agreement (the “Feb. SPA”)
+entered into with AJB, and issued a Promissory Note in the principal amount of $300,000 (the “Feb. Note”) to ABJ in a private
+transaction for a purchase price of $275,000 (giving effect to an original issue discount). The maturity date of the Feb. Note is August
+24, 2022, but it may be extended for six months upon the consent of AJB and the Company. The Feb. Note bears interest at 10% per year,
+and principal and accrued interest is due on the maturity date. The Company may prepay the Feb. Note at any time without penalty. The
+Company’s failure to make required payments under the AJB Note or to comply with various covenants, among other matters, would
+constitute an event of default. Upon an event of default under the Feb. SPA or Feb. Note, the Feb. Note will bear interest at 18%, AJB
+may immediately accelerate the Feb. Note due date, AJB may convert the amount outstanding under the Feb. Note into shares of Company
+common stock at a discount to the market price of the stock, and AJB will be entitled to its costs of collection, among other penalties
+and remedies.
+●
+On April 7, 2022, the Company borrowed funds pursuant to the terms of a Securities Purchase Agreement (the “April SPA”) entered
+into with Efrat Investments LLC (“Efrat”) and issued a Promissory Note in the principal amount of $220,000 to Efrat (the
+“Efrat Note”) in a private transaction for a purchase price of $198,000 (giving effect to an original issue discount). After
+payment of the fees and costs, the net proceeds from the Efrat Note will be used by the Company for working capital and other general
+corporate purposes.
+The
+maturity date of the Efrat Note is September 7, 2022, although the maturity date may be extended for six months upon the consent of Efrat
+and the Company. The Efrat Note bears interest at 10% per year, and principal and accrued interest is due on the maturity date. The Company
+may prepay the Efrat Note at any time without penalty. Any failure by the Company to make required payments under the Efrat Note or to
+comply with various covenants, among other matters, would constitute an event of default. Upon an event of default under the April SPA
+or the Efrat Note, the Efrat Note will bear interest at 18%, Efrat may immediately accelerate the Efrat Note due date, Efrat may convert
+the amount outstanding under the Efrat Note into shares of Company common stock at a discount to the market price of the stock, and Efrat
+will be entitled to its costs of collection, among other penalties and remedies.
+F-18
+●
+On May 3, 2022, the Company borrowed funds pursuant to the terms of a Securities Purchase Agreement (the “May AJB SPA”) entered
+into with AJB, and issued a Promissory Note in the principal amount of $1,000,000 (the “May AJB Note”) to AJB in a private
+transaction for a purchase price of $900,000 (giving effect to a 10% original issue discount). In connection with the sale of the AJB
+Note, the Company also paid certain fees and due diligence costs of AJB and brokerage fees to J.H. Darbie & Co., a registered broker-dealer.
+At
+the closing the Company repaid all obligations owed to AJB pursuant to a 10% promissory note in the principal amount of $750,000 issued
+in favor of AJB in January 2022 as generally described above. After the repayment of that promissory note, and after payment of the fees
+and costs, the $138,125 net proceeds from the issuance of the May AJB Note are expected to be utilized for working capital and other
+general corporate purposes.
+The
+maturity date of the May ABJ Note is November 3, 2022, but it may be extended by the Company for six months with the interest rate to
+increase during the extension period. The May AJB Note bears interest at 10% per year, and principal and accrued interest is due on the
+maturity date. The Company may prepay the May AJB Note at any time without penalty. Under the terms of the May AJB Note, the Company
+may not sell a significant portion of its assets without the approval of AJB, may not issue additional debt that is not subordinate to
+AJB, must comply with the Company’s reporting requirements under the Securities Exchange Act of 1934, and must maintain the listing
+of the Company’s common stock on the OTC Market or other exchange, among other restrictions and requirements. The Company’s
+failure to make required payments under the May AJB Note or to comply with any of these covenants, among other matters, would constitute
+an event of default. Upon an event of default under the May AJB SPA or May AJB Note, the May AJB Note will bear interest at 18%, AJB
+may immediately accelerate the May AJB Note due date, AJB may convert the amount outstanding under the May AJB Note into shares of Company
+common stock at a discount to the market price of the stock, and AJB will be entitled to its costs of collection, among other penalties
+and remedies.
+●
+On July 8, 2022, The Company borrowed funds pursuant to a Securities Purchase Agreement (the “SPA”) entered into with 1800
+Diagonal Lending, LLC (“Diagonal”), and Diagonal purchased a convertible promissory note (the “Note”) from the
+Company in the aggregate principal amount of $79,250. Pursuant to the SPA, the Company agreed to reimburse Diagonal for certain fees
+in connection with entry into the SPA and the issuance of the Note. The SPA contains customary representations and warranties by the
+Company and Diagonal typically contained in such documents.
+The
+maturity date of the Note is July 5, 2023 (the “Maturity Date”). The Note bears interest at a rate of 10% per annum, and
+a default interest of 22% per annum. Diagonal has the option to convert all of the outstanding amounts due under the Note into shares
+of the Company’s common stock beginning on the date which is 180 days following the date of the Note and ending on the later of:
+(i) the Maturity Date and (ii) the date of payment of the default amount, as such term is defined under the Note. The conversion price
+under the Note for each share of common stock is equal to 65% of the lowest trading price of the Company’s common stock for the
+10 trading days prior to the conversion date. The conversion of the Note is subject to a beneficial ownership limitation of 4.99% of
+the number of shares of common stock outstanding immediately after giving effect to such conversion. Failure of the Company to convert
+the Note and deliver the common stock when due will result in the Company paying Diagonal a monetary penalty for each day beyond such
+deadline.
+Prior
+to the 180th day of the issuance date Note, the Company may prepay the Note in whole or in part, however, if it does so between the issuance
+date and the date which is 60 days from the issuance date, the repayment percentage is 115%. If the Company prepays the Note between
+the 61st day after issuance and the 120th day after issuance, the prepayment percentage is 120%. If the Company prepays the Note between
+the 121st day after issuance and 180 days after issuance, the prepayment percentage is 125%. After such time, the Company can submit
+an optional prepayment notice to Diagonal, however the prepayment shall be subject to the agreement between the Company and Diagonal
+on the applicable prepayment percentage.
+●
+On July 27, 2022, The Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with Coventry Enterprises,
+LLC (“Coventry”), pursuant to which Coventry purchased a 10% unsecured promissory Note (the “Note”) from the
+Company in the principal amount of $200,000, of which $40,000 was retained by Coventry through an “Original Issue Discount”
+for due diligence and origination related to the transaction. Pursuant to the terms of the Purchase Agreement, the Company also agreed
+to issue 25,000 shares of restricted common stock to Coventry as additional consideration for the purchase of the Note. In addition,
+in the Purchase Agreement the Company granted Coventry a right of first refusal with respect to certain types of equity financing transactions
+the Company may pursue or effect.
+The
+Note bears interest at a rate of 10% per annum, with guaranteed interest (the “Guaranteed Interest”) of $20,000 being deemed
+earned as of date of issuance of the Note. The Note matures on July 15, 2023. The principal amount and the Guaranteed Interest is due
+and payable in seven equal monthly payments of $31,428.57, beginning on December 15, 2022 and continuing on the third day of each month
+thereafter until paid in full.
+Any
+or all of the principal amount and the Guaranteed Interest may be prepaid at any time and from time to time, in each case without penalty
+or premium.
+If
+an Event of Default (as defined in the Note) occurs, consistent with the terms of the Note, the Note will become convertible, in whole
+or in part, into shares of the Company’s common stock at Coventry’s option, subject to a 4.99% beneficial ownership limitation
+(which may be increased up to 9.99% by Coventry). The per share conversion price is 90% of the lowest volume-weighted average trading
+price during the 20-trading day period before conversion.
+In
+addition to certain other remedies, if an Event of Default occurs, consistent with the terms of the Note, the Note will bear interest
+on the aggregate unpaid principal amount and Guaranteed Interest at the rate of the lesser of 18% per annum or the maximum rate permitted
+by law.
+●
+On September 30, 2202, the Company borrowed funds pursuant to a Securities Purchase Agreement (the “SPA”) entered into with
+1800 Diagonal Lending, LLC (“Diagonal”), and Diagonal purchased a convertible promissory note (the “Note”) from
+the Company in the aggregate principal amount of $108,936 (giving effect to an original issue discount). The SPA contains customary representations
+and warranties by the Company and Diagonal typically contained in such documents.
+A
+portion of the proceeds from the sale of the Note were used by the parties to satisfy all remaining amounts due under a convertible promissory
+note dated January 11, 2022, issued by the Company to Sixth Street Lending, LLC. After payment of fees, and after satisfaction of the
+January 11, 2022 convertible promissory note in favor of Sixth Street Lending, the net proceeds to the Company were $80,000, which will
+be used for working capital and other general corporate purposes.
+F-19
+The
+Note has a maturity date of September 26, 2023, and the Company has agreed to pay interest on the unpaid principal balance of the Note
+at the rate of twelve percent (12.0%) per annum from the date on which the Note was issued until the same becomes due and payable, whether
+at maturity or upon acceleration or by prepayment or otherwise. Payments are due monthly, beginning on November 15, 2022. The Company
+has the right to prepay the Note in accordance with the terms set forth in the Note.
+Following
+an event of default, and subject to certain limitations, the outstanding amount of the Note may be converted into shares of Company common
+stock. Amounts due under the Note would be converted into shares of the Company’s common stock at a conversion price equal to 75%
+of the lowest trading price with a 10-day lookback immediately preceding the date of conversion. In no event may the lender effect a
+conversion if such conversion, along with all other shares of Company common stock beneficially owned by the lender and its affiliates
+would exceed 4.99% of the outstanding shares of Company common stock. In addition, upon the occurrence and during the continuation of
+an event of default the Note will become immediately due and payable and the Company shall pay to the lender, in full satisfaction of
+its obligations thereunder, additional amounts as set forth in the Note.
+●
+On December 15, 2022, Company borrowed funds pursuant to a Securities Purchase Agreement (the “SPA”) entered into with 1800
+Diagonal Lending, LLC (“Diagonal”), and Diagonal purchased a convertible promissory note (the “Note”) from the
+Company in the aggregate principal amount of $88,760 (giving effect to an original issue discount). Net proceeds from the sale of the
+Note will be used primarily for general working capital purposes. The SPA contains customary representations and warranties by the Company
+and Diagonal typically contained in such documents.
+The
+Note has a maturity date of December 9, 2023, and the Company has agreed to pay interest on the unpaid principal balance of the Note
+at the rate of twelve percent (12.0%) per annum, with interest being payable through a one-time interest charge of $10,651 being applied
+on the principal amount of the Note on the issuance date. Payments are due monthly, beginning on January 30, 2023. The Company has the
+right to prepay the Note in accordance with the terms set forth in the Note.
+Following
+an event of default, and subject to certain limitations, the outstanding amount of the Note may be converted into shares of Company common
+stock. Amounts due under the Note would be converted into shares of the Company’s common stock at a conversion price equal to 75%
+of the lowest trading price with a 10-day lookback immediately preceding the date of conversion. In no event may the lender effect a
+conversion if such conversion, along with all other shares of Company common stock beneficially owned by the lender and its affiliates
+would exceed 4.99% of the outstanding shares of Company common stock. In addition, upon the occurrence and during the continuation of
+an event of default the Note will become immediately due and payable and the Company shall pay to the lender, in full satisfaction of
+its obligations thereunder, additional amounts as set forth in the Note.
+●
+On January 10, 2023, the Company borrowed funds pursuant to a SPA entered into with Diagonal, and Diagonal purchased a convertible promissory
+note (the “Third Diagonal Note”) from the Company in the aggregate principal amount of $79,250. Pursuant to the SPA, the
+Company agreed to reimburse Diagonal for certain fees in connection with entry into the SPA and the issuance of the Third Diagonal Note.
+The SPA contains customary representations and warranties by the Company and Diagonal typically contained in such documents.
+The
+maturity date of the Third Diagonal Note is January 3, 2024 (the “Maturity Date”). The Note bears interest at a rate of 10%
+per annum, and a default interest of 22% per annum. Diagonal has the option to convert all of the outstanding amounts due under the Third
+Diagonal Note into shares of the Company’s common stock beginning on the date which is 180 days following the date of the Third
+Diagonal Note and ending on the later of: (i) the Maturity Date and (ii) the date of payment of the default amount, as such term is defined
+under the Third Diagonal Note. The conversion price under the Third Diagonal Note for each share of common stock is equal to 65% of the
+lowest trading price of the Company’s common stock for the 10 trading days prior to the conversion date. The conversion of the
+Third Diagonal Note is subject to a beneficial ownership limitation of 4.99% of the number of shares of common stock outstanding immediately
+after giving effect to such conversion. Failure of the Company to convert the Third Diagonal Note and deliver the common stock when due
+will result in the Company paying Diagonal a monetary penalty for each day beyond such deadline.
+F-20
+The
+Company may prepay the Third Diagonal Note in whole, however, if it does so between the issuance date and the date which is 60 days from
+the issuance date, the repayment percentage is 115%. If the Company prepays the Third Diagonal Note on or between the 61st day after
+issuance and the 90th day after issuance, the prepayment percentage is 120%. If the Company prepays the Third Diagonal Note on or between
+the 91st day after issuance and 180 days after issuance, the prepayment percentage is 125%. After such time, the Company can submit an
+optional prepayment notice to Diagonal, however the prepayment shall be subject to the agreement between the Company and Diagonal on
+the applicable prepayment percentage.
+Pursuant
+to the Third Diagonal Note, as long as the Company has any obligations under the Third Diagonal Note, the Company cannot without Diagonal’s
+written consent, sell, lease or otherwise dispose of any significant portion of its assets which would render the Company a “shell
+company” as such term is defined in SEC Rule 144. Additionally, under the Note, any consent to the disposition of any assets may
+be conditioned on a specified use of the proceeds of disposition.
+The
+Third Diagonal Note contains standard and customary events of default such as failing to timely make payments under the Note when due,
+the failure of the Company to timely comply with the Securities Exchange Act of 1934, as amended, reporting requirements and the failure
+to maintain a listing on the OTC Markets. The occurrence of any of the events of default, entitled Diagonal, among other things, to accelerate
+the due date of the unpaid principal amount of, and all accrued and unpaid interest on, the Third Diagonal Note. Upon an “Event
+of Default”, interest shall accrue at a default interest rate of 22%, and the Company may be obligated to pay to the Diagonal an
+amount equal to 150% of all amounts due and owing under the Third Diagonal Note.
+With
+respect to the two outstanding Diagonal Notes, Diagonal has agreed to accept $126,500.00 (the “Diagonal Settlement Amount”)
+in complete and full settlement of the Diagonal Notes. The Company paid the Diagonal Settlement Amount and the Diagonal Notes were deemed
+paid off on November 13, 2023.
+●
+On February 2, 2023, the Company borrowed funds pursuant to a SPA entered into with Fast Capital, LLC (“Fast Capital”), and
+Fast Capital purchased a 10% convertible promissory note (the “Fast Capital Note”) from the Company in the aggregate principal
+amount of $115,000. The Fast Capital Note has an original issue discount of $10,000, resulting in gross proceeds to the Company of $105,000.
+Pursuant to the SPA, the Company agreed to reimburse Fast Capital for certain fees in connection with entry into the SPA and the issuance
+of the Fast Capital Note. The SPA contains certain covenants and customary representations and warranties by the Company and Fast Capital
+typically contained in such documents.
+The
+maturity date of the Fast Capital Note is January 30, 2024. The Fast Capital Note bears interest at a rate of 10% per annum, and a default
+interest of 24% per annum. Interest is payable in shares of Company common stock.
+For
+the first six months, the Company has the right to prepay principal and accrued interest due under the Fast Capital Note at a premium
+of between 15% and 40% depending on when it is repaid. The Fast Capital Note may not be prepaid after the 180th day of its issuance.
+Fast
+Capital has the right at any time after the six-month anniversary of the date of issuance of the Fast Capital Note to convert all or
+any part of the outstanding and unpaid principal amount of the Fast Capital Note into Company common stock, subject to a beneficial ownership
+limitation. The conversion price of the Fast Capital Note equals 60% of the lowest closing price of the Company’s common stock
+for the 20 prior trading days, including the day upon which a notice of conversion is delivered.
+The
+Fast Capital Note contains various covenants standard and customary events of default such as failing to timely make payments under the
+Fast Capital Note when due, the failure to maintain a listing on the OTC Markets or the Company defaulting on any other note or similar
+debt obligation into which the Company has entered and failed to cure within the applicable grace period. The occurrence of any of the
+events of default, entitle First Capital, among other things, to accelerate the due date of the unpaid principal amount of, and all accrued
+and unpaid interest on, the Fast Capital Note. Upon an “Event of Default”, interest shall accrue at a default interest rate
+of 24%, and certain defined events of default may give rise to other remedies (such as, if the Company is delinquent in its periodic
+report filings with the Securities and Exchange Commission then the conversion price of the Fast Capital Note may be decreased).
+F-21
+As
+of December 31, 2023, the balancing remaining under the Fast Capital Note is $128,610.
+●
+On March 2, 2023, the Company borrowed funds pursuant to a SPA entered into with Diagonal, and Diagonal purchased a convertible promissory
+note (the “Fourth Diagonal Note”) from the Company in the aggregate principal amount of $54,250. Pursuant to the SPA, the
+Company agreed to reimburse Diagonal for certain fees in connection with entry into the SPA and the issuance of the Fourth Diagonal Note.
+The SPA contains customary representations and warranties by the Company and Diagonal typically contained in such documents.
+The
+maturity date of the Fourth Diagonal Note is March 2, 2024 (the “Maturity Date”). The Fourth Diagonal Note bears interest
+at a rate of 10% per annum, and a default interest of 22% per annum. Diagonal has the option to convert all of the outstanding amounts
+due under the Fourth Diagonal Note into shares of the Company’s common stock beginning on the date which is 180 days following
+the date of the Fourth Diagonal Note and ending on the later of: (i) the Maturity Date and (ii) the date of payment of the default amount,
+as such term is defined under the Fourth Diagonal Note. The conversion price under the Fourth Diagonal Note for each share of common
+stock is equal to 65% of the lowest trading price of the Company’s common stock for the 10 trading days prior to the conversion
+date. The conversion of the Fourth Diagonal Note is subject to a beneficial ownership limitation of 4.99% of the number of shares of
+common stock outstanding immediately after giving effect to such conversion. Failure of the Company to convert the Note and deliver the
+common stock when due will result in the Company paying Diagonal a monetary penalty for each day beyond such deadline.
+The
+Company may prepay the Fourth Diagonal Note in whole, however, if it does so between the issuance date and the date which is 60 days
+from the issuance date, the repayment percentage is 115%. If the Company prepays the Fourth Diagonal Note on or between the 61st day
+after issuance and the 90th day after issuance, the prepayment percentage is 120%. If the Company prepays the Fourth Diagonal Note on
+or between the 91st day after issuance and 180 days after issuance, the prepayment percentage is 125%. After such time, the Company can
+submit an optional prepayment notice to Diagonal, however the prepayment shall be subject to the agreement between the Company and Diagonal
+on the applicable prepayment percentage.
+Pursuant
+to the Fourth Diagonal Note, as long as the Company has any obligations under the Fourth Diagonal Note, the Company cannot without Diagonal’s
+written consent, sell, lease or otherwise dispose of any significant portion of its assets.
+The
+Fourth Diagonal Note contains standard and customary events of default such as failing to timely make payments under the Note when due,
+the failure of the Company to timely comply with the Securities Exchange Act of 1934, as amended, reporting requirements and the failure
+to maintain a listing on the OTC Markets. The occurrence of any of the events of default, entitled Diagonal, among other things, to accelerate
+the due date of the unpaid principal amount of, and all accrued and unpaid interest on, the Fourth Diagonal Note. Upon an “Event
+of Default”, interest shall accrue at a default interest rate of 22%, and the Company may be obligated to pay to the Diagonal an
+amount equal to 150% of all amounts due and owing under the Note.
+With
+respect to the two outstanding Diagonal Notes, Diagonal has agreed to accept $126,500.00 (the “Diagonal Settlement Amount”)
+in complete and full settlement of the Diagonal Notes. The Company paid the Diagonal Settlement Amount and the Diagonal Notes were deemed
+paid off on November 13, 2023.
+●
+On June 23, 2023, the Company borrowed funds pursuant to the terms of a Securities Purchase Agreement (the “AJB SPA”) entered
+into with AJB, and issued a Promissory Note in the principal amount of $550,000 (the “AJB June Note”) to AJB in a private
+transaction for a purchase price of $500,000 (giving effect to a 10% original issue discount). In connection with the sale of the AJB
+June Note, the Company also paid certain fees and due diligence costs to AJB’s management company and legal counsel. After payment
+of the fees and costs, the net proceeds to the Company were $487,500, which will be used for working capital and other general corporate
+purposes, provided that up to $200,000 may be drawn upon for potential acquisitions.
+F-22
+The
+maturity date of the AJB June Note is January 23, 2024. The AJB June Note bears interest at 12% per year, and principal and accrued interest
+is due on the maturity date. The Company may prepay the AJB June Note at any time without penalty. The AJB June Note contains standard
+and customary events of default, such as, among other restrictions and requirements, that the Company timely make payments under the
+AJB June Note; the Company may not sell a significant portion of its assets without the approval of AJB; the Company may not issue additional
+debt that is not subordinate to AJB; the Company must comply with the reporting requirements under the Securities Exchange Act of 1934;
+and the Company must maintain the listing of the Company’s common stock on the OTC Market or other exchange. The Company’s
+breach of any representation or warranty, or failure to comply with the covenants would constitute an event of default. Upon an event
+of default under the AJB SPA or AJB June Note, the AJB June Note will bear interest at 18%; AJB may immediately accelerate the AJB June
+Note due date; AJB may convert the amount outstanding under the AJB June Note into shares of Company common stock at a discount to the
+market price of the stock; and AJB will be entitled to its costs of collection, among other penalties and remedies.
+As
+of December 31, 2023, the balancing remaining under the AJB June Note is $584,283.
+●
+On November 13, 2023, the Company borrowed funds pursuant to the terms of a Securities Purchase Agreement (the “Nov. SPA”)
+entered into with AJB, and issued a Promissory Note in the principal amount of $500,000 to AJB (the “Nov. Note”) in a private
+transaction for a purchase price of $425,000 (giving effect to an original issue discount). After payment of the fees and costs, the
+net proceeds to the Company were $405,000, which will be used for working capital and other general corporate purposes.
+The
+maturity date of the Nov. Note is May 10, 2024. The Nov. Note bears interest at 12% per year, and principal and accrued interest is due
+on the maturity date. The Company may prepay the Nov. Note at any time without penalty. The Company’s failure to make required
+payments under the Nov. Note or to comply with various covenants, among other matters, would constitute an event of default. Upon an
+event of default under the Nov. SPA or the Nov. Note, the Nov. Note will bear interest at 18%, AJB may immediately accelerate the Nov.
+Note due date, AJB may convert the amount outstanding under the Nov. Note into shares of Company common stock at a discount to the market
+price of the stock, and AJB will be entitled to its costs of collection, among other penalties and remedies.
+Other Liabilities
+Ass of December 31, 2023 the Company had other liabilities
+amounting to $207,938 due to the reclassification of $207,938 initially recorded as revenue in the 2023. This amount was reclassified
+to other liabilities due to a lack of support available for revenue recognition under the guidelines of ASC 606.
+NOTE
+9 - COMMITMENTS AND CONTINGENCIES
+Legal
+Contingencies
+The
+Company may from time to time become subject to legal proceedings, claims, and litigation arising in the ordinary course of business.
+Indemnities
+and guarantees - During the normal course of business, the Company has made certain indemnities and guarantees under which it may be
+required to make payments in relation to certain transactions. These indemnities include certain agreements with the Company’s
+officers and directors, under which the Company may be required to indemnify such persons for liabilities arising out of their respective
+relationships. In connection with its facility lease, the Company has indemnified the lessor for certain claims arising from the use
+of the facility. The duration of these indemnities and guarantees varies and, in certain cases, is indefinite. The majority of these
+indemnities and guarantees do not provide for any limitation of the maximum potential future payments the Company could be obligated
+to make. Historically, the Company has not been obligated to make significant payments for these obligations, and no liabilities have
+been recorded for these indemnities and guarantees in the accompanying balance sheet.
+NOTE
+10 - SUBSEQUENT EVENTS
+Subsequent
+to December 31, 2023 the Company issued 505,400,660 common shares pursuant to the
+conversion of approximately $409,000 of convertible debt.
+The Company borrowed funds pursuant
+to the terms of a Securities Purchase Agreement (the “AJB SPA”) entered into with AJB Capital Investments, LLC (“AJB”),
+and issued a Promissory Note in the principal amount of $120,000 (the “AJB Note”) to AJB in a private transaction for a purchase
+price of $108,000, each dated as of April 12, 2024. In connection with the sale of the AJB Note, the Company also paid certain fees and
+expenses of AJB and of the Company’s Auditor. After payment of the fees and expenses, the net proceeds to the Company were $45,000,
+which will be used for working capital, to fund potential acquisitions or other forms of strategic relationships, and other general corporate
+purposes.
+The
+maturity date of the AJB Note is October 12, 2024. The AJB Note bears no interest on the principal except for default interest, if any.
+The Company may prepay the AJB Note at any time without penalty. Under the terms of the AJB Note, the Company may not issue additional
+debt that is not subordinate to AJB, must comply with the Company’s reporting requirements under the Securities Exchange Act of
+1934, and must maintain the listing of the Company’s common stock on the OTC Market or other exchange, among other restrictions
+and requirements. The Company’s failure to make required payments under the AJB Note or to comply with any of these covenants,
+among other matters, would constitute an event of default. Upon an event of default under the AJB SPA or AJB Note, the AJB Note will
+bear interest at the lesser of 18% per annum or the maximum amount permitted under law, AJB may immediately accelerate the AJB Note due
+date, AJB may convert the amount outstanding under the AJB Note into shares of Company common stock at a discount to the market price
+of the stock, and AJB will be entitled to its costs of collection, among other penalties and remedies.
+The
+Company provided various representations, warranties, and covenants to AJB in the AJB SPA. The Company’s breach of any representation
+or warranty, or failure to comply with the covenants would constitute an event of default.
+The
+Company also entered into a Security Agreement with AJB pursuant to which the Company granted to AJB a security interest in substantially
+all of the Company’s assets to secure the Company’s obligations under the AJB SPA and AJB Note.
+The offer and sale
+of the AJB Note was made in a private transaction exempt from the registration requirements of the Securities Act of 1933, as amended
+(the “Securities Act”), in reliance on exemptions afforded by Section 4(a)(2) of the Securities Act and Rule 506(b) of Regulation
+D promulgated thereunder.
+F-23

@@ -1,0 +1,2368 @@
+Stimcell Energetics Inc. - Form 10-K SEC filing
+0001493712
+--05-31
+false
+2025
+FY
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+0001493712
+2024-06-01
+2025-05-31
+0001493712
+2025-05-31
+0001493712
+2024-11-30
+0001493712
+2025-08-29
+0001493712
+2024-05-31
+0001493712
+2023-06-01
+2024-05-31
+0001493712
+us-gaap:CommonStockMember
+2024-06-01
+2025-05-31
+0001493712
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-01
+2025-05-31
+0001493712
+fil:Reserves1Member
+2024-06-01
+2025-05-31
+0001493712
+us-gaap:RetainedEarningsMember
+2024-06-01
+2025-05-31
+0001493712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-01
+2025-05-31
+0001493712
+2023-05-31
+0001493712
+us-gaap:CommonStockMember
+2023-05-31
+0001493712
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-31
+0001493712
+fil:Reserves1Member
+2023-05-31
+0001493712
+us-gaap:RetainedEarningsMember
+2023-05-31
+0001493712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-05-31
+0001493712
+us-gaap:CommonStockMember
+2023-06-01
+2024-05-31
+0001493712
+us-gaap:AdditionalPaidInCapitalMember
+2023-06-01
+2024-05-31
+0001493712
+fil:Reserves1Member
+2023-06-01
+2024-05-31
+0001493712
+us-gaap:RetainedEarningsMember
+2023-06-01
+2024-05-31
+0001493712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-06-01
+2024-05-31
+0001493712
+us-gaap:CommonStockMember
+2024-05-31
+0001493712
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-31
+0001493712
+fil:Reserves1Member
+2024-05-31
+0001493712
+us-gaap:RetainedEarningsMember
+2024-05-31
+0001493712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-05-31
+0001493712
+us-gaap:CommonStockMember
+2025-05-31
+0001493712
+us-gaap:AdditionalPaidInCapitalMember
+2025-05-31
+0001493712
+fil:Reserves1Member
+2025-05-31
+0001493712
+us-gaap:RetainedEarningsMember
+2025-05-31
+0001493712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-05-31
+0001493712
+2021-11-01
+0001493712
+fil:SharePurchaseWarrantMember
+2025-05-31
+2025-05-31
+0001493712
+fil:DueToTheCeoMember
+2025-05-31
+0001493712
+fil:DueToTheCeoMember
+2024-05-31
+0001493712
+fil:DueToCfoMember
+2025-05-31
+0001493712
+fil:DueToCfoMember
+2024-05-31
+0001493712
+fil:DueToAnEntityControlledByADirectorOfTheCompanyMember
+2025-05-31
+0001493712
+fil:DueToAnEntityControlledByADirectorOfTheCompanyMember
+2024-05-31
+0001493712
+fil:DueToAnEntityControlledByADirectorAndASignificantShareholderMember
+2025-05-31
+0001493712
+fil:DueToAnEntityControlledByADirectorAndASignificantShareholderMember
+2024-05-31
+0001493712
+fil:DueToLivcMember
+2025-05-31
+0001493712
+fil:DueToLivcMember
+2024-05-31
+0001493712
+fil:ManagementFeesIncurredToACeoMember
+2024-06-01
+2025-05-31
+0001493712
+fil:ManagementFeesIncurredToACeoMember
+2023-06-01
+2024-05-31
+0001493712
+fil:ManagementFeesIncurredToTheCfoMember
+2024-06-01
+2025-05-31
+0001493712
+fil:ManagementFeesIncurredToTheCfoMember
+2023-06-01
+2024-05-31
+0001493712
+fil:ConsultingFeesIncurredToAnEntityControlledByADirectorOfTheCompanyMember
+2024-06-01
+2025-05-31
+0001493712
+fil:ConsultingFeesIncurredToAnEntityControlledByADirectorOfTheCompanyMember
+2023-06-01
+2024-05-31
+0001493712
+fil:RelatedPartyLoansPayableMember
+2025-05-31
+0001493712
+fil:RelatedPartyLoansPayable2Member
+2025-05-31
+0001493712
+fil:RelatedPartyAdvancesMember
+2025-05-31
+0001493712
+fil:RelatedPartyLoansPayableMember
+2024-05-31
+0001493712
+fil:RelatedPartyLoansPayable2Member
+2024-05-31
+0001493712
+fil:RelatedPartyAdvancesMember
+2024-05-31
+0001493712
+fil:LoansToRichardJeffsMember
+2025-05-31
+0001493712
+fil:LoansToRichardJeffsMember
+2024-05-31
+0001493712
+fil:LoansToRichardJeffsMember
+2024-06-01
+2025-05-31
+0001493712
+fil:DebtWithRichardJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithRichardJeffsMember
+2024-05-31
+0001493712
+fil:LoansToRichardJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:LoansToDavidJeffsMember
+2025-05-31
+0001493712
+fil:LoansToDavidJeffsMember
+2024-05-31
+0001493712
+fil:AdvancesFromDavidJeffsMember
+2024-06-01
+2025-05-31
+0001493712
+fil:AdvancesFromDavidJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:LoansToACompanyDavidJeffsIsADirectorOfMember
+2025-05-31
+0001493712
+fil:LoansToACompanyDavidJeffsIsADirectorOfMember
+2024-05-31
+0001493712
+fil:LoansToACompanyDavidJeffsIsADirectorOfMember
+2024-06-01
+2025-05-31
+0001493712
+fil:LoansToACompanyDavidJeffsIsADirectorOfMember
+2023-06-01
+2024-05-31
+0001493712
+fil:LoansToDavidJeffsMember
+2024-06-01
+2025-05-31
+0001493712
+fil:DebtWithMrDavidJeffsMember
+2024-05-31
+0001493712
+fil:LoansToDavidJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:LoansWithDavidJeffsFamilyMembersMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithFamilyMembersOfMrDavidJeffsMember
+2024-05-31
+0001493712
+fil:RelatedPartyLoanWithMrAmirMember
+2024-06-01
+2025-05-31
+0001493712
+fil:RelatedPartyLoanWithMrAmirMember
+2025-05-31
+0001493712
+fil:RelatedPartyLoanWithMrAmirMember
+2024-05-31
+0001493712
+fil:RelatedPartyLoanWithMrAmirMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithMrVahabzadehMember
+2024-05-31
+0001493712
+fil:NotePayablesToMrAhdootMember
+2025-05-31
+0001493712
+fil:NotePayablesToMrAhdootMember
+2024-05-31
+0001493712
+fil:NotePayablesToMrAhdootMember
+2024-06-01
+2025-05-31
+0001493712
+fil:NotePayablesToMrAhdootMember
+2023-06-01
+2024-05-31
+0001493712
+fil:LoansToSusanJeffsMember
+2024-06-01
+2025-05-31
+0001493712
+fil:LoansToSusanJeffsMember
+2025-05-31
+0001493712
+fil:DebtWithSusanJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:LoansToSusanJeffsMember
+2024-05-31
+0001493712
+fil:DebtWithSusanJeffsMember
+2024-05-31
+0001493712
+fil:LoansToSusanJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:AdvancesDaCostaManagementMember
+2023-06-01
+2024-05-31
+0001493712
+fil:AdvancesDaCostaManagementMember
+2024-05-31
+0001493712
+fil:DebtWithMrDavidJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithMrVahabzadehMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithSpouseOfMrVahabzadehMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithFamilyMembersOfMrDavidJeffsMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithSamAhdootMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithOtherDebtHoldersMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithDirectorAndCeoMember
+2023-06-01
+2024-05-31
+0001493712
+fil:DebtWithACompanyControlledByDirectorAndFormerCooMember
+2023-06-01
+2024-05-31
+0001493712
+fil:PrepaidExpensesMember
+2025-05-31
+0001493712
+fil:PrepaidExpensesMember
+2024-05-31
+0001493712
+fil:ReceivablesAssociatedWithGstCellMedxCanadaMember
+2025-05-31
+0001493712
+fil:ReceivablesAssociatedWithGstCellMedxCanadaMember
+2024-05-31
+0001493712
+fil:DebtSettlementAmountMember
+2024-06-01
+2025-05-31
+0001493712
+fil:LossOnConversionOfDebtMember
+2024-06-01
+2025-05-31
+0001493712
+2025-06-01
+2025-08-29
+0001493712
+fil:MrVahabzadehMember
+2023-06-01
+2024-05-31
+0001493712
+fil:MrVahabzadehspouseMember
+2023-06-01
+2024-05-31
+0001493712
+fil:MrAhdootMember
+2023-06-01
+2024-05-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended May 31, 2025
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____ to ______
+Commission file number 000-54500
+Stimcell Energetics Inc.
+(Exact name of registrant as specified in its charter)
+Nevada
+(State or other jurisdiction of
+incorporation or organization)
+38-3939625
+(I.R.S. Employer Identification No.)
+1130 Pender Street, West, Suite 820
+Vancouver, British Columbia
+(Address of principal executive offices)
+V6E 4A4
+(Zip Code)
+Registrant’s telephone number, including area code: (844) 238-2692
+n/a
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Name of each exchange on which registered
+None
+N/A
+Securities registered pursuant to Section 12(g) of the Act:
+Common Stock - $0.001 par value
+(Title of Class)
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+☐ Yes ☒ No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+☐ Yes ☒ No
+i
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the last 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☐ Yes ☒ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☐ Yes ☒ No
+Indicate by check mark if disclosure of delinquent filers in response to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Larger accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐
+If securities are registered pursuant to Section 12(b) of the Act, indicated by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recover period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+☐ Yes ☒ No
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal quarter: $5,909,613 based on average of closing bid and ask for Stimcell Energetics Inc. shares on November 30, 2024.
+State the number of shares outstanding of each of the issuer’s classes of common equity, as of the latest practicable date.
+Class
+Outstanding at August 29, 2025
+common stock - $0.001 par value
+20,516,272
+ii
+Contents
+Part I
+1
+Item 1. Business.
+1
+Item 1A. Risk Factors.
+10
+Item 1B. Unresolved Staff Comments.
+14
+Item 2. Properties.
+14
+Item 3. Legal Proceedings.
+14
+Item 4. Mine Safety Disclosures.
+14
+Part II
+15
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+15
+Item 6. Selected Financial Data.
+16
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+16
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+20
+Item 8. Financial Statements and Supplementary Data.
+20
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+21
+Item 9A. Controls and Procedures.
+21
+Item 9B. Other Information
+22
+Part III
+23
+Item 10. Directors, Executive Officers, and Corporate Governance.
+23
+Item 11. Executive Compensation.
+26
+Item 12. Security Ownership of Certain Beneficial Holders and Management.
+27
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+29
+Item 14. Principal Accounting Fees and Services
+32
+Item 15. Exhibits, Financial Statements Schedules
+32
+Signatures
+38
+iii
+PART I
+FORWARD LOOKING STATEMENTS
+Unless the context otherwise requires, all references in this report to “Stimcell Energetics,” “the Company,” “we,” “us,” or “our” are to Stimcell Energetics Inc. (formerly, Cell MedX Corp.), collectively with its wholly owned subsidiary Cell MedX (Canada) Corp.
+The information in this Annual Report contains forward-looking statements. These forward-looking statements involve risks and uncertainties, including statements regarding our capital needs, business strategy and expectations. Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements. In some cases, the reader can identify forward-looking statements by terminology such as “may”, “will”, “should”, “expect”, “plan”, “intend”, “anticipate”, “believe”, “estimate”, “predict”, “potential” or “continue”, the negative of such terms or other comparable terminology. Actual events or results may differ materially. In evaluating these statements, the reader is urged to consider various factors, including the risks outlined from time to time, in other reports the Company files with the Securities and Exchange Commission.
+The forward-looking statements in this Form 10-K for the fiscal year ended May 31, 2025, are subject to risks and uncertainties that could cause actual results to differ materially from the results expressed in or implied by the statements contained in this report. As a result, the identification and interpretation of data and other information and their use in developing and selecting assumptions from and among reasonable alternatives requires the exercise of judgment. To the extent that the assumed events do not occur, the outcome may vary substantially from anticipated or projected results, and accordingly, no opinion is expressed on the achievability of those forward-looking statements. No assurance can be given that any of the assumptions relating to the forward-looking statements specified in the following information are accurate.
+All forward-looking statements are made as of the date of the filing of this Form 10-K and the Company disclaims any obligation to publicly update these statements, or disclose any difference between the actual results and those reflected in these statements. The Company may, from time to time, make oral forward-looking statements. The Company strongly advises that the above paragraphs and the risk factors described in this Annual Report and in its other documents filed with the United States Securities and Exchange Commission should be read for a description of certain factors that could cause the actual results to materially differ from those in the oral forward-looking statements. The Company disclaims any intention or obligation to update or revise any oral or written forward-looking statements whether as a result of new information, future events or otherwise.
+ITEM 1. BUSINESS.
+GENERAL
+Stimcell Energetics Inc. was incorporated under the laws of the State of Nevada on March 19, 2010. On April 26, 2016, the Company formed its wholly owned subsidiary, Cell MedX (Canada) Corp., (the “Subsidiary”) under the laws of the Province of British Columbia.
+Effective November 1, 2024, the Company completed a 1-for-15 reverse split (the “Reverse Split”) of its common stock. As a result of the Reverse Split, the Company’s authorized capital was decreased from 7,500,000,000 shares of common stock with par value of $0.001, of which 297,236,373 shares were outstanding immediately prior to the Reverse Split, to 500,000,000 shares of common stock with par value of $0.001, of which 19,816,272 were outstanding. All share and per-share amounts in this Annual Report on Form 10-K have been retrospectively adjusted.
+Concurrent with the Reverse Split, the Company amended its articles of incorporation to change the Company’s name from “Cell MedX Corp.” to “Stimcell Energetics Inc.” (the “Name Change”).
+Stimcell Energetics Inc. is a biotech company focused on the discovery, development and commercialization of therapeutic and non-therapeutic products that enhance cellular function, promote general wellness and alleviate health complications, including, but not limited to: aging, insulin sensitivity, high blood pressure, neuropathy and kidney function. The Company’s primary focus is on continued research and development of its eBalance® Technology and its eBalance® Home System.
+1
+BUSINESS OF STIMCELL
+eBalance® Technology
+The Company acquired its proprietary microcurrent technology designed to be used in the treatment of diabetes and related ailments (the “eBalance® Technology”) in 2014 through a Technology Purchase Agreement. eBalance® Technology is based on the science of bioelectric signals, their effect on epigenetic events within the human body, and ability to modify and affect the behavior of cells, tissues, and organs. The eBalance® Technology utilizes microcurrent electrical therapy (“MEY”) to deliver subsensory micro amperage current to the patient/user to support general wellness or provide temporary relief of pain. eBalance® Technology is intended to be used in managing complications caused by various pathological diseases and ailments, which may include pain, diabetes, insulin resistance, neuropathy, poor kidney function, high blood pressure and metabolic syndrome. eBalance® Technology is the cornerstone to the Company’s medical device systems, eBalance® Pro and eBalance® Home. eBalance® Pro System was designed for use by healthcare professionals in a clinical setting; eBalance® Home System, was designed to be used directly by patients to manage their symptoms at home.
+A research and development plan adopted by the Company included a series of investigations that allowed the Company to move the eBalance® Device from the prototype stage through a series of refinements and enhancements to achieve the safety and efficacy objectives of the eBalance® Medical Device Systems and define a set of claims that were used for submission to the FDA’s  rigorous Pre-Market Approval (PMA) process for 510(k) clearance, as well as to receive Health Canada Class II Medical Device System Certification for the eBalance® Home System and eBalance® Pro System. Both systems are intended to be used for temporary relief of pain associated with sore-aching muscles in the shoulder, waist, back, neck, upper and lower extremities (arms and legs) due to strain from exercise or normal household work activities and general activities of daily living. The Health Canada Certifications received for the eBalance® Home System and eBalance® Pro System in July and August 2020, respectively, allowed the Company to define marketing claims for the eBalance® products. The results of the clinical observational trial the Company finalized during its Fiscal 2018 year (the “Clinical Study”) on the effects of eBalance® technology confirmed that claims such as diabetes management, reductions in fasting blood sugar, improvement of other markers that denote the degree and quality of blood sugar control, pain management, blood pressure control and insulin resistance, among several other positive results, warrant further investigation of the eBalance® Systems. Due to the Company’s financial situation, during the year ended May 31, 2023, the Company suspended further research of the eBalance® Technology, including the PMA process for 510(k) clearance, and defaulted on its Health Canada Class II Medical Device System Certification licenses, which were suspended on June 5, 2023.
+In February of 2025, the Company established a new partnership with ADM Tronics Unlimited, Inc., a leader in electronic medical device engineering, with an aim to redesign the eBalance® Home device into a compact, affordable consumer unit optimized for home use, complete with cutting-edge diagnostic features.
+The redesigned eBalance® is being designed to be smaller and more cost-efficient than its predecessors, making advanced microcurrent technology accessible to a broader audience. Additionally, it will feature innovative diagnostics, including a real-time assessment of cellular energy capacity, treatment tracking, and personalized user profiles.
+Scientific Foundations
+The application of electromagnetic forces to human tissues to effect biologic change has been explored since the 19th century. Recent advances in molecular biology and imaging technology have allowed insight into the sources and downstream consequences of ion flows in complex organisms. Ion flows and transmembrane gradients produced by ion channels and pumps are key regulators of cell proliferation, migration, and differentiation.
+In complement to the current focus on molecular genetics and stem cell biology, artificial modulation of bioelectrical signals in somatic tissues is a powerful modality that might result in profound advances in understanding and augmentation of regenerative capacity. Molecular bioelectricity and its role in cell-to-cell signaling and epigenetics (altering cell behavior without altering genes) provides a new pathway to discovery of technologies that can counteract the effects of many diseases.
+Cells in the human body are “electrically excitable” including those involved with production of chemical signals that affect blood sugar. One example of such a cell of the endocrine type is the L cell, which resides in the gut and secretes cell glucagon-like peptide-1 (GLP-1), glucagon-like peptide-2 (GLP-2), peptide YY (PYY) and oxyntomodulin. GLP-
+2
+1 is an enteric hormone that stimulates insulin secretion and improves glycemia in Type 2 diabetes. There is evidence that in Type 2 diabetes these cells become “unsynchronized”. Growing these cells in tissue culture and subjecting them to specific electrical signals can act to resynchronize their chemical activity and alter their behavior as a “dispersed” metabolic organ. This serves as an illustration of how endogenous ion flows may serve as key epigenetic regulators of cell behavior and suggests that bioelectric mechanisms might be harnessed at a whole-organism level to cause functional regenerative changes. It is possible that eBalance® Technology may affect these processes, although that has yet to be established. The Company was considering a possibility to explore this hypothesis in greater detail during future clinical trials, however, due to lack of funding, new clinical trials were suspended and, as of the date of this Annual Report on Form 10-K, are not being reviewed.
+The eBalance® Device delivers microcurrent energy as electrical pulses that pass through the skin to the underlying peripheral nerves to aid in the blocking of pain signals traveling to the brain. These support general relaxation, pain management and may offer additional clinical benefits, as observed in the Company’s Health Canada-approved Clinical Study.
+Market Opportunity - Diabetes and its Complications
+Diabetes care is one of the main opportunities the Company sees for the use of its eBalance® Technology. Diabetes care was also a primary objective of the Company’s first clinical observational trial. Diabetes is a severe and debilitating disease with profound consequences, both for the individual and for society. The complications of diabetes are devastating, and the economic costs of care comprise a substantial portion of health care budgets. Despite the best efforts of the scientific community to devise a cure, the incidence of diabetes is on the rise.
+According to information published by the International Diabetes Federation (“IDF”) in its IDF Diabetes Atlas Tenth Edition (2021) (www.diabetesatlas.org), in 2021, approximately 537 million adults (20-79 years) were living with diabetes; by 2045 this will rise to 783 million. A further 541 million people are at an increased risk of developing Type 2 diabetes.1
+Diabetes mellitus (DM) is a heterogeneous group of metabolic disorders characterized by hyperglycemia (high blood sugar levels) with impaired metabolism of carbohydrate, fat and proteins resulting from defects in insulin secretion, insulin action, or both. Diabetes is one of the world’s oldest diseases with the syndrome being discovered centuries ago. The worldwide increase in the prevalence of diabetes has highlighted the need for increased research efforts into treatment options for both the disease itself and its associated complications.
+Type 1 diabetes is caused by destruction of the insulin secreting (beta) cells of the pancreas. The pathogenesis involves autoimmune processes that lead to an absolute insulin deficiency. Type 2 diabetes is caused by a combination of genetic and non-genetic factors that result in insulin resistance and insulin deficiency. Non-genetic factors include increasing age, high caloric intake, obesity, central adiposity, sedentary lifestyle, and low birth weight. This group comprises approximately 90-95% of cases in the diabetes syndrome.
+Chronic hyperglycemia leads to various metabolic, hormonal, and physiologic alterations in the body, which further develop a number of secondary complications, resulting in the major increases in morbidity and mortality seen with all types of diabetes. Diabetes dramatically increases the risk of cardiovascular problems, such as coronary artery disease, chest pain (angina), heart attack, stroke, narrowing of arteries (atherosclerosis) and high blood pressure.
+High blood sugar over time can injure the walls of the tiny blood vessels (capillaries) that nourish nerves, especially in the legs, causing tingling, numbness, burning or pain. Gradually, all sensation can be lost. Nerve damage in the feet or poor blood flow to the feet increases the risk of various foot complications. In diabetics, minor wounds easily become serious infections, which may heal poorly. Severe damage might require toe, foot or leg amputation.
+Diabetes can damage the blood vessels of the retina (diabetic retinopathy), potentially leading to blindness. It also increases the risk of other serious vision conditions, such as cataracts and glaucoma. Diabetic hypertension is a major contributor to kidney failure or irreversible end-stage kidney disease, which often requires dialysis or a kidney transplant.
+1 International Diabetes Federation. IDF Diabetes Atlas - Tenth Edition (2021) - https://diabetesatlas.org/
+3
+Damage to the nerves that control digestion can cause problems with nausea, vomiting, diarrhea or constipation. For men, erectile dysfunction may be an issue. Diabetes may leave people more susceptible to a variety of skin disorders, including bacterial and fungal infections. Type 2 diabetes may increase the risk of Alzheimer’s disease.
+Expansion of Disease Focus
+Given the size of the market for diabetes control and management, the current eBalance® Technology has significant potential of success based solely on treating complications caused by diabetes. However, in order to capture a larger market share, the Company was considering developing more specialized software/treatment options which would have allowed the Company to continue to grow its market share and ensure constant revenue streams. The Company was planning to commence development of specialized software to target other ailments such as gout, hypertension, heart disease, neurological disorders, and depression, among others. The Company’s lack of funding and unfavorable financial position made it impossible to roll out such expansion, and management felt it necessary to stop all further research and development of eBalance® Technology until the Company is financially stable and has secured substantial financing to support its day-to-day operations and further research opportunities. As of the date of this Annual Report on Form 10-K, the Company is unable to provide any assurance that its attempts to raise additional capital will be successful.
+Empirical Modeling
+The first-in-human observations took place over many years and were carefully documented. The results of these observations lead to the belief that a specific device with a specific set of bioelectric signals of known waveform, frequency, amplitude, pulse, and duration, accompanied by sensing circuits that respond to fluctuations in the body’s response, in a closed feedback loop, produced cumulative effects that led to remarkable global effects in functional aspects of living in a person who had lived with Type 1 diabetes since age 10. Research and development involving patients with longstanding Type 2 diabetes, yielded findings of a similar nature in a limited time frame. These observations were followed by broader observational studies by Stimcell.
+Effects observed in these observational studies include subjective reports of diminished fatigue, improved cognition, diminished neuropathic limb pain, improved sleep, reduction in swelling of extremities, improved skin appearance in color and texture, and a reduction in visual disturbance. Objective measures included healing of wounds, control of blood pressure leading to discontinuation or reduction of medication, and greatly improved control of blood sugars with remarkable diminution in HbA1C (which reflects average blood sugar over months).  Remarkably, in the context of Type 1 Diabetes with other potential variables remaining the same, insulin requirements diminished by a considerable degree.
+Clinical Trials
+During January through March 2015, a preliminary Pilot Trial (the “Pilot Trial”) was conducted which was designed to examine the short-term metabolic impact of a single treatment with eBalance® Technology on two diabetic subjects. Pre- and post-treatment blood samples from each subject were sent for extensive metabolic pathway analysis at the University of Alberta Metabolomics Unit.
+These studies observed alterations in several pathways, which are known to be deficient in persons with diabetes. The results of the Pilot Trial were notable in that significant shifts in metabolites related to blood sugar handling and disposal occurred in a very short time frame, with the only intervening variable being a 10-minute treatment with eBalance® Technology.
+During fiscal 2016 the Company engaged Nutrasource Diagnostics Inc. (“Nutrasource”) with Dr. Richard Tytus of Hamilton Medical Research Group as the Lead Investigator, to commence observational clinical trial in Canada (“Clinical Study”) to assess and quantify eBalance® technology’s ability to alter key metabolic pathways while targeting improved blood sugar control.
+Based on finalized investigational protocol, which received Health Canada’s approval on January 12, 2017, the Clinical Study was structured to assess the impact of three months of the eBalance® therapy, as an adjunct treatment, on HbA1c in 30 Type 1 and Type 2 diabetics. The secondary endpoints of the Clinical Study were defined to observe changes from baseline and medical history of each Clinical Study subject in the following:
+·Insulin sensitivity
+4
+·Diabetic neuropathy
+·Diabetic foot pain and numbness
+·Wound healing
+·Blood pressure
+·Kidney function
+·Any other changes reported by patients
+In-patient phase of the Clinical Study was completed on July 24, 2017, and a final clinical report was submitted to Health Canada for final approval on January 19, 2018.
+All 30 subjects (100%) taking part in the Clinical Study followed through to completion. The treatment was considered safe for the purposes of the Clinical Study. There were no significant treatment-related adverse events or negative abnormalities in routine hematology, biochemistry, vital signs or physical findings for the duration of the Clinical Study.
+The Clinical Study resulted in improvement in several biometric markers, including fasting blood sugar and plasma insulin.
+Diabetes
+The Clinical Study, tested the effectiveness of the eBalance® therapy as an adjunct treatment for diabetes and related complications in Type 1 and Type 2 diabetics over three months. The results of the Clinical Study showed that after three months of eBalance® treatments, average fasting blood glucose levels declined by 12.3% from 10.5 to 9.2 millimoles per litre. Plasma insulin declined by 48% from 168 to 86 picomoles per liter. These results indicate that, on average, the blood glucose uptake was increased and that less insulin was required to achieve that uptake. HbA1c levels declined by 0.16% from 8.36% to 8.20%. A longer double-blind, placebo-controlled study may be conducted in the future to determine if HbA1c levels would be further reduced as improving HbA1c by just 1% for individuals with Type 1 or Type 2 diabetes lowers their risk of combined microvascular complications by 25%.2
+One of the largest diabetes clinical trials ever conducted, the UK Prospective Diabetes Study (UKPDS) showed that for every 1% reduction in HbA1c, the relative risk for:
+·Microvascular complications decreased by 37%;
+·Heart Failure decreased by 16%;
+·Diabetes-related deaths decreased by 21%; and
+·Myocardial infarction decreased by 14%.3
+Blood pressure
+After seven weeks of treatments, systolic pressure, the higher amount of pressure in the arteries during the contraction of the heart muscle, declined by 9.6% from 142 to 128 millimeters of mercury (“mmHg”) and stabilized at the lower level through to the end of the Clinical Study. During the same period, diastolic pressure, the pressure in the arteries when the heart muscle is between beats, and which is usually represented by a lower number, declined by 10.4% from 78 to 70 mmHg.
+2 Diabetes Control and Complications Trial (DCCT): https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/blood-glucose-control-studies-type-1-diabetes-dcct-edic.
+3 The UK Prospective Diabetes Study (UKPDS): clinical and therapeutic implications for type 2 diabetes (UKPDS): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014359/
+5
+Pain and numbness
+Neuropathy is nerve damage that can occur with diabetes as a result of high blood glucose levels and high blood pressure. The damage most often affects the extremities and causes pain, tingling or numbness in the hands, arms, legs and feet. Only two subjects suffered from pain at the beginning of the Clinical Study and both reported feeling either less pain or reduced coldness or numbness in their extremities. These findings support the Company’s in-house informal observation and testing results with a number of people who have used the eBalance® device. Future studies may recruit subjects who are experiencing pain and loss of feeling.
+Kidney function (Nephropathy)
+Nephropathy is damage caused to the small blood vessels in the kidneys by high blood glucose levels and high blood pressure that prevents them from functioning properly or even causes them to fail completely. When the blood vessels in the kidneys are injured, the kidneys cannot clean the blood properly. The body will retain more water and salt than it should, which can result in weight gain and edema. A reduction in edema seen in our informal testing may warrant further investigation to assess the effect of eBalance® treatments on kidney function in diabetics.
+Product Development
+eBalance® Home and Pro Systems
+The eBalance® Home and Pro Systems include the eBalance® Console which acts as the central controller for three pre-programmed microcurrent algorithms (Wellness, Pain Management, and Dual) referred to as Treatment Options. In eBalance® Pro System the Treatments are administered to patients using Hand Bars, Foot Plates, and/or Pen Probes. The eBalance® Pro System is designed for Professional Use by Healthcare practitioners in a clinical setting. The Hand Bars and Foot Plates are used for general wellness and pain management while the Pen Probes are used in localized
+6
+pain management. In eBalance® Home System the Treatments are administered using Hand Bars and Foot Plates and are controlled by the eBalance® Console. The eBalance® Home System is for Home Use and will be available without a prescription.
+On October 1, 2015, the Company entered into a development agreement with Mr. Claudio Tassi (the “Development Agreement”) for the development of the first eBalance® Professional Series Device (the “Prototype”), which was delivered to the Company in November 2015. In December of 2015 the Company ordered the first batch of 25 eBalance® Pro devices with the same configuration as the original Prototype, which were manufactured in early 2016.
+These devices were designed as a stand-alone unit, controlled by proprietary software installed in an external computer specifically designed to be used with the eBalance® device. Once internally tested, the devices were distributed to selected clinics and practitioners as well as used directly by the Company in our in-house observations to see the effects of the eBalance® Therapy on the human body.
+After several months of testing and receiving feedback from the clinicians and participants, which allowed for further refinement of the devices, the Company ordered 20 units of the second generation eBalance® device, which were received in December 2016. These devices were also distributed to practitioners and other participants for observations and further testing.
+In early 2017 the management decided to move manufacturing of the eBalance® devices to Canada. The decision to move to Canada was the outcome of further research the Company had done on potential markets, tax implications of manufacturing the devices in Europe versus in Canada, cross border transfer pricing, availability of raw material and the control of the production processes.
+On October 16, 2017, the Company entered into a production development agreement (the “Development Agreement”) with Western Robotics Ltd. (“Western Robotics”) with an objective to enhance the eBalance® device based on preliminary findings from the Clinical Study and the Company’s ongoing in-house observations. The first batch of the Canadian-built eBalance® devices was completed during the 3rd quarter of the Company’s Fiscal 2019. The new eBalance® Devices were certified by LabTest Certification Inc. as Class A (professional use, which the Company refers to as eBalance® Pro System) and Class B (in-home use, which the Company refers to as eBalance® Home System) devices, and conformed to CSA, CE and UL standards for electrical safety and emission standards.
+eBalance® Wellness
+In February of 2025, the Company established a new partnership with ADM Tronics Unlimited, Inc., a leader in electronic medical device engineering, with an aim to design an eBalance® Wellness microcurrent device into a compact, affordable consumer unit optimized for home use, complete with cutting-edge diagnostic features. The wellness designation of the new device will negate the process of seeking approval for a medical device from the FDA and speed up the time required to reach market and lower the cost. This new streamlined unit is expected to be completed in the fall of 2025 and ready for market in early 2026.
+Medical Device Regulations and Government Approvals
+The manufacturing, packaging, marketing and importing of medical devices is heavily regulated in the United States, Canada and Europe. Further, the Company expects that any other countries in which it may seek to sell or market devices based on the eBalance® Technology will similarly have an extensive regulatory environment.
+The U.S. Food and Drug Administration’s (FDA) Center for Devices and Radiological Health (CDRH) is responsible for regulating firms that manufacture, repackage, re-label and/or import medical devices sold in the United States. Health Canada’s Health Products and Food Branch Inspectorate is responsible for regulating the manufacture, labeling, packaging, distribution and import of medical devices sold in Canada.
+At the end of February 2020, the Company completed an audit required for certification of its quality management systems (“QMS”) under Stage 2 Medical Device Single Audit Program (“MDSAP”) and under ISO 13485:2016 standard. The audit was carried out by BSI Group Canada Inc. (“BSI”) and included the following:
+-The effectiveness of the QMS incorporating the applicable regulatory requirements outlined by ISO13485:2016 standard and as required under MDSAP;
+-Product/process-related technologies;
+7
+-Adequate technical documentation for the eBalance® device in relation to ISO13485:2016 standard and MDSAP; and
+-The Company’s ability to comply with these requirements.
+On March 31, 2020, the Company received Certificate No. FM 716345, certifying that the Company operates a Quality Management System which complies with the requirements of ISO 13485:2016 for design, development and manufacture of microcurrent therapeutic devices for wellness and pain relief, and on June 2, 2020, received a certificate #MDSAP 716274.
+Following the receipt of ISO and MDSAP certificates, the Company filed two separate applications for Class II Medical Device Licenses for the eBalance® Pro System and the eBalance® Home System with Health Canada. On July 17, 2020, Health Canada issued a Class II Medical Device License #104925 for the eBalance® Home System, and on August 18, 2020, issued a Class II Medical Device License #105044 for the eBalance® Pro System.
+Class II Medical Licenses require the Company to go through annual MDSAP audits. Since the Company did not have adequate financing, the 2022-23 audit was cancelled, resulting in cancellation of the Class II Medical Device Licenses by Health Canada.
+Prior to selling the eBalance® Home and Pro Systems in the United States, the Company will be required to apply for an approval from the FDA through a process known as 510K submission. Due to the financial situation of the Company, the submission for the 510K clearance was not finalized and the Company withdrew its application.
+The cancellation of Class II Medical Device Licenses by Health Canada resulted in the Company suspending all its revenue-generating activities associated with sales of eBalance® Home and Pro Systems, as well as monthly recurring revenue from the online sales of eBalance® treatment packages.
+Third Party Payers / Private Insurers
+Reimbursement for medical devices through Medicare and Medicaid in the U.S., and through health protectorates in other nations, is not guaranteed. Third party private payers or private insurers typically follow the lead of government healthcare providers. A decision as to whether a device or treatment is covered involves extensive negotiations and is typically predicated on the concept of health cost savings. If the device can be shown to reduce health care costs through prevention of expensive complications of diabetes, such applications for approvals would be more favorably reviewed.
+Marketing Plans
+On March 21, 2019, the Company entered into an exclusive worldwide distribution agreement (the “Agreement”) with Live Current Media, Inc. (“LIVC”) for worldwide distribution rights to eBalance® devices in an end-user market (the “Direct Rights”). John Da Costa, Stimcell’s director and former COO, was a director of LIVC until his resignation in April of 2022, Mr. David Jeffs, the Company’s director, CEO and President, was a director and President of LIVC until May 24, 2023. LIVC paid an initial one-time fee of $250,000. In order to maintain the exclusivity, LIVC will be required to order a minimum of 2,000 devices by the end of a 24-month period from the date the eBalance® device receives its 510K clearance from the FDA (the “Initial Term”). The Company agreed to sell the eBalance® devices to LIVC at a 20% discount to the regular retail price in place at the time of the order (the “License Fee”), with 50% of the License Fee payable at the time of placing an order, and remaining 50% payable on the specified delivery date of the devices. In addition, the Company agreed that during the Initial Term the License Fee for the eBalance® devices will be fixed at CAD$2,400 per device. In addition to the License Fee, LIVC was required to pay a monthly recurring fee per each eBalance® device equal to 50% of the regular monthly home-use fee set by the Company. Following the Initial Term, the minimum monthly fee was to be $100,000.
+On January 29, 2020, the Company reacquired the Direct Rights from LIVC in exchange for a royalty on all sales of the eBalance® device up to an aggregate $507,500 calculated as follows:
+1.$25 per eBalance® device sold, not to exceed 3,500 eBalance® devices; and
+2.$5 per month for each eBalance® device generating recurring monthly revenue, up to an aggregate royalty of $420,000.
+8
+Should the recurring monthly fee be cancelled due to a change in the Company’s distribution model, the royalty will be replaced by a one-time payment of $145 per eBalance® device sold up to an aggregate of $507,500.
+In addition to the royalty, the Company issued to LIVC share purchase warrants (the “Warrants”) entitling LIVC to purchase up to two million pre-roll back shares of the Company’s common stock, however, these Warrants expired unexercised on March 3, 2023.
+Competition
+The market for treatments that assist in the control and management of diabetes, its complications, as well as other ailments, including pain management, are highly competitive. However, since the Company’s eBalance® Pro and eBalance® Home Systems are based on the microcurrent therapy, which is not yet widely accepted in traditional medicine, direct competition for these Systems is not well defined.
+Indirect competitors include a multitude of pharmaceutical companies that produce various drugs to maintain and prevent diabetes related complications; companies producing glucose monitoring devices, other pharmaceuticals to treat diseases and symptoms.
+Competitors in electrical/microcurrent therapies include BodiHealth Systems, focusing on pain relief market in US; Electromedical Products International, Inc., the company that developed Alpha-Stim® PPM, which treats and alleviates acute, chronic or postoperative pain using microcurrent therapy, and several other companies currently involved in the microcurrent and electrical current therapies.
+Patents/Trademarks/Licenses/Franchises/Concessions/Royalty Agreements or Labor Contracts
+The Company’s eBalance® Technology is not patented.
+On August 10, 2021, the Canadian Intellectual Property Office approved the Company’s EBALANCE trademark application number 1867918, which the Company filed on November 14, 2017, and issued a certificate of registration number 1,104,935 registering the trademark EBALANCE in the name of the Company.  Earlier, on May 8, 2019, the European Union approved the Company’s eBalance® trademark application and issued certificate of registration number 017997155 registering the trademark eBalance® in the name of the Company. The eBalance® trademark was also registered in the U.K., bearing the registration number UK00003345540. On March 15, 2022, United States Patent and Trademarks Office issued a certificate of registration number 6,669,175 registering the trademark EBALANCE in the name of the Company.
+On September 6, 2018, the Company entered into an IP Royalty Agreement with an IP Vendor. Pursuant to the IP Royalty Agreement the Company agreed to acquire certain additional developments and improvements for its eBalance® devices that were developed by the IP Vendor in exchange for a perpetual royalty of US$350 or CAD$350, depending on the currency the revenue is generated in, for each device sold, distributed, or licensed whether through a distributor, sales representative or by the Company itself. As of the date of this Annual Report on Form 10-K, the IP Royalty Agreement with the IP Vendor has been cancelled.
+Also on September 6, 2018, the Company entered into a Royalty Agreement with Mr. Richard Jeffs, the Company’s significant shareholder. Pursuant to the Royalty Agreement, the Company agreed to pay Mr. Richard Jeffs, in perpetuity, a 10% royalty on the revenue the Company receives from its distributors or end-users introduced to the Company by Mr. Richard Jeffs. As of the date of this Annual Report on Form 10-K, the Royalty Agreement with Mr. Richard Jeffs has been cancelled.
+Number of Total Employees and Number of Full Time Employees
+The Company has no employees other than its executive officers, who provide their services as independent consultants. The Company contracts for the services of medical and technical staff it requires to administer the observational studies and the clinical trials, as well as other consultants on “as needed” basis.
+9
+ITEM 1A. RISK FACTORS.
+There is a high degree of risk associated with buying the Company’s common stock. Prospective investors should carefully read this Annual Report on Form 10-K and consider the following risk factors when deciding whether to purchase the Company’s shares. These are speculative stocks and should be purchased by only those who can afford to lose their entire investment.
+The risk factors outlined below are some of the known, substantial, material and potential risks that could adversely affect the Company’s business, financial condition, operating results and common share value. The Company cannot assure that it will successfully address these or any unknown risks and a failure to do so can have a negative impact on the individual investment. The Company may encounter risks in addition to those described below. Additional risks and uncertainties not currently known, or that are currently deemed to be immaterial, may also impair or adversely affect the business, financial condition or results of operations of the Company.
+Risks Associated with the Company and Industry it Operates in
+The Company operates in a highly competitive market. The Company faces competition from large, well established medical device manufacturers and pharmaceutical companies in the market for treatment of pain and management of diabetes and related ailments. Many of these companies are very well accepted by health practitioners and have significant resources, and the Company may not be able to compete effectively.
+The market for treatment and management of diabetes and related ailments is intensely competitive, subject to rapid change and significantly affected by new product introductions. The Company competes indirectly with pharmaceutical and medical device companies, such as Bayer Corp., Becton Dickinson Corp., LifeScan Inc., a division of Johnson & Johnson, the MediSense Inc., and TheraSense Inc. These competitors’ products are based on traditional healthcare model and are well accepted by health practitioners and patients. If these companies decide to penetrate the Company’s target market they could threaten its position in the market.
+The Company is subject to numerous governmental regulations which can increase its costs of developing the eBalance® Technology and products based on this technology.
+The Company’s products are subject to rigorous regulation by the FDA, Health Canada and numerous international, supranational, federal, and state authorities. The process of obtaining regulatory approvals to market a medical device can be costly and time-consuming, and approvals may not be granted for future products, or additional indications or uses of existing products, on a timely basis, if at all. Delays in the receipt of, or failure to obtain approvals for, the Company’s products, or new indications and uses, could result in delayed realization of product revenues, reduction in revenues, and in substantial additional costs. In addition, no assurance can be given that the Company will remain in compliance with applicable FDA, Health Canada and other regulatory requirements once approval or marketing authorization has been obtained for a product. These requirements include, among other things, regulations regarding manufacturing practices, product labeling, advertising, and post-marketing reporting, including adverse event reports and field alerts due to manufacturing quality concerns.
+Changes in the health care regulatory environment may adversely affect the Company’s business.
+A number of the provisions of the U.S. Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 and its amendments changed access to health care products and services and established new fees for the medical device industry. Future rulemaking could increase rebates, reduce prices or the rate of price increases for health care products and services, or require additional reporting and disclosure. The Company cannot predict the timing or impact of any future rulemaking.
+Inability to protect and enforce the Company’s intellectual property rights could adversely affect its financial results.
+Intellectual property rights, including patents, trade secrets, confidential information, trademarks, tradenames, and other forms of trade dress, are important to the Company’s business. An inability to defend, protect and enforce its intellectual property rights could adversely affect the financial results, even if the Company is successful in developing and marketing products based on the eBalance® Technology. In addition, an adverse outcome in any litigation or interference proceeding could subject the Company to significant liabilities to third parties and require the Company to cease using the technology that is at issue or to license the technology from third parties. In addition, a finding that
+10
+any of the Company’s intellectual property rights are invalid could allow the Company’s competitors to compete more easily and cost-effectively. Thus, an unfavorable outcome in any patent litigation or interference proceeding could have a material adverse effect on the Company’s business, financial condition, or results of operations.
+The cost to the Company of any patent litigation or interference proceeding could be substantial. Uncertainties resulting from the initiation and continuation of patent litigation or interference proceedings could have a material adverse effect on the Company’s ability to compete in the marketplace. Patent litigation and interference proceedings could also absorb significant management time.
+Competitors’ intellectual property may prevent the Company from selling its products or have a material adverse effect on its future profitability and financial condition.
+Competitors may claim that the Company’s technology infringes upon their intellectual property. Resolving an intellectual property infringement claim can be costly and time consuming and may require the Company to enter into license agreements. The Company cannot guarantee that it would be able to obtain license agreements on commercially reasonable terms. A successful claim of patent or other intellectual property infringement could subject the Company to significant damages or an injunction preventing the manufacture, sale or use of its product. Any of these events could have a material adverse effect on the profitability and financial condition of the Company.
+The Company’s research and development efforts may not result in the development of commercially successful products based on its eBalance® Technology, which may hinder its profitability and future growth.
+The Company plans to continue to further research the eBalance® Technology and develop products based on the Technology. In order to develop commercially marketable products, the Company will be required to commit substantial efforts, funds, and other resources to research and development. A high rate of failure is inherent in the research and development of new products and technologies. The Company must make ongoing substantial expenditures without any assurance that its efforts will be commercially successful.
+Failure can occur at any point in the process, including after significant funds have been invested. Planned products may fail to reach the market or may only have limited commercial success because of efficacy or safety concerns, failure to achieve positive clinical outcomes, inability to obtain necessary regulatory approvals, limited scope of approved uses, excessive costs to manufacture, the failure to establish or maintain intellectual property rights, or infringement of the intellectual property rights of others.
+Even if the Company successfully develops marketable products or commercially develop its current Technology, it may be quickly rendered obsolete by changing customer preferences, changing industry standards, or competitors’ innovations.
+Innovations may not be accepted quickly in the marketplace because of, among other things, entrenched patterns of clinical practice or uncertainty over third-party reimbursement. The Company cannot state with certainty when or whether its products under development will be launched, whether it will be able to develop, license, or otherwise acquire new products, or whether any products will be commercially successful. Failure to launch successful new products or new indications for existing products may cause the Company’s products to become obsolete, causing its revenues and operating results to suffer.
+New products and technological advances by the Company’s competitors may negatively affect its results of operations.
+The Company’s products face intense competition from its competitors. Competitors’ products may be safer, more effective, more effectively marketed or sold, or have lower prices or superior performance features than the Company’s products. The Company cannot predict with certainty the timing or impact of the introduction of competitors’ products.
+Significant safety concerns could arise for the Company’s products, which could have a material adverse effect on its revenues and financial condition.
+Health care products typically receive regulatory approval based on data obtained in controlled clinical trials of limited duration. Following regulatory approval, these products will be used over longer periods of time in many patients. Investigators may also conduct additional, and perhaps more extensive, studies. If new safety issues are reported, the
+11
+Company may be required to amend the conditions of use for a product. For example, the Company may be required to provide additional warnings on a product’s label or narrow its approved intended use, either of which could reduce the product’s market acceptance. If serious safety issues arise with its product, sales of the product could be halted by the Company or by regulatory authorities. Safety issues affecting suppliers’ or competitors’ products also may reduce the market acceptance of the Company’s products.
+Inability to attract and maintain key personnel may cause the Company’s business to fail.
+Success depends on the acquisition of key personnel. The Company will have to compete with other companies both within and outside the healthcare industry to recruit and retain competent employees and consultants. If the Company cannot maintain qualified personnel to meet the needs of its anticipated growth, we could face material adverse effects on the Company’s business and financial condition.
+The Company lacks operating history and to date has generated only minimal revenues. If the Company cannot increase its revenue to start generating profits, its investors may lose their entire investment.
+To date, the Company has generated only minimal revenues. No profits have been made to date and if the Company fails to make any then it may fail as a business and an investment in its common stock will be worth nothing. The Company has a limited operating history and thus its progress as well as potential future success cannot be reasonably estimated.  Success has yet to be proven and financial losses should be expected to continue in the near future and at least until such time that the Company enters commercial production of devices based on the eBalance® Technology, of which there is no assurance. As a new business, the Company faces all the risks of a ‘start-up’ venture including unforeseen costs, expenses, problems, and management limitations and difficulties. Since inception, the Company has accumulated deficit of $10,861,556 and there is no guarantee, that it may ever be able to turn a profit or locate additional opportunities, hire additional management and other personnel.
+The Company needs to acquire additional financing, or its business will fail.
+The Company must obtain additional capital, or its business will fail. In order to continue development of its eBalance® Technology, apply for medical licenses, FDA approvals, and to carry out its additional observational and clinical trials, the Company must secure more funds. Currently, the Company has limited resources and has already accumulated a deficit. The Company does not have immediate sources of financing. Financing may be subject to numerous factors including investor sentiment, acceptance of the Company’s technology and so on. The Company may also have to borrow large sums of money that require substantial capital and interest payments.
+Risks related to the Company’s stock
+The Company expects to raise additional capital through the offering of more shares, which will result in dilution to its current shareholders.
+Raising additional capital through future offerings of common stock is expected to be necessary for the Company to continue. However, there is no guarantee that the Company will be successful in raising additional capital. Issuance of additional stock will increase the total number of shares issued and outstanding resulting in decrease of the percentage interest held by each of the Company’s shareholders.
+The Company may, from time to time, convert some of its debt into shares of the Company’s common stock, which will result in dilution to its shareholders.
+In December 2023, the Company issued 15,454,221 shares of its common stock on conversion of a total of $1,622,693 in then current liabilities. The conversion resulted in a decrease in the Company’s working capital deficit. To further reduce the Company’s liabilities and improve its financial position, the Company may continue to convert its debt into shares of common stock. The issuance of additional stock increases the total number of shares issued and outstanding, resulting in a decrease in the percentage of interest held by each of the Company’s shareholders, thereby further diluting their position.
+12
+There is a limited market for the Company’s common stock, meaning that its shareholders may not be able to resell their shares.
+The Company’s common stock currently has a limited market, which may restrict shareholders’ ability to resell their stock or use their stock as collateral. Thus, the shareholders may have to sell their shares privately, which may prove exceedingly difficult. Private sales are more difficult and often give lower-than-anticipated prices.
+Should a larger public market develop for the Company’s stock, future sales of shares may negatively affect their market price.
+Even if a larger market develops, the shares may be sparsely traded and have wide share price fluctuations. Liquidity may be low despite there being a market, making it difficult to get a return on the investment. The price also depends on potential investors’ feelings regarding the results of the Company’s operations, the competition of other companies’ shares, its ability to generate future revenues, and market perception about the future of microcurrent technologies.
+Because the Company’s stock is a penny stock, stockholders will be more limited in their ability to sell their stock.
+The SEC has adopted rules that regulate broker-dealer practices in connection with transactions in penny stocks. Penny stocks are generally equity securities with a price of less than $5.00, other than securities registered on certain national securities exchanges or quoted on the NASDAQ system, provided that current price and volume information with respect to transactions in such securities is provided by the exchange or quotation system.
+Because the Company’s securities constitute “penny stocks” within the meaning of the rules, the rules apply to the Company and to its securities. The rules may further affect the ability of owners of shares to sell the Company’s securities in any market that might develop for them. As long as the quotation price of the Company’s common stock is less than $5.00 per share, the common stock will be subject to Rule 15g-9 under the Exchange Act. The penny stock rules require a broker-dealer, prior to a transaction in a penny stock, to deliver a standardized risk disclosure document prepared by the SEC, that:
+·contains a description of the nature and level of risk in the market for penny stocks in both public offerings and secondary trading;
+·contains a description of the broker’s or dealer’s duties to the customer and of the rights and remedies available to the customer with respect to a violation to such duties or other requirements of securities laws;
+·contains a brief, clear, narrative description of a dealer market, including bid and ask prices for penny stocks and the significance of the spread between the bid and ask price;
+·contains a toll-free telephone number for inquiries on disciplinary actions;
+·defines significant terms in the disclosure document or in the conduct of trading in penny stocks; and
+·contains such other information and is in such form, including language, type, size, and format, as the SEC shall require by rule or regulation.
+The broker-dealer also must provide, prior to effecting any transaction in a penny stock, the customer with: (a) bid and offer quotations for the penny stock; (b) the compensation of the broker-dealer and its salesperson in the transaction; (c) the number of shares to which such bid and ask prices apply, or other comparable information relating to the depth and liquidity of the market for such stock; and (d) a monthly account statements showing the market value of each penny stock held in the customer’s account. In addition, the penny stock rules require that, prior to a transaction in a penny stock not otherwise exempt from those rules, the broker-dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser’s written acknowledgment of the receipt of a risk disclosure statement, a written agreement to transactions involving penny stocks, and a signed and dated copy of a written suitability statement. These disclosure requirements may have the effect of reducing the trading activity in the secondary market for the Company’s stock.
+The Company has not paid nor anticipates paying cash dividends on its common stock.
+The Company has not declared any dividends on its common stock during the past two fiscal years or at any time in its history. The Nevada Revised Statutes (the “NRS”), provide certain limitations on the Company’s ability to declare dividends. Section 78.288 of Chapter 78 of the NRS prohibits the Company from declaring dividends where, after giving effect to the distribution of the dividend:
+13
+(a)the Company would not be able to pay its debts as they become due in the usual course of business; or
+(b)except as may be allowed by the Company’s Articles of Incorporation, its total assets would be less than the sum of its total liabilities plus the amount that would be needed, if the Company was to be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of stockholders who may have preferential rights and whose preferential rights are superior to those receiving the distribution.
+The Company does not expect to declare any dividends in the foreseeable future as it expects to spend any funds legally available for the payment of dividends on the development of its business.
+No assurance that forward-looking assessments will be realized.
+The Company’s ability to accomplish its objectives and whether or not it is financially successful is dependent upon numerous factors, each of which could have a material effect on the results obtained. Some of these factors are in the discretion and control of management and others are beyond management’s control. The assumptions and hypotheses used in preparing any forward-looking assessments contained herein are considered reasonable by management. There can be no assurance, however, that any projections or assessments contained herein or otherwise made by management will be realized or achieved at any level.
+FOR ALL OF THE AFORESAID REASONS AND OTHERS SET-FORTH AND NOT SET-FORTH HEREIN, AN INVESTMENT IN THE COMPANY’S SECURITIES INVOLVES A CERTAIN DEGREE OF RISK. ANY PERSON CONSIDERING TO INVEST IN THE COMPANY’S SECURITIES SHOULD BE AWARE OF THESE AND OTHER FACTORS SET-FORTH IN THIS REPORT AND IN THE OTHER REPORTS AND DOCUMENTS THAT THE COMPANY FILES FROM TIME TO TIME WITH THE SEC AND SHOULD CONSULT WITH HIS/HER LEGAL, TAX, AND FINANCIAL ADVISORS PRIOR TO MAKING AN INVESTMENT IN THE COMPANY’S SECURITIES. AN INVESTMENT IN THE COMPANY’S SECURITIES SHOULD ONLY BE ACQUIRED BY PERSONS WHO CAN AFFORD TO LOSE THEIR TOTAL INVESTMENT.
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+None.
+ITEM 2. PROPERTIES.
+The Company’s principal executive office is located at 820 - 1130 West Pender Street, Vancouver, BC V6E 4A4, Canada, which is also the principal office of the Company’s Subsidiary. The Company also maintains a virtual office at 123 W. Nye Ln, Suite 446, Carson City, NV 89706, USA. In addition to these offices, the Company does not currently maintain any other facilities and does not anticipate the need for additional facilities at any time in the foreseeable future.
+ITEM 3. LEGAL PROCEEDINGS.
+The Company is not a party to any pending legal proceedings and, to the best of its knowledge, none of its properties or assets are the subject of any pending legal proceedings.
+ITEM 4. MINE SAFETY DISCLOSURES.
+Not applicable.
+14
+PART II
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+MARKET INFORMATION
+Quotations for the Company’s common stock are entered on the OTC Link alternative trading system. Until November 5, 2024, the common stock was trading under the symbol “CMXC”. On November 1, 2024, the Company completed a corporate name change from “Cell MedX Corp.” to “Stimcell Energetics Inc.” and completed a reverse split of its common stock on a 1-for-15 share basis (the “Reverse Split”). As a result of the Reverse Split, on November 5, 2024, the Company’s common stock traded under the symbol “CMXCD” for a period of 20 business days, and as of November 25, 2024, the common stock began trading under its current symbol “STME”.
+The table below gives the highest and lowest share price for each fiscal quarter for the last two fiscal years. The share price information was obtained from Yahoo! Finance.
+High & Low Bids
+Period ended
+High
+Low
+August 31, 2023
+$0.75
+$0.11
+November 30, 2023
+$0.77
+$0.17
+February 29, 2024
+$1.19
+$0.11
+May 31, 2024
+$0.72
+$0.32
+August 31, 2024
+$0.69
+$0.09
+November 30, 2024
+$0.53
+$0.00
+February 28, 2025
+$0.59
+$0.05
+May 31, 2025
+$0.47
+$0.11
+As of the date of this Annual Report on Form 10-K, the Company’s securities trade on the OTCID operated by OTC Markets.
+HOLDERS OF RECORD
+As of August 29, 2025, the Company had approximately 74 holders of record, according to a shareholders’ list provided by the Company’s transfer agent as of that date. The number of registered shareholders does not include the beneficial owners of common stock held in street name. The transfer agent for Stimcell’s common stock is Pacific Stock Transfer Company with an address at 6725 Via Austi Pkwy, Suite 300 Las Vegas, NV 89119, and their telephone number is 702-361-3033.
+DIVIDENDS
+The Company has not paid any cash dividends on its common stock since its inception and does not anticipate paying any cash dividends in the foreseeable future. The Company plans to retain its earnings, if any, to provide funds for the expansion of its business.
+The Company’s Articles of Incorporation and Bylaws do not contain any restrictions limiting its ability to declare dividends. Section 78.288 of the Nevada Revised Statutes prohibits the Company from declaring dividends where, after giving effect to the distribution of the dividend:
+(a)the Company would not be able to pay its debts as they become due in the usual course of business; or
+(b)the Company’s total assets would be less than the sum of its total liabilities plus the amount that would be needed, if the Company would be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of stockholders who may have preferential rights and whose preferential rights are superior to those receiving the distribution.
+15
+RECENT SALES OF UNREGISTERED SECURITIES
+On March 24, 2025, the Company issued 75,000 shares of its common stock in settlement of $15,000 owed to one of its vendors. The shares were issued to U.S. person pursuant to the provisions of Rule 506(b) of Regulation D of the Act on the basis that the subscriber was an “accredited investor” as that term is defined under Regulation D of the Act.
+On March 18, 2025, the Company entered into an agreement with an investor relations and public relations firm to provide services for an eight-month term, commencing on the same date. Under the Agreement, the Company agreed to issue the consultant 125,000 shares in the Company’s common stock per month for services rendered at a deemed price of $0.20 per share over the eight-month service period for a total consideration of $200,000. As of May 31, 2025, the Company issued a total of 250,000. As of the date of this Annual Report on Form 10-K, the Company issued an additional 375,000 shares under the Agreement. The shares are being issued pursuant to the provisions of Regulation S of the United States Securities Act of 1933, as amended (the “Act”), as the consultant is not a resident of the United States and is otherwise not a “U.S. Person” as that term is defined in Rule 902(k) of Regulation S of the Act.
+PENNY STOCK RULES
+The SEC has adopted regulations that regulate broker-dealer practices in connection with transactions in “penny stocks.” “Penny stocks” are generally defined as being any equity security that has a market price of less than $5.00 per share, subject to certain exceptions. These rules require that any broker-dealer who recommends the common stock of the Company to persons other than prior customers and accredited investors, must, prior to the sale, make a special written suitability determination for the purchaser and receive the purchaser’s written agreement to execute the transaction. Unless an exception is available, the regulations require the delivery, prior to any transaction involving a penny stock, of a disclosure schedule explaining the penny stock market and the risks associated with trading in the penny stock market. In addition, broker-dealers must disclose commissions payable to both the broker-dealer and the registered representative and current quotations for the securities they offer. The additional burdens imposed upon broker-dealers by such requirements may discourage broker-dealers from effecting transactions in the securities of the Company, which could severely limit their market price and liquidity. The application of the “penny stock” rules may affect investor’s ability to resell the Company’s securities.
+ITEM 6. SELECTED FINANCIAL DATA.
+As a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and Item 10(f) of Regulation SK, the Company is not required to provide the information required under this item.
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+Cautionary Statement Regarding Forward-Looking Statements
+Certain statements contained in this Annual Report on Form 10-K constitute “forward-looking statements”. These statements, identified by words such as “plan,” “anticipate,” “believe,” “estimate,” “should,” “expect” and similar expressions include the Company’s expectations and objectives regarding its future financial position, operating results and business strategy. These statements reflect the current views of management with respect to future events and are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements, or industry results, to be materially different from those described in the forward-looking statements.
+Such risks and uncertainties include those set forth under this caption “Management’s Discussion and Analysis” and elsewhere in this Form 10-K. The Company does not intend to update the forward-looking information to reflect actual results or changes in the factors affecting such forward-looking information. The Company advises its current and prospective shareholders to carefully review the reports and documents it files from time to time with the United States Securities and Exchange Commission (the “SEC”).
+General
+The inclusion of supplementary analytical and related information herein may require the Company to make estimates and assumptions to enable it to fairly present, in all material respects, the analysis of trends and expectations with respect to the Company’s results of operations and financial position taken as a whole. Actual results may vary from the estimates and assumptions made.
+16
+Results of Operation
+Year Ended
+May 31,
+Percentage
+Increase /
+2025
+2024
+(Decrease)
+Operating expenses
+Consulting fees
+$
+137,488
+$
+129,956
+5.8%
+Foreign exchange loss
+17,157
+7,082
+142.3%
+General and administrative expenses
+213,452
+116,353
+83.5%
+Management fees
+90,000
+37,500
+140.0%
+Research and development costs
+64,009
+(22,539)
+384.0%
+Total operating expenses
+522,106
+268,352
+94.6%
+Other items
+Forgiveness of debt
+(5,931)
+187,517
+(103.2)%
+Interest
+(38,256)
+(61,651)
+(37.9)%
+Net loss
+$
+(566,293)
+$
+(142,486)
+297.4%
+Revenues
+During the years ended May 31, 2025 and 2024, the Company did not generate any revenue. As of the date of this Annual Report on Form 10-K, the Company does not have any revenue-generating activities associated with eBalance® Systems and the technology underlying these systems.
+Operating Expenses
+During the year ended May 31, 2025, the Company’s operating expenses increased by 94.6% from $268,352 incurred during the year ended May 31, 2024, to $522,106 incurred during the year ended May 31, 2025. The most significant changes were as follows:
+·Research and development fees for the year ended May 31, 2025, increased by $86,548, or 384.0%, from a recapture of $22,539 incurred during the year ended May 31, 2024, to $64,009 the Company incurred during the year ended May 31, 2025. The increase in research and development fees during the year ended May 31, 2025, was associated with the Company’s decision to redesign the eBalance® Home device into a compact, affordable consumer unit optimized for home use, which resulted in an engagement of ADM Tronics Unlimited, Inc., a leader in electronic medical device engineering, who started working on the project in February of 2025. During the comparative year ended May 31, 2024, the development of the eBalance® devices was suspended due to a lack of funding and unfavorable financial position.
+·During the year ended May 31, 2025, management fees increased to $90,000, as compared to $37,500 the Company incurred during the year ended May 31, 2024.
+·Consulting fees for the year ended May 31, 2025, increased by $7,532, or 5.8%, from $129,956 incurred during the year ended May 31, 2024, to $137,488 incurred during the year ended May 31, 2025.
+·General and administrative expenses for the year ended May 31, 2025, increased by $97,099, or 83.5%, from $116,353 incurred during the year ended May 31, 2024, to $213,452 incurred during the year ended May 31, 2025. The largest factors that contributed to this change were associated with a $130,065 increase in corporate communications to $133,436 spent during the year ended May 31, 2025, and an $8,435 increase in accounting and audit fees to $46,301. These increases were in part offset by a $30,222 decrease in professional fees to $10,805, an $8,025 decrease in filing and regulatory fees to $18,705, and a $3,150 decrease in office expenses to $3,188.
+Other Items
+During the year ended May 31, 2025, the Company accrued $38,256 (May 31, 2024 - $61,651) in interest associated with the outstanding notes and vendor payables.
+17
+During the year ended May 31, 2025, the Company entered into a debt settlement agreement to convert $15,000 into shares of common stock at a price of $0.20 per share for an aggregate of 75,000 shares of common stock. The Company recognized $7,500 loss on conversion of debt. This loss was in part offset by $1,569 debt forgiveness associated with the amounts due to certain vendors which exceeded the statute of limitations.
+On December 18, 2023, the Company entered into debt settlement agreements to convert an aggregate amount of $1,622,693 into shares of common stock at a price of $0.105 per share for an aggregate of 15,454,221 shares of common stock. Simultaneously with the conversion of debt into shares, certain debt holders agreed to waive the accrued interest on the principal amount due under the notes payable, which resulted in a $100,186 gain on forgiveness of debt for the year ended May 31, 2024. Furthermore, the Company discharged outstanding debt to specific vendors due to the balances exceeding the statute of limitations, which resulted in an additional gain on forgiveness of debt of $87,331.
+Liquidity and Capital Resources
+Working Capital
+Year Ended
+May 31,
+Percentage
+Increase/
+2025
+2024
+(Decrease)
+Current assets
+$
+21,222
+$
+46,122
+(54.0)%
+Current liabilities
+1,267,508
+872,577
+45.3%
+Working capital deficit
+$
+(1,246,286)
+$
+(826,455)
+50.8%
+As of May 31, 2025, the Company had a cash balance of $14,581, a working capital deficit of $1,246,286 and cash flows used in operations of $141,600 for the year then ended. During the year ended May 31, 2025, the Company funded its operations with $112,858 borrowed from its related parties at 10% annual interest compounded monthly and due on demand.
+The Company did not generate sufficient cash flows from its operating activities to satisfy its cash requirements for the year ended May 31, 2025. The amount of cash generated from the operations to date is significantly less than the Company’s current debt obligations. There is no assurance that the Company will be able to generate sufficient cash from operations to repay the amounts owing under the outstanding notes and advances payable, or to service other debt obligations.  If the Company is unable to generate sufficient cash flow from operations to repay the amounts owing when due, it may be required to raise additional financing from other sources. The outcome of these matters cannot be predicted with any certainty at this time and raises substantial doubt that the Company will be able to continue as a going concern.
+Cash Flows
+Year Ended
+May 31,
+2025
+2024
+Cash flows used in operating activities
+$
+(141,600)
+$
+(145,898)
+Cash flows provided by financing activities
+112,858
+91,033
+Effects of foreign currency exchange on cash
+(92)
+(15)
+Net decrease in cash during the year
+$
+(28,834)
+$
+(54,880)
+Net Cash Used in Operating Activities
+Net cash used in operating activities during the year ended May 31, 2025, was $141,600. This cash was primarily used to cover cash operating expenses of $399,015, which were calculated by reducing a net loss of $566,293 by the non-cash items totaling $167,278, to decrease accrued liabilities by $1,108 and to increase other current assets by $3,930. These uses of cash were offset by a $219,596 increase in amounts due to related parties and a $42,857 increase in accounts payable.
+Net cash used in operating activities during the year ended May 31, 2024, was $145,898. This cash was primarily used to cover cash operating expenses of $261,972, which were calculated as a net loss of $142,486, increased by the non-
+18
+cash items totaling $119,486, and to decrease accrued liabilities by $8,500. These uses of cash were offset by a $75,546 increase in amounts due to related parties, a $46,750 increase to accounts payable, and a $2,278 decrease in other current assets.
+Non-cash transactions
+During the years ended May 31, 2025 and 2024, net loss was affected by the following expenses that did not have any impact on cash used in operations:
+·The Company incurred $107,750 in investor relations activities, which were paid for through the issuance of common shares;
+·$5,931 loss on forgiveness of debt (May 31, 2024 - $187,517 - gain), which was associated with conversion of certain debt to shares at a loss of $7,500, which was in part offset with a $1,569 gain on forgiveness of debt that exceeded the statute of limitations;
+·$31,515 (May 31, 2024 - $49,927) in interest accrued on the outstanding notes due to related parties;
+·$6,741 (May 31, 2024 - $11,724) in interest accrued on the vendor payables; and
+·$15,341 in unrealized foreign exchange loss (May 31, 2024 - $6,380), which resulted from fluctuations of the Canadian dollar, the functional currency of Cell MedX Canada, in relation to the US dollar, the functional currency of the parent company, being also the Company’s reporting currency.
+Net Cash Provided by Financing Activities
+During the year ended May 31, 2025, the Company borrowed a total of $60,000 from Mr. Vahabzadeh, the Company’s director, in exchange for 10% notes payable due on demand. In addition, the Company borrowed $26,413 from Mr. Richard Jeffs, the Company’s significant shareholder, and a further $25,747 from Mrs. Susan Jeffs, the spouse of Mr. Richard Jeffs, under revolving credit lines, which accumulate interest at 10% per annum compounded monthly and are due on demand. Mr. Jeffs advanced the Company an additional $698 in exchange for a 10% note payable due on demand.
+During the year ended May 31, 2024, the Company received $10,000 from Mr. Vahabzadeh, the Company’s director, and an additional $10,000 from Mr. Ahdoot in exchange for notes payable due on demand and accumulating interest at 10% per annum. The Company repaid $3,967 in outstanding balance due under the note payable issued to its former VP of Technology and Operations. In addition, the Company received $75,000 in subscriptions to units of its common stock as part of the non-brokered private placement financing that was closed on March 12, 2024. Mr. Vahabzadeh and his spouse participated in the offering acquiring a total of 66,667 Units for $30,000, and Mr. Ahdoot, the Company’s significant shareholder, acquired 55,556 Units for $25,000.
+Net Cash Used in Investing Activities
+The Company did not have any investing activities during the years ended May 31, 2025 and 2024.
+Going Concern
+The notes to the Company’s consolidated financial statements as at May 31, 2025, disclose an uncertain ability for the Company to continue as a going concern. The Company’s current business operations are in an early development stage and as such, its ability to generate revenue from the operations is very minimal. The Company's research and development as well as marketing plans require large capital expenditures. Due to the financial difficulties the Company had faced, the research and development plans associated with the eBalance® technology were temporarily abandoned. In February 2025, the Company engaged ADM Tronics Unlimited, Inc., a leader in electronic medical device engineering, to redesign eBalance® microcurrent device, transforming it into a compact consumer unit, optimized for home use. The project is expected to span approximately nine months. Management is planning to support its operations as well as redesign of the eBalance® microcurrent device through equity or debt financing.
+As at May 31, 2025, the Company had accumulated a deficit of $10,861,556 since inception and additional funding will be required to support the operations. The Company’s continuation as a going concern depends upon the continued
+19
+financial support of its shareholders, its ability to obtain necessary debt or equity financing to continue operations, and the attainment of profitable operations. The consolidated financial statements for the year ended May 31, 2025, do not give effect to any adjustments that would be necessary should the Company be unable to continue as a going concern and therefore be required to realize its assets and discharge its liabilities in other than the normal course of business and at amounts different from those reflected in the Company’s financial statements.
+Off-Balance Sheet Arrangements
+None.
+Critical Accounting Policies
+An appreciation of the Company’s significant accounting policies is necessary to understand its financial results. These policies may require management to make difficult and subjective judgments regarding uncertainties, and as a result, such estimates may significantly impact the financial results. The precision of these estimates and the likelihood of future changes depend on a number of underlying variables and a range of possible outcomes. The Company’s significant accounting policies are disclosed in Note 2 to the consolidated financial statements for the year ended May 31, 2025, which are included in this Annual report on Form 10-K. These accounting policies as well as estimation methods have been applied consistently.
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and in Item 10(f) of Regulation SK and are not required to provide the information required under this item.
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+Index to Financial Statements
+Page No.
+Financial Statements
+Report of Independent Registered Public Accounting Firm
+F-1
+Consolidated Balance Sheets as of May 31, 2025 and 2024
+F-3
+Consolidated Statements of Operations for the years ended May 31, 2025 and 2024
+F-4
+Consolidated Statement of Stockholders’ Deficit for the years ended May 31, 2025 and 2024
+F-5
+Consolidated Statements of Cash Flows for the years ended May 31, 2025 and 2024
+F-6
+Notes to the Consolidated Financial Statements
+F-7
+20
+Report of Independent Registered Public Accounting Firm
+To the shareholders and the board of directors of Stimcell Energetics Inc. (formerly, Cell Medx Corp.)
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheets of Stimcell Energetics Inc. (the "Company") as of May 31, 2025 and 2024, the related consolidated statements of operations, stockholders' deficit and cash flows for the years then ended, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of May 31, 2025 and 2024, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern.  As discussed in Note 1 to the financial statements, the Company has not generated revenues since inception, has incurred losses in developing its business, and further losses are anticipated.  The Company requires additional funds to meet its obligations and the costs of its operations.  These factors raise substantial doubt about the Company’s ability to continue as a going concern. Management’s plans in this regard are described in Note 1.  The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting in accordance with the standards of the PCAOB. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion in accordance with the standards of the PCAOB.
+F-1
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters.
+/s/ DMCL LLP
+DALE MATHESON CARR-HILTON LABONTE LLP
+CHARTERED PROFESSIONAL ACCOUNTANTS
+We have served as the Company’s auditor since 2015
+Vancouver, Canada (PCAOB ID 1173)
+August 29, 2025
+F-2
+STIMCELL ENERGETICS INC.
+(Formerly, CELL MEDX CORP.)
+CONSOLIDATED BALANCE SHEETS
+(EXPRESSED IN US DOLLARS)
+May 31, 2025
+May 31, 2024
+ASSETS
+Current assets
+Cash
+$
+14,581
+$
+43,415
+Other current assets
+6,641
+2,707
+Total assets
+$
+21,222
+$
+46,122
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Liabilities
+Accounts payable
+$
+322,144
+$
+288,891
+Accrued liabilities
+26,954
+28,058
+Due to related parties
+448,536
+231,138
+Notes and advances due to related parties
+469,874
+324,490
+Total liabilities
+1,267,508
+872,577
+STOCKHOLDERS’ DEFICIT
+Common stock, $0.001 par value, 500,000,000 shares
+authorized; 20,141,272 and 19,816,272 shares issued
+and outstanding at May 31, 2025 and 2024, respectively
+20,141
+19,816
+Additional paid-in capital
+9,146,591
+9,013,501
+Reserves
+366,493
+366,493
+Accumulated deficit
+(10,861,556)
+(10,295,263)
+Accumulated other comprehensive income
+82,045
+68,998
+Total stockholders’ deficit
+(1,246,286)
+(826,455)
+Total liabilities and stockholders’ deficit
+$
+21,222
+$
+46,122
+The accompanying notes are an integral part of these consolidated financial statements.
+F-3
+STIMCELL ENERGETICS INC.
+(Formerly, CELL MEDX CORP.)
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(EXPRESSED IN US DOLLARS)
+Year Ended
+May 31,
+2025
+2024
+Operating expenses
+Consulting fees
+$
+137,488
+$
+129,956
+Foreign exchange loss
+17,157
+7,082
+General and administrative expenses
+213,452
+116,353
+Management fees
+90,000
+37,500
+Research and development costs
+64,009
+(22,539)
+Total operating expenses
+522,106
+268,352
+Other items
+Forgiveness of debt
+(5,931)
+187,517
+Interest
+(38,256)
+(61,651)
+Net loss
+(566,293)
+(142,486)
+Foreign exchange translation income
+13,047
+3,818
+Comprehensive loss
+$
+(553,246)
+$
+(138,668)
+Net loss per common share
+Basic and diluted
+$
+(0.03)
+$
+(0.01)
+Weighted average number of shares outstanding
+Basic and diluted
+19,843,258
+10,733,896
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+STIMCELL ENERGETICS INC.
+(Formerly, CELL MEDX CORP.)
+CONSOLIDATED STATEMENT OF STOCKHOLDERS’ DEFICIT
+(EXPRESSED IN US DOLLARS)
+Common Stock
+Shares
+Amount
+Additional
+Paid-in
+Capital
+Reserves
+Deficit
+Accumulated
+Accumulated
+Other
+Comprehensive
+Income
+Total
+Balance - May 31, 2023
+4,195,384
+$
+4,195
+$
+7,331,429
+$
+366,493
+$
+(10,152,777)
+$
+65,180
+$
+(2,385,480)
+Shares issued for debt
+15,454,221
+15,454
+1,607,239
+-
+-
+-
+1,622,693
+Shares issued for cash
+166,667
+167
+74,833
+-
+-
+-
+75,000
+Net loss for the year ended May 31, 2024
+-
+-
+-
+-
+(142,486)
+-
+(142,486)
+Translation to reporting currency
+-
+-
+-
+-
+-
+3,818
+3,818
+Balance - May 31, 2024
+19,816,272
+19,816
+9,013,501
+366,493
+(10,295,263)
+68,998
+(826,455)
+Shares issued for debt
+75,000
+75
+22,425
+-
+-
+-
+22,500
+Shares issued for service
+250,000
+250
+107,500
+-
+-
+-
+107,750
+Debt forgiven by shareholders
+-
+-
+3,165
+-
+-
+-
+3,165
+Net loss for the year ended May 31, 2025
+-
+-
+-
+-
+(566,293)
+-
+(566,293)
+Translation to reporting currency
+-
+-
+-
+-
+-
+13,047
+13,047
+Balance - May 31, 2025
+20,141,272
+$
+20,141
+$
+9,146,591
+$
+366,493
+$
+(10,861,556)
+$
+82,045
+$
+(1,246,286)
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+STIMCELL ENERGETICS INC.
+(Formerly, CELL MEDX CORP.)
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(EXPRESSED IN US DOLLARS)
+Year Ended
+May 31,
+2025
+2024
+Cash flows used in operating activities
+Net loss
+$
+(566,293)
+$
+(142,486)
+Adjustments to reconcile net loss to net cash used in operating activities
+Accrued interest on notes payable
+31,515
+49,927
+Accrued interest on vendor payables
+6,741
+11,724
+Loss (gain) on forgiveness of debt
+5,931
+(187,517)
+Non-cash investor relations fees
+107,750
+-
+Unrealized foreign exchange
+15,341
+6,380
+Changes in operating assets and liabilities
+Other current assets
+(3,930)
+2,278
+Accounts payable
+42,857
+46,750
+Accrued liabilities
+(1,108)
+(8,500)
+Due to related parties
+219,596
+75,546
+Net cash flows used in operating activities
+(141,600)
+(145,898)
+Cash flows provided by financing activities
+Proceeds from notes due to related parties, net
+112,858
+16,033
+Proceeds from subscription to shares
+-
+75,000
+Net cash provided by financing activities
+112,858
+91,033
+Effects of foreign currency exchange on cash
+(92)
+(15)
+Decrease in cash
+(28,834)
+(54,880)
+Cash, beginning
+43,415
+98,295
+Cash, ending
+$
+14,581
+$
+43,415
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6
+STIMCELL ENERGETICS INC.
+(Formerly, CELL MEDX CORP.)
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+MAY 31, 2025
+NOTE 1 - ORGANIZATION AND NATURE OF OPERATIONS
+Stimcell Energetics Inc. (formerly, Cell MedX Corp.) (“Stimcell”, or the “Company”) was incorporated under the laws of the State of Nevada. On April 26, 2016, the Company formed a subsidiary, Cell MedX (Canada) Corp. (“Cell MedX Canada” or the “Subsidiary”), under the laws of the Province of British Columbia. Stimcell is a biotech company focused on the discovery, development, and commercialization of therapeutic and non-therapeutic products that promote general wellness.
+Effective November 1, 2024, the Company completed a 1-for-15 reverse split (the “Reverse Split”) of its common stock. As a result of the Reverse Split, the Company’s authorized capital was decreased from 7,500,000,000 shares of common stock with par value of $0.001, of which 297,236,373 shares were outstanding immediately prior to the Reverse Split, to 500,000,000 shares of common stock with par value of $0.001, of which 19,816,272 were outstanding. All share and per-share amounts in these consolidated financial statements have been retrospectively adjusted.
+Concurrent with the Reverse Split, the Company amended its articles of incorporation to change the Company’s name from “Cell MedX Corp.” to “Stimcell Energetics Inc.” (the “Name Change”).
+Going concern
+The accompanying consolidated financial statements have been prepared assuming the Company will continue as a going concern. As of May 31, 2025, the Company has not achieved profitable operations and has accumulated a deficit of $10,861,556. Continuation as a going concern is dependent upon the ability of the Company to obtain the necessary financing to meet obligations and pay its liabilities arising from normal business operations when they come due, and ultimately upon its ability to achieve profitable operations. The outcome of these matters cannot be predicted with certainty at this time, which raises substantial doubt that the Company will be able to continue as a going concern. These financial statements do not include any adjustments to the amounts and classification of assets and liabilities that may be necessary should the Company be unable to continue as a going concern. Management intends to obtain additional funding by borrowing funds from its directors and officers, issuing promissory notes, and/or private placement of common stock.
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of presentation
+The audited consolidated financial statements of the Company have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and are presented in US dollars.
+Principles of consolidation
+The consolidated financial statements include the accounts of the Company and its subsidiary, Cell MedX Canada. On consolidation, all intercompany balances and transactions are eliminated.
+Accounting estimates
+The preparation of these consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. The Company regularly evaluates estimates and assumptions related to the fair value of stock-based compensation, fair value of financial instruments and deferred income tax asset valuation allowances. The Company bases its estimates and assumptions on current facts, historical experience and various other factors that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. The actual results experienced by the Company may differ materially and adversely from the Company’s estimates. To the extent there are material differences between the estimates and the actual results, future results of operations will be affected.
+F-7
+Foreign currency translations and transactions
+The Company’s functional and reporting currency is the United States dollar. Foreign denominated monetary assets and liabilities are translated into their U.S. dollar equivalents using foreign exchange rates which prevailed at the balance sheet date. Revenues and expenses are translated at average rates of exchange during the period. Related translation adjustments as well as gains or losses resulting from foreign currency transactions are reported as part of operating expenses on the statement of operations.
+The functional currency of Cell MedX Canada is the Canadian dollar. On consolidation, the subsidiary translates its assets and liabilities to U.S. dollars using foreign exchange rates which prevailed at the balance sheet date, and translates its revenues and expenses using average exchange rates during the period. Gains and losses arising on settlement of foreign currency denominated transactions or balances are included in other comprehensive income/loss. The Company has not, to the date of these financial statements, entered into derivative instruments to offset the impact of foreign currency fluctuations.
+Research and development costs
+The Company expenses all in-house research and development costs in the period they were incurred. Acquired research and development costs are capitalized to the extent that the sum of the undiscounted cash flows expected to result from the asset can be reasonably estimated or may be verified by an appraisal in certain instances. In all other instances, the costs are expensed in the period in which they were incurred. Acquired research and development costs for a particular research and development project that have no future economic value are expensed as research and development costs at the time the costs are incurred.
+Income taxes
+Income tax expense is based on pre-tax financial accounting income. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of assets and liabilities and their respective tax bases. Deferred tax assets, including tax loss and credit carry forwards, and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. Deferred income tax expense represents the change during the period in the deferred tax assets and deferred tax liabilities. The components of the deferred tax assets and liabilities are individually classified as current and non-current based on their characteristics. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not some portion or all of the deferred tax assets will not be realized.
+Income/Loss per share
+The Company’s basic income/loss per share (“EPS”) is calculated by dividing its net income/loss available to common stockholders by the weighted average number of common shares outstanding for the period, excluding unvested portion of restricted stock with performance conditions.
+The Company’s diluted EPS is calculated by dividing its net income/loss available to common shareholders by the diluted weighted average number of shares outstanding during the period. The diluted weighted average number of shares outstanding is the basic weighted number of shares adjusted for any potentially dilutive debt or equity.
+At May 31, 2025 and 2024, the securities that could have a dilutive effect included share purchase warrants to acquire up to 166,667 common shares of the Company. For the years ended May 31, 2025 and 2024, the impact of the Company’s outstanding share purchase warrants would have been anti-dilutive. Therefore, they were excluded from the calculation of diluted EPS.
+Fair value measurements
+The carrying amounts of cash, other current assets, accounts payable, accrued liabilities, notes and advances payable, and amounts due to related parties approximate their fair values due to the short-term nature and/or the terms of these instruments. The fair value hierarchy under GAAP prioritizes the inputs used in valuation techniques into three levels:
+Level 1 -quoted prices (unadjusted) in active markets for identical assets or liabilities;
+Level 2 -observable inputs other than Level 1, quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, and model-derived prices whose inputs are observable or whose significant value drivers are observable; and
+F-8
+Level 3 -assets and liabilities whose significant value drivers are unobservable by little or no market activity and that are significant to the fair value of the assets or liabilities.
+Certain assets and liabilities are measured at fair value on a nonrecurring basis; that is, the instruments are not measured at fair value on an ongoing basis but are subject to fair value adjustments only in certain circumstances (for example, when there is evidence of impairment). There were no assets or liabilities measured at fair value on a nonrecurring basis during the years ended May 31, 2025 and 2024.
+Stock options and other stock-based compensation
+The Company accounts for the granting of share purchase options to employees using the fair value method, whereby all awards to employees are recorded at fair value on the date of the grant. The fair value of all share purchase options is expensed over the vesting period with a corresponding increase to additional capital surplus. Upon exercise of share purchase options, the consideration paid by the option holder, together with the amount previously recognized in additional paid-in capital, is recorded as an increase to share capital.
+The Company uses the Black-Scholes Option Pricing Model to calculate the fair value of share purchase options. Option pricing models require the input of highly subjective assumptions, including the expected price volatility. Changes in these assumptions can materially affect the fair value estimate.
+Recent accounting pronouncements
+In December 2023, the FASB issued ASU 2023-09 (Topic 740) Improvements to Income Tax Disclosures. The new guidance is intended to enhance annual income tax disclosures to address investor requests for more information about the tax risks and opportunities present in an entity’s operations. The amendments in this standard require disclosure of additional information in specified categories with respect to the reconciliation of the effective tax rate to the statutory rate (the rate reconciliation) for federal, state, and foreign income taxes. They also require greater detail about individual reconciling items in the rate reconciliation to the extent that the impact of those items exceeds a specified threshold. In addition to new disclosures associated with the rate reconciliation, the amendments in this update require information pertaining to taxes paid (net of refunds received) to be disaggregated for federal, state, and foreign taxes and further disaggregated for specific jurisdictions to the extent the related amounts exceed a quantitative threshold. The amendments in this update are effective on January 1, 2025, for annual periods beginning after December 15, 2024, and early adoption is permitted. The Company does not expect the adoption to have a material impact on the consolidated financial statements and has not yet adopted the standard.
+In November 2024, the FASB issued ASU 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which requires disclosure about the types of costs and expenses included in certain expense captions presented on the income statement. The new disclosure requirements are effective for the Company’s annual periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027, with early adoption permitted. These requirements may be applied either prospectively or retrospectively. The Company is currently evaluating the ASU to determine its impact on our consolidated financial statements and disclosures.
+Management does not believe that any other recently issued, but not yet effective, accounting standards, if currently adopted, would have a material effect on the accompanying financial statements.
+NOTE 3 - RELATED PARTY TRANSACTIONS
+Amounts due to related parties, other than notes payable to related parties (Note 4) at May 31, 2025 and 2024:
+May 31, 2025
+May 31, 2024
+Due to the Chief Executive Officer (“CEO”) and President
+$
+144,237
+$
+37,500
+Due to the Chief Financial Officer (“CFO”)
+8,778
+5,885
+Due to an entity controlled by a director of the Company
+295,521
+184,243
+Due to an entity controlled by a director and a significant shareholder(1)
+-
+3,165
+Due to Live Current Media, Inc. (“LIVC”)(2)
+-
+345
+Due to related parties(3)
+$
+448,536
+$
+231,138
+F-9
+(1)During the year ended May 31, 2025, an entity controlled by a director and a significant shareholder agreed to forgive a total of $3,165 that the Company owed for royalties. The forgiveness of royalties payable was recorded as part of additional paid-in capital.
+(2)LIVC ceased to be a related party during the year ended May 31, 2025.
+(3)The amounts due to related parties are unsecured, due on demand, and bear no interest.
+During the years ended May 31, 2025 and 2024, the Company had the following transactions with related parties:
+May 31, 2025
+May 31, 2024
+Management fees incurred to the CEO, President and director
+$
+90,000
+$
+37,500
+Consulting fees incurred to the CFO
+30,000
+30,000
+Consulting fees incurred to an entity controlled by a director of the Company
+107,488
+99,956
+Total transactions with related parties
+$
+227,488
+$
+167,456
+NOTE 4 - NOTES AND ADVANCES DUE TO RELATED PARTIES
+The tables below summarize the loans and advances due and payable to related parties as at May 31, 2025 and 2024:
+As at May 31, 2025
+Principal
+Outstanding
+Interest Rate
+per Annum
+Accrued
+Interest
+Total Book
+Value
+$
+78,884
+6%
+Related party loans payable (1)
+$
+20,038
+$
+98,923
+311,782
+10%
+Related party loans payable (1)
+48,267
+360,049
+10,902
+0%
+Advances(2)
+-
+10,902
+$
+401,568
+$
+68,305
+$
+469,874
+As at May 31, 2024
+Principal
+Outstanding
+Interest Rate
+per Annum
+Accrued
+Interest
+Total Book
+Value
+$
+79,133
+6%
+Related party loans payable (1)
+$
+14,600
+$
+93,733
+197,333
+10%
+Related party loans payable (1)
+22,424
+219,757
+11,000
+0%
+Advances(2)
+-
+11,000
+$
+287,466
+$
+37,024
+$
+324,490
+(1) Related Party Loans Payable
+As at May 31, 2025, the Company owed a total of $98,923 under 6% notes payable due to related parties (May 31, 2024 - $93,733), of which $20,038 was associated with interest accrued on the principal balances owed under the notes payable (May 31, 2024 - $14,600).
+As at May 31, 2025, the Company owed a total of $360,049 under 10% notes payable due to related parties (May 31, 2024 - $219,757), of which $48,267 was associated with interest accrued on the principal balances owed under the notes payable (May 31, 2024 - $22,424).
+Notes payable with Mr. Richard Jeffs
+As at May 31, 2025, the Company owed a total of $66,693 (May 31, 2024 - $63,376) under the notes payable with Mr. Richard Jeffs, a significant shareholder of the Company and the father of the Company’s CEO and President, Mr. David Jeffs. The notes payable are due on demand and accrue interest at a rate of 6% per annum, compounded monthly. During February 2025, the Company borrowed an additional $26,413 (CAD$37,500) from Mr. Richard Jeffs under an unsecured credit line, which allows the Company to draw up to CAD$100,000 at 10% per annum, and payable on demand.
+On December 7, 2023, Mr. Richard Jeffs notified the Company that he had reassigned the notes payable the Company issued to him totaling $411,000 and CAD$26,800 to Mr. David Jeffs. The total amount reassigned including interest was $477,420. On assignment, the terms of the notes payable did not change, remaining payable on demand, accumulating interest at 6% annual interest compounded monthly.
+F-10
+On December 18, 2023, the Company and Mr. Richard Jeffs entered into a debt settlement agreement, whereas Mr. Richard Jeffs agreed to settle a total of $100,606 the Company owed to him under 6% notes payable into the Company’s common stock at a price of $0.105 per share for an aggregate of 958,152 shares. Mr. Richard Jeffs agreed to forgive the interest accrued on the converted principal totaling $21,455 (Note 7).
+During the year ended May 31, 2025, the Company recorded $4,115 in interest on the notes payable and the funds borrowed under the credit line with Mr. Richard Jeffs (May 31, 2024 - $22,305).
+Notes payable with Mr. David Jeffs
+As of May 31, 2025, the Company owed a total of $47,615 under loan agreements with Mr. David Jeffs, the Company’s CEO, director, and a significant shareholder (May 31, 2024 - $42,502). The loans accrue 10% annual interest, compounded monthly, are unsecured, and are payable on demand. The $30,000 loan was payable on April 24, 2023, and is therefore in default as of the date of these consolidated financial statements. During the year ended May 31, 2025, the Company recorded $4,445 in interest on the principal (May 31, 2024 - $5,440).
+As of May 31, 2025, the Company owed a total of $32,229 under a loan agreement with a company of which Mr. David Jeffs is a director (May 31, 2024 - $30,357). The loan bears interest at 6% per annum compounded monthly, is unsecured, and is payable on demand. During the year ended May 31, 2025, the Company recorded $1,872 in interest on the principal (May 31, 2024 - $1,768).
+On December 7, 2023, Mr. David Jeffs acquired, through reassignment of debt by Mr. Richard Jeffs, a total of $477,420 in notes payable including interest accrued thereon. On assignment, the terms of the notes payable did not change, remaining payable on demand, accumulating interest at 6% annually compounding monthly.
+On December 14, 2023, Mr. David Jeffs notified the Company that he had reassigned a total of $105,000 to two members of his family.
+On December 18, 2023, the Company and Mr. David Jeffs entered into a debt settlement agreement, whereas Mr. David Jeffs agreed to settle a total of $340,718 the Company owed to him under the notes payable into the Company’s common stock at a price of $0.105 per share for an aggregate of 3,244,934 shares. Mr. David Jeffs agreed to forgive the interest accrued on the converted principal totaling $51,128 (Note 7). $105,000 Mr. David Jeffs reassigned to the family members were similarly converted to the Company’s common stock at a price of $0.105 per share for an aggregate of 1,000,000 shares (Note 7).
+Notes payable with Mr. Amir Vahabzadeh
+On November 12, 2024, and March 25, 2025, Mr. Vahabzadeh advanced the Company a total of $60,000 ($30,000 each) in exchange for 10% unsecured notes payable due on demand As at May 31, 2025, the Company owed a total of $185,297 under loan agreements with Mr. Vahabzadeh, a director and a significant shareholder (May 31, 2024 - $111,396). The loans are unsecured and carry a 10% annual interest rate, compounded monthly. A $30,000 note payable included in the total due was payable on April 24, 2023, and, as of the date of these condensed consolidated financial statements, is in default. The remaining notes payable, totaling $130,000, are payable on demand. During the year ended May 31, 2025, the Company recorded $13,901 in interest on the principal (May 31, 2024 - $11,006).
+On December 18, 2023, the Company and Mr. Vahabzadeh entered into a debt settlement agreement, whereas Mr. Vahabzadeh agreed to settle a total of $94,145 the Company owed to him under the notes payable into the Company’s common stock at a price of $0.105 per share for an aggregate of 896,623 shares. Mr. Vahabzadeh agreed to forgive the interest accrued on the converted principal totaling $25,619 (Note 7).
+Notes payable with a significant shareholder
+As at May 31, 2025, the Company owed $72,756 (May 31, 2024 - $65,859) under unsecured notes payable with the Company’s significant shareholder (“Mr. Ahdoot”). The loans are unsecured and carry a 10% annual interest rate, compounded monthly. During the year ended May 31, 2025, the Company recorded $6,897 in interest on the principal (May 31, 2024 - $5,681).
+During the year ended May 31, 2024, Mr. Ahdoot acquired, in a private transaction, $167,000 in debt the Company owed to an entity controlled by the former COO and director of the Company. Mr. Ahdoot agreed to convert the
+F-11
+$167,000 debt into 1,590,476 shares of the Company’s common stock at $0.105 per share, which resulted in Mr. Ahdoot becoming a significant shareholder of the Company (Note 7).
+Notes payable with Mrs. Susan Jeffs
+During the year ended May 31, 2025, the Company borrowed $25,747 (CAD$36,500) from Mrs. Susan Jeffs under a non-secured credit line, which allows the Company to draw up to CAD$100,000 at 10% per annum and is payable on demand. During the year ended May 31, 2025, the Company recorded $285 in interest on funds borrowed under the credit line with Mrs. Susan Jeffs (May 31, 2024 - $Nil).
+As at May 31, 2024, the Company had no amount due under the loan agreement with Susan Jeffs, wife of Mr. Richard Jeffs and mother of Mr. David Jeffs, as a result of a debt settlement agreement between the Company and Mrs. Jeffs, whereas Mrs. Jeffs agreed to settle a total of $11,127 the Company owed to her under an unsecured 6% note payable due on demand, into the Company’s common stock at a price of $0.11 per share for an aggregate of 105,977 shares. Mrs. Jeffs agreed to forgive the interest accrued on the converted principal totaling $1,984 (Note 5).
+(2) Advances Payable
+As at May 31, 2025, the Company owed a total of $10,902 (May 31, 2024 - $11,000) for an advance the Company received in its fiscal 2020 year from an entity controlled by Mr. David Jeffs. The advance is non-interest-bearing, unsecured, and payable on demand.
+On December 18, 2023, the Company entered into separate debt settlement agreements with Da Costa Management Corp (“DCM”), a company owned by John Da Costa, a director and a former COO of the Company, and Mr. David Jeffs, whereas DCM and Mr. David Jeffs agreed to settle a total of $28,722 the Company owed to DCM and Mr. David Jeffs into the Company’s common stock at a price of $0.105 per share for an aggregate of 273,541 shares (Note 7).
+NOTE 5 - DEBT CONVERSION AND FORGIVENESS OF DEBT
+On December 18, 2023, the Company entered into agreements to settle debt in the aggregate amount of $1,622,693 for shares of the Company’s common stock at a price of $0.105 per share for an aggregate of 15,454,221 shares of common stock (the “Debt Settlement”). Issuance of the common stock as part of the Debt Settlement resulted in a change in control of the Company (Note 7). As part of the Debt Settlement, Mr. David Jeffs acquired 4,930,648 shares of the Company’s common stock, while family members of Mr. David Jeffs acquired an additional 2,921,272 shares of common stock. Mr. Amir Vahabzadeh acquired 4,117,010 shares of common stock, while Mr. Vahabzadeh’s spouse acquired an additional 1,578,416 shares of common stock.
+The following table shows the details of Debt Settlement.
+Amount
+converted
+Shares issued
+on conversion
+Debt converted with Mr. David Jeffs
+$
+517,718
+4,930,648
+Debt converted with Mr. Vahabzadeh
+432,286
+4,117,010
+Debt converted with the spouse of Mr. Vahabzadeh
+165,734
+1,578,416
+Debt converted with family members of Mr. David Jeffs
+195,000
+1,857,143
+Debt converted with Mrs. Susan Jeffs
+11,127
+105,977
+Debt converted with Mr. Richard Jeffs
+100,606
+958,152
+Debt converted with Mr. Sam Ahdoot
+167,000
+1,590,476
+Debt converted with other debt holders
+21,000
+200,000
+Debt converted with the former director and CEO
+8,500
+80,952
+Debt converted with a company controlled by a director and former COO
+3,722
+35,446
+Total
+$
+1,622,693
+15,454,221
+F-12
+Simultaneously with the conversion of debt into shares, certain debt holders agreed to waive the accrued interest on the principal amount due under the notes payable. Furthermore, the Company discharged outstanding debts to specific vendors due to the balances exceeding the statute of limitations. The following table provides further details on the gain recognized as a result of forgiveness of debt:
+Amount
+forgiven
+Accrued interest due to Mr. Richard Jeffs
+$
+21,455
+Accrued interest due to Mr. David Jeffs
+51,128
+Accrued interest due to Mrs. Susan Jeffs
+1,984
+Accrued interest due to Mr. Vahabzadeh
+25,619
+Sub-total accrued interest recognized as gain on forgiveness of debt
+100,186
+Vendor payables that have exceeded the statute of limitations
+87,331
+Total
+$
+187,517
+NOTE 6 - OTHER CURRENT ASSETS
+As at May 31, 2025, other current assets consisted of $8,400 in prepaid expenses (May 31, 2024 - $900) and $3,241 in receivables associated with GST Cell MedX Canada paid on taxable supplies (May 31, 2024 - $1,807).
+NOTE 7 - SHARE CAPITAL
+Common stock issued during the year ended May 31, 2025
+On March 24, 2025, the Company issued 75,000 shares of common stock in settlement of $15,000 owed to one of its vendors. At the time of the transaction, the fair value of the shares was $0.30; therefore, the Company recognized $7,500 loss on the settlement of debt.
+On March 18, 2025, the Company entered into an agreement with an investor relations and public relations firm to provide services for an eight-month term, commencing on the same date. Under the Agreement, the Company agreed to issue the consultant 125,000 shares in the Company’s common stock per month for services rendered at a deemed price of $0.20 per share over the eight-month service period for a total consideration of $200,000. As of May 31, 2025, the Company issued a total of 250,000 shares valued at $107,750, which was recognized as part of corporate communications fees included in general and administrative expenses. Subsequent to May 31, 2025, the Company issued an additional 375,000 shares valued at $120,000.
+Common stock issued during the year ended May 31, 2024
+On December 18, 2023, the Company issued an aggregate of 15,454,221 shares of common stock in settlement of $1,622,693 of debt at $0.105 per share. Issuance of common stock as part of the Debt Settlement resulted in a change in control of the Company (Note 5).
+On March 12, 2024, the Company closed a non-brokered private placement offering (the “Offering”) by issuing 166,667 Units of its common stock at $0.45 per Unit for total gross proceeds of $75,000. Each Unit sold under the Offering consisted of one common share of the Company and one share purchase warrant (the “Warrant”) expiring on March 12, 2026. Each Warrant can be exercised into one share of the Company’s common stock at $0.60 per share, until September 12, 2024, and at $0.75 per share during the remaining life of the Warrant. As part of the Offering, 55,556 Units were acquired by Mr. Vahabzadeh, Mr. Vahabzadeh’s spouse acquired 11,111 Units, and Mr. Ahdoot acquired a further 55,556 Units.
+Options
+As at May 31, 2025 and 2024, the Company did not have any share purchase options issued and exercisable.
+F-13
+Warrants
+The changes in the number of warrants outstanding during the years ended May 31, 2025 and 2024, are as follows:
+Year ended
+May 31, 2025
+Year ended
+May 31, 2024
+Number of
+warrants
+Weighted
+average
+exercise price
+Number of
+warrants
+Weighted
+average
+exercise price
+Warrants outstanding, beginning
+166,667
+$
+0.75
+-
+$
+n/a
+Warrants issued
+-
+$
+-
+166,667
+$
+0.75
+Warrants outstanding, ending
+166,667
+$
+0.75
+166,667
+$
+0.75
+The warrants issued and outstanding as at May 31, 2025, had an exercise price of $0.60 per share until September 12, 2024, as of September 12, 2024, the exercise price increased to $0.75 per share. These warrants are set to expire on March 12, 2026.
+NOTE 8 - RESEARCH AND DEVELOPMENT
+In February 2025, the Company recommenced the work on redesigning its eBalance® microcurrent device under a new partnership with ADM Tronics Unlimited, Inc. The Company expects the project to take approximately 22 to 34 weeks and to cost between $62,500 and $127,000. As of May 31, 2025, the Company had incurred $64,009 on this project.
+NOTE 9 - INCOME TAXES
+The reported income taxes differ from the amounts obtained by applying statutory rates to the loss before income taxes as follows:
+May 31, 2025
+May 31, 2024
+Net loss
+$
+(566,293)
+$
+(142,486)
+Statutory tax rate
+21%
+21%
+Expected income tax recovery
+(119,000)
+(30,000)
+Effect of foreign exchange
+1,000
+10,000
+Difference in statutory tax rate
+(8,000)
+-
+Permanent difference and other
+23,000
+16,000
+Adjustment to prior year’s provision versus statutory tax returns
+-
+(11,000)
+Change in unrecognized deductible temporary differences
+103,000
+15,000
+Total income tax expense (recovery)
+$
+-
+$
+-
+The Company’s tax-effected future income tax assets and liabilities are estimated as follows:
+May 31, 2025
+May 31, 2024
+Deferred income tax assets (liabilities)
+Net operating losses - US
+$
+1,487,000
+$
+1,411,000
+Net-capital losses - Canada
+492,000
+463,000
+Equipment
+1,000
+3,000
+Less: Unrecognized deferred tax assets
+(1,980,000)
+(1,877,000)
+Net deferred income tax assets
+$
+-
+$
+-
+At May 31, 2025 and 2024, the Company has recorded a valuation allowance for the aggregate of its tax assets as management believes it is more likely than not that the deferred tax asset will not be realized.
+At May 31, 2025, the Company had federal and state net operating loss carry forwards of approximately $7,082,000, $2,054,000 of which expire by 2037. The remaining balance of $5,028,000 will never expire but its utilization is limited to 80% of taxable income in any future year.
+F-14
+As at May 31, 2025, the Company also had non-capital loss carry forwards of approximately $1,886,000 (2024 - $1,716,000) to reduce future Canadian taxable income. These losses expire in 2037 to 2045.
+The Company has evaluated all tax positions for open years and has concluded that they have no material unrecognized tax benefits or penalties. It is not anticipated that unrecognized tax benefits would significantly increase or decrease within 12 months of the reporting date. The Company recognizes interest and penalties related to unrecognized tax benefits in interest expense and penalties within operating expenses. The Company’s federal income tax returns for fiscal years 2022 through 2025 remain open and subject to examination. Tax attributes from prior years can be adjusted during an IRS audit.
+F-15
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+Not applicable
+ITEM 9A. CONTROLS AND PROCEDURES.
+Disclosure Controls and Procedures
+In connection with the preparation of this Annual Report on Form 10-K, an evaluation was carried out by the Company’s management, with the participation of its Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (“Exchange Act”) as of May 31, 2025. Disclosure controls and procedures are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC rules and forms and that such information is accumulated and communicated to management, including Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosures.
+Based on that evaluation, the management concluded, as of the end of the period covered by this report, that the Company’s disclosure controls and procedures were not effective in recording, processing, summarizing, and reporting information required to be disclosed, within the time periods specified in the Securities and Exchange Commission’s rules and forms due to lack of segregation of duties.
+Management’s Report on Internal Controls over Financial Reporting
+Disclosure controls and procedures are designed to ensure that information required to be disclosed in the reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported, within the time period specified in the SEC’s rules and forms. Management is responsible for establishing and maintaining adequate internal control over financial reporting, as required by Section 404 of the Sarbanes-Oxley Act of 2002 (SOX). The Company’s internal control over financial reporting is a process designed under the supervision of the Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the consolidated financial statements for external purposes in accordance with U.S. generally accepted accounting principles. Internal control over financial reporting includes those policies and procedures that:
+·pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the Company’s assets;
+·provide reasonable assurance that transactions are recorded as necessary to permit preparation of the consolidated financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations of management and the Board of Directors; and
+·provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+Management conducted an assessment of the effectiveness of the internal control over financial reporting as of May 31, 2025, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”). As a result of this assessment, it was found that the internal controls cannot be relied upon due to lack of segregation of duties.
+21
+The Company’s independent auditors have not issued an attestation report on management’s assessment of the Company’s internal control over financial reporting. As a result, this Annual Report does not include an attestation report of the independent registered public accounting firm regarding internal control over financial reporting. The Company was not required to have, nor has it, engaged its independent registered public accounting firm to perform an audit of internal control over financial reporting pursuant to the rules of the Securities and Exchange Commission that permit the Company to provide only management’s report in this Annual Report.
+Changes in Internal Controls
+As of the end of the period covered by this report, there have been no changes in the Company’s internal controls over financial reporting (as defined in Rule 13a-15(f) of the Exchange Act) that materially affected, or are reasonably likely to materially affect, the Company’s results of operations.
+ITEM 9B. OTHER INFORMATION
+Not applicable.
+22
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE.
+Directors and Executive Officers
+The directors of the Company hold office until the earlier of (i) the Company’s next annual meeting of the stockholders, (ii) a director’s successor has been elected and qualified, or (iii) a voluntary resignation of a director. The Company’s executive officers are appointed by the Board of Directors and hold office until the resignation or removal by the Board.
+Below table lists the Company’s management team as of May 31, 2025:
+Name
+Age
+Positions
+David Jeffs
+55
+Chief Executive Officer and Director
+Joao (John) Da Costa
+61
+Director
+George Adams
+73
+Director
+Amir Vahabzadeh
+56
+Director
+Yanika Silina
+47
+Chief Financial Officer, Treasurer, and Corporate Secretary
+Set forth below is a brief description of the background and business experience of each of the Company’s executive officers and directors:
+Mr. Jeffs joined the Board of Directors for the Company on December 12, 2023. Mr. Jeffs acted as the Chief Executive Officer, President and director of Live Current Media Inc. (“Live Current”), a technology company, from October 2010 until April 2022 and President and director of Live Current from May 2022 until May 2023. He was also the Chief Executive Officer of Live Current from July 2002 through May 2007 and the President and a director of Live Current from July 2002 through September 2007. During his first tenure as CEO of Live Current, the company was recognized as one of the fastest growing companies in British Columbia for three years running by Business in Vancouver magazine and as one of the fastest growing companies in Canada for two years in a row by Profit500 magazine. Mr. Jeffs graduated from the University of British Columbia with a Bachelor of Arts where he majored in economics.
+Mr. Da Costa has served on the Board of Directors for the Company since June 8, 2020. From June 8, 2020 until November 7, 2023, Mr. Da Costa also served as the Chief Operating Officer of the Company. Mr. Da Costa has more than twenty-five years of experience providing bookkeeping and accounting services to both private and public companies and is the founder and President of Da Costa Management Corp., a company that has provided management and accounting services to public and private companies since August 2003. Mr. Da Costa currently serves as the CFO of Red Metal Resources Ltd., a mineral exploration company listed on the Canadian Securities Exchange and the CFO and a director of Kesselrun Resources Ltd., a mineral exploration company listed on the TSX Venture Exchange.
+Dr. Adams has served on the Board of Directors for the Company since March 23, 2018. Dr. Adams is a scientist, serial entrepreneur and financier. From October 2010 until January 2023, Dr. Adams held the position of Chief Executive Officer of Ventripoint Diagnostics Inc., a medical devices company involved in the development of heart diagnostic devices for patients with heart disease. Dr. Adams has acted as the Executive Chair of Ventripoint Diagnostics since January 2023. His previous positions include CEO of Amorfix Life Sciences (TSX:AMF), Chairman of Sernova Corp (TSXV:SVA) and President and CEO of the UT Innovations Foundation. He has held research and executive positions with Boston Scientific, Pfizer, Corvita Canada Inc. and the University of Ottawa and has been instrumental in founding over 30 companies and raised more than $100 million of equity financing. Dr. Adams has contributed more than 120 articles to scientific journals and was recognized as a Technology Pioneer by the World Economic Forum in 2007.
+Mr. Vahabzadeh joined the Board of Directors for the Company on December 12, 2023. Mr. Vahabzadeh has been involved in the Internet and health and wellness industries as an online business owner and consultant for over 15 years. Mr. Vahabzadeh also owned and operated a thoroughbred racing and breeding facility in British Columbia. Mr. Vahabzadeh holds a Bachelor of Arts degree and is a graduate of the University of British Columbia.
+23
+Ms. Silina has served as the Company’s Chief Financial Officer and Corporate Secretary since November 24, 2014, Ms. Silina was also a member of the Company’s board of directors from September 26, 2016 until April 1, 2024. Ms. Silina is a Chartered Professional Accountant and holds a Diploma in Management Studies from Thompson Rivers University. Ms. Silina is currently CFO of Stuhini Exploration Ltd. (TSX.V: STU), CFO of Tocvan Ventures Corp (CSE: TOC), CFO of Cascade Copper Corp (CSE: CASC), CFO of Altai Resources Inc (TSX.V: ATI) and a director of Kesselrun Resources Ltd. (TSX.V: KES), and DataWatts Partners Inc.(CSE: DWTZ). Ms. Silina has previously held various management positions with other public companies listed on OTC Link alternative trading system and Canadian Securities Exchange.
+Significant Employees
+The Company has no significant employees other than its officers and directors.
+Family Relationships
+There are no family relationships between the Company’s executive officers or directors.
+Involvement in Certain Legal Proceedings
+During the past ten years, none of Stimcell’s directors or officers has been:
+·a person against whom a bankruptcy petition was filed;
+·a general partner or executive officer of any partnership, corporation, or business association against which any bankruptcy petition was filed, either at the time of the bankruptcy or two years prior to that time;
+·convicted in a criminal proceeding or a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses);
+·the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or commodities trading or banking activities;
+·the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of (1) any court of competent jurisdiction, permanently or temporarily enjoining him or otherwise limiting him from acting, or (2) any Federal or State authority barring, suspending or otherwise limiting for more than 60 days his right to act, as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity, or to be associated with persons engaged in any such activity;
+·found by a court of competent jurisdiction in a civil action or by the SEC to have violated any Federal or State securities law, and the judgment in such civil action or finding by the SEC has not been subsequently reversed, suspended, or vacated;
+·found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated;
+·the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended, or vacated, relating to an alleged violation of:
+·any Federal or State securities or commodities law or regulation, or
+·any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or
+·any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+·the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+24
+Compliance with Section 16(a) of the Exchange Act.
+Section 16(a) of the Exchange Act requires the executive officers and directors of the Company, and persons who own more than 10% of a registered class of the Company’s securities (“Reporting Persons”), to file reports of ownership and changes in ownership with the SEC. Reporting Persons are required by SEC regulations to furnish the Company with copies of all forms they file pursuant to Section 16(a). Based solely on the management’s review of such reports received by the Company, the Company’s management has determined that the following persons have failed to file, on a timely basis, the reports required by Section 16(a) of the Exchange Act during the Company’s fiscal year ended May 31, 2025.
+Name and Principal Position
+Number of Late
+Insider Reports
+Transactions Not
+Timely Reported
+Known Failures to
+File a Required
+Form
+Amir Vahabzadeh,
+Director
+1
+1
+None
+Nomination Procedure for Directors
+The Company does not have a standing nominating committee. Recommendations for candidates to stand for election as directors are made by the Board of Directors. In carrying out their responsibilities, the Board of Directors will consider candidates suggested by stockholders. If a stockholder wishes to formally place a candidate’s name in nomination, however, he or she must do so in accordance with the provisions of the Company’s Bylaws. Suggestions for candidates to be evaluated by the proposed directors must be sent to the Board of Directors, Stimcell Energetics Inc., 1130 Pender Street, West, Suite 820, Vancouver, BC V6E 4A4, Canada.
+Identification of Audit Committee
+The Company’s audit committee was formed on November 7, 2023. As of May 31, 2025, the Company’s audit committee consists of Dr. George Adams, John Da Costa, and David Jeffs. Pursuant to the provisions of Section 6.1.1 of NI 52-110, Mr. Jeffs is not considered independent as he is an executive officer of the Company and a “control person” of the Company under Canadian securities laws and the provisions of the Company’s audit committee charter.
+The audit committee is responsible for: (1) reviewing the Company’s financial statements and MD&A, (2) selection and oversight of the Company’s independent accountant; (2) consulting with the Company’s independent accountants on the quality of the Company’s accounting principles and internal controls and the completeness and accuracy of the Company’s financial statements; (3) reviewing with the Company’s independent accountants the audit plans for the Company’s financial statements; and (4) reviewing and approving all audit, audit related services and any non-audit related services and fees and other compensation provided by and payable to the Company’s independent accountants.
+Audit Committee Financial Expert
+Dr. Adams and Mr. Da Costa are considered independent for purposes of Section 6.1.1 of NI 52-110.  Dr. Adams and Mr. Da Costa are considered to be “audit committee financial experts” as that term is defined in Item 407(d)(5)(ii) of Regulation SK, and “financially literate” within the meaning set forth in NI 52-110.
+Code of Ethics
+The Company has adopted a Code of Ethics that applies to all its executive officers and employees, including the CEO and CFO. The Company’s Code of Ethics is attached as an exhibit to this Annual Report on Form 10-K. The Company’s management believes that the Code of Ethics is reasonably designed to deter wrongdoing and promote honest and ethical conduct; provide full, fair, accurate, timely and understandable disclosure in public reports; comply with applicable laws; ensure prompt internal reporting of code violations; and provide accountability for adherence to the Code.
+25
+ITEM 11. EXECUTIVE COMPENSATION.
+The following table summarizes all compensation received by our Executive Officers for the past two fiscal years:
+SUMMARY COMPENSATION TABLE
+Name and
+principal position
+Year
+Salary
+Bonus
+Stock
+Awards
+Option
+Awards
+Non-
+Equity
+Incentive
+Plan
+Compensa
+tion
+Non-
+qualified
+Deferred
+Compen
+sation
+Earnings
+All other
+compensation
+Total
+($)
+($)
+($)
+($)
+($)
+($)
+($)
+($)
+David Jeffs(1)
+CEO
+2025
+90,000
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+90,000
+2024
+37,500
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+37,500
+Yanika Silina(2)
+CFO
+2025
+30,000
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+30,000
+2024
+30,000
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+30,000
+Dwayne Yaretz(3)
+Former CEO
+2025
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+2024
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Bradley Hargreaves(4)
+Former Vice President, Technology and Operations
+2025
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+2024
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(1)Mr. Jeffs was appointed to the Company’s board of directors and joined the Company’s management team as its Chief Executive Officer on December 12, 2023. The Company does not have a written compensation agreement with Mr. Jeffs. Effective January 1, 2024, Mr. Jeffs is being compensated for management services based on a verbal agreement with the Company at $7,500 per month.
+(2)The Company does not have a written compensation agreement with Ms. Silina. Ms. Silina is being compensated for consulting and accounting services based on a verbal agreement with the Company at a rate of $2,500 per month.
+(3)Mr. Yaretz was appointed to the Company’s board of directors and joined the Company’s management team as its Chief Executive Officer on April 25, 2022. On December 12, 2023 Mr. Yaretz resigned from his position of the CEO of the Company, and as of April 1, 2024, Mr. Yaretz ceased to be a director of the Company. The Company did not have a written compensation agreement with Mr. Yaretz, who was compensated for management services based on a verbal agreement with the Company at $10,000 per month. As of January 15, 2023, Mr. Yaretz agreed to stop billing the Company for the services to help the Company preserve its cash and facilitate its operating activities.
+(4)The Company did not have a written compensation agreement with Mr. Hargreaves. Mr. Hargreaves was compensated for his services based on a verbal agreement with the Company at a rate of CAD$5,000 per month. As of January 15, 2023, Mr. Hargreaves agreed to stop billing for the services to help the Company preserve its cash and facilitate the operating activities. Mr. Hargreaves resigned from his position as the VP of Technology and Operations on December 12, 2023, and as of April 1, 2024, he had ceased to be a director of the Company.
+26
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR END
+As at May 31, 2025, the Company did not have any stock awards issued and exercisable by its named executive officers, as that term is defined in Item 402(m)(2) of Regulation S-K.
+Executive Officer Employment / Consulting Agreements
+The Company does not have employment, consulting, or other compensating plans or arrangements, between the Company and any one of its named executive officers. There are also no arrangements which provide for specific compensation in the event of resignation, retirement, other form of termination, or from a change of control of Stimcell, or from a change in a named executive officer’s responsibilities following a change in control.
+DIRECTOR COMPENSATION
+The following table sets forth the compensation paid to the Company’s directors during the fiscal year ended May 31, 2025, other than directors who were also named executive officers as that term is defined in Item 402(m)(2). Compensation paid to directors who were also named executive officers during our May 31, 2025, fiscal year is set out in the table above.
+Name and
+principal position
+Year
+Salary
+Bonus
+Stock
+Awards
+Option
+Awards
+Non-Equity
+Incentive
+Plan
+Compensation
+Non-qualified
+Deferred
+Compensation
+Earnings
+All other
+compensation
+Total
+($)
+($)
+($)
+($)
+($)
+($)
+($)
+($)
+Dr. George Adams(1)
+2025
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Amir Vahabzadeh(1)
+2025
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Joao (John) Da Costa(2)
+2025
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+107,488
+107,488
+(1)As of the date of this Annual Report on Form 10-K the Company does not have any compensation arrangements with Dr. George Adams and Mr. Vahabzadeh for acting as members of the Company’s Board of Directors.
+(2)The Company does not have any compensation arrangements with Mr. Da Costa for acting as a member of the Company’s Board of Directors. Other compensation accrued to Mr. Da Costa is associated with consulting services provided to the Company by Da Costa Management Corp., a company Mr. Da Costa founded in 2003, of which he is the sole director.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL HOLDERS AND MANAGEMENT.
+The following tables set forth certain information concerning the number of shares of the Company’s common stock owned beneficially as of August 29, 2025, by: (i) each person (including any group) known to the Company to own more than five percent (5%) of any class of the voting securities, (ii) each of the Company’s directors named executive officers (as defined under Item 402(m)(2) of Regulation S-K), and (iii) officers and directors as a group. Unless otherwise indicated, the shareholders listed possess sole voting and investment power with respect to the shares shown.
+Under Rule 13d-3, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option) within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares outstanding is deemed to include the number of shares beneficially owned by such person (and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in the following tables, does not necessarily reflect the person’s actual ownership or voting power with respect to the number of shares of common stock actually outstanding. As of August 29, 2025, there were  20,516,272 shares of the Company’s common stock issued and outstanding.
+27
+Security Ownership of Certain Beneficial Owners (greater than 5%)
+Title of Class
+Name and Address of
+Beneficial Owner
+Amount and Nature of
+Beneficial Owner
+Percent
+of Class
+Common Stock
+Richard Norman Jeffs
+11750 Fairtide Road,
+Ladysmith, BC V9G 1K5
+1,688,889
+8.23%
+Common Stock
+Sam Ahdoot
+3635 S Fort Apache Rd, Ste 200
+Las Vegas, NV 89147-3404
+1,701,587(1)
+8.27 %
+Security Ownership of Management
+Title of Class
+Name and Address of
+Beneficial Owner
+Amount and Nature of
+Beneficial Owner
+Percent
+of Class
+Common Stock
+David Jeffs
+Chief Executive Officer and Director
+2615 15th Avenue West
+Vancouver, BC V6K 2Z6
+5,930,648
+28.91%
+Common Stock
+Yanika Silina
+Chief Financial Officer,
+Treasurer, Secretary and former Director
+820 - 1130 West Pender Street,
+Vancouver, BC V6E 4A4
+3,333
+0.02%
+Common Stock
+Joao (John) Da Costa
+Director
+820 - 1130 West Pender Street
+Vancouver, BC V6E 4A4
+137,446
+0.67%
+Common Stock
+George Adams
+Director
+7535 Conservation Rd
+Guelph, ON N1H 6J1
+Nil
+Nil
+Common Stock
+Amir Vahabzadeh
+Director
+1825 West King Edward Avenue, Vancouver, BC V6J 2W3
+5,829,870(2)
+28.32%
+Common Stock
+Directors and Executive Officers
+(as a group)
+11,901,297
+57.82%
+(1)The number of shares owned by Mr. Ahdoot includes a warrant to acquire up to 55,556 shares of the Company’s common stock at $0.75 per share. This warrant is set to expire on March 12, 2026.
+(2)The number of shares owned by Mr. Vahabzadeh includes a warrant to acquire up to 55,556 shares of the Company’s common stock at $0.75 per share, 1,629,527 shares held by Ms. Tang, a spouse of Mr. Vahabzadeh; and a warrant to acquire up to 11,112 shares of the Company’s common stock at $0.75 per share. These warrants are set to expire on March 12, 2026
+Equity Compensation Plans
+The following table sets forth certain information concerning all equity compensation plans previously approved by stockholders and all equity compensation plans not previously approved by stockholders, as of May 31, 2025, the Company’s most recent fiscal year end:
+28
+Equity Compensation Plan Information
+Plan Category
+Number of Securities
+to be Issued Upon
+Exercise of
+Outstanding Options,
+Warrants and Rights
+(a)
+Weighted-Average
+Exercise Price
+of Outstanding
+Options, Warrants
+and Rights
+(b)
+Number of Securities
+Remaining Available
+for Future Issuance
+Under Equity
+Compensation Plans
+(Excluding Securities
+Reflected in Column (a))
+(c)
+Equity Compensation Plans
+Approved By Security Holders
+None
+Not Applicable
+None
+Equity Compensation Plans
+Not Approved By Security Holders
+None
+Not Applicable
+None
+Changes in Control
+The Company’s management is not aware of any arrangements that might result in a change in control of the Company subsequent to the date of this Annual Report on Form 10-K.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+Director Independence
+The Company’s common stock is quoted on the OTC Link alternative trading system on the OTC Pink marketplace, which does not have director independence requirements. In determining whether any of the Company’s directors are independent, the Company’s management has applied the definition of “independent director” in Section 803 of the NYSE MKT Company Guide. The Company’s management has determined that, under that definition, as of the date of this Annual Report on Form 10-K, Dr. George Adams and Mr. Da Costa are independent directors.
+Transactions with Related Persons
+Since June 1, 2023, the directors, executive officers, or holders of more than 5% of the Company’s common stock, or members of their immediate families, as described below, have completed transactions with the Company in which they had direct or indirect material interests that exceeded the lesser of $120,000 or 1% of the average of our total assets at year end for the last two completed fiscal years.
+David Jeffs, CEO and director
+As at May 31, 2025, the Company owed a total of $47,615 under loan agreements to Mr. David Jeffs (May 31, 2024 - $42,502). The loans accrue 10% annual interest compounded monthly, are unsecured and payable on demand. The $30,000 loan was payable on April 24, 2023, and is therefore in default as at the date of the filing of this Annual Report on Form 10-K. During the year ended May 31, 2025, the Company recorded $4,445 in interest on the principal (May 31, 2024 - $5,440).
+On December 7, 2023, Mr. David Jeffs acquired, through reassignment of debt by Mr. Richard Jeffs, a total of $477,420 in notes payable including interest accrued thereon. On assignment, the terms of the notes payable did not change, remaining payable on demand, accumulating interest at 6% annual interest compounded monthly. On December 14, 2023, Mr. David Jeffs notified the Company that he had reassigned a total of $105,000 to two members of his family.
+On December 18, 2023, the Company and Mr. David Jeffs entered into a debt settlement agreement, whereas Mr. David Jeffs agreed to settle a total of $340,718 the Company owed to him under the notes payable into the Company’s common stock at a price of $0.105 per share for an aggregate of 3,244,934 shares. Mr. David Jeffs agreed to forgive the interest accrued on the converted principal totaling $51,128. Mr. David Jeffs reassigned $105,000 of his debt to family members, who similarly converted it to the Company’s common stock at a price of $0.105 per share for an aggregate of 1,000,000 shares.
+29
+As at May 31, 2025, the Company owed a total of $32,229 under a loan agreement with a company of which Mr. David Jeffs is a director of (May 31, 2024- $30,357). The loan bears interest at 6% per annum compounded monthly, is unsecured, and is payable on demand. During the year ended May 31, 2025, the Company recorded $1,872 in interest on the principal (May 31, 2024 - $1,768).
+During the year ended May 31, 2025, the Company accrued a total of $90,000 in management fees due to Mr. Jeffs (May 31, 2024 - $37,500). As at May 31, 2025, the Company was indebted to Mr. Jeffs in the amount of $144,237 on account of unpaid management fees and reimbursable expenses (May 31, 2024 - $37,500).
+Yanika Silina, CFO, Treasurer, Corporate Secretary, and a former director
+As at May 31, 2025, the Company was indebted to Ms. Silina in the amount of $8,778 on account of unpaid consulting fees and reimbursable expenses (May 31, 2024 - $5,885). During the year ended May 31, 2025, the Company incurred $30,000 in consulting fees to Ms. Silina (May 31, 2024 - $30,000).
+Joao (John) Da Costa, director
+As at May 31, 2025, the Company was indebted to Da Costa Management Corp., a company founded and operated by Mr. Da Costa, in the amount of $295,521 on account of unpaid consulting and accounting fees and reimbursable expenses (May 31, 2024 - $184,243). During the year ended May 31, 2025, the Company incurred $107,488 in consulting and accounting fees to Da Costa Management Corp (May 31, 2024 - $99,956).
+On December 18, 2023, the Company entered into a debt settlement agreement with Da Costa Management Corp. to settle a total of $3,722 the Company owed to Da Costa Management Corp. into the Company’s common stock at a price of $0.105 per share for a total of 35,446 common shares.
+During the year ended May 31, 2024, Da Costa Management Corp. assigned a total of $682,590 owed to it in separate transactions; of this amount a total of $425,590 were transferred to the Company’s related parties.
+Amir Vahabzadeh, director
+As at May 31, 2025, the Company owed a total of $185,297 under loan agreements with Mr. Vahabzadeh (May 31, 2024 - $111,396). The loans are unsecured and bear 10% annual interest compounded monthly. A $30,000 note payable included in the total due was payable on April 24, 2023, and as of the date of this Annual Report on Form 10-K, is in default. The remaining notes payable, totaling $130,000, are payable on demand. During the year ended May 31, 2024, Mr. Vahabzadeh acquired, in a private transaction, debt the Company owed to one of its lenders totaling $118,587; the terms of the acquired loans remained the same, being 6% annual interest compounded monthly, unsecured, and payable on demand.
+On December 18, 2023, the Company and Mr. Vahabzadeh entered into a debt settlement agreement, whereas Mr. Vahabzadeh agreed to settle a total of $432,286 the Company owed to him into the Company’s common stock at a price of $0.105 per share for an aggregate of 4,117,010 shares. Mr. Vahabzadeh agreed to forgive $25,619 in interest that was accrued on 6% notes payable, which were converted as part of the debt settlement.
+During the year ended May 31, 2025, the Company recorded $13,901 in interest on the principal (May 31, 2024 - $11,006).
+On March 12, 2024, the Company closed a non-brokered private placement offering (the “Offering”) by issuing 166,667 Units of its common stock at $0.45 per Unit for total gross proceeds of $75,000. Mr. Vahabzadeh acquired 55,555 Units in the Offering, an additional 11,111 Units were acquired by Mr. Vahabzadeh’s spouse.
+Richard Jeffs, significant shareholder
+As at May 31, 2025, the Company owed a total of $94,253 (May 31, 2024 - $63,376) under notes payable with Mr. Richard Jeffs. Of the total amount owed, $13,112 (May 31, 2024 - $9,014) was associated with accrued interest. The notes payable are due on demand and accumulate interest at 6% and 10% annual interest compounded monthly. During the year ended May 31, 2025, the Company recorded $4,115 in interest on the notes payable due to Mr. Richard Jeffs (May 31, 2024 - $22,305).
+30
+On December 7, 2023, Mr. Richard Jeffs notified the Company that he had reassigned the notes payable the Company issued to him totaling $411,000 and CAD$26,800 to Mr. David Jeffs. The total amount reassigned including interest was $477,420. On assignment, the terms of the notes payable did not change, remaining payable on demand, accumulating interest at 6% annual interest compounded monthly.
+On December 18, 2023, the Company and Mr. Richard Jeffs entered into a debt settlement agreement, whereas Mr. Richard Jeffs agreed to settle a total of $100,606 the Company owed to him under 6% notes payable into the Company’s common stock at a price of $0.105 per share for an aggregate of 958,152 shares. Mr. Richard Jeffs agreed to forgive the interest accrued on the converted principal totaling $21,455.
+Sam Ahdoot, significant shareholder
+As at May 31, 2025, the Company owed $72,756 (May 31, 2024 - $65,859) under unsecured notes payable with Mr. Ahdoot. During the year ended May 31, 2025, the Company recorded $6,897 in interest on the notes payable due to Mr. Ahdoot (May 31, 2024 - $5,681).
+During the year ended May 31, 2024, Mr. Ahdoot acquired, in a private transaction, $167,000 in debt the Company owed to Da Costa Management Corp. Mr. Ahdoot agreed to convert the $167,000 debt into 1,590,476 shares of the Company’s common stock at $0.105 per share, which resulted in Mr. Ahdoot becoming a significant shareholder of the Company.
+Clementine Tang
+Prior to December 2023, creditors of the Company assigned amounts owed by the Company to Ms. Tang, a spouse of Mr. Vahabzadeh. On December 18, 2023, the Company entered into an agreement with Ms. Tang to settle $165,734 in amounts owed to her by the Company for shares of the Company’s Common Stock at a price of $0.105 per share for 1,578,416 shares of Common Stock.
+On March 12, 2024, Ms. Tang purchased an additional 11,111 Units in a non-brokered private placement offering, generating a total of $5,000 for the Company.
+Dwayne Yaretz, former CEO and director
+As at May 31, 2025 and 2024, the Company was not indebted to Mr. Yaretz. During the year ended May 31, 2023, the Company incurred $75,000 in consulting fees to Mr. Yaretz. As of January 15, 2023, Mr. Yaretz agreed to stop billing the Company for his services to help the Company to preserve its cash and facilitate the operating activities, therefore the Company did not record any fees as due to Mr. Yaretz during the year ended May 31, 2024. Mr. Yaretz resigned from his positions as CEO and director of the Company during the year ended May 31, 2024.
+During the year ended May 31, 2024, Mr. Yaretz assigned a total of $76,500 owed to him to Mr. Vahabzadeh, a director of the Company, and converted the remaining $8,500 into 80,952 common shares of the Company at $0.105 per share.
+Bradley Hargreaves, former VP of Technology and Operations and a director
+As at May 31, 2025 and 2024, the Company was not indebted to Mr. Hargreaves. At June 1, 2023, Mr. Hargreaves requested to offset the amount he owed to the Company as at May 31, 2023, being $2,249 (CAD$3,059), against the amount the Company owed to him under the note payable. During the year ended May 31, 2024, the Company recorded $187 in interest on the note payable due to Mr. Hargreaves. In March of 2024, the Company repaid the balance owed under the note payable due to Mr. Hargreaves totaling $3,967. Mr. Hargreaves resigned from his positions as VP of Technology and Operations and director of the Company during the year ended May 31, 2024.
+31
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+Audit Fees
+The aggregate fees billed for each of the last two fiscal years for professional services rendered by the principal accountant for Stimcell’s audit of annual financial statements and for review of financial statements included in Stimcell’s Form 10-Q’s or services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for those fiscal years were:
+2025 - $40,268 - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+2024 - $37,250 - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+Audit-Related Fees
+The aggregate fees billed in each of the last two fiscal years for assurance and related services by the principal accountants that are reasonably related to the performance of the audit or review of Stimcell’s financial statements and are not reported in the preceding paragraph:
+2025 - $Nil - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+2024 - $Nil - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+Tax Fees
+The aggregate fees billed in each of the last two fiscal years for professional services rendered by the principal accountant for tax compliance, tax advice, and tax planning were:
+2025 - $5,317 - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+2024 - $2,950 - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+All Other Fees
+The aggregate fees billed in each of the last two fiscal years for the products and services provided by the principal accountant, other than the services reported in paragraphs (1), (2), and (3) were:
+2025 - $Nil - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+2024 - $Nil - Dale Matheson Carr-Hilton Labonte, L.L. P. Chartered Accountants
+Approval Policies and Procedures
+The Company’s audit committee reviews the qualifications of the principal accountant and approves their engagement as the principal accountant prior to their engagement. All of the non-audit services provided by the Company’s principal accountant were also pre-approved by the Audit Committee prior to completion of the audit of the Company’s annual financial statements.
+ITEM 15. EXHIBITS, FINANCIAL STATEMENTS SCHEDULES.
+Financial Statements
+The financial statements of Stimcell Energetics Inc. have been included in Item 8 above.
+Financial Statement Schedules
+All schedules for which provision is made in Regulation S-X are either not required to be included herein under the related instructions or are inapplicable or the related information is included in the footnotes to the applicable financial statement and, therefore, have been omitted from this Item 15.
+32
+Exhibits
+All Exhibits required to be filed with the Form 10-K are included in this Annual Report or incorporated by reference to Stimcell Energetics Inc.’s previous filings with the SEC, which can be found in their entirety at the SEC website at www.sec.gov under SEC File Number 000-54500.
+Exhibit
+Number
+Description of Document
+3.1
+Articles of Incorporation (2)
+3.2
+Articles of Merger - Sports Asylum, Inc. and Plandel Resources, Inc.(3)
+3.3
+Articles of Merger - Cell MedX Corp. and Sports Asylum, Inc.(3)
+3.4
+Bylaws (1)
+3.5
+Certificate of Change - Decrease in Authorized Capital from 7,500,000,000 shares of common stock, par value $0.001, to 500,000,000 shares of common stock, par value, $0.001 and corresponding decrease in the issued shares of common stock (31)
+3.6
+Certificate of Amendment - Change of Name to “Stimcell Energetics Inc.” and Restatement of Articles of Incorporation(31)
+4.1
+Specimen Stock Certificate (1)
+10.1
+Technology Purchase Agreement dated October 16, 2014 among Cell MedX Corp., Jean Arnett, and Brad Hargreaves.(4)
+10.2
+First Amendment Agreement dated October 28, 2014 to that Technology Purchase Agreement dated October 16, 2014 among Cell MedX Corp., Jean Arnett, and Brad Hargreaves.(5)
+10.3
+Second Amendment Agreement dated November 13, 2014 to that Technology Purchase Agreement dated October 16, 2014 among Cell MedX Corp., Jean Arnett, and Brad Hargreaves.(6)
+10.4
+Stock Option Agreement dated August 5, 2015 among Cell MedX Corp. and Frank E. McEnulty.(7)
+10.5
+Stock Option Agreement dated August 24, 2017 among Cell MedX Corp. and Yanika Silina(8)
+10.6
+Stock Option Agreement dated August 24, 2017 among Cell MedX Corp. and Da Costa Management Corp.(8)
+10.7
+Stock Option Agreement dated August 24, 2017 among Cell MedX Corp. and John Giovanni Di Cicco.(8)
+10.8
+Intellectual Property Royalty Agreement between Cell MedX Corp. and Brek Technologies Inc., dated for reference September 6, 2018.(9)
+10.9
+Royalty Agreement between Cell MedX Corp. and Mr. Richard Norman Jeffs, dated for reference September 6, 2018.(9)
+10.10
+Credit Line Agreement dated December 27, 2018, between Richard Norman Jeffs and Cell MedX Corp.(10)
+10.11
+Distribution Agreement between Cell MedX Corp. and Live Current Media, Inc., dated for reference March 21, 2019. (11)
+10.12
+Loan Agreement and Note Payable dated September 4, 2019, among Cell MedX Corp. and Longview Investment Limited (12)
+10.13
+Loan Agreement and Note Payable dated September 6, 2019, among Cell MedX Corp. and Rain Communications Corp. (12)
+10.14
+Loan Agreement and Note Payable dated September 16, 2019, among Cell MedX Corp. and Longview Investment Limited(12)
+10.15
+Loan Agreement and Note Payable dated September 19, 2019, among Cell MedX Corp. and Rain Communications Corp.(12)
+10.16
+Loan Agreement and Note Payable dated September 20, 2019, among Cell MedX Corp. and Longview Investment Limited(12)
+10.17
+Loan Agreement and Note Payable dated October 30, 2019, among Cell MedX Corp. and Longview Investment Limited(12)
+33
+Exhibit
+Number
+Description of Document
+10.18
+Loan Agreement and Note Payable dated October 30, 2019, among Cell MedX Corp. and Rain Communications Corp.(12)
+10.19
+Loan Agreement and Note Payable dated December 3, 2019, among Cell MedX Corp. and Longview Investment Limited (13)
+10.20
+Loan Agreement and Note Payable dated January 6, 2020, among Cell MedX Corp. and Longview Investment Limited(13)
+10.21
+Loan Agreement and Note Payable dated January 9, 2020, among Cell MedX Corp. and Longview Investment Limited(13)
+10.22
+Loan Agreement and Note Payable dated January 31, 2020, among Cell MedX Corp. and Longview Investment Limited(13)
+10.23
+Buyback agreement between Live Current Media Inc. and Cell MedX Corp., dated January 29, 2020.(14)
+10.24
+Loan Agreement and Note Payable dated February 17, 2020, among Cell MedX Corp. and Longview Investment Limited(13)
+10.25
+Loan Agreement and Note Payable dated March 4, 2020, among Cell MedX Corp. and Longview Investment Limited(13)
+10.26
+Loan Agreement and Note Payable dated March 25, 2020, among Cell MedX Corp. and Longview Investment Limited(13)
+10.27
+Loan Agreement and Note Payable dated April 13, 2020, among Cell MedX Corp. and Longview Investment Limited(15)
+10.28
+Loan Agreement dated July 3, 2020, among Cell MedX Corp. and David Jeffs.(15)
+10.29
+Loan Agreement and Note Payable dated August 31, 2020, among Cell MedX Corp. and Tradex Capital Corp.(15)
+10.30
+Loan Agreement and Note Payable dated September 2, 2020, among Cell MedX Corp. and Rain Communications Corp.(16)
+10.31
+Loan Agreement and Note Payable dated October 26, 2020, among Cell MedX Corp. and Rain Communications Corp.(16)
+10.32
+Loan Agreement and Note Payable dated December 14, 2020, among Cell MedX (Canada) Corp. and Richard Jeffs. (17)
+10.33
+Loan Agreement and Note Payable dated December 23, 2020, among Cell MedX (Canada) Corp. and Richard Jeffs. (17)
+10.34
+Loan Agreement and Note Payable dated January 21, 2021, among Cell MedX Corp. and Rain Communications Corp. (17)
+10.35
+Loan Agreement and Note Payable dated February 16, 2021, among Cell MedX Corp. and Rain Communications Corp. (17)
+10.36
+Loan Agreement and Note Payable dated March 29, 2021, among Cell MedX (Canada) Corp. and Susan Jeffs.(19)
+10.37
+Loan Agreement and Note Payable dated April 15, 2021, among Cell MedX Corp. and Richard Jeffs. (19)
+10.38
+Loan Agreement and Note Payable dated May 18, 2021, among Cell MedX Corp. and Richard Jeffs. (19)
+10.39
+Independent Contractors Services Agreement between the Company and Mr. Issacs and Mr. Cavalli dated for reference May 24, 2021. (18)
+10.40
+Independent Contractors Services Agreement between the Company and Jim MacFarlane, dba Griffith Armada Capital, dated for reference May 24, 2021. (18)
+10.41
+Loan Agreement and Note Payable dated June 22, 2021, among Cell MedX (Canada) Corp. and Richard Jeffs.(19)
+10.42
+Loan Agreement and Note Payable dated October 7, 2021, among Cell MedX (Canada) Corp. and Richard Jeffs.(20)
+34
+Exhibit
+Number
+Description of Document
+10.43
+Loan Agreement and Note Payable dated October 26, 2021, among Cell MedX (Canada) Corp. and Richard Jeffs.(20)
+10.44
+Loan Agreement and Note Payable dated November 24, 2021, among Cell MedX (Canada) Corp. and Richard Jeffs.(20)
+10.45
+Loan Agreement and Note Payable dated November 29, 2021, among Cell MedX Corp. and Bradley Hargreaves. (20)
+10.46
+Loan Agreement and Note Payable dated December 30, 2021, among Cell MedX (Canada) Corp. and Richard Jeffs. (21)
+10.47
+Loan Agreement and Note Payable dated January 27, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs. (21)
+10.48
+Loan Agreement and Note Payable dated February 24, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs. (21)
+10.49
+Loan Agreement and Note Payable dated March 29, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs. (21)
+10.50
+Loan Agreement and Note Payable dated April 28, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.51
+Loan Agreement and Note Payable dated May 31, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.52
+Loan Agreement and Note Payable dated June 27, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.53
+Loan Agreement and Note Payable dated July 28, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.54
+Loan Agreement and Note Payable dated October 3, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.(22)
+10.55
+Loan Agreement and Note Payable dated October 11, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs. (22)
+10.56
+Loan Agreement and Note Payable dated October 11, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs. (22)
+10.57
+Loan Agreement and Note Payable dated October 11, 2022, among Cell MedX Corp. and Richard Jeffs. (22)
+10.58
+Loan Agreement and Note Payable dated October 11, 2022, among Cell MedX Corp. and Richard Jeffs. (22)
+10.59
+Loan Agreement dated September 2, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.60
+Loan Agreement dated September 6, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.61
+Loan Agreement dated November 3, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.62
+Loan Agreement dated November 28, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.63
+Loan Agreement dated December 30, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.64
+Loan Agreement dated January 24, 2023, among Cell MedX Corp. and David Jeffs.
+10.65
+Loan Agreement dated January 24, 2023, among Cell MedX Corp. and Amir Vahabzadeh.
+10.66
+Loan Agreement dated January 30, 2022, among Cell MedX (Canada) Corp. and Richard Jeffs.
+10.67
+Loan Agreement dated April 11, 2023, among Cell MedX Corp. and Amir Vahabzadeh. (24)
+10.68
+Loan Agreement dated April 25, 2023, among Cell MedX Corp. and David Jeffs. (24)
+10.69
+Loan Agreement dated May 16, 2023, among Cell MedX Corp. and Amir Vahabzadeh. (25)
+10.70
+Loan Agreement dated May 18, 2023, among Cell MedX Corp. and Sam Ahdoot. (25)
+10.71
+Loan Agreement dated January 4, 2024, among Stimcell Energetics Inc. and Amir Vahabzadeh. (20)
+10.72
+Loan Agreement dated January 4, 2024, among Stimcell Energetics Inc. and Sam Ahdoot. (20)
+10.73
+Loan Agreement dated November 12, 2024, among Stimcell Energetics, Inc. and Amir Vahabzadeh.(21)
+10.74
+Digital marketing services agreement between the Company and Rain Communications Inc. dated March 18, 2025.(22)
+35
+Exhibit
+Number
+Description of Document
+10.75
+Debt settlement agreement dated March 24, 2025.(22)
+10.76
+Line of credit agreement dated February 14, 2025, among Stimcell Energetics Inc. and Richard Jeffs(29)
+10.77
+Line of credit agreement dated February 14, 2025, among Stimcell Energetics Inc. and Susan Jeffs(29)
+10.78
+Digital marketing services agreement between Stimcell Energetics Inc. and Rain Communications Inc. dated March 18, 2025.(30)
+10.79
+Debt settlement agreement dated March 24, 2025(30)
+10.80
+Loan Agreement dated March 20, 2025, among Stimcell Energetics Inc. and David Jeffs.
+10.81
+Loan Agreement dated March 25, 2025, among Stimcell Energetics Inc. and Amir Vahabzadeh.
+10.82
+Line of credit agreement dated June 20, 2025, among Stimcell Energetics Inc. and Richard Jeffs
+10.83
+Amendment to the line of credit agreement dated July 21, 2025, among Stimcell Energetics Inc. and Richard Jeffs
+14.1
+Code of Ethics(3)
+21.1
+List of Significant Subsidiaries (23)
+31.1
+Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification of Principal Executive Officer pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification of Principal Financial Officer pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101
+The following materials from this Annual Report on Form 10-K for the years ended May 31, 2025 and 2024 formatted in iXBRL (extensible Business Reporting Language):
+(1) Consolidated Balance Sheets at May 31, 2025 and 2024.
+(2) Consolidated Statements of Operations for the years ended May 31, 2025 and 2024.
+(3) Consolidated Statement of Stockholders’ Deficit as at May 31, 2025.
+(4) Consolidated Statements of Cash Flows for the years ended May 31, 2025 and 2024.
+(1)Filed as an exhibit to the Company’s Registration Statement on Form S-1 filed with SEC on July 13, 2010
+(2)Filed as an exhibit to the Company’s Amendment No. 1 to Registration Statement on Form S-1 filed with SEC on October 13, 2010
+(3)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on October 9, 2014
+(4)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with SEC on October 17, 2014
+(5)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with SEC on November 3, 2014
+(6)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with SEC on November 18, 2014
+(7)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on August 11, 2015
+(8)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on October 17, 2017
+(9)Filed as an exhibit to the Company’s Annual Report on Form 10-K filed with the SEC on September 13, 2018
+(10)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on December 31, 2018
+(11)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on March 27, 2019
+(12)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on January 14, 2020
+(13)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on April 14, 2020
+(14)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on January 31, 2020
+(15)Filed as an exhibit to the Company’s Annual Report on Form 10-K filed with the SEC on September 15, 2020
+(16)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on January 14, 2021
+(17)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on April 9, 2021
+(18)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on May 26, 2021
+(19)Filed as an exhibit to the Company’s Annual Report on Form 10-K filed with the SEC on August 30, 2021
+(20)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on January 12, 2022
+36
+(21)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on April 14, 2022
+(22)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on October 18, 2022
+(23)Filed as an exhibit to the Company’s Annual Report on Form 10-K filed with the SEC on April 7, 2023
+(24)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on May 19, 2023
+(25)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on June 29, 2023
+(26)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on April 15, 2024
+(27)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on January 14, 2025
+(28)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on March 28, 2025
+(29)Filed as an exhibit to the Company’s Quarterly Report on Form 10-Q filed with the SEC on April 14, 2025
+(30)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on March 28, 2025
+(31)Filed as an exhibit to the Company’s Current Report on Form 8-K filed with the SEC on November 5, 2024
+37
+SIGNATURES
+In accordance with the requirements of the Securities Exchange Act of 1934, Stimcell Energetics Inc. has caused this report to be signed on its behalf by the undersigned duly authorized persons.
+STIMCELL ENERGETICS INC.
+Date: August 29, 2025
+By:
+/s/ David Jeffs
+Name:
+David Jeffs
+Title:
+Chief Executive Officer and Director
+(Principal Executive Officer)
+Date: August 29, 2025
+By:
+/s/ Yanika Silina
+Name:
+Yanika Silina
+Title:
+Chief Financial Officer
+(Principal Accounting Officer)
+Pursuant to the requirements of the Securities Exchange Act of 1934, the following persons on behalf of Stimcell Energetics Inc. and in the capacities and on the dates indicated have signed this report below.
+Signature
+Title
+Date
+/s/ David Jeffs
+David Jeffs
+Chief Executive Officer,
+(Principal Executive Officer)
+and Member of the Board of Directors
+August 29, 2025
+/s/ Joao (John) Da Costa
+Joao (John) Da Costa
+Member of the Board of Directors
+August 29, 2025
+/s/ Amir Vahabzadeh
+Amir Vahabzadeh
+Member of the Board of Directors
+August 29, 2025
+/s/ George Adams
+George Adams
+Member of the Board of Directors
+August 29, 2025
+38

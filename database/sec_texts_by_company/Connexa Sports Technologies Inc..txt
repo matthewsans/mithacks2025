@@ -1,0 +1,167 @@
+NT 10-K
+1
+formnt10-k.htm
+NT 10-K
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+12b-25
+SEC
+FILE NUMBER
+001-41423
+CUSIP
+NUMBER
+831445408
+NOTIFICATION
+OF LATE FILING
+(Check
+one):
+☒
+Form 10-K ☐ Form 20-F ☐ Form 11-K ☐ Form 10-Q ☐ Form 10-D ☐ Form N-SAR ☐ Form N-CSR
+For
+Period Ended April 30, 2025
+☐
+Transition
+Report on Form 10-K
+☐
+Transition
+Report on Form 20-F
+☐
+Transition
+Report on Form 11-K
+☐
+Transition
+Report on Form 10-Q
+☐
+Transition
+Report on Form N-SAR
+For
+the Transition Period Ended _____________________
+Nothing
+in this form shall be construed to imply that the Commission has verified any information contained herein.
+If
+the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates: ___________
+PART
+I - REGISTRANT INFORMATION
+Connexa
+Sports Technologies Inc.
+Full
+Name of Registrant
+Former
+Name if Applicable
+74 E. Glenwood Ave. # 320
+Address
+of Principal Executive Office (Street and Number)
+Smyrna, DE 19977
+City,
+State and Zip Code
+PART
+II - RULES 12b-25(b) AND (c)
+If
+the subject report could not be filed without unreasonable effort or expense and the registrant seeks relief pursuant to Rule 12b-25(b),
+the following should be completed. (Check box if appropriate).
+(a)
+The
+reasons described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+☒
+(b)
+The
+subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, 11-K Form N-SAR or Form N-CSR, or portion thereof,
+will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report of transition
+report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof will be filed on or before the fifth calendar
+day following the prescribed due date; and
+(c)
+The
+accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART
+III - NARRATIVE
+State
+below in reasonable detail the reasons why Forms 10-K, 20-F, 11-K, 10-Q, N-SAR, N-CSR, or the transition report or portion thereof, could
+not be filed within the prescribed time period.
+Connexa
+Sports Technologies Inc (the “Company”) is unable to file its Annual Report on Form 10-K for the fiscal year ended April
+30, 2025 (the “Form 10-K”) by the prescribed time period required for smaller reporting companies without unreasonable effort
+and expense because additional time is required by the Company’s management, working in conjunction with the Company’s independent
+auditors, to complete the Company’s audit for the year ended April 30, 2025. The Company’s auditors are carrying out an audit
+of the fiscal year ended April 30, 2024 as well as for the fiscal year ended April 30, 2025. In addition, the Company’s operating
+subsidiary is adjusting its year end to match that of the Company. The Company is diligently working with its auditors and anticipates
+that it will file the Form 10-K no later than the fifteenth calendar day following the prescribed due date.
+Cautionary
+Statement Concerning Forward-Looking Statements
+This
+Notification of Late Filing on Form 12b-25 contains “forward-looking statements” (within the meaning of Section 27A of
+the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended), including statements
+regarding the Company’s ability to complete the filing of the Annual Report on Form 10-K no later than the fifteenth calendar
+day following the prescribed due date. These statements are based on current expectations as of the date of this Notification of
+Late Filing on Form 12b-25 and involve a number of risks and uncertainties, which may cause results to differ materially from those
+indicated by these forward-looking statements. These risks include, without limitation, risks related to the Company’s ability
+to timely complete the Form 10-K, including the auditor timely completing its audit of the Company’s financial statements, for
+the fiscal year ended April 30, 2025. Any reader of this Notification on Form 12b-25 is cautioned not to place undue reliance on
+these forward-looking statements, which speak only as of the date of this Notification of Late Filing on Form 12b-25. The Company
+undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of
+this Notification of Late Filing on Form 12b-25, except as required by applicable laws or regulations.
+PART
+IV - OTHER INFORMATION
+(1)
+Name
+and telephone number of person to contact in regard to this notification
+Thomas Tarala
+443
+407-7564
+(Name)
+(Area
+Code)
+(Telephone
+Number)
+(2)
+Have
+all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment
+Company Act of 1940 during the preceding 12 months or for such shorter period that the registrant was required to file such report(s)
+been filed? If answer is no, identify report(s). ☒
+Yes ☐ No
+(3)
+Is
+it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be
+reflected by the earnings statements to be included in the subject report or portion thereof? ☒ Yes ☐ No
+On March 18, 2024, the Company entered into a share
+purchase agreement (the “Purchase Agreement”) and a share exchange agreement (the “Exchange Agreement”) to acquire
+70% of Yuanyu Enterprise Management Co., Limited (“YYEM”) from Mr. Hongyu Zhou, the sole shareholder of YYEM (“YYEM
+Seller”) for a combined $56 million (the “Acquisition”). $16.5 million of this amount was paid in cash on March 20,
+2024 pursuant to the Purchase Agreement to acquire 20% of YYEM.
+On
+November 21, 2024, following The Nasdaq Stock Market LLC’s (“Nasdaq”) approval of the new listing application submitted
+to it in connection with the Acquisition, the Company completed the purchase of 5,000 ordinary shares of YYEM, representing 50% of the
+issued and outstanding ordinary shares of YYEM, for 8,127,572 newly issued shares of the Company’s common stock, par value $0.001
+per share (the “Common Stock”) to the YYEM Seller, representing 55.8% of the issued and outstanding shares of Common Stock
+as of the date of the closing (the “Share Exchange Transaction”). As part of this transaction, the Company agreed to sell
+its wholly owned subsidiary, Slinger Bag Americas Inc., to a newly established Florida limited liability company called J&M Sports
+LLC (“J&M”). J&M is owned by Yonah Kalfa, former Chief Innovation Officer and director of the Company; Mike Ballardie,
+former President, Chief Executive Officer, Treasurer and director of the Company; Juda Honickman, former Chief Marketing Officer of the
+Company; and Mark Radom, former general counsel and Secretary of the Company. On November 21, 2024, the Company entered into a separation
+and assignment agreement (the “Separation Agreement”) with J&M to sell, transfer, and assign all or substantially all
+of its legacy business, assets, and liabilities related to or necessary for the operations of its “Slinger Bag” business
+or products (the “Legacy Business”) to J&M, in consideration for $1.00. Following the Separation Agreement, J&M has
+obtained the sole right to and assumed all the obligations of the Legacy Business and is liable to the Company for any losses arising
+from third-party claims against the Company that arise from liabilities related to the Legacy Business. As a result of the completion
+of the Acquisition, the Company’s directors and officers resigned from their positions on November 21, 2024.
+The
+Company, in the Form 10-K, will report its consolidated financial results for the years ended April 30, 2025 and 2024 with respect to
+the operations of YYEM.
+CONNEXA
+SPORTS TECHNOLOGIES INC.
+(Name
+of Registrant as Specified in Charter)
+has
+caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Date:
+July 29, 2025
+By:
+/s/
+Thomas Tarala
+Thomas Tarala
+Chief
+Executive Officer

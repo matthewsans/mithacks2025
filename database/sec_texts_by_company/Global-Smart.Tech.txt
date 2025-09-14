@@ -1,0 +1,1399 @@
+false
+FY
+2025
+0001940243
+0001940243
+2024-06-01
+2025-05-31
+0001940243
+2025-05-31
+0001940243
+2025-08-28
+0001940243
+2024-05-31
+0001940243
+2023-06-01
+2024-05-31
+0001940243
+us-gaap:CommonStockMember
+2023-05-31
+0001940243
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-31
+0001940243
+us-gaap:RetainedEarningsMember
+2023-05-31
+0001940243
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-05-31
+0001940243
+2023-05-31
+0001940243
+us-gaap:CommonStockMember
+2024-05-31
+0001940243
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-31
+0001940243
+us-gaap:RetainedEarningsMember
+2024-05-31
+0001940243
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-05-31
+0001940243
+us-gaap:CommonStockMember
+2023-06-01
+2024-05-31
+0001940243
+us-gaap:AdditionalPaidInCapitalMember
+2023-06-01
+2024-05-31
+0001940243
+us-gaap:RetainedEarningsMember
+2023-06-01
+2024-05-31
+0001940243
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-06-01
+2024-05-31
+0001940243
+us-gaap:CommonStockMember
+2024-06-01
+2025-05-31
+0001940243
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-01
+2025-05-31
+0001940243
+us-gaap:RetainedEarningsMember
+2024-06-01
+2025-05-31
+0001940243
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-01
+2025-05-31
+0001940243
+us-gaap:CommonStockMember
+2025-05-31
+0001940243
+us-gaap:AdditionalPaidInCapitalMember
+2025-05-31
+0001940243
+us-gaap:RetainedEarningsMember
+2025-05-31
+0001940243
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-05-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+WASHINGTON,
+D.C. 20549
+FORM 10-K
+[X] ANNUAL
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal
+year ended May 31,2025
+[
+] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition
+period from _________ to ________
+Commission
+file number: 333-267740
+GLOBAL-SMART.TECH INC.
+(Exact name
+of registrant as specified in its charter)
+Wyoming
+98-1664763
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+Kava b.b., 85320, Tivat, Montenegro
+7370
+(Address of principal executive offices)
+(Primary Standard Industrial Classification Number)
+Registrant’s telephone
+number: +1205-2165924
+Securities
+registered under Section 12(b) of the Exchange Act: None
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes
+[ ] No [X]
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+[ ] No [X]
+Indicate
+by checkmark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes [X] No [ ]
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). Yes [X] No [ ]
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company.
+[ ] Large
+accelerated filer
+[
+] Accelerated filer
+[
+] Non-accelerated filer
+[X] Smaller
+reporting company
+[X] Emerging
+growth company
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the
+registrant included in the filing reflect the correction of an error to previously issued financial statements. [ ]
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based
+compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to
+§240.10D-1(b). [ ]
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements.
+[ ]
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
+[ ] No [X]
+Through of May 31, 2025, there was
+0 established public trading market for our common stock. Accordingly, the aggregate market
+value
+of voting and non-voting common equity held by non-affiliates cannot be calculated based on public trading prices.
+Class
+Outstanding as of August 28, 2025
+Common Stock: $0.001
+6,134,780
+2
+TABLE
+OF CONTENTS
+Page
+PART I
+Item 1.
+Business
+4
+Item 1A.
+Risk Factors
+6
+Item 1B.
+Unresolved Staff Comments
+6
+Item 1C.
+Cybersecurity
+6
+Item 2.
+Properties
+6
+Item 3.
+Legal Proceedings
+6
+Item 4.
+Mine Safety Disclosures
+6
+PART II
+Item 5.
+Market for Registrant’s Common Equity and Related Stockholder Matters and Issuer Purchases of Equity Securities
+7
+Item 6.
+Selected Financial Data
+7
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+8
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+11
+Item 8.
+Financial Statements and Supplementary Data
+11
+Item 9.
+Changes In and Disagreements With Accountants on Accounting and Financial Disclosure
+11
+Item 9A.
+Controls and Procedures
+12
+Item 9B.
+Other Information
+13
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+13
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+14
+Item 11.
+Executive Compensation
+17
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+17
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+18
+Item 14.
+Principal Accountant Fees and Services
+18
+PART IV
+Item 15.
+Exhibits, Financial Statement Schedules
+19
+Item 16.
+Form 10-K Summary
+19
+Signatures
+20
+3
+PART
+I
+Forward-Looking
+Statements
+This Annual
+Report on Form 10-K contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. Certain
+statements, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives,
+and expected operating results, and the assumptions upon which those statements are based, are “forward-looking statements.”
+These forward-looking statements generally are identified by the words “believes,” “project,” “expects,”
+“anticipates,” “estimates,” “intends,” “strategy,” “plan,” “may,”
+“will,” “would,” “will be,” “will continue,” “will likely result,” and similar
+expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties
+which may cause actual results to differ materially from the forward-looking statements. Our ability to predict results or the actual
+effect of future plans or strategies is inherently uncertain. Factors which could have a material adverse effect on our operations and
+future prospects on a consolidated basis include but are not limited to: changes in economic conditions, legislative/regulatory changes,
+availability of capital, interest rates, competition, and generally accepted accounting principles. These risks and uncertainties should
+also be considered in evaluating forward-looking statements and undue reliance should not be placed on such statements.
+ITEM 1.
+Business
+General
+information about our Company
+Global-Smart.Tech
+Inc.(“the Company”, “we”, “us” or “our”) was incorporated on April
+15, 2022 under the laws of the State of Wyoming United States of America. As part of our business evolution, we are focusing on expanding
+our operations in cloud rendering. Our primary objective is the development of an advanced platform dedicated to 3D interior designers
+and visualizers. Leveraging the power of graphic processing units (“GPUs”), our platform aims to transform the rendering process,
+delivering exceptional performance and revolutionizing the industry. Our website is located at https://global-smart.tech.
+Plan of Operations
+The Company’s business
+model centers on cloud rendering services. We believe that revenue growth and long-term profitability can be achieved in the year 2025
+and beyond by ensuring the technical performance of our cloud rendering platform remains highly cost-effective. As we continue to expand,
+the gradual growth of our cloud rendering will provide opportunities to increase revenue from the sale of rendering capacities.
+4
+Monetization Strategy
+We generate
+revenue primarily through the sale of pricing plans for our cloud rendering services, which are provided through our online platform.
+Clients initiate a project request by contacting our team via the “Contacts” section of our website (https://global-smart.tech/contacts/).
+Following this initial contact, clients are required to submit a link to their project files stored in a cloud-based storage service.
+Once the files
+are received, our specialists conduct a comprehensive evaluation of the project. This includes analyzing the file contents, assessing
+data volume, scene complexity, and necessary rendering parameters. Based on this assessment, we recommend the most suitable pricing plan
+that aligns with the project’s technical requirements and the client’s needs.
+Our pricing
+plans vary based on the number of video cards (10, 25, or 40 GPUs) allocated to the rendering process, as well as the estimated rendering
+time, which starts at a minimum of 5 hours. Upon acceptance of the quote, the client proceeds with payment. Following receipt of payment
+in full, the rendering process commences. The completed project is then delivered to the client via the email address provided in their
+initial request.
+This consultative
+and tailored workflow enables us to efficiently allocate computing resources and deliver high-quality output while ensuring transparency
+in pricing and service terms.
+Our primary
+target customers include 3D interior designers and visualizers in the design industry. We aim to offer a range of flexible and competitive
+pricing options to attract clients and maximize revenue potential. This revenue stream is a key driver of our financial growth and sustainability
+in the foreseeable future.
+Marketing
+We are considering choosing
+online marketing as our key strategy to attract the users. We will invest into promotion via different social networks and search engine
+optimization. This is planned to help us to appear in users search inquiries by key words.
+Employees
+Global-Smart.Tech Inc. is
+a company with only one employee, Yehor Rodin, our President, CEO, Treasurer, Secretary, Director. We also have an independent
+director, Genismarlon Da Silva Nunes, who is not considered an employee. The Company may consider hiring more employees if the need
+arises.
+Offices
+Our current registered office
+is located at Kava b.b., 85320 Tivat, Montenegro. Our telephone number is +12052165924.
+5
+ITEM 1A.
+Risk Factors
+Not
+required for Smaller reporting companies.
+ITEM 1B.
+Unresolved Staff comments
+Not
+required for Smaller reporting companies.
+ITEM
+1C. Cybersecurity
+The
+security of information is under management control and ensured by internal security rules applied.
+ITEM 2.
+Properties
+Our principal
+executive offices are located at Kava b.b., 85320 Tivat, Montenegro. Our telephone number is +12052165924.
+ITEM 3.
+Legal Proceedings
+We are not
+currently a party to any legal proceedings, nor to the knowledge of management is any litigation threatened against us, which may materially
+affect us.
+ITEM 4.
+Mine Safety Disclosures
+Not applicable.
+6
+PART
+II
+ITEM 5.
+Market for Registrant’s Common Equity and Related Stockholder Matters and Issuer Purchases of Equity Securities
+The
+Company stock is currently not trading on any exchange. We cannot assure that any market will develop or be sustained for our shares,
+Holders
+of Our Common Stock
+As
+of May 31, 2025, the 5,894,680 issued and outstanding shares of common stock were held by a total of 25 shareholder of record.
+Dividends
+The Company
+has never declared or paid cash dividends on its common stock and does not anticipate paying cash dividends in the foreseeable future.
+Securities
+Authorized for Issuance under Equity Compensation Plans
+During our
+fiscal years ended May 31, 2025 and 2024, we had no sales of unregistered shares.
+Recent
+Sales of Unregistered Securities
+During the
+fiscal year ended May 31, 2025 and 2024, the Company did not repurchase any shares of its common stock.
+ITEM 6.
+Selected Financial Data
+Not applicable.
+7
+ITEM 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+We are a
+development stage corporation with limited operations and minimal revenues from our business operations.
+The following discussion
+of our financial condition and results of operations should be read in conjunction with (i) our audited financial statements as of May
+31, 2025, that appear elsewhere in this filing. This filing contains certain forward-looking statements and our future operating results
+could differ materially from those discussed herein. Such forward-looking statements involve known and unknown risks, uncertainties and
+other factors which may cause our actual results, performance or achievements to be materially different from any future results, performance
+or achievements expressed or implied by such forward- looking statements. Given these uncertainties, readers are cautioned not to place
+undue reliance on such forward-looking statements. We disclaim any obligation to update any such factors or to announce publicly the results
+of any revisions of the forward -looking statements contained herein to reflect future events or developments.
+Going
+Concern
+Our financial
+statements have been prepared on a going concern basis which assumes that we will be able to realize our assets and discharge our
+liabilities and commitments in the normal course of business for the foreseeable future. As of May 31, 2025 Global-Smart.Tech Inc.
+has an accumulated deficit of $270,605 and during the year ended May 31, 2025, used cash in operations of $38,922 has reported a net
+loss of $124,374. These factors raise substantial doubt about our ability to continue as a going concern.
+Our ability to continue as a going concern
+is dependent upon our generating profitable operations in the future and/or to obtain the necessary financing to meet our obligations
+and repay our liabilities arising from normal business operations when they come due. Our management intends to finance operating costs
+over the next twelve months with related party loans and the sale of common stock. While we believe that we will be successful in obtaining
+the necessary financing and generating revenue to fund our operations, meet regulatory requirements, and achieve commercial goals, there
+are no assurances that such additional funding will be achieved and that we will succeed in our future operations.
+Our auditors have issued a going concern
+opinion. This means that our auditors believe there is substantial doubt that we can continue as an on-going business for the next twelve
+months. We do not anticipate that we will generate significant revenues until we have raised the funds necessary to conduct a marketing
+program.
+8
+Results of Operations for the Years
+Ended May 31, 2025 and 2024
+Total revenue for the year ended
+May 31, 2025 was $6,868 and $0 was generated for the year ended May 31, 2024.
+Total expenses for the year ended
+May 31, 2025 were $131,242, made up of office expenses of $15, professional fees of $29,513, IT & software expenses of $1,905, platform
+expense of $25,550, business licenses and permits of $60, bank service charges of $2, and depreciation expense of $74,197
+Total expenses for the year ended
+May 31, 2024 were $91,409 made up of professional fees of $17,212, depreciation expense of $74,197.
+The increases in revenue and expenses
+in the current year were mostly due to the general overall growth of the Company. Total expenses increased by $39,833, a necessary investment
+to support our commercial activities. Key expenditures such as the $25,550 platform expense and $1,905 in IT & software costs directly
+enabled the technology and infrastructure required for our business model.
+For the year ended May 31,
+2025 and 2024, the Company recorded a net loss of $124,374 and $91,409, respectively.
+Liquidity and Capital Resources
+As of May 31, 2025, we had no current assets, have
+recurring losses, have an accumulated deficit, and continue to use cash in operations. These factors raise substantial doubt about our
+ability to continue as a going concern. In the opinion of our management, additional funding is required to meet our development goals
+for the next twelve months. While there are currently no guarantees, we expect to be able to generate revenue primarily through the sale
+of pricing plans for our cloud rendering services.
+We have generated minimal revenue of $6,868 since
+inception on April 15, 2022. We will require additional funds to implement our plans. These funds may be raised through equity financing,
+debt financing, or other sources, which may result in the dilution in the equity ownership of our shares. We will also need more funds
+if the operations of our cloud rendering platform cost more than we have budgeted. Our future depends upon our ability to obtain further
+financing, the successful operations of business, a successful marketing and promotion program, attraction, and, further in the future,
+achieving a profitable level of operations.
+Operating Activities
+We used $38,922
+in net operating
+activities for the year ended May 31, 2025 and $17,211 for the year ended May 31, 2024. The primary allocation of cash has been
+directed towards general working capital needs, reflecting the ongoing operational requirements of the business.
+9
+Investing Activities
+Our Company made no net investments during
+the years ending ended May 31, 2025 and 2024.
+Financing Activities
+For the years ended May 31, 2025 and 2024
+we had cash of $51,865 and $17,211 provided by financing activities. During the year ended May 31, 2025 we received $26,841 in cash
+proceeds from the sale of common stock. As well, during the same year, Mr. Rodin, our CEO, advanced $26,224 to pay for company
+expenses ($17,211 during the year ended May 31, 2024) and was repaid $1,200. As of May 31, 2025 total advances from Mr. Rodin were
+$430,115.
+Off Balance
+Sheet Arrangements
+We don't have any off-balance
+sheet arrangements that would significantly impact our financial health, revenues, expenses, or liquidity for investors now or in the
+future.
+Critical
+Accounting Policies
+Our
+financial statements and the notes that go with them follow U.S. generally accepted accounting principles (“US GAAP”), and
+we've applied these principles consistently. To prepare these statements according to US GAAP, our management has to make estimates and
+assumptions. These estimates impact the reported values of assets and liabilities, the details about potential assets and liabilities
+on the date of the statements, and the revenue and expenses reported for the periods covered.
+We
+consistently review the accounting policies and estimates used in preparing our financial statements. Generally, our management's estimates
+are based on past experience, information from outside experts, and other assumptions considered reasonable given the situation. However,
+the actual results might turn out differently from these estimates.
+We consider
+our critical accounting policies to be those related to determining the amount of revenue to be billed, the timing of revenue recognition,
+stock-based compensation, capitalization and related amortization of intangible assets, impairment of assets, and the fair value of liabilities.
+10
+Recent
+Accounting Pronouncements
+In
+November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (ASU 2023-07),
+which requires public entities to disclose significant segment expenses that are regularly provided to the Chief Operating Decision Maker
+and details of how the CODM uses financial reporting to assess the performance of a segment. The Company adopted this pronouncement for
+the year ended May 31, 2025 and retrospectively to all prior periods using the significant segment expense categories identified. The
+impact of the adoption of the amendments in this update was not material to the Company’s financial position and results of operations,
+as the requirements impact only segment reporting disclosures in the footnotes to the Company’s financial statements.
+In
+November 2024, the FASB issued ASU No. 2024-03 “Disaggregation of Income Statement Expenses (“ASU 2024-03”). The amendments
+in ASU 2024-03 aim to improve the decision usefulness of expense information on public business entities’ income statement through
+the disaggregation of relevant expense captions in the notes to the financial statements. ASU 2024-03 is effective for annual reporting
+periods beginning after December 15, 2026, with early adoption permitted. The Company is currently evaluating the impact of this update
+on its financial statements.
+The Company
+has considered all other new pronouncements and management has determined that there have been no additional recently adopted or issued
+accounting standards that had, or will have, a material impact on its financial statements.
+ITEM
+7A. Quantitative and Qualitative Disclosures About Market Risk
+Not
+applicable for smaller reporting companies.
+ITEM 8.
+Financial Statements and Supplementary Data
+The Company’s
+Financial Statements required by Item 8, together with the reports therein of the Independent Registered Public Accounting Firm are set
+forth on pages F-1 through F-13 of this report and are incorporated by reference in this Item 8.
+ITEM 9.
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure
+There were
+no changes in or disagreements with accountants on accounting or financial disclosure during the fiscal year ended May 31, 2025.
+11
+ITEM
+9A. Controls and Procedures
+Evaluation
+of Disclosure Controls and Procedures
+Our management is responsible for establishing
+and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that
+is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is
+recorded, processed, summarized and reported, within the time periods specified in the Commission’s rules and forms.
+Disclosure controls and procedures include,
+without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that
+it files or submits under the Exchange Act is accumulated and communicated to the issuer’s management, including its principal executive
+officer or officers and principal financial officer or officers, or persons performing similar functions, as appropriate to allow timely
+decisions regarding required disclosure.
+An evaluation was conducted under the supervision
+and with the participation of our management of the effectiveness of the design and operation of our disclosure controls and procedures
+as of May 31, 2025. Based on that evaluation, our management concluded that our disclosure controls and procedures were not effective
+as of such date to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act, is recorded,
+processed, summarized and reported within the time periods specified in SEC rules and forms.
+Management’s
+Report on Internal Control over Financing Reporting
+Management
+is responsible for putting in place and maintaining a reliable system of internal controls over financial reporting. This process is designed
+to offer reasonable assurance that the Company's financial statements are accurate and prepared in line with U.S. generally accepted accounting
+principles (“US GAAP”). However, no internal control system is foolproof and might not prevent or detect all misstatements.
+Projections of how well these
+controls will work in the future could be inaccurate because conditions may change, or people may not follow the procedures as they should.
+With the involvement of management, including the Chief Executive Officer and Chief Financial Officer, the Company evaluated its internal
+controls as of May 31, 2025, using the criteria established in “Internal Control – Integrated Framework” issued by the
+Committee of Sponsoring Organizations of the Treadway Commission (“COSO-2013”).
+In the Company’s assessment of the
+effectiveness on internal controls over financial reporting as of May 31, 2025, it found the following material weaknesses:
+-Inadequate Control Structure: The
+Company lacks an effective internal control structure due to its small size, which means it doesn't have adequate risk assessment procedures,
+lacks controls over information and communication, and lacks effective monitoring controls.
+12
+-Lack of Segregation of Duties and Accounting
+Expertise: The Company has one employee and one non-employee director and there are no reviews in place or control activities set
+up to ensure adequate financial reporting. The Company also lacks accounting staff with enough knowledge of US GAAP and SEC rules. While
+not legally required to have an audit committee, management believes one is crucial for effective control. The current Board of Directors
+acts as the audit committee but does not include an independent financial expert to oversee management's activities.
+-Missing Information Technology Controls:The
+Company stores its financial data and important agreements, but it has no formal procedures for backing up data or storing it off-site
+to prevent loss from theft or other events. Additionally, there are no IT controls to prevent changes or errors in financial reporting.
+As a result of these material weaknesses,
+management has concluded that there is a reasonable possibility that a significant misstatement in the Company's financial statements
+could go undetected. Therefore, the Company's internal control over financial reporting was not effective as of May 31, 2025.
+Changes in Internal Controls
+There were no changes in our
+internal control over financial reporting that occurred during the Company’s fourth quarter of fiscal year ending May 31, 2025 that
+materially affect, or are reasonably likely to materially affect, our internal control over financial reporting.
+ITEM 9B.
+Other Information
+None.
+ITEM 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+None.
+13
+PART
+III
+ITEM 10.
+Directors, Executive Officers and Corporate Governance
+The following
+table sets forth the name and positions of our executive officer and director as of the date of this Annual Report.
+Name
+Age
+Positions
+Yehor Rodin
+38
+President, CEO, Director, Treasurer and Secretary
+Genismarlon Da Silva Nunes
+29
+Independent Director
+Set forth
+below is a brief description of the background and business experience of our executive officer and director:
+Yehor Rodin – President,
+CEO, Director, Treasurer and Secretary
+Mr. Rodin has
+served as President, CEO, Director, Treasurer and Secretary of the Board of Directors since the incorporation of Global-Smart.Tech
+Inc. on April 15, 2022. He has been responsible for overseeing all of its operations, including managing the intellectual property
+portfolio and information technology.
+Mr. Rodin's expertise
+stems from his educational background in Automation and Computer-Integrated Technologies, which he earned from Odesa National Maritime
+Academy in 2010. He has been self- employed since 2012, operating in various areas of the crypto industry, such as cryptocurrency investment,
+blockchain, Bitcoin fundamentals, and cryptocurrency algorithmic trading.
+Genismarlon
+Da Silva Nunes – Independent Director
+On
+March 31, 2025, the Board of Directors Global-Smart.Tech Inc., appointed Genismarlon Da Silva Nunes to serve as an
+Independent Director of the Global-Smart.Tech  Inc. Mr. Da Silva Nunes holds a Master’s degree in Creative Economy
+Management from ESPM (Escola Superior de Propaganda e Marketing), Brazil. From 2018 to 2021, Mr. Da Silva Nunes worked as a
+Digital Marketing Manager at VTEX, based in Rio de Janeiro, Brazil, a cloud-based e-commerce platform, where he was responsible for
+leading digital marketing strategies for the Company's international clients, overseeing online campaigns, and optimizing customer
+engagement. In 2021, Mr. Da Silva Nunes joined Accenture in Madrid, Spain, as a Senior Digital Strategy Consultant. As part of
+his role, he collaborated with teams developing cloud-rendering solutions for media and entertainment clients, enhancing real-time
+content delivery and visualization.
+14
+Term of
+Office
+Our directors
+are elected to hold office until the next annual meeting of the shareholders and until their respective successors have been elected and
+qualified. Our executive officers are appointed by our board of directors and hold office until removed by our board of directors or until
+their successors are appointed.
+Family
+Relationships
+There are
+no family relationships between or among the directors, executive officers or persons nominated or chosen by us to become directors or
+executive officers.
+Involvement
+in Certain Legal Proceedings
+During the
+past 10 years, none of our current directors, nominees for directors or current executive officers has been involved in any legal proceeding
+identified in Item 401(f) of Regulation S-K, including:
+1. Any petition
+under the Federal bankruptcy laws or any state insolvency law filed by or against, or a receiver, fiscal agent or similar officer was
+appointed by a court for the business or property of such person, or any partnership in which he or she was a general partner at or within
+two years before the time of such filing, or any corporation or business association of which he or she was an executive officer at or
+within two years before the time of such filing;
+2. Any conviction
+in a criminal proceeding or being named a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses);
+3. Being
+subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently
+or temporarily enjoining him or her from, or otherwise limiting, the following activities:
+i. Acting
+as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction
+merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or
+as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment
+company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with
+such activity;
+ii. Engaging
+in any type of business practice; or
+iii. Engaging
+in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or
+State securities laws or Federal commodities laws;
+15
+4. Being
+subject to any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring,
+suspending or otherwise limiting for more than 60 days the right of such person to engage in any type of business regulated by the Commodity
+Futures Trading Commission, securities, investment, insurance or banking activities, or to be associated with persons engaged in any such
+activity;
+5. Being
+found by a court of competent jurisdiction in a civil action or by the SEC to have violated any Federal or State securities law, and the
+judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated;
+6. Being
+found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal
+commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently
+reversed, suspended or vacated;
+7. Being
+subject to, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed,
+suspended or vacated, relating to an alleged violation of:
+i. Any Federal
+or State securities or commodities law or regulation; or
+ii. Any law
+or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction,
+order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition
+order; or
+iii. Any
+law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+8. Being
+subject to, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+(as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of
+the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary
+authority over its members or persons associated with a member.
+Board
+Committees
+We do not
+have any Board Committees.
+Code of
+Ethics
+As of May
+31, 2025, we had not adopted a Code of Ethics. We believe that the small number of board and management members do not yet warrant the
+adoption of a Code of Ethics.
+16
+ITEM 11.
+Executive Compensation
+The table
+below summarizes all compensation awarded to, earned by, or paid to our President and Independent Director for the fiscal years ended
+May 31, 2025 and 2024.
+Summary Compensation Table
+Name and principal position
+Year
+Salary
+($)
+Bonus
+($)
+Stock
+Awards
+($)
+Option
+Awards
+($)
+All Other
+Compensation
+($)
+Total
+($)
+Yehor Rodin
+2025
+25,550
+-
+-
+-
+-
+-
+(President, CEO, Director, Treasurer and Secretary)
+2024
+-
+-
+-
+-
+-
+-
+Genismarlon Da Silva Nunes
+2025
+-
+-
+-
+-
+-
+-
+Independent Director
+ITEM 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+Directors
+and Executive Officers
+The following
+table sets forth the beneficial ownership (and the percentages of outstanding shares represented by such beneficial ownership) as of May
+31, 2025 of (i) each director, (ii) the current directors identified in the “Summary Compensation Table” contained in this
+Form 10-K and (iii) all current directors and executive officers as a group. Except as otherwise indicated, we believe that the beneficial
+owners of the common stock listed below, based on information provided by such owners, have sole investment and voting power with respect
+to such shares, subject to community property laws where applicable. Persons, who have the power to vote or dispose of common stock of
+the Company, either alone or jointly with others, are deemed to be beneficial owners of such common stock.
+Beneficial Owner*
+Number of Shares
+Owned Percent of Class**
+Yehor Rodin
+5,000,000
+84.82%
+17
+ITEM 13.
+Certain Relationships and Related Transactions, and Director Independence
+On September 2, 2024 the current
+loan agreement with our President, Yehor Rodin, was amended again to increase the loan amount by $100,000, for a maximum loan amount of
+$550,000.
+As of May 31, 2025 Mr. Rodin
+was owed $430,115 under the loan agreement. During the year ended May 31, 2025 Mr. Rodin advanced $26,224 and was repaid $1,200.
+This loan is for working capital purposes and is unsecured, interest-free, and has no fixed payment terms other than the maturity date
+of April 8, 2027.
+ITEM 14.
+Principal Accounting Fees and Services
+Below
+are tables of audit fees billed by our independent registered accounting firm in
+connection with the audit of the Company’s annual financial statements and review of the quarterly financial statements for the
+years ended May 31, 2025 and 2024.
+Financial Statements for the Year Ended May 31
+Audit Services
+Audit Related Fees
+Tax Fees
+Other Fees
+2025
+$
+17,500
+$
+-
+$
+-
+$
+-
+2024
+$
+10,750
+$
+-
+$
+-
+$
+-
+18
+PART
+IV
+ITEM 15.
+Exhibits, Financial Statements Schedules
+(a)Financial
+Statements and Schedules
+The following
+financial statements and schedules listed below are included in this Form 10-K.
+1)Financial
+Statements:
+Report of Independent Registered Public Accounting Firm (PCAOB Firm ID:6258 )
+F-2
+Balance Sheets as of May 31, 2025 and 2024
+F-3
+Statements of Operations for the years ended May 31, 2025 and 2024
+F-4
+Statements of Changes in Stockholders’Equity
+(Deficit) for the years ended May 31, 2025
+and 2024
+F-5
+Statements of Cash Flows for the years ended May 31, 2025 and 2024
+F-6
+Notes to Financial Statements as of May 31, 2025
+F-7 to F-13
+2)Financial Statement
+Schedules:
+None.
+3) Exhibits:
+#
+19
+Insider Trading Policy
+#
+31.1
+Certification of the Chief Executive Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002.
+#
+31.2
+Certification of the Chief Financial Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002.
+ITEM 16.
+Form 10-K Summary
+None.
+19
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+Dated: August 29, 2025
+GLOBAL-SMART.TECH INC.
+By: /s/ Yehor Rodin
+Yehor Rodin,
+President, Secretary,
+Treasurer, Director
+(Principal Executive, Financial and Accounting Officer)
+20
+INDEX TO
+FINANCIAL STATEMENTS
+Report of Independent Registered Public Accounting Firm (PCAOB Firm ID:6258 )
+F-2
+Balance Sheets as of May 31, 2025 and 2024
+F-3
+Statements of Operations for the years ended May 31, 2025 and 2024
+F-4
+Statements of Changes in
+Stockholders’Equity (Deficit) for the years ended May 31, 2025
+and 2024
+F-5
+Statements of Cash Flows for the years ended May 31, 2025 and 2024
+F-6
+Notes to Financial Statements as of May 31, 2025
+F-7 to F-13
+F-1
+Report of Independent Registered Public Accounting
+Firm
+Board of Directors and Shareholders
+Global-Smart.Tech Inc.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets of Global-Smart.Tech Inc.as
+of May 31, 2025, and the related statements of operations, stockholders’ equity (deficit), and cash flows for the year then ended
+and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of Global-Smart.Tech Inc.as of May 31, 2025, and the results of its operations and
+its cash flows for the year ended May 31, 2025, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying financial statements have been prepared assuming that
+the entity will continue as a going concern. As discussed in Note 2 to the financial statements, the entity has an accumulated deficit,
+uses cash in operations, and has recurring losses, all of which raise substantial doubt about its ability to continue as a going concern.
+Management's plans in regard to these matters are also described in Note 2. The financial statements do not include any adjustments that
+might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the
+responsibility of the entity’s management. Our responsibility is to express an opinion on these financial statements based on
+our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States)
+("PCAOB") and are required to be independent with respect to Global-Smart.Tech Inc. in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the
+standards of the PCAOB and in accordance with auditing standards generally accepted in the United States of America. Those standards
+require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of
+material misstatement, whether due to error or fraud. Global-Smart.Tech Inc. is not required to have, nor were we engaged to
+perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the entity's
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from the current period audit
+of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts
+or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+We determined that there are no critical audit matters.
+/s/ Mac Accounting Group & CPAs, LLP
+We have served as Global-Smart.Tech Inc.’s auditor since 2024.
+Midvale, Utah
+August 29, 2025
+F-2
+GLOBAL-SMART.TECH
+INC.
+Balance Sheets
+As of May 31, 2025 and 2024
+May 31, 2025
+May 31, 2024
+Assets
+Current Assets
+Сash
+$
+12,943
+$
+-
+Prepaid Expenses
+18,295
+-
+Total Current Assets
+31,238
+-
+Fixed Assets
+Equipment, net
+186,516
+259,313
+Website Development, net
+3,150
+4,550
+Total Fixed Assets
+189,666
+263,863
+Total Assets
+$
+220,904
+$
+263,863
+Liabilities and Stockholders’ Equity (Deficit)
+Current Liabilities
+Accrued Salaries
+$
+25,550
+$
+-
+Deferred Revenue
+4,000
+-
+Loan from Related Parties
+430,115
+405,091
+Total Current Liabilities
+459,665
+405,091
+Total Liabilities
+459,665
+405,091
+Stockholders’ Equity (Deficit)
+Common Stock ($0.001 par value, 75,000,000 shares authorized; 5,894,680 and 5,000,000 shares issued and outstanding as of May 31, 2025 and May 31, 2024, respectively)
+5,895
+5,000
+Additional Paid-in Capital
+25,946
+-
+Accumulated Other Comprehensive Income
+3
+3
+Accumulated Deficit
+(270,605)
+(146,231)
+Total Stockholders’ Equity (Deficit)
+(238,761)
+(141,228)
+Total Liabilities & Stockholders’ Equity (Deficit)
+$
+220,904
+$
+263,863
+See accompanying notes, which are an integral part
+of these financial statements
+F-3
+GLOBAL-SMART.TECH INC.
+Statements of Operations
+For the Years Ended May 31, 2025 and 2024
+Year Ended
+May 31, 2025
+Year Ended
+May 31, 2024
+Revenues
+$
+6,868
+$
+-
+Operating Expenses
+Professional Fees
+29,513
+17,211
+Depreciation Expense
+74,197
+74,198
+General and Administrative Expenses
+27,532
+-
+Total Operating Expenses
+131,242
+91,409
+Net Loss from Operations
+(124,374)
+(91,409)
+Provision for Income Taxes
+-
+-
+Net Loss
+$
+(124,374)
+$
+(91,409)
+Loss per Common Share – Basic & Diluted
+$
+(0.02)
+$
+(0.02)
+Weighted Average Number of Common Shares Outstanding – Basic & Diluted
+5,035,284
+5,000,000
+See accompanying notes, which are an integral part
+of these financial statements.
+F-4
+GLOBAL-SMART.TECH
+INC.
+Statements of Changes in Stockholders’
+Equity (Deficit)
+For the Years Ended May 31, 2025 and 2024
+Common Stock
+Shares
+Amount
+Additional Paid-in- Capital
+Accumulated
+Deficit
+Accumulated Other Comprehensive Income
+Total
+Balance as of May 31, 2023
+5,000,000
+$
+5,000
+$
+-
+$
+(54,822)
+$
+3
+$
+(49,819)
+Net Loss
+-
+-
+-
+(91,409)
+-
+(91,409)
+Balance as of May 31, 2024
+5,000,000
+5,000
+-
+(146,231)
+3
+(141,228)
+Common Shares Issued for Cash
+894,680
+895
+25,946
+-
+-
+26,841
+Net Loss
+-
+-
+-
+(124,374)
+-
+(124,374)
+Balance as of May 31, 2025
+5,894,680
+$
+5,895
+$
+25,946
+$
+(270,605)
+$
+3
+$
+(238,761)
+See accompanying notes, which are an integral part
+of these financial statements.
+F-5
+GLOBAL-SMART.TECH
+INC.
+Statements of Cash Flows
+For the Years Ended May 31, 2025 and 2024
+Year Ended
+May 31, 2025
+Year Ended
+May 31, 2024
+OPERATING ACTIVITIES
+Net Loss
+$
+(124,374)
+$
+(91,409)
+Adjustments to reconcile Net Loss to Net Cash Used in Operating Activities
+Depreciation Expense
+74,197
+74,198
+Changes in Assets and Liabilities:
+Prepaid Expense
+(18,295)
+-
+Accrued Salaries
+25,550
+-
+Deferred Revenue
+4,000
+-
+Net Cash Used in Operating Activities
+(38,922)
+(17,211)
+INVESTING ACTIVITIES
+Net Cash Used in Investing Activities
+-
+-
+FINANCING ACTIVITIES
+Proceeds from Loan from Related Parties
+26,224
+17,211
+Repayment of a Loan from Related Parties
+(1,200)
+-
+Proceeds from the Sale of Common Stock
+26,841
+-
+Net Cash Provided by Financing Activities
+51,865
+17,211
+Net Cash Increase (Decrease) for the Period
+12,943
+-
+Cash at Beginning of Period
+-
+-
+Cash at End of Period
+$
+12,943
+$
+-
+SUPPLEMENTAL SCHEDULE OF CASH FLOW INFORMATION:
+Cash Paid for:
+Interest
+$
+-
+$
+-
+Income Tax
+$
+-
+$
+-
+See accompanying notes, which are an integral part
+of these financial statements.
+F-6
+GLOBAL-SMART.TECH
+INC.
+Notes to the Financial Statements
+As of May 31, 2025
+NOTE 1. ORGANIZATION AND DESCRIPTION OF BUSINESS
+Global-Smart.Tech
+Inc.(the “Company”)
+was incorporated under the laws of the State of Wyoming on April 15, 2022. The Company initially established with a primary focus on leasing
+power to clients. However, to optimize resource utilization and enhance profitability, we have transitioned our operations to incorporate
+cloud-rendering services.
+NOTE 2. Going
+Concern
+Our financial statements have been
+prepared on a going concern basis which assumes that we will be able to realize our assets and discharge our liabilities and
+commitments in the normal course of business for the foreseeable future. As of May 31, 2025 Global-Smart.Tech Inc. has an
+accumulated deficit of $270,605
+and during the year ended May 31, 2025, used cash in operations of $38,922
+has reported a net loss of $124,374.These factors
+raise substantial doubt about our ability to continue as a going concern.
+Our ability to continue as a going concern
+is dependent upon our generating profitable operations in the future and/or to obtain the necessary financing to meet our obligations
+and repay our liabilities arising from normal business operations when they come due. Our management intends to finance operating costs
+over the next twelve months with related party loans and the sale of common stock. While we believe that we will be successful in obtaining
+the necessary financing and generating revenue to fund our operations, meet regulatory requirements, and achieve commercial goals, there
+are no assurances that such additional funding will be achieved and that we will succeed in our future operations.
+NOTE 3. Summary
+of Significant Accounting Policies
+Basis of Presentation
+The Company uses the accrual basis of accounting
+and accounting principles. The financial statements of the Company have been prepared in accordance with generally accepted accounting
+principles in the United States of America and are presented in US dollars. The Financial Statements and related disclosures have been
+prepared pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”). The Company has elected
+May 31st as its fiscal year end.
+F-7
+Use of Estimates
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Foreign Currency
+The Company’s functional and
+reporting currency is the U.S. dollar. Transactions may occur in foreign currencies and management has adopted Accounting Standards
+Codification (“ASC”) 830, “Foreign Currency Translation Matters”. Monetary assets and liabilities
+denominated in foreign currencies are translated using the exchange rate prevailing at the balance sheet date. The Company is
+located in Montenegro. However, the Company's cash flows and expenses are primarily denominated in United States Dollars (USD) due
+to the nature of its operations. Accordingly, the Board of Directors has determined that USD is the Company's functional currency
+for the purposes of preparing the financial statements. For realized gains and losses: these are reported in the income statement,
+typically as a separate line item or combined with other income or expense items. For the years ended May 31, 2025 and 2024, we
+didn’t recognize any foreign currency gains or losses.
+Transaction gains or losses result from a change
+in exchange rates between the functional currency and the currency in which a foreign currency transaction is denominated. They represent
+an increase or decrease in both of the following:
+- the actual functional currency cash flows
+realized upon settlement of foreign currency transactions
+- the expected functional currency cash flows on unsettled
+foreign currency transactions
+Non-monetary assets and liabilities denominated
+in foreign currencies are translated at rates of exchange in effect at the date of the transaction. Average monthly rates are used to
+translate revenues and expenses. Gains and losses arising on translation or settlement of foreign currency denominated transactions or
+balances are included in the statement.
+Revenue Recognition
+The Company recognizes revenue
+in accordance with ASC 606, “Revenue from Contracts with Customers”. The
+core principle of ASC 606 is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an
+amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
+F-8
+An entity recognizes revenue
+in accordance with that core principle by applying the following steps: Step 1: Identify the contract(s) with a customer Step 2: Identify
+the performance obligations in the contract Step 3: Determine the transaction price Step 4: Allocate the transaction price to the performance
+obligations in the contract Step 5: Recognize revenue when (or as) the entity satisfies a performance obligation.
+We generate revenue through the
+sale of pricing plans for our cloud rendering services. To select the pricing plan that best fits client’s requirements, they are
+required to contact our team to subscribe and submit their project. This allows us to choose the right pricing plan according to their
+project and the cloud rendering power needed. When estimating a project, we assess the required number of hours and capacity necessary
+to fulfill the client's needs. The pricing plans may vary depending on the number of video cards used to produce power (10, 25 and 40
+video cards), as well as the time needed for rendering with a minimum option of 5 hours.
+Clients can contact us
+using the information provided in the "Contacts" section on our website (https://global-smart.tech/contacts/). After determining
+the project scope, the client proceeds with the payment. Upon receipt of payment, we recognize revenue for the portion of the service
+delivered. For projects spanning multiple billing cycles, we recognize revenue proportionally as the service is rendered. Any undelivered
+service obligations are reflected as deferred revenue on the balance sheet. This revenue stream will be a key driver of our financial
+growth and sustainability for the foreseeable future.
+During the year ended
+May 31, 2025 and 2024 the Company recorded revenue of $6,868 and $0, respectively. Accounts receivable was $0 as of May 31, 2025, 2024,
+and 2023. Deferred revenue was $4,000 $0, and $0 as of May 31, 2025, 2024 and 2023, respectively.
+Fixed Assets
+Fixed assets are
+stated at cost and the Company records depreciation using the straight-line method over the assets estimated useful life. Expenditures
+for maintenance and repairs are charged to expense as incurred. Additions, major renewals and replacements that increase the property's
+useful life are capitalized. Property sold or retired, together with the related accumulated depreciation is removed from the appropriate
+accounts and the resultant gain or loss is included in net income.
+F-9
+Fixed asset amounts are as follows:
+Website Development
+Equipment
+Total
+Estimated Useful Life (Years)
+5
+5
+Total Cost of the Asset
+$
+7,000
+$
+363,988
+$
+370,988
+Accumulated Depreciation at May 31, 2025
+(3,850)
+(177,472)
+(181,322)
+Net Book Value at May 31, 2025
+$
+3,150
+$
+186,516
+$
+186,666
+Depreciation Expense for year ended May 31, 2025
+$
+1,400
+$
+72,797
+$
+74,197
+Depreciation Expense for year ended May 31, 2024
+$
+1,400
+$
+72,798
+$
+74,198
+On November 30, 2022 Global-Smart.Tech Inc.
+entered into an agreement to purchase equipment for $363,988. Part of this equipment was placed in service in August, 2022. Complete
+installation and switching on of all equipment was on November 11, 2023. Website development costs was $7,000 and the website was
+placed in service on August 29, 2022.
+Impairment of Long-Lived Assets
+In
+accordance with ASC 360 “Property, Plant, and Equipment” the Company periodically reviews the carrying value of its
+long-lived assets held and used at least annually or when events and circumstances warrant such a review. If significant events or
+changes in circumstances indicate that the carrying value of an asset or asset group may not be recoverable, the Company performs a
+test of recoverability by comparing the carrying value of the asset to its undiscounted expected future cash flows. If the carrying
+values are in excess of undiscounted expected future cash flows, we measure any impairment by comparing the fair value of the asset
+to its carrying value. If the fair value of an asset is determined to be less than the carrying amount of the asset, impairment in
+the amount of the difference is recorded. The Company recorded no impairment during the years ended May 31, 2025 and
+2024.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments
+with remaining maturities at the date of purchase of six months or less to be cash equivalents. The Company had no cash equivalents as
+of May 31, 2025 and 2024.
+Advertising Costs
+Advertising costs are expensed as incurred.
+During the year ended May 31, 2025 and 2024 the Company did not incur any advertising costs.
+F-10
+Fair Value of Financial Instruments
+ASC 820 "Fair Value Measurements and Disclosures"
+establishes a three-tier fair value hierarchy, which prioritizes the inputs in measuring fair value. The hierarchy prioritizes the inputs
+into three levels based on the extent to which inputs used in measuring fair value are observable in the market.
+These tiers include:
+Level 1: defined
+as observable inputs such as quoted prices in active markets;
+Level 2: defined
+as inputs other than quoted prices in active markets that are either directly
+or indirectly
+observable;
+Level 3: defined
+as unobservable inputs in which little or no market data exists, therefore
+requiring an entity
+to develop its own assumptions.
+The carrying value of the Company's loan from related
+parties approximates fair value due to its short-term maturity.
+Basic and Diluted Loss Per Share
+The Company computes earnings (loss) per share
+in accordance with ASC 260 “Earnings per Share”, which requires presentation of both basic and diluted earnings per share on the
+face of the statement of operations.
+Basic earnings (loss) per share is computed
+by dividing net earnings (loss) available to common stockholders by the weighted average number of outstanding common shares during the
+period. Diluted earnings (loss) per share gives effect to all dilutive potential common shares outstanding during the period. Dilutive
+earnings (loss) per share excludes all potential common shares if their effect is anti- dilutive. As of May 31, 2025 and 2024 the Company
+had no potential dilutive instruments, therefore basic and diluted earnings (loss) per share are equal.
+Income Taxes
+The Company accounts for income taxes under
+the asset and liability method, whereby deferred tax assets and liabilities are determined based on the difference between the financial
+statement and tax bases of assets and liabilities using the enacted tax rates in effect for the year in which the differences are expected
+to affect taxable income. A valuation allowance is established when necessary to reduce deferred tax assets to the amounts expected to
+be realized.
+F-11
+Segment Reporting
+The Company operates as a single
+operating and reportable segment, providing cloud-rendering services. Our Chief Executive Officer is our Chief Operating Decision
+Maker (“CODM”) who evaluates and makes operating decisions about allocation resources considering our single
+geographical area and on a consolidated basis. Accordingly, the CODM considers revenue and operating expenses of our single
+operating segment as reported on the statement of operations and considers our current and total assets as recorded on the balance
+sheet. There are no additional expense or asset information that are supplemental to those disclosed on these financial statements
+that are regularly provided to the CODM.
+Recent Accounting Pronouncements
+In November
+2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (ASU 2023-07), which
+requires public entities to disclose significant segment expenses that are regularly provided to the Chief Operating Decision Maker and
+details of how the CODM uses financial reporting to assess the performance of a segment. The Company adopted this pronouncement for the
+year ended May 31, 2025 and retrospectively to all prior periods using the significant segment expense categories identified. The impact
+of the adoption of the amendments in this update was not material to the Company’s financial position and results of operations,
+as the requirements impact only segment reporting disclosures in the footnotes to the Company’s financial statements.
+In November
+2024, the FASB issued ASU No. 2024-03 “Disaggregation of Income Statement Expenses (“ASU 2024-03”). The amendments
+in ASU 2024-03 aim to improve the decision usefulness of expense information on public business entities’ income statement through
+the disaggregation of relevant expense captions in the notes to the financial statements. ASU 2024-03 is effective for annual reporting
+periods beginning after December 15, 2026, with early adoption permitted. The Company is currently evaluating the impact of this
+update on its consolidated financial statements.
+The Company
+has considered all other new pronouncements and management has determined that there have been no additional recently adopted or issued
+accounting standards that had, or will have, a material impact on its financial statements.
+NOTE 4. Related
+Party Transaction
+On May 30, 2022 the Company entered into a
+loan agreement with Yehor Rodin, the Company's officer and director, whereby Mr. Rodin agreed to loan up to $100,000 on an unsecured and
+interest-free basis. On October 7, 2022 the loan agreement was amended to increase the loan amount by $300,000, for a maximum loan amount
+of $400,000, and to change the maturity date to October 7, 2025. On April 8, 2024 the loan agreement was amended to increase the loan
+amount by $50,000, for a maximum loan amount of $450,000, and to change the maturity date to April 8, 2027. On September 2, 2024 the loan
+agreement was amended again to increase the loan amount by $100,000, for a maximum loan amount of $550,000.
+As of May 31, 2025 Mr. Rodin was owed $430,115
+under the loan agreement. During the year ended May 31, 2025 Mr. Rodin advanced $26,224 and was repaid $1,200.
+F-12
+NOTE 5. Common
+Stock
+The Company has 75,000,000 common shares authorized
+with a par value of $0.001 per share.
+During the year ended May 31, 2025, the Company issued
+894,680 shares of common stock for cash proceeds at $0.03 per share for a total of $26,841.
+During the year ended May 31, 2024, the Company did
+not issue any shares of common stock.
+There were 5,894,680 and 5,000,000 shares of common
+stock issued and outstanding as of May 31, 2025 and 2024, respectively.
+NOTE 6. COMMITMENT AND CONTINGENCIES
+Litigation
+The Company was
+not subject to any legal proceedings during the years ended May 31, 2025 and 2024, respectively nor did it have any litigation contingencies
+as of May 31, 2025 and 2024.
+NOTE
+7. Subsequent Events
+In accordance with SFAS 165
+(ASC 855-10), the Company reviewed its activities subsequent to May 31, 2025 and through the date these financial statements were available
+to be issued, and has determined that it does not have any material events to disclose except as follows:
+Subsequent to May 31, 2025 the
+Company issued 240,100 additional common shares at $0.03 per share for a total of $7,203 cash proceeds.
+F-13

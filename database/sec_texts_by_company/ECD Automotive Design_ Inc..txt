@@ -1,0 +1,3650 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+(Amendment No. 1)
+(Mark One)
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended: December 31, 2024
+☐ TRANSITION REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____________ to
+_____________
+Commission File No. 001-41497
+ECD AUTOMOTIVE DESIGN, INC.
+(Exact name of registrant as specified in its charter)
+Delaware   86-2559175
+(State or other jurisdiction of
+incorporation or organization)   (I.R.S. Employer
+Identification No.)
+4390 Industrial Lane
+Kissimmee, Florida   34758
+(Address of principal executive offices)   (Zip Code)
+(407) 483-4825
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class   Trading Symbol(s)   Name of each exchange on which registered
+Common Stock   ECDA   The Nasdaq Stock Market LLC
+Warrants   ECDAW   The Nasdaq Stock Market LLC
+Securities registered pursuant to Section 12(g)
+of the Act: None.
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding
+12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company.
+See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”
+and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐   Accelerated filer ☐
+Non-accelerated filer ☒   Smaller reporting company ☒
+Emerging growth company ☒
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act by the registered public accounting firm that prepared or issued its audit report.
+☐
+If securities are registered pursuant to Section
+12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction
+of an error to previously issued financial statements. ☒
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether registrant is a
+shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+As of June 30, 2024, based upon the last reported
+trade on that date, the aggregate market value of the voting and non-voting common equity held by non-affiliates was $9,003,636.
+As of July 14, 2025, there were a total of
+48,613,465 shares of the registrant’s common stock issued and outstanding.
+EXPLANATORY NOTE
+On April 15, 2025, ECD
+Automotive Design, Inc. (the “Company”) filed its Annual Report on Form 10-K for the year ended December 31, 2024 (the “Original
+Form 10-K”). The purpose of this Amendment No. 1 to the Original Form 10-K (the “Amendment”) is to replace the report
+of independent registered public accounting firm of Barton CPA PLLC – PCAOB ID #6968 (“Barton CPA”), included in the
+Original Form 10-K (the “Original AR Letter”) which contained an inadvertent typographical error in that the Original AR
+Letter omitted to reference that the Company’s balance sheet and financial statements for the year ended December 31, 2023 were
+covered by Barton CPA’s audit and included in the Original Form 10-K. The Company is hereby filing this Amendment to include a
+corrected report of independent registered public accounting firm of Barton CPA PLLC, which states that Barton CPA has “audited
+the accompanying balance sheets of ECD Automotive Design, Inc. and Subsidiaries (Humble Imports, Inc. d/b/a ECD Auto Design) (the “Company”)
+as of December 31, 2024 and 2023, and the related statements of operations, stockholders’ deficit, and cash flows for the years
+then ended and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its operations
+and its cash flows for each of the years then ended, in conformity with accounting principles generally accepted in the United States
+of America.” In this Amendment we have included “F” pages F-1 through F-39 and the corrected report of independent
+registered public accounting firm appears on pages F-2 and F-3. No other items in the “F” pages or in the Original Form 10-K
+are being amended and this Amendment does not reflect any events that occurred after the filing of the Original Form 10-K. Accordingly,
+this Amendment should be read in conjunction with the Original Form 10-K and the Company’s other filings with the SEC subsequent
+to the filing of the Original Form 10-K.
+1
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Contents
+Page
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (PCAOB ID #6968)   F-2
+Consolidated Financial Statements
+Consolidated Balance Sheets as of December 31, 2024 and 2023   F-4
+Consolidated Statements of Operations for the Years Ended December 31, 2024 and 2023   F-5
+Consolidated Statements of Changes in Stockholders’ Deficit for the Years Ended December 31, 2024 and 2023   F-6
+Consolidated Statements of Cash Flows for the Years Ended December 31, 2024 and 2023   F-7
+Notes to Consolidated Financial Statements   F-8
+F-1
+Certified Public Accountants and Advisors
+A PCAOB Registered Firm
+713-489-5635 bartoncpafirm.com Cypress, Texas
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+To the Board of Directors and
+Stockholders of ECD Automotive Design, Inc. and Subsidiaries
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets
+of ECD Automotive Design, Inc. and Subsidiaries (Humble Imports, Inc. d/b/a ECD Auto Design) (the “Company”) as of December
+31, 2024 and 2023, and the related statements of operations, stockholders’ deficit, and cash flows for the years then ended and
+the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in
+all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its operations and
+its cash flows for each of the years then ended, in conformity with accounting principles generally accepted in the United States of
+America.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with
+the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were
+we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an
+understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of
+the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+F-2
+Other Matters
+Going Concern
+As described in Note 2 to the financial statements,
+the Company has sustained significant losses and negative cash flows from operations and are dependent on debt and equity financing to
+fund operations. If the Company is unable to raise sufficient funding, it may struggle to reach its future obligations.
+Accordingly, the Company has determined that these
+factors raise substantial doubt as to the Company’s ability to continue as a going concern for a period of one year from the date
+these financial statements are issued.
+Management plans to identify adequate
+sources of funding to provide operating capital for continued growth. Auditing the Company’s assessment and related
+disclosures regarding its ability to continue as a going concern required significant auditor judgment. This is due to the high
+level of uncertainty surrounding the projections and assumptions related to the timing and likelihood of future cash flows,
+including external funding. Assessing whether the Company’s disclosures adequately reflect the uncertainty and risks
+associated with its going concern status also demanded considerable auditor judgment and effort.
+We have served as the Company’s auditor
+since 2024.
+Cypress, Texas
+April 15, 2025
+F-3
+ECD AUTOMOTIVE DESIGN, INC
+CONSOLIDATED BALANCE SHEETS
+December 31,
+2024
+2023
+ASSETS
+Current assets
+Cash and cash equivalents
+$1,476,850
+$8,134,211
+Accounts receivable, net
+45,022
+-
+Inventories
+11,181,806
+9,607,766
+Prepaid and other current assets
+239,864
+34,006
+Total current assets
+12,943,542
+17,775,983
+Goodwill
+1,291,098
+-
+Property and equipment, net
+483,878
+913,097
+Intangible asset, net
+12,000
+-
+Right-to-use asset
+3,404,983
+3,763,295
+Deferred tax asset
+-
+838,055
+Deposit
+60,200
+77,686
+TOTAL ASSETS
+$18,195,701
+$23,368,116
+LIABILITIES, REDEEMABLE PREFERRED STOCK AND STOCKHOLDERS’ DEFICIT
+Current liabilities
+Accounts payable
+$2,494,664
+$898,445
+Accrued expenses
+1,686,598
+779,695
+Deferred revenue
+11,802,825
+16,190,861
+Floor plan payable
+1,212,000
+-
+Lease liability, current
+353,612
+314,903
+Other payable
+1,364,222
+1,549,863
+Total current liabilities
+18,913,921
+19,733,767
+Lease liability, non-current
+3,373,571
+3,727,183
+Warrant liabilities, at fair value
+486,559
+26,283
+Conversion option, at fair value
+313,191
+2,724
+Convertible note, net of debt discount
+14,085,932
+10,654,444
+Total Liabilities
+37,173,174
+34,144,401
+COMMITMENTS AND CONTINGENCIES (NOTE 19)
+Redeemable preferred stock, $0.0001 par value, 20,000,000 authorized shares; 25,000 shares issued and outstanding as of December 31, 2024 and no shares issued and outstanding as of December 31, 2023
+1
+3
+Stockholders’ deficit
+Common stock, $0.0001 par value, 1,000,000,000 authorized shares; 31,874,662 shares and 24,000,000 shares issued and outstanding as of December 31, 2024 and 2023, respectively
+3,650
+3,187
+Additional paid-in capital
+2,576,498
+-
+Other comprehensive income
+(6,696)
+Accumulated deficit
+(21,550,926)
+(10,779,475)
+Total Stockholders’ Deficit
+(18,977,474)
+(10,776,288)
+TOTAL LIABILITIES, REDEEMABLE PREFERRED STOCK AND STOCKHOLDERS’ DEFICIT
+$18,195,701
+$23,368,116
+The accompanying notes are an integral part
+of these consolidated financial statements
+F-4
+ECD AUTOMOTIVE DESIGN, INC
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Year Ended December 31
+2024
+2023
+Revenue, net
+$25,165,733
+$19,492,606
+Cost of goods sold (exclusive of depreciation and amortization expense shown below)
+19,277,786
+14,969,683
+Gross profit
+5,887,947
+4,522,923
+Operating expenses
+Advertising and marketing expenses
+1,171,696
+641,831
+General and administrative expenses
+9,106,716
+5,144,601
+Provision for credit losses
+31,484
+123,562
+Depreciation and amortization expenses
+126,791
+148,763
+Total operating expenses
+10,436,687
+6,058,757
+Loss from operations
+(4,548,740)
+(1,535,834)
+Other (expense) income
+Interest expense
+(5,270,404)
+(653,429)
+Change in fair value of warrant liabilities
+(433,725)
+-
+Change in fair value of conversion option liabilities
+(204,487)
+-
+Gain on forgiveness of payable
+319,900
+-
+Resale commissions income
+134,600
+106,353
+FX exchange gain (loss)
+(48,071)
+-
+Other income, net
+117,531
+65,949
+Total (expense) income, net
+(5,384,656)
+(481,127)
+Loss before income tax benefit
+(9,933,396)
+(2,016,961)
+Income tax (expense) benefit
+(838,055)
+838,055
+Net Loss
+$(10,771,451)
+$(1,178,906)
+Net loss per common share, basic and diluted
+$(0.32)
+$(0.05)
+Weighted average number of common shares outstanding, basic and diluted
+33,505,605
+24,875,667
+The accompanying notes are an integral part
+of these consolidated financial statements
+F-5
+ECD AUTOMOTIVE DESIGN, INC
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’
+DEFICIT
+YEAR ENDED DECEMBER 31, 2024 AND 2023
+Redeemable Preferred Stock
+Common Stock
+Additional Paid-in
+Other
+comprehensive
+Accumulated
+Total Stockholders’
+Shares
+Amount
+Shares
+Amount
+Capital
+Income
+Deficit
+Deficit
+Balance – December 31, 2022, as restated
+-
+$-
+24,000,000
+$2,400
+$-
+$-
+$(6,322,614)
+$(6,320,214)
+Stockholder distributions
+-
+-
+-
+-
+-
+-
+(2,329,357)
+(2,329,357)
+Forgiveness of stockholder loans
+-
+-
+-
+-
+-
+-
+(280,635)
+(280,635)
+Issuance of preferred and common shares, net of issuance costs
+25,000
+3
+2,500,000
+250
+94,747
+-
+-
+94,997
+Issuance of stock upon Business Combination
+-
+-
+5,374,662
+537
+-
+-
+-
+537
+Assets and liabilities assumed from Special Purpose Acquisition Company (“SPAC”)
+-
+-
+-
+-
+(94,747)
+-
+(667,963)
+(762,710)
+Net loss
+-
+-
+-
+-
+-
+-
+(1,178,906)
+(1,178,906)
+Balance – December 31, 2023 as restated
+25,000
+3
+31,874,662
+3,187
+-
+-
+(10,779,475)
+(10,776,288)
+Issuance of common shares
+-
+-
+2,575,000
+258
+2,410,183
+-
+-
+2,410,441
+Issuance of common shares to vendors
+-
+-
+200,000
+20
+159,129
+-
+-
+159,149
+Fair value of share based compensation
+-
+-
+-
+-
+22,810
+-
+-
+22,810
+Proceeds allocated to warrants
+-
+-
+-
+-
+89,559
+-
+-
+89,559
+Stock issuance costs
+-
+-
+-
+-
+(105,000)
+-
+-
+(105,000)
+Conversion of redeemable preferred shares
+(18,500)
+(2)
+1,850,000
+185
+(183)
+-
+-
+2
+Foreign currency translation loss
+-
+-
+-
+-
+-
+(6,696)
+-
+(6,696)
+Net loss
+-
+-
+-
+-
+-
+-
+(10,771,451)
+(10,771,451)
+Balance – December 31, 2024
+6,500
+$1
+36,499,662
+$3,650
+$2,576,498
+$(6,696)
+$(21,550,926)
+$(18,977,474)
+The accompanying notes are an integral part
+of these consolidated financial statements
+F-6
+ECD AUTOMOTIVE DESIGN, INC
+CONSOLIDATED STATEMENT OF CASH FLOWS
+Year Ended December 31
+2024
+2023
+Cash Flows from Operating Activities:
+Net loss
+$(10,771,451)
+$(1,178,906)
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities
+Depreciation and amortization expenses
+126,791
+148,763
+Gain on forgiveness of payable
+319,900
+-
+Change in fair value of derivatives
+638,212
+-
+Amortization of right-to-use asset
+358,312
+330,110
+Amortization of debt discount
+1,928,576
+72,335
+Equity based compensation
+331,959
+-
+Provision for credit losses
+31,484
+123,562
+Changes in operating assets and liabilities:
+Accounts receivable
+(76,506)
+491,993
+Other receivable
+-
+209,810
+Inventories
+(1,220,602)
+(1,813,841)
+Prepaid and other current assets
+(205,858)
+(25,571)
+Deferred tax asset
+838,055
+(838,055)
+Deposit
+17,486
+(1,700)
+Accounts payable
+1,509,157
+199,536
+Accrued expenses
+1,449,977
+536,944
+Deferred revenue and customer deposits
+(4,388,036)
+(1,302,767)
+Other payable
+(335,641)
+1,299,337
+Lease liability
+(314,903)
+(247,492)
+Net cash (used in) provided by operating activities
+(9,763,088)
+(1,995,942)
+Cash Flows from Investing Activities:
+Proceeds from sale of asset
+6,718
+-
+Purchase of assets
+(23,764)
+(499,316)
+Net cash used in investing activities
+(17,046)
+(499,316)
+Cash Flows from Financing Activities:
+Repayment of loan payable
+-
+(500,000)
+Repayment of floor loan
+(1,675,000)
+-
+Proceeds from floor loan
+2,887,000
+-
+Proceeds from convertible note
+1,154,681
+13,700,000
+Debt issuance costs
+(382,212)
+(3,088,884)
+Assets and liabilities assumed from Business Combination
+-
+(762,710)
+Issuance of preferred and common shares, net of issuance costs
+1,145,000
+95,537
+Cash distributed to stockholders
+-
+(2,329,357)
+Net cash provided by (used in) financing activities
+3,129,469
+7,114,586
+Effect of translation changes on cash
+(6,696)
+-
+Net increase in cash and cash equivalents
+(6,657,361)
+4,619,328
+Cash and cash equivalents, beginning of year
+8,134,211
+3,514,883
+Cash and cash equivalents, end of year
+$1,476,850
+$8,134,211
+Supplemental Disclosures of Cash Flow Information:
+Cash paid for interest
+$1,812,295
+$95,681
+Supplemental disclosure of noncash cash flow information
+Transfer of property and equipment to inventory
+$325,474
+$-
+Initial classification of warrant liabilities
+$26,551
+$26,283
+Initial classification of conversion option liability
+$105,981
+$2,724
+Assets and liabilities acquired with the business combination
+$1,250,000
+$-
+Conversion of preferred shares into common shares
+$185
+$-
+Paid in kind interest on convertible note
+$862,974
+$-
+Record right-to-use asset and lease liability per ASC 842
+$196,797
+$196,797
+The accompanying notes are an integral part
+of these consolidated financial statements
+F-7
+NOTE 1. NATURE OF OPERATIONS
+ECD Automotive Design, Inc (the “Company,”
+“ECD,” “we,” “us,” or “our), formerly known as EF Hutton Acquisition Corporation I (“EFHAC”)
+(the Company) is engaged in the production and sale of Land Rover vehicle. Since the Company’s commencement of operations in 2013,
+they have established a facility geared towards producing the most customized Land Rovers with the highest quality of parts and the highest
+quality labor force building each vehicle. The Company primarily earns revenue from the sale of the customized vehicle directly to the
+customer. Additionally, revenue is generated from providing repair or upgrade services to customers and from the sale of extended warranties.
+On December 12, 2023, ECD completed the business
+combination contemplated by the merger agreement dated as of March 3, 2023 (the “Merger Agreement”) by and among EFHAC, Humble
+Imports Inc., d/b/a ECD Auto Design, a Florida corporation (“Humble” or “ECD”), ECD Auto Design UK, Ltd., an England
+and Wales corporation (the “ECD UK”), EFHAC Merger Sub, Inc., a Florida corporation (“Merger Sub”) and wholly-owned
+subsidiary of EFHAC, and Scott Wallace, as the Securityholder Representative. At part of the closing Merger Sub merged with and into ECD
+with ECD as the surviving corporation and becoming a wholly-owned subsidiary of EFHAC. In connection with the Merger, EFHAC changed its
+name to “ECD Automotive Design Inc.” or such other name designated by E.C.D. by notice to EFHAC. See Note 5 for further information.
+The business combination was accounted for as
+a reverse recapitalization in accordance with GAAP. Under this method of accounting, although EFHAC acquired the outstanding equity interest
+in ECD in the business combination, EFHAC is treated as the “acquired company” and ECD was treated as the accounting acquirer
+for financial statement purposes.  Accordingly, the Business Combination was treated as the equivalent of ECD issuing stock for the
+net assets of EFHAC, accompanied by a recapitalization. The net assets of EFHAC are stated at historical cost, with no goodwill or other
+intangible assets recorded.
+Furthermore, the historical financial statements
+of ECD became the historical financial statements of the Company upon the consummation of the merger. As a result, the financial statements
+included in this Annual Report reflect (i) the historical operating results of ECD prior to the merger; (ii) the combined results of EFHAC
+and ECD following the close of the merger; (iii) the assets and liabilities of ECD at their historical cost and (iv) ECD’s equity
+structure for all periods presented, as affected by the recapitalization presentation after completion of the merger. See Note 5 - Reverse
+Capitalization for further details of the merger.
+The Company also consolidates, ECD Audit Design
+UK LTD (“ECD UK”), a private limited company incorporated on July 16, 2021 in England and Wales. ECD UK was formed for the
+purpose of procuring parts overseas for the Company. ECD UK is a consolidated variable interest entity (“VIE”) for which the
+company is the primary beneficiary. The Company is the primary beneficiary of ECD UK as it has both the power to direct the most significant
+activities impacting its economic performance and the obligation to absorb losses or receive benefits significant to them.
+F-8
+NOTE 2. LIQUIDITY AND GOING CONCERN
+As of December 31, 2024, the Company had cash
+and cash equivalents of approximately $1.5 million and working capital deficit of approximately $6.0 million. The Company recorded a net
+loss of approximately $10.8 million and $1.2 million for the years ended December 31, 2024 and 2023.
+The Company’s primary source of operating
+funds since inception has been from cash receipts from sales and proceeds from loan payable. Immediately prior to the closing of the Business
+Combination on December 12, 2023, the Company executed and delivered to the Lender a senior secured convertible note (the “December
+Convertible Note”), in exchange for a loan in the principal amount of $15,819,209. The Convertible Note shall accrue interest at
+an annual rate equal to the Prime Interest rate plus 5% per annum which is payable monthly in cash or, upon the Company’s option,
+in securities of the Company provided certain conditions are met at the increased interest rate of the Prime Interest rate plus 8% per
+annum. The Company is required to pay a late charge of 12% per annum (“Late Charges”) on any amount of principal or other
+amounts that are not paid when due. The Convertible Note is convertible into shares of Company Common Stock at the option of the Lender
+at a conversion price of $10.00 per share, subject to a one-time downward adjustment on the effective date of the registration statement
+providing for the resale of the Company Common Stock issuable upon conversion of the Convertible Note to a conversion price equal to the
+prior 5-day volume weighted average price, subject to a floor of $6.00. The note has a three-year term. On August 9, 2024, the Company
+executed an additional senior secured convertible note (the “August Note”), in exchange for a loan in the principal amount
+of $1,154,681. The August Note has the same terms of the December Note. On January 8, 2025, the Company executed an additional senior
+secured convertible note (the “January Note”) in exchange for a loan in the principal amount of $1,724,100. The January Note
+has the same terms as the December Note and the August Note. On February 20, 2025, the Company entered into a Business Loan and Security
+Agreement with Agile Lending, LLC (the “Lending Lender”) pursuant to which the Company received a term loan from the Lending
+Lender in the principal amount of $1,575,000 (the “Loan”).
+On April 4, 2025, the Company entered into a new
+business loan and security agreement with an effective date of April 4, 2025 (the “New Loan Agreement”) by and among an investor
+(the “New Lender”), a collateral agent (the “Collateral Agent”), the Company and its subsidiary, Humble Imports
+Inc., pursuant to which the Company received a term loan from the New Lender in the principal amount of $1,824,300 (the “New Loan”).
+The New Loan shall be repaid through sixty-nine (69) equal weekly payments of principal and interest in the aggregate amount of $35,693
+per week commencing on April 15, 2025 and ending August 4, 2026 (the “Term”). During the Term, the New Loan shall accrue interest
+in the aggregate amount of $638,505. The New Loan included an administrative expense fee of $40,000 and a lender’s legal fee of
+$35,000, which sum was netted out of the New Loan. The New Loan is secured by all properties, rights and assets of the Company and Collateral
+Agent is designated as the collateral agent under the New Loan Agreement.
+The net proceeds of the New Loan were used to
+pay off the Agile Loan in the discounted amount of $1,749,300, including principal and interest. Accordingly, the Agile Loan is paid off
+and satisfied.
+Management’s assessment of the Company’s
+ability to continue as a going concern involves making a judgement, at a particular point in time, about inherently uncertain future outcomes
+of events or conditions. Any judgment about the future is based on information available at the time at which the judgment is made. Subsequent
+events may result in outcomes that are inconsistent with judgments that were reasonable at the time they were made.
+The Company’s future capital requirements
+will depend on many factors, including the Company’s revenue growth rate. The Company will need to raise additional financing through
+loans or through equity raises. The Company cannot provide any assurance that the new financing will be available to it on commercially
+acceptable terms, if at all. If the Company is unable to raise additional capital, the Company’s business, results of operations
+and financial condition would be materially and adversely affected.
+As a result of the above, in connection with the
+Company’s assessment of going concern considerations in accordance with FASB Accounting Standards Update (“ASU”) 2014-15,
+“Disclosures of Uncertainties about an Entity’s Ability to Continue as a Going Concern”, Management has determined that
+the Company’s liquidity condition raises substantial doubt about the Company’s ability to continue as a going concern through
+twelve months from the date these consolidated financial statements are available to be issued. These consolidated financial statements
+do not include any adjustments relating to the recovery of the recorded assets or the classification of the liabilities that might be
+necessary should the Company be unable to continue as a going concern.
+F-9
+NOTE 3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The consolidated financial statements include
+the accounts of ECD and ECD Auto Design UK Ltd. The accompanying consolidated financial statements have been prepared in accordance with
+U.S. Generally Accepted Accounting Principles (“GAAP”), expressed in U.S. dollars. The accompanying consolidated financial
+statements reflect all adjustments including normal recurring adjustments, which, in the opinion of management, are necessary to present
+fairly the financial position, results of operations, and cash flows for the years presented. References to GAAP issued by the Financial
+Accounting Standard Boards (“FASB”) in these accompanying notes to the consolidated financial statements are to the FASB Accounting
+Standards Codification (“ASC”). All significant intercompany balances and transactions have been eliminated in consolidation.
+Reclassification
+Certain amounts from prior period financial statements
+have been reclassified to align with the presentation used in the current consolidated financial statements for comparative purposes.
+These reclassifications had no material effect on the Company’s previously issued financial statements.
+Emerging Growth Company Status
+The Company is an emerging growth company, as
+defined in the JOBS Act. Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards issued subsequent
+to the enactment of the JOBS Act, until such time as to those standards apply to private companies. The Company has elected to use this
+extended transition period for complying with new or revised accounting standards that have different effective dates for public and private
+companies until the earlier of the date that it (i) is no longer an emerging growth company or (ii) affirmatively and irrevocably opts
+out of the extended transition period provided in the JOBS Act. As a result, these financial statements may not be comparable to companies
+that comply with the new or revised accounting pronouncements as of public company effective dates.
+Use of Estimates
+The preparation of the consolidated financial
+statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue
+and expenses during the reporting periods. Actual results could differ from those estimates. Significant estimates include assumptions
+used in revenue recognition, useful life of assets, and allowance for doubtful accounts.
+Segment Information
+Operating segments are defined as components of
+an enterprise for which separate discrete financial information is evaluated regularly by the Company’s Chief Executive Officer
+(“CEO”), who is the Chief Operating Decision Maker (“CODM”), in deciding how to allocate resources and assess
+performance. The CODM reviews financial information presented on a consolidated basis for the purposes of allocating resources and evaluating
+financial performance. Accordingly, the Company operates and manages its business as one operating segment and one reportable segment.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments
+acquired with an original maturity of three months or less at the date of purchase to be cash equivalents. Cash equivalents are stated
+at cost, which approximates market value, because of the short maturity of these instruments.
+Credit Risk
+Financial instruments that potentially subject
+the Company to concentrations of credit risk consist of cash accounts in a financial institution, which, at times, may exceed the Federal
+Deposit Insurance Corporation Coverage limit of $250,000. As of December 31, 2024 and 2023, the Company has not experienced losses on
+these accounts and management believes the Company is not exposed to significant risks on such accounts.
+F-10
+Revenue Recognition
+Revenue is recognized when the Company transfers
+promised goods or services to the customer, in an amount that reflects the consideration that the Company expects to receive in exchange
+for those goods or services. In determining the appropriate amount of revenue to be recognized as the Company fulfills its obligations
+under the agreement, the Company performs the following steps: (i) identification of the promised goods or services in the contract;
+(ii) determination of whether the promised goods or services are performance obligations, including whether they are distinct in
+the context of the contract; (iii) measurement of the transaction price, including the constraint on variable consideration; (iv) allocation
+of the transaction price to the performance obligations; and (v) recognition of revenue when (or as) the Company satisfies each performance
+obligation. The Company only applies the five-step model to contracts when it is probable that it will collect the consideration it is
+entitled to in exchange for the goods or services it transfers to the customer.
+No one customer exceeded 10% of revenue for the
+years ended December 31, 2024 and 2023.
+Product Revenue – Parts and Builds
+The Company generates revenue through the sale
+of Land Rover vehicles directly to customers. The Company considers the build/sales contracts to be the contracts with the customer. There
+is a single performance obligation in all the Company’s contracts, which is to build a vehicle based on customer specifications,
+transfer title and shipping terms in the arrangement. Product revenue is recognized when the product build is completed, and title has
+been transferred. The Company concluded that this was the appropriate time to record revenue based on the following criteria. (1) ECD
+has a right to full payment for the product. (2) The customer has legal title to the product and (3) The customer has the significant
+risks and rewards of ownership of the asset. There are certain build contacts, “owner donor vehicles” where title remains
+with the customer for the entire project. Under these contracts, revenue is recognized at a point in time when the truck is shipped back
+to the customer.
+Upon execution of the contract, the Company bills
+its customers the total consideration of the contract. The Company receives approximately 25% to 50% of the total consideration of the
+contract from its customers as acceptance of the contract, which is initially recorded as deferred revenue. Upon completion of the build
+the remaining 50% is billed and initially recorded as deferred revenue and recognized as net revenue when the product build is completed,
+and title is legally transferred.
+Service Revenue
+The Company generates revenue through providing
+repair or upgrade services to its customers. The Company agrees with the customer on a budget and specific deliverable. This is typically
+evidenced by a quote which represents the customer arrangement. There is a single performance obligation, which is the Company’s
+promise to perform the repair or upgrade work on the vehicle. The entire transaction price is allocated to this single performance obligation.
+Service revenue is recognized when the repair or upgrade work is completed, and the customer receives the vehicle.
+Warranty Revenue
+The Company generates revenue through the sale
+of extended warranty to customers. The customers agree to the terms and conditions at the time of purchase, which represents the customer
+arrangements. The period covered by the extended warranty is usually one year. The Company has elected to apply the optional exemption
+provided in ASC 606 and therefore, is not required to disclose the aggregate amount of the transaction price allocated to performance
+obligations that are unsatisfied or partially unsatisfied at the end of the reporting period.
+Product Limited Warranty
+Consistent with industry practice, the Company
+generally offers customers a limited warranty for work performed on the vehicle under the builds/sales contract. The customers do not
+have a contractual right of return. The Company only offers a limited warranty for the work performed on the vehicle under the contract.
+If a customer disputes any work performed, the Company will attempt to remedy the work, however, it shall not be required to discount
+the transaction price. The Company considered this an assurance-type warranty and not a separate performance obligation.
+Warranty Reserve
+The Company provides for the estimated cost of
+product warranties at the time revenue is recognized. While the Company engages in product quality programs and processes, including quality
+control test driving vehicles, the warranty obligation is affected by historical warranty costs per vehicle. Should actual costs differ
+from the Company’s estimates, revisions to increase or decrease the estimated warranty liability may be required.
+F-11
+Other Revenue Policies
+Sales, value add, and other taxes collected on
+behalf of third parties are excluded from revenue.
+Applying the practical expedient in paragraph
+ASC 606-10-32-18, the Company does not assess whether a contract has a significant financing component if the expectation at contract
+inception is that the period between payment by the customer and the transfer of the promised products to the customer will be one year
+or less, which is the case with substantially all customers.
+Applying the practical expedient in ASC 606-10-25-18B,
+the Company accounts for shipping and handling activities related to contracts with customers as costs to fulfill the promise to transfer
+the associated products. The Company records the related costs as part of the cost of goods good.
+Disaggregation of Revenue
+The following table summarizes the Company’s
+net revenues disaggregated by product category:
+Year Ended December 31
+2024
+2023
+As Restated
+Builds
+$24,771,840
+$19,317,837
+Warranty and other
+393,893
+174,769
+Total revenues, net
+$25,165,733
+$19,492,606
+Contract Liability and remaining performance
+obligations
+2024
+2023
+As Restated
+Beginning balance, January 1
+$16,190,861
+$17,493,628
+Additional deposits received
+19,476,466
+17,454,370
+Revenue Recognized during the year at a point-in-time
+(23,864,501)
+(18,757,137)
+Ending balance, December 31
+$11,802,825
+$16,190,861
+As of December 31, 2024 and 2023, the Company
+had customer deposits in the amount of $8,130,324 and $8,326,469, respectively and deferred revenue of $3,672,501 and $7,864,392. The
+customer deposits, performance obligations not yet completed, and deferred revenue are typically recognized in revenue at a point in time
+within the next twelve months as the custom build vehicles are delivered and title has been transferred to customers.
+Accounts Receivable and Allowance for Doubtful Accounts
+Accounts receivable are recorded at the original
+invoice amount less an allowance for uncollectible accounts that management believes will be adequate to absorb estimated losses on existing
+balances. Management estimates the allowance based on collectability of accounts receivable and prior bad debt experience. Accounts receivable
+balances are written off against the allowance upon management’s determination that such accounts are uncollectible. Recoveries
+of accounts receivable previously written off are recorded when received. Management believes that credit risks on accounts receivable
+will not be material to the financial position of the Company or results of operations. The Company had trade accounts receivable of $47,428
+as of December 31, 2024 and a recorded allowance for doubtful accounts of $2,406, resulting in a net trade accounts receivable balance
+of $45,022. The Company had trade accounts receivable of $138,541 as of December 31, 2023, and a recorded allowance for doubtful accounts
+of $138,541, resulting in a net trade accounts receivable balance of $0.
+As of December 31, 2024, amounts due from one
+customer exceeded 10% of accounts receivable individually and totaled approximately 84% of accounts receivable in the aggregate. No one
+customer exceeded 10% of accounts receivable as of December 31, 2023.
+F-12
+Inventories
+Work in progress, work in progress – shipping
+and consumables, and work in progress – labor costs reported in inventories are carried at the lower of cost or net realizable value.
+Cost is determined on the basis of the direct and indirect costs that are directly attributable. The measurement of work in progress inventories
+is generally based on the weighted average method. Finished goods inventory is comprised of vehicles for which the build is completed
+but title has not been legally transferred, or in some cases, the vehicle has not been delivered. The measurement of finished goods inventories
+is the total cost of the materials, shipping and consumables, and labor attributed to the build of each specific completed vehicle. Overhead
+costs are allocated to inventory based on the rate of inventory turned for the period.
+Property and Equipment
+Property and equipment are stated at cost, less
+accumulated depreciation. Depreciation is calculated using the straight-line method over the asset’s estimated useful life of 5 to 15 years.
+Expenditures for maintenance and repairs are expensed as incurred. When retired or otherwise disposed, the related carrying value and
+accumulated depreciation are removed from the respective accounts and the net difference less any amount realized from disposition is
+reflected in earnings.
+Long-Lived Assets
+The Company follows a “primary asset”
+approach to determine the cash flow estimation period for a group of assets and liabilities that represents the unit of accounting for
+a long-lived asset to be held and used. Long-lived assets to be held and used are reviewed for impairment whenever events or changes in
+circumstances indicate that the carrying amount of an asset may not be recoverable. The carrying amount of a long-lived asset is not recoverable
+if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. Long-lived
+assets to be disposed of are reported at the lower of carrying amount or fair value less cost to sell.
+The Company evaluates the recoverability of long-lived
+assets based upon forecasted undiscounted cash flows. Should impairment in value be indicated, the carrying value of the assets will be
+adjusted, based on estimates of future discounted cash flows resulting from the use and ultimate disposition of the asset. No impairments
+were recognized for the years ended December 31, 2024 and 2023.
+Advertising and Marketing
+The Company follows the policy of charging the
+costs of advertising and marketing to expense as incurred. The Company charged to operations $1,171,696 and $641,831 as advertising
+and marketing costs for the years ended December 31, 2024 and 2023, respectively.
+Income Taxes
+Prior to the Business Combination on December
+13, 2023, the Company was an S corporation. As an S corporation, the Company was not directly liable for federal income taxes. As of the
+date of the Business Combination, the operations of the Company ceased to be taxed as a S corporation resulting in a change in tax status
+for federal and state income tax purposes.
+F-13
+The Company follows the asset and liability method
+of accounting for income taxes under ASC Topic 740, Income Taxes (“ASC 740”). Deferred tax assets and liabilities are measured
+using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered
+or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes
+the enactment date. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amount expected to be realized.
+The Company records deferred tax assets to the
+extent management believes that it is more likely than not that these assets will be realized in the future. Future realization of deferred
+income tax assets (meaning, items that may provide tax deductions in future periods) requires evidence that there will be sufficient taxable
+income in those future periods, or within any carryback periods available under tax law. The Company evaluates the realizability of its
+deferred tax assets on a quarterly basis. The majority of the Company’s deferred tax assets are comprised of income tax carryforwards,
+including federal and state net operating loss carryforwards (“NOLs”) and non-deductible interest expense carryforwards. Some
+of these carryforwards are subject to annual usage limitations and expiration, while other state NOLs and a portion of federal NOLs do
+not have expirations.
+While the Company remains in a financial reporting
+loss position based on a cumulative pre-tax loss for the year ended December 31, 2024, the determination of the valuation allowance is
+based on its evaluation of the periods over which future taxable items are expected to be utilized to offset tax loss and deduction carryforward
+items in those future periods. That is, future forecasts of our taxable income are not considered in the evaluation of realizability of
+its deferred tax assets. Therefore, changes in its deferred tax asset valuation allowances will primarily be affected by changes in the
+estimates of the time periods over which those future taxable items will occur.
+ASC 740 prescribes a recognition threshold and
+a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax
+return. For those benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by taxing authorities.
+The Company recognizes accrued interest and penalties related to unrecognized tax benefits as income tax expense. Management has evaluated
+the Company’s tax positions, including its previous status as a pass-through entity for federal and state tax purposes, and has
+determined that the Company has taken no uncertain tax positions that require adjustment to the condensed consolidated financial statements.
+The Company’s reserve related to uncertain tax positions was zero as of December 31, 2024 and December 31, 2023. Management has
+evaluated the Company’s tax positions, including its previous status as a pass-through entity for federal and state tax purposes,
+and has determined that the Company has taken no uncertain tax positions that require adjustment to the consolidated financial statements.
+There were no unrecognized tax benefits and no amounts accrued for interest and penalties as of December 31, 2024 and December 31, 2023.
+The Company is currently not aware of any issues under review that could result in significant payments, accruals or material deviation
+from its position. The open tax years for the tax returns generally include 2021 through 2023 for state and federal reporting purposes.
+Loss Per Share
+The Company accounts for net loss per share in
+accordance with Accounting Standards Codification subtopic 260-10, Earnings Per Share (“ASC 260-10”), which requires presentation
+of basic and diluted earnings per share (“EPS”) on the face of the statement of operations for all entities with complex capital
+structures and requires a reconciliation of the numerator and denominator of the basic EPS computation to the numerator and denominator
+of the diluted EPS. Basic net loss per share is computed by dividing net loss by the weighted average number of shares of common stock
+outstanding during each period. It excludes the dilutive effects of any potentially issuable common shares. Diluted net loss per share
+is calculated by including any potentially dilutive share issuances in the denominator. For the year ended December 31, 2024 and 2023,
+all potentially dilutive securities were not included in the calculation of diluted net income (loss) per share as their effect would
+be anti-dilutive.
+F-14
+Leases
+The Company determines if an arrangement is a
+lease at inception. Operating lease right-of-use asset (“ROU asset”) and short-term and long-term lease liability are included
+on the face of the consolidated balance sheets.
+ROU asset represents the right to use an underlying
+asset for the lease term and lease liability represents the Company’s obligation to make lease payments arising from the lease.
+Operating lease ROU asset and liability are recognized at commencement date based on the present value of lease payments over the lease
+term. As the Company’s lease does not provide an implicit rate, the Company uses an incremental borrowing rate based on the information
+available at commencement date over the respective lease term in determining the present value of lease payments. The Company’s
+lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option.
+Lease expense for lease payments is recognized on a straight-line basis over the lease term. For lease agreements with terms less than
+12 months, the Company has elected the short-term lease measurement and recognition exemption, and it recognizes such lease payments on
+a straight-line basis over the lease term.
+Fair Value of Financial Instruments
+The Company calculates the fair value of its assets
+and liabilities which qualify as financial instruments and includes this additional information in the notes to the consolidated financial
+statements when the fair value is different than the carrying value of these financial instruments. The estimated fair value of cash,
+accounts receivable, accounts payable and accrued expenses, and loan payable approximate their carrying amounts due to the relatively
+short maturity of these instruments. The carrying value of lease liability also approximates fair value since the instrument bears market
+rates of interest. None of these instruments are held for trading purposes.
+Fair Value Measurements
+Fair value is defined as the price that would
+be received for sale of an asset or paid for transfer of a liability, in an orderly transaction between market participants at the measurement
+date. GAAP establishes a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value. The hierarchy gives
+the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the
+lowest priority to unobservable inputs (Level 3 measurements). These tiers include:
+●
+Level 1, defined as observable inputs such as quoted prices (unadjusted) for identical instruments in active markets;
+●
+Level 2, defined as inputs other than quoted prices in active markets that are either directly or indirectly observable such as quoted prices for similar instruments in active markets or quoted prices for identical or similar instruments in markets that are not active; and
+●
+Level 3, defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions, such as valuations derived from valuation techniques in which one or more significant inputs or significant value drivers are unobservable.
+In some circumstances, the inputs used to measure
+fair value might be categorized within different levels of the fair value hierarchy. In those instances, the fair value measurement is
+categorized in its entirety in the fair value hierarchy based on the lowest level input that is significant to the fair value measurement.
+F-15
+Warrants
+The Company determines the accounting classification
+of warrants it issues as either liability or equity classified by first assessing whether the warrants meet liability classification in
+accordance with ASC 480-10, Accounting for Certain Financial Instruments with Characteristics of both Liabilities and Equity (“ASC
+480”), then in accordance with ASC 815-40 (“ASC 815”), Accounting for Derivative Financial Instruments Indexed to, and
+Potentially Settled in, a Company’s Own Stock. Under ASC 480, warrants are considered liability classified if the warrants are mandatorily
+redeemable, obligate the Company to settle the warrants or the underlying shares by paying cash or other assets, or warrants that must
+or may require settlement by issuing variable number of shares. If warrants do not meet liability classification under ASC 480, the Company
+assesses the requirements under ASC 815, which states that contracts that require or may require the issuer to settle the contract for
+cash are liabilities recorded at fair value, irrespective of the likelihood of the transaction occurring that triggers the net cash settlement
+feature. If the warrants do not require liability classification under ASC 815, and in order to conclude equity classification, the Company
+also assesses whether the warrants are indexed to its Common Stock and whether the warrants are classified as equity under ASC 815 or
+other applicable GAAP. After all relevant assessments, the Company concludes whether the warrants are classified as liability or equity.
+The Company accounts for the Common Share Warrants and the Preferred Share Warrants (as defined in Note 13) (collectively, with the Common
+Share Warrants, the “Warrants”) in accordance with the guidance contained in ASC 815-40 under which the Warrants do not meet
+the criteria for equity treatment and must be recorded as liabilities. Liability classified warrants require fair value accounting at
+issuance and subsequent to initial issuance with all changes in fair value after the issuance date recorded in the statements of operations.
+Equity classified warrants only require fair value accounting at issuance with no changes recognized subsequent to the issuance date.
+Redeemable Preferred Stock
+Accounting for convertible or redeemable equity
+instruments in the Company’s own equity requires an evaluation of the hybrid security to determine if liability classification is
+required under ASC 480-10. Liability classification is required for freestanding financial instruments that are not debt in legal form
+and are: (1) subject to an unconditional obligation requiring the issuer to redeem the instrument by transferring assets (i.e. mandatorily
+redeemable), (2) instruments other than equity shares that embody an obligation of the issuer to repurchase its equity shares, or (3)
+certain types of instruments that obligate the issuer to issue a variable number of equity shares. Securities that do not meet the scoping
+criteria to be classified as a liability under ASC 480 are subject to redeemable equity guidance, which prescribes securities that may
+be subject to redemption upon an event not solely within the control of the issuer to be classified outside permanent equity (i.e., classified
+in temporary equity). Securities classified in temporary equity are initially measured at the proceeds received, net of issuance costs
+and excluding the fair value of bifurcated embedded derivatives (if any). Subsequent measurement of the carrying value is not required
+unless the instrument is probable of becoming redeemable or is currently redeemable. When the instruments are currently redeemable or
+probable of becoming redeemable, the Company will recognize changes in the redemption value immediately as they occur and adjust the carrying
+value of the security to equal the then current maximum redemption value at the end of each reporting period.
+Stock-based compensation
+The Company accounts for its stock-based compensation
+awards in accordance with Accounting Standards Codification (“ASC”) Topic 718, Compensation-Stock Compensation (“ASC
+718”). ASC 718 requires all stock-based payments to employees and non-employees including grants of stock options, to be recognized
+as expense in the statements of operations based on their grant date fair values.
+The Company periodically issues common stock and
+common stock options to consultants for various services.
+Convertible Note
+The Company determined the fair value option of
+the Convertible Note, as described in Note 12, was not appropriate. As such, the Company accounted for the Convertible Note, analyzing
+the conversion options embedded in convertible notes in accordance with ASC 815. ASC 815 generally requires companies to bifurcate conversion
+options embedded in convertible notes from their host instruments and to account for them as free-standing derivative financial instruments.
+The Company reviews the terms of convertible debt
+issued to determine whether there are embedded derivative instruments, including embedded conversion options, which are required to be
+bifurcated and accounted for separately as derivative financial instruments. In circumstances where the host instrument contains more
+than one embedded derivative instrument, including the conversion option, that is required to be bifurcated, the bifurcated derivative
+instruments are accounted for as a single, compound derivative instrument.
+F-16
+Bifurcated embedded derivatives are initially
+recorded at fair value and are then revalued at each reporting date with changes in the fair value reported as non-operating income or
+expense. When the equity or convertible debt instruments contain embedded derivative instruments that are to be bifurcated and accounted
+for as liabilities, the total proceeds received are first allocated to the fair value of all the bifurcated derivative instruments. The
+remaining proceeds, if any, are then allocated to the host instruments themselves, usually resulting in those instruments being recorded
+at a discount from their face value. The discount from the face value of the convertible debt, together with the stated interest on the
+instrument, is amortized over the life of the instrument through periodic charges to interest expense.
+Recent Accounting Pronouncements
+In September 2022, the FASB issued ASU No. 2022-04,
+“Liabilities—Supplier Finance Programs (Subtopic 405-50): Disclosure of Supplier Finance Program Obligations,” which
+is intended to enhance the transparency surrounding the use of supplier finance programs. The guidance requires companies that use supplier
+finance programs to make annual disclosures about the program’s key terms, the balance sheet presentation of related amounts, the
+confirmed amount outstanding at the end of the period and associated roll forward information. Only the amount outstanding at the end
+of the period must be disclosed in interim periods. The guidance does not affect the recognition, measurement or financial statement presentation
+of supplier finance program obligations. The Company adopted the guidance when it became effective on January 1, 2023, except for the
+roll forward information, which is effective for fiscal years beginning after December 15, 2023. The Company does not have any supplier
+finance programs and accordingly, the adoption did not have a material impact on the Company’s consolidated financial statements,
+and the Company does not believe the impact of adopting the roll-forward requirement in this accounting standard update will be material
+to the consolidated financial statements.
+In October 2021, the FASB issued ASU No. 2021-08,
+“Accounting for Contract Assets and Contract Liabilities from Contracts with Customers” (Topic 805). This ASU requires an
+acquirer in a business combination to recognize and measure contract assets and contract liabilities (deferred revenue) from acquired
+contracts using the revenue recognition guidance in Topic 606. At the acquisition date, the acquirer applies the revenue model as if it
+had originated the acquired contracts. For the Company, the new guidance is effective for fiscal years beginning after December 15, 2023,
+including interim periods within those fiscal years. Adoption of the ASU should be applied prospectively. Early adoption is also permitted,
+including adoption in an interim period. Adoption of the ASU did not impact the Company’s consolidated financial statements.
+In June 2022, the FASB issued ASU 2022-03, “Fair
+Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions,” which clarifies
+that contractual sale restrictions are not considered in measuring fair value of equity securities and requires additional disclosures
+for equity securities subject to contractual sale restrictions. The standard is effective for public companies for fiscal years beginning
+after December 15, 2023. Adoption of the ASU did not impact the Company’s consolidated financial statements.
+In November 2023, the FASB issued ASU 2023-07,
+“Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures,” which will add required disclosures of significant
+expenses for each reportable segment, as well as certain other disclosures to help investors understand how the CODM evaluates segment
+expenses and operating results. The new standard will also allow disclosure of multiple measures of segment profitability, if those measures
+are used to allocate resources and assess performance. The amendments will be effective for public companies for fiscal years beginning
+after December 15, 2023. Adoption of the ASU did not have a material impact the Company’s financial position, results of operations
+or cash flows.
+In December 2023, the FASB issued ASU 2023-09,
+“Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which requires disaggregated information about a reporting
+entity’s effective tax rate reconciliation as well as information on income taxes paid. The standard is intended to benefit investors
+by providing more detailed income tax disclosures that would be useful in making capital allocation decisions. The standard will be effective
+for public companies for fiscal years beginning after December 15, 2024. Early adoption is permitted. The Company is currently evaluating
+the impact of this accounting standard update on its consolidated financial statements.
+In November 2024, the FASB issued ASU 2024-03,
+“Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of
+Income Statement Expenses” (“ASU 2024-03”). The standard requires additional disclosure of certain costs and expenses
+within the notes to the financial statements. The provisions of the standard are effective for annual reporting periods beginning after
+December 15, 2026, and interim reporting periods beginning after December 15, 2027, with early adoption permitted. This accounting standards
+update may be applied either prospectively or retrospectively. The Company is currently evaluating the impact of this accounting standard
+update on its consolidated financial statements.
+F-17
+NOTE 4. RECAPITALIZATION
+As discussed in Note 1, “Nature of Operations”,
+On December 12, 2023, ECD completed the business combination (the “Business Combination”) contemplated by the merger agreement,
+dated as of March 3, 2023 (the “Merger Agreement”) by and among EFHT, Humble Imports Inc., d/b/a ECD Auto Design, a Florida
+corporation (“Humble” or “ECD”), ECD Auto Design UK, Ltd., an England and Wales corporation (the “ECD UK”),
+EFHAC Merger Sub, Inc., a Florida corporation (“Merger Sub”) and wholly-owned subsidiary of EFHT, and Scott Wallace, as the
+Securityholder Representative. The Merger Agreement was previously reported on the Current Report on Form 8-K filed by EFHT with the SEC
+on March 6, 2023.
+At the Closing, pursuant to the terms of the Merger
+Agreement and after giving effect to the redemptions of shares of EFHT Common Stock:
+● the total consideration paid at the Closing (the “Merger Consideration”) by EFHT to Humble security holders was 26,500,000 shares of Company Common Stock, 25,000 shares of Company Preferred Stock, a warrant to purchase 1,091,525 shares of Company Common Stock, and a warrant to purchase 15,819 shares of Company Preferred Stock, (the “Securities Consideration”), and a cash payment of $2,000,000 pro rata to the former security holders of Humble (the “Cash Consideration” and, collectively with the Securities Consideration, the “Merger Consideration”);
+● each share of Merger Sub common stock, par value $0.0001 per share (“Merger Sub Common Stock”), issued and outstanding immediately prior to the Effective Time was converted into one newly issued share of Company Common Stock of the Surviving Corporation.
+Following the filing of a Certificate of Merger
+with the Florida Department of State, Merger Sub merged with and into Humble with Humble as the surviving corporation, effective December
+12, 2023. Thus, Humble became a wholly-owned subsidiary of the Company. In connection with the Merger, the Company changed its name to
+“ECD Automotive Design, Inc.”
+Although EFHAC was the legal acquirer of ECD in
+the merger, ECD is deemed to be the accounting acquirer, and the historical financial statements of ECD became the basis for the historical
+financial statements of the Company upon the closing of the merger. ECD was determined to be the accounting acquirer based on evaluation
+of the following facts and circumstances:
+●
+ECD’s existing stockholders have the greatest voting interest in the combined company;
+●
+ECD’s existing stockholders have the ability to control decisions regarding election and removal of directors and officers of the combined company;
+●
+ECD is the larger entity in terms of substantive operations and employee base;
+●
+ECD comprises the ongoing operations of the combined company; and
+●
+ECD’s existing senior management is the senior management of the combined company.
+In accordance with guidance applicable to these
+circumstances, the equity structure has been restated in all comparable periods up to December 12, 2023, to reflect the number of shares
+of the Company’s common stock, $0.0001 par value per share, issued to ECD’s stockholders in connection with the merger. As
+such, the shares and corresponding capital amounts and earnings per share related to ECD’s common stock prior to the merger have
+been retroactively restated as shares reflecting the exchange ratio established in the merger.
+F-18
+The following table reconciles the elements of
+the Business Combination to the consolidated statement of changes in stockholders’ deficit for the period ended December 31, 2023:
+Cash-trust and cash, net of redemptions
+$241,329
+Less: transaction expenses paid
+(241,329)
+Net proceeds from the Business Combination
+—
+Less: recognition of SPAC closing balance sheet
+(762,710)
+Reverse recapitalization, net
+$(762,710)
+The number of shares of Common Stock issued immediately
+following the consummation of the Business Combination were:
+EFHAC Class A common stock, outstanding prior to the Business Combination
+11,500,000
+Less: Redemption of EFHAC Class A common stock
+(11,477,525)
+Class A common stock of EFHAC
+22,475
+EFHAC public rights shares outstanding
+1,437,500
+EFHAC founder shares outstanding
+2,875,000
+EFHAC private shares outstanding
+257,500
+EFHAC private rights shares outstanding
+32,187
+EFHAC shares issued to EF Hutton (underwriter) (1)
+750,000
+Business Combination shares
+5,374,662
+ECD Shares
+26,500,000
+Common Stock immediately after the Business Combination
+31,874,662
+(1) Excludes 25,000 shares granted to Ben Piggott which were issued in January 2024, and recorded as a share issuance liability in other payable on the consolidated balance sheet at December 31, 2023.
+The number of ECD shares was determined as follows:
+ECD Shares
+ECD Shares after conversion ratio
+Class A Common Stock (before Defender SPV shares)
+100
+24,000,000
+Public and private placement warrants
+The 11,500,000 Public Warrants issued at the time
+of EFHAC’s initial public offering and 257,500 warrants issued in connection with private placement at the time of EFHAC’s
+initial public offering (the “Private Placement Warrants”) remained outstanding and became warrants for the Company (see Note
+13).
+Redemption
+Prior to the closing of the Business Combination,
+certain EFHAC public shareholders exercised their right to redeem certain of their outstanding shares for cash, resulting in the redemption
+of 11,477,525 shares of EFHAC Class A common stock for an aggregate payment of $37,261,500.
+F-19
+NOTE 5. BNMC CONTINUATION CARS LLC BUSINESS COMBINATION
+On April 3, 2024, the Company entered into an
+Asset Purchase Agreement (the “Original Asset Purchase Agreement”) with BNMC Continuation Cars LLC, an Oklahoma limited liability
+company and David W. Miller II (collectively “Sellers”), that was subsequently amended on April 24, 2024 Amended and Restated
+Asset Purchase Agreement (the A&R Asset Purchase Agreement”).The Company agreed to purchase certain assets relating to vehicle
+builds, including the trademark “Brand New Muscle Car” (the “Purchased Assets”) from Sellers in exchange for up
+to $1.25 million. The price for the Purchased Assets under the A&R Asset Purchase Agreement is to be equal to $950,000 plus an additional
+$300,000, for up to 3 additional new vehicle builds the Sellers refers to the Company that are accepted by the Company on or before June
+24, 2024 (the “A&R Purchase Price”). The A&R Purchase Price is to be paid to Seller by the issuance of such number
+of shares of Common Stock equal to (a) the A&R Purchase Price divided by (b) the closing price of the Common Stock on the five-month
+anniversary of the closing date (the “Consideration Shares”). The A&R Purchase Price is to be paid by the Company to the
+Sellers by the issuance of the Consideration Shares within three (3) business days of the five-month anniversary of the closing date.
+On April 24, 2024, ECD entered into an Amended
+and Restated Asset Purchase Agreement (the A&R Asset Purchase Agreement”) with Sellers, pursuant to which the Company agreed
+to purchase certain assets relating to vehicle builds, including the trademark “Brand New Muscle Car” (the “Purchased
+Assets”) from Sellers in exchange for up to $1.25 million. The price for the Purchased Assets under the A&R Asset Purchase Agreement
+shall be equal to $950,000 plus up to an additional $300,000, in increments of $100,000, for each new vehicle build the Sellers can refer
+to the Company that are actually accepted by the Company on or before June 24, 2024 (the “A&R Purchase Price”). The A&R
+Purchase Price will be paid to Seller by the issuance of such number of shares of Common Stock equal to (a) the A&R Purchase Price
+divided by (b) the closing price of the Common Stock on the five month anniversary of the closing date (the “Consideration Shares”).
+The A&R Purchase Price will be paid by the Company to the Sellers by the issuance of the Consideration Shares within three (3) business
+days of the five month anniversary of the closing date. The closing of the transactions contemplated by A&R Asset Purchase Agreement
+are subject to customary representations, warranties, covenants and closing conditions.
+On April 24, 2024, following the satisfaction
+or waiver of closing conditions, the Company and Sellers closed the transactions contemplated by the A&R Asset Purchase Agreement.
+In connection with the closing of the A&R Asset Purchase Agreement, the Company and the Sellers executed and delivered the following
+agreements: (1) the IP Assignment Agreement, dated April 24, 2024, by and between Sellers, as assignors, and ECD, as assignee (the “IP
+Assignment Agreement”), (2) the Trademark License Agreement, dated April 24, 2024, by and between ECD, as licensor and Sellers,
+as licensees (the “Trademark License Agreement”), and (3) Consulting Agreement, dated April 24, 2024, by and between ECD,
+as the company and BNMC Films LLC, a wholly owned subsidiary of David W. Miller II, as the contractor (the “Consulting Agreement”).
+The additional $300,000 of consideration was fully earned by June 24, 2024.
+On August 11, 2024, the Company and the Sellers
+entered into an Amendment (the “Amendment”) to the A&R Asset Purchase Agreement, pursuant to which the parties acknowledged
+that the Sellers have satisfied all conditions to the A&R Asset Purchase Agreement to fix the aggregate purchase price at $1,250,000
+payable through the issuance of 1,250,000 shares of the Company’s common stock valued at $1.00 per share. Pursuant to the Amendment
+the Company issued the 1,250,000 shares of the Company’s common stock to David W. Miller II in full satisfaction of the Company’s
+obligation to pay the Purchase Price as set forth in the A&R Asset Purchase Agreement.
+The assets acquired under the A&R Asset Purchase
+agreement were accounted for as a business combination under FASB ASC Topic 805 Business Combinations. The Company utilized acquisition
+method under ASC 805-10-05-4 to account for the business combination. The purchase price was allocated as follows:
+Consideration shares (1)
+$1,250,000
+Transaction costs
+87,062
+Total purchase consideration
+1,337,062
+Less: Cash deposits
+(137,116)
+Inventory
+(27,964)
+Deferred revenue
+137,116
+Total purchase consideration to be allocated
+1,309,098
+Less: fair value of intangible asset
+18,000
+Goodwill
+$1,291,098
+(1) Includes $950,000 of consideration shares and an additional $300,000 of consideration that was 100% probable at the time of close.
+Fair value   Useful life
+Brand name  $18,000    2
+Less: accumulated amortization   (6000)
+Barnd name, net   12,000
+F-20
+NOTE 6. INVENTORIES
+Inventories consisted of the following:
+December 31,
+2024
+2023
+As Restated
+As Restated
+Inventory – work in progress
+$4,480,440
+$1,494,795
+Inventory – work in progress shipping and consumables
+640,675
+373,979
+Inventory – work in progress labor
+699,087
+421,880
+Resale inventory
+931,990
+1,110,620
+Overhead allocated to inventory
+596,707
+458,258
+Finished goods
+3,832,907
+5,748,234
+Total inventory
+$11,181,806
+$9,607,766
+NOTE 7. PREPAID AND OTHER CURRENT ASSETS
+Prepaid and other current assets consisted of
+the following:
+December 31,
+2024
+2023
+Prepaid expenses
+$213,914
+$34,006
+Advances to employees
+$3,970
+—
+Other
+$21,980
+—
+$239,864
+$34,006
+NOTE 8. PROPERTY AND EQUIPMENT
+Property and equipment consisted of the following:
+December 31,
+2024
+2023
+As Restated
+Computer equipment
+$12,740
+$10,636
+Office furniture
+36,163
+36,412
+Manufacturing equipment
+659,974
+647,875
+Vehicles
+61,360
+456,360
+Building improvements
+3,092
+—
+773,329
+1,151,283
+Less: accumulated depreciation
+(289,451)
+(238,186)
+$483,878
+$913,097
+Depreciation expense related to the Company’s
+property and equipment was $120,791 and $123,762 for the years ended December 31, 2024 and 2023, respectively, which were included in
+the accompanying consolidated statements of operations.
+F-21
+NOTE 9. LEASES
+Prior to 2022, the Company entered into several
+lease renewal agreements with landlord whereby the Company agreed to lease office space in Kissimmee, Florida. All of these lease renewal
+agreements expired during the year ended December 31, 2022. The leases had rental payments from $1,423 per month to $2,801 per month.
+On August 11, 2021, the Company entered into a
+lease agreement, whereby the Company agreed to lease office space in Kissimmee, Florida for a term of 137 months following the lease
+commencement date. The lease commencement date was not identified until July 15, 2022 when the Company entered into the First Amendment
+to the original lease agreement, pursuant to which the commencement date would be July 1, 2022. The Company will owe monthly rental payments
+ranging from $6,512 to $50,039 over the term of the lease.
+The Company also has a five-year lease in the
+UK for office space expiring December 16, 2026. The Company will owe monthly rental payments ranging from $3,092 to $3,401 over the term
+of the lease.
+On March 23, 2023, the Company entered into a
+lease agreement, whereby the Company agreed to lease warehouse space I Kissimmee, Florida for a term of 37 months following the lease
+commencement date beginning on or about of March 26, 2023. The Company will owe monthly rental payments ranging from $5,844 to $6,171
+over the term of the lease. The Company recorded right-to-use asset and lease liability of $196,796 using the Company’s incremental
+borrowing rate of 6.3% at December 31, 2023.
+The Company’s commercial properties are
+subject to Common Are Maintenance (“CAM”) charges, which represent the tenant’s pro-rata share of the operating expenses
+incurred by the landlord in the operation of the buildings. These expenses include, but are not limited to, property taxes, insurance
+premiums, utilities for common areas, maintenance and service agreements and supplies and materials used in the operation and maintenance
+of the property, cost of repairs and enhancements to common areas, owner’s association fees, and cost of capital improvements or
+modifications only if the capital improvements reduce operating costs. The Company’s share of the CAM is paid by the Company as
+additional rent based on the landlord’s written estimate of the CAM for the following year. Within 150 days following the end of
+each calendar year the landlord provides a statement to the Company reconciling the estimated CAM expenses for the year to the actual
+costs incurred.
+Maturity analysis under the lease agreements are
+as follows:
+Total
+2025
+$575,360
+2026
+535,719
+2027
+492,318
+2028
+508,885
+2029 and beyond
+2,765,250
+4,877,532
+Less: present value discount
+(1,150,349)
+Lease liability
+$3,727,183
+Lease expense for the years ended December 31,
+2024 and 2023 was $601,113 and $591,588, respectively.
+F-22
+Qualitative information regarding the Company’s
+leases is as follows:
+The Years Ended December 31,
+2024   2023
+Lease expenses
+Operating lease expenses  $601,113   $591,588
+Variable and other lease costs   44,728    5,395
+Total lease cost  $645,841   $596,983
+Other information
+Cash paid for the amounts included in the measurement of lease liabilities for operating leases:
+Operating cash flows  $557,703   $506,783
+Weighted-average remaining lease term (in years):
+Operating leases   8.59    9.53
+Weighted-average discount rate:
+Operating leases   6.3%   6.3%
+NOTE 10. ACCRUED EXPENSES
+Accrued expenses consisted of the following:
+December 31,
+2024
+2023
+Accrued commission
+$—
+$6,000
+Accrued interest
+578,456
+113,000
+Accrued bonuses
+—
+150,000
+Accrued expenses, other
+161,036
+131,859
+Warranty reserve
+529,129
+89,430
+Accrued payroll
+417,977
+289,406
+$1,686,598
+$779,695
+NOTE 11. OTHER PAYABLE
+Other payable consisted of the following:
+December 31,
+2024
+2023
+PPG payable (as defined below)
+$61,676
+$167,042
+Income tax payable
+1,115,559
+1,115,559
+Share issuance liability
+150,000
+250,000
+Other
+36,987
+17,262
+$1,364,222
+$1,549,863
+On February 1, 2022, the Company entered into
+an Exclusive Supplier Agreement with a third party, pursuant to which the third party issues a pre-bate in the amount of $277,642 to the
+Company in exchange for the Company’s commitment to make purchases of the third party’s products in the amount of $1,506,349
+(“PPG Payable”). The Company used the$277,642 as working capital or otherwise in the operation of the Company’s collision
+center business. The outstanding balance on the PPG payable was $61,676 and $167,042 recorded as other payable in the accompanying consolidated
+balance sheet as of December 31, 2024 and 2023 respectively.
+F-23
+NOTE 12. LOAN PAYABLE
+On December 15, 2021, the Company entered into
+a Letter of Credit Agreement with a third party, pursuant to which the Company borrowed $500,000 from the third party bearing no interest
+and due on December 15, 2023. As additional consideration for the loan, the Company agreed to pay the third party an amount equal to 20%
+of the Company’s gross profits in connection with the Company’s resales commissions during the term of the agreement. See
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations of ECD – Other Income and Expenses
+– Resale Commissions Income”. As of December 31, 2022, the Company had accrued $6,000 of commission to be paid to such third
+party (see Note 7).
+The loan balance outstanding as of December 31,
+2022, was $500,000. The loan was repaid on December 12, 2023, in connection with the closing of the Business Combination.
+Loan and Security Agreement
+In connection with ECD’s PIPE Financing,
+on September 28, 2023, ECD entered into a loan and security agreement (the “Loan and Security Agreement”) with Context Credit
+Holdings, LP (“Edge”) for a $10,000,000 revolving credit facility (the “Edge Facility”). Under the Edge Facility,
+Edge will make borrowing base advances against ECD’s accounts receivables, up to a limit of 90% of eligible accounts receivable
+as determined according to the Loan and Security Agreement. The Edge Facility has a two-year term, subject to renewal at Edge’s
+discretion. The advances will bear interest at a per annum rate equal to (a) the Base Rate plus (b) 7.00%; the “Base Rate”
+means the greater of (i) 6.50% and (ii) the Wall Street Journal Prime Rate (floating with daily resets) as publicly announced to be in
+effect from time to time. Pursuant to the Loan and Security Agreement, ECD may at any time terminate the Edge Facility with 60 days’
+prior written notice. ECD has agreed with the Lender under the SPA that, by the closing date for the issuance of the Note, it will either
+have (i) delivered an irrevocable notice to terminate the Loan and Security Agreement or (ii) entered into an intercreditor agreement
+with Edge and the Collateral Agent (as defined in the SPA).
+The Edge Facility is secured by a blanket lien
+on all corporate assets, including a perfected first-priority lien on and security interest in all ECD’s assets, including accounts
+receivables, inventory, equipment, real estate, contracts, general intangibles, and proceeds thereof. Also, each of the ECD Initial Securityholders
+has entered into a personal guaranty with Edge with respect to the Edge Facility.
+In September 2023, October 2023, November 2023,
+and December 2023, the Company drew an aggregate of $2,718,24 on the Loan and Security Agreement. On December 12, 2023, in connection
+with the closing of the Business Combination, the outstanding balance on the Loan and Security Agreement was paid in full.
+Securities Purchase Agreement
+On October 6, 2023 the Company entered into a
+Securities Purchase Agreement (the “SPA”) with an institutional Lender (the “Lender”) pursuant to which the Company
+issued to the Lender a senior secured convertible note (the “December 2023 Convertible Note”) in exchange for a loan in the
+principal amount of $15,819,209. The December 2023 Convertible Note shall accrue interest at an annual rate equal to the Prime Interest
+rate plus 5% per annum which is payable monthly in cash, or upon the Company’s option, in securities of the Company provided certain
+conditions are met at the increased interest rate of the Prime Interest rate plus 8% per annum. The Company is required to pay a late
+charge of 12% per annum (“Late Charges”) on any amount of principal or other amounts that are not paid when due. The December
+2023 Convertible Note is convertible into shares of the Company’s common stock, par value $0.0001 per share at the option of the
+Lender at a conversion price of $10.00 per share, subject to a one-time downward adjustment on the effective date of the registration
+statement providing for the resale of the common stock issuable upon conversion of the December 2023 Convertible Note to a conversion
+price equal to the prior 5-day volume weighted average price, subject to a floor of $6.00. The conversion price is subject to a downward
+adjustment if the Company issues equity in the future at a price less than $10.00, except for equity issued in connection with certain
+strategic acquisitions. The conversion price is also subject to a downward adjustment if the Company fails to satisfy certain performance
+conditions set forth in the December 2023 Convertible Note. Upon the Lender’s conversion, the conversion amount shall be equal to
+115% of the principal amount to be converted under the December 2023 Convertible Note plus any accrued and unpaid interest and accrued
+and unpaid Late Charges on such principal and interest, if any (the “Conversion Rate”). Lender’s ability to convert
+the December 2023 Convertible Note into shares of common stock is subject to a 4.99% blocker, such that Lender cannot convert the Convertible
+Note into shares of common stock to the extent it will make the Lender a beneficial owner of more than 4.99% of the common stock. The
+Company has the option to prepay the December 2023 Convertible Note, upon thirty (30) business day written notice, by paying the product
+of the 20% redemption premium multiplied by the greater of (i) the conversion amount to be redeemed and (ii) the product of (x) the Conversion
+Rate with respect to the conversion amount to be redeemed multiplied by (y) the greatest closing sale price of the Company’s common
+stock on any trading day immediately preceding such notice of redemption and the date the Company makes the entire payment required.
+F-24
+The December 2023 Convertible Note has a maturity
+date of December 12, 2026 and will rank senior to all outstanding and future indebtedness of the Company and its subsidiaries. The December
+2023 Convertible Notes are secured by a first priority perfected security interest in all the existing and future assets of the Company
+and its direct and indirect subsidiaries, including a pledge of all of the capital stock of each of the subsidiaries. The December 2023
+Convertible Note also provides that the Company and its subsidiaries execute a guaranty (the “Guaranty”) to guaranty the obligations
+under the December 2023 Convertible Note and the Security Agreement, that all insider stockholders of the common stock shall execute a
+lock-up agreement (the “Lock-Up Agreement”) restricting their sale of the common stock until six months after the registration
+statement registering the shares of common stock underlying the December 2023 Convertible Note is declared effective and a joinder agreement
+(the “Joinder Agreement”) pursuant to which the Company and its Subsidiaries agree and consent to be parties to the Security
+Agreement.
+On August 9, 2024, the Company entered into a
+SPA with the Lender pursuant to which the Company issued to the Lender a senior secured convertible note (the “August 2024 Convertible
+Note”) in exchange for a loan in the principal amount of $1,154,681. The August 2024 Convertible Note has the same terms and conditions
+as the December 2023 Convertible Note.
+Certain events of default under the December 2023
+Convertible Note and the Series A Convertible Preferred Stock have occurred based on the following: the Company’s failure to have
+its resale registration statement on Form S-1 declared effective by the SEC within sixty (60) days of December 12, 2023, the financial
+statements of the Company’s subsidiary for the years ended December 31, 2022 and 2021 and the quarterly periods ended March 31,
+2023, June 30, 2023, and September 30, 2023 were required to be restated, the fact that the Company did not file its Annual Report on
+Form 10-K for the year ended December 31, 2023 (the “Form 10-K”) within two (2) trading days of the filing due date of the
+Form 10-K and the Company did not file its Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2023 (the “Form
+10-Q”) within two (2) trading days of the filing due date of the Form 10-Q. The Convertible Note and the Series A Convertible Preferred
+Stock each provide for certain remedies based upon the occurrence of an event of default. As a result of the default the lender under
+the Convertible Note who is also the holder of the Series A Convertible Preferred Stock calculated default interest on the Convertible
+Note of an additional 8% of the principal balance outstanding for seventeen (17) days in May 2024 and an additional 8% of the principal
+balance outstanding for thirty (30) days in June 2024 (the “Default Interest”). The total Default Interest calculated for
+the three months ended June 30, 2024 was $165,233 in the aggregate. The lender has agreed to treat the Default Interest as paid-in-kind
+interest (“PIK interest”) and the accrued Default Interest was added to the principal balance of the Convertible note on July
+1, 2024. In addition, under the terms of the December 2023 Convertible Note and the August 2024 Convertible Note, the Company has accrued
+default interest from the period from the date the company failed to have its resale registration statement on Form S-1 declared effective
+by the SEC in February 2024 through September 30, 2024, excluding the period for which the Lender calculated the Default Interest, in
+the amount of $660,292 (the “Additional Default Interest”). Pursuant to the execution of the August 2024 Convertible Note,
+the Lender agreed to waive the pre-existing events of default that occurred under the December 2023 Convertible Note and as a result,
+the company recognized a gain on forgiveness of payable of $319,900 in the consolidated statements of operations.
+The December 2023 Convertible Note includes an
+original issue discount of $2,148,217 and debt issuance costs of $3,088,883. The August 2024 Convertible Note includes an original issue
+discount of $287,212 and debt issuance costs of $95,000. For the year ended December 31, 2024 and 2023, the Company recorded $753,904
+and $29,433, respectively, of amortization expense of the debt discount and $1,042,141 and $42,901, respectively, of amortization expense
+of the debt issuance costs in the consolidated statement of operations. As of December 31, 2024 and 2023, accrued interest on the December
+2023 Convertible Note and the August 2024 Convertible Note, including the Additional Default Interest, was $569,419 and $113,000, respectively,
+as included with accrued expenses on the accompanying condensed consolidated balance sheets. See Note 11.
+F-25
+The table below summarizes the outstanding Convertible Note as of December
+31, 2024 and 2023:
+December 31, 2024
+December 31, 2023
+As Restated
+Principal value of Convertible Note (1)
+$17,836,864
+$15,819,209
+Debt discount, net of amortization (2)
+(3,750,932)
+(5,164,765)
+Convertible Note payable
+$14,085,932
+$10,654,444
+(1) Includes $16,644,699 and $15,819,209 of principal for the December 2023 Convertible Note as of December 31, 2024 and 2023, respectively and $1,192,165 and $0 of principal for the August 2024 Convertible Note as of  December 31, 2024 and 2023, respectively.
+(2) Includes $3,419,065 and $5,164,765 of debt discount for the December 2023 Convertible Note as of December 31, 2024 and 2023, respectively and $331,867 and $0 of debt discount for the August 2024 Convertible Note as of December 31, 2024 and 2023, respectively.
+Floor Plan Payable
+On May 15, 2024, the Company entered into a loan
+agreement for up to $1.5 million (“Floor Plan Financing”) with an institutional lender. The Floor Plan Financing represents
+financing arrangements to facilitate the Company’s purchase of used and trade in vehicles. All Floor Plan Financing are collateralized
+by the inventory purchased. These payables become due when the Company sells the vehicle. The interest rate is prime rate plus 3%. Interest
+on outstanding floor plan payable balances are due and payable on the 15th of each month. The outstanding balances on Floor
+Plan Financings as of December 31, 2024, was $1,212,000. Floor Plan Financing interest expense for the year ended December 31, 2024, 2024
+was $68,057. There was no interest expense for the year ended December 31, 2023.
+The table below presents the disaggregation of
+interest expense for the years ended December 31, 2024 and 2023:
+Year ended December 31, 2024
+Year ended December 31, 2023
+Contractual interest expense
+$3,459,439
+$561,095
+Debt discount amortization
+753,904
+49,433
+Debt issuance cost amortization
+1,042,141
+42,901
+Finance costs and other
+14,920
+-
+Total
+$5,270,404
+$653,429
+NOTE 13. WARRANT LIABILITIES
+As part of the Senior Secured Convertible Note,
+entered on December 12, 2023, the Company issued warrants to Defender SPV, LLC where each whole warrant entitles the holder to purchase
+one share of the Company’s common stock at an exercise price of $11.50 per share (the “Common Share Warrants”). Simultaneously
+on December 12, 2023, with the issuance of the Series A Convertible Preferred Stock, Company issued warrants (the “Preferred Shares
+Warrants”) where each warrant allows the holder to purchase one share of the Company’s Series A Preferred Stock at $17.58
+per share. As of December 31, 2024 and 2023, there were 1,271,198 Common Share Warrants and 15,819 Preferred Share Warrants outstanding
+and 1,091,525 Common Share Warrants and 15,819 Preferred Share Warrants outstanding, respectively.
+F-26
+The Common Share warrants expire on the seventh
+anniversary of the issuance date provided that (x) if the Holder fails to acquire at least $14 million in aggregate principal amount of
+Senior Secured Convertible Notes at or prior to the Business Combination Closing, or (y) if a Holder Optional Redemption (as defined below)
+occurs prior to the time of consummation of the Business Combination, the Common Share Warrant would automatically terminate and be null
+and void. At any time after the tenth (10th) Business Day prior to the Maturity Date, any Holder may require the Company to
+redeem (a “Maturity Redemption”) all or any number of Preferred Shares held by such Holder at a purchase price equal to 100%
+of the Conversion Amount of such Preferred Shares.
+Once the Common Share Warrants become exercisable,
+the Company may redeem the outstanding warrants:
+●
+in whole and not in part;
+●
+upon written notice of redemption given after the warrants become exercisable to each warrant holder; and
+●
+At any time on or after the initial date on which either (i) the shares of Common Stock of the Company are registered after the 1934 Act or (ii) any publicly traded common equity (or equivalent security) of any Successor Entity (or Parent Entity, as applicable) are issued in exchange for the Common Stock in the applicable Business Combination or other similar transaction (such applicable entity, the “Successor Public Company”), in either case, whether as a result of a public offering, Business Combination, recapitalization reorganization or otherwise (the “Public Company Date”) but not after 11;59 p.m., New York time, on the Expiration Date.
+The Preferred Share Warrants expire on the eighteen
+(18) month anniversary of the date of the Business Combination (or such later date as extended by written consent of the Company and the
+Holder.
+Once the Preferred Share Warrants become exercisable,
+the Company may redeem the outstanding warrants:
+●
+in whole and not in part;
+●
+upon written notice of redemption given after the warrants become exercisable to each warrant holder; and
+●
+At any time on or after the later of (x) the Issuance Date and (y) the date all of the Initial Preferred Shares have been converted in full, but not after 11:59 p.m., New York Time, on the Expiration Date.
+The Common Share Warrants and the Preferred Share
+Warrants are recognized as derivative liabilities in accordance with ASC 805. Accordingly, the Company recognized the warrant instruments
+as liabilities at fair value as of the issuance date with the offsetting entry to debt discount. The carrying value of the instruments
+will be adjusted to fair value through other income (expense) on the consolidated statement of operations at each reporting period until
+they are exercised. As of December 31, 2024 and 2023, the fair value of the Common Share Warrants and the Preferred Share Warrants liabilities
+are presented within warrant liabilities on the consolidated balance sheet.
+F-27
+NOTE 14. FAIR VALUE MEASUREMENTS
+The Company accounts for certain assets and liabilities
+at fair value and classifies these assets and liabilities within the fair value hierarchy (Level 1, Level 2, or Level 3).
+Assets and liabilities subject to fair value measurements
+are as follows:
+As of December 31, 2024
+Level 1
+Level 2
+Level 3
+Total
+Liabilities
+Warrant liabilities – Common Share Warrants
+$-
+$-
+$486,495
+$486,495
+Warrant liabilities – Preferred Share Warrants
+-
+-
+64
+64
+Derivative Liability
+-
+-
+313,191
+313,191
+Total liabilities
+$-
+$-
+$799,749
+$799,749
+As of December 31, 2023, As Restated
+Level 1
+Level 2
+Level 3
+Total
+Liabilities
+Warrant liabilities – Common Share Warrants
+$-
+$-
+$26,283
+$26,283
+Warrant liabilities – Preferred Share Warrants
+-
+-
+-
+-
+Derivative Liability
+-
+-
+2,724
+2,724
+Total liabilities
+$-
+$-
+$29,007
+$29,007
+The Common Share Warrants and the Preferred Share
+Warrants were valued using a Black-Scholes option pricing model utilizing assumptions related to the contractual terms of the instruments,
+estimated volatility of the price of the Common Stock and current interest rates.
+The following table provides quantitative information
+regarding Level 3 fair value measurements for Common Share Warrants and Preferred Share Warrants as of December 31, 2024.
+Preferred Share Warrant December 31, 2024
+Common Share Warrant December 31, 2024
+Exercise price
+$17.58
+$11.50
+Share price
+$0.96
+$0.96
+Volatility
+106,26%
+106.26%
+Expected life
+1.00
+4.95
+Risk-free rate
+4.16%
+4.38%
+Dividend yield
+-
+-
+F-28
+The following table provides quantitative information
+regarding Level 3 fair value measurements for Common Share Warrants and Preferred Share Warrants as of December 31, 2023.
+Preferred Share Warrant December 31, 2023
+Common Share Warrant December 31, 2023
+Exercise price
+$17.58
+$11.50
+Share price
+$1.23
+$1.23
+Volatility
+40.65%
+40.65%
+Expected life
+1.00
+5.95
+Risk-free rate
+4.01%
+4.01%
+Dividend yield
+-
+The following table presents a summary of the
+changes in the fair value of the Private Warrants and Representative’s Warrants, a Level 3 liability, measured on a recurring basis.
+Common Share Warrants
+Preferred Share Warrants
+Warrant Liability
+Fair value as of December 31, 2022
+$-
+$               -
+$-
+Initial measurement, December 31, 2023
+26,283
+-
+26,283
+Fair value as of December 31, 2023, as restated
+26,283
+-
+26,283
+Initial measurement, August 9, 2024
+26,551
+-
+26,551
+Change in fair value
+433,661
+64
+433,725
+Fair value as of December 31, 2024
+$486,495
+$64
+$486,559
+The conversion upon the event of default derivative
+liability of the Convertible Promissory Note was valued using a Black Scholes option pricing model terms related to the terms of the Convertible
+Promissory Note (see Note 12), estimated volatility of the price of the Common Stock and current interest rates.
+The following table provides quantitative information
+regarding Level 3 fair value measurements for the conversion upon the event of default derivative liability as of December 31, 2024.
+December 2023
+Note December 31, 2024
+August 2024
+Note December 31, 2024
+Exercise price
+$10.00
+$10.00
+Share price
+$0.96
+$0.96
+Volatility
+106.26%
+106.26%
+Expected life
+1.95
+4.95
+Risk-free rate
+4.16%
+4.38%
+Dividend yield
+-
+-
+F-29
+The following table provides quantitative information
+regarding Level 3 fair value measurements for the conversion upon the event of default derivative liability as of December 31, 2023.
+December 31, 2023
+Exercise price
+$10.00
+Share price
+$1.23
+Volatility
+40.65%
+Expected life
+2.95
+Risk-free rate
+4.01%
+Dividend yield
+-
+The following table presents a summary of the
+changes in the fair value of the conversion upon the event of default derivative liability, a Level 3 liability, measured on a recurring
+basis.
+Derivative liability
+Fair value as of December 31, 2022
+$-
+Initial measurement, December 31, 2023
+2,724
+Fair value as of December 31, 2023, as restated
+2,724
+Initial measurement, August 9, 2024
+105,980
+Change in fair value
+204,487
+Fair value as of December 31, 2024
+$313,191
+There was no derivative liability as of December 31, 2022.
+NOTE 15. INCOME TAXES
+Historically, ECD was an S Corporation and as
+such, the Company was not directly liable for income taxes for federal purposes. As of the date of the Business Combination (December
+2023), the operations of the Company ceased to be taxed as an S Corporation resulting in a change in tax status for federal and state
+income tax purposes. This change in tax status requires immediate recognition of any deferred tax assets or liabilities as of the transaction
+date as the Company will now be directly liable for income taxes. The recognition of these initial deferred balances, if any, would be
+recorded as an additional tax expense in the period of the transaction. In addition, the Company will accrue current and deferred tax
+expense based on ongoing activity from that date.
+The components of the provision (benefit) for
+income taxes were as follows (in thousands):
+For the
+year ended
+December 31,
+2024
+For the
+year ended
+December 31,
+2023
+As Restated
+Deferred:
+Federal
+$
+656,193
+$
+(656,193
+)
+State and local
+181,862
+(181,862
+)
+Foreign
+-
+(127,915
+)
+Total deferred provision (benefit)
+838,055
+(965,970
+)
+Change in valuation allowance
+-
+127,915
+Total provision (benefit) for income taxes
+$
+838,055
+$
+(838,055
+)
+F-30
+The effective tax rate differs from the statutory tax rates as follows
+(in thousands):
+For the
+year ended
+December 31,
+2024
+For the
+year ended
+December 31,
+2023
+Tax at statutory federal rate
+21.00
+%
+21.00
+%
+Change in fair value of warrant liabilities
+(0.99
+)%
+-
+%
+Change in fair value of conversion option
+(0.47
+)%
+-
+%
+Other permanent items
+(1.19
+)%
+-
+%
+State income tax
+3.66
+%
+5.39
+%
+Change in tax status
+-
+%
+9.11
+%
+Foreign tax rate differential
+0.13
+%
+0.77
+%
+Valuation allowance
+(31.25
+)%
+(4.80
+)%
+Other
+-
+%
+(0.04
+)%
+Provision (benefit) for income taxes
+(9.11
+)%
+31.43
+%
+Deferred income tax assets and liabilities result
+primarily from temporary differences in the recognition of various expenses for tax and financial statement purposes, and from the recognition
+of the tax benefits of net operating loss carryforwards.
+The components of the deferred income tax assets
+and liabilities were as follows (in thousands):
+December 31, 2024
+December 31, 2023
+Deferred tax assets:
+Net operating losses and tax credit carry-forward
+$2,466,781
+$708,879
+Lease liabilities
+944,389
+1,024,083
+Organizational start-up costs
+341,540
+176,689
+Allowance for doubtful accounts
+1,997
+-
+Bonus accrual
+-
+38,017
+Inventory reserve
+3,246
+Warranty reserve
+110,424
+22,666
+Charitable contribution
+307
+-
+OID on convertible notes
+123,254
+6,414
+Intangibles
+1,318
+-
+Gross deferred tax asset
+$3,993,256
+$1,976,848
+Less valuation allowance
+(3,005,895)
+(127,915)
+Net deferred tax asset
+$987,361
+$1,848,933
+Deferred tax liabilities:
+Depreciation expense
+$115,514
+$57,417
+Right of use assets
+862,758
+953,461
+Goodwill
+9,089
+-
+Total deferred tax liability
+$987,361
+$1,010,878
+Net deferred tax asset (liability)
+$-
+$838,055
+As of December 31, 2024 and 2023, the Company
+had federal net operating losses of approximately $8.9 million and $2.3 million, respectively, and state net operating loss carryforwards
+of approximately $8.9 million and $2.3 million, respectively. As of December 31, 2024 and 2023, the Company had foreign net operating
+loss carryforwards of approximately $0 and $0.5 million, respectively. The federal, state and foreign net operating loss carryforwards
+generated in the tax years 2024 and 2023 will never expire. Certain Net Operating Losses in these jurisdictions are not subject to expiration.
+Utilization of the net operating loss carryforwards may be subject to an annual limitation according to Section 382 of the Internal
+Revenue Code of 1986 as amended, and similar provisions.
+ASC 740, Income Taxes, requires a valuation
+allowance to reduce the deferred tax assets reported if, based on the weight of the evidence, it is more likely than not that some portion
+or all of the deferred tax assets will not be realized. After consideration of all of the evidence, the Company has recorded a valuation
+allowance against all its Federal, state and foreign deferred tax assets at December 31, 202, because management has determined it is
+more likely than not that the Company will be unable to recognize the benefits of its net deferred tax assets. At December 31, 2023, the
+Company only recorded a valuation allowance against its foreign deferred tax assets because management has determined that it is more
+likely than not that the Company will recognize the benefits of its federal and state deferred tax assets, but not for its foreign deferred
+tax assets, primarily due to its lack of revenue generating operations since inception.
+The Company recognizes interest accrued to unrecognized
+tax benefits and penalties as income tax expense. The Company accrued total penalties and interest of $0 during the years ended December
+31, 2024 and 2023 and in total, as of December 31, 2024 and 2023 has recognized penalties and interest of $0.
+F-31
+As of December 31, 2024 and 2023, the Company
+has not recorded an amount of gross unrecognized tax benefits for uncertain tax positions for the current or prior year planned tax filing
+positions. No unrecognized tax benefits are applicable for prior periods.
+The Company files tax returns as prescribed by
+the tax laws of the jurisdictions in which they operate. In the normal course of business, the Company is subject to examination by federal
+and foreign jurisdictions where applicable based on the statute of limitations that apply in each jurisdiction. As of December 31,
+2024, the open tax years are December 31, 2023, 2022, and 2021.
+The Company has no open tax audits with any taxing
+authority as of December 31, 2024.
+The Company actively monitors domestic and global
+tax law changes to account for the effects in the period the legislation is enacted, as applicable.
+NOTE 16. REDEEMABLE PREFERRED STOCK
+The Company is authorized to issue 20,000,000
+shares of preferred stock with a par value of $0.0001 per share. At December 31, 2023 there were 25,000 shares of preferred stock issued
+and outstanding. On August 30, 2024, the holders of 18,500 shares of preferred stock converted such shares for 1,850,000 shares of common
+stock and as of December 31, 2024, there were 6,500 shares of preferred stock issued and outstanding. In January 2025, the conversion
+of such preferred shares was reversed by the Company’s transfer agent and the holder was issued 18,500 shares of preferred stock
+(See Note 18). The 6,500 shares represent Series A Convertible Preferred Stock (discussed below). The Series A Convertible Preferred Stock
+shall rank senior to all shares of Common Stock, and to all other classes or series of capital stock with respect to the preferences as
+to dividends, distributions and payments upon the liquidation, dissolution and winding up of the Company.
+Dividend Rights
+From and after the first date of issuance of any
+initial shares of Series A Convertible Preferred Stock (the “Initial Issuance Date”) and prior to the date of the initial
+exercise of the Preferred Warrants (the “Initial Preferred Warrant Exercise Date”), unless a triggering event has occurred
+and is continuing, holders of Series A Convertible Preferred Stock shall not be entitled to dividends. From and after the Initial Preferred
+Warrant Exercise Date, dividends on the Series A Convertible Preferred Stock shall commence accruing and shall be computed on the basis
+of a 360-day year and twelve 30-day months and shall be payable in arrears for on the first trading day of each fiscal quarter (each,
+an “Dividend Date”). Dividends shall be payable on each Dividend Date, to each record holder of Series A Convertible Preferred
+Stock on the applicable Dividend Date, in shares of Common Stock (“Dividend Shares”) so long as there has been no Equity Conditions
+Failure; provided however, that the Company may, at its option following notice to each holder, pay dividend on any Dividend Date in cash
+(“Cash Dividend”) or in a combination of Cash Dividend and Dividend Shares.
+Liquidation Preference
+In the event of a liquidation, dissolution or
+winding-up of the Company, whether voluntary or involuntary, the stockholders of Series A Convertible Preferred Stock shall be entitled
+to receive in cash out of the assets of the Company, whether from capital or from earnings available for distribution to its stockholders
+(the “Liquidation Funds”), before any amount shall be paid to the holders of any of shares of junior stock, but pari passu
+with any parity stock then outstanding, an amount per share of Series A Convertible Preferred Stock equal to the sum of (i) the Black
+Scholes Value (as defined in the Common Warrants) with respect to the outstanding portion of all Common Warrants held by such holder (without
+regard to any limitations on the exercise thereof) as of the date of such event and (ii) the greater of (A) 125% of the Conversion Amount
+(as defined below) of such Series A Convertible Preferred Stock on the date of such payment and (B) the amount per share such holder would
+receive if such holder converted such Series A Convertible Preferred Stock into Common Stock immediately prior to the date of such payment,
+provided that if the Liquidation Funds are insufficient to pay the full amount due to the holders and holders of shares of parity stock,
+then each holder and each holder of parity stock shall receive a percentage of the Liquidation Funds equal to the full amount of Liquidation
+Funds payable to such holder and such holder of parity stock as a liquidation preference, in accordance with their respective certificate
+of designations (or equivalent), as a percentage of the full amount of Liquidation Funds payable to all holders of Series A Convertible
+Preferred Stock and all holders of shares of parity stock.
+Conversion and Redemption Rights
+At any time after the Business Combination, each
+stockholder shall be entitled to convert any portion of the outstanding Series A Convertible Preferred Stock held by such stockholder
+into validly issued, fully paid and non-assessable shares of Common Stock. The number of shares of Common Stock issuable upon conversion
+of any Series A Convertible Preferred Stock shall be determined by dividing (i) the Conversion Amount (as defined in the Certificate of
+Designation) of such Series A Convertible Preferred Stock by (y) $10.00 (subject to adjustments). A stockholder’s ability to convert
+Series A Convertible Preferred Stock into shares of Common Stock is subject to a 4.99% blocker, such that a stockholder cannot convert
+Series A Convertible Preferred Stock into shares of Common Stock to the extent it will make the stockholder a beneficial owner of more
+than 4.99% of the Common Stock.
+F-32
+The stockholders of Series A Convertible Preferred
+Stock have redemption rights upon the occurrence of a Triggering Event (as defined in the Certificate of Designation). The Company has
+the right to redeem all or any part of Series A Convertible Preferred Stock then outstanding.
+Voting and Other Preferred Rights
+Holders of Series A Convertible Preferred Stock
+shall have no voting rights, except as required by law (including without limitation, the DGCL) and as expressly provided in the Certificate
+of Designations.
+NOTE 17. STOCKHOLDERS’ DEFICIT
+Common stock — The Company
+is authorized to issue 1,000,000,000 shares of common stock with a par value of $0.0001 per share. At December 31, 2024
+and 2023, there were 36,199,662 shares outstanding including the 1,850,000 shares of common stock that were converted from 18,500
+shares of preferred stock in August 2024. In January 2025, the conversion of such preferred shares was reversed by the Company’s
+transfer agent (See Note 18). As of December 31, 2023, there were 31,874,662 shares of common stock issued and outstanding. Each share
+of Common Stock has one vote and has similar rights and obligations.
+On October 11, 2023, ECD closed the transaction
+memorialized in the Securities Purchase Agreement, dated October 6, 2023 (the “Humble SPA”) by and between ECD and Defender
+SPV LLC (the “Investor”) pursuant to which ECD agreed to issue to the Investor (i) 39,000 shares of Series A Convertible Preferred
+Stock of the Company convertible into shares of ECD Common Stock; (ii) 1,100,000 shares of ECD Common Stock; (iii) a warrant to acquire
+1,091,525 additional shares of ECD Common Stock; and (iv) a warrant to acquire 15,819 shares of ECD Series A Preferred Stock, for a purchase
+price equal to $300,000.
+In advance of the Business Combination Closing,
+the Investor provided the Company a Conversion Notice to convert 14,000 shares of its Humble Series A Convertible Preferred Stock into
+1,400,000 shares of common stock of Humble (“Humble Common Stock”). Following the Lender’s conversion of 14,000 shares
+of Humble Series A Convertible Preferred Stock, the Lender held 25,000 shares of Humble Series A Convertible Preferred Stock and an aggregate
+of 2,500,000 shares of Humble Common Stock.
+Common Stock Issuances
+On August 8, 2024, the Company entered into a
+subscription agreement with Theodore Duncan (the “Second Investor”) pursuant to which the Company agreed to issue to the Second
+Investor 1,000,000 shares of common stock and 100,000 warrants for an aggregate subscription price of $1,000,000.
+On August 11, pursuant to the satisfaction of
+the terms in the Original Asset Purchase Agreement the Company issued 1,250,000 shares of common stock.
+On August 30, 2024, the holders of 18,500 shares
+of Series A Convertible Preferred Stock redeemed such shares for 1,850,000 shares of common stock.
+On December 27, 2024, the Company issued 300,000
+shares of Common Stock to Defender SPV LLC pursuant to the securities purchase agreement and the August 2024 Convertible Note.
+F-33
+Warrants — As part of EFHAC’s
+initial public offering (“IPO”), EFHAC issued warrants to third-party investors where each whole warrant entitles the holder
+to purchase one share of the Company’s common stock at an exercise price of $11.50 per share (the “Public Warrants”).
+Simultaneously with the closing of the IPO, EFHAC completed the private sale of warrants where each warrant allows the holder to purchase
+one share of the Company’s common stock at $11.50 per share. At December 31, 2024 and 2023, there are 11,500,000 Public Warrants
+and 257,500 Private warrants outstanding.
+The Public Warrants and the Private Warrants expire
+on the fifth anniversary of the Business Combination or earlier upon redemption or liquidation and are exercisable commencing 30 days
+after the Business Combination, provided that the Company has an effective registration statement under the Securities Act covering the
+shares of common stock issuable upon exercise of the warrants and a current prospectus relating to them is available (or the Company permits
+holders to exercise their warrants on a cashless basis under the circumstances specified in the warrant agreement) and registered, qualified
+or exempt from registration under the securities, or blue sky, laws of the state of residence of the holder.
+Once the Public Warrants become exercisable, the
+Company may redeem the outstanding Public Warrants:
+● in whole and not in part;
+● at a price of $0.01 per warrant;
+● upon not less than 30 days’ prior written notice of redemption to each warrant holder; and
+● if, and only if, the reported last reported sale price of the Class A ordinary shares for any 20 trading days within a 30-trading day period ending three business days before the Company sends the notice of redemption to the warrant holders (the “Reference Value”) equals or exceeds $18.00 per share.
+The Company accounts for the 11,757,500 warrants
+issued in connection with the IPO in accordance with the guidance contained in ASC 815. Such guidance provides that the warrants described
+above are not precluded from equity classification. Equity-classified contracts are initially measured at fair value (or allocated value).
+Subsequent changes in fair value are not recognized as long as the contracts continue to be classified in equity.
+On August 8, 2024, the Company entered into a
+subscription agreement with Second Investor pursuant to which the Company issued 100,000 warrants (the “Duncan Warrants”).
+The Duncan Warrants have a termination date of August 8, 2026, and are exercisable at any time on or after the issue date. The Company
+accounts for the Duncan Warrants in accordance with the guidance contained in ASC 815. Such guidance provides that the warrants are not
+precluded from equity classification. Equity-classified contracts are initially measured at fair value (or allocated value). Subsequent
+changes in fair value are not recognized as long as the contracts continue to be classified in equity.
+Share-based Compensation
+The Company has adopted the Equity Incentive Plan,
+which plan was approved by stockholders at the Special Meeting. The purposes of the Plan is to promote the interests of the Company and
+the stockholders of Company by providing (i) executive officers and other employees of the Company and its Subsidiaries (as defined below),
+(ii) certain consultants and advisors who perform services for the Company and its Subsidiaries and (iii) non-employee members of the
+Board with appropriate incentives and rewards to encourage them to enter into and continue in the employ and service of the Company and
+to acquire a proprietary interest in the long-term success of the Company, as well as to reward the performance of these individuals in
+fulfilling their personal responsibilities for long-range and annual achievements. Eligible individuals under the Plan may receive awards
+of Options, Stock Appreciation Rights, Restricted Stock or Restricted Stock Units, Performance Awards and Other Stock-Based Awards.
+The maximum number of shares reserved for the
+grant of awards under the Plan shall be 400,000. No recipient under the Plan may be awarded more than 100,000 shares in any calendar year,
+and the maximum number of shares underlying awards of Options and Stock Appreciation Rights that may be granted to an Award Recipient
+in any calendar year is 100,000.
+The authority to manage the operation of and administer
+the Plan shall be vested in a committee (the “Committee”), which shall have all the powers vested in it by the terms of the
+Plan, including exclusive authority to select the participants to the Plan; to make awards; to determine the type, size, terms and timing
+of the awards (which need not be uniform); to accelerate the vesting of awards granted pursuant to the Plan, including upon the occurrence
+of a change of control of the Company; to prescribe the form of the award agreement; to modify, amend or adjust the terms and conditions
+of any award; to adopt, alter and repeal such administrative rules, guidelines and practices governing the Plan as it shall, from time
+to time, deem advisable; to interpret the terms and provisions of the Plan and any award issued pursuant to the Plan. The Committee shall
+be selected by the Board of Directors and shall consist solely of non-employee directors within the meaning of Rule 16b-3 that are outside
+directors within the meaning of Code Section 162(m).
+Grants may be made under the Plan through the
+tenth (10th) anniversary of the date it is adopted by the Board and approved by the Committee. Awards outstanding as of the date of termination
+of the Plan shall not be affected or impaired by the termination of the Plan.
+F-34
+As of December 31, 2024, no awards were granted
+under the Equity Incentive Plan. Each of its four non-employee directors were expected to receive a one-time grant of stock options to
+purchase up to 15,000 shares of Common Stock, exercisable at a purchase price which shall be equal to 110% of the price per share of the
+Common Stock at the Closing Date. In addition, in the first quarter of 2024 the Company entered into a consulting agreement whereby it
+issued 100,000 fully paid up non-forfeitable shares of restricted common stock. The shares were issued in the three months ended June
+30, 2024 All shares of Company restricted common stock will be subject to a 12-month lock-up period from the time of issuance.
+In February 2024, the Company entered into a one-year
+consulting agreement (the “Agreement”) with an investor relations firm for the purposes of developing, implementing and maintaining
+an ongoing stock market support system for the Company with the general objective of expanding awareness in the Company. In connection
+with this agreement, the Company has committed to pay $14,500 per month for the first four months of service and $12,500 per month thereafter.
+The Company also issued 100,000 shares of restricted Company common stock on May 9, 2024. All shares of Company restricted Company common
+stock will be subject to a 12-month lock up from the time of issuance. The agreement also provides for incentive shares as follows:
+● If within six (6) months of the Effective Date of the Agreement, investors hold 2.5 million or more shares of Company common stock as a result of the investor relations firm introductions, the Company will issue 25,000 shares of restricted Company common stock to the investor relation firm with in ten (10) days of achieving such milestone.
+● If within six (6) months of the Effective Date of the Agreement, investors hold 5.0 million or more shares of Company common stock as a result of the investor relations firm introductions, the Company will issue 25,000 shares of restricted Company common stock to the investor relation firm with in ten (10) days of achieving such milestone.
+● If within six (6) months of the Effective Date of the Agreement, investors hold 10.0 million or more shares of Company common stock as a result of the investor relations firm introductions, the Company will issue 25,000 shares of restricted Company common stock to the investor relation firm with in ten (10) days of achieving such milestone.
+● If within nine (9) months of the Effective Date of the Agreement the ten (10) day Volume Weighted Average Price (“VWAP”) of Company common stock equals or exceeds $1.90 per share, the Company will issue 50,000 shares of restricted Company common stock to the investor relations firm within ten (10) days of achieving such milestone. All VWAP calculations shall exclude a ten (10) day trading period following any publicly announced M&A transaction.
+● If within twelve (12) months of the Effective Date of the Agreement the ten (10) day Volume Weighted Average Price (“VWAP”) of Company common stock equals or exceeds $3.90 per share, the Company will issue 50,000 shares of restricted Company common stock to the investor relations firm on the twelve (12) month anniversary of the Effective Date. All VWAP calculations shall exclude a ten (10) day trading period following any publicly announced M&A transaction.
+For the year ended December 31, 2024, the Company
+recognized $59,149 for the 100,000 share issuance of fully paid up and non-forfeitable shares at a weighted average grant date fair value
+of $0.59, and $22,810 for the incentive shares with market conditions, based on a weighted average grant date fair value of $0.31 per
+share for the 50,000 shares in Tranche 1 and $0.15 per share for the 50,000 shares in Tranche 2. The fair value of the shares issued was
+determined utilizing level 2 inputs including the Company’s stock price and incorporating a discount for lack of marketability due
+to the lock-up period. The fair value of the incentive shares with market conditions was determined by utilizing a Monte Carlo simulation
+model with Level 2 inputs. The key inputs are presented in the table below:
+Valuation as of February 13, 2024
+Initial shares   Tranche 1   Tranche 2
+Stock price  $0.8   $0.8   $0.8
+Volatility   97.1%   97.1%   97.1%
+Remaining term   0.75    1.00    1.00
+Risk-free rate   5.03%   4.87%   4.87%
+On June 11, 2024, the Company entered into a marketing
+service agreement (the “Marketing Service Agreement”) with an advisory firm. In connection with the Marketing Service Agreement,
+the Company agreed to pay the advisory firm $100,000 worth of shares of the Company’s common stock. The advisory services commenced
+on June 12, 2024 (the “Effective Date”). The number of shares issued was based on the closing price of the Company’s
+common stock on the Effective Date. For the year ended December 31, 2024, the Company has recorded $100,000 of equity compensation expense
+included in general and administrative expenses in the accompanying statements of operations.
+F-35
+NOTE 18. RELATED PARTY TRANSACTIONS
+Related Party Policy
+EFHT’s Code of Ethics requires it to avoid,
+wherever possible, all related party transactions that could result in actual or potential conflicts of interests, except under guidelines
+approved by the Board (or the audit committee). The Code of Ethics defines related party transactions as transactions in which (i) the
+aggregate amount involved will or may be expected to exceed $120,000 in any calendar year, (ii) EFHT or any of EFHT’s subsidiaries
+is a participant, and (iii) any (A) executive officer, director or nominee for election as a director, (B) greater than 5% beneficial
+owner of shares of Common Stock, or (C) immediate family member, of the persons referred to in clauses (A) and (B), has or will have a
+direct or indirect material interest (other than solely as a result of being a director or a less than 10% beneficial owner of another
+entity). A conflict of interest situation can arise when a person takes actions or has interests that may make it difficult to perform
+his or her work objectively and effectively. Conflicts of interest may also arise if a person, or a member of his or her family, receives
+improper personal benefits as a result of his or her position.
+EFHT’s audit committee, pursuant to its
+written charter, is responsible for reviewing and approving related party transactions to the extent that EFHT enters into such transactions.
+All ongoing and future transactions between EFHT and any of EFHT’s officers and directors or their respective affiliates will be
+on terms believed by EFHT to be no less favorable to EFHT than are available from unaffiliated third parties. Such transactions will require
+prior approval by EFHT’s audit committee and a majority of EFHT’s uninterested “independent” directors, or the
+members of the Board who do not have an interest in the transaction, in either case who had access, at EFHT’s expense, to EFHT’s
+attorneys or independent legal counsel. We will not enter into any such transaction unless EFHT’s audit committee and a majority
+of EFHT’s disinterested “independent” directors determine that the terms of such transaction are no less favorable to
+EFHT than those that would be available to EFHT with respect to such a transaction from unaffiliated third parties. Additionally, EFHT
+requires each of EFHT’s directors and executive officers to complete a directors’ and officers’ questionnaire that elicits
+information about related party transactions.
+These procedures are intended to determine whether
+any such related party transaction impairs the independence of a director or presents a conflict of interest on the part of a director,
+employee or officer.
+Certain Transactions of ECD
+Beginning on January 5, 2021, ECD entered into
+a verbal agreement with Overland Auto Transport Inc d/b/a Luxury Automotive Transport (“TransportCo”), a company which is
+100% owned by Ashley Humble, Thomas Humble’s father, and has ECD as its only customer. Thomas Humble, an officer and director of
+ECD, and Elliot Humble, and officer of ECD, are both directors of TransportCo, however they receive no compensation for their services
+to TransportCo. TransportCo assists ECD with the intermediation of transportation services for ECD’s products, by locating providers
+of and booking the required services. TransportCo offers ECD competitive pricing for its services. The total payments to TransportCo under
+this agreement were $103,308 and $196,425 in 2024 and 2023, respectively. On September 27, 2023, we entered into a written agreement with
+TransportCo (the “TransportCo Agreement”) covering the services TransportCo provides to ECD and the compensation paid for
+such services.
+The following table shows the Company’s
+expenses incurred with related parties and the relationship:
+Year Ended December 31
+Relationship  2024   2023
+Luxury Automotive Transport, Inc.  Company owned by stockholder’s relative  $103,308   $196,425
+British Food Stop  Company owned by stockholders’ relative   50,096    16,336
+Total expenses, net     $153,404   $212,761
+F-36
+NOTE 19. COMMITMENTS AND CONTINGENCIES
+We record a liability when we believe that it
+is both probable that a liability has been incurred and the amount can be reasonably estimated. Significant judgment is required to determine
+both probability and the estimated amount. We review these provisions at least quarterly and adjust these provisions to reflect the impact
+of negotiations, settlements, rulings, advice of legal counsel, and updated information.
+From time to time in the ordinary course of business,
+the Company may be subject to various claims, charges, and litigation. At December 31, 2024 and 2023, the Company did not have any pending
+claims, charges or litigation that were expected to have a material adverse impact on its financial position, results of operations or
+cash flows.
+Agreement with One Drivers Club
+As previously disclosed in ECD’s Current
+Report on Form 8-K filed on December 6, 2024, on December 3, 2024, ECD announced that it entered into agreements One Drivers Club in furtherance
+of the ECD’s retail strategy. Specifically, on November 14, 2024, ECD entered into a Strategic Partnership Agreement (the “ODC
+Agreement”) and a Usage Agreement (the “Usage Agreement”) with Member Hubs Palm Beach, LLC (“One Drivers Club”)
+to launch ECD’s first retail showroom in West Palm Beach, Florida. One Drivers Club is the premier destination for automotive enthusiasts
+who view their vehicles as not just machines, but drivers of their lifestyles. With facilities located in Bedford, NY, Chicago, IL, West
+Palm Beach, FL, and Seattle WA, One Drivers Club redefines luxury car care through unparalleled concierge storage and full-service collection
+management. Beyond exceptional car care, One Drivers Club is a community-a place where like-minded drivers connect over shared passions
+and Members celebrate the art and prestige of driving, collecting, and owning remarkable vehicles. The ODC Agreement, entitles ECD to
+use a portion of One Drivers Club’s facility in West Palm Beach, Florida (the “ODC Premises”) for the operation of an
+ECD showroom for ECD vehicles and sale of ECD vehicles, subject to the terms of the Usage Agreement. Pursuant to the ODC Agreement, One
+Drivers Club grants to ECD a non-exclusive, royalty-free, fully paid up, non-transferable and terminable right and license to use the
+marks designated by One Drivers Club, and ECD grants to One Drivers Club, a non-exclusive, royalty-free, fully paid up, non-transferable
+and terminable right and license to use the marks designated by ECD, for the limited purpose of the operation of the ECD showroom and
+for the limited purpose of the operation of the ECD showroom and advertisement of ECD and the ECD Automobiles. Pursuant to the Usage Agreement,
+(i) ECD shall pay One Drivers Club base rent of $225,000 per annum payable monthly, subject to 4% annual increases for each subsequent
+year for use of the ODC Premises; (ii) for a term of five (5) years; (iii) One Drivers Club, at ECD’s cost and expense, shall complete
+the interior build-out (“Build-Out”) of the ODC Premises in accordance with the plans and subject to the terms set forth in
+the Usage Agreement; (iv) upon the completion of the demolition of the ODC Premises in connection with the Build-Out (the “Deposit
+Date”), ECD shall issue One Drivers Club 725,000 unrestricted shares of ECD capital stock (the “ODC Shares”); provided,
+however, that if the value of the ODC Shares is less than $500,000 as of 5:00 pm ET on the Deposit Date, ECD shall issue to One Drivers
+Club that certain number of additional unrestricted shares of ECD capital stock such that the aggregate value of the ODC Shares together
+with the additional unrestricted shares of ECD capital stock is equal to or greater than $500,000; and (v) ECD shall deposit with One
+Drivers Club $125,000 (the “Build-Out Deposit”) in cash. The Build-Out Deposit shall be held in a non-interest bearing segregated
+account and shall be utilized to satisfy any outstanding Build-Out payment obligations incurred by One Drivers Club not first satisfied
+from the sale of the ODC Shares and upon the completion of the Build-Out, as reasonably determined by ECD, and the satisfaction of all
+Build-Out payment obligations, One Drivers Club shall return the balance of the Build-Out Deposit, if any, to ECD.
+Relationship with Ten Easy Street
+On December 12, 2024, ECD signed with Ten Easy
+Street of Nantucket (“TES”), a concept showroom, showhouse and gathering space, to expand ECD’s retail presence and
+showcase its one-of-one vehicles as part of their curated creative lifestyle brands, furnishings and social opportunities.
+TES has agreed to showcase the Company’s
+custom vehicles in the designated parking spots located at TES from April 1, 2025 to December 31, 2025 (the “Showcase Term”).
+The Company will pay TES $75,000 for the Showcase Term. TES will also promote the Company’s vehicles on all marketing channels during
+the Showcase Term the Company will provide TES with an affiliate link that corresponds to the vehicles shown on TES’s platform.
+TES will receive $5,000 for all sales made through the affiliate link.
+F-37
+NOTE 20. SEGMENT
+ASC Topic 280, “Segment Reporting,”
+establishes standards for companies to report in their financial statement information about operating segments, products, services, geographic
+areas, and major customers. Operating segments are defined as components of an enterprise that engage in business activities from
+which it may recognize revenues and incur expenses, and for which separate financial information is available that is regularly evaluated
+by the Company’s chief operating decision maker, or group, in deciding how to allocate resources and assess performance.
+The Company’s chief operating decision maker
+(“CODM”) has been identified as the Chief Executive Officer who reviews the assets, liabilities, operating results, and financial
+metrics for the Company as a whole to make decisions about allocating resources and assessing financial performance. Accordingly, management
+has determined that there is only one reportable segment.
+The CODM assesses performance for the single segment
+and decides how to allocate resources based on net income or loss that also is reported on the statement of operations as net income or
+loss. The measure of segment assets and liabilites is reported on the balance sheet as total assets and total liabilities. When evaluating
+the Company’s performance and making key decisions regarding resource allocation, the CODM reviews several key metrics included
+in net income or loss, total assets and total liabilities, which include the following:
+December 31,
+December 31,
+2024
+2023,
+As Restated
+Inventory
+$11,181806
+$9,607,766
+Deferred revenue
+$11,802,825
+$16,190,861
+Year Ended December 31,
+2024
+2023,
+As Restated
+Revenue, net
+$25,165,733
+$19,492,606
+Less: Cost of goods sold
+19,277,786
+14,969,683
+Gross Profit
+5,887,947
+4,522,923
+NOTE 21. SUBSEQUENT EVENTS
+Subsequent events have been evaluated through
+April 15, 2025, which represents the date the financial statements were available to be issued, and no events, other than disclosed below
+have occurred through that date that would impact the financial statements.
+Additional Financings from Defender SPV LLC
+As previously disclosed in ECD’s Current
+Report on Form 8-K filed on January 14, 2025, on January 8, 2025, the Company entered into a securities purchase agreement (the “January
+2025 SPA”) with the Lender pursuant to which the Lender agreed to waive the pre-existing events of default that occurred under the
+August Note and the Company Preferred Stock and the Company agreed to execute and deliver to the Lender a senior secured convertible note
+(the “January 2025 Note”), in exchange for a loan in the principal amount of $1,724,100.
+The January 2025 SPA also provides that in connection
+with the January 2025 Note, the Company will also issue to the Lender at no additional cost 500,000 shares of Common Stock and a warrant,
+dated January 13, 2025, to purchase 398,364 shares of Common Stock at an exercise price of $11.50 per share (the “Common Share Warrant”).
+F-38
+Reversal of Series A Convertible Preferred
+Stock Conversion
+In January 2025 the conversion of the 18,500 shares
+of Series A Convertible Preferred Stock into 1,850,000 shares of common stock was reversed by the Company’s transfer agent due to
+the terms of the agreement that a stockholder’s ability to convert Series A Convertible Preferred Stock into shares of Common Stock
+is subject to a 4.99% blocker, that precluded the stockholder from converting its Series A Convertible Preferred Stock into shares of
+Common Stock to the extent it will made the stockholder a beneficial owner of more than 4.99% of the Common Stock.
+Business Loan and Security Agreement
+On February 20, 2025, the Company entered into
+a Business Loan and Security Agreement with Agile Lending, LLC (the “Lending Lender”) pursuant to which the Company received
+a term loan from the Lending Lender in the principal amount of $1,575,000 (the “Loan”). The Loan shall be prepaid through
+thirty (30) equal weekly payments of principal and interest in the aggregate amount of $74,550 commencing March 3, 2025 and ending September
+22, 2025. During the term the Loan shall accrue interest of $661,500. The principal amount of the Loan included an administrative agent
+fee of $75,000 which was paid to the Collateral Agent out of the Loan.
+Consulting Agreement
+On February 20, 2025 (the “Effective Date”),
+the Company entered into a consulting agreement with an advisor (the “Advisor”) for business advisory services, guidance on
+growth strategies, and networking with its contacts on a non-exclusive basis for general business purposes. Pursuant to the consulting
+agreement the Company will issue 236,000 shares of the Company’s common stock to the Advisor on the Effective Date.
+Loan Agreement
+On April 4, 2025, the Company entered into a new
+business loan and security agreement with an effective date of April 4, 2025 (the “New Loan Agreement”) by and among an investor
+(the “New Lender”), a collateral agent (the “Collateral Agent”), the Company and its subsidiary, Humble Imports
+Inc., pursuant to which the Company received a term loan from the New Lender in the principal amount of $1,824,300 (the “New Loan”).
+The New Loan shall be repaid through sixty-nine (69) equal weekly payments of principal and interest in the aggregate amount of $35,693
+per week commencing on April 15, 2025 and ending August 4, 2026 (the “Term”). During the Term, the New Loan shall accrue interest
+in the aggregate amount of $638,505. The New Loan included an administrative expense fee of $40,000 and a lender’s legal fee of
+$35,000, which sum was netted out of the New Loan. The New Loan is secured by all properties, rights and assets of the Company and Collateral
+Agent is designated as the collateral agent under the New Loan Agreement.
+The net proceeds of the New Loan were used to
+pay off the Agile Loan in the discounted amount of $1,749,300, including principal and interest. Accordingly, the Agile Loan is paid off
+and satisfied.
+F-39
+SIGNATURES
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+Date: July 15, 2025
+ECD Automotive Design, Inc.
+/s/
+Scott Wallace
+Name:
+Scott Wallace
+Title:
+Chief Executive Officer
+(Principal Executive Officer)
+/s/
+Benjamin Piggott
+Name:
+Benjamin Piggott
+Title:
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and
+on the dates indicated.
+SIGNATURE
+TITLE
+DATE
+/s/
+Scott Wallace
+Chief Executive Officer
+and Director
+July
+15, 2025
+Scott Wallace
+(principal executive
+officer)
+/s/ Benjamin
+Piggott
+Chief Financial Officer
+July
+15, 2025
+Benjamin Piggott
+(principal financial
+and accounting officer)
+/s/ Emily
+Humble
+Chief Product Officer
+and Director
+July
+15, 2025
+Emily Humble
+/s/ Patrick
+Lavelle
+Director
+July
+15, 2025
+Patrick Lavelle
+/s/ Robert
+Machinist
+Director
+July
+15, 2025
+Robert Machinist
+/s/ Thomas
+Wood
+Director
+July
+15, 2025
+Thomas Wood
+2
+271824
+271824
+271824
+271824
+10626
+11181806
+0001922858
+true
+FY
+0001922858
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001922858
+efht:WarrantsMember
+2024-01-01
+2024-12-31
+0001922858
+2024-06-30
+0001922858
+2025-07-14
+0001922858
+2024-12-31
+0001922858
+2023-12-31
+0001922858
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:RedeemablePreferredStockMember
+us-gaap:PreferredStockMember
+2022-12-31
+0001922858
+us-gaap:CommonStockMember
+2022-12-31
+0001922858
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001922858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001922858
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001922858
+2022-12-31
+0001922858
+us-gaap:RedeemablePreferredStockMember
+us-gaap:PreferredStockMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:RedeemablePreferredStockMember
+us-gaap:PreferredStockMember
+2023-12-31
+0001922858
+us-gaap:CommonStockMember
+2023-12-31
+0001922858
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001922858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001922858
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001922858
+us-gaap:RedeemablePreferredStockMember
+us-gaap:PreferredStockMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:RedeemablePreferredStockMember
+us-gaap:PreferredStockMember
+2024-12-31
+0001922858
+us-gaap:CommonStockMember
+2024-12-31
+0001922858
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001922858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001922858
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001922858
+srt:MaximumMember
+2024-12-31
+0001922858
+efht:ConvertibleNoteMember
+2023-12-12
+0001922858
+efht:ConvertibleNoteMember
+2024-12-31
+0001922858
+efht:ConvertibleNoteMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:CommonStockMember
+2024-12-31
+0001922858
+efht:ConvertibleNoteMember
+2024-08-09
+0001922858
+us-gaap:SubsequentEventMember
+2025-01-08
+0001922858
+efht:LendingLenderMember
+us-gaap:SubsequentEventMember
+2025-02-20
+0001922858
+srt:ScenarioForecastMember
+efht:NewLoanAgreementMember
+2025-04-04
+2025-04-04
+0001922858
+srt:ScenarioForecastMember
+efht:NewLoanAgreementMember
+2025-04-04
+0001922858
+srt:MinimumMember
+2024-12-31
+0001922858
+efht:ThreeCustomersMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-01
+2024-12-31
+0001922858
+efht:CustomerMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-01
+2024-12-31
+0001922858
+efht:CustomerMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2023-01-01
+2023-12-31
+0001922858
+efht:BuildsMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BuildsMember
+2023-01-01
+2023-12-31
+0001922858
+efht:WarrantyAndOtherMember
+2024-01-01
+2024-12-31
+0001922858
+efht:WarrantyAndOtherMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:TransferredAtPointInTimeMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:TransferredAtPointInTimeMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:CommonStockMember
+efht:EFHTMember
+2024-12-31
+0001922858
+us-gaap:PreferredStockMember
+2024-12-31
+0001922858
+efht:MergerSubCommonStockMember
+2024-01-01
+2024-12-31
+0001922858
+efht:PublicWarrantsMember
+us-gaap:CommonStockMember
+2024-12-31
+0001922858
+efht:PublicWarrantsMember
+2024-12-31
+0001922858
+us-gaap:PrivatePlacementMember
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+efht:ClassACommonStockOfEFHACMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+efht:EFHACPublicRightsSharesOutstandingMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+efht:EFHACFounderSharesOutstandingMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+efht:EFHACPrivateSharesOutstandingMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+efht:EFHACPrivateRightsSharesOutstandingMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+efht:EFHACSharesIssuedToEFHuttonUnderwriterMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BusinessCombinationMember
+2024-12-31
+0001922858
+us-gaap:CommonClassAMember
+2024-01-01
+2024-12-31
+0001922858
+efht:OriginalAssetPurchaseAgreementMember
+2024-04-03
+2024-04-03
+0001922858
+efht:ARAssetPurchaseAgreementMember
+2024-04-03
+2024-04-03
+0001922858
+efht:ARAssetPurchaseAgreementMember
+2024-04-24
+2024-04-24
+0001922858
+efht:ARAssetPurchaseAgreementMember
+efht:PurchasedAssetsMember
+2024-04-24
+2024-04-24
+0001922858
+efht:ARAssetPurchaseAgreementMember
+2024-04-24
+0001922858
+efht:ARAssetPurchaseAgreementMember
+2024-08-11
+2024-08-11
+0001922858
+efht:ARAssetPurchaseAgreementMember
+2024-08-11
+0001922858
+efht:ARAssetPurchaseAgreementMember
+us-gaap:CommonStockMember
+2024-08-11
+2024-08-11
+0001922858
+efht:ARAssetPurchaseAgreementMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2024-12-31
+0001922858
+efht:BNMCContinuationCarsLLCMember
+efht:BrandNameMember
+2024-12-31
+0001922858
+us-gaap:ComputerEquipmentMember
+2024-12-31
+0001922858
+us-gaap:ComputerEquipmentMember
+2023-12-31
+0001922858
+us-gaap:OfficeEquipmentMember
+2024-12-31
+0001922858
+us-gaap:OfficeEquipmentMember
+2023-12-31
+0001922858
+us-gaap:ManufacturingFacilityMember
+2024-12-31
+0001922858
+us-gaap:ManufacturingFacilityMember
+2023-12-31
+0001922858
+us-gaap:VehiclesMember
+2024-12-31
+0001922858
+us-gaap:VehiclesMember
+2023-12-31
+0001922858
+us-gaap:BuildingImprovementsMember
+2024-12-31
+0001922858
+us-gaap:BuildingImprovementsMember
+2023-12-31
+0001922858
+srt:MinimumMember
+2024-01-01
+2024-12-31
+0001922858
+srt:MaximumMember
+2024-01-01
+2024-12-31
+0001922858
+2021-08-11
+0001922858
+srt:MinimumMember
+2021-08-11
+2021-08-11
+0001922858
+srt:MaximumMember
+2021-08-11
+2021-08-11
+0001922858
+srt:MinimumMember
+country:GB
+2024-01-01
+2024-12-31
+0001922858
+srt:MaximumMember
+country:GB
+2024-01-01
+2024-12-31
+0001922858
+2023-03-23
+0001922858
+srt:MinimumMember
+2023-03-23
+2023-03-23
+0001922858
+srt:MaximumMember
+2023-03-23
+2023-03-23
+0001922858
+stpr:FL
+2023-12-31
+0001922858
+stpr:FL
+2023-01-01
+2023-12-31
+0001922858
+efht:ExclusiveSupplierAgreementMember
+2022-02-01
+2022-02-01
+0001922858
+efht:ExclusiveSupplierAgreementMember
+2022-02-01
+0001922858
+2021-12-15
+0001922858
+us-gaap:RevolvingCreditFacilityMember
+2023-09-28
+0001922858
+2023-09-28
+0001922858
+srt:MaximumMember
+efht:LoanAndSecurityAgreementMember
+2023-09-28
+2023-09-28
+0001922858
+srt:MinimumMember
+efht:LoanAndSecurityAgreementMember
+2023-09-28
+2023-09-28
+0001922858
+2023-09-30
+2023-09-30
+0001922858
+2023-10-31
+2023-10-31
+0001922858
+2023-11-30
+2023-11-30
+0001922858
+2023-12-31
+2023-12-31
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2023-10-06
+2023-10-06
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2023-10-06
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2024-12-31
+2024-12-31
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2024-12-31
+0001922858
+2023-10-06
+2023-10-06
+0001922858
+2023-10-06
+0001922858
+us-gaap:ConvertibleCommonStockMember
+2023-01-01
+2023-12-31
+0001922858
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2023-12-31
+0001922858
+efht:August2024ConvertibleNoteMember
+2024-08-09
+0001922858
+2024-05-17
+2024-05-17
+0001922858
+2024-06-30
+2024-06-30
+0001922858
+2024-09-30
+2024-09-30
+0001922858
+efht:December2023ConvertibleNoteMember
+2023-01-01
+2023-12-31
+0001922858
+efht:December2023ConvertibleNoteMember
+2023-12-31
+0001922858
+efht:August2024ConvertibleNoteMember
+2024-08-31
+0001922858
+2024-08-31
+2024-08-31
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2024-01-01
+2024-12-31
+0001922858
+efht:SecuritiesPurchaseAgreementMember
+2023-01-01
+2023-12-31
+0001922858
+efht:August2024ConvertibleNoteMember
+2024-01-01
+2024-12-31
+0001922858
+efht:August2024ConvertibleNoteMember
+2023-01-01
+2023-12-31
+0001922858
+efht:December2023ConvertibleNoteMember
+2024-12-31
+0001922858
+efht:August2024ConvertibleNoteMember
+2024-12-31
+0001922858
+efht:August2024ConvertibleNoteMember
+2023-12-31
+0001922858
+efht:December2023ConvertibleNoteMember
+2024-01-01
+2024-12-31
+0001922858
+2024-05-15
+2024-05-15
+0001922858
+2024-05-15
+0001922858
+efht:CommonShareWarrantsMember
+2024-12-31
+0001922858
+us-gaap:SeriesAPreferredStockMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantsMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001922858
+efht:CommonShareWarrantsMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+2024-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001922858
+efht:DerivativeLiabilityMember
+2024-12-31
+0001922858
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001922858
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+2023-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001922858
+efht:DerivativeLiabilityMember
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2024-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2023-12-31
+0001922858
+efht:December2023NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2024-12-31
+0001922858
+efht:August2024NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2024-12-31
+0001922858
+efht:December2023NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2024-12-31
+0001922858
+efht:August2024NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2024-12-31
+0001922858
+efht:December2023NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2024-12-31
+0001922858
+efht:August2024NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2024-12-31
+0001922858
+efht:December2023NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2024-12-31
+0001922858
+efht:August2024NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2024-12-31
+0001922858
+efht:December2023NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2024-12-31
+0001922858
+efht:August2024NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2024-12-31
+0001922858
+efht:December2023NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2024-12-31
+0001922858
+efht:August2024NoteMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2024-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExercisePriceMember
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputSharePriceMember
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputOptionVolatilityMember
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedTermMember
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+2023-12-31
+0001922858
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MeasurementInputExpectedDividendRateMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001922858
+efht:WarrantLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-01-01
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-01-01
+2023-12-31
+0001922858
+efht:WarrantLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-01-01
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-12-31
+0001922858
+efht:WarrantLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-01
+2024-08-09
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-01
+2024-08-09
+0001922858
+efht:WarrantLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-01
+2024-08-09
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-08-10
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-08-10
+2024-12-31
+0001922858
+efht:WarrantLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-08-10
+2024-12-31
+0001922858
+efht:CommonShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001922858
+efht:PreferredShareWarrantsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001922858
+efht:WarrantLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-01-01
+2023-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2023-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-01
+2024-08-09
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-08-10
+2024-12-31
+0001922858
+efht:DerivativeLiabilityMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001922858
+2024-08-30
+0001922858
+2025-01-31
+0001922858
+efht:SeriesAConvertiblePreferredStockMember
+2024-12-31
+0001922858
+us-gaap:CommonStockMember
+2023-12-31
+0001922858
+2024-08-31
+0001922858
+us-gaap:CommonStockMember
+2024-08-31
+0001922858
+us-gaap:SeriesAPreferredStockMember
+2023-10-11
+0001922858
+efht:ECDCommonStockMember
+2023-10-11
+0001922858
+efht:ECDSeriesAPreferredStockMember
+2023-10-11
+0001922858
+efht:ECDSeriesAPreferredStockMember
+2023-10-11
+0001922858
+2024-08-08
+2024-08-08
+0001922858
+2024-08-08
+0001922858
+us-gaap:CommonStockMember
+efht:OriginalAssetPurchaseAgreementMember
+2024-08-11
+2024-08-11
+0001922858
+efht:SeriesAConvertiblePreferredStockMember
+us-gaap:CommonStockMember
+2024-08-30
+2024-08-30
+0001922858
+efht:SeriesAConvertiblePreferredStockMember
+2024-08-30
+2024-08-30
+0001922858
+2024-12-27
+2024-12-27
+0001922858
+us-gaap:IPOMember
+2024-12-31
+0001922858
+efht:PublicWarrantsMember
+us-gaap:IPOMember
+2024-12-31
+0001922858
+us-gaap:WarrantMember
+2024-12-31
+0001922858
+efht:PrivateWarrantsMember
+2024-12-31
+0001922858
+us-gaap:StockAppreciationRightsSARSMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:StockOptionMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:RestrictedStockMember
+2024-03-31
+0001922858
+efht:OneYearConsultingAgreementMember
+2024-02-01
+2024-02-28
+0001922858
+2024-02-01
+2024-02-28
+0001922858
+us-gaap:RestrictedStockMember
+2024-05-09
+0001922858
+us-gaap:InvestorMember
+2024-12-31
+0001922858
+us-gaap:RestrictedStockMember
+us-gaap:InvestorMember
+2024-12-31
+0001922858
+efht:InvestorOneMember
+2024-12-31
+0001922858
+us-gaap:RestrictedStockMember
+efht:InvestorOneMember
+2024-12-31
+0001922858
+efht:InvestorTwoMember
+2024-12-31
+0001922858
+us-gaap:RestrictedStockMember
+efht:InvestorTwoMember
+2024-12-31
+0001922858
+us-gaap:RestrictedStockMember
+2024-12-31
+0001922858
+efht:NonForfeitableSharesMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2024-01-01
+2024-12-31
+0001922858
+us-gaap:CommonStockMember
+2024-06-11
+2024-06-11
+0001922858
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-01-01
+2024-12-31
+0001922858
+efht:InitialSharesMember
+2024-02-13
+0001922858
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2024-02-13
+0001922858
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2024-02-13
+0001922858
+efht:InitialSharesMember
+2024-02-13
+2024-02-13
+0001922858
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2024-02-13
+2024-02-13
+0001922858
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2024-02-13
+2024-02-13
+0001922858
+efht:EFHTsMember
+2024-01-01
+2024-12-31
+0001922858
+efht:AshleyHumbleMember
+2024-12-31
+0001922858
+efht:TransportCoMember
+2024-01-01
+2024-12-31
+0001922858
+efht:TransportCoMember
+2023-01-01
+2023-12-31
+0001922858
+efht:LuxuryAutomotiveTransportIncMember
+2024-01-01
+2024-12-31
+0001922858
+efht:LuxuryAutomotiveTransportIncMember
+2024-12-31
+0001922858
+efht:LuxuryAutomotiveTransportIncMember
+2023-12-31
+0001922858
+efht:BritishFoodStopMember
+2024-01-01
+2024-12-31
+0001922858
+efht:BritishFoodStopMember
+2024-12-31
+0001922858
+efht:BritishFoodStopMember
+2023-12-31
+0001922858
+us-gaap:SubsequentEventMember
+2025-01-13
+2025-01-13
+0001922858
+efht:CommonShareWarrantMember
+us-gaap:CommonStockMember
+us-gaap:SubsequentEventMember
+2025-01-13
+0001922858
+efht:ReversalOfSeriesAConvertiblePreferredStockConversionMember
+efht:SeriesAConvertiblePreferredStockMember
+us-gaap:SubsequentEventMember
+2025-01-31
+0001922858
+efht:ReversalOfSeriesAConvertiblePreferredStockConversionMember
+us-gaap:SubsequentEventMember
+2025-01-01
+2025-01-31
+0001922858
+efht:ReversalOfSeriesAConvertiblePreferredStockConversionMember
+us-gaap:BeneficialOwnerMember
+us-gaap:SubsequentEventMember
+2025-01-31
+0001922858
+efht:ReversalOfSeriesAConvertiblePreferredStockConversionMember
+us-gaap:BeneficialOwnerMember
+efht:SeriesAConvertiblePreferredStockMember
+us-gaap:SubsequentEventMember
+2025-01-31
+0001922858
+efht:BusinessLoanAndSecurityAgreementMember
+efht:ReversalOfSeriesAConvertiblePreferredStockConversionMember
+us-gaap:SubsequentEventMember
+2025-02-20
+0001922858
+efht:BusinessLoanAndSecurityAgreementMember
+us-gaap:SubsequentEventMember
+2025-02-01
+2025-02-20
+0001922858
+efht:BusinessLoanAndSecurityAgreementMember
+us-gaap:SubsequentEventMember
+2025-02-20
+0001922858
+us-gaap:CommonStockMember
+us-gaap:SubsequentEventMember
+2025-02-01
+2025-02-20
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+efht:segment

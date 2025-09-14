@@ -1,0 +1,1891 @@
+TAYLOR DEVICES, INC. - Form 10-K SEC filing
+0000096536
+false
+2025
+FY
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+0000096536
+2024-06-01
+2025-05-31
+0000096536
+2025-05-31
+0000096536
+us-gaap:CommonClassAMember
+2024-06-01
+2025-05-31
+0000096536
+us-gaap:SeriesAPreferredStockMember
+2024-06-01
+2025-05-31
+0000096536
+2024-11-30
+0000096536
+2024-08-15
+0000096536
+2024-05-31
+0000096536
+2023-06-01
+2024-05-31
+0000096536
+us-gaap:CommonStockMember
+2024-05-31
+0000096536
+us-gaap:CommonStockMember
+2023-05-31
+0000096536
+us-gaap:CommonStockMember
+2024-06-01
+2025-05-31
+0000096536
+us-gaap:CommonStockMember
+2023-06-01
+2024-05-31
+0000096536
+us-gaap:CommonStockMember
+2025-05-31
+0000096536
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-31
+0000096536
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-31
+0000096536
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-01
+2025-05-31
+0000096536
+us-gaap:AdditionalPaidInCapitalMember
+2023-06-01
+2024-05-31
+0000096536
+us-gaap:AdditionalPaidInCapitalMember
+2025-05-31
+0000096536
+us-gaap:RetainedEarningsMember
+2024-05-31
+0000096536
+us-gaap:RetainedEarningsMember
+2023-05-31
+0000096536
+us-gaap:RetainedEarningsMember
+2024-06-01
+2025-05-31
+0000096536
+us-gaap:RetainedEarningsMember
+2023-06-01
+2024-05-31
+0000096536
+us-gaap:RetainedEarningsMember
+2025-05-31
+0000096536
+us-gaap:TreasuryStockCommonMember
+2024-05-31
+0000096536
+us-gaap:TreasuryStockCommonMember
+2023-05-31
+0000096536
+us-gaap:TreasuryStockCommonMember
+2024-06-01
+2025-05-31
+0000096536
+us-gaap:TreasuryStockCommonMember
+2023-06-01
+2024-05-31
+0000096536
+us-gaap:TreasuryStockCommonMember
+2025-05-31
+0000096536
+2023-05-31
+0000096536
+fil:CustomersMember
+2025-05-31
+0000096536
+fil:CustomersMember
+2024-05-31
+0000096536
+fil:CustomersRetentionMember
+2025-05-31
+0000096536
+fil:CustomersRetentionMember
+2024-05-31
+0000096536
+us-gaap:PublicUtilitiesInventoryRawMaterialsMember
+2025-05-31
+0000096536
+us-gaap:PublicUtilitiesInventoryRawMaterialsMember
+2024-05-31
+0000096536
+fil:WorkInProcessMember
+2025-05-31
+0000096536
+fil:WorkInProcessMember
+2024-05-31
+0000096536
+fil:FinishedGoodsMember
+2025-05-31
+0000096536
+fil:FinishedGoodsMember
+2024-05-31
+0000096536
+us-gaap:LandMember
+2025-05-31
+0000096536
+us-gaap:LandMember
+2024-05-31
+0000096536
+us-gaap:BuildingImprovementsMember
+2025-05-31
+0000096536
+us-gaap:BuildingImprovementsMember
+2024-05-31
+0000096536
+us-gaap:MachineryAndEquipmentMember
+2025-05-31
+0000096536
+us-gaap:MachineryAndEquipmentMember
+2024-05-31
+0000096536
+us-gaap:FurnitureAndFixturesMember
+2025-05-31
+0000096536
+us-gaap:FurnitureAndFixturesMember
+2024-05-31
+0000096536
+us-gaap:VehiclesMember
+2025-05-31
+0000096536
+us-gaap:VehiclesMember
+2024-05-31
+0000096536
+us-gaap:LandImprovementsMember
+2025-05-31
+0000096536
+us-gaap:LandImprovementsMember
+2024-05-31
+0000096536
+fil:CustomerDepositsMember
+2025-05-31
+0000096536
+fil:CustomerDepositsMember
+2024-05-31
+0000096536
+fil:PersonnelCostsMember
+2025-05-31
+0000096536
+fil:PersonnelCostsMember
+2024-05-31
+0000096536
+fil:OtherMember
+2025-05-31
+0000096536
+fil:OtherMember
+2024-05-31
+0000096536
+fil:StructuralMember
+2024-06-01
+2025-05-31
+0000096536
+fil:StructuralMember
+2023-06-01
+2024-05-31
+0000096536
+fil:AerospaceDefenseMember
+2024-06-01
+2025-05-31
+0000096536
+fil:AerospaceDefenseMember
+2023-06-01
+2024-05-31
+0000096536
+fil:IndustrialMember
+2024-06-01
+2025-05-31
+0000096536
+fil:IndustrialMember
+2023-06-01
+2024-05-31
+0000096536
+fil:N90110001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N90110001Member
+2025-05-31
+0000096536
+fil:N100111001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N100111001Member
+2025-05-31
+0000096536
+fil:N110112001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N110112001Member
+2025-05-31
+0000096536
+fil:N120113001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N120113001Member
+2025-05-31
+0000096536
+fil:N130114001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N130114001Member
+2025-05-31
+0000096536
+fil:N160117001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N160117001Member
+2025-05-31
+0000096536
+fil:N190120001Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N190120001Member
+2025-05-31
+0000096536
+fil:N20012100Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N20012100Member
+2025-05-31
+0000096536
+fil:N30013100Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N30013100Member
+2025-05-31
+0000096536
+fil:N43014400Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N43014400Member
+2025-05-31
+0000096536
+fil:N46014700Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N46014700Member
+2025-05-31
+0000096536
+fil:N9014700Member
+2024-06-01
+2025-05-31
+0000096536
+fil:N9014700Member
+2025-05-31
+0000096536
+fil:N90110001Member
+2024-05-31
+0000096536
+fil:N90110001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N100111001Member
+2024-05-31
+0000096536
+fil:N100111001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N110112001Member
+2024-05-31
+0000096536
+fil:N110112001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N120113001Member
+2024-05-31
+0000096536
+fil:N120113001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N130114001Member
+2024-05-31
+0000096536
+fil:N130114001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N160117001Member
+2024-05-31
+0000096536
+fil:N160117001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N190120001Member
+2024-05-31
+0000096536
+fil:N190120001Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N20012100Member
+2024-05-31
+0000096536
+fil:N20012100Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N46014700Member
+2024-05-31
+0000096536
+fil:N46014700Member
+2023-06-01
+2024-05-31
+0000096536
+fil:N9014700Member
+2024-05-31
+0000096536
+fil:N9014700Member
+2023-06-01
+2024-05-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+F O R M 10-K
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended May 31, 2025
+or
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________ to __________
+Commission file number 000-3498
+TAYLOR DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+New York
+16-0797789
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+90 Taylor Drive, North Tonawanda, New York
+14120
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code   (716) 694-0800
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, $.025 par value per share
+Preferred Stock Purchase Rights
+TAYDN/A
+The Nasdaq Stock Market LLCThe Nasdaq Stock Market LLC
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+☐ Yes    ☒ No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+☐ Yes    ☒ No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒ Yes    ☐ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒ Yes    ☐ No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company.  See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated Filer ☒
+Smaller reporting company ☒
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.     ☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.     ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).     ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).             ☐ Yes    ☒ No
+The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, on November 29, 2024, the last business day of the registrant's most recently completed second fiscal quarter, is $150,789,000.
+The number of shares outstanding of each of the registrant's classes of common stock as of August 15, 2025 is 3,147,193.
+2
+TAYLOR DEVICES, INC.
+DOCUMENTS INCORPORATED BY REFERENCE
+Documents
+Form 10-K Reference
+Portions of definitive Proxy Statement for Registrant’s 2025 Annual Meeting of Shareholders
+Part III, Items 10-14
+FORM 10-K INDEX
+PART I
+PAGE
+Item 1.
+Business.
+4
+Item 1A.
+Risk Factors.
+6
+Item 1B.
+Unresolved Staff Comments.
+6
+Item 1C.
+Cybersecurity.
+6
+Item 2.
+Properties.
+7
+Item 3.
+Legal Proceedings.
+7
+Item 4.
+Mine Safety Disclosures.
+7
+PART II
+Item 5.
+Market For Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+8
+Item 6.
+[Reserved].
+8
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations.
+8
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk.
+15
+Item 8.
+Financial Statements and Supplementary Data.
+15
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+15
+Item 9A.
+Controls and Procedures.
+15
+Item 9B.
+Other Information.
+16
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+16
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance.
+16
+Item 11.
+Executive Compensation.
+16
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+16
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence.
+16
+Item 14.
+Principal Accountant Fees and Services.
+16
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules.
+17
+Item 16.
+Form 10-K Summary.
+19
+SIGNATURES
+20
+3
+PART I
+Item 1.  Business.
+Taylor Devices, Inc. (referred to herein as the “Company,” “we,” “us” or “our”) was incorporated in the State of New York on July 22, 1955 and is engaged in the design, development, manufacture and marketing of shock absorption, rate control, and energy storage devices for use in various types of machinery, equipment and structures.  In addition to manufacturing and selling existing product lines, the Company continues to develop new and advanced technology products.
+Principal Products
+The Company manufactures and sells a group of very similar products that have many different applications for customers.  These similar products are included in one of nine categories, namely, Seismic Dampers, Fluidicshoks®, Crane and Industrial Buffers, Self-Adjusting Shock Absorbers, Liquid Die Springs, Vibration Dampers, Machined Springs, Custom Shock and Vibration Isolators, and Custom Actuators.  Custom derivations of all of these products are designed and manufactured for many aerospace and defense applications.  The following is a summary of the capabilities and applications for these products.
+Seismic Dampers are designed to mitigate the effects of earthquakes on structures and represent a substantial portion of the Company’s sales.  Fluidicshoks® are small, extremely compact shock absorbers with up to 19,200 inch-pound capacities, produced in 12 standard sizes for primary use in the defense, aerospace and commercial industries.  Crane and Industrial Buffers are larger versions of the Fluidicshoks® with up to 10,890,000 inch-pound capacities, produced in more than 50 standard sizes for industrial applications on cranes and crane trolleys, truck docks, ladle and ingot cars, ore trolleys and train car stops.  Self-Adjusting Shock Absorbers, which include versions of Fluidicshoks® and crane and industrial buffers, automatically adjust to different impact conditions, and are designed for high cycle application primarily in heavy industry.  Liquid Die Springs are used as component parts of machinery and equipment used in the manufacture of tools and dies.  Vibration Dampers are used primarily by the aerospace and defense industries to control the response of electronics and optical systems subjected to air, ship, or spacecraft vibration.  Machined Springs are precisely controlled mechanical springs manufactured from a variety of materials.  These are used primarily for aerospace applications that require custom features that are not possible with conventional wound coil springs.  Custom Shock and Vibration Isolators are comprised of various configurations including liquid springs, fluid dampers, elastomeric springs and Pumpkin™ Mounts.  They are typically used for defense applications.  Custom Actuators are typically of the gas-charged type, using high pressure, that have custom features not available from other suppliers.  These actuators are used for special aerospace and defense applications.
+Sales and Distribution
+The Company uses a technical sales force consisting of Company employees for sales in the United States. From time to time, the Company uses the services of non-employee sales representatives for sales throughout the rest of the world. Specialized technical sales in custom marketing activities outside the U.S. are serviced by these sales representatives under the direction and with the assistance of the Company's in-house technical sales staff.  Sales representatives typically have non-exclusive agreements with the Company, which, in most instances, provide for payment of commissions on sales at 5% to 10% of the product's net aggregate selling price.  The Company recorded zero and $77,000 of non-employee commission expense for the years ending May 31, 2025 and 2024 respectively.  A limited number of foreign sales representatives also have non-exclusive agreements with the Company to purchase the Company's products for resale purposes.
+Competition
+The Company faces some competition for hydraulic energy absorbers on mature aerospace and defense programs. Other competition in these sectors include the use of competing technologies, not necessarily of similar design as Taylor Devices’ products. For the industrial products group, several foreign companies and two U.S. companies are the Company’s main competitors in the production of crane buffers and industrial shock absorbers.
+The Company competes directly against three other firms supplying structural damping devices for use in the U.S. For structural applications outside of the U.S., the Company competes directly with several other firms, particularly in Japan and Taiwan. The Company competes with numerous other firms that supply alternative seismic protection technologies.
+4
+Raw Materials and Supplies
+The principal raw materials and supplies used by the Company in the manufacture of its products are provided by numerous U.S. and foreign suppliers.  The loss of any one of these suppliers would not have a material adverse effect on the Company.
+Dependence Upon Major Customers
+Sales to three customers accounted for approximately 42% (21%, 15% and 6%, respectively) of our net sales for 2025. Sales to four customers accounted for approximately 40% (21%, 7%, 7% and 5%, respectively) of our net sales for 2024. The loss of any or all of these customers, unless the business is replaced by the Company, would have a material adverse effect on the Company.
+Patents, Trademarks and Licenses
+The Company holds 24 patents expiring at different times until the year 2042.
+Terms of Sale
+The Company had no inventory out on consignment and there were no consignment sales for the years ended May 31, 2025 and 2024.  No extended payment terms are offered.  During the year ended May 31, 2025, delivery time after receipt of orders averaged 8 to 10 weeks for the Company's standard industrial products.  Due to the volatility of structural and aerospace/defense programs, we usually require progress payments for larger projects where the Company supplies custom designed components.
+Need for Government Approval of Principal Products or Services
+Contracts between the Company and the federal government or its independent contractors are subject to termination at the election of the federal government.  Contracts are generally entered into on a fixed price basis.  If the federal government should limit defense spending, these contracts could be reduced or terminated, which management believes would have a materially adverse effect on the Company.
+Research and Development
+To accommodate growth and to maintain its presence in current markets, the Company engages in product research and development activities in connection with the design of its products.  Occasionally, research and development for products in the aerospace and defense sectors is funded by customers or the federal government.  The Company also engages in research testing of its products.  For the years ended May 31, 2025 and 2024, the Company expended $444,000 and $388,000, respectively, on product research.  For the years ended May 31, 2025 and 2024, government-funded research and development totaled $1,141,000 and $818,000, respectively. For the years ended May 31, 2025 and 2024, customer-funded research and development totaled $228,000 and $477,000, respectively.
+Government Regulation
+Compliance with federal, state, and local laws and regulations regulating the discharge of materials into the environment has had no material effect on the Company, and the Company believes that it is in substantial compliance with these laws and regulations.
+The Company is subject to the Occupational Safety and Health Act ("OSHA") and the rules and regulations promulgated thereunder, which establish strict standards for the protection of employees, and impose fines for violations of such standards. The Company believes that it is in substantial compliance with OSHA and such rules and regulations promulgated thereunder.
+The Company is also subject to regulations relating to production of products for the federal government.  These regulations allow for frequent governmental audits of the Company's operations and extensive testing of Company products.  The Company believes that it is in substantial compliance with these regulations.
+5
+Employees
+As of May 31, 2025, the Company had 137 total employees, consisting of 135 full-time employees and two part-time employees. The Company has good relations with its employees, and none of the Company’s employees are covered by a collective bargaining agreement.
+Item 1A.  Risk Factors.
+Smaller reporting companies are not required to provide the information required by this item.
+Item 1B.  Unresolved Staff Comments.
+None.
+Item 1C. Cybersecurity
+Risk Management and Strategy
+In connection with the operation of the Company’s business, we identify, assess and manage key risks that may affect the Company, including material risks from cybersecurity threats, through our system security plan. Our system security plan is aligned with the 110 controls detailed in the NIST (SP) 800-171 and Department of Defense CMMC Level 2 guidelines for Cybersecurity. We have company-wide security policies, standards and controls that seek to incorporate best practices in security engineering, technology architecture and data protection. Our policies and controls include security measures designed to protect our systems against unauthorized access. We also maintain cybersecurity protection measures covering our information technology systems, including the protection of customer data, vendor data and employee information. We have also implemented specialized training and education programs to guard against cybersecurity incidents, including company-wide communications and presentations, phishing simulations, focused training for specific roles and a general cybersecurity training program required for all employees.
+We engage third parties to perform regular reviews of our security controls which includes 24/7/365 security incident and event management as well as vulnerability services and penetration testing. Our processes to identify, assess and manage material risks from cybersecurity threats include risks associated with our use of third-party service providers, including cloud-based platforms. We oversee and identify cybersecurity risks from our third-party service providers in a number of ways, including appropriate due diligence in connection with service provider onboarding, robust security terms and conditions in our third-party service provider contracts and ongoing risk-based monitoring to ensure compliance with our cybersecurity standards. We believe that these policies and controls provide us with an appropriate assessment of potential cybersecurity threats.
+As of the date of this Annual Report on Form 10-K (this “Form 10-K”), we are not aware of any risks from any potential cybersecurity threat or from any previous cybersecurity incident that have materially affected or are likely to materially affect our business strategy, results of operations or financial condition. However, the preventative actions we have taken and continue to take to reduce the risk of cybersecurity threats and incidents may not successfully protect against these potential threats and incidents in the future.
+Governance
+The Company’s Board of Directors is responsible for overseeing management’s identification, assessment and management of key risks, including cybersecurity risks.
+Our Director of Information Technology, Mitch Reszczenski, is primarily responsible for assessing and managing our cybersecurity risks. Mr. Reszczenski has over 29 years of extensive information technology experience in highly successful manufacturing, engineering and financial organizations. Mr. Reszczenski provides regular updates on cybersecurity risks and threats and key developments in Company policies, practices and related risk exposures to the Chief Executive Officer and Chief Financial Officer. Additionally, senior management provides an update to the Board of Directors on cybersecurity matters at least once a year, and more often as appropriate.  The Board of Directors annually reviews and approves the capital and operating budgets, ultimately reviewing and approving the amount spent by the Company on cybersecurity measures.
+6
+Mr. Reszczenski works with senior management to implement and oversee processes for the regular monitoring of our information systems. If a cybersecurity incident involving the Company were to occur, Mr. Reszczenski would engage senior management to initially determine the potential materiality of the incident, the potential need for public disclosure, the timing and extent of the Company’s response and whether any future vulnerabilities are expected. As part of this evaluation, senior management would also identify immediate actions to mitigate the impact and long-term strategies for remediation and prevention of future cybersecurity incidents. After an initial evaluation by senior management, the relevant information regarding the cybersecurity incident and its materiality would be promptly reported to the Company’s Board of Directors for further review and evaluation, including as to whether public disclosure would be required or advisable.
+Item 2.  Properties.
+The Company's production facilities occupy approximately six acres on Tonawanda Island in North Tonawanda, New York and are comprised of four interconnected buildings and two adjacent buildings, each of which is owned by the Company.  The production facilities consist of a small parts plant (approximately 4,400 square feet), a large parts plant (approximately 13,500 square feet), and include a facility of approximately 7,000 square feet comprised of a test facility, storage area, pump area and the Company's general offices.  One adjacent building is a 27,000 square foot seismic assembly and test facility. This building contains overhead traveling cranes to allow dampers to be built up to 45 feet in length. It is also the site of three long bed damper test machines where seismic dampers manufactured by the Company will be tested at maximum force to satisfy customer specifications.  Another adjacent building (approximately 2,000 square feet) is used as a training facility.  These facilities total more than 54,000 square feet.  Adjacent to these facilities, the Company has a remote test facility used for shock testing.  This state-of-the-art test facility is 1,200 square feet.  The Company owns two additional industrial buildings on nine acres of land in the City of North Tonawanda located 1.4 miles from the Company’s headquarters on Tonawanda Island.  Total area of the two buildings is 46,000 square feet.  One building includes a machine shop containing custom-built machinery for boring, deep-hole drilling and turning of parts.  Another is used for painting and packaging parts and completed units.
+Item 3. Legal Proceedings.
+Refer to Note 17, “Legal Proceedings,” to the Notes to Consolidated Financial Statements for additional information regarding the Company’s legal proceedings, which is incorporated by reference into this Item 3.
+Item 4.
+Mine Safety Disclosures.
+Not applicable.
+7
+PART II
+Item 5.  Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information
+The Company's common stock, $.025 par value per share (the “Common Stock”), trades on the Nasdaq Stock Market under the symbol “TAYD.”
+Holders
+As of August 1, 2025, the number of record holders of the Company's Common Stock was 340.  A substantial number of shares of the Company's Common Stock are held in street name.  The Company believes that the total number of beneficial owners of its Common Stock is approximately 3,400.
+Dividends
+The Company does not pay a cash dividend and plans to retain cash in the foreseeable future to fund working capital needs.
+Item 6.  [Reserved].
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Cautionary Statement
+The Private Securities Litigation Reform Act of 1995 provides a "safe harbor" for forward-looking statements.  Information in this Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations" and elsewhere in this Form 10-K that does not consist of historical facts are "forward-looking statements."  Statements accompanied or qualified by, or containing, words such as "may," "will," "should," "believes," "expects," "intends," "plans," "projects," "estimates," "predicts," "potential," "outlook," "forecast," "anticipates," "presume," "assume" and "optimistic" constitute forward-looking statements and, as such, are not a guarantee of future performance.  These statements involve factors, risks and uncertainties, the impact or occurrence of which can cause actual results to differ materially from the expected results described in such statements.  Risks and uncertainties can include, among others: fluctuations in general business cycles and changing economic conditions; variations in timing and amount of customer orders; changing product demand and industry capacity; increased competition and pricing pressures; advances in technology that can reduce the demand for the Company's products, as well as other factors, many or all of which may be beyond the Company's control.  Consequently, investors should not place undue reliance on forward-looking statements as predictive of future results.  Except as required by law, the Company disclaims any obligation to release publicly any updates or revisions to the forward-looking statements herein to reflect any change in the Company's expectations with regard thereto, or any changes in events, conditions or circumstances on which any such statement is based.
+Application of Critical Accounting Policies and Estimates
+The Company's consolidated financial statements and accompanying notes are prepared in accordance with U.S. generally accepted accounting principles.  The preparation of the Company's financial statements requires management to make estimates, assumptions and judgments that affect the amounts reported.  These estimates, assumptions and judgments are affected by management's application of accounting policies, which are discussed in Note 1, "Summary of Significant Accounting Policies," of the Notes to Consolidated Financial Statements and elsewhere in the accompanying consolidated financial statements. As discussed below, our financial position or results of operations may be materially affected when reported under different conditions or when using different assumptions in the application of such policies.  In the event estimates or assumptions prove to be different from actual amounts, adjustments are made in subsequent periods to reflect more current information.  Management believes the following critical accounting policies affect the more significant judgments and estimates used in the preparation of the Company's financial statements.
+8
+Accounts Receivable
+Our ability to collect outstanding receivables from our customers is critical to our operating performance and cash flows. Accounts receivable are stated at an amount management expects to collect from outstanding balances. Management provides for estimated credit losses through a charge to expense and a credit to a valuation allowance based on its assessment of the current status of individual accounts after considering the age of each receivable and communications with the customers involved. Balances that are collected, for which a credit to a valuation allowance had previously been recorded, result in a current-period reversal of the earlier transaction charging expense and crediting a valuation allowance. Balances that are still outstanding after management has used reasonable collection efforts are written off through a charge to the valuation allowance and a credit to accounts receivable in the current period. The actual amount of accounts written off over the five year period ended May 31, 2025 equaled 0.2% of sales for that period. The balance of the valuation allowance has increased to $564,000 at May 31, 2025 from $29,000 at May 31, 2024 due to the uncertainty of collecting a $751,000 balance overdue on a structural project. The Company is in discussions with the customer regarding payment of this balance.
+Inventory
+Inventory is stated at the lower of average cost or net realizable value. Average cost approximates first-in, first-out cost.
+Maintenance and other inventory represent stock that is estimated to have a product life-cycle in excess of twelve-months.  This stock represents certain items the Company is required to maintain for service of products sold, and items that are generally subject to spontaneous ordering.
+This inventory is particularly sensitive to technical obsolescence in the near term due to its use in industries characterized by the continuous introduction of new product lines, rapid technological advances, and product obsolescence.  Therefore, management of the Company has recorded an allowance for potential inventory obsolescence.  Based on certain assumptions and judgments made from the information available at that time, we determine the amount in the inventory allowance.  If these estimates and related assumptions or the market changes, we may be required to record additional reserves.  Historically, actual results have not varied materially from the Company's estimates.  There was $107,000 and $791,000 of inventory disposed of during the years ended May 31, 2025 and 2024, respectively.  The provision for potential inventory obsolescence was zero and $386,000 for the years ended May 31, 2025 and 2024, respectively.
+Revenue Recognition
+Revenue is recognized when, or as, the Company transfers control of promised products or services to a customer in an amount that reflects the consideration to which the Company expects to be entitled in exchange for transferring those products or services.
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The majority of our contracts have a single performance obligation as the promise to transfer the individual goods or services is not separately identifiable from other promises in the contracts which are, therefore, not distinct. Promised goods or services that are immaterial in the context of the contract are not separately assessed as performance obligations.
+For contracts with customers in which the Company satisfies a promise to the customer to provide a product that has no alternative use to the Company and the Company has enforceable rights to payment for progress completed to date inclusive of profit, the Company satisfies the performance obligation and recognizes revenue over time (generally less than one year), using costs incurred to date relative to total estimated costs at completion to measure progress toward satisfying our performance obligations.  Incurred cost represents work performed, which corresponds with, and thereby best depicts, the transfer of control to the customer.  Contract costs include labor, material and overhead.  Total estimated costs for each of the contracts are estimated based on a combination of historical costs of manufacturing similar products and estimates or quotes from vendors for supplying parts or services towards the completion of the manufacturing process.  Adjustments to cost and profit estimates are made periodically due to changes in job performance, job conditions and estimated profitability, including those arising from final contract settlements.  These changes may result in revisions to costs and income and are recognized in the period in which the revisions are determined.  Any losses expected to be incurred on contracts in progress are charged to operations in the period such losses are determined.   If total costs calculated upon completion of the manufacturing process in the current period for a contract are more than the estimated total costs at completion used to calculate revenue in a prior period, then the profits in the current period will be lower than if the estimated costs used in the prior period calculation were equal to the actual total costs upon completion.  Historically, actual results have not varied materially from the Company's estimates.  Other sales to customers are recognized upon shipment to the customer based on contract
+9
+prices and terms.  In the year ended May 31, 2025, 68% of revenue was recorded for contracts in which revenue was recognized over time while 32% was recognized at a point in time.  In the year ended May 31, 2024, 59% of revenue was recorded for contracts in which revenue was recognized over time while 41% was recognized at a point in time.
+For financial statement presentation purposes, the Company nets progress billings against the total costs incurred and estimated earnings on uncompleted contracts.  The asset, "costs and estimated earnings in excess of billings," represents revenues recognized in excess of amounts billed.  The liability, "billings in excess of costs and estimated earnings," represents billings in excess of revenues recognized.
+Income Taxes
+The provision for income taxes provides for the tax effects of transactions reported in the financial statements regardless of when such taxes are payable.  Deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the tax and financial statement basis of assets and liabilities.  The deferred tax assets relate principally to asset valuation allowances such as inventory obsolescence reserves and bad debt reserves and also to liabilities including warranty reserves, accrued vacation, accrued commissions and others.  The deferred tax liabilities relate primarily to differences between financial statement and tax depreciation.  Deferred taxes are based on tax laws currently enacted with tax rates expected to be in effect when the taxes are actually paid or recovered.
+Realization of the deferred tax assets is dependent on generating sufficient taxable income at the time temporary differences become deductible.  The Company provides a valuation allowance to the extent that deferred tax assets may not be realized.  A valuation allowance has not been recorded against the deferred tax assets since management believes it is more likely than not that the deferred tax assets are recoverable.  The Company considers future taxable income and potential tax planning strategies in assessing the need for a potential valuation allowance.  In future years the Company will need to generate approximately $13.6 million of taxable income in order to realize our deferred tax assets recorded as of May 31, 2025 of $2,848,000.  This deferred tax asset balance is 31% ($671,000) higher than at the end of the prior year.  The amount of the deferred tax assets considered realizable however, could be reduced in the near term if estimates of future taxable income are reduced.  If actual results differ from estimated results or if the Company adjusts these assumptions, the Company may need to adjust its deferred tax assets or liabilities, which could impact its effective tax rate.
+The Company's practice is to recognize interest related to income tax matters in interest income / expense and to recognize penalties in selling, general and administrative expenses.
+The Company and its subsidiary file consolidated federal and state income tax returns.  As of May 31, 2025, the Company had state investment tax credit carryforwards of approximately $493,000 expiring through May 2030.
+Results of Operations
+A summary of the period-to-period changes in the principal items included in the consolidated statements of income is shown below:
+Summary comparison of the years ended May 31, 2025 and 2024
+Increase /
+(Decrease)
+Sales, net
+$1,710,000
+Cost of goods sold
+$1,071,000
+Research and development costs
+$56,000
+Selling, general and administrative expenses
+$436,000
+Other income
+$(35,000)
+Income before provision for income taxes
+$112,000
+Provision for income taxes
+$(302,000)
+Net income
+$414,000
+10
+For the year ended May 31, 2025 (All figures being discussed are for the year ended May 31, 2025 as compared to the year ended May 31, 2024).
+Year ended May 31
+Change
+2025
+2024
+Amount
+Percent
+Net Revenue
+$46,293,000
+$44,583,000
+$1,710,000
+4%
+Cost of sales
+24,815,000
+23,744,000
+1,071,000
+5%
+Gross profit
+$21,478,000
+$20,839,000
+$639,000
+3%
+… as a percentage of net revenues
+46%
+47%
+The Company's consolidated results of operations showed a 4% increase in net revenues and an increase in net income of 5%. Revenues recorded in the year ended May 31, 2025 for long-term projects (“Project(s)”) were 19% higher than the level recorded in the prior year.  We had 37 Projects in process during the year ended May 31, 2025 compared with 39 during the same period last year.  Revenues recorded in the year ended May 31, 2025 for other-than long-term projects (non-projects) were 18% lower than the level recorded in the prior year.  The number of Projects in-process fluctuates from period to period.  The changes from the prior year to the year ended May 31, 2025 are not necessarily representative of future results.
+Sales of the Company's products are made to three general groups of customers: industrial, structural and aerospace / defense. The Company saw a 3% increase from last year’s level in sales to structural customers who were seeking seismic / wind protection for either construction of new buildings and bridges or retrofitting existing buildings and bridges along with a 2% increase in sales to customers in aerospace / defense and a 24% increase in sales to customers using our products in industrial applications.
+A breakdown of sales to these three general groups of customers, as a percentage of total net revenue for fiscal years ended May 31, 2025 and 2024 is as follows:
+Year ended May 31
+2025
+2024
+Industrial
+9%
+8%
+Structural
+32%
+32%
+Aerospace / Defense
+59%
+60%
+Total sales within the U.S. decreased 5% from last year.  Total sales to Asia increased to $7.0 million from $2.0 million last year.  The shift in domestic and international sales concentration from the prior year is attributable to normal changes in structural project activity.  Net revenue by geographic region, as a percentage of total net revenue for fiscal years ended May 31, 2025 and 2024 is as follows:
+Year ended May 31
+2025
+2024
+U.S.
+79%
+86%
+Asia
+15%
+4%
+Other
+6%
+10%
+The gross profit as a percentage of net revenue of 46% in the year ended May 31, 2025 is in line with the same period of the prior year.
+At May 31, 2025, we had 142 open sales orders in our backlog with a total sales value of $27.1 million. At May 31, 2024, we had 134 open sales orders in our backlog with a total sales value of $33.1 million. $13.1 million of the current backlog is on Projects already in progress. $18.6 million of the $33.1 million sales order backlog at May 31, 2024 was in progress at that date. 75% of the sales value in the backlog is for aerospace / defense customers compared to 72% at the end of fiscal 2024. As a percentage of the total sales order backlog, orders from structural customers accounted for 19% at May 31, 2025 and 22% at May 31, 2024. The Company expects to recognize revenue for the majority of the backlog during the fiscal year ending May 31, 2026, with the remainder during the fiscal year ending May 31, 2027.
+11
+The Company's backlog, revenues, commission expense, gross margins, gross profits, and net income fluctuate from period to period.  Total sales in the current period and the changes in the current period compared to the prior period, are not necessarily representative of future results.
+Research and Development Costs
+Years ended May 31
+Change
+2025
+2024
+Amount
+Percent
+R & D
+$ 444,000
+$ 388,000
+$ 56,000
+14%
+… as a percentage of net revenues
+1.0%
+0.9%
+Research and development costs increased 14% from the prior year.
+Selling, General and Administrative Expenses
+Years ended May 31
+Change
+2025
+2024
+Amount
+Percent
+S G & A
+$ 11,407,000
+$ 10,971,000
+$ 436,000
+4%
+… as a percentage of net revenues
+25%
+25%
+Selling, general and administrative expenses increased 4% from the prior year, primarily from increased credit loss expense.
+Operating Income
+Operating income of $9,627,000 for the year ended May 31, 2025 increased 2% from the prior year, primarily from increased revenue.
+Other Income
+Other income decreased 2% from the prior year.  The decrease was driven by short-term investment interest income.
+Provision for Income Taxes
+The Company's effective tax rate (ETR) is calculated based upon current assumptions relating to the year's operating results and various tax related items.  The ETR for the fiscal year ended May 31, 2025 is 15%, compared to the ETR for the prior year of 18%.
+A reconciliation of provision for income taxes at the statutory rate to income tax provision at the Company's effective rate is as follows:
+2025
+2024
+Computed tax provision at the expected statutory rate
+$2,317,000
+$2,293,000
+Tax effect of permanent differences:
+Research tax credits
+(489,000)
+(408,000)
+Foreign-derived intangible income deduction
+(225,000)
+(142,000)
+Stock option costs
+(12,000)
+49,000
+Other permanent differences
+24,000
+3,000
+Other
+5,000
+127,000
+$1,620,000
+$1,922,000
+The foreign-derived intangible income deduction is a tax deduction provided to corporations that sell goods or services to foreign customers.  It became available through the Tax Cuts and Jobs Act of 2017.
+12
+Liquidity and Capital Resources, Line of Credit and Long-Term Debt
+The Company's primary liquidity requirements depend on its working capital and capital expenditure needs.  Working capital consists primarily of cash and short-term investments, inventory, accounts receivable, costs and estimated earnings in excess of billings, accounts payable, accrued expenses and billings in excess of costs and estimated earnings.  The Company's primary source of liquidity has been excess cash flow from operations.
+Capital expenditures for the year ended May 31, 2025 were $2,602,000 compared to $1,149,000 in the prior year.  Current year capital expenditures included new manufacturing machinery, testing equipment, upgrades to technology equipment and assembly / test facility improvements.  The Company has commitments to make capital expenditures of approximately $1,853,000 as of May 31, 2025.  These capital expenditures will be primarily for new manufacturing and testing equipment.
+The Company has a $10,000,000 demand line of credit with M&T Bank, with interest payable at the Company's option of 30, 60 or 90 day SOFR rate plus 2.365%. There is no outstanding balance at May 31, 2025.  The line is secured by a negative pledge of the Company's real and personal property and is subject to renewal annually. The bank is not committed to make loans under this line of credit and no commitment fee is charged.
+Management believes that the Company's cash on hand, cash flows from operations, and borrowing capacity under the bank line of credit will be sufficient to fund ongoing operations and capital improvements for the next twelve months.
+Inventory and Maintenance Inventory
+May 31, 2025
+May 31, 2024
+Increase /(Decrease)
+Raw materials
+$627,000
+$887,000
+$(260,000)
+-29%
+Work-in-process
+7,223,000
+6,412,000
+811,000
+13%
+Finished goods
+263,000
+213,000
+50,000
+23%
+Inventory
+8,113,000
+88%
+7,512,000
+83%
+601,000
+8%
+Maintenance and other inventory
+1,108,000
+12%
+1,580,000
+17%
+(472,000)
+-30%
+Total
+$9,221,000
+100%
+$9,092,000
+100%
+$129,000
+1%
+Inventory turnover
+2.7
+3.0
+Inventory, at $8,113,000 as of May 31, 2025, is eight percent higher than at the prior year-end.  Of this, approximately 89% is work in process, 3% is finished goods, and 8% is raw materials.  All of the current inventory is expected to be consumed or sold within twelve months.  The level of inventory will fluctuate from time to time due to the stage of completion of the non-project sales orders in progress at the time.
+The Company disposed of approximately $107,000 and $791,000 of obsolete inventory during the years ended May 31, 2025 and 2024, respectively.
+13
+Accounts Receivable, Costs and Estimated Earnings in Excess of Billings (“CIEB”) and Billings in Excess of Costs and Estimated Earnings (“BIEC”)
+May 31, 2025
+May 31, 2024
+Increase /(Decrease)
+Accounts receivable
+5,600,000
+5,212,000
+388,000
+7%
+CIEB
+5,360,000
+4,357,000
+1,003,000
+23%
+Less: BIEC
+4,382,000
+5,601,000
+(1,219,000)
+-22%
+Net
+$  6,578,000
+$  3,968,000
+$ 2,610,000
+66%
+Number of an average day’s sales outstanding in accounts receivable (DSO)
+32
+39
+The Company combines the totals of accounts receivable, the asset CIEB, and the liability BIEC, to determine how much cash the Company will eventually realize from revenue recorded to date.  As the accounts receivable figure rises in relation to the other two figures, the Company can anticipate increased cash receipts within the ensuing 30-60 days.
+Accounts receivable of $5,600,000 as of May 31, 2025 includes no retainage by customers on long-term construction projects.  The number of an average day's sales outstanding in accounts receivable (DSO) was 32 days at May 31, 2025 and 39 days at May 31, 2024.  The Company increased its allowance for estimated credit losses to $564,000 at May 31, 2025 from $29,000 at May 31, 2024 due to the uncertainty of collecting a $751,000 overdue balance on a structural project.
+The status of the projects in-progress at the end of the current and prior fiscal years have changed in the factors affecting the year-end balances in the asset CIEB, and the liability BIEC:
+2025
+2024
+Number of projects in progress at year-end
+21
+19
+Aggregate percent complete at year-end
+65%
+53%
+Average total value of projects in progress at year-end
+$1,846,000
+$2,089,000
+Percentage of total value invoiced to customer
+64%
+56%
+There are two more projects in-process at the end of the current fiscal year as compared with the prior year end and the average value of those projects has decreased by 12% between those two dates.
+As noted above, CIEB represents revenues recognized in excess of amounts billed.  Whenever possible, the Company negotiates a provision in sales contracts to allow the Company to bill, and collect from the customer, payments in advance of shipments.  Unfortunately, provisions such as this are often not possible.  The $5,360,000 balance in this account at May 31, 2025 is a 23% increase from the prior year end.  This increase reflects the higher aggregate level of the percentage of completion of these Projects as of the current year end as compared with the Projects in process at the prior year end.  Generally, if progress billings are permitted under the terms of a project sales agreement, then the more complete the project is, the more progress billings will be permitted.  The Company expects to bill the entire amount during the next twelve months.  38% of the CIEB balance as of the end of the last fiscal quarter, February 28, 2025, was billed to those customers in the current fiscal quarter ended May 31, 2025.  The remainder will be billed as the projects progress, in accordance with the terms specified in the various contracts.
+14
+The year-end balances in the CIEB account are comprised of the following components:
+May 31, 2025
+May 31, 2024
+Costs
+$  8,514,000
+$  9,644,000
+Estimated earnings
+9,289,000
+9,782,000
+Less: Billings to customers
+12,443,000
+15,069,000
+CIEB
+$  5,360,000
+$  4,357,000
+Number of projects in progress
+14
+14
+As noted above, BIEC represents billings to customers in excess of revenues recognized.  The $4,382,000 balance in this account at May 31, 2025 is in comparison to a $5,601,000 balance at the end of the prior year.  The balance in this account fluctuates in the same manner and for the same reasons as the account "costs and estimated earnings in excess of billings," discussed above.  Final delivery of product under these contracts is expected to occur during the next twelve months.
+The year-end balances in this account are comprised of the following components:
+May 31, 2025
+May 31, 2024
+Billings to customers
+$12,253,000
+$7,211,000
+Less:  Costs
+3,985,000
+933,000
+Less: Estimated earnings
+3,886,000
+677,000
+BIEC
+$4,382,000
+$5,601,000
+Number of projects in progress
+7
+5
+Accounts payable, at $1,119,000 as of May 31, 2025, is 22% less than the prior year end.  This decrease is normal fluctuation of this account and is not considered to be unusual.  The Company expects the current accounts payable amount to be paid during the next twelve months.
+Accrued expenses of $4,072,000 decreased 13% from the prior year level of $4,664,000.  This change is due to decreases in accrued incentive compensation.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+Smaller reporting companies are not required to provide the information required by this item.
+Item 8. Financial Statements and Supplementary Data.
+The financial statements and supplementary data required pursuant to this Item 8 are included in this Form 10-K commencing on page F-1 and are incorporated into this Item 8 by reference.
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A. Controls and Procedures.
+(a) Evaluation of disclosure controls and procedures.
+The Company's chief executive officer (its principal executive officer) and chief financial officer (its principal financial officer) have evaluated the Company's disclosure controls and procedures as of May 31, 2025 and have concluded that, as of the evaluation date, the disclosure controls and procedures were effective to ensure that information required to be disclosed in the reports that the Company files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission’s (“SEC”)
+rules and forms and that information required to be disclosed in the reports the Company files or submits under the Exchange Act is accumulated and communicated to our management, including our chief executive officer and chief financial officer, to allow timely decisions regarding required disclosure.
+15
+(b)Management's report on internal control over financial reporting.
+The Company's management, with the participation of the Company's chief executive officer and chief financial officer, is responsible for establishing and maintaining adequate internal control over financial reporting.  The Company's management has assessed the effectiveness of the Company's internal control over financial reporting as of May 31, 2025.  In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control -- Integrated Framework, updated in 2013.  Based on this assessment, management has concluded that, as of May 31, 2025, the Company's internal control over financial reporting is effective.
+(c)Changes in internal control over financial reporting.
+There have been no changes in the Company's internal controls over financial reporting that occurred during the fiscal quarter ended May 31, 2025 that have materially affected, or are reasonably likely to materially affect, the Company's control over financial reporting.
+Item 9B. Other Information.
+Trading Plans
+During the three months ended May 31, 2025, no director or officer of the Company adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+Not applicable.
+PART III
+The information required by Items 10, 11, 12, 13 and 14 of this part will be presented in the Company's Proxy Statement to be delivered to shareholders in connection with the Company’s 2025 Annual Meeting of Shareholders, which information is hereby incorporated by reference into this Form 10-K.  The proxy materials, including the Proxy Statement and form of proxy, will be filed with the SEC within 120 days after the Company's fiscal year end.
+16
+PART IV
+Item 15. Exhibits and Financial Statement Schedules.
+DOCUMENTS FILED AS PART OF THIS REPORT:
+Index to Financial Statements:
+(i)
+Report of Independent Registered Public Accounting Firm
+(ii)
+Consolidated Balance Sheets as of May 31, 2025 and 2024
+(iii)
+Consolidated Statements of Income for the years ended May 31, 2025 and 2024
+(iv)
+Consolidated Statements of Stockholders' Equity for the years ended May 31, 2025 and 2024
+(v)
+Consolidated Statements of Cash Flows for the years ended May 31, 2025 and 2024
+(vi)
+Notes to Consolidated Financial Statements - May 31, 2025 and 2024
+EXHIBITS:
+3
+Articles of incorporation and by-laws
+(i)
+Restated Certificate of Incorporation, as amended, incorporated by reference to Exhibit 3(i) to the Registrant’s Annual Report on Form 10-K for the fiscal year ended May 31, 2024, filed August 15, 2024.
+(ii)
+By-laws, incorporated by reference to Exhibit 3(v) to the Registrant’s Quarterly Report on Form 10-Q for the quarterly period ended November 30, 2022, filed January 6, 2023.
+4
+Instruments defining rights of security holders, including indentures
+(i)
+(ii)
+Rights Agreement by and between the Registrant and Computershare Trust Company, N.A., incorporated by reference to Exhibit 4 to the Registrant’s Registration Statement on Form 8-A, filed October 5, 2018.
+Letter to Holders of the Registrant’s Common Stock, incorporated by reference to Exhibit 20 to the Registrant’s Registration Statement on Form 8-A, filed October 5, 2018.
+(iii)
+Description of Registrant’s Securities, incorporated by reference to Exhibit 4(vi) to the Registrant’s Annual Report on Form 10-K for the fiscal year ended May 31, 2019, filed August 2, 2019.
+10
+Material Contracts
+(i)
+2012 Taylor Devices, Inc. Stock Option Plan, incorporated by reference to Appendix B to the Registrant’s Definitive Proxy Statement for the 2012 annual meeting of shareholders, filed September 21, 2012.#
+(ii)
+2015 Taylor Devices, Inc. Stock Option Plan, incorporated by reference to Appendix B to the Registrant’s Definitive Proxy Statement for the 2015 annual meeting of shareholders, filed September 25, 2015.#
+(iii)
+2018 Taylor Devices, Inc. Stock Option Plan, incorporated by reference to Appendix B to the Registrant’s Definitive Proxy Statement for the 2018 annual meeting of shareholders, filed September 27, 2018.#
+17
+(iv)
+2022 Taylor Devices, Inc. Stock Option Plan, incorporated by reference to Appendix A to the Registrant’s Definitive Proxy Statement for the 2022 annual meeting of shareholders, filed September 6, 2022.#
+(v)
+The 2004 Taylor Devices, Inc. Employee Stock Purchase Plan, incorporated by reference to Exhibit 4.1 to the Registrant’s Registration Statement on Form S-8, File No. 333-114085, filed March 31, 2004.
+(vi)
+Letter to 2004 Employee Stock Purchase Plan Participants, incorporated by reference to Exhibit 4.1 to Post-Effective Amendment No. 1 to the Registrant’s Registration Statement on Form S-8, File No. 333-114085, filed August 24, 2006.
+(vii)
+Letter to Employees of the Registrant, incorporated by reference to Exhibit 4.2 to Post-Effective Amendment No. 1 to the Registrant’s Registration Statement on Form S-8, File No. 333-114085, filed August 24, 2006.
+(viii)
+Form of Indemnification Agreement between the Registrant and its directors and executive officers, incorporated by reference to Appendix A to the Registrant’s Definitive Proxy Statement for the 2007 annual meeting of shareholders, filed September 27, 2007.#
+(ix)
+Management Bonus Policy, incorporated by reference to Exhibit 10(i) to the Registrant’s Quarterly Report on Form 10-Q for the quarterly period ended February 28, 2011, filed April 14, 2011.#
+(x)
+Line of Credit Agreement between the Registrant and M&T Bank, dated August 30, 2017, incorporated by reference to Exhibit 10(x) to the Registrant’s Annual Report on Form 10-K for the fiscal year ended May 31, 2024, filed August 15, 2024.
+(xi)
+Amendment to Line of Credit Agreement, dated September 27, 2021, incorporated by reference to Exhibit 10(xi) to the Registrant’s Annual Report on Form 10-K for the fiscal year ended May 31, 2024, filed August 15, 2024.
+(xii)
+Employment Agreement dated as of June 14, 2018 between the Registrant and Alan R. Klembczyk, incorporated by reference to Exhibit 10(i) to the Registrant’s Current Report on Form 8-K, filed June 19, 2018.#
+(xiii)
+Employment Agreement dated as of August 9, 2021 between the Registrant and Timothy J. Sopko, incorporated by reference to Exhibit 10 to the Registrant’s Current Report on Form 8-K, filed August 13, 2021.#
+(xiv)
+Employment Agreement dated as of September 11, 2023 between the Registrant and Paul M. Heary, incorporated by reference to Exhibit 10 to the Registrant’s Current Report on Form 8-K, filed September 11, 2023.#
+(xv)
+Executive Retirement and Transition Agreement dated as of January 14, 2025 between the Registrant and Alan R. Klembczyk.#
+19
+Taylor Devices, Inc. Policy Against Insider Trading.*
+21
+Subsidiaries of the Registrant.*
+Tayco Realty Corporation is a New York corporation organized on September 8, 1977, owned by the Company.
+23
+Consent of Independent Registered Public Accounting Firm (appears on page 21 immediately preceding the Consolidated Financial Statements).*
+18
+31
+Officer Certifications*
+(i)
+Rule 13a-14(a) Certification of Chief Executive Officer.
+(ii)
+Rule 13a-14(a) Certification of Chief Financial Officer.
+32
+Officer Certifications**
+(i)
+Section 1350 Certification of Chief Executive Officer.
+(ii)
+Section 1350 Certification of Chief Financial Officer.
+97
+Policy Relating to Recovery of Erroneously Awarded Compensation, incorporated by reference to Exhibit 97 to the Registrant’s Annual Report on Form 10-K for the fiscal year ended May 31, 2024, filed August 15, 2024.
+101
+Inline XBRL Interactive data files pursuant to Rule 405 of Regulation S-T: (i) Consolidated Balance Sheets, (ii) Consolidated Statements of Income, (iii) Consolidated Statements of Stockholders’ Equity, (iv) Consolidated Statements of Cash Flows, and (v) Notes to Consolidated Financial Statements.
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File – the cover page XBRL tags are embedded within the Inline XBRL document and are contained within Exhibit 101
+* Exhibit filed with this report.
+**Exhibit furnished with this report.
+# Management contract or compensatory plan or arrangement.
+Item 16. Form 10-K Summary.
+None.
+19
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+TAYLOR DEVICES, INC.
+(Registrant)
+By:
+/s/Timothy J. Sopko
+Date:
+August 15, 2025
+Timothy J. Sopko
+Chief Executive Officer
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+By:
+/s/Timothy J. Sopko
+By:
+/s/Paul Heary
+Timothy J. Sopko
+Chief Executive Officer and Director
+(Principal Executive Officer)
+August 15, 2025
+Paul Heary
+Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer)
+August 15, 2025
+By:
+/s/John Burgess
+By:
+/s/Robert M. Carey
+John Burgess, Director
+Robert M. Carey, Director
+August 15, 2025
+August 15, 2025
+By:
+/s/F. Eric Armenat
+By:
+/s/Alan R. Klembczyk
+F. Eric Armenat, Director
+Alan R. Klembczyk, Director
+August 15, 2025
+August 15, 2025
+20
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To The Board of Directors of
+Taylor Devices, Inc.
+Gentlemen:
+We hereby consent to the incorporation by reference in this Annual Report on Form 10-K (Commission File Number 0-3498) of Taylor Devices, Inc. of our report dated August 15, 2025 and any reference thereto in the Annual Report to Shareholders for the fiscal year ended May 31, 2025.
+We also consent to such incorporation by reference in Registration Statement Nos. 333-114085, 333-184809, 333-210660, 333-232121, and 333-268120 of Taylor Devices, Inc. on Form S-8 of our report dated August 15, 2025.
+/s/Lumsden & McCormick, LLP
+Lumsden & McCormick, LLP
+PCOAB ID: 130
+Buffalo, New York
+August 15, 2025
+21
+TAYLOR DEVICES, INC. AND SUBSIDIARY
+CONSOLIDATED FINANCIAL STATEMENTS
+May 31, 2025
+F-1
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The Board of Directors and Stockholders
+Taylor Devices, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Taylor Devices, Inc. and Subsidiary (the Company) as of May 31, 2025 and 2024, and the related consolidated statements of income, stockholders' equity, and cash flows for the years then ended, and the related notes to the consolidated financial statements (collectively referred to as the consolidated financial statements).  In our opinion, the consolidated financial statements present fairly, in all material respects, the financial condition of the Company as of May 31, 2025 and 2024, and the results of its operations and its cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management.  Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits.  We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB.  Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.  The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting.  As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting.  Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks.  Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements.  Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.  We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments.  The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+F-2
+Cost Estimates for Long-Term Contracts and Related Revenue Recognition
+Description of the Matter
+As more fully described in Note 1 to the consolidated financial statements, the Company recognizes revenue over time for long-term contracts as goods are produced.  The Company uses costs incurred as the method to determine progress, and revenue is recognized based on costs incurred to date plus an estimate of margin at completion.  The process of estimating margin at completion involves estimating the costs to complete production of goods and comparing those costs to the estimated final revenue amount.  Long-term contracts are inherently uncertain in that revenue is fixed while the estimates of costs required to complete these contracts are subject to significant variability.  Due to the technical performance requirements in many of these contracts, changes to cost estimates could occur, resulting in higher or lower margins when the contracts are completed.
+Given the inherent uncertainty and significant judgments necessary to estimate future costs at completion, auditing these estimates involved a focused audit effort and a high degree of auditor judgment.
+How We Addressed the Matter in Our Audit
+Our auditing procedures related to the cost estimates for long-term contracts and related revenue recognition included the following, among others:
+·We evaluated the appropriateness and consistency of management’s methods used to develop its estimates.
+·We evaluated the reasonableness of judgments made and significant assumptions used by management relating to key estimates.
+·We selected a sample of executed contracts to understand the contract, perform an independent assessment of the appropriate timing of revenue recognition, and test the mathematical accuracy of revenue recognized based on costs incurred to date relative to total estimated costs at completion.
+·We performed inquiries of the Company’s project managers and others directly involved with the contracts to evaluate project status and project challenges which may affect total estimated costs to complete.  We also observed the project work site when key estimates related to tangible or physical progress of the project.
+·We tested the accuracy and completeness of the data used to develop key estimates, including material, labor, overhead, and sub-contractor costs.
+·We performed retrospective reviews of prior year long-term contracts, comparing actual performance to estimated performance and the related financial statement impact, when evaluating the thoroughness and precision of management’s estimation process in previous years.
+Valuation of Inventory
+Description of the Matter
+As of May 31, 2025, the Company’s inventory balance was $8.1 million, net of a $23,000 allowance for obsolescence, its maintenance and other inventory balance was $1.1 million, net of an approximate $765,000 allowance for obsolescence.  As discussed in Note 5, maintenance and other inventory represents certain items that are estimated to have a product life-cycle in excess of twelve months the Company is required to maintain for service of products sold and items that are generally subject to spontaneous ordering.  The Company evaluates its inventory for obsolescence on an ongoing basis by considering historical usage as well as requirements for future orders.
+Given the inherent uncertainty and significant judgments necessary to estimate potential inventory obsolescence, auditing management’s estimates involved a high degree of auditor judgment.
+F-3
+How We Addressed the Matter in Our Audit
+Our auditing procedures related to valuation of inventory included the following, among others:
+·We evaluated the appropriateness and consistency of management’s methods used to develop its estimates.
+·We evaluated the reasonableness of judgments made and significant assumptions used by management relating to key estimates.
+·We inquired of management relative to write-offs of inventory during the year.
+·We tested the completeness and accuracy of management’s schedule of inventory.
+·We developed an independent expectation of the obsolescence reserve based on our knowledge of the Company’s inventory, including analysis of slow-moving items and historical usage and compared it to actual.
+·We examined management’s lower of cost or net realizable value analysis and performed procedures to test its completeness and accuracy.
+·We selected a sample of material purchases made during the year to ensure they were included in inventory at the proper value.
+·During our physical inventory observation, we toured the Company’s warehouses and examined inventory on hand for any indications of obsolescence.
+/s/Lumsden & McCormick, LLP
+Lumsden & McCormick, LLP
+PCOAB ID: 130
+We have served as the Company’s auditor since 1998.
+Buffalo, New York
+August 15, 2025
+F-4
+TAYLOR DEVICES, INC. AND SUBSIDIARY
+Consolidated Balance Sheets
+May 31,
+2025
+2024
+Assets
+Current assets:
+Cash and cash equivalents
+$1,190,656
+$2,831,471
+Short-term investments
+34,799,367
+28,131,279
+Accounts and other receivables, net (Note 2)
+5,599,785
+5,212,408
+Inventory (Note 3)
+8,113,321
+7,512,052
+Prepaid expenses
+1,124,878
+725,506
+Prepaid income taxes
+94,333
+-
+Costs and estimated earnings in excess of billings (Note 4)
+5,360,499
+4,356,565
+Total current assets
+56,282,839
+48,769,281
+Maintenance and other inventory, net (Note 5)
+1,107,875
+1,579,829
+Property and equipment, net (Note 6)
+12,074,172
+11,180,933
+Patents, net
+270,370
+292,593
+Cash value of life insurance, net
+219,444
+214,824
+Other assets
+65,420
+27,343
+Deferred income taxes (Note 10)
+1,598,000
+1,012,615
+$71,618,120
+$63,077,418
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable
+$1,119,240
+$1,438,847
+Accrued expenses (Note 8)
+4,072,436
+4,664,463
+Billings in excess of costs and estimated earnings (Note 4)
+4,382,067
+5,601,274
+Accrued income taxes
+-
+126,148
+Total current liabilities
+9,573,743
+11,830,732
+Stockholders' Equity:
+Common stock, $0.025 par value, authorized 8,000,000 shares, issued 4,196,470 and 4,165,315 shares
+104,835
+104,056
+Paid-in capital
+14,544,580
+12,959,531
+Retained earnings
+60,540,154
+51,127,018
+75,189,569
+64,190,605
+Treasury stock – 1,051,688 and 1,046,742 shares at cost
+(13,145,192)
+(12,943,919)
+Total stockholders' equity
+62,044,377
+51,246,686
+$71,618,120
+$63,077,418
+See notes to consolidated financial statements.
+F-5
+TAYLOR DEVICES, INC. AND SUBSIDIARY
+Consolidated Statements of Income
+For the years ended May 31,
+2025
+2024
+Sales, net (Note 9)
+$46,292,725
+$44,582,807
+Cost of goods sold
+24,814,581
+23,743,554
+Gross profit
+21,478,144
+20,839,253
+Research and development costs
+444,000
+388,476
+Selling, general and administrative expenses
+11,406,817
+10,971,358
+Operating income
+9,627,327
+9,479,419
+Other income
+Interest, net
+1,402,440
+1,426,584
+Miscellaneous
+3,369
+14,759
+Total other income, net
+1,405,809
+1,441,343
+Income before provision for income taxes
+11,033,136
+10,920,762
+Provision for income taxes (Note 10)
+1,620,000
+1,922,000
+Net income
+$9,413,136
+$8,998,762
+Basic earnings per common share (Note 11)
+$3.01
+$2.68
+Diluted earnings per common share (Note 11)
+$2.87
+$2.58
+See notes to consolidated financial statements.
+F-6
+TAYLOR DEVICES, INC. AND SUBSIDIARY
+Consolidated Statements of Stockholders’ Equity
+For the years ended May 31,
+2025
+2024
+Common Stock
+Beginning of period
+$104,056
+$102,127
+Issuance of shares for employee stock purchase plan
+4
+10
+Issuance of shares for employee stock option plan
+775
+1,919
+End of period
+104,835
+104,056
+Paid-in Capital
+Beginning of period
+12,959,531
+10,947,089
+Issuance of shares for employee stock purchase plan
+6,432
+9,904
+Issuance of shares for employee stock option plan
+356,108
+955,286
+Stock options issued for services
+1,222,509
+1,047,252
+End of period
+14,544,580
+12,959,531
+Retained Earnings
+Beginning of period
+51,127,018
+42,128,256
+Net income
+9,413,136
+8,998,762
+End of period
+60,540,154
+51,127,018
+Treasury Stock
+Beginning of period
+(12,943,919)
+(3,084,742)
+Issuance of shares for employee stock option plan
+(201,273)
+(715,599)
+Repurchase of shares
+-
+(9,143,578)
+End of period
+(13,145,192)
+(12,943,919)
+Total stockholders' equity
+$62,044,377
+$51,246,686
+See notes to consolidated financial statements
+F-7
+TAYLOR DEVICES, INC. AND SUBSIDIARY
+Consolidated Statements of Cash Flows
+For the years ended May 31,
+2025
+2024
+Operating activities:
+Net income
+$9,413,136
+$8,998,762
+Adjustments to reconcile net income to net cash flows from operating activities:
+Depreciation
+1,708,849
+1,690,239
+Amortization
+22,223
+7,407
+Stock options issued for services
+1,222,509
+1,047,252
+Credit loss expense
+535,000
+-
+Provision for inventory obsolescence
+-
+385,744
+Deferred income taxes
+(585,385)
+(444,000)
+Changes in other assets and liabilities:
+Accounts and other receivables
+(922,377)
+341,096
+Inventory
+(129,315)
+(2,533,181)
+Prepaid expenses
+(399,372)
+(285,899)
+Prepaid income taxes
+(94,333)
+228,947
+Costs and estimated earnings in excess of billings
+(1,003,934)
+(232,383)
+Accounts payable
+(319,607)
+(278,810)
+Accrued expenses
+(592,027)
+586,141
+Billings in excess of costs and estimated earnings
+(1,219,207)
+3,608,804
+Accrued income taxes
+(126,148)
+126,148
+Other assets
+(38,077)
+(27,343)
+Net operating activities
+7,471,935
+13,218,924
+Investing activities:
+Acquisition of property and equipment
+(2,602,088)
+(1,149,388)
+Patent expenditures
+-
+(300,000)
+Increase in short-term investments
+(6,668,088)
+(3,616,522)
+Increase in cash value of life insurance
+(4,620)
+(4,704)
+Net investing activities
+(9,274,796)
+(5,070,614)
+Financing activities:
+Proceeds from issuance of common stock
+363,319
+967,119
+Acquisition of treasury stock
+(201,273)
+(9,859,177)
+Net financing activities
+162,046
+(8,892,058)
+Net change in cash and cash equivalents
+(1,640,815)
+(743,748)
+Cash and cash equivalents - beginning
+2,831,471
+3,575,219
+Cash and cash equivalents - ending
+$1,190,656
+$2,831,471
+See notes to consolidated financial statements.
+F-8
+TAYLOR DEVICES, INC. AND SUBSIDIARY
+Notes to Consolidated Financial Statements
+1.  Summary of Significant Accounting Policies:
+Nature of Operations:
+Taylor Devices, Inc. (the Company) manufactures and sells a single group of very similar products that have many different applications for customers.  These similar products are included in one of nine categories; namely, Seismic Dampers, Fluidicshoks®, Crane and Industrial Buffers, Self-Adjusting Shock Absorbers, Liquid Die Springs, Vibration Dampers, Machined Springs, Custom Shock and Vibration Isolators, and Custom Actuators for use in various types of machinery, equipment and structures, primarily to customers which are located throughout the United States and several foreign countries.  The products are manufactured at the Company's sole operating facility in the United States where all of the Company's long-lived assets reside. Management does not track or otherwise account for sales broken down by these categories.
+The chief operating decision maker is the Chief Executive Officer who assesses performance for the business (and lone segment) and decides how to allocate resources based on net income as reported in a format consistent with the consolidated statements of income included in these consolidated financial statements. The measure of segment assets is as reported on the consolidated balance sheets in these consolidated financial statements.
+79% of the Company's 2025 revenue was generated from sales to customers in the United States and 15% was from sales to customers in Asia.  Remaining sales were to customers in other countries in North America, Europe, Australia, and South America.
+86% of the Company's 2024 revenue was generated from sales to customers in the United States and 4% was from sales to customers in Asia.  Remaining sales were to customers in other countries in North America, Europe, Australia, and South America.
+Principles of Consolidation:
+The accompanying consolidated financial statements include the accounts of the Company and its wholly owned subsidiary, Tayco Realty Corporation (Realty).  All inter-company transactions and balances have been eliminated in consolidation.
+Subsequent Events:
+The Company has evaluated events and transactions for potential recognition or disclosure in the financial statements through the date the financial statements were issued.
+Use of Estimates:
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes.  Actual results could differ from those estimates.
+Cash and Cash Equivalents:
+The Company includes all highly liquid investments in money market funds in cash and cash equivalents on the accompanying balance sheets.
+Cash and cash equivalents in financial institutions may exceed insured limits at various times during the year and subject the Company to concentrations of credit risk.
+F-9
+Short-Term Investments:
+At times, the Company invests excess funds in liquid interest earning instruments. Short-term investments at May 31, 2025 and May 31, 2024 include money market funds, U.S. treasury securities and corporate bonds stated at fair value, which approximates cost.  Unrealized holding gains and losses would be presented as a separate component of accumulated other comprehensive income, net of deferred income taxes. Realized gains and losses on the sale of investments are determined using the specific identification method.
+The short-term investments are valued using pricing models maximizing the use of observable inputs for similar securities. This includes basing value on yields currently available on comparable securities of issuers with similar credit ratings.
+Accounts and Other Receivables:
+Accounts and other receivables are stated at an amount management expects to collect from outstanding balances.  Management provides for estimated credit losses through a charge to expense and a credit to a valuation allowance based on its assessment of the current status of individual accounts.  Balances that are still outstanding after management has used reasonable collection efforts are written off through a charge to the valuation allowance and a credit to the receivable.
+Inventory:
+Inventory is stated at the lower of average cost or net realizable value. Average cost approximates first-in, first-out cost.
+Property and Equipment:
+Property and equipment is stated at cost net of accumulated depreciation.  Depreciation is provided primarily using the straight-line method for financial reporting purposes and accelerated methods for income tax reporting purposes.  Maintenance and repairs are charged to operations as incurred; significant improvements are capitalized.
+Cash Value of Life Insurance:
+Cash value of life insurance is stated at the surrender value of the contracts.
+Revenue Recognition:
+Revenue is recognized (generally at fixed prices) when, or as, the Company transfers control of promised products or services to a customer in an amount that reflects the consideration to which the Company expects to be entitled in exchange for transferring those products or services.
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer, and is the unit of account. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The majority of the Company’s contracts have a single performance obligation as the promise to transfer the individual goods or services is not separately identifiable from other promises in the contracts which are, therefore, not distinct. Promised goods or services that are immaterial in the context of the contract are not separately assessed as performance obligations.
+For contracts with customers in which the Company satisfies a promise to the customer to provide a product that has no alternative use to the Company and the Company has enforceable rights to payment for progress completed to date inclusive of profit, the Company satisfies the performance obligation and recognizes revenue over time (generally less than one year), using costs incurred to date relative to total estimated costs at completion to measure progress toward satisfying the Company’s performance obligations.  Incurred costs represents work performed, which corresponds with, and thereby best depicts, the transfer of control to the customer.  Contract costs include labor, material and overhead.  Adjustments to cost estimates are made periodically, and losses expected to be incurred on contracts in progress are charged to operations in the period such losses are determined.  Other sales to customers are recognized upon shipment to the customer based on contract prices and terms.  In the year ended May 31, 2025, 68% of revenue was recorded for contracts in which revenue was recognized over time while 32% was recognized at a point in time.  In the year ended May 31, 2024, 59% of revenue was recorded for contracts in which revenue was recognized over time while 41% was recognized at a point in time.
+F-10
+Progress payments are typically negotiated for longer term projects.  Payments are otherwise due once performance obligations are complete (generally at shipment and transfer of title).  For financial statement presentation purposes, the Company nets progress billings against the total costs incurred on uncompleted contracts.  The asset, “costs and estimated earnings in excess of billings,” represents revenues recognized in excess of amounts billed.  The liability, “billings in excess of costs and estimated earnings,” represents billings in excess of revenues recognized.
+If applicable, the Company recognizes an asset for the incremental material costs of obtaining a contract with a customer if the Company expects the benefit of those costs to be longer than one year and the costs are expected to be recovered.  As of May 31, 2025 and 2024, the Company does not have material incremental costs on any open contracts with an original expected duration of greater than one year, and therefore such costs are expensed as incurred.  These incremental costs include, but are not limited to, sales commissions incurred to obtain a contract with a customer.
+Shipping and Handling Costs:
+Shipping and handling costs on incoming inventory items are classified as a component of cost of goods sold, while shipping and handling costs on outgoing shipments to customers are classified as a component of selling, general and administrative expenses. The amounts of these costs classified as a component of selling, general and administrative expenses were $239,182 and $190,939 for the years ended May 31, 2025 and 2024. Shipping and handling activities that occur after the customer has obtained control of the product are considered fulfillment activities, not performance obligations.
+Income Taxes:
+The provision for income taxes provides for the tax effects of transactions reported in the financial statements regardless of when such taxes are payable.  Deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the tax and financial statement basis of assets and liabilities.  Deferred taxes are based on tax laws currently enacted with tax rates expected to be in effect when the taxes are actually paid or recovered.
+The Company's practice is to recognize interest related to income tax matters in interest income / expense and to recognize penalties in selling, general and administrative expenses.  The Company did not have any accrued interest or penalties included in its consolidated balance sheets at May 31, 2025 and 2024.  The Company recorded no interest expense or penalties in its consolidated statements of income during the years ended May 31, 2025 and 2024.
+The Company believes it is no longer subject to examination by federal and state taxing authorities for years prior to May 31, 2022.
+Sales Taxes:
+Certain jurisdictions impose a sales tax on Company sales to nonexempt customers.  The Company collects these taxes from customers and remits the entire amount as required by the applicable law.  The Company excludes from revenues and expenses the tax collected and remitted.
+Stock-Based Compensation:
+The Company measures compensation cost arising from the grant of share-based payments to employees at fair value and recognizes such cost in income over the period during which the employee is required to provide service in exchange for the award. The stock-based compensation expense for the years ended May 31, 2025 and 2024 was $1,222,509 and $1,047,252.
+F-11
+New Accounting Standards:
+Any recently issued Accounting Standards Codification (ASC) guidance has either been implemented or is not significant to the Company.
+2.  Accounts and Other Receivables:
+2025
+2024
+Customers
+$6,164,251
+$5,241,874
+Customers – retention
+-
+-
+6,164,251
+5,241,874
+Less allowance for estimated credit losses
+564,466
+29,466
+$5,599,785
+$5,212,408
+Retention receivable from customers represents amounts invoiced to customers where payments have been partially withheld pending completion of the project.  The Company increased its allowance for estimated credit losses due to the uncertainty of collecting a $751,000 balance overdue on a structural project.  The Company is in discussion with the customer regarding payment of this balance.
+All other amounts are expected to be collected within the next fiscal year.
+3.  Inventory:
+2025
+2024
+Raw materials
+$627,616
+$886,947
+Work-in-process
+7,222,613
+6,412,497
+Finished goods
+286,092
+271,608
+8,136,321
+7,571,052
+Less allowance for obsolescence
+23,000
+59,000
+$8,113,321
+$7,512,052
+4.  Costs and Estimated Earnings on Uncompleted Contracts:
+2025
+2024
+Costs incurred on uncompleted contracts
+$12,499,313
+$10,576,401
+Estimated earnings
+13,175,240
+10,459,240
+25,674,553
+21,035,641
+Less billings to date
+24,696,121
+22,280,350
+$978,432
+$(1,244,709)
+Amounts are included in the accompanying balance sheets under the following captions:
+2025
+2024
+Costs and estimated earnings in excess of billings
+$5,360,499
+$4,356,565
+Billings in excess of costs and estimated earnings
+4,382,067
+5,601,274
+$978,432
+$(1,244,709)
+F-12
+The following summarizes the status of Projects in progress as of May 31, 2025 and 2024:
+2025
+2024
+Number of Projects in progress
+21
+19
+Aggregate percent complete
+65%
+53%
+Aggregate amount remaining
+$13,100,204
+$18,650,312
+Percentage of total value invoiced to customer
+64%
+56%
+The Company expects to recognize the majority of remaining revenue on all open projects during the May 31, 2026 fiscal year.
+Revenue recognized during the years ended May 31, 2025 and 2024 for amounts included in billings in excess of costs and estimated earnings as of the beginning of the year amounted to $5,601,000, and $1,992,000.
+5.  Maintenance and Other Inventory:
+2025
+2024
+Maintenance and other inventory
+$ 1,872,931
+$ 2,416,748
+Less allowance for obsolescence
+765,056
+836,919
+$ 1,107,875
+$ 1,579,829
+Maintenance and other inventory represent stock that is estimated to have a product life-cycle in excess of twelve-months.  This stock represents certain items the Company is required to maintain for service of products sold, and items that are generally subject to spontaneous ordering.  This inventory is particularly sensitive to technical obsolescence in the near term due to its use in industries characterized by the continuous introduction of new product lines, rapid technological advances and product obsolescence.  Therefore, management of the Company has recorded an allowance for potential inventory obsolescence.  $107,000 and $791,000 of inventory was disposed of during the years ended May 31, 2025 and 2024.  The provision for potential inventory obsolescence was zero and $386,000 for the years ended May 31, 2025 and 2024.  The Company continues to rework slow-moving inventory, where applicable, to convert it to product to be used on customer orders.
+6.  Property and Equipment:
+2025
+2024
+Land
+$195,220
+$195,220
+Buildings and improvements
+10,160,842
+10,054,459
+Machinery and equipment
+17,950,644
+15,956,076
+Office furniture and equipment
+3,193,150
+3,113,921
+Autos and trucks
+91,717
+24,818
+Land improvements
+662,168
+662,168
+32,253,741
+30,006,662
+Less accumulated depreciation
+20,179,569
+18,825,729
+$12,074,172
+$11,180,933
+Depreciation expense was $1,708,849 and $1,690,239 for the years ended May 31, 2025 and 2024.
+The Company has commitments to make capital expenditures of approximately $1,853,000 as of May 31, 2025.
+F-13
+7.  Short-Term Borrowings:
+The Company has available a $10,000,000 bank demand line of credit from a bank, with interest payable at the Company's option of 30, 60 or 90 day SOFR rate plus 2.365%. The line is secured by a negative pledge of the Company's real and personal property and is subject to renewal annually.
+There is no amount outstanding under the line of credit at May 31, 2025 or 2024.
+The Company uses a cash management facility under which the bank draws against the available line of credit to cover checks presented for payment on a daily basis.  Outstanding checks under this arrangement totaled $97,673 and $372,347 as of May 31, 2025 and 2024.  These amounts are included in accounts payable on the accompanying balance sheets.
+8.  Accrued Expenses:
+2025
+2024
+Customer deposits
+$104,825
+$285,689
+Personnel costs
+3,214,157
+3,763,777
+Other
+753,454
+614,997
+$4,072,436
+$4,664,463
+9.  Sales:
+The Company manufactures and sells a single group of very similar products that have many different applications for customers.  These similar products are included in one of nine categories; namely, Seismic Dampers, Fluidicshoks®, Crane and Industrial Buffers, Self-Adjusting Shock Absorbers, Liquid Die Springs, Vibration Dampers, Machined Springs, Custom Shock and Vibration Isolators, and Custom Actuators.  Management does not track or otherwise account for sales broken down by these categories.  Sales of the Company's products are made to three general groups of customers: industrial, structural and aerospace / defense.  A breakdown of sales to these three general groups of customers is as follows:
+2025
+2024
+Structural
+$ 14,827,044
+$ 14,406,863
+Aerospace / Defense
+27,134,038
+26,675,321
+Industrial
+4,331,643
+3,500,623
+$ 46,292,725
+$ 44,582,807
+Sales to two customers approximated 36% (21% and 15% respectively) of net sales for 2025. Sales to a single customer approximated 21% of net sales for 2024.
+10.  Income Taxes:
+2025
+2024
+Current tax provision:
+Federal
+$2,204,000
+$2,365,000
+State
+1,000
+1,000
+2,205,000
+2,366,000
+Deferred tax provision (benefit):
+Federal
+(585,000)
+(444,000)
+State
+-
+-
+(585,000)
+(444,000)
+$1,620,000
+$1,922,000
+F-14
+A reconciliation of provision for income taxes at the statutory rate to income tax provision at the Company's effective rate is as follows:
+2025
+2024
+Computed tax provision at the expected statutory rate
+$2,317,000
+$2,293,400
+Tax effect of permanent differences:
+Research tax credits
+(489,692)
+(407,675)
+Foreign-derived intangible income deduction
+(224,700)
+(142,100)
+Stock option costs
+(11,682)
+48,500
+Other permanent differences
+24,300
+2,800
+Other
+4,774
+127,075
+$1,620,000
+$1,922,000
+Effective income tax rate
+14.7%
+17.6%
+Significant components of the Company's deferred tax assets and liabilities consist of the following:
+2025
+2024
+Deferred tax assets:
+Allowance for estimated credit losses
+$118,500
+$6,200
+Tax inventory adjustment
+52,600
+57,300
+Allowance for obsolete inventory
+165,500
+188,100
+Accrued vacation
+169,600
+163,000
+Warranty reserve
+112,500
+100,700
+R&D capitalization
+2,111,200
+1,479,800
+Stock options issued for services
+117,700
+181,200
+2,847,600
+2,176,300
+Deferred tax liabilities:
+Excess tax depreciation
+(1,249,600)
+(1,163,685)
+Net deferred tax assets
+$1,598,000
+$1,012,615
+Realization of the deferred tax assets is dependent on generating sufficient taxable income at the time temporary differences become deductible.  The Company provides a valuation allowance to the extent that deferred tax assets may not be realized.  A valuation allowance has not been recorded against the deferred tax assets since management believes it is more likely than not that the deferred tax assets are recoverable.  The Company considers future taxable income and potential tax planning strategies in assessing the need for a potential valuation allowance.  The amount of the deferred tax assets considered realizable however, could be reduced in the near term if estimates of future taxable income are reduced.  The Company will need to generate approximately $13.6 million in taxable income in future years in order to realize the deferred tax assets recorded as of May 31, 2025 of $2,847,600.
+The Company and its subsidiary file consolidated Federal and State income tax returns.  As of May 31, 2025, the Company had State investment tax credit carryforwards of approximately $493,000 expiring through May 2030.
+F-15
+11.  Earnings Per Common Share:
+Basic earnings per common share is computed by dividing income available to common stockholders by the weighted-average common shares outstanding for the period.  Diluted earnings per common share reflects the weighted-average common shares outstanding and dilutive potential common shares, such as stock options.
+A reconciliation of weighted-average common shares outstanding to weighted-average common shares outstanding assuming dilution is as follows:
+2025
+2024
+Average common shares outstanding
+3,131,134
+3,353,077
+Common shares issuable under stock option plans
+147,555
+135,711
+Average common shares outstanding assuming dilution
+3,278,689
+3,488,788
+12.  Employee Stock Purchase Plan:
+In March 2004, the Company reserved 295,000 shares of common stock for issuance pursuant to a non-qualified employee stock purchase plan.  Participation in the employee stock purchase plan is voluntary for all eligible employees of the Company.  Purchase of common shares can be made by employee contributions through payroll deductions and without brokers’ fees.  At the end of each calendar quarter, the employee contributions will be applied to the purchase of common shares using a share value equal to the mean between the closing bid and ask prices of the stock on that date.  These shares are distributed to the employees at the end of each calendar quarter or upon withdrawal from the plan.  During the years ended May 31, 2025 and 2024, 155 ($32.51 to $49.40 price per share) and 372 ($21.70 to $48.89 price per share) common shares, respectively, were issued to employees. As of May 31, 2025, 215,838 shares were reserved for further issue.
+13.  Stock Option Plans:
+In 2022, the Company adopted a stock option plan which permits the Company to grant both incentive stock options and non-qualified stock options.  The incentive stock options qualify for preferential treatment under the Internal Revenue Code.  Under this plan, 260,000 shares of common stock have been reserved for grant to key employees and directors of the Company and 233,800 shares have been granted as of May 31, 2025. Under the plan, the option price may not be less than the fair market value of the stock at the time the options are granted. Options vest immediately and expire ten years from the date of grant.
+Using the Black-Scholes option pricing model, the weighted average estimated fair value of each option granted under the plan was $13.61 during 2025 and $12.32 during 2024.  The pricing model uses the assumptions noted in the following table.  Expected volatility is based on the historical volatility of the Company's stock.  The risk-free interest rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at the time of the grant.  The expected life of options granted is derived from previous history of stock exercises from the grant date and represents the period of time that options granted are expected to be outstanding.  The Company uses historical data to estimate option exercise and employee termination assumptions under the valuation model.  The Company has never paid dividends on its common stock and does not anticipate doing so in the foreseeable future.
+2025
+2024
+Risk-free interest rate
+3.87%
+4.00%
+Expected life in years
+4.2
+4.3
+Expected volatility
+39%
+37%
+Expected dividend yield
+0%
+0%
+F-16
+The following is a summary of stock option activity:
+Shares
+Weighted Average Exercise Price
+Intrinsic Value
+Outstanding - May 31, 2023
+333,000
+$12.70
+$2,016,961
+Options granted
+85,000
+$34.04
+Less: options exercised
+76,750
+$12.54
+Less: options expired
+750
+-
+Outstanding - May 31, 2024
+340,500
+$18.07
+$11,185,815
+Options granted
+89,800
+$37.24
+Less: options exercised
+31,000
+$11.51
+Less: options expired
+-
+-
+Outstanding - May 31, 2025
+399,300
+$22.89
+$6,341,305
+We calculated intrinsic value for those options that had an exercise price lower than the market price of our common shares as of the balance sheet dates.  The aggregate intrinsic value of outstanding options as of the end of each fiscal year is calculated as the difference between the exercise price of the underlying options and the market price of our common shares for the options that were in-the-money at that date (309,500 at May 31, 2025 and 340,500 at May 31, 2024).  The Company's closing stock price was $36.93 and $50.92 as of May 31, 2025 and 2024.  As of May 31, 2025, there are 26,200 options available for future grants under the 2022 stock option plan.  $356,883 was received from the exercise of options during the fiscal year ended May 31, 2025; $957,205 was received from the exercise of options during the fiscal year ended May 31, 2024.
+The following table summarizes information about stock options outstanding at May 31, 2025:
+Outstanding and Exercisable
+Range of Exercise Prices
+Number of Options
+Weighted Average Remaining Years of Contractual Life
+Weighted Average Exercise Price
+$  9.01-$10.00
+45,000
+5.8
+$  9.71
+$10.01-$11.00
+15,250
+3.7
+$10.21
+$11.01-$12.00
+99,000
+5.4
+$11.72
+$12.01-$13.00
+6,000
+1.7
+$12.41
+$13.01-$14.00
+10,000
+1.9
+$13.80
+$16.01-$17.00
+10,000
+0.9
+$16.40
+$19.01-$20.00
+47,500
+7.3
+$19.89
+$20.01-$21.00
+33,750
+8.4
+$20.78
+$30.01-$31.00
+43,000
+9.9
+$30.55
+$43.01-$44.00
+46,800
+9.4
+$43.38
+$46.01-$47.00
+43,000
+8.9
+$46.99
+$  9.01-$47.00
+399,300
+6.9
+$22.89
+F-17
+The following table summarizes information about stock options outstanding at May 31, 2024:
+Outstanding and Exercisable
+Range of Exercise Prices
+Number of Options
+Weighted Average Remaining Years of Contractual Life
+Weighted Average Exercise Price
+$  9.01-$10.00
+55,000
+7.0
+$  9.67
+$10.01-$11.00
+15,250
+4.7
+$10.21
+$11.01-$12.00
+106,250
+6.5
+$11.72
+$12.01-$13.00
+19,000
+1.5
+$12.36
+$13.01-$14.00
+10,000
+2.9
+$13.80
+$16.01-$17.00
+10,000
+1.9
+$16.40
+$19.01-$20.00
+47,500
+8.3
+$19.89
+$20.01-$21.00
+34,500
+9.4
+$20.78
+$46.01-$47.00
+43,000
+9.9
+$46.99
+$  9.01-$47.00
+340,500
+6.9
+$18.07
+14.  Retirement Plan:
+The Company maintains a retirement plan for essentially all employees pursuant to Section 401(k) of the Internal Revenue Code.  The Company matches a percentage of employee voluntary salary deferrals subject to limitations.  The Company may also make discretionary contributions as determined annually by the Company's Board of Directors.  The amount expensed under the plan was $462,445 and $431,720 for the years ended May 31, 2025 and 2024.
+15.  Fair Value of Financial Instruments:
+The carrying amounts of cash and cash equivalents, accounts receivable, accounts payable, and accrued liabilities approximate fair value because of the short maturity of these instruments.
+The fair values of short-term investments were determined as described in Note 1.
+16.  Cash Flows Information:
+2025
+2024
+Interest paid
+None
+None
+Income taxes paid
+$2,425,000
+$2,010,000
+17.  Legal Proceedings:
+The Company has been named as a third-party defendant in an action captioned Board of Managers of the 432 Park Condominium, et al. v. 56th and Park (NY) Owner LLC, et al. (the “Action”).
+The Action was filed on or about September 23, 2021. In the Action, the Board of Managers of 432 Park Condominium (the “Owner”), a condominium association for a high-rise condominium building (the “Building”) located at 432 Park Avenue in New York, N.Y., asserts a claim against the condominium sponsor, 56th and Park (NY) Owner LLC (the “Sponsor”) for damages arising from construction and design defects to the residential and commercial units at the Building.
+The Sponsor subsequently filed a third-party complaint against LendLease Construction (US) LMB (“LendLease”) and other parties involved in the Building’s design. As to LendLease, the third-party complaint alleges breach of a construction management contract between LendLease and the Sponsor and negligence arising from purported failure to perform under the contract, and seeks indemnification against any damages asserted against the Sponsor by the Owner.
+LendLease subsequently initiated a third-party complaint seeking indemnification from entities with whom LendLease had contracted for the supply of materials and services in connection with construction of the Building. The third-party complaint also
+F-18
+names the Company as a third-party defendant based upon a contract between the Company and LendLease to supply 16 Viscous Damping Devices that were incorporated into a Tuned Mass Damper system designed by a third party to limit accelerations of the Building during wind events. The Company has timely filed and served an answer denying the allegations in LendLease’s third party complaint.
+The Action, and all of the related third-party actions, are pending in the Commercial Division of the Supreme Court, New York County.
+Discovery relating to the Action remains ongoing and is expected to conclude on or about December 24, 2025, and the deadline to file dispositive motions has been extended to March 11, 2026.
+At present, the Company is unable to determine the likelihood of an unfavorable outcome or to quantify a potential loss.
+F-19

@@ -1,0 +1,2602 @@
+false
+2024
+FY
+--10-31
+false
+No
+0001813744
+0001813744
+2023-11-01
+2024-10-31
+0001813744
+2023-10-31
+0001813744
+2024-10-31
+0001813744
+2025-09-02
+0001813744
+2022-11-01
+2023-10-31
+0001813744
+us-gaap:PreferredStockMember
+2022-10-31
+0001813744
+us-gaap:CommonStockMember
+2022-10-31
+0001813744
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-31
+0001813744
+us-gaap:ComprehensiveIncomeMember
+2022-10-31
+0001813744
+us-gaap:RetainedEarningsMember
+2022-10-31
+0001813744
+2022-10-31
+0001813744
+us-gaap:PreferredStockMember
+2023-10-31
+0001813744
+us-gaap:CommonStockMember
+2023-10-31
+0001813744
+us-gaap:AdditionalPaidInCapitalMember
+2023-10-31
+0001813744
+us-gaap:ComprehensiveIncomeMember
+2023-10-31
+0001813744
+us-gaap:RetainedEarningsMember
+2023-10-31
+0001813744
+us-gaap:PreferredStockMember
+2022-11-01
+2023-10-31
+0001813744
+us-gaap:CommonStockMember
+2022-11-01
+2023-10-31
+0001813744
+us-gaap:AdditionalPaidInCapitalMember
+2022-11-01
+2023-10-31
+0001813744
+us-gaap:ComprehensiveIncomeMember
+2022-11-01
+2023-10-31
+0001813744
+us-gaap:RetainedEarningsMember
+2022-11-01
+2023-10-31
+0001813744
+us-gaap:PreferredStockMember
+2023-11-01
+2024-10-31
+0001813744
+us-gaap:CommonStockMember
+2023-11-01
+2024-10-31
+0001813744
+us-gaap:AdditionalPaidInCapitalMember
+2023-11-01
+2024-10-31
+0001813744
+us-gaap:ComprehensiveIncomeMember
+2023-11-01
+2024-10-31
+0001813744
+us-gaap:RetainedEarningsMember
+2023-11-01
+2024-10-31
+0001813744
+us-gaap:PreferredStockMember
+2024-10-31
+0001813744
+us-gaap:CommonStockMember
+2024-10-31
+0001813744
+us-gaap:AdditionalPaidInCapitalMember
+2024-10-31
+0001813744
+us-gaap:ComprehensiveIncomeMember
+2024-10-31
+0001813744
+us-gaap:RetainedEarningsMember
+2024-10-31
+0001813744
+2023-11-01
+2024-10-01
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+FOR THE FISCAL YEAR ENDED OCTOBER 31, 2024
+OR
+[
+] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+COMMISSION FILE NUMBER: 000-56208
+World Scan Project, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+35-2677532
+(State or other jurisdiction
+of incorporation or organization)
+(I.R.S. Employer Identification No.)
+2-18-23, Nishiwaseda,
+Shinjuku-Ku, Tokyo, Japan
+162-0051
+(Address of Principal Executive Offices)
+(Zip Code)
+Securities to be registered
+under Section 12(b) of the Act: None
+Securities to be registered
+under Section 12(g) of the Exchange Act:
+Title
+of each class
+Name of each exchange
+on
+which our share
+are traded
+Common
+Stock, $0.0001
+Series
+A Preferred Stock, $0.0001
+None,
+but quoted on the Pink® Open Market operated by the OTC Markets Group under the symbol “WDSP”
+Indicate by check mark
+if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+[ ] Yes [X] No
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act.
+[ ] Yes [X] No
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days.
+[ ] Yes
+[X] No
+Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit and post such files).
+[X] Yes [ ] No
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K (§ 229.405 of this chapter) is not contained herein, and will not be contained, to
+the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K.
+[ ]
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,”
+“accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  ☐
+Accelerated filer  ☐
+Non-accelerated filer  ☒
+Smaller reporting company  ☒
+Emerging growth company  ☒
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. [  ]
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act).
+[  ] Yes [X] No
+As of October 31, 2024, the aggregate market value of the voting common
+stock held by non-affiliates of the Registrant (without admitting that any person whose shares are not included in such calculation is
+an affiliate) was approximately $120,000.
+As of September 2, 2025 there were 11,997,350 shares of the Registrant’s common stock, par value $0.0001 per share, and 10,000,000 shares of Series
+A Preferred Stock, par value $0.0001 per share, issued and outstanding.
+TABLE OF CONTENTS
+WORLD SCAN PROJECT, INC.
+PART I
+PAGE
+Item 1
+Business
+1
+Item 1A
+Risk Factors
+4
+Item 1B
+Unresolved Staff Comments
+4
+Item 2
+Properties
+4
+Item 3
+Legal Proceedings
+4
+Item 4
+Mine Safety Disclosures
+4
+PART II
+Item 5
+Market for Registrant’s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities
+5
+Item 6
+Selected Financial Data
+5
+Item 7
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+5
+Item 7A
+Quantitative and Qualitative Disclosures about Market Risk
+5
+Item 8
+Financial Statements and Supplementary Data
+F1-F10
+Item 9
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+6
+Item 9A
+Controls and Procedures
+6
+Item 9B
+Other Information
+6
+PART III
+Item 10
+Directors, Executive Officers and Corporate Governance
+7
+Item 11
+Executive Compensation
+8
+Item 12
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters
+9
+Item 13
+Certain Relationships and Related Transactions, and Director Independence
+9
+Item 14
+Principal Accounting Fees and Services
+9
+PART IV
+Item 15
+Exhibits, Financial Statement Schedules
+10
+Signatures
+10
+Table of Contents
+FORWARD LOOKING STATEMENTS
+Certain statements, other than purely historical information,
+including estimates, projections, statements relating to our business plans, objectives, and expected operating results, and the assumptions
+upon which those statements are based, are “forward-looking statements”.
+These forward-looking statements generally are identified
+by the words “believes,” “project,” “expects,” “anticipates,” “estimates,”
+“intends,” “strategy,” “plan,” “may,” “will,” “would,” “will
+be,” “will continue,” “will likely result,” and similar expressions.
+Forward-looking statements are based on current expectations
+and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking
+statements. Our ability to predict results or the actual effect of future plans or strategies is inherently uncertain. Factors which could
+have a material adverse effect on our operations and future prospects on a consolidated basis include, but are not limited to: changes
+in economic conditions, legislative/regulatory changes, availability of capital, interest rates, competition, and generally accepted accounting
+principles. These risks and uncertainties should also be considered in evaluating forward-looking statements and undue reliance should
+not be placed on such statements.
+PART I
+Item 1. Business.
+Corporate History
+World Scan Project, Inc., a Delaware corporation (“the
+Company”) was incorporated under the laws of the State of Delaware on October 25, 2019.
+On October 25, 2019, Ryohei Uetaki, our officer and
+director, paid for expenses involved with the incorporation of the Company with personal funds on behalf of the Company, in exchange for
+10,000,000 shares of Common Stock, par value $0.0001 per share and 10,000,000 shares of Series A Preferred stock, par value $0.0001 per
+share, which issuance was exempt from the registration provisions of Section 5 of the Securities Act under Section 4(2) of such same said
+act. The value of the stock provided to Mr. Uetaki, based on the par value of $.0001 per share of common stock and Series A Preferred
+Stock, is valued at $2,000.
+On October 25, 2019, Ryohei Uetaki was appointed as
+Chief Executive Officer, Chief Financial Officer, President, Director, Secretary, and Treasurer.
+On November 18, 2019, Yasumasa Ichikawa was appointed
+as Chief Technology Officer.
+On January 25, 2020, the Company entered into and
+consummated a Share Contribution Agreement with Ryohei Uetaki. Pursuant to this agreement Mr. Uetaki gifted to the Company, at no cost,
+300 shares of common stock of World Scan Project Corporation, a Japan corporation (“WSP Japan”), which represented all of
+its issued and outstanding shares. The Company has since gained a 100% interest in the issued and outstanding shares of WSP Japan’s
+common stock and WSP Japan is now a wholly owned subsidiary of the Company. The Company and WSP Japan were under common control at the
+time of the acquisition.
+WSP Japan was incorporated under the laws of Japan
+on January 22, 2020. Currently, WSP Japan is headquartered in Tokyo, Japan. The Company is an industrial automation equipment manufacturer,
+designing/developing robots, drones, Web3 infrastructure, IoT equipment and other related products. Our operations currently span across
+the globe
+On February 19, 2020, Ryohei Uetaki gifted 7,000,000
+shares of our Common Stock and 10,000,000 shares of our Series A Preferred Stock, which represented all of our issued and outstanding
+shares of Preferred Stock at the time, to SKYPR LLC, a Delaware Limited Liability Company (referred to herein as “SKYPR LLC”).
+Our CEO Ryohei Uetaki owns and controls 100% of the membership interests in SKYPR LLC.
+In September, 2020, the Company entered into subscription
+agreements with 41 shareholders. Pursuant to these agreements, the Company issued 647,350 shares of common stock in total to these shareholders
+and received $323,675 as aggregate consideration. At the time of purchase the price paid per share by each shareholder was the equivalent
+to about 0.50 USD.
+These shares were sold pursuant to the Company’s
+effective S-1 Registration Statement deemed effective on August 28, 2020 at 4pm EST.
+In June, 2023, the Company entered
+into subscription agreements with 9 shareholders. Pursuant to these agreements, the Company issued 150,000 shares of Common Stock in total
+to these shareholders and received $1,500,000 as aggregate consideration. At the time of purchase the price paid per share by each shareholder
+was the equivalent of about 10.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration Statement deemed
+effective on May 25, 2023 at 4pm EST. The aforementioned offering has been completed and is no longer ongoing.
+In August, 2023, the Company entered
+into subscription agreements with 1 shareholder. Pursuant to these agreements, the Company issued 20,000 shares of Common Stock in total
+to these shareholders and received $240,000 as aggregate consideration. At the time of purchase the price paid per share by the said shareholder
+was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration Statement deemed
+effective on August 23, 2023 at 4pm EST.
+In October, 2023, the Company entered into subscription
+agreement with 1 shareholder. Pursuant to this agreement, the Company issued 10,000 shares of Common Stock in total to these shareholders
+and received $120,000 as aggregate consideration. At the time of purchase the price paid per share by the said shareholder was the equivalent
+of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration Statement deemed effective on August
+23, 2023 at 4pm EST.
+In November, 2023, the Company entered into subscription
+agreement with 11 shareholders. Pursuant to these agreements, the Company issued 235,000 shares of Common Stock in total to these shareholders
+and received $2,820,000 as aggregate consideration. At the time of purchase the price paid per share by the said shareholder was the equivalent
+of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration Statement deemed effective on August
+23, 2023 at 4pm EST.
+In December, 2023, the Company
+entered into subscription agreements with 4 shareholders. Pursuant to these agreements, the Company issued 161,000 shares of Common Stock
+in total to these shareholders and received $1,932,000 as aggregate consideration. At the time of purchase the price paid per share by
+the said shareholder was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration
+Statement deemed effective on August 23, 2023 at 4pm EST.
+In January, 2024, the Company
+entered into subscription agreements with 7 shareholders. Pursuant to these agreements, the Company issued 80,000 shares of Common Stock
+in total to these shareholders and received $960,000 as aggregate consideration. At the time of purchase the price paid per share by the
+said shareholder was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration
+Statement deemed effective on August 23, 2023 at 4pm EST.
+In May, 2024, the Company entered
+into subscription agreements with 20 shareholders. Pursuant to these agreements, the Company issued 237,000 shares of Common Stock in
+total to these shareholders and received $2,844,000 as aggregate consideration. At the time of purchase the price paid per share by the
+said shareholder was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration
+Statement deemed effective on August 23, 2023 at 4pm EST.
+In June, 2024, the Company entered
+into subscription agreements with 5 shareholders. Pursuant to these agreements, the Company issued 40,000 shares of Common Stock in total
+to these shareholders and received $480,000 as aggregate consideration. At the time of purchase the price paid per share by the said shareholder
+was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration Statement deemed
+effective on August 23, 2023 at 4pm EST.
+In July, 2024, the Company entered
+into subscription agreements with 17 shareholders. Pursuant to these agreements, the Company issued 192,000 shares of Common Stock in
+total to these shareholders and received $2,304,000 as aggregate consideration. At the time of purchase the price paid per share by the
+said shareholder was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration
+Statement deemed effective on August 23, 2023 at 4pm EST.
+In August, 2024, the Company entered
+into subscription agreements with 10 shareholders. Pursuant to these agreements, the Company issued 150,000 shares of Common Stock in
+total to these shareholders and received $1,800,000 as aggregate consideration. At the time of purchase the price paid per share by the
+said shareholder was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration
+Statement deemed effective on August 23, 2023 at 4pm EST.
+In September, 2024, the Company
+entered into subscription agreements with 2 shareholders. Pursuant to these agreements, the Company issued 75,000 shares of Common Stock
+in total to these shareholders and received $900,000 as aggregate consideration. At the time of purchase the price paid per share by the
+said shareholder was the equivalent of about 12.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration
+Statement deemed effective on August 23, 2023 at 4pm EST.
+-1-
+Table of Contents
+Overview
+We operate through our wholly owned subsidiary, World
+Scan Project Corporation, a Japanese Company. We are an industrial automation equipment manufacturer in start-up stage currently focused
+on developing and designing robots, drones, Web3 infrastructure, IoT equipment and other related products. Our operations currently span
+across the globe.
+Our principal executive offices are located at 2-18-23,
+Nishiwaseda, Shinjuku-Ku, Tokyo, 162-0051, Japan.
+The Company’s website is https://www.world-scan-project.com/.
+The Company has elected October 31th as its year end.
+SkyFight-X Drone Business
+SkyFight-X, which was originally developed and designed
+by our Chief Executive Officer, specifically for the hobbyist drone race known as “SKY FIGHT”, which is organized by Drone
+Net, a Japanese Company. Drone Net began running a drone school in 2017, and a drone race in 2019. Our CEO, Ryohei Uetaki, was in the
+planning stages of a new small sized drone product, and believed that his products would have higher performance capabilities than the
+drones at the time used by Drone Net, which prompted him to propose collaboration between the Company and Drone Net. Currently, Drone
+Net administrates 16 racetracks in Japan, specifically designed for drone use.
+Although SkyFight-X was designed for Sky Fight, the drones can also be
+used outside the facilities designed exclusively for drone racing, and they can be used for recreational and miscellaneous purposes.
+The following includes details regarding the SkyFight-X which we currently
+offer for sale. As mentioned later on, we have plans to expand our reach to more customers, but at this time it should be noted our only
+customer is Drone Net.
+Schematics of SKYFight-X
+- The weight of SKYFight-X is approximately 40 grams.
+Product packaging
+- One Main body of machine
+- One Transmitter (2.4 GHz)
+- One Battery
+- Four Spare propellers
+- One USB charging cable
+- One user manual
+Marketing
+Our marketing plan, at present, is not yet complete and is still being
+researched and developed. SkyFight-X, our current primary product, is being marketed solely by our primary customer, Drone Net. We believe
+that Drone Net’s sales of our products will result in increased demand, from Drone Net, for future products, but this is not directly
+related to any marketing activities conducted by the Company itself. We do not currently engage in any marketing efforts, with the exception
+of the company’s website located at: https://www.world-scan-project.com/
+Flylly: Small sized drone with 4K camera
+The Flylly is an
+extra small sized drone with 38 grams in weight, and not subject to the revised Aviation Act. ４K
+camera is installed for photo shooting, and angles can be adjusted manually by tilting the camera. Automatic flights are also programmable
+for simple flight plans.
+Flylly and a smartphone is what the users need for operation: download
+the dedicated app, SKY Drone Go, to the smartphone to connect and control Flylly via Wi-Fi
+Schematics of Flylly
+- The weight of Flylly is approximately 38 grams.
+Product packaging
+Specifications: Total length:82 mm, Width:89mm Hight:33 mm Weight:39.5g
+A set of Flylly contains the blow:
+- Main body of drone, 1 unit
+- LiPo battery, 1 unit
+- Upper shell, 3 units (in orange, yellow and white)
+- Spare propellers, 4 pieces (2 in black and 2 in blue)
+- USB battery charger, 1 unit
+- Screwdriver, 1
+- Demounting tool for propellers, 1
+- User manual (in Japanese), 1
+-2-
+Table of Contents
+META DIVER
+META DIVER is an application for smartphones that provides user experience
+with full-scale VR images. The purpose of the application is to provide 3D data such as historical heritage as VR video content.
+The main function of the application is image reproductions
+of VR images and 360 degree images, with VR images of World Heritages, historical heritages, and natural heritage both in Japan and overseas
+as its contents. Currently, all contents in the applications are free of charge, although this does not preclude us from monetizing META
+DIVER in the future.
+Pine Hill Productions, Inc., a New York corporation, (“Pine
+Hill”) is currently supervising the development of META DIVER.
+ZEXABOX
+ZEXABOX is made pursuant to, what we believe to be, strict Japanese
+guidelines for quality. The device is a GPU Mining Rig, comprised of computer components, used to “mine” digital currency.
+In layman’s terms, “mine” is defined as the process of solving complex math problems that verifying transaction(s) in
+the digital currency or blockchain, which, generally speaking, results in a predetermined amount of digital currency to be gained.
+As of October 31, 2024 the
+company offers for sale the following types of Zexabox machines: PRO, MINI, ULTIMA, DIV, ULTIMA EX, PRO TYPE-C,
+DIVⅡ, and DIVⅢ.
+Current Operations Relating
+to Zexabox
+Sales activities pursuant to ZEXABOX
+are outsourced to 3rd party marketing companies in Japan. All products are purchased from
+Web3 Computing Corp., formerly known as Cellessence Corp., an unrelated third party. Installation services for the products are
+conducted by Web3 Computing Corp.
+Marketing
+Sales and marketing activities pursuant to ZEXABOX
+are outsourced to 3rd party marketing companies in Japan. At present, company’s
+marketing activities are constrained to our company website located at: https://www.world-scan-project.com/, through which recent news
+and updates are released, and general advertising to direct potential customers to our website. Additionally, from time to time the company
+attends industry specific exhibitions and trade shows.
+Future plans
+World Scan Project, Inc., as an industrial automation equipment
+manufacturer, plans to further develop and apply our technologies in designing/developing Web3 infrastructure, IoT equipment (Zexabox)
+and other related products, in addition to the robots and drones we have been offering to the market globally.
+(1)      To begin direct sales to consumers in
+Japan
+The Company has tentative plans to evaluate the possibility
+of directly selling its products via web-based direct sales in Japan. It is possible that we may evaluate, and even begin to do so in
+2025, but we do not currently have any definitive plans to do so at this point in time.
+(2)
+To expand the sales volume for our digital currency mining rigs
+The Company is planning to gain sales agents
+and agencies to expand the sales of its new product named XEXABOX series.
+(3)      To start selling products overseas, mainly
+in the USA
+The Company has intentions to begin
+developing its own sales agencies, and at such time to begin to sell products through such agencies, overseas beginning, potentially,
+in 2025. These plans remain speculative in nature, however, in order to begin to progress these efforts, the Company entered into a consulting
+agreement with Pine Hill Productions, Inc., a New York corporation (Pine Hill”) on March 3, 2020. Pine Hill shall support the Company
+to expand its business operations into the USA. The consulting fee due to Pine Hill is $3,000 per month. As of October 31, 2024, there
+has been no material progress to disclose as pertains to this agreement.
+(4)      To sell
+new products
+The Company intends to sell
+core products other than drones and digital currency mining rigs.
+(5)      The Company also has tentative
+plans, to evaluate the possibility of working on developing an underwater drone and a hover bike (flying bike). At this time, we are developing
+a magnetic exploration system, and the hover bike has been successfully tested in flight. The magnetic exploration system is called JIKAI,
+and the hovercraft bike is called FREAP. At present neither of these potential products are available for sale as testing remains ongoing.
+However, we are still exploring the feasibility of these endeavors, and there is no guarantee that such plans will come to fruition.
+Government Regulations in Japan
+Currently, given that the entirety of our operations are conducted within
+Japan, and our customers reside in Japan, only the rules and regulations pertaining to drones within Japan are presently applicable to
+the Company’s operations.
+Based on the revised Civil Aeronautics
+Act of 2020, registration of Unmanned Aircraft has been mandated. Based on the amendment to the Civil Aeronautics Act in 2020, unregistered
+Unmanned Aircraft flights will be banned. From June 20, 2022, Unmanned Aircraft will have to be marked with a registration ID to identify
+them and be fitted with a Remote ID function. The exclusion for Unmanned Aircraft was changed from “those weighing less than 200g”
+to “those weighing less than 100g.” This means that all Unmanned Aircraft of 100g or more are subject to registration. Acceptance
+of pre-registration began on December 20, 2021 and mandatory registration of all unmanned aircrafts began on June 20, 2022. The registration
+system for Unmanned Aircraft has been established to ensure safety and security in the expanded use of Unmanned Aircraft. While this regulation
+does not directly impact our ability to conduct any of our operations, it has placed the burden of registering autonomous drones onto
+the consumer, which we believe has had, and will continue to have, a detrimental impact upon our sales.
+PATENTS AND TRADEMARKS
+The following table is the list of patent registered..
+Application Number
+Name
+Applicant
+Application Date
+Country
+Record Date
+2021-501939
+Unmanned flight equipment,
+management equipment,
+operating equipment,
+and flight management methods
+World Scan Project Corporation
+2020/02/14
+Japan
+2022/07/22
+2021-145931
+Supporting equipment
+World Scan Project Corporation
+2021/09/08
+Japan
+2023/10/10
+Employees
+As of the date of this Annual Report, the Company,
+and its subsidiary, collectively have a total of 14 full-time employees. We do not presently have pension, health, annuity, insurance,
+stock options, profit sharing, or similar benefit plans; however, we may adopt plans in the future. There are presently no personal benefits
+available to our officers/or directors and or employees.
+-3-
+Table of Contents
+Item 1A. Risk Factors.
+As a smaller reporting company, as defined in Rule
+12b-2 of the Exchange Act, we are not required to provide the information called for by this Item.
+Item 1B. Unresolved Staff Comments.
+None.
+Item 2. Properties.
+Our principal executive offices are located at 2-18-23, Nishiwaseda, Shinjuku-Ku,
+Tokyo, 162-0051, Japan.
+The following table details the terms of the lease agreements for the various
+properties leased by the Company.
+Work space
+Address
+Lessee
+Lessor
+Monthly Rent
+Date of Agreement
+Term (Expiration of Lease)
+Tokyo Office
+2-18-23-2F, Nishiwaseda,
+Shinjuku-ku, Tokyo, Japan
+World Scan Project Corporation
+Make V Holdings Co., Ltd,
+JPY 200,000
+$1,569
+January 22, 2020
+December 31, 2025
+Kojimachi Office
+3-5-2-201, Kojimachi,
+Chiyuda-ku, Tokyo, Japan
+World Scan Project Corporation
+Kenedix Property Design Co., Ltd,
+JPY 601,920
+$4,725
+June 28, ,
+2021
+October 26, 2025
+Kojimachi Office
+3-5-2-1112, Kojimachi,
+Chiyuda-ku, Tokyo, Japan
+World Scan Project Corporation
+Kenedix Property Design Co., Ltd,
+JPY 581,058
+$4,561
+June 28,
+2021
+September 30, 2025
+Kojimachi Office
+3-5-2-610, Kojimachi,
+Chiyuda-ku, Tokyo, Japan
+World Scan Project Corporation
+Kenedix Property Design Co., Ltd,
+JPY627,575
+$4,926
+August 27, 2021
+December 2, 2025
+Kojimachi Office
+3-5-2-203, Kojimachi,
+Chiyuda-ku, Tokyo, Japan
+World Scan Project Corporation
+Kenedix Property Design Co., Ltd,
+JPY 325,325
+$2,553
+February 1, 2022
+April 1, 2026
+Tenshodo
+4-3-9 12fl.
+Ginza, Chuo-ku, Tokyo, Japan
+World Scan Project Corporation
+Tenshodo Co.
+JPY 1,050,000
+$8,242
+October 30, 2021
+November 18, 2031
+Item
+3. Legal Proceedings.
+From time to time, we may become party to litigation
+or other legal proceedings that we consider to be a part of the ordinary course of our business. We are not currently involved in legal
+proceedings that could reasonably be expected to have a material adverse effect on our business, prospects, financial condition or results
+of operations. We may become involved in material legal proceedings in the future.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+-4-
+Table of Contents
+PART II
+Item 5. Market for Registrant’s
+Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities.
+Market Information
+Our common stock was quoted on the over-the-counter market (the “OTC
+Markets”) in the Pink Open® Market (the “Pink Market”) under the symbol “WDSP”. Prior to the filing
+of this report, due to our delinquent SEC Reporting status, we were demoted by OTC Markets to the "Expert Market" tier. After
+the filing of Form 10-K for the period ending October 31, 2023, our Form 10-Q for the quarter ending January 31, 2024, our Form 10-Q for
+the quarter ending April 30, 2024 and our Form 10-Q for the quarter ending July 31, 2024, we were current with our SEC Reporting obligations,
+and our common stock was resumed for quotation in the Pink Market on the OTC Markets.
+Holders
+As of our fiscal year end, there are approximately
+90 shareholders of record of our common stock and 11,560,350 shares of common stock deemed issued and outstanding. Also, as of the date
+of this report, there are approximately 116 shareholders of record of our common stock and 11,997,350 shares of common stock deemed issued
+and outstanding. As of the date of this report, and as of our fiscal year end, there is one shareholder of record of our Series A preferred
+stock and 10,000,000 shares of common stock deemed issued and outstanding.
+Dividends and Share Repurchases
+We have not paid any dividends to our shareholder.
+There are no restrictions which would limit our ability to pay dividends on common equity or that are likely to do so in the future.
+Issuer Purchases of Equity Securities
+None.
+Equity Compensation Plan Information
+None.
+Recent Sales of Unregistered Securities
+None.
+Item 6. Selected Financial Data.
+Not applicable because the Company is a smaller reporting
+company.
+Item 7. Management’s Discussion and Analysis
+of Financial Condition and Results of Operations.
+Liquidity and Capital
+Resources
+As
+of October 31, 2024 we had cash and cash equivalents in the amount of $1,634,200. Currently, our cash balance is sufficient to fund our
+operations without the need for additional funding.
+The decrease in cash from operations
+is mainly related to decreased revenue and increased inventory purchases in the year ended October 31, 2024.
+Revenues
+We recorded revenues of $25,208,229
+for the year ended October 31, 2024. We recorded revenues of $30,986,882 for the year ended October 31, 2023. This decrease in revenues
+was due mainly to a decrease in the sales of crypto miners. During the year ended October 31, 2024, contracts with crypto miner customers
+changed to the extent that management changed the Company’s reporting from sales by agent, net of cost of goods sold, to that of
+gross sales with related cost of goods sold (see Note 8).
+Net Income(Loss)
+We recorded a net loss of
+$768,431 for the year ended October 31, 2024. We recorded a net loss of $3,416,587 for the year ended October 31, 2023.
+Cash flow
+For
+the year ended October 31, 2024, we had negative cash flows used in operations in the amount of $16,864,420 as compared to negative cash
+flow used in operations of $170,461 for the year ended October 31, 2023. The decrease in operating cash flow is attributed to decreased
+crypto miners revenue and increased inventory purchases during this period (see Note 8). For the year ended October 31, 2024, we had negative
+cash flows from investing activities in the amount of $126,427, due mainly to the purchase of software, as compared to cash flow used
+in investing activities of $1,627,413 for the year ended October 31, 2023. For the year ended October 31, 2024, we had cash flows provided
+by financing activities in the amount of $13,720,084, due to the sale of common shares and the receipt of funds pending the allotment
+of shares (see Note 13), as compared to cash flow provided by financing activities of $1,862,361 for the year ended October 31, 2023.
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk.
+As a “smaller reporting company”, we are
+not required to provide the information required by this Item.
+-5-
+Table of Contents
+Item 8. Financial Statements and Supplementary
+Data.
+WORLD SCAN PROJECT, INC.
+FINANCIAL STATEMENTS
+INDEX TO FINANCIAL STATEMENTS
+Pages
+Report of Independent Registered Public Accounting Firm (PCAOB FIRM ID - 7158)
+F2
+Report of Independent Registered Public Accounting Firm (PCAOB FIRM ID - 3223)
+F3
+Consolidated Balance Sheets
+F4
+Consolidated Statements of Operations and Comprehensive Income
+F5
+Consolidated Statements of Changes in Shareholders’ Equity
+F6
+Consolidated Statements of Cash Flows
+F7
+Notes to the Audited Consolidated Financial Statements
+F8-F10
+-F1-
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+To the shareholders and the board of directors of World Scan Project, Inc
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance
+sheet of World Scan Project, Inc and Subsidiaries (collectively, the "Company") as of October 31, 2024, the related consolidated
+statements of operations and comprehensive income (loss), shareholders’ equity, and cash flows for the year ended October 31, 2024,
+and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated
+financial statements present fairly, in all material respects, the financial position of the Company as of October 31, 2024, and the results
+of its operations and its cash flows for the year ended October 31, 2024, in conformity with accounting principles generally accepted
+in the United States.
+Basis for Opinion
+These consolidated financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements
+based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are
+matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated
+to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter
+in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relates.
+Revenue Recognition
+As discussed in Note 2 and 9 of the financial
+statements, the Company enters into transactions for the sale of mining machines under agreements with vendor. Under the Basic Agreement,
+the vendor procures the mining machines, stores them, and in some cases manages them on behalf of the Company or the Company’s customers.
+The Company determined it acts as the principal in these transactions and recognizes revenue on a gross basis, rather than as an agent
+on a net basis, under ASC 606, Revenue from Contracts with Customers.
+We identified the evaluation of the Company’s
+role in these transactions as a principal or agent as a critical audit matter because it involved significant management judgment in assessing
+the indicators in ASC 606-10-55-36 through 55-40, including whether the Company controls the goods before transfer to customers, is responsible
+for fulfilling the contract, and has inventory risk. Auditing this assessment required a high degree of auditor judgment, including reading
+the Basic Agreement, evaluating the flow of goods and title transfer terms, and assessing the relevance of storage and management arrangements
+between vendor and the Company’s customers.
+Revenue for the sale of such products was
+recognized when the products were delivered to the customers and the customers completed the inspection of the same.
+Addressing this matter involved performing
+procedures and evaluating audit evidence as part of forming our overall opinion on the consolidated financial statements. These procedures
+included (i) reviewing and analyzing the relevant contractual terms with the third-party manufacturer; (ii) evaluating the Company’s
+assessment of the transfer of inventory risk and rewards; and (iii) inquiries and discussions with Management in relation to Company’s
+responsibility against the contract. We also evaluated the appropriateness of the gross revenue recognition in accordance with ASC 606.
+Research and Development Expense
+As discussed in Notes 2 and 10 to the consolidated
+financial statements, the Company engages in research and development activities for various technologies, primarily through subcontracting
+to third-party vendors. For the year ended October 31, 2024, the Company incurred research and development expenditures totaling approximately
+$0.77 million, mainly relating to three significant projects—Hover Bike, SUNVA, and Jikai. Management concluded that these activities
+fall within the scope of ASC 730, Research and Development, and determined that all costs incurred in the period should be expensed as
+incurred because the projects were in the research or preproduction prototype stage as of year-end and had not yet reached the point at
+which capitalization would be appropriate under U.S. GAAP.
+We identified the evaluation of the appropriate
+recognition and accounting treatment of research and development expenditures as a critical audit matter because it involves significant
+management judgment in assessing the stage of completion of projects, the establishment of technical feasibility, and whether costs meet
+the criteria for capitalization. The assessment also requires management to consider whether expenditures relate to research and development
+activities as defined in ASC 730 or to other activities that may require different accounting treatment. Auditing this matter involved
+a high degree of judgment due to the estimation uncertainty and the need to evaluate evidence such as project milestones, prototypes,
+and contractual terms.
+Our audit procedures included, among others,
+obtaining and reading agreements with third-party vendors, evaluating the nature of the work performed and the stage of completion for
+significant projects, and reviewing management’s assessment of technical feasibility and alternative future use. We inquired of
+management and key project personnel regarding project status and future commercialization plans,. We also assessed the appropriateness
+of the application of ASC 730 to the expenditures and considered whether any portion should have been capitalized under applicable U.S.
+GAAP guidance.
+Impairment of Software
+As discussed in Notes 6 and 12 to the consolidated
+financial statements, the Company capitalized certain internally developed software costs related to NFT applications (“NFT Apps”)
+in accordance with ASC 985, Software – Costs of Software to Be Sold, Leased, or Marketed. At October 31, 2024, the carrying
+value of these software assets was JPY 189.6 million (USD 1.23 million). Management performed an impairment assessment under ASC 985-20-35
+and determined that the carrying amount of certain projects exceeded their net realizable value, resulting in a write-down of JPY 176.4
+million.
+We identified the evaluation of software
+impairment as a critical audit matter because it involved significant management judgment in estimating future net realizable value, including
+assumptions about sales prices, units sold, gross margin, commercialization timing, and the likelihood of achieving projected revenues.
+The assessment also required judgment in determining whether indicators of impairment existed and in evaluating the impact of changes
+in the Company’s mid-term business plan. Auditing these estimates involved a high degree of subjectivity and the use of significant
+audit effort.
+Our audit procedures included, among others,
+evaluating management’s process for identifying indicators of impairment; testing the reasonableness of key assumptions used in
+the net realizable value analysis, including sales forecasts, pricing, and cost estimates; comparing historical forecasts to actual results;
+and assessing the consistency of the assumptions with other internal documents such as the mid-term business plan and marketing plans.
+We also evaluated the mathematical accuracy of the impairment calculations and the appropriateness of the related disclosures in the consolidated
+financial statements.
+Investments in Securities
+As discussed in Notes 8 to the consolidated
+financial statements, the Company holds an equity investment in a Company A, recorded at JPY 240 million (USD 1.6 million) as of October
+31, 2024. The investment is classified as an equity security without a readily determinable fair value and is measured at cost, less impairment,
+in accordance with ASC 321. Management performed qualitative impairment assessments to evaluate whether indicators of impairment existed
+as of year-end. These assessments included evaluating Company’s financial condition and business prospects, industry and market
+conditions, regulatory and technological developments, and other qualitative indicators. In addition, management performed a simplified
+valuation analysis using a discounted cash flow method to support that the estimated fair value of its investment exceeded carrying value.
+Based on these assessments, management concluded that no impairment was necessary as of October 31, 2024.
+The principal considerations for our determination
+that performing procedures related to impairment of investments constitutes a critical audit matter included (i) the significant judgment
+exercised by management in identifying and evaluating qualitative impairment indicators and developing assumptions used in the valuation
+analysis, and (ii) the high degree of auditor judgment required in evaluating the reasonableness of those assumptions, particularly given
+the early-stage nature of company’s operations and limited operating history.
+Addressing this matter involved performing
+procedures and evaluating audit evidence as part of forming our overall opinion on the consolidated financial statements. These procedures
+included, among others: (i) obtaining an understanding of management’s process for performing the impairment assessment; (ii) evaluating
+company’s financial performance, cash flow forecasts, and business plans, including comparison against actual results; (iii) assessing
+relevant external factors such as market, regulatory, and technological conditions; (iv) testing the appropriateness of key assumptions
+used by management in its discounted cash flow analysis, including revenue growth, operating margins, and discount rate, with the involvement
+of valuation specialists; and (v) performing sensitivity analyses to evaluate the impact of changes in key assumptions on the estimated
+fair value of the investment.
+We determined that there are no other critical audit
+matters.
+/s/ BCRG Group
+BCRG Group (PCAOB ID 7158)
+We have served as the Company’s auditor since
+2025.
+Irvine, CA
+September 2, 2025
+-F2-
+Table of Contents
+Report of Independent Registered Public Accounting
+Firm
+To the Shareholders and Board
+of Directors of World Scan Project, Inc.
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance
+sheet of World Scan Project, Inc. and its subsidiary (the “Company”) as of October 31, 2023, the related consolidated statements
+of operations and comprehensive income, stockholders’ equity, and cash flows for the year then ended, and the related notes (collectively
+referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly,
+in all material respects, the financial position of the Company at October 31, 2023, and the results of its operations and its cash flows
+for the year then ended, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These consolidated financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements
+based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audit we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matters communicated below are
+matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated
+to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter
+in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relates.
+Research and Development Expense
+As discussed in Notes 2 and 10 to the consolidated
+financial statements, the Company records expenses for research and development activities based on Management’s estimates of services
+received and efforts expended pursuant to contracts with vendors that conduct research and development on the Company’s behalf.
+The financial terms vary from contract to contract and may result in uneven payment flows as compared with services performed or products
+delivered. As a result, the Company is required to estimate research and development expenses incurred during the period, which impacts
+the amount of Advance payments and prepaid expenses balances related to such costs as of each balance sheet date. Management estimates
+the amount of work completed through discussions with internal personnel and the contract research and contract manufacturing entity as
+to the progress or stage of completion of the services. The Company’s estimates are based on a number of factors, including the
+Company’s knowledge of the status of each of the research and development project milestones. Management makes significant judgments
+and estimates in determining the accrued balance at the end of each reporting period. The Company incurred Research and Development expenditure
+totaling $18,717,456 in respect of various technologies mainly for two products Company intends to offer for sale in the future during
+the year ended October 31, 2023. All the technologies were in progress as on October 31, 2023, and all the expenditure incurred till year
+end was expensed in accordance with ASC 985 “Software – Costs of Software to Be Sold, Leased, or Marketed” and ASC 730
+“Research and Development Costs”. Subsequent to year ended October 31, 2023, the Company has made a capitalization in accordance
+with ASC 985 “Software – Costs of Software to Be Sold, Leased, or Marketed”. Such capitalization has been made by the
+Company considering the fact that the Net realizable value/Future Economic Benefits exceeds unamortized cost.
+The principal considerations for our determination
+that performing procedures related to management's assessment of recognizing Research and Development expenditures constitutes a critical
+audit matter include: (i) the significant judgment exercised by management in determining the recognition and accounting treatment of
+such costs; (ii) the higher degree of auditor judgment required in evaluating the results of audit procedures, due to the subjectivity
+and estimation uncertainty involved; and (iii) the involvement of professionals with specialized skills and expertise in assessing the
+appropriateness of the related estimates.
+Addressing this matter involved performing procedures
+and evaluating audit evidence as part of forming our overall opinion on the consolidated financial statements. These procedures included:
+(i) inquiring with Company personnel responsible for overseeing the research and development activities to understand the progress of
+these activities, including project milestones and contract terms; (ii) discussing management's underlying assumptions regarding future
+economic benefits and treatment of such Research and Development cost; and (iii) Analyzing the terms of contracts between the Company
+and its contract research and manufacturing organizations, reviewing correspondence between the Company and these organizations regarding
+project completion status. We used this information to develop an independent estimate of the Advance payments and prepaid expenses and
+compared it to the amounts recorded by the Company.
+Revenue Recognition
+As discussed in Note 2 and 9 of the financial statements,
+the Company acted as an agent in facilitating the sales of crypto miners, produced by a third-party manufacturer, to customers of the
+Company during the year ended October 31, 2023. Net revenue for the sale of such products was recognized when the products were delivered
+to the customers and the customers completed the inspection of the same. Management assessed the Company’s contracts with the third-party
+manufacturer and customers in consideration of ASC 606, “Revenue from Contracts with Customers”, and determined the Company
+as the agent in said transactions.
+We identified
+the recognition of revenue as a critical audit matter. Higher degree of auditor judgement is required in relation to Management’s
+assessment for revenue recognition and transfer of significant risk rewards associated with the sale of crypto miners.
+Addressing this matter involved performing procedures
+and evaluating audit evidence as part of forming our overall opinion on the consolidated financial statements. These procedures included
+(i) reviewing and analyzing the relevant contractual terms with the third-party manufacturer; (ii) evaluating the Company’s assessment
+of the transfer of inventory risk and rewards; and (iii) inquiries and discussions with Management in relation to Company’s responsibility
+to act as an agent.
+/s/ Mercurius & Associates LLP
+(Formerly known as AJSH & Co LLP)
+We have served as the Company’s auditor from
+2024 to 2025.
+New Delhi, India
+Date: November 19, 2024
+-F3-
+Table of Contents
+WORLD SCAN PROJECT, INC.
+CONSOLIDATED BALANCE SHEETS
+October 31, 2024
+October 31, 2023
+ASSETS
+Current Assets
+Cash and cash equivalents
+$
+1,634,200
+$
+5,698,883
+Accounts receivable, trade
+902
+125,981
+Other receivables, current
+1,070,404
+-
+Advance payments and prepaid expenses
+4,636,258
+5,122,849
+Inventories, net
+17,045,647
+358,635
+TOTAL CURRENT ASSETS
+24,387,411
+11,306,348
+Non-current assets
+Furniture, fixtures, equipment and leasehold improvements, net
+212,200
+244,277
+Lease asset long term
+677,022
+788,150
+Investment securities
+1,562,093
+1,605,244
+Long term prepaid expenses and security deposits, net
+49,071
+52,769
+Deferred tax assets
+436,572
+27,841
+Other intangible assets, non-current
+85,882
+15,147
+TOTAL NON-CURRENT ASSETS
+3,022,840
+2,733,428
+TOTAL ASSETS
+$
+27,410,251
+$
+14,039,776
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities
+Accrued expenses and other payables
+$
+1,186,679
+$
+983,068
+Accounts payable - related party
+45,532
+19,679
+Income taxes payable
+334,413
+117
+Consumption tax payable
+13,882
+29,027
+Short-term lease liability
+233,160
+186,351
+Customer advance received
+3,391,942
+3,358,529
+Due to related party
+458
+458
+Share application pending allotment
+5,154,136
+120,618
+TOTAL CURRENT LIABILITIES
+10,360,202
+4,697,847
+Non-Current Liabilities
+Lease liability long term
+466,643
+626,242
+TOTAL LIABILITIES
+$
+10,826,845
+$
+5,324,089
+Shareholders' Equity
+Preferred stock ($0.0001 par value, 200,000,000 shares authorized; 10,000,000 shares issued and outstanding as of October 31, 2024 and 2023)
+$
+1,000
+$
+1,000
+Common stock ($0.0001 par value, 200,000,000 shares authorized, 11,560,350 and 10,817,350 shares issued and outstanding as of October 31, 2024 and 2023, respectively)
+1,156
+1,082
+Additional paid-in capital
+10,629,847
+2,063,973
+Accumulated earnings
+8,370,124
+9,138,555
+Accumulated other comprehensive income
+(2,418,721)
+(2,488,923)
+TOTAL SHAREHOLDERS' EQUITY
+$
+16,583,406
+$
+8,715,687
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+$
+27,410,251
+$
+14,039,776
+The
+accompanying notes are an integral part of these audited financial statements.
+-F4-
+Table of Contents
+WORLD SCAN PROJECT, INC.
+CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+Year Ended
+Year Ended
+October 31, 2024
+October 31, 2023
+Revenues
+Revenues
+$
+25,208,229
+$
+288,094
+Revenues, net
+-
+30,698,788
+Total Revenues
+25,208,229
+30,986,882
+Cost of revenues
+17,594,406
+135,307
+Gross profit
+7,613,823
+30,851,575
+OPERATING EXPENSE
+Research and development
+773,289
+18,717,456
+General and administrative expenses
+6,348,433
+17,618,847
+Total operating Expenses
+7,121,722
+36,336,303
+Income (loss) from operations
+492,101
+(5,484,728)
+Other income (expense)
+Other income
+8,642
+31
+Impairment loss on internally developed software
+(1,171,556)
+-
+Other expense
+(95,123)
+(24,351)
+Total other income (expense)
+(1,258,037)
+(24,320)
+Net income (loss) before tax
+(765,936)
+(5,509,048)
+Income tax expense (credit)
+2,495
+(2,092,461)
+NET INCOME (LOSS)
+$
+(768,431)
+$
+(3,416,587)
+OTHER COMPREHENSIVE INCOME (LOSS)
+Foreign currency translation adjustment
+$
+70,202
+$
+(209,975)
+TOTAL COMPREHENSIVE INCOME (LOSS)
+$
+(698,229)
+$
+(3,626,562)
+Income per common share
+Basic
+$
+(0.07)
+$
+(0.32)
+Diluted
+$
+(0.04)
+$
+(0.17)
+Weighted average common shares outstanding
+Basic
+11,218,695
+10,696,528
+Diluted
+21,218,695
+20,696,528
+The accompanying notes are an integral part of these audited financial statements.
+-F5-
+Table of Contents
+WORLD
+SCAN PROJECT, INC.
+CONSOLIDATED
+STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+ACCUMULATED
+ADDITIONAL
+OTHER
+ACCUMULATED
+TOTAL
+PREFERRED
+STOCK
+COMMON
+STOCK
+PAID
+IN
+COMPREHENSIVE
+EARNINGS
+EQUITY
+NUMBER
+AMOUNT
+NUMBER
+AMOUNT
+CAPITAL
+INCOME
+(LOSS)
+(DEFICIT)
+(DEFICIT)
+Balance
+- October 31, 2022
+10,000,000
+$
+1,000
+10,647,350
+$
+1,065
+$
+323,990
+$
+(2,278,948)
+$
+12,555,142
+$
+10,602,249
+Common
+shares sold
+-
+-
+170,000
+17
+1,739,983
+-
+-
+1,740,000
+Net
+loss
+-
+-
+-
+-
+-
+-
+(3,416,587)
+(3,416,587)
+Foreign
+currency translation
+-
+-
+-
+-
+-
+(209,975)
+-
+(209,975)
+Balance
+- October 31, 2023
+10,000,000
+$
+1,000
+10,817,350
+$
+1,082
+$
+2,063,973
+$
+(2,488,923)
+$
+9,138,555
+$
+8,715,687
+Common
+shares sold
+-
+-
+743,000
+74
+8,565,874
+-
+-
+8,565,948
+Net
+loss
+-
+-
+-
+-
+-
+-
+(768,431)
+(768,431)
+Foreign
+currency translation
+-
+-
+-
+-
+-
+70,202
+-
+70,202
+Balance
+- October 31, 2024
+10,000,000
+$
+1,000
+11,560,350
+$
+1,156
+$
+10,629,847
+$
+(2,418,721)
+$
+8,370,124
+$
+16,583,406
+The
+accompanying notes are an integral part of these audited financial statements.
+-F6-
+Table of Contents
+WORLD
+SCAN PROJECT, INC.
+CONSOLIDATED
+STATEMENT OF CASH FLOWS
+Year
+Ended
+Year
+Ended
+October 31,
+2024
+October
+31, 2023
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss)
+$
+(768,431)
+$
+(3,416,587)
+Adjustments to reconcile net income(loss) to net cash provided by (used in) operating activities:
+Depreciation, amortization and impairment
+1,262,259
+102,436
+Lease expense
+260,665
+293,406
+Changes in operating assets and liabilities:
+Accounts receivable
+124,193
+1,730,647
+Advance payments and other prepaid expense
+42,923
+11,293,327
+Inventories
+(16,629,355)
+(363,486)
+Other receivables
+(1,092,302)
+492
+Other current assets
+-
+-
+Deferred tax assets
+(409,757)
+281,087
+Accrued expenses and other payables
+254,505
+(1,469,879)
+Taxes payable
+326,506
+(4,267,861)
+Advance received
+126,235
+(4,039,118)
+ROU asset/liability
+(361,861)
+(314,925)
+Net cash used in operating activities
+(16,864,420)
+(170,461)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Cash paid for purchase of fixed assets
+(49,209)
+(9,649)
+Cash paid for intangible assets
+(77,218)
+-
+Proceeds from refund of leasehold deposits
+-
+11,011
+Cash paid for investment securities
+-
+(1,628,775)
+Net cash used in investing activities
+(126,427)
+(1,627,413)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Stock issuance for cash
+8,565,948
+1,740,000
+Share application money pending allotment
+5,154,136
+122,361
+Net cash provided by financing activities
+13,720,084
+1,862,361
+Net effect of exchange rate changes on cash
+$
+(793,920)
+$
+(201,669)
+Net Change in Cash and Cash Equivalents
+(4,064,683)
+(137,182)
+Cash and cash equivalents - beginning of period
+5,698,883
+5,836,065
+Cash and cash equivalents - end of period
+$
+1,634,200
+$
+5,698,883
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Income taxes paid
+$
+78,243
+$
+1,013,417
+NON-CASH INVESTING AND FINANCING TRANSACTIONS
+ROU Asset/Liability
+$
+-
+$
+-
+The accompanying notes are an integral part of these audited financial statements.
+-F7-
+Table of Contents
+NOTES TO THE
+AUDITED CONSOLIDATED FINANCIAL STATEMENTS
+OCTOBER 31, 2024
+NOTE
+1 - ORGANIZATION AND DESCRIPTION OF BUSINESS
+World Scan Project,
+Inc., a Delaware corporation (“the Company”) was incorporated under the laws of the State of Delaware on October 25, 2019.
+On October 25,
+2019, Ryohei Uetaki, our officer and director, paid for expenses involved with the incorporation of the Company with personal funds on
+behalf of the Company, in exchange for 10,000,000 shares of Common Stock, par value $0.0001 per share and 10,000,000 shares of Series
+A Preferred stock, par value $0.0001 per share, which issuance was exempt from the registration provisions of Section 5 of the Securities
+Act under Section 4(2) of such same said act. The value of the stock provided to Mr. Uetaki, based on the par value of $.0001 per share
+of common stock and Series A Preferred Stock, is valued at $2,000.
+On October 25,
+2019, Ryohei Uetaki was appointed as Chief Executive Officer, Chief Financial Officer, President, Director, Secretary, and Treasurer.
+On January 25,
+2020, the Company entered into and consummated a Share Contribution Agreement with Ryohei Uetaki. Pursuant to this agreement Mr. Uetaki
+gifted to the Company, at no cost, 300 shares of common stock of World Scan Project Corporation, a Japan corporation (“WSP Japan”),
+which represented all of its issued and outstanding shares. The Company has since gained a 100% interest in the issued and outstanding
+shares of WSP Japan’s common stock and WSP Japan is now a wholly owned subsidiary of the Company. The Company and WSP Japan were
+under common control at the time of the acquisition.
+WSP Japan was
+incorporated under the laws of Japan on January 22, 2020. Currently, WSP Japan is headquartered in Tokyo, Japan. The Company’s primary
+business is focused on developing and manufacturing of autonomous aerial vehicles including drones.
+On February
+19, 2020, Ryohei Uetaki gifted 7,000,000 shares of our Common Stock and 10,000,000 shares of our Series A Preferred Stock, which represented
+all of our issued and outstanding shares of Preferred Stock at the time, to SKYPR LLC, a Delaware Limited Liability Company (referred
+to herein as “SKYPR LLC”). Our CEO Ryohei Uetaki owns and controls 100% of the membership interests in SKYPR LLC.
+In September,
+2020, the Company entered into subscription agreements with 41 shareholders. Pursuant to these agreements, the Company issued 647,350
+shares of common stock in total to these shareholders and received $323,675 as aggregate consideration. At the time of purchase the price
+paid per share by each shareholder was the equivalent of about 0.50 USD.
+These shares
+were sold pursuant to the Company’s effective S-1 Registration Statement deemed effective on August 28, 2020 at 4pm EST.
+In June and August of 2023, the Company entered into
+subscription agreements with 10 shareholders. Pursuant to these agreements, the Company issued 170,000 shares of Common Stock in total
+to these shareholders and received $1,740,000 as aggregate consideration. At the time of purchase the price paid per share by each shareholder
+was approximately 10.00 USD. These shares were sold pursuant to the Company’s effective S-1 Registration Statement deemed effective
+on May 25, 2023 at 4pm EST. This offering has been completed and is no longer ongoing.
+On August 13, 2024, we filed a Form 8-K with the SEC
+to announce that Mr. Ryohei Uetaki had chosen to extend the offering period of the S-1 Registration Statement, which was declared effective
+by the Securities and Exchange Commission at 4:00 PM EST on August 23, 2023 by an additional 90 calendar days. As a result, the offering
+period was extended to and ended on November 21, 2024.
+We operate through
+our wholly owned subsidiary, World Scan Project Corporation, a Japanese Company. We are a start-up stage company currently focused on
+developing, designing and selling small sized drones which may be used for a variety of purposes.
+Our principal
+executive offices are located at 2-18-23, Nishiwaseda, Shinjuku-Ku, Tokyo, 169-0051, Japan.
+The Company
+has elected October 31st as its year end.
+NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Principles
+of Consolidations
+The consolidated
+financial statements include the accounts of the Company and its wholly owned subsidiary, World Scan Project Corporation, whose registered
+address is 2-18-23, Nishiwaseda, Shinjuku-Ku, Tokyo, 162-0051, Japan. All significant intercompany accounts and transactions have been
+eliminated.
+Basis of
+Presentation
+This summary of significant accounting policies is
+presented to assist in understanding the Company’s financial statements. These accounting policies conform to accounting principles,
+generally accepted in the United States of America, and have been consistently applied in the preparation of the financial statements.
+Reclassification
+Certain amounts in the prior period have been reclassified
+to conform to the current period presentation.
+Use of Estimates
+The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. In the opinion of management, all adjustments necessary in order to make the financial
+statements not misleading have been included. Actual results could differ from those estimates.
+Advertising and Promotion
+All advertising, promotion and marketing
+expenses, including commissions, are expensed when incurred.
+Leases
+The Company
+capitalizes all leased assets pursuant to ASU 2016-02, Leases (Topic 842) (“Topic 842”), which requires lessees to recognize
+right-of-use (“ROU”) assets and lease liability, initially measured at present value of the lease payments, on its balance
+sheet for leases with terms longer than 12 months and classified as either financing or operating leases. The Company excludes short-term
+leases having initial terms of 12 months or less from Topic 842 as an accounting policy election and recognizes rent expense on a straight-line
+basis over the lease term.
+Related party
+transaction
+A related party
+is generally defined as (i) any person that holds 10% or more of the Company’s securities and their immediate families, (ii) the
+Company’s management, (iii) someone that directly or indirectly controls, is controlled by or is under common control with the
+Company, or (iv) anyone who can significantly influence the financial and operating decisions of the Company. A transaction is considered
+to be a related party transaction when there is a transfer of resources or obligations between related parties. The Company conducts
+business with its related parties in the ordinary course of business.
+Transactions
+involving related parties cannot be presumed to be carried out on an arm’s-length basis, as the requisite conditions of competitive,
+free market dealings may not exist. Representations about transactions with related parties, if made, shall not imply that the related
+party transactions were consummated on terms equivalent to those that prevail in arm’s-length transactions unless such representations
+can be substantiated.
+Cash and
+Cash Equivalents
+The Company considers all highly liquid investments with an original maturity
+of six months or less when purchased to be cash equivalents.
+Accounts
+Receivable and Credit Policies
+Accounts receivable are recognized and carried at
+the original invoice amount less allowance for any uncollectible amounts. An estimate for doubtful accounts is made when collection of
+the full amount is no longer probable. Bad debts are written off as incurred. If there is a claim for a defect of product within four
+days after arrival of goods, the Company shall accept a goods return.
+Customer
+Advance Payments and Prepaid Expenses
+Advance payments and prepaid expenses are cash paid amounts that represent
+costs incurred from which a service or benefit is expected to be derived in the future.
+Inventories
+Inventories, consisting of products available for sale, are primarily accounted
+for using the first-in, first-out (“FIFO”) method, and are valued at the lower of cost or market value. This valuation requires
+the Company to make judgments, based on currently available information, about the likely method of disposition, such as through sales
+to individual customers, returns to product vendors, or liquidations, and expected recoverable values of each disposition category.
+Fixed assets
+and depreciation
+Property, plant and equipment are stated at cost less
+depreciation and impairment loss. The initial cost of the assets comprises its purchase price and any directly attributable costs of bringing
+the asset to its working condition and location for its intended use. Depreciation is calculated using the straight-line method over the
+shorter of the estimated useful life of the respective assets as follows: computer software developed or acquired for internal use, 5
+years; leasehold improvements, 10 years; and tools, furniture and fixtures, 2 to 15 years.
+Investment and Securities
+In accordance with ASC 321-10-35-2, the Company elected to measure an equity
+security without a readily determinable fair value at its cost subject to impairment. The Company has not identified any observable price
+changes in orderly transactions for the identical or a similar investment of the same issuer.
+-F8-
+Table of Contents
+Foreign currency
+translation
+The Company
+maintains its books and records in its local currency, Japanese YEN (“JPY”), which is a functional currency as being the primary
+currency of the economic environment in which its operation is conducted. Transactions denominated in currencies other than the functional
+currency are translated into the functional currency at the exchange rates prevailing at the dates of the transaction. Monetary assets
+and liabilities denominated in currencies other than the functional currency are translated into the functional currency using the applicable
+exchange rates at the balance sheet dates. The resulting exchange differences are recorded in the statements of operations.
+The reporting
+currency of the Company is the United States Dollars (“US$”) and the accompanying consolidated financial statements have
+been expressed in US$. In accordance with ASC Topic 830-30, “Translation of Financial Statement”, assets and liabilities
+of the Company whose functional currency is not US$ are translated into US$, using the exchange rate on the balance sheet date. Revenues
+and expenses are translated at weighted average quarterly rates prevailing during the period. The gains and losses resulting from translation
+of financial statements are recorded as a separate component of accumulated other comprehensive income within the statements of shareholders’
+equity.
+Comprehensive
+income or loss
+ASC Topic 220, “Comprehensive Income”,
+establishes standards for reporting and display of comprehensive income or loss, its components and accumulated balances. Comprehensive
+income or loss as defined includes all changes in equity during a period from non-owner sources. Accumulated comprehensive income, as
+presented in the accompanying consolidated statements of shareholders’ equity consists of changes in unrealized gains and losses
+on foreign currency translation.
+Revenue recognition
+The Company adopted ASC 606 – Revenue from contracts
+with Customers: (1) identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the
+transaction price; (4) allocate the transaction price to each performance obligation in the contract; and (5) recognize revenue when each
+performance obligation is satisfied.
+Revenue amount
+represents the invoiced value, net of a value-added tax (“Consumption Tax”) and applicable local government levies. The Consumption
+Tax on sales is calculated at 10% of gross sales. The Company is subject to consumption taxes in Japan for the years ended October 31,
+2024 and 2023.
+Revenue
+from product sales
+Revenue for products is recognized when the products
+are delivered to the customer and the customer completes the product inspection. Cash receipts for undelivered products are recorded as
+advance received. As of October 31, 2024, the Company had no advance received related to this stream. As of October 31, 2024, the Company
+had advances received related to the sale of crypto miners totaling $3,391,942.
+Revenue
+from crypto miners sales, net
+During the period ended October 31, 2023, the Company
+acted as an agent in facilitating the sales of crypto miners, produced by a third-party manufacturer, to customers of the Company. Revenue
+for the sale of crypto miners was recognized when the miners were delivered to the customers and the customers completed the inspection
+of the miners. Management assessed the Company’s contracts with the third-party manufacturer and customers in consideration of ASC
+606, “Revenue from Contracts with Customers”, and determined the Company as the agent in said transactions.
+Research and Development
+The Company accounts for research and development
+costs in accordance with ASC subtopic 730-10, Research and Development (“ASC 730-10”).
+Under ASC 730-10, all research and development costs
+must be charged to expense as incurred. Accordingly, internal research and development costs are expensed as incurred. Third-party research
+and development costs are expensed when the contracted work has been performed or as milestone results have been achieved as defined under
+the applicable agreement.
+The Company also applies the principles of ASC 985-20,
+Accounting for the Costs of Computer Software to Be Sold, Leased, or Otherwise Marketed (“ASC 985-20”). ASC 985-20 requires
+that software development costs incurred in conjunction with product development be charged to research and development expense until
+technological feasibility is established.
+The Company records expenses for research and development
+activities based on Management’s estimates of services received and efforts expended pursuant to contracts with vendors that conduct
+research and development on the Company’s behalf. The financial terms vary from contract to contract and may result in uneven payment
+flows as compared with services performed or products delivered. As a result, the Company is required to estimate research and development
+expenses incurred during the period, which impacts the amount of Advance payments and prepaid expenses balances related to such costs
+as of each balance sheet date. Management estimates the amount of work completed through discussions with internal personnel and the contract
+research and contract manufacturing entity as to the progress or stage of completion of the services. The Company’s estimates are
+based on a number of factors, including the Company’s knowledge of the status of each of the research and development project milestones.
+Income Taxes
+The Company accounts for income taxes under ASC 740,
+“Income Taxes.” Under the asset and liability method of ASC 740, deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the financial statements carrying amounts of existing assets and liabilities
+and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable
+income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period the enactment occurs. A valuation allowance is provided for
+certain deferred tax assets if it is more likely than not that the Company will not realize tax assets through future operations. The
+Company recognized deferred tax assets of $436,572 and $27,841 as of October 31, 2024 and October 31, 2023, respectively.
+Basic Earnings
+(Loss) Per Share
+The Company
+computes basic and diluted earnings (loss) per share in accordance with ASC Topic 260, Earnings per Share. Basic earnings
+(loss) per share is computed by dividing net income (loss) by the weighted average number of common shares outstanding during the reporting
+period. Diluted earnings (loss) per share reflects the potential dilution that could occur if stock options and other commitments to issue
+common stock were exercised or equity awards vest resulting in the issuance of common stock that could share in the earnings of the Company.
+Each shareholder of Series A Preferred Stock may convert their shares at the option of the holder thereof into an equal amount of shares
+of any other class or series of the Company’s stock on a one to one basis, therefore the Company computes diluted earnings (loss)
+per shares by dividing net income (loss) by the sum of the total of weighted average number of common shares and total preferred shares
+outstanding.
+Basic and diluted earnings per share are as follows:
+October 31,
+2024
+2023
+Basic earnings per share
+$
+(0.07)
+$
+(0.32)
+Diluted earnings per share
+$
+(0.04)
+$
+(0.17)
+Fair Value
+of Financial Instruments
+The Company’s
+balance sheet includes certain financial instruments. The carrying amounts of current assets and current liabilities approximate their
+fair value because of the relatively short period of time between the origination of these instruments and their expected realization.
+ASC 820, Fair
+Value Measurements and Disclosures, defines fair value as the exchange price that would be received for an asset or paid to transfer
+a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between
+market participants on the measurement date. ASC 820 also establishes a fair value hierarchy that distinguishes between (1) market
+participant assumptions developed based on market data obtained from independent sources (observable inputs) and (2) an entity’s
+own assumptions about market participant assumptions developed based on the best information available in the circumstances (unobservable
+inputs). The fair value hierarchy consists of three broad levels, which gives the highest priority to unadjusted quoted prices in active
+markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3). The three levels of the
+fair value hierarchy are described below:
+- Level 1 –
+Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities.
+- Level 2 –
+Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly,
+including quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities
+in markets that are not active; inputs other than quoted prices that are observable for the asset or liability (e.g., interest rates);
+and inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+- Level 3 –
+Inputs that are both significant to the fair value measurement and unobservable.
+Recently
+Issued Accounting Pronouncements
+The Company does not believe that any recently issued
+effective pronouncements, or pronouncements issued but not yet effective, if adopted, would have a material effect on the accompanying
+financial statements.
+Concentration
+of Purchases
+Net purchase
+from suppliers accounting for 10% or more of total purchases are as follows:
+For the year
+ended October 31, 2024, 45.85% of the inventories were purchased from CU Holdings Co., Ltd, a trading company for Web3 Computing Corp,
+in the amount of $8,067,098, 13.25% of the inventories were purchased from Musashi, Inc., a trading company for Web3 Computing Corp, in
+the amount of $2,331,489, and 12.88% of the inventories were purchased from Web3 Computing Corp in the amount of $2,266,128.
+For the period
+ended October 31, 2023, 100% of the inventories were purchased from G-Force in the amount of $471,510.
+Concentration
+of Revenues
+Revenues from
+customers accounting for 10% or more of total revenues are as follows:
+For the year
+ended October 31, 2024, 30.45% of total revenue was generated from DN Branch, LLC in the amount of $7,675,980, 14.8% of total revenue
+was generated from Drone Net, Inc. in the amount of $3,732,072 and 11.95% of total revenue was generated from I’rom Co., Ltd in
+the amount of $3,013,002.
+For the year
+ended October 31, 2023, 21% of total revenue was generated from Kinoshita Group in the amount of $6,610,618.
+-F9-
+Table of Contents
+NOTE
+3 - ACCOUNTS RECEIVABLE
+Accounts receivable
+from customers totaled $902 as of October 31, 2024 and $125,981 as of October 31, 2023. No bad debt allowance was provided
+as of October 31, 2024 and October 31, 2023.
+Concentration
+of Accounts Receivable
+Accounts receivable
+from customers accounting for 10% or more of total accounts receivable are as follows:
+As of October 31, 2024, 100% of total accounts receivable
+was owed to the Company by Sanyukai Medical Corp in the amount of $902.
+As
+of October 31, 2024, 99.86% of total accounts receivable was owed to the Company by Drone Net Co., Ltd, in the amount of $125,811.
+NOTE
+4 - ADVANCE PAYMENTS AND PREPAID EXPENSES
+Advance payments are comprised of the payments for
+the undelivered products and other deliverables. As of October 31, 2024 and October 31, 2023, the Company had advance payments and other
+prepaid expenses of $4,636,258 and $5,122,849, respectively. Details of the advance payments as of October 31, 2024 and October 31, 2023
+are as follows:
+October 31,
+2024
+October 31,
+2023
+Purchase of products from Web3 Computing Corp
+$
+4,295,746
+$
+4,932,546
+Purchase of products from Sankyu Co., Ltd
+28,009
+28,782
+Purchase of products from I’rom Group Co.
+134,438
+-
+Purchase of products Rogyx Co., Ltd
+67,401
+-
+Purchase of consulting services from IBC Consulting
+-
+8,829
+Other advances and prepaid expenses
+110,654
+152,692
+Totals
+$
+4,636,258
+$
+5,122,849
+NOTE
+5 - FIXED ASSETS
+The Company recognizes purchased assets with a useful
+life longer than one year as fixed or non-current assets. These assets are depreciated using the straight-line method of depreciation
+over the estimated useful life of the assets.
+During the year ended October 31, 2024, the Company
+purchased additional long-term assets totaling $1,218,854, including software. The Company is depreciating fixed assets over a 1-39 year
+period once they were put into use. Depreciation expense for the year ended October 31, 2024 was $1,251,414. The Company recorded an impairment
+expense related to the software asset after an evaluation determined the asset value should be reduced by the amount of the professional
+fees incurred in the development of the software (see Note 11).
+During the year ended October 31, 2023, the Company
+purchased additional long-term assets totaling $9,649.
+The Company is depreciating fixed assets over a 1-39 year period once they were put into use. Depreciation expense for the year
+ended October 31, 2023 was $51,131.
+NOTE 6 - ADVANCE RECEIVED
+Advance received is the amount the Company received
+in advance from the customer for their orders placed with us. As of October 31, 2024 advance received in the amount of $3,391,942 was
+related to our sales of cryptocurrency miners which represents a large amount in both number of transactions and values.  As of
+October 31, 2023, advance received in the amount of $3,358,529 was
+related to our sales of cryptocurrency miners which represents a large amount in both number of transactions and values.
+NOTE
+7 - Investment and Securities
+During the year ended October 31, 2023, the company
+has invested $1.6 million (JPY 240 million) in 400 shares of Company A. For that investment, the Company has received an exclusive right
+to commercialize IOT Edge Data Center Business. Further, the Company is developing IOT Terminal for which the Company has appointed WEB3
+and NBCT to develop the said technology and Company A is developing Immersion cooling technology (IOT Edge Data Centre).
+There is no impairment required for such investment
+as at October 31, 2024 and October 31, 2023.
+NOTE
+8 - REVENUE
+During the year ended October 31, 2024, the Company
+recorded gross revenues of $25,208,229, which included $21,391,912 in sales of crypto miners. Revenue for the sale of crypto miners was
+recognized when the miners were delivered to the customers and the customers completed the inspection of the miners. Management assessed
+the Company’s contracts with the third-party manufacturer and customers and its inventory procedures in consideration of ASC 606,
+“Revenue from Contracts with Customers”, and determined the Company did not act as an agent in said transactions. As such,
+the company recognized crypto miner sales as gross revenue.
+During the year ended October 31, 2023, the Company
+acted as an agent in facilitating the sales of crypto miners, produced by a third-party manufacturer, to customers of the Company. Revenue
+for the sale of crypto miners was recognized when the miners were delivered to the customers and the customers completed the inspection
+of the miners. Management assessed the Company’s contracts with the third-party manufacturer and customers in consideration of ASC
+606, “Revenue from Contracts with Customers”, and determined the Company as the agent in said transactions. As such, the company
+recognized crypto miner sales net of costs.
+Year Ended
+October 31,
+2024
+2023
+Revenues
+Product sales
+$
+3,732,656
+$
+203,225
+Product sales – related party
+-
+-
+Crypto miners sales, gross
+21,391,912
+-
+Crypto miners sales, net
+-
+30,698,788
+Drone imaging and video production
+51,838
+81,187
+Program for educational institution
+-
+-
+Other
+31,823
+3,682
+Total Revenue Under ASC 606
+$
+25,208,229
+$
+30,986,882
+NOTE 9 -
+COST OF REVENUES
+During the year ended October
+31, 2024, contracts with crypto miner customers changed to the extent that management changed the Company’s reporting from sales
+by agent, net of cost of goods sold, to that of gross sales with related cost of goods sold (see Note 8).
+NOTE
+10 - RESEARCH & DEVELOPMENT
+During the year ended October 31, 2024, the Company
+incurred research and development expenses of $773,289 for three products the Company intends to offer for sale in the future.
+The Company
+incurred Research and Development expenditure totaling $18,717,456 in respect of various technologies mainly for two products Company
+intends to offer for sale in the future during the year ended October 31, 2023. All the technologies were in progress as on October 31, 2023, and all the expenditure incurred till year end was expensed in accordance with ASC 985 “Software – Costs of Software
+to Be Sold, Leased, or Marketed” and ASC 730 “Research and Development Costs”. Subsequent to year ended October 31, 2023, the Company has made a capitalization in accordance with ASC 985 “Software – Costs of Software to Be Sold, Leased,
+or Marketed”. Such capitalization has been made by the Company considering the fact that the Net realizable value/Future Economic
+Benefits exceeds unamortized cost. Expenses totaling $12,889,323 were recorded for R&D specifically related to producing a cost-effective
+cooling system for data centers. Expenses totaling $5,077,179 were recorded for R&D specifically related to producing technology
+to be used by other companies to produce NFTs, mainly for marketing purposes. There were also general R&D costs of $750,954. The
+total R&D expense contributed to a net loss before tax for the year ended October 31, 2023 of $3,416,587, which necessitated an adjustment
+to the accrual for income taxes payable resulting in a tax credit of $2,092,461 for the year (see Note 11).
+NOTE 11 - IMPAIRMENT LOSS
+During the year
+ended October 31. 2024, the Company made a capitalization in accordance with ASC 985 “Software – Costs of Software to Be Sold,
+Leased, or Marketed”. Such capitalization was made by the Company considering the fact that the Net realizable value/Future Economic
+Benefits exceeded unamortized cost. However, the Company also recorded an impairment expense related to the software asset after
+an evaluation determined the asset value should be reduced by the amount of the professional fees incurred in the development of the software
+(see Note 10).
+NOTE 12 -
+INCOME TAXES
+For the years ended October 31, 2024 and 2023, the
+Company had income tax expense(credit) in the amount of $2,495 and ($2,092,461), respectively. The income tax credit for year ended
+October 31, 2023 was due to the adjustment to income taxes payable resulting from the net loss before taxes for the year ended October
+31, 2023 of $3,416,587. During the years ended October 31, 2024 and 2023, the Company paid income taxes totaling $78,243 and $1,013,417,
+respectively.
+United States
+The Company was incorporated under the laws of the
+State of Delaware on October 25, 2019. The U.S. federal income tax rate is 21%.
+Japan
+The Company
+conducts its major businesses in Japan through WSP Japan and is subject to tax in this jurisdiction. As a result of its business activities,
+the Company files tax returns that are subject to examination by the local tax authority.
+The Company is subject to a number of income taxes, which, in aggregate,
+represent a statutory tax rate approximately as follows:
+Company’s assessable profit
+For the year ended October 31,
+Up to JPY 4 million
+Up to JPY 8 million
+Over JPY 8 million
+2024
+23.15%
+25.73%
+38.07%
+As of October 31, 2024 and October 31, 2023, the Company had income tax
+payable of $334,413 and $117, respectively.
+As of October 31, 2024 and October 31, 2023, the Company had deferred tax
+assets of $31,517 and $27,841, respectively.
+For the years
+ended October 31, 2024 and 2023, the Company’s income tax expenses (credit) are as follows:
+For the Years Ended
+October 31,
+2024
+2023
+Current
+$
+420,386
+$
+(2,352,130)
+Deferred
+4,515
+259,669
+Total
+$
+415,871
+$
+(2,092,461)
+A reconciliation
+of the effective income tax rates reflected in the accompanying consolidated statements of operations to the Japanese statutory tax rate
+for the years ended October 31, 2024 and 2023 is as follows:
+For the Years Ended
+October 31,
+2024
+2023
+Japanese statutory tax rate
+34.59
+%
+34.59
+%
+Change in valuation allowance
+-
+(0.19)
+Tax credit
+-
+(9.00)
+Effective tax rate
+34.59
+%
+25.40
+%
+The tax effects
+of temporary differences that give rise to the deferred tax assets at October 31, 2023 and 2022 are presented below:
+October 31,
+October 31,
+2024
+2023
+Deferred tax assets
+Business tax payable
+$
+30,530
+$
+-
+Loss carry forward
+97,797
+26,255
+Other
+987
+89,684
+Subtotal
+129,314
+115,939
+Less valuation allowance
+(97,797
+)
+(88,098
+)
+Total deferred tax assets
+$
+31,517
+$
+27,841
+The realization
+of deferred tax assets is dependent upon the generation of sufficient taxable income of the appropriate character in future periods. The
+Company regularly assesses the ability to realize its deferred tax assets and establish a valuation allowance if it is more-likely-than-not
+that some portion of the deferred tax assets will not be realized. The Company weighs all available positive and negative evidence, including
+its earnings history and results of recent operations, projected future taxable income, and tax planning strategies.
+The amount of
+the deferred tax asset considered realizable, however, could be adjusted if estimates of future taxable income during the carryforward
+period are reduced or increased or if objective negative evidence in the form of cumulative losses is no longer present and additional
+weight may be given to subjective evidence such as the Company’s projections for growth. The adjustments of a valuation allowance
+against deferred tax assets may cause greater volatility in the effective tax rate in the periods in which the valuation allowance is
+adjusted. For the year ended October 31, 2023, certain valuation allowance was released for WSP Japan considering the collectability of
+deferred tax assets.
+As of October 31, 2023, WSP
+Japan had net operating losses which can be carried forward for income tax purposes of $75,904 to reduce future taxable income. If not
+used, these carryforwards will expire in 2033.
+NOTE 13 -
+SHAREHOLDERS’ EQUITY
+Preferred
+Stock
+The authorized
+preferred stock of the Company consists of 200,000,000 shares with a par value of $0.0001. The authorized Series A Preferred Stock of
+the Company consists of 100,000,000. There were 10,000,000 shares of Series A Preferred Stock issued and outstanding as of October 31,
+2024 and October 31, 2023.
+The rights,
+preferences, privileges, restrictions and other matters relating to the Series A Preferred Stock are as follows:
+(a) Each share
+of Series A Preferred Stock shall have no voting rights;
+(b) Each shareholder
+of Series A Preferred Stock may convert their shares at the option of the holder thereof into an equal amount of shares of any other class
+or series of the Company’s stock on a one to one basis.
+Common
+Stock
+The authorized
+common stock of the Company consists of 200,000,000 shares with a par value of $0.0001. There were 11,560,350 and 10,817,350 shares of
+common stock issued and outstanding as of October 31, 2024 and October 31, 2023, respectively.
+During the year
+ended October 31, 2024, 743,000 shares of common stock were sold to 43 shareholders for proceeds totaling $8,565,948 by an S-1 offering
+deemed effective on August 23, 2023 and extended to November 2024.
+During the year
+ended October 31, 2023, 170,000 shares of common stock were sold to 9 shareholders for proceeds totaling $1,500,000 by S-1 offering deemed
+effective on May 25, 2023. In addition, due to another offering by S-1 deemed effective on August 23, 2023, proceeds totaling $240,000
+from 1 shareholder has been recorded. The latter offering has not been closed yet. On August 13, 2024, we filed a Form 8-K with
+the SEC to announce that Mr. Ryohei Uetaki had chosen to extend the offering period of the S-1 Registration Statement, which was declared
+effective by the Securities and Exchange Commission at 4:00 PM EST on August 23, 20234 by an additional 90 calendar days. As a result,
+the offering will now conclude on or about November 21, 2024.
+Share application money pending allotment
+During the year ended October 31, 2024, funds totaling
+$5,154,136 were received by the Company, along with applications for the purchase of shares, from 31 perspective shareholders. In November
+2024, the common shares, totaling 437,000 were issued to the shareholders.
+NOTE
+14 - LEASE ASSETS AND LIABILITIES
+Our adoption of ASU 2016-02, Leases (Topic 842), and
+subsequent ASUs related to Topic 842, requires us to recognize substantially all leases on the balance sheet as an ROU asset and a corresponding
+lease liability. The new guidance also requires additional disclosures as detailed below. We adopted this standard on the effective date
+of November 1, 2020 and used this effective date as the date of initial application. Under this application method, we were not required
+to restate prior period financial information or provide Topic 842 disclosures for prior periods. We elected the ‘package of practical
+expedients,’ which permitted us to not reassess our prior conclusions related to lease identification, lease classification, and
+initial direct costs, and we did not elect the use of hindsight.
+We determine
+if a contract is a lease at the inception of the arrangement. We review all options to extend, terminate, or purchase the ROU assets,
+and when reasonably certain to exercise, we include the option in the determination of the lease term and lease liability. We have six
+operating leases related to our office space in Tokyo with remaining lease terms of 1 to over 3 years. We recognized $266,951 and $293,406
+in operating lease costs for the years ended October 31, 2024 and October 31, 2023, respectively.
+Lease ROU assets
+and liabilities are recognized at commencement date of the lease, based on the present value of lease payments over the lease term. The
+lease ROU asset also includes any lease payments made and excludes any lease incentives. When readily determinable, we use the implicit
+rate in determining the present value of lease payments. When leases do not provide an implicit rate, we use our incremental borrowing
+rate based on the information available at the lease commencement date, including the lease term.
+The tables below
+present financial information associated with our leases. As noted above, we adopted Topic 842 using a transition method that does
+not require application to periods prior to adoption.
+Balance Sheet Classification
+October 31, 2024
+October 31, 2023
+Right-of-use assets
+Lease asset long
+$
+677,022
+$
+788,150
+Current lease liabilities
+Short-term lease liability
+233,160
+186,351
+Non-current lease liabilities
+Lease liability long term
+466,643
+626,242
+Maturities of lease liabilities as of October 31, 2024 are as follows:
+2025
+241,145
+2026
+94,894
+2027
+78,105
+2028 and beyond
+312,419
+Total
+726,563
+Add(Less): Imputed interest
+(26,760)
+Present value of lease liabilities
+699,803
+NOTE 15 -
+ACCRUED EXPENSES AND OTHER PAYABLES
+Accrued expenses and other payables are comprised
+of trade accounts payable, accrued payroll tax liabilities and accrued expenses. As of October 31, 2024 and October 31, 2023, the Company
+had accrued expenses and other payables of $1,189,679 and $983,068, respectively. Details of the
+accrued expenses and other payables as of October 31, 2024 and October 31, 2023 are as follows:
+October 31,
+2024
+October 31, 2023
+Accounts payable, trade
+$
+1,109,345
+$
+893,805
+Accounts payable for employees
+63,631
+43,106
+Accrued payroll liabilities
+13,703
+46,157
+Totals
+$
+1,186,679
+$
+983,068
+NOTE 16 -
+RELATED-PARTY TRANSACTIONS
+Loan to
+the Company
+As of October
+31, 2024, our CEO and Director, Ryohei Uetaki, has advanced to the Company $45,532 for salary and $458 for expenses. This advance
+is considered as a loan to the Company which is unsecured, noninterest-bearing and payable on demand.
+As of October
+31, 2023, our CEO and Director, Ryohei Uetaki, has advanced to the Company $19,679
+for salary and $458 for
+expenses. This advance is considered as a loan to the Company which is unsecured, noninterest-bearing and payable on demand.
+NOTE 17 -
+SUBSEQUENT EVENTS
+The Company has evaluated subsequent events
+through September 2, 2025, the date on which the consolidated financial statements were available to be issued and has found no
+material transactions to report except for the following.
+Subsequent to October 31, 2024, 437,000 shares
+of common stock were issued to 31 shareholders. Payments for these shares were received by the Company prior to October 31, 2024 and these
+funds, totaling $5,154,136, are reported as “Share application pending allotment” in the October 31, 2024 consolidated financial
+statements.
+On May 19, 2025, the Board of Directors of World
+Scan Project, Inc. (or the “Company”) approved the dismissal of Mercurius & Associates LLP (“Mercurius”) as
+the Company’s independent registered public accounting firm, to be effective on May 21, 2025.
+On May 21, 2025, the Board of Directors approved
+the engagement of BCRG Group (PCAOB ID: 7158) as the Company’s independent registered public accounting firm for the audit of the
+fiscal year ended October 31, 2024, and any reviews of interim periods thereafter.
+-F10-
+Table of Contents
+Item 9. Changes in and
+Disagreements with Accountants on Accounting and Financial Disclosure.
+On May 19, 2025, the Board
+of Directors of World Scan Project, Inc. (or the “Company”) approved the dismissal of Mercurius & Associates LLP (“Mercurius”)
+as the Company’s independent registered public accounting firm, to be effective on May 21, 2025.
+The report of Mercuriuson
+the Company’s consolidated financial statements for fiscal years ended October 31, 2023 and 2024 included in the Company’s
+annual report on Form 10-K for the year ended October 31, 2023, did not contain an adverse opinion or a disclaimer of opinion, nor was
+it qualified or modified as to uncertainty, audit scope or accounting principle, except that such report expressed substantial doubt regarding
+the Company’s ability to continue as a going concern.
+There were no (1) disagreements between the Company and Mercurius
+regarding accounting principles, financial statement disclosures, or auditing scope or procedures, as defined in Item 304(a)(1)(iv) of
+Regulation S-K, nor (2) reportable events as outlined in Item 304(a)(1)(v) of Regulation S-K.
+On May 21, 2025, the Board
+of Directors approved the engagement of BCRG Group (PCAOB ID: 7158) as the Company’s independent registered public accounting firm
+for the audit of the fiscal year ended October 31, 2024, and any reviews of interim periods thereafter.
+During the fiscal year ended
+October 31, 2023, as well as the prior fiscal years, neither the Company nor anyone on its behalf, consulted with BCRG Group regarding
+(1) the application of accounting principles to a specified transaction, completed or proposed, or the type of audit opinion that might
+be rendered on the Company's financial statements, and neither a written report nor oral advice was provided to the Company that BCRG
+Group concluded was an important factor considered by the Company in reaching a decision as to any accounting, auditing or financial reporting
+issue, or (2) any matter that was either the subject of a disagreement (as defined in Item 304(a)(1)(iv) of Regulation S-K and the related
+instructions) or a reportable event (as described in Item 304(a)(1)(v) of Regulation S-K).
+Item 9A. Controls and Procedures.
+Disclosure Controls and Procedures
+The Company has adopted and maintains disclosure controls
+and procedures that are designed to provide reasonable assurance that information required to be disclosed in the reports filed under
+the Exchange Act, such as this annual report, is collected, recorded, processed, summarized and reported within the time periods specified
+in the rules of the SEC. The Company’s disclosure controls and procedures are also designed to ensure that such information is accumulated
+and communicated to management to allow timely decisions regarding required disclosure. As required under Exchange Act Rule 13a-15, the
+Company’s management, including the Chief Executive Officer who also serves as our Principal Financial Officer, has conducted an
+evaluation of the effectiveness of disclosure controls and procedures as of the end of the period covered by this annual report. Based
+on that evaluation, the Chief Executive Office who also serves as our Principal Financial Officer concluded that the disclosure controls
+and procedures are ineffective.
+Our Chief Executive Officer, Ryohei Uetaki, has reviewed
+the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) as of the
+end of the period covered by the report October 31, 2023 and has concluded that (i) the Company’s disclosure controls and procedures
+are not effective to ensure that material information relating to the Company is recorded, processed, summarized, and reported within
+the time periods specified in the rules and forms of the Commission, and (ii) the Company’s controls and procedures have not been
+designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange
+Act is accumulated and communicated to the Company's management, including its principal executive and principal financial officers, or
+persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure.
+Management’s Report on Internal Control over Financial Reporting
+The Company’s management is responsible for
+establishing and maintaining adequate internal control over financial reporting, as defined in Exchange Act Rule 13a-15(f). The Company’s
+internal control over financial reporting is designed to provide reasonable assurance to the Company’s management and board of directors
+regarding the preparation and fair presentation of published financial statements. Management conducted an assessment of the Company’s
+internal control over financial reporting based on the framework and criteria established by the Committee of Sponsoring Organizations
+of the Treadway Commission in Internal Control – Integrated Framework issued in 2013. Based on the assessment, management concluded
+that, as of October 31, 2024, the Company’s internal control over financial reporting is ineffective based on those criteria.
+The Company’s management, including its Chief
+Executive Officer who also serves as our Chief Financial Officer, does not expect that the Company’s disclosure controls and procedures
+and its internal control processes will prevent all error and all fraud. A control system, no matter how well conceived and operated,
+can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control
+system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.
+Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control
+issues and instances of error or fraud, if any, within the Company have been detected. These inherent limitations include the realities
+that judgments in decision-making can be faulty, and that the breakdowns can occur because of simple error or mistake. Additionally, controls
+can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the control.
+The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can
+be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls
+may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because
+of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and may not be detected.
+However, these inherent limitations are known features of the financial reporting process. Therefore, it is possible to design into the
+process safeguards to reduce, though not eliminate, this risk.
+The matters
+involving internal controls and procedures that our Chief Executive Officer considered to be material weaknesses under the standards of
+the Committee of Sponsoring Organizations of Treadway Commission were: domination of management by a single individual without adequate
+compensating controls, lack of a majority of outside directors on board of directors, inadequate segregation of duties consistent with
+control objectives, lack of well-established procedures to identify, approve and report related party transactions, and lack of an audit
+committee.
+Management believes
+that the material weaknesses did not have an effect on our financial results. However, management believes that the lack of a functioning
+audit committee and inadequate segregation of duties results in ineffective oversight in the establishment and monitoring of required
+internal controls and procedures, which could result in a material misstatement in our financial statements in future periods.
+Management recognizes
+that its controls and procedures would be substantially improved if we had an audit committee and two individuals serving as officers
+and as such is actively seeking to remediate this issue.
+Management’s Remediation Initiatives
+In an effort to remediate the identified material
+weaknesses and other deficiencies and enhance our internal controls, we have initiated, or plan to initiate, the following series of measures:
+We have increased our personnel resources and technical
+accounting expertise to remediate material weakness in internal control over financial reporting. We plan to appoint one or more outside
+directors to our board of directors who shall be appointed to an audit committee resulting in a fully functioning audit committee who
+will undertake the oversight in the establishment and monitoring of required internal controls and procedures such as reviewing and approving
+estimates and assumptions made by management when funds are available to us.
+Management believes that the appointment of one or
+more outside directors, who shall be appointed to a fully functioning audit committee, will remedy the lack of a functioning audit committee
+and a lack of a majority of outside directors on our Board.
+We will work as quickly as possible to implement these
+initiatives; however, the lack of adequate working capital and positive cash flow from operations will likely slow this implementation.
+Changes in Internal Control
+There have been no changes in internal controls over
+the financial reporting that occurred during the fiscal fourth quarter, that have materially affected, or are reasonably likely to materially
+affect our internal controls over financial reporting.
+This annual report does not include an attestation
+report of the Company’s registered public accounting firm regarding internal control over financial reporting. Management’s
+report was not subject to attestation by the Company’s registered public accounting firm pursuant to temporary rules of the SEC
+that permit the Company to provide only management’s report in this annual report.
+Item 9B. Other Information.
+None.
+-6-
+Table of Contents
+PART III
+Item 10. Directors, Executive Officers and Corporate
+Governance.
+Biographical information regarding the Officers and Directors of the Company,
+who will continue to serve as Officers and Directors of the Company are provided below:
+World Scan Project, Inc.
+NAME
+AGE
+POSITION
+Ryohei Uetaki
+51
+Chief Executive Officer,
+Chief Financial Officer, President, Secretary, Treasurer and Director
+Yasumasa
+Ichikawa
+32
+Chief
+Technology Officer
+World Scan Project Corporation
+NAME
+AGE
+POSITION
+Ryohei Uetaki
+51
+Chief Executive Officer,
+Chief Financial Officer, President, Secretary, Treasurer and Director
+Yasumasa
+Ichikawa
+32
+Chief
+Technology Officer
+Ryohei Uetaki
+Mr. Ryohei Uetaki graduated from the Osaka Gakuin
+University Faculty of Commerce in 1997. In 2000, he incorporated Zero Step Ltd and assumed the position of president. In 2006, Zero Step
+Ltd ceased all operations. In 2006, Mr. Uetaki joined EAZ Holdings Ltd as a director in charge of the company’s marketing efforts.
+Mr. Uetaki remained as director of EAZ until 2007. From 2007 to 2019, he was engaged as an independent business consultant. From 2017
+to 2018, he served as an associated professor of Keio University Graduate School. On October 25, 2019, he was appointed as the president,
+CEO and director of World Scan Project, Inc. On January 10, 2020, he was appointed as the CEO and member of SKYPR LLC. Inc. On January
+22, 2020, he was appointed as the president, CEO and director of World Scan Project Corporation. On November 18, 2020, he was appointed
+as the president, CEO and director of Kids Cell Technologies Corporation. Currently, he serves as the officer and director of World Scan
+Project, Inc., World Scan project Corporation, SKYPR LLC, and Kids Cell Technologies Corporation.
+Due to Mr. Uetaki’s diverse business experience,
+the Board has determined it is in the best interest of the company to appoint him as the company’s Chief Executive Officer, Chief
+Financial Officer, President, Treasurer and Director.
+Yasumasa Ichikawa
+Mr. Yasumasa Ichikawa graduated from Kyoto Saga University
+of Arts in 2015. After graduation, he was engaged as an independent computer graphic designer. On November 18, 2019, he was appointed
+as Chief Technology Officer (“CTO”) of World Scan Project, Inc. On January 22, 2020, he was appointed as the CTO of World
+Scan Project Corporation and World Scan Project Corporation. Currently, he serves as the CTO of World Scan Project, Inc. and World Scan
+project Corporation.
+Due to Mr. Ichikawa’s technological experience,
+the Board has determined it is in the best interest of the company to appoint him as the company’s Chief Technology Officer.
+Ethics
+The Company promotes accountability for adherence
+to honest and ethical conduct; endeavors to provide full, fair, accurate, timely and understandable disclosure in reports and documents
+that the Company files with the Securities and Exchange Commission (the "SEC") and in other public communications made by the
+Company; and strives to be compliant with applicable governmental laws, rules and regulations. The Company has not formally adopted a
+written code of business conduct and ethics that governs the Company's employees, officers and directors as the Company is not required
+to do so.
+In lieu of an Audit Committee, the Company's board
+of director(s) (the "Board of Directors" or "Board"), is responsible for reviewing and making recommendations concerning
+the selection of outside auditors, reviewing the scope, results and effectiveness of the annual audit of the Company's financial statements
+and other services provided by the Company's independent public accountants. The Board of directors, the Chief Executive Officer and the
+Chief Financial Officer of the Company review the Company's internal accounting controls, practices and policies.
+Committees of the Board
+Our Company currently does not have nominating, compensation,
+or audit committees or committees performing similar functions nor does our Company have a written nominating, compensation or audit committee
+charter. Our sole director believes that it is not necessary to have such committees, at this time, because the director(s) can adequately
+perform the functions of such committees.
+Audit Committee Financial Expert
+Our director has determined that we do not have a
+board member that qualifies as an “audit committee financial expert” as defined in Item 407(D)(5) of Regulation S-K, nor do
+we have a Board member that qualifies as “independent” as the term is used in Item 7(d)(3)(iv)(B) of Schedule 14A under the
+Securities Exchange Act of 1934, as amended, and as defined by Rule 4200(a)(14) of the FINRA Rules.
+We believe that
+our director(s) are capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for
+financial reporting. The director(s) of our Company does not believe that it is necessary to have an audit committee because management
+believes that the Board of directors can adequately perform the functions of an audit committee. In addition, we believe that retaining
+an independent director who would qualify as an "audit committee financial expert" would be overly costly and burdensome
+and is not warranted in our circumstances given the stage of our development and the fact that we have not generated any positive cash
+flows from operations to date.
+Involvement
+in Certain Legal Proceedings
+Our officers
+and sole director have not been involved in or a party in any of the following events or actions during the past ten years:
+1.
+any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time;
+2.
+any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses);
+3.
+being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; or
+4.
+being found by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated.
+5.
+Such person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated;
+6.
+Such person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated;
+7.
+Such person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of:(i) Any Federal or State securities or commodities law or regulation; or(ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or(iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+8.
+Such person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+Independence
+of Directors
+We are not required
+to have independent members of our Board of Directors, and do not anticipate having independent Directors until such time as we are required
+to do so.
+Code of Ethics
+We have not
+adopted a formal Code of Ethics. The Board of Director(s) evaluated the business of the Company and the number of employees and determined
+that since the business is operated by a small number of persons, general rules of fiduciary duty and federal and state criminal, business
+conduct and securities laws are adequate ethical guidelines. In the event our operations, employees and/or Directors expand in the future,
+we may take actions to adopt a formal Code of Ethics.
+Shareholder
+Proposals
+Our Company
+does not have any defined policy or procedural requirements for shareholders to submit recommendations or nominations for Directors. The
+Board of Director(s) believes that, given the stage of our development, a specific nominating policy would be premature and of little
+assistance until our business operations develop to a more advanced level. Our Company does not currently have any specific or minimum
+criteria for the election of nominees to the Board of Directors and we do not have any specific process or procedure for evaluating such
+nominees. The Board of Director(s) will assess all candidates, whether submitted by management or shareholders, and make recommendations
+for election or appointment.
+A shareholder
+who wishes to communicate with our Board of Director(s) may do so by directing a written request addressed to our sole Director Ryohei
+Uetaki, at the address appearing on the first page of this Information Statement.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires the Company’s
+executive officers, directors and persons who beneficially own more than ten percent of a registered class of the Company’s equity
+securities, to file with the SEC initial reports of ownership and reports of changes in ownership of the Company’s common stock.
+Such officers, directors and persons are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms
+that they file with the SEC.
+Based solely on a review of the copies of such forms
+that were received by the Company, or written representations from certain reporting persons that no Form 5s were required for those persons,
+the Company is not aware of any failures to file reports or report transactions in a timely manner during the Company’s fiscal year
+ended October 31, 2024.
+Procedure for Nominating Directors
+In 2023and 2024 we have not made any material changes
+to the procedures by which security holders may recommend nominees to our Board of Directors.
+Family Relationships
+There are no family relationships among our directors,
+executive officers or persons nominated to become executive officers or directors.
+Involvement in Certain Legal Proceedings
+During the past ten (10) years, none of our directors,
+persons nominated to become directors, executive officers, promoters or control persons was involved in any of the legal proceedings listen
+in Item 401 (f) of Regulation S-K.
+Arrangements
+There are no arrangements or understandings between
+an executive officer, director or nominee and any other person pursuant to which he was or is to be selected as an executive officer or
+director.
+-7-
+Table of Contents
+Item 11. Executive Compensation.
+The table below summarizes all compensation awarded
+to, earned by, or paid to our named executive officer(s) and director(s) for the year ended October 31, 2024 and for the year ended October
+31, 2023 This in relation to the Company, World Scan Project, Inc.
+SUMMARY COMPENSATION TABLE
+Name and
+principal position
+Year
+Salary
+($)
+Bonus
+($)
+Stock
+Awards
+($)
+Option
+Awards
+($)
+Non-Equity
+Incentive Plan
+Compensation
+($)
+Nonqualified
+Deferred
+Compensation
+Earnings ($)
+All Other
+Compensation
+($)
+Total
+($)
+Ryohei Uetaki
+Chief Executive Officer and Sole Director (1)
+2024
+398,545
+0
+0
+0
+0
+0
+398,545
+Yasumasa Ichikawa,
+Chief Technology Officer (2)
+2024
+119,564
+11,624
+0
+0
+0
+0
+0
+131,188
+Ryohei Uetaki
+Chief Executive Officer and
+Sole Director (1)
+2023
+213,375
+0
+0
+0
+0
+0
+213,375
+Yasumasa Ichikawa,
+Chief Technology Officer (2)
+2023
+129,491
+6,787
+0
+0
+0
+0
+0
+136,278
+(1) On October 25, 2019, Ryohei Uetaki was
+appointed as Chief Executive Officer, Chief Financial Officer, President, Director, Secretary, and Treasurer.
+(2) On November 18, 2019, Yasumasa Ichikawa
+was appointed as Chief Technology Officer.
+Option/SAR Grants
+in Last Fiscal Year
+None.
+Outstanding Equity Awards at Fiscal Year-End
+None.
+Equity Compensation Plan Information
+Not applicable.
+Employment Agreements of our Officers and Directors
+None.
+Compensation Discussion and Analysis
+Director Compensation
+The Board of Directors reserves the right in the future
+to award the members of the Board of Directors cash or stock based consideration for their services to the Company, which awards, if granted
+shall be in the sole determination of the Board of Directors.
+Executive Compensation Philosophy
+Our Board of Directors determines the compensation
+given to our executive officers in their sole determination. Our Board of Directors reserves the right to pay our executive or any future
+executives a salary, and/or issue them shares of common stock issued in consideration for services rendered and/or to award incentive
+bonuses which are linked to our performance, as well as to the individual executive officer’s performance. This package may also
+include long-term stock based compensation to certain executives, which is intended to align the performance of our executives with our
+long-term business strategies. Additionally, while our Board of Directors has not granted any performance base stock options to date,
+the Board of Directors reserves the right to grant such options in the future, if the Board in its sole determination believes such grants
+would be in the best interests of the Company.
+Incentive Bonus
+The Board of Directors may grant incentive bonuses
+to our executive officer and/or future executive officers in its sole discretion, if the Board of Directors believes such bonuses are
+in the Company’s best interest, after analyzing our current business objectives and growth, if any, and the amount of revenue we
+are able to generate each month, which revenue is a direct result of the actions and ability of such executives.
+Long-term, Stock Based Compensation
+In order to attract, retain and motivate executive talent necessary
+to support the Company’s long-term business strategy we may award our executive and any future executives with long-term, stock-based
+compensation in the future, at the sole discretion of our Board of Directors, which we do not currently have any immediate plans to award.
+-8-
+Table of Contents
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Shareholder Matters.
+As of our fiscal year end, the Company has 10,797,350
+shares of common stock and 10,000,000 shares of Series A preferred stock issued and outstanding..
+*The table below is as of October 31, 2024.
+Name and Address of Beneficial Owner
+Shares of Common Stock Beneficially Owned
+Common Stock Voting Percentage Beneficially Owned
+Preferred Stock Beneficially Owned
+Shares of Preferred Stock Voting Percentage Beneficially Owned
+Total Voting Percentage Beneficially Owned (1)
+Executive Officers and Directors
+Ryohei Uetaki (1)
+Address: 2-18-23, Nishiwaseda, Shinjuku-Ku, Tokyo, 162-0051, Japan
+10,000,000
+86.5%
+10,000,000
+*
+86.5%
+5% or greater shareholders
+None
+-
+-
+-
+-
+-
+* Our Series A Preferred Stock currently has no voting
+rights. Currently we have 10,000,000 shares of Series A Preferred Stock issued and outstanding of which Ryohei Uetaki owns and controls
+100% of through his ownership interests in SKYPR LLC.
+(1) Ryohei Uetaki currently serves as our Chief Executive
+Officer, Chief Financial Officer, President, Director, Secretary, and Treasurer. Ryohei Uetaki owns 100% of the membership interests in
+SKYPR LLC., a Delaware Limited Liability Company which owns 7,000,000 shares of our common stock and 10,000,000 shares of our Series A
+Preferred Stock. The table above includes the share ownership of SKYPR LLC with Ryohei Uetaki collectively, in the row for Mr. Uetaki.
+Beneficial ownership has been determined in accordance
+with Rule 13d-3 under the Exchange Act. Under this rule, certain shares may be deemed to be beneficially owned by more than one person
+(if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially
+owned by a person if the person has the right to acquire shares (for example, upon exercise of an option or warrant) within 60 days of
+the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares is deemed
+to include the amount of shares beneficially owned by such person by reason of such acquisition rights. As a result, the percentage of
+outstanding shares of any person as shown in the following table does not necessarily reflect the person’s actual voting power at
+any particular date.
+Item 13. Certain Relationships and Related Transactions.
+On October 25, 2019 the Company issued 10,000,000
+shares of restricted Common Stock to Ryohei Uetaki for services rendered to the Company. Additionally, on the same day, it issued 10,000,000
+shares of its restricted Series A Preferred Stock to Ryohei Uetaki, also for services rendered. The aforementioned shares of common and
+preferred stock were all issued at par value, $0.0001, having a total value of $2,000. No monies were exchanged per the issuances and
+the shares were all exempt from the registration provisions of Section 5 of the Securities Act under Section 4(2) of such same said act.
+On January 25, 2020, the Company entered into and
+consummated a Share Contribution Agreement with Ryohei Uetaki. Pursuant to this agreement Mr. Uetaki gifted to the Company, at no cost,
+300 shares of common stock of World Scan Project Corporation, a Japan corporation (“WSP Japan”), which represented all of
+its issued and outstanding shares. The Company has since gained a 100% interest in the issued and outstanding shares of WSP Japan’s
+common stock and WSP Japan is now a wholly owned subsidiary of the Company. The Company and WSP Japan were under common control at the
+time of the acquisition. WSP Japan was incorporated under the laws of Japan on January 22, 2020. Currently, WSP Japan is headquartered
+in Tokyo, Japan. The Company is an industrial automation equipment manufacturer currently focused on developing and designing robots,
+drones, Web3 infrastructure, IoT equipment and other related products.
+On February 19, 2020, Ryohei Uetaki gifted 7,000,000
+shares of our Common Stock and 10,000,000 shares of our Series A Preferred Stock, which represented all of our issued and outstanding
+shares of Preferred Stock at the time, to SKYPR LLC, a Delaware Limited Liability Company (referred to herein as “SKYPR LLC”).
+Our CEO Ryohei Uetaki owns and controls 100% of the membership interests in SKYPR LLC.
+For the year ended October 31, 2023, the Company borrowed
+$0 from Ryohei Uetaki, our CEO. The total due were $213,375 for salary and $458 for expense October 31, 2022, and were unsecured, due
+on demand and non-interest bearing.
+Aiming to establish a new revenue source, the Company
+planned to enter a new business, create avatars which offer exploring opportunities in metaverse. Found less feasible to realize reasonable
+revenue, the Company gave up the idea and related assets were transferred to ZEXAVERSE before the Company put those in service.
+Review, Approval
+and Ratification of Related Party Transactions
+Given our small
+size and limited financial resources, we have not adopted formal policies and procedures for the review, approval or ratification of transactions,
+such as those described above, with our executive officer(s), Director(s) and significant shareholders. We intend to establish formal
+policies and procedures in the future, once we have sufficient resources and have appointed additional Directors, so that such transactions
+will be subject to the review, approval or ratification of our Board of Directors, or an appropriate committee thereof. On a moving forward
+basis, our Directors will continue to approve any related party transaction.
+Item 14. Principal Accounting Fees and Services.
+Below is the aggregate amount of fees billed for
+professional services rendered by our principal accountants with respect to our last two fiscal years.
+2024
+2023
+Audit
+fees
+M&K
+CPAS, PLLC
+$17,753.88
+$139,552
+Mercurius
+and Associates LLP(*)
+$166,161.08
+-
+Audit
+related fees
+Tax
+fees
+All
+other fees
+Total
+$183,914.96
+$139,552
+*
+On May 7, 2024, the Board of Directors approved the engagement of Mercurius & Associates LLP (PCAOB ID: 3223)(“MAS”)
+as the Company’s independent registered public accounting firm for the audit of the fiscal year ended October 31, 2023, and any
+reviews of interim periods thereafter. During the fiscal years ended October 31, 2022 and 2021 and through October 31, 2023, neither
+the Company nor anyone on its behalf consulted with MAS regarding (1) the application of accounting principles to a specified transaction,
+completed or proposed, or the type of audit opinion that might be rendered on the Company's financial statements, and neither a written
+report nor oral advice was provided to the Company that Mercurius & Associates LLP concluded was an important factor considered by
+the Company in reaching a decision as to any accounting, auditing or financial reporting issue, or (2) any matter that was either
+the subject of a disagreement (as defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions) or a reportable event
+(as described in Item 304(a)(1)(v) of Regulation S-K).
+Board of Directors Pre-Approval Process, Policies
+and Procedures
+Our principal auditors have informed our sole director
+of the scope and nature of each service provided. With respect to the provisions of services other than audit, review, or attest services,
+our principal accountants brought such services to the attention of our sole director prior to commencing such services.
+-9-
+Table of Contents
+PART IV
+Item 15. Exhibits, Financial Statement Schedules.
+(a) Financial Statements
+1. Financial statements for our company are
+listed in the index under Item 8 of this document
+2. All financial statement schedules are
+omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto.
+(b) Exhibits required by Item 601 of Regulation S-K.
+Exhibit No.
+Description
+3.1
+Certificate of Incorporation (1)
+3.2
+By-laws (1)
+31
+Certification of the Company’s Principal Executive and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, with respect to the registrant’s report on Form 10-K for the period ended October 31, 2024. (2)
+32
+Certification of the Company’s Principal Executive and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. (2)
+101.INS
+XBRL Instance Document (3)
+101.SCH
+XBRL Taxonomy Extension Schema (3)
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase (3)
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase (3)
+101.LAB
+XBRL Taxonomy Extension Label Linkbase (3)
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase (3)
+(1)
+Filed as an exhibit to the Company's Registration Statement on Form S-1, as filed with the SEC on August 26, 2020, and incorporated herein
+by this reference.
+(2)
+Filed herewith.
+(3)
+Users of this data are advised that, pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not filed or part of a registration statement or Annual Report for purposes of Sections 11 or 12 of the Securities Act of 1933 or Section 18 of the Exchange Act of 1934 and otherwise are not subject to liability.
+Signatures
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+World Scan Project, Inc.
+(Registrant)
+By: /s/ Ryohei Uetaki
+Ryohei Uetaki, Chief Executive Officer, Chief Financial
+Officer
+Dated: September 2, 2025
+In accordance with the Exchange Act, this report has been signed below
+by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+By: /s/ Ryohei Uetaki
+Ryohei Uetaki, Chief Executive Officer, Chief Financial
+Officer
+Dated:
+September 2, 2025
+-10-

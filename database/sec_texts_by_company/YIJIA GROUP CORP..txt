@@ -1,0 +1,2797 @@
+YIJIA GROUP CORP. Form 10-K
+false
+2025
+FY
+0001699709
+0001699709
+2024-05-01
+2025-04-30
+0001699709
+2024-10-31
+0001699709
+2025-07-17
+0001699709
+2025-04-30
+0001699709
+2024-04-30
+0001699709
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:CommonStockMember
+2023-04-30
+0001699709
+us-gaap:AdditionalPaidInCapitalMember
+2023-04-30
+0001699709
+YJGJ:SharesToBeIssuedMember
+2023-04-30
+0001699709
+us-gaap:RetainedEarningsMember
+2023-04-30
+0001699709
+2023-04-30
+0001699709
+us-gaap:CommonStockMember
+2024-04-30
+0001699709
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-30
+0001699709
+YJGJ:SharesToBeIssuedMember
+2024-04-30
+0001699709
+us-gaap:RetainedEarningsMember
+2024-04-30
+0001699709
+us-gaap:CommonStockMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SharesToBeIssuedMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:RetainedEarningsMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:CommonStockMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SharesToBeIssuedMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:RetainedEarningsMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:CommonStockMember
+2025-04-30
+0001699709
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-30
+0001699709
+YJGJ:SharesToBeIssuedMember
+2025-04-30
+0001699709
+us-gaap:RetainedEarningsMember
+2025-04-30
+0001699709
+us-gaap:PrivatePlacementMember
+2024-01-29
+2024-01-30
+0001699709
+YJGJ:NutripeakTradingCorporationMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:NutripeakTradingCorporationMember
+2025-04-30
+0001699709
+YJGJ:ConsultancyServiceFeeIncomeMember
+us-gaap:TransferredOverTimeMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:ConsultancyServiceFeeIncomeMember
+us-gaap:TransferredOverTimeMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SalesOfHealthcareProductsMember
+us-gaap:TransferredAtPointInTimeMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SalesOfHealthcareProductsMember
+us-gaap:TransferredAtPointInTimeMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:ConsultingServiceIncomeMember
+YJGJ:HealthcareSegmentMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:ConsultingServiceIncomeMember
+YJGJ:ConsultingServiceSegmentMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:ConsultingServiceIncomeMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SaleOfHealthcareProductsMember
+YJGJ:HealthcareSegmentMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SaleOfHealthcareProductsMember
+YJGJ:ConsultingServiceSegmentMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SaleOfHealthcareProductsMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:HealthcareSegmentMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:ConsultingServiceSegmentMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:ConsultingServiceIncomeMember
+YJGJ:HealthcareSegmentMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:ConsultingServiceIncomeMember
+YJGJ:ConsultingServiceSegmentMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:ConsultingServiceIncomeMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SaleOfHealthcareProductsMember
+YJGJ:HealthcareSegmentMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SaleOfHealthcareProductsMember
+YJGJ:ConsultingServiceSegmentMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SaleOfHealthcareProductsMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:HealthcareSegmentMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:ConsultingServiceSegmentMember
+2023-05-01
+2024-04-30
+0001699709
+country:CN
+2024-05-01
+2025-04-30
+0001699709
+country:CN
+2023-05-01
+2024-04-30
+0001699709
+country:HK
+2024-05-01
+2025-04-30
+0001699709
+country:HK
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:UnitesStatesOfAmericaMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:UnitesStatesOfAmericaMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:PrivatePlacementMember
+2024-01-30
+0001699709
+YJGJ:SteveNiuMember
+2024-01-07
+2024-01-08
+0001699709
+YJGJ:SteveNiuMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SteveNiuMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SteveNiuMember
+2025-04-30
+0001699709
+YJGJ:QiupingLuMember
+2025-04-30
+0001699709
+YJGJ:QiupingLuMember
+2024-04-30
+0001699709
+YJGJ:SteveNiuMember
+YJGJ:Contract2024Member
+2024-01-07
+2024-01-08
+0001699709
+YJGJ:SteveNiuMember
+YJGJ:Contract2024Member
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:SteveNiuMember
+YJGJ:Contract2024Member
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:SteveNiuMember
+YJGJ:Contract2024Member
+2025-04-30
+0001699709
+YJGJ:SteveNiuMember
+YJGJ:Contract2024Member
+2024-04-30
+0001699709
+YJGJ:QiupingLuMember
+2024-01-29
+2024-01-30
+0001699709
+YJGJ:RuimingZhouMember
+2024-01-29
+2024-01-30
+0001699709
+YJGJ:TriangleAccountingIncMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:TriangleAccountingIncMember
+2023-05-01
+2024-04-30
+0001699709
+YJGJ:MajorCustomersMember
+2024-05-01
+2025-04-30
+0001699709
+YJGJ:MajorVendorsMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerAMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerAMember
+2025-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerBMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerBMember
+2025-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerCMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerCMember
+2025-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomersABAndCMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomersABAndCMember
+2025-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerCMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerCMember
+2024-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerDMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomerDMember
+2024-04-30
+0001699709
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomersCAndDMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:CustomersCAndDMember
+2024-04-30
+0001699709
+YJGJ:PurchasesMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:VendorAMember
+2024-05-01
+2025-04-30
+0001699709
+us-gaap:AccountsPayableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:VendorAMember
+2025-04-30
+0001699709
+YJGJ:PurchasesMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:VendorBMember
+2023-05-01
+2024-04-30
+0001699709
+us-gaap:AccountsPayableMember
+us-gaap:CustomerConcentrationRiskMember
+YJGJ:VendorBMember
+2024-04-30
+0001699709
+2025-02-01
+2025-04-30
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☒
+ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended: April 30, 2025
+OR
+☐
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT
+For the transition period from _____________ to
+____________
+Commission File Number: 333-218733
+YIJIA GROUP CORP.
+(Exact name of small business issuer as specified in
+its charter)
+Nevada
+35-2583762
+(State or other jurisdiction of
+incorporation)
+(IRS Employer Identification No.)
+39 E Broadway, Suite 603, New York, NY 10002
+(Address of principal executive offices) (Zip Code)
++1-919-869-0279
+(Registrant’s telephone number, including area
+code)
+N/A
+(Former name, former address and former fiscal year,
+if changed since last report)
+Securities registered pursuant to Section 12(b) of
+the Exchange Act: None.
+Securities registered under Section 12(g) of the Exchange
+Act: None.
+Indicate by check mark if registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐
+No ☒
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐
+No ☒
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to
+submit and post such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See
+the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and
+“emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. ☐
+If securities are registered pursuant to Section 12(b)
+of the Act, indicate by check mark whether the financial statements of the registrant include in the filing reflect the correction of
+an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐
+No ☒
+The aggregate
+market value of the voting and non-voting common equity held by non-affiliates, as of the last business day of the registrant’s
+most recently completed second fiscal quarter cannot be determined as no quotation was posted on the OTC Markets under the symbol (“YJGJ”).
+As of July 17, 2025, the Registrant had 25,012,270
+shares of common stock, $0.001 par value, issued and outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+None.
+TABLE OF CONTENTS
+Page
+CAUTIONARY NOTE ABOUT FORWARD-LOOKING STATEMENTS
+ii
+PART I
+Item 1.
+Business
+1
+Item 1A.
+Risk Factors
+3
+Item 1B.
+Unresolved Staff Comments
+3
+Item 1C.
+Cybersecurity
+3
+Item 2.
+Properties
+3
+Item 3.
+Legal Proceedings
+3
+Item 4.
+Mine Safety Disclosures
+3
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+4
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operation
+5
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk
+13
+Item 8.
+Financial Statements and Supplementary Data
+13
+Item 9.
+Changes In and Disagreements With Accountants on Accounting and Financial Disclosure
+14
+Item 9A.
+Controls and Procedures
+14
+Item 9B.
+Other Information
+15
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+15
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+16
+Item 11.
+Executive Compensation
+18
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+20
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+20
+Item 14.
+Principal Accountant Fees and Services
+21
+PART IV
+Item 15.
+Exhibit and Financial Statement Schedules
+22
+Item 16.
+Form 10-K Summary
+22
+SIGNATURES
+23
+i
+In this Annual Report on Form 10-K (this “Annual
+Report”), unless otherwise stated or as the context otherwise requires, references to “Yijia Group Corp.,” “Yijia,”
+“YJGJ,” the “Company,” “we,” “us,” “our” and similar references refer to Yijia
+Group Corp., a Nevada corporation. Our logo and other trademarks or service marks of the Company appearing in this Annual Report are the
+property of Yijia Group Corp. This Annual Report also contains registered marks, trademarks and trade names of other companies. All other
+trademarks, registered marks and trade names appearing in this Annual Report are the property of their respective holders.
+CAUTIONARY NOTE ABOUT FORWARD-LOOKING STATEMENTS
+The information contained
+in this Annual Report includes some statements that are not purely historical and that are “forward-looking statements” within
+the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), and as such, may involve risks and uncertainties. These forward-looking
+statements relate to, among other things, expectations of the business environment in which we operate, perceived opportunities in the
+market and statements regarding our mission and vision. In addition, any statements that refer to projections, forecasts or other characterizations
+of future events or circumstances, including any underlying assumptions, are forward-looking statements. You can generally identify forward-looking
+statements as statements containing the words “anticipates,” “believes,” “continue,” “could,”
+“estimates,” “expects,” “intends,” “may,” “might,” “plans,” “possible,”
+“potential,” “predicts,” “projects,” “seeks,” “should,” “will,”
+“would” and similar expressions, or the negatives of such terms, but the absence of these words does not mean that a statement
+is not forward-looking.
+Forward-looking statements
+involve risks and uncertainties that could cause actual results or outcomes to differ materially from those expressed in the forward-looking
+statements. The forward-looking statements contained herein are based on various assumptions, many of which are based, in turn, upon further
+assumptions. Our expectations, beliefs and forward-looking statements are expressed in good faith on the basis of management’s views
+and assumptions as of the time the statements are made, but there can be no assurance that management’s expectations, beliefs or
+projections will result or be achieved or accomplished.
+In addition to other factors
+and matters discussed elsewhere herein, the following are important factors that, in our view, could cause actual results to differ materially
+from those discussed in the forward-looking statements: technological advances, impact of competition, dependence on key personnel and
+the need to attract new management, effectiveness of cost and marketing efforts, acceptances of products, ability to expand markets and
+the availability of capital or other funding on terms satisfactory to us. We disclaim any obligation to update forward-looking statements
+to reflect events or circumstances after the date hereof.
+For a discussion of the risks,
+uncertainties, and assumptions that could affect our future events, developments or results, you should carefully review the “Risk
+Factors” set forth under “Item 1. Business” below. In light of these risks, uncertainties and assumptions, the future
+events, developments or results described by our forward-looking statements herein could turn to be materially different from those we
+discuss or imply.
+ii
+PART I
+Item 1. Business.
+The Company was incorporated
+on January 25, 2017 under the laws of the State of Nevada. On November 15, 2018, the Company changed its name to Yijia Group Corp. The
+Company is in good standing in the State of Nevada and in any jurisdiction where it is qualified to do business.
+Starting from July 30, 2021,
+the Company commenced its operation in the rendering of business consulting service to domestic and international customers. The Company
+provides consulting services to its clients with regards to funding and other financial matters.
+On
+November 9, 2023, the Company founded Nutripeak Trading Corporation, a wholly owned subsidiary incorporated in Nevada. Nutripeak Trading
+Corporation was established with the purpose of marketing and supplying healthcare products.
+Corporate Organization Chart
+Our products
+Our core products are anti-aging
+products that increase NAD+ levels. By boosting NAD+ levels, these products can promote anti-aging, enhance energy metabolism, improve
+cognitive function, and strengthen cellular repair capabilities.
+Our services
+In addition to offering anti-aging
+products, our company provides professional health consultation services. Our health advisors can offer personalized health advice and
+recommend supplements tailored to each customer's needs. We design customized nutrition and wellness plans based on customers' physical
+conditions, health goals, and lifestyle habits.
+Our company also provides
+consulting advisory services in management business, accounting and finance services.
+1
+Revenue Stream
+The Company currently earns revenues from the following
+segments.
+The Consulting Service Segment mainly provides consulting
+advisory services in management business, accounting and finance services; and the Healthcare Segment mainly provides healthcare products
+and health consultation services to customers.
+Sales and Marketing
+Our company employs various
+sales and marketing strategies to promote our anti-aging products. We utilize e-commerce platforms, our own website, brick-and-mortar
+stores, social media, and direct sales. This multi-channel approach ensures that consumers with different shopping habits can access our
+anti-aging products and truly experience their benefits.
+Competition
+In response to intense market
+competition, our company focuses on continuous product innovation and development. We strengthen our brand through advertising, participation
+in trade shows, and sponsoring public welfare projects. We also build alliances with hospitals, clinics, and health management institutions.
+Flexible pricing strategies, including promotions, coupons, and discounts, are employed to attract customers. Expanding into international
+markets reduces reliance on a single market and opens up new opportunities. These initiatives enable us to navigate the competitive landscape
+effectively.
+Number of Employees
+Other than our officers,
+the Company currently has [1] full-time employee. We currently have people ready to fill positions as soon as they are needed in both
+office staff and work force roles.
+Research and Development
+We have not incurred any
+research and development costs in the fiscal years ended April 30, 2025 and 2024.
+Insurance
+We do not maintain insurance
+and do not intend to maintain insurance in the future. Because we do not have insurance, if we are made a party to any action, we may
+not have sufficient funds to defend the litigation. If that occurs a judgment could be rendered against us that could cause us to cease
+operations.
+Government Regulation
+We are required to comply
+with all regulations, rules and directives of governmental authorities and agencies applicable to the our services and products in any
+jurisdiction in which we conduct activities. We do not believe that government regulations have a material impact on the way we conduct
+our business. We do not need to receive any government approvals to conduct our business.
+2
+Item 1A. Risk Factors.
+As a “smaller reporting company,” as defined
+by Rule 12b-2 of the Exchange Act, we are not required to provide the information in this Item.
+Item 1B. Unresolved Staff Comments.
+None.
+Item 1C. Cybersecurity.
+Risk Management and Strategy
+We acknowledge the increasing importance of cybersecurity
+in today’s digital and interconnected world. Cybersecurity threats pose significant risks to the integrity of our systems and data,
+potentially impacting our business operations, financial condition and reputation.
+As a smaller reporting company, we currently do not
+have formalized cybersecurity measures, a dedicated cybersecurity team or specific protocols in place to manage cybersecurity risks. Our
+approach to cybersecurity is in the developmental stage, and we have not yet conducted comprehensive risk assessments, established an
+incident response plan or engaged with external cybersecurity consultants for assessments or services.
+Given our current stage of cybersecurity development,
+we have not experienced any significant cybersecurity incidents to date. However, we recognize that the absence of a formalized cybersecurity
+framework may leave us vulnerable to cyberattacks, data breaches and other cybersecurity incidents. Such events could potentially lead
+to unauthorized access to, or disclosure of, sensitive information, disrupt our business operations, result in regulatory fines or litigation
+costs and negatively impact our reputation among customers and partners.
+We are in the process of evaluating our cybersecurity
+needs and developing appropriate measures to enhance our cybersecurity posture. This includes considering the engagement of external cybersecurity
+experts to advise on best practices, conducting vulnerability assessments and developing an incident response strategy. Our goal is to
+establish a cybersecurity framework that is commensurate with our size, complexity and the nature of our operations, thereby reducing
+our exposure to cybersecurity risks.
+In addition, the Board will oversee any cybersecurity
+risk management framework and a dedicated committee of the Board or an officer appointed by the Board will review and approve any cybersecurity
+policies, strategies and risk management practices.
+Despite our efforts to improve our cybersecurity measures,
+there can be no assurance that our initiatives will fully mitigate the risks posed by cyber threats. The landscape of cybersecurity risks
+is constantly evolving, and we will continue to assess and update our cybersecurity measures in response to emerging threats.
+Item 2. Properties.
+Our principal executive offices are located at 39
+E Broadway, Suite 603, New York, NY 10002. Our telephone number is (919) 869-0279.
+Item 3. Legal Proceedings.
+We know of no material, existing or pending legal
+proceedings against us, nor are we involved as a plaintiff in any material proceeding or pending litigation, and there are no proceedings
+in which any of our directors, officers or affiliates, or any registered or beneficial stockholder, is an adverse party or has a material
+interest adverse to our Company.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+3
+PART II
+Item 5. Market for Registrant’s Common
+Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information
+Our common stock is quoted
+on the Pink Open Market under the symbol “YJGJ.” Our common stock is not listed on any national exchange. Our stock is thinly
+traded and there is no active trading market developed for our shares of common stock. The following table sets forth the high and low
+bid prices per share of common stock for the periods indicated. Over-the-counter market quotations for our common stock reflect inter-dealer
+prices, without retail mark-up, mark-down or commission and may not necessarily represent actual transactions.
+Common Stock
+High
+Low
+Fiscal Year Ended April 30, 2025:
+Fiscal Quarter Ended April 30, 2025
+$0.18
+$0.18
+Fiscal Quarter Ended January 31, 2025
+$0.18
+$0.18
+Fiscal Quarter Ended October 31, 2024
+$0.18
+$0.18
+Fiscal Quarter Ended July 31, 2024
+$0.60
+$0.18
+Fiscal Year Ended April 30, 2024:
+Fiscal Quarter Ended April 30, 2024
+$0.60
+$0.60
+Fiscal Quarter Ended January 31, 2024
+$0.60
+$0.60
+Fiscal Quarter Ended October 31, 2023
+$5.00
+$0.60
+Fiscal Quarter Ended July 31, 2023
+$5.00
+$3.00
+Holders
+There were 62 holders of the Company’s common
+stock as of July 29, 2025. This figure does not include holders of shares registered in “street name” or persons, partnerships,
+associates, corporations or other entities identified in security position listings maintained by depositories.
+Dividends
+We have not declared any cash dividends on our common
+stock since our inception and do not anticipate paying any dividends in the foreseeable future. We plan to retain future earnings, if
+any, for use in our business. Any decisions as to future payments of dividends will depend on our earnings and financial position and
+such other facts, as the Board deems relevant.
+Securities Authorized under Equity Compensation
+Plans
+We do not have any equity compensation plans and,
+consequently, no shares are authorized for issuance under such a plan.
+Reports to Stockholders
+We are currently subject to the information and reporting
+requirements of the Exchange Act and will continue to file periodic reports, and other information with the SEC.
+4
+Transfer Agent
+The transfer
+agent and registrar for the Company’s common stock is Action Stock Transfer Corporation at 2469 E. Fort Union Blvd, Suite 214 Salt
+Lake City, UT 84121. The telephone number is: (801) 274-1088.
+Recent Sales of Unregistered Equity Securities
+There is no
+sale of unregistered securities during the fiscal year ended April 30, 2025.
+Purchases of Equity Securities by the Issuer and
+Affiliated Purchasers
+None.
+Additional Information
+We are a reporting issuer, subject to the Exchange
+Act. Our Quarterly Reports, Annual Reports, and other filings can be obtained from the SEC’s Public Reference Room at 100 F Street,
+NE., Washington, DC 20549, on official business days during the hours of 10 a.m. to 3 p.m. You may also obtain information on the operation
+of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and
+information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov.
+Item 7. Management’s Discussion and Analysis
+of Financial Condition and Results of Operation.
+The following discussion of our results of operations
+and cash flows for the years ended April 30, 2025 and 2024, and financial conditions as of April 30, 2025, and 2024 should be read in
+conjunction with our consolidated financial statements and the related notes included elsewhere in this Form 10-K.
+Forward looking statement notice
+Statements made in this Form 10-K that are not historical
+or current facts are "forward-looking statements" made pursuant to the safe harbor provisions of Section 27A of the Securities
+Act of 1933 (the "Act") and Section 21E of the Securities Exchange Act of 1934. These statements often can be identified by
+the use of terms such as "may," "will," "expect," "believe," "anticipate," "estimate,"
+"approximate" or "continue," or the negative thereof. We intend that such forward-looking statements be subject to
+the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which
+speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur in the future.
+However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could cause actual
+results and events to differ materially from historical results of operations and events and those presently anticipated or projected.
+We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of
+such statement or to reflect the occurrence of anticipated or unanticipated events.
+Financial information contained in this report and
+in our financial statements is stated in United States dollars and are prepared in accordance with United States generally accepted accounting
+principles.
+5
+Corporate Overview
+The Company was incorporated on January 25, 2017 under
+the laws of the State of Nevada, United States of America, formerly known as Soldino Group Corp. On November 15, 2018, the Company changed
+its name to Yijia Group Corp. The Company is in good standing in the State of Nevada and in any jurisdiction where it is qualified to
+do business.
+The Company currently engages in the rendering of
+business consulting service to domestic and international customers. The Company provides consulting services to its clients with regards
+to funding and other financial matters; and provides healthcare products and health consultation services to domestic and international
+customers.
+On June 6, 2023, the Company’s major shareholder
+and director, Barry Sytner entered into a securities purchase agreement (the “Securities Purchase Agreement”) with Xianchang
+Ma (“Mr. Ma”), pursuant to which Barry Sytner sold 5,066,250 shares of common stock of the Company to Mr. Ma, constituting
+approximately 86.3% of the issued and outstanding shares of the Company as of May 2, 2023, for a total consideration of $470,562, derived
+from the purchaser’s personal funds. The Securities Purchase Agreement was closed on June 14, 2023. Following the closing, Mr. Ma
+acquired a beneficial interest in 5,066,250 shares of common stock of the Company constituting approximately 86.3% of the issued and outstanding
+shares of the Company as of May 2, 2023 and constituting the change of control of the Company. Pursuant to the Securities Purchase Agreement,
+Barry Sytner has resigned from all his positions with the Company, and Mr. Ma was appointed as the Chief Executive Officer, President,
+Chief Financial Officer and Director of the Company, effective from June 14, 2023.
+Mr. Ma passed away on August 3, 2023. On September
+12, 2023, Ms. Caihong Qu, Mr. Xianchang Ma’s sole heir, was allocated 5,066,250 shares of the Company’s common stock at a
+consideration of $Nil through operation of law. Upon completion of this transfer, Ms. Qu possessed 5,066,250 shares of common stock of
+the Company, constituting approximately 86.3% of the issued and outstanding shares of the Company as of September 12, 2023 and constituting
+control of the Company at that time. Effective September 13, 2023, the Board comprised Ms. Qiuping Lu and Mr. Ruiming Zhou. Ms. Qiuping
+Lu was appointed as the Chief Executive Officer, President, and Chief Financial Officer of the Company.
+On November 9, 2023, the Company founded Nutripeak
+Trading Corporation (“NTC”), a wholly owned subsidiary incorporated in Nevada. NTC was established with the purpose of marketing
+and supply of healthcare products.
+On January 8, 2024, Qiuping Lu resigned from her position
+as the Chief Financial Officer of the Company and Dr. Steven Niu was appointed as the Chief Financial Officer by the Board.
+On January 30, 2024, the Company entered into ten
+securities purchase agreements (the “Purchase Agreements”) in connection with its private offering (the “Offering”)
+of the Company’s unregistered shares of common stock, par value $0.001, with a total of ten (10) investors, consisting of two (2)
+U.S. accredited investors, as defined under Rule 501 of Regulation D, and eight (8) non-U.S. investors (individually, an “Investor”
+and collectively, the “Investors”), at a purchase price of $0.05 per share. This Offering was being conducted on a rolling
+basis and there was no minimum nor maximum offering amount to close this Offering. Each of the Purchase Agreements contained customary
+representations, warranties and covenants by the parties, regularly applied under industry standards. Each of the Investors acknowledged
+and agreed that any resale of the shares issued in connection with this Offering is subject to resale restrictions pursuant to the Securities
+Exchange Act of 1934 and none of the shares purchased herein has been registered under the Securities Act of 1933, as amended. This Offering
+was closed on January 30, 2024 and the Company raised an aggregate gross proceeds of $957,051 by selling and issuing 19,141,020 shares
+of its common stock in this Offering.
+Meanwhile, the Company continues to look for other opportunities which
+could potentially increase the profits of the Company in the year 2025.
+6
+Summary of Financial Information
+The following table sets forth certain operational
+data for the years ended April 30, 2025 and 2024:
+For the Year ended April 30,
+2025
+2024
+Revenues
+$2,662,105
+$570,694
+Cost of revenue
+(1,086,395)
+(192,983)
+Gross profit
+1,575,710
+377,711
+Total operating expenses
+(367,396)
+(172,082)
+Income from operation
+1,208,314
+205,629
+Total other (expense) income
+(4,010)
+105
+Income before income tax
+1,204,304
+205,734
+Income tax expenses
+(353,558)
+(64,869)
+Net income
+850,746
+140,865
+Currently, we commenced our operation in the rendering
+of business consulting service and marketing and supplying healthcare products to domestic and international customers. On January 10,
+2024, we entered into nine consulting agreements with non-affiliates to provide business consulting services in management business, accounting
+and financial services. Under the consulting agreements, we received a fixed consulting fee income. The initial term of the consulting
+agreements was for an initial two to three months’ period. On March 6, 2024, we commenced the marketing and supplying of healthcare
+products to domestic and international customers.
+Revenue
+We generated revenues of $2,662,105 and $570,694 for
+the years ended April 30, 2025 and 2024, respectively. Our major customers are located in the PRC, Hong Kong and the United States of
+America. Our revenue significantly increased by $2,091,411, or 366% due to the business growth of the healthcare products segment.
+During the years ended April 30, 2025 and 2024, the
+nature of businesses and segment was shown as below:
+Currently, the Company has two reportable business
+segments:
+(i)
+Consulting Service Segment, mainly provides consulting advisory services in management business, accounting and financial services; and
+(ii)
+healthcare Segment, mainly provides healthcare products and healthcare consultation services to the customers.
+7
+In the following table, revenue is disaggregated by
+primary major product line, including a reconciliation of the disaggregated revenue with the reportable segments.
+For the Year ended April 30, 2025
+Healthcare
+Segment
+Consulting Service Segment
+Total
+Revenue from external customers:
+Consulting service income
+$–
+$10,838
+$10,838
+Sale of healthcare products
+2,651,267
+–
+2,651,267
+Total revenue
+2,651,267
+10,838
+2,662,105
+Cost of revenue:
+Consulting service income
+–
+–
+–
+Sale of healthcare products
+(1,086,395)
+–
+(1,086,395)
+Total cost of revenue
+(1,086,395)
+–
+(1,086,395)
+Gross profit
+1,564,872
+10,838
+1,575,710
+Operating expenses:
+Selling and distribution
+(7,666)
+–
+(7,666)
+Personal and benefit costs
+(57,065)
+(144,543)
+(201,608)
+General and administrative
+(21,111)
+(137,011)
+(158,122)
+Total operating expenses
+(85,842)
+(281,554)
+(367,396)
+Segment income (loss)
+$1,479,030
+$(270,716)
+$1,208,314
+For the Year ended April 30, 2024
+Healthcare
+Segment
+Consulting Service Segment
+Total
+Revenue from external customers:
+Consulting service income
+$–
+$26,100
+$26,100
+Sale of healthcare products
+544,594
+–
+544,594
+Total revenue
+544,594
+26,100
+570,694
+Cost of revenue:
+Consulting service income
+–
+–
+–
+Sale of healthcare products
+(192,983)
+–
+(192,983)
+Total cost of revenue
+(192,983)
+–
+(192,983)
+Gross profit
+351,611
+26,100
+377,711
+Operating expenses:
+Selling and distribution
+(22,383)
+(300)
+(22,683)
+Personal and benefit costs
+(15,653)
+(46,993)
+(62,646)
+General and administrative
+(4,673)
+(82,080)
+(86,753)
+Total operating expenses
+(42,709)
+(129,373)
+(172,082)
+Segment income (loss)
+$308,902
+$(103,273)
+$205,629
+8
+The below revenues are based on the countries in which
+the customer is located. Summarized financial information concerning the geographic segments is shown in the following tables:
+For the Year ended April 30,
+2025
+2024
+China
+$385,718
+$411,100
+Hong Kong
+1,072,230
+81,745
+United States of America
+1,204,157
+77,849
+$2,662,105
+$570,694
+During the years ended April 30, 2025 and 2024, the
+following customers accounted for 10% or more of our total net revenues:
+For the Year ended
+April 30, 2025
+April 30, 2025
+Revenues
+Percentage of
+revenues
+Accounts
+receivable
+NOVA BIOLAB
+$972,168
+37%
+$494,500
+Hong Kong Wansushe NG International
+1,072,230
+40%
+501,512
+Tianjin Nuoan International Trade Co., Ltd
+374,880
+14%
+238,208
+TOTAL
+$2,419,278
+91%
+Total
+$1,234,220
+For the Year ended
+April 30, 2024
+April 30, 2025
+Revenues
+Percentage of revenues
+Accounts receivable
+Tianjin Nuoan International Trade Co., Ltd
+$385,000
+67%
+$–
+Hong Kong Wansusheng International Trade Co., Limited
+81,745
+14%
+–
+TOTAL
+$466,745
+81%
+Total
+$–
+9
+Cost of revenue
+Cost of revenue as a percentage of net revenue was
+approximately 41% for the fiscal year ended April 30, 2025. Cost of revenue increased by $893,412 or 463%, is exclusively attributable
+to the business growth of healthcare product segment.
+During the year ended April 30, 2025, the following
+vendor accounted for 10% or more of our purchases:
+For the Year ended
+April 30, 2025
+April 30, 2025
+Vendor
+Purchases
+Percentage of purchases
+Accounts payable
+Universal E-Commerce Inc.
+$966,422
+86%
+Total:
+$–
+During the year ended April 30, 2024, the following
+vendor accounted for 10% or more of our purchases:
+For the Year ended
+April 30, 2024
+April 30, 2024
+Vendor
+Purchases
+Percentage of purchases
+Accounts payable
+Advanced Supplements LLC
+$177,592
+92%
+Total:
+$–
+Gross profit
+We achieved a gross profit of $1,575,710 and $377,711
+for the fiscal years ended April 30, 2025 and 2024, respectively. Gross profit increased by $1,165,571, or 309% is primarily attributable
+to the increase in sales of healthcare products.
+Sales and distribution expenses
+We incurred sales and distribution expenses of $7,666
+and $22,683 for the fiscal years ended April 30, 2025 and 2024, respectively. Sales and distribution expenses decreased by $15,017, or
+66% is primarily attributable to the decrease in advertising expenses aligned with the newly healthcare products.
+Personnel and benefit costs
+We incurred personnel and benefit costs of $201,608
+and $62,646 for the fiscal years ended April 30, 2025 and 2024, respectively. Personnel and benefit costs increased by $138,962, or 222%,
+is primarily attributable to the increase in the salaries of key management personnel.
+General and administrative expenses
+We incurred general and administrative expenses of
+$158,122 and $86,753 for the fiscal years ended April 30, 2025 and 2024, respectively. General and administrative expenses increased by
+$71,369, or 82% is primarily attributable to the increase in the legal and professional fees and salaries and wages during the year.
+10
+Other (expense) income
+We reported other (expense) income of $(4,010) and
+$105. for the fiscal years ended April 30, 2025 and 2024, respectively, which the increase in other expense was primarily attributable
+to interest expenses.
+Net income
+As a result of the factors described above, we reported
+a net income of $850,746 and $140,865 for the year ended April 30, 2025 and 2024.
+Liquidity and capital resources
+On April 30, 2025, we had total current assets of
+$2,256,251, which consisted primarily of $782,810 in cash, $1,266,951 in accounts receivables, $44,247 in inventories, $158,802 in advances
+to vendor and $3,441 in other current assets. We had total current liabilities of $347,567, which consisted of $60,065 in accounts payable
+and accrued expenses, $820 in other current liabilities and $286,682 in income tax payable.
+On April 30, 2024, we had total current assets of
+$1,192,858, which consisted primarily of $593,036 in cash, $132,873 in inventories, $460,870 in advances to vendor and $6,079 in other
+current assets. We had total current liabilities of $136,920, which consisted of $60,749 in accounts payable and accrued expenses, $8,302
+in other current liabilities, $3,000 due to related parties and $64,869 in income tax payable.
+We have never paid dividends on our Common Stock.
+Our present policy is to apply cash to investments in product development, acquisitions or expansion; consequently, we do not expect to
+pay dividends on Common Stock in the foreseeable future.
+Cash Flows
+The following table sets forth a summary of our cash
+flows for the years ended:
+For the Years ended April 30,
+2025
+2024
+Net cash used in operating activities
+$192,774
+$(375,880)
+Net cash provided by financing activities
+$(3,000)
+$960,188
+Operating Activities
+For the year ended April 30, 2025, net cash used in
+operating activities was $192,774 which consisted primarily of a net income of $850,746, a decrease in inventory of $88,626, a decrease
+in other current assets of $2,638, a decrease in advances to vendor of $302,068, an increase in income tax payable of $221,813. The amounts
+were partially offset by adjusted non-cash item consisted of interest expense of $4,506, share-based compensation of $2,000, increase
+in accounts receivables of $1,266,951, decrease in other current liabilities of $7,482 and decrease in accounts payable and accrued expenses
+of $684.
+For the year ended April 30, 2024, net cash used in
+operating activities was $375,880 which consisted primarily of a net income of $140,865, an increase in inventory of $132,873, an increase
+in advances to vendor of $460,870, and increase in other current assets of $6,079. The amounts were partially offset by adjusted non-cash
+item consisted of share-based compensation of $1,000, increase in accounts payable and accrued expenses of $8,906, increase in other current
+liabilities of $8,302, and increase in income tax payable of $64,869.
+11
+Financing Activities
+For the year ended April 30, 2025, net cash used in
+financing activities was $3,000, which consisted repayment to related parties of $3,000.
+For the year ended April 30, 2024, net cash provided
+by financing activities was $960,188, which consisted primarily of proceed from private offering of $957,051 and advances from related
+parties of $3,137.
+Limited operating history; need for additional
+capital
+There is no historical financial information about
+us upon which to base an evaluation of our performance. We are in a start-up stage of operations and have generated limited revenues since
+inception. We cannot guarantee that we will be successful in our business operations. Our business is subject to risks inherent in the
+establishment of a new business enterprise, including limited capital resources and possible cost overruns due to price and cost increases
+in services and products.
+Off-Balance Sheet Arrangements
+The Company does not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on the Company's financial condition, changes in financial condition,
+revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+Contractual Obligations and Commercial Commitments
+We have no contractual obligations and commercial commitments as of April
+30, 2025.
+Critical Accounting Policies
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States requires our management to make assumptions, estimates and judgments
+that affect the amounts reported, including the notes thereto, and related disclosures of commitments and contingencies, if any. We have
+identified certain accounting policies that are significant to the preparation of our financial statements. These accounting policies
+are important for an understanding of our financial condition and results of operations. Critical accounting policies are those that are
+most important to the presentation of our financial condition and results of operations and require management's subjective or complex
+judgment, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change in
+subsequent periods. Certain accounting estimates are particularly sensitive because of their significance to financial statements and
+because of the possibility that future events affecting the estimate may differ significantly from management's current judgments. We
+believe the following accounting policies are critical in the preparation of our financial statements.
+Revenue recognition
+ASC 606, Revenue from Contracts with Customers (“ASC
+606”), establishes principles for reporting information about the nature, amount, timing and uncertainty of revenue and cash flows
+arising from the entity’s contracts to provide goods or services to customers.
+12
+The Company applies the following five steps in order
+to determine the appropriate amount of revenue to be recognized as it fulfills its obligations under each of its agreements:
+·
+identify the contract with a customer;
+·
+identify the performance obligations in the contract;
+·
+determine the transaction price;
+·
+allocate the transaction price to performance obligations in the contract; and
+·
+recognize revenue as the performance obligation is satisfied.
+The Company also follows the guidance provided in
+ASC 606, Revenue from Contracts with Customers, for determining whether the Company is the principal or an agent in arrangements with
+customers that involve another party that contributes to the provision of services and sales of goods to customers. In these instances,
+the Company determines whether it has promised to provide the goods or services itself (as principal) or to arrange for the specified
+goods to be provided by another party (as an agent). This determination is a matter of judgment that depends on the facts and circumstances
+of each arrangement.
+The Company derives its revenue from consulting service
+income and marketing and supplying of healthcare products.
+Where the Company acts as a principal, it sells its
+products directly to restaurants, retailers and individual consumers through its distributor channels. The Company considers Sales Agreement
+to be a contract with the customer. Customer confirmations are executed at the time an order is placed. Revenue is recognized when control
+of the product is transferred to the customer (i.e., when the Company’s performance obligation is satisfied), when the services
+are rendered, or the products are dispatched or picked up by customer. As a result, the Company has a present and unconditional right
+to payment and record the amount due from the customer in accounts receivable. For each contract, the Company considers the promise to
+transfer products to be the only identified performance obligation. In determining the transaction price, the Company evaluates whether
+the price is subject to refund or adjustment to determine the net consideration to which the Company expects to be entitled.
+For the years ended April 30, 2025 and 2024, the Company’s
+sales of healthcare products are recognized at a point in time for its roles as principal, whereas consulting service fee income is recognized
+when services are transferred over time.
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk
+Not required under Regulation S-K for “smaller
+reporting companies.”
+Item 8. Consolidated Financial Statements and
+Supplementary Data
+Our audited consolidated financial statements are
+set forth in this Annual Report beginning on page F-1.
+13
+YIJIA GROUP CORP.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Report of Independent Registered Public Accounting Firm (PCAOB ID No: 2485)
+F-2
+Consolidated Balance Sheets as of April 30, 2025 and 2024
+F-3
+Consolidated Statements of Operations for the Years ended April 30, 2025 and 2024
+F-4
+Consolidated Statements of Changes in Shareholders’ Equity (Deficit) for the Years ended April 30, 2025 and 2024
+F-5
+Consolidated Statements of Cash Flows for the Years ended April 30, 2025 and 2024
+F-6
+Notes to Consolidated Financial Statements
+F-7 to F-18
+F-1
+17506 Colima Road, Ste 101,
+City of Industry, CA 91748
+Tel: +1 (626) 581-0818
+Fax: +1 (626) 581-0809
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+Shareholders and Board of Directors
+Yijia Group Corp.
+New York
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance
+sheets of Yijia Group Corp. and subsidiary (the “Company”) as of April 30, 2025 and 2024, the related consolidated statements
+of operation, stockholders’ equity, and cash flows for the year in the period ended April 30, 2025 and 2024, and the related notes.
+In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company
+at April 30, 2025 and 2024, and the results of its operations and its cash flows the year in the period ended April 30, 2025 and 2024,
+in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These consolidated financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements
+based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+a reasonable basis for our opinion.
+Critical Audit Matter
+Critical audit matters are matters arising from the
+current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee
+and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. We determined that there are no critical audit matters.
+/s/ Simon & Edward, LLP
+We have served as the Company’s auditor since
+2024.
+PCAOB ID: 2485
+Los Angeles County, California
+July 24, 2025
+F-2
+YIJIA GROUP CORP.
+CONSOLIDATED BALANCE SHEETS
+April 30,
+April 30,
+2025
+2024
+ASSETS
+Current assets:
+Cash
+$782,810
+$593,036
+Accounts receivable
+1,266,951
+–
+Inventories
+44,247
+132,873
+Advances to vendor
+158,802
+460,870
+Other current assets
+3,441
+6,079
+Total current assets
+2,256,251
+1,192,858
+TOTAL ASSETS
+$2,256,251
+$1,192,858
+LIABILITIES AND SHAREHOLDERS’ EQUITY (DEFICIT)
+Current liabilities:
+Accounts payable and accrued expenses
+$60,065
+$60,749
+Other current liabilities
+820
+8,302
+Amounts due to related parties
+–
+3,000
+Income tax payable
+286,682
+64,869
+Total current liabilities
+347,567
+136,920
+TOTAL LIABILITIES
+347,567
+136,920
+Commitments and contingencies
+–
+–
+Shareholders’ equity (deficit):
+Common stock, $0.001 par value; 75,000,000 shares authorized; 25,012,270 shares issued and outstanding as of April 30, 2025 and 2024, respectively
+25,012
+25,012
+Additional paid-in capital
+1,012,971
+1,012,971
+Shares to be issued – 20,000 shares of common stock
+3,000
+1,000
+Retained earnings
+867,701
+16,955
+Total Shareholders’ Equity
+1,908,684
+1,055,938
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY
+$2,256,251
+$1,192,858
+See accompanying notes
+to the consolidated financial statements.
+F-3
+YIJIA GROUP CORP.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Years ended April 30,
+2025
+2024
+Revenue, net
+$2,662,105
+$570,694
+Cost of revenue
+(1,086,395)
+(192,983)
+Gross profit
+1,575,710
+377,711
+Operating expense:
+Sales and distribution expenses
+(7,666)
+(22,683)
+Personnel and benefit costs
+(201,608)
+(62,646)
+General and administrative expenses
+(158,122)
+(86,753)
+Total operating expenses
+(367,396)
+(172,082)
+Income from operations
+1,208,314
+205,629
+Other (expense) income:
+Interest expense
+(4,506)
+–
+Sundry income
+496
+105
+Total other (expense) income
+(4,010)
+105
+Income before income tax
+1,204,304
+205,734
+Income tax expense
+(353,558)
+(64,869)
+NET INCOME
+$850,746
+$140,865
+Income per share, basic and diluted
+$0.03
+$0.01
+Weighted average number of shares outstanding, basic and diluted
+25,012,270
+10,643,395
+See accompanying notes
+to the consolidated financial statements.
+F-4
+YIJIA GROUP CORP.
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’
+EQUITY (DEFICIT)
+Common stock
+No. of shares
+Amount
+Additional paid-in capital
+Shares to be issued
+Retained earnings (accumulated
+deficit)
+Total shareholders’ equity (deficit)
+Balance as of April 30, 2023
+5,871,250
+$5,871
+$58,824
+$–
+$(123,910)
+$(59,215)
+Forgiveness of related party’s debt
+–
+–
+16,237
+–
+–
+16,237
+Shares issued under the private placements
+19,141,020
+19,141
+937,910
+–
+–
+957,051
+Share-based compensation – 20,000 shares
+–
+–
+–
+1,000
+–
+1,000
+Net income for the year
+–
+–
+–
+–
+140,865
+140,865
+Balance as of April 30, 2024
+25,012,270
+$25,012
+$1,012,971
+$1,000
+$16,955
+$1,055,938
+Share-based compensation – shares
+–
+–
+–
+2,000
+–
+2,000
+Net income for the year
+–
+–
+–
+–
+850,746
+850,746
+Balance as of April 30, 2025
+25,012,270
+$25,012
+$1,012,971
+$3,000
+$867,701
+$1,908,684
+See accompanying notes
+to the consolidated financial statements.
+F-5
+YIJIA GROUP CORP.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Years ended April 30,
+2025
+2024
+Cash flows from operating activities:
+Net income
+$850,746
+$140,865
+Adjustments to reconcile net income used in operating activities:
+Interest expense
+4,506
+–
+Share-based compensation
+2,000
+1,000
+Change in operating assets and liabilities:
+Inventories
+88,626
+(132,873)
+Accounts receivable
+(1,266,951)
+–
+Advances to vendor
+302,068
+(460,870)
+Other current assets
+2,638
+(6,079)
+Accounts payable and accrued liabilities
+(5,190)
+8,906
+Other current liabilities
+(7,482)
+8,302
+Income tax payable
+221,813
+64,869
+Net cash generated from (used in) operating activities
+192,774
+(375,880)
+Cash flows from financing activities:
+Proceeds from private placement
+–
+957,051
+(Repayment to) advances from related parties
+(3,000)
+3,137
+Net cash (used in) provided by financing activities
+(3,000)
+960,188
+NET CHANGE IN CASH
+189,774
+584,308
+CASH, BEGINNING OF YEAR
+593,036
+8,728
+CASH, END OF YEAR
+$782,810
+$593,036
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Interest paid
+$–
+$–
+Income taxes paid
+$–
+$–
+Non-cash investing and financing activities:
+Forgiveness of related party’s debt
+$–
+$16,237
+See accompanying notes
+to the consolidated financial statements.
+F-6
+YIJIA GROUP CORP.
+NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS
+NOTE 1 －
+ORGANIZATION AND NATURE OF BUSINESS
+Yijia Group Corp. (“the Company” or “YJGJ”)
+was incorporated on January 25, 2017 under the laws of the State of Nevada, United States of America, formerly known as Soldino Group
+Corp.
+The Company has currently commenced its operation
+in the rendering of consulting advisory services in management business, accounting and finance services; and provides healthcare products
+and health consultation services to domestic and international customers.
+On June 6, 2023, the Company’s major shareholder
+and director, Barry Sytner entered into a securities purchase agreement (the “Securities Purchase Agreement”) with Xianchang
+Ma (“Mr. Ma”), pursuant to which Barry Sytner sold 5,066,250 shares of common stock of the Company to Mr. Ma, constituting
+approximately 86.3% of the issued and outstanding shares of the Company as of May 2, 2023, for a total consideration of $470,562, derived
+from the purchaser’s personal funds. The Securities Purchase Agreement was closed on June 14, 2023. Following the closing of the
+securities purchase transaction, Mr. Ma acquired a beneficial interest in 5,066,250 shares of common stock of the Company constituting
+approximately 86.3% of the issued and outstanding shares of the Company as of May 2, 2023 and constituting a change of control of the
+Company. Pursuant to the Securities Purchase Agreement, Barry Sytner has resigned from all his positions with the Company, and Mr. Ma
+was appointed as the Chief Executive Officer, President, Chief Financial Officer and Director of the Company, effective June 14, 2023.
+Mr. Ma passed away on August 3, 2023. On September
+12, 2023, Ms. Caihong Qu, Mr. Xianchang Ma’s sole heir, was allocated 5,066,250 shares of the Company’s common stock at a
+consideration of $Nil through operation of law. Upon completion of this transfer, Ms. Qu possessed 5,066,250 shares of common stock of
+the Company constituting approximately 86.3% of the issued and outstanding shares of the Company as of September 12, 2023, which constituted
+another change of control of the Company at that time. Effective September 13, 2023, the Board comprised Ms. Qiuping Lu and Mr. Ruiming
+Zhou. Ms. Qiuping Lu was appointed as the Chief Executive Officer, President, and Chief Financial Officer of the Company.
+On November 9, 2023, the Company founded Nutripeak
+Trading Corporation (“NTC”), a wholly owned subsidiary incorporated in Nevada. NTC was established with the purpose of marketing
+and supplying healthcare products.
+On January 30, 2024, the Company entered into ten
+securities purchase agreements (the “Purchase Agreements”) in connection with its private offering (the “Offering”)
+of the Company’s unregistered shares of common stock, par value $0.001, with a total of ten (10) investors, consisting of two (2)
+U.S. accredited investors, as defined under Rule 501 of Regulation D, and eight (8) non-U.S. investors (individually, an “Investor”
+and collectively, the “Investors”), at a purchase price of $0.05 per share. This Offering was being conducted on a rolling
+basis and there was no minimum nor maximum offering amount to close this Offering. Each of the Purchase Agreements contained customary
+representations, warranties and covenants by the parties, regularly applied under industry standards. Each of the Investors acknowledged
+and agreed that any resale of the shares issued in connection with this Offering is subject to resale restrictions pursuant to the Securities
+Exchange Act of 1934 and none of the shares purchased herein has been registered under the Securities Act of 1933, as amended. This Offering
+was closed on January 30, 2024 and the Company raised an aggregate gross proceeds of $957,051 by selling and issuing 19,141,020 shares
+of its common stock in this Offering.
+F-7
+The details of the Company’s subsidiary are described below:
+Schedule of details of company subsidiary
+Name
+Place of incorporation
+and kind of
+legal entity
+Principal activities
+and place of operation
+Particulars of issued/
+registered share
+capital
+Effective interest
+Held
+Nutripeak Trading Corporation (“NTC”)
+State of Nevada, United States of America, Corporation
+Marketing and supplying healthcare products
+100 shares of common stock, par value $1 per share
+100%
+YJGJ and its subsidiary are hereinafter referred to
+as (the “Company”).
+NOTE 2 －
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying consolidated financial statements
+have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”)
+and applicable rules and regulations of the U.S. Securities and Exchange Commission (the “SEC”). The financial statements
+are presented in US dollars, which is the Company’s functional currency.
+Principles of Consolidation
+The consolidated financial statements include the
+financial statements of the Company and its subsidiary. All significant inter-company balances and transactions within the Company have
+been eliminated upon consolidation.
+Reclassifications
+Certain amounts on the prior year’s consolidated
+balance sheets, consolidated statements of operations and cash flows were reclassified to conform to current-year presentation, with no
+effect on ending stockholders’ equity.
+Use of Estimates and Assumptions
+The preparation of financial statements in conformity
+with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying
+notes. Actual results could differ from those estimates.
+Significant areas for which management uses estimates
+include:
+·
+sales returns at point in time and allowances;
+·
+inventory;
+·
+income tax valuation allowances
+These estimates require the use of judgment as future
+events, and the effect of these events cannot be predicted with certainty. The estimates will change as new events occur, as more experience
+is acquired and as more information is obtained. We evaluate and update our assumptions and estimates on an ongoing basis and we may consult
+outside experts to assist as considered necessary.
+F-8
+Segment Reporting
+Accounting Standards Codification (“ASC”)
+Topic 280, “Segment Reporting” establishes standards for reporting information about operating segments on a basis consistent
+with the Company’s internal organization structure as well as information about geographical areas, business segments and major
+customers in consolidated financial statements. Currently, the Company has two business segments consisted of consulting service segment
+and healthcare segment operating in the United States of America.
+Cash
+Cash is carried at cost and represents cash on hand
+and demand deposits placed with banks or other financial institutions.
+Inventories
+Inventories
+primarily consist of finished healthcare products which are stated at the lower of cost or
+net realizable value. Cost of inventories is determined using the first-in, first-out method and includes all costs to acquire and other
+costs to bring the inventories to their present location and condition. The Company takes ownership, risks, and rewards of the products
+purchased.
+Inventories
+are written down to estimated net realizable value, which could be impacted by certain factors including historical usage, expected demand,
+anticipated sales price, new product development schedules, product obsolescence, and other factors. The Company continuously evaluates
+the recoverability of the Company’s inventories, and inventory provisions are recorded in the consolidated statements of operations
+and comprehensive income. The Company did not record write-down of potentially obsolete or slow-moving inventories or lower of cost or
+market adjustment for the years ended April 30, 2025 and 2024.
+Revenue Recognition
+·
+identify the contract with a customer;
+·
+identify the performance obligations in the contract;
+·
+determine the transaction price;
+·
+allocate the transaction price to performance obligations in the contract; and
+·
+recognize revenue as the performance obligation is satisfied.
+Currently, the Company operates in two business segments.
+The Consulting Service Segment mainly provides consulting
+advisory services in management, business, accounting and finance; and the Healthcare Segment mainly provides healthcare products and
+health consultation services to customers.
+The sale and distribution of healthcare products,
+such as Nicotinamide Riboside capsules, has only one performance obligation under the fixed-fee arrangements. Revenue is recognized from
+the sale of their healthcare products upon delivery or pick up by the customers, whereas the title and risk of loss are fully transferred
+to customers.
+For those sales orders which are delivered by the
+Company, shipping term is under Ex Works (“EXW”), the Company fulfills the obligation to deliver when the products are available
+on their premises, i.e. the warehouse. Those customers are responsible for all transportation costs, risk of loss, and any other costs
+that point onward.
+F-9
+Revenue is earned from the rendering of consulting
+advisory services to customers. The Company recognizes services revenue over the period in which such services are performed and billed
+to the customer, pursuant to the fulfillment of service terms in the agreement.
+Disaggregation of Revenue
+The following
+table provides information about disaggregated revenue from customers into the nature of the products and services provided, and the related
+timing of revenue recognition:
+Schedule of disaggregated revenue
+For the Years ended April 30,
+Type of products or services
+Timing of revenue recognition
+2025
+2024
+Consultancy service fee income
+Services transferred over time
+$10,838
+$26,100
+Sales of healthcare products
+Goods transferred at a point in time
+2,651,267
+544,594
+TOTAL
+$2,662,105
+$570,694
+Cost of Revenues
+Cost of revenues, which are directly attributable
+to the sale of healthcare products, primarily consists of purchase costs of merchandizes.
+Income Taxes
+The provision for income taxes is determined in accordance
+with the provisions of ASC Topic 740, “Income Taxes” (“ASC 740”). Under this method, deferred tax assets
+and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts
+of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities are measured using enacted income
+tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.
+Any effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment
+date.
+ASC 740 prescribes a comprehensive model for how companies
+should recognize, measure, present, and disclose in their financial statements uncertain tax positions taken or expected to be taken on
+a tax return. Under ASC 740, tax positions must initially be recognized in the financial statements when it is more likely than not the
+position will be sustained upon examination by the tax authorities. Such tax positions must initially and subsequently be measured as
+the largest amount of tax benefit that has a greater than 50% likelihood of being realized upon ultimate settlement with the tax authority
+assuming full knowledge of the position and relevant facts.
+The Company did not have any unrecognized tax positions
+or benefits and there was no effect on the financial condition or results of operations for the years ended April 30, 2025 and 2024. The
+Company and its subsidiary are subject to local and various foreign tax jurisdictions. The Company’s tax returns remain open subject
+to examination by major tax jurisdictions.
+Uncertain Tax Positions
+The Company did not take any uncertain tax
+positions and had no adjustments to its income tax liabilities or benefits pursuant to the ASC 740 provisions of Section 740-10-25
+for the years ended April 30, 2025 and 2024.
+F-10
+Net Income Per Share
+The Company computes net income per share in accordance
+with FASB ASC 260 “Earnings per Share”. Basic income per share is computed by dividing net income available to common shareholders
+by the weighted average number of outstanding common shares during the period. Diluted income per share gives effect to all diluted potential
+common shares outstanding during the period. Dilutive income per share excludes all potential common shares if their effect is anti-dilutive.
+As of April 30, 2025 and 2024, there were no potentially dilutive debt or equity instruments issued or outstanding.
+Stock Based Compensation
+Pursuant to ASU 2018-07, the Company follows ASC 718, Compensation—Stock
+Compensation (“ASC 718”), which requires the measurement and recognition of compensation expense for all share-based
+payment awards (employee or non-employee), are measured at grant-date fair value of the equity instruments that an entity is obligated
+to issue. Restricted stock units are valued using the market price of the Company’s common shares on the date of grant.
+Related Parties
+Parties, which can be a corporation or individual,
+are considered to be related if the entities have the ability, directly or indirectly, to control the other party or exercise significant
+influence over the party in making financial and operational decisions. Companies are also considered to be related if they are subject
+to common control or common significant influence.
+Fair Value Measurement
+The Company follows the guidance of the ASC Topic
+820-10, Fair Value Measurements and Disclosures (“ASC 820-10”), with respect to financial assets and liabilities that
+are measured at fair value. ASC 820-10 establishes a three-tier fair value hierarchy that prioritizes the inputs used in measuring fair
+value as follows:
+·
+Level 1: Inputs are based upon unadjusted quoted prices for identical instruments traded in active markets;
+·
+Level 2: Inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. Black-Scholes Option-Pricing model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based observable inputs; and
+·
+Level 3: Inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing models and discounted cash flow models.
+The carrying value of cash, amount due to a related
+party and other current assets approximates its fair value due to their short-term nature of these financial instruments.
+Recent Accounting Standard Adopted
+In November 2023, the FASB issued ASU 2023-07, Segment
+Reporting (Topic 280): Improvements to Reportable Segment Disclosures. The amended guidance requires incremental reportable segment
+disclosures, primarily about significant segment expenses. The amendments also require entities with a single reportable segment to provide
+all disclosures required by these amendments, and all existing segment disclosures. The amendments will be applied retrospectively to
+all prior periods presented in the financial statements and is effective for fiscal years beginning after December 15, 2023, and interim
+periods in fiscal years beginning after December 15, 2024, with early adoption permitted. The Company is currently in the process of evaluating
+the impact this amended guidance may have on the footnotes to its consolidated financial statements.
+F-11
+Accounting Standards Issued but Not Yet Adopted
+In December 2023, the FASB issued ASU 2023-09, Income
+Taxes (Topic 740): Improvements to Income Tax Disclosures. The amended guidance enhances income tax disclosures primarily related to the
+effective tax rate reconciliation and income taxes paid information. This guidance requires disclosure of specific categories in the effective
+tax rate reconciliation and further information on reconciling items meeting a quantitative threshold. In addition, the amended guidance
+requires disaggregating income taxes paid (net of refunds received) by federal, state, and foreign taxes. It also requires disaggregating
+individual jurisdictions in which income taxes paid (net of refunds received) is equal to or greater than 5 percent of total income taxes
+paid (net of refunds received). The amended guidance is effective for fiscal years beginning after December 15, 2024. The guidance can
+be applied either prospectively or retrospectively. The Company is currently in the process of evaluating the impact this amended guidance
+may have on the footnotes to our unaudited condensed consolidated financial statements.
+Except for the above-mentioned pronouncements, there
+are no new recently issued accounting standards that will have a material impact on the unaudited condensed consolidated balance sheets,
+statements of operations and cash flows.
+NOTE 3 —
+SEGMENT REPORTING
+Currently, the Company has two reportable business
+segments:
+(i)
+Consulting Service Segment, mainly provides consulting advisory services in management business, accounting and financial services; and
+(ii)
+Healthcare Segment, mainly provides healthcare products to customers, most of them are distributors.
+In the following table, revenue is disaggregated
+by primary major product line, including a reconciliation of the disaggregated revenue with the reportable segments.
+Schedule of reconciliation of the disaggregated revenues
+For the Year ended April 30, 2025
+Healthcare
+Segment
+Consulting Service Segment
+Total
+Revenue from external customers:
+Consulting service income
+$–
+$10,838
+$10,838
+Sale of healthcare products
+2,651,267
+–
+2,651,267
+Total revenue
+2,651,267
+10,838
+2,662,105
+Cost of revenue:
+Consulting service income
+–
+–
+–
+Sale of healthcare products
+(1,086,395)
+–
+(1,086,395)
+Total cost of revenue
+(1,086,395)
+–
+(1,086,395)
+Gross profit
+1,564,872
+10,838
+1,575,710
+Operating expenses:
+Selling and distribution
+(7,666)
+–
+(7,666)
+Personal and benefit costs
+(57,065)
+(144,543)
+(201,608)
+General and administrative
+(21,111)
+(137,011)
+(158,122)
+Total operating expenses
+(85,842)
+(281,554)
+(367,396)
+Segment income (loss)
+$1,479,030
+$(270,716)
+$1,208,314
+F-12
+For the Year ended April 30, 2024
+Healthcare
+Segment
+Consulting Service
+Segment
+Total
+Revenue from external customers:
+Consulting service income
+$–
+$26,100
+$26,100
+Sale of healthcare products
+544,594
+–
+544,594
+Total revenue
+544,594
+26,100
+570,694
+Cost of revenue:
+Consulting service income
+–
+–
+–
+Sale of healthcare products
+(192,983)
+–
+(192,983)
+Total cost of revenue
+(192,983)
+–
+(192,983)
+Gross profit
+351,611
+26,100
+377,711
+Operating Expenses
+Selling and distribution
+(22,383)
+(300)
+(22,683)
+Personal and benefit costs
+(15,653)
+(46,993)
+(62,646)
+General and administrative
+(4,673)
+(82,080)
+(86,753)
+Total operating expenses
+(42,709)
+(129,373)
+(172,082)
+Segment income (loss)
+$308,902
+$(103,273)
+$205,629
+The below revenues are based on the countries in which
+the customer is located. Summarized financial information concerning the geographic segments is shown in the following tables:
+Schedule of geographic segments
+For the Years ended April 30,
+2025
+2024
+China
+$385,718
+$411,100
+Hong Kong
+1,072,230
+81,745
+Unites States of America
+1,204,157
+77,849
+$2,662,105
+$570,694
+NOTE 4 －
+INVENTORIES
+Inventories comprised of the following:
+Schedule of inventories
+For the Years ended April 30,
+2025
+2024
+Finished goods – Gene Code NR Capsules
+$44,247
+$132,873
+For the years ended April 30, 2025 and 2024, no allowance
+for obsolete inventories was recorded by the Company.
+F-13
+NOTE 5 －
+ADVANCES TO VENDOR
+Advances to vendor consisted of the following:
+Schedule of advances to vendor
+For the Years ended April 30,
+2025
+2024
+Purchase deposit
+$158,802
+$460,870
+NOTE 6－
+COMMON STOCK
+Authorized shares
+The Company has 75,000,000 shares of common stock
+authorized, par value $0.001 per share.
+Issued and outstanding shares
+In January 2024, the Company issued 19,141,020 shares
+of common stock at a cash price of $0.05 per share for the total proceeds of $957,051 in the private placement.
+As of April 30, 2025 and 2024, there were 25,012,270
+shares of common stock issued and outstanding.
+Share-based compensation
+On January 8, 2024, the Company granted 5,000 common
+stocks issuable per month in total of 60,000 common stocks to the Chief Financial Officer - Steve Niu at fair value of $0.05 per share,
+subject to vesting condition in completion of one year of service. For the years ended April 30, 2025 and 2024, the Company recognized
+share-based compensation in the amount of $2,000 and $1,000, respectively. As of April 30, 2025, the Company’s common stock to be
+issued totaled 60,000.
+NOTE 7 －
+NET INCOME PER SHARE
+Basic net income per share is computed using the weighted
+average number of common shares outstanding during the year. The following table sets forth the computation of basic and diluted net income
+per share for the years ended April 30, 2025 and 2024:
+Schedule of computation of basic and diluted net income (loss) per
+share
+For the Years ended April 30,
+2025
+2024
+Net income attributable to common shareholders
+$850,746
+$140,865
+Net income per share – Basic and diluted
+$0.03
+$0.01
+Weighted average common shares outstanding – Basic and diluted
+25,012,270
+10,643,395
+F-14
+NOTE 8－
+INCOME TAX EXPENSE
+The income tax provision for the years ended April
+30, 2025 and 2024, consists of the following:
+Schedule of income tax provision
+As of April 30,
+2025
+2024
+Federal
+Current
+$310,699
+$64,869
+Deferred
+–
+–
+State
+Current
+42,859
+–
+Deferred
+–
+–
+Income tax provision
+$353,558
+$64,869
+As of April 30, 2025 and 2024, the Company’s
+net deferred tax assets are as follows:
+Schedule of deferred tax assets
+As of April 30,
+2025
+2024
+Deferred tax assets:
+Net operating loss
+$
+102,611
+$
+46,969
+Total deferred tax assets
+102,611
+46,969
+Less: valuation allowance
+(102,611
+)
+(46,969
+)
+Deferred tax assets, net
+$
+–
+$
+–
+The valuation allowance as of April 30, 2025 and 2024
+was $102,611 and $46,969, respectively. In assessing the realizability of deferred tax assets, management considers whether it is more
+likely than not that some portion or all of the deferred income tax assets will not be realized. The ultimate realization of deferred
+income tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become
+deductible. Management considers the scheduled reversal of deferred income tax liabilities, projected future taxable income, and tax planning
+strategies in making this assessment. Based on consideration of these items, management has determined that enough uncertainty exists
+relative to the realization of the deferred income tax asset balances to warrant the application of a full valuation allowance as of April
+30, 2025 and 2024. Up to six years since inception remain open for examination only by taxing authorities of US Federal and State of Nevada.
+The valuation allowance was attributed to Yijia Group Corp. which incurred a loss position.
+F-15
+A reconciliation of the federal income tax rate to
+the Company’s effective tax rate at April 30, 2025 and 2024, consists of the following:
+Schedule of reconciliation of income tax rate
+April 30,
+2025
+2024
+Statutory federal income tax rate
+21.0%
+21.0%
+Deferred tax asset
+(4.6%)
+20.3%
+Change in valuation allowance
+4.6%
+(20.3%)
+Adjustment to current year taxes
+4.6%
+10.5%
+Effective Tax Rate
+25.6%
+31.5%
+The effective
+tax rate differs from the statutory tax rate of 21% for the years ended April 30, 2025 and 2024, primarily due to the adjustment
+to current year taxes and valuation allowance on the deferred tax assets.
+NOTE 9 －
+RELATED PARTY BALANCES AND TRANSACTIONS
+Nature of relationships with related parties
+Name of related party
+Relationship with the Company
+Qiuping Lu (“Ms. Lu”)
+Chief Executive Officer and Director of the Company
+Ruiming Zhou (“Mr. Zhou”)
+Director of the Company
+Steve Niu (“Mr. Niu”)
+Chief Financial Officer of the Company
+Barry Sytner (“Mr. Sytner”)
+Former Director of the Company
+Triangle Accounting Inc.
+An entity controlled by Steve Niu
+Related party balances consisted of the following:
+Schedule of related party balances
+Name
+Nature
+As of April 30,
+2025
+2024
+Qiuping Lu
+Amount due to a director
+$–
+$3,000
+From time to time, the Company’s directors advanced
+funds to the Company for working capital purpose. Those advances are unsecured, non-interest bearing and due on demand.
+On January 8, 2024, the Company granted 5,000 common
+stocks issuable per month in total of 60,000 common stocks to Mr. Niu at fair value of $0.05 per share, subject to vesting condition in
+completion of one year of service. For the years ended April 30, 2025 and 2024, the Company recognized share-based compensation in the
+amount of $2,000 and $1,000 respectively. As of April 30, 2025, the Company’s common stock issuable under share-based compensation
+totaled $3,000 for 60,000 shares.
+On January 30, 2024, the Company issued 1,200,000
+shares of common stock at a price of $0.05 per share for the proceeds of $60,000 from Ms. Lu and issued 2,201,200 shares of common stock
+at a price of $0.05 per share for the proceeds of $110,060 from Mr. Zhou. This Offering was closed on January 30, 2024.
+F-16
+In the ordinary course of business, for the years
+ended April 30, 2025 and 2024, the Company has been involved with transactions, either at cost or current market prices and on the normal
+commercial terms among related parties. The following table provides the transactions with these parties for the years as presented (for
+the portion of such years that they were considered related):
+Schedule of related party transactions
+Name
+Nature
+For the Years ended April 30,
+2025
+2024
+Triangle Accounting Inc.
+Professional fees
+$–
+$1,450
+Apart from the transactions and balances detailed
+elsewhere in these accompanying consolidated financial statements, the Company has no other significant or material related party transactions
+during the years presented.
+NOTE 10 －
+CONCENTRATIONS OF RISK
+The Company is exposed
+to the following concentrations of risk:
+(a)
+Cash
+The Company maintains cash with banks in the United
+States of America (“USA”). Should any bank holding cash become insolvent, or if the Company is otherwise unable to withdraw
+funds, the Company would lose the cash with that bank; however, the Company has not experienced any losses in such accounts and believes
+it is not exposed to any significant risks on its cash in bank accounts. In the United States, the standard insurance amount is $250,000
+per depositor in a bank insured by the Federal Deposit Insurance Corporation (“FDIC”).
+Financial instruments that potentially subject the
+Company to significant concentrations of credit risk are cash. As of April 30, 2025 and 2024, $301,267 and $301,267 of the Company’s
+cash held by financial institutions were uninsured, respectively.
+(b)
+Major customers
+For the years
+ended April 30, 2025 and 2024, the customers who accounts for 10% or more of the Company’s revenues and its outstanding receivable
+balances as at year-end dates, are presented as follows:
+Schedule of concentrations risk
+For the Year ended
+April 30, 2025
+April 30, 2025
+Revenues
+Percentage of
+revenues
+Accounts
+receivable
+Customer A
+$1,072,230
+40%
+$501,512
+Customer B
+972,168
+37%
+494,500
+Customer C
+374,880
+14%
+238,208
+TOTAL
+$2,419,278
+91%
+Total
+$1,234,220
+For the Year ended
+April 30, 2024
+April 30, 2024
+Revenues
+Percentage of
+revenues
+Accounts
+receivable
+Customer C
+$385,000
+67%
+$–
+Customer D
+81,745
+14%
+–
+TOTAL
+$466,745
+81%
+Total
+$–
+F-17
+The Company’s major customers are located in
+the People’s Republic of China, Hong Kong and the United States of America.
+(c)
+Major vendors
+For the years
+ended April 30, 2025 and 2024, the following vendor accounted for 10% or more of our purchases:
+Schedule of concentrations
+risk
+For the Year ended
+April 30, 2025
+April 30, 2025
+Vendor
+Purchases
+Percentage of purchases
+Accounts
+payable
+Vendor A
+$966,422
+86%
+Total:
+$–
+For the Year ended
+April 30, 2024
+April 30, 2024
+Vendor
+Purchases
+Percentage of purchases
+Accounts
+payable
+Vendor B
+$177,592
+92%
+Total:
+$–
+The Company’s major vendor is located in the
+United States of America.
+(d)
+Credit risk
+Financial instruments that are potentially subject
+to credit risk consist principally of accounts receivable. The Company believes the concentration of credit risk in its trade receivables
+is substantially mitigated by its ongoing credit evaluation process and relatively short collection terms. The Company does not generally
+require collateral from customers. The Company evaluates the need for an allowance for expected credit losses based upon factors surrounding
+the credit risk of specific customers, historical trends and other information.
+NOTE 11－
+COMMITMENTS AND CONTINGENCIES
+As of April 30, 2025 and 2024, the Company has no
+commitments or contingencies.
+NOTE 12－
+SUBSEQUENT EVENTS
+In accordance with ASC Topic 855, “Subsequent
+Events”, which establishes general standards of accounting for and disclosure of events that occur after the balance sheet date
+but before the consolidated financial statements are issued, the Company has evaluated all events or transactions that occurred after
+April 30, 2025, up to the date that the audited consolidated financial statements were available to be issued.
+On July 11, 2025, the Board of Directors of the
+Company approved a resolution to award 200,000 shares of the Company’s common stock to Chief Executive Officer Qiuping Lu. The award,
+valued at $36,000 based on the market price of $0.18 per share, was granted in recognition of her contributions to the Company.
+F-18
+Item 9. Changes In and Disagreements with Accountants
+on Accounting and Financial Disclosure.
+None.
+Item 9A. Controls and Procedures.
+Disclosure Controls and
+Procedures
+The Company maintains disclosure
+controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended) that are designed to ensure
+that information required to be disclosed in the Company’s Securities Exchange Act reports is recorded, processed, summarized and
+reported within the time periods specified in SEC rules and forms and that such information is accumulated and communicated to the Company’s
+management, as appropriate, to allow timely decisions regarding required disclosure.
+The Company’s management,
+with the participation of our principal executive and principal financial officer evaluated the effectiveness of the Company’s disclosure
+controls and procedures as of the end of the period covered by this report. Based upon that evaluation, our principal executive and principal
+financial officer concluded that, as of the end of the period covered by this report, the Company’s disclosure controls and procedures
+were not effective.
+Management’s Report
+on Internal Controls over Financial Disclosure Controls and Procedures
+Management is responsible
+for establishing and maintaining adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company’s
+internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted
+in the United States of America. Because of its inherent limitations, internal control over financial reporting may not prevent or detect
+misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the
+supervision and with the participation of management, including the Chief Executive Officer and Chief Financial Officer, the Company conducted
+an evaluation of the effectiveness of the Company’s internal control over financial reporting as of April 30, 2025 using the criteria
+established in “Internal Control - Integrated Framework” issued in 2013 by the Committee of Sponsoring Organizations of the
+Tread way Commission ("COSO").
+A material weakness is a
+deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility
+that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely
+basis. In its assessment of the effectiveness of internal control over financial reporting as of April 30, 2025, the Company determined
+that there were control deficiencies that constituted material weaknesses, as described below.
+1.
+We do not have an Audit Committee – While not being legally obligated to have an audit committee, it is the management’s view that such a committee, including a financial expert member, is an utmost important entity level control over the Company’s financial statement. Currently the Board of Directors acts in the capacity of the Audit Committee, and does not include a member that is considered to be independent of management to provide the necessary oversight over management’s activities.
+2.
+We did not maintain appropriate cash controls – As of April 30, 2025, the Company has not maintained sufficient internal controls over financial reporting for the cash process, including failure to segregate cash handling and accounting functions, and did not require dual signature on the Company’s bank accounts. Alternatively, the effects of poor cash controls were mitigated by the fact that the Company had limited transactions in their bank accounts.
+3.
+We did not implement appropriate information technology controls – As of April 30, 2025, the Company retains copies of all financial data and material agreements; however there is no formal procedure or evidence of normal backup of the Company’s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors.
+14
+Accordingly, the Company
+concluded that these control deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial
+statements will not be prevented or detected on a timely basis by the Company’s internal controls.
+As a result of the material
+weaknesses described above, management has concluded that the Company did not maintain effective internal control over financial reporting
+as of April 30, 2025 based on criteria established in Internal Control- Integrated Framework issued by COSO.
+System of Internal Control
+over Financial Reporting
+Our management is responsible
+for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the
+Exchange Act) that is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the
+Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission’s rules and forms.
+Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to
+be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s
+management, including its principal executive officer or officers and principal financial officer or officers, or persons performing similar
+functions, as appropriate to allow timely decisions regarding required disclosure.
+An evaluation was conducted
+under the supervision and with the participation of our management of the effectiveness of the design and operation of our disclosure
+controls and procedures as of April 30, 2025. Based on that evaluation, our management concluded that our disclosure controls and procedures
+were not effective as of such date to ensure that information required to be disclosed in the reports that we file or submit under the
+Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms.
+Changes in Internal Control
+over Financial Reporting
+There was no change in the
+Company’s internal control over financial reporting during the quarterly period covered by this report that has materially affected,
+or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Item 9B. Other Information.
+During the quarter ended April 30, 2025, no director
+or officer adopted or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as each term is defined in
+Item 408(a) of Regulation S-K.
+Item 9C. Disclosure Regarding Foreign Jurisdictions
+that Prevent Inspections.
+Not applicable.
+15
+PART III
+Item 10. Directors, Executive Officers and Corporate
+Governance.
+The following table sets forth information regarding
+the members of our Board and our executive officers:
+Name
+Age
+Position
+Year Commenced
+Qiuping Lu
+53
+Chief Executive Officer, President and Director
+2023
+Ruiming Zhou
+57
+Director
+2023
+Steve Niu
+62
+Chief Financial Officer
+2024
+Executive Officers and Directors
+Qiuping Lu has been our President, Chief
+Executive Officer and Director since September 2023. Ms. Lu served as the Chief Executive Officer and Chief Financial Officer of China
+Herb Group Holdings between 2014 and 2019.
+Ruiming Zhou has been a Director since
+September 2023. Mr. Zhou graduated from the First Vocational School of Ba Meng, Inner Mongolia.
+Since June 2017, he has been serving as a director at Shandong Tengjunxiang Biotechnology Co., Ltd.
+Steve Niu has been our Chief Financial
+Officer since January 2024. Dr. Steve Niu has served as the President of Triangle Accounting, Inc.
+since 2001. He specializes in U.S. federal and state taxation, international taxation, and foreign income consulting. He has also been
+a professor at Shaw University since 2001. He earned his Ph.D. and Master’s degree in Computer Information Systems from Carleton
+University, Canada, in 2001 and 1998, respectively. In 1984, he graduated from Xi’an University of Science and Technology with a
+Bachelor’s degree in Mining Engineering.
+Compliance with Section
+16(a) of the Securities Exchange Act of 1934
+Our common stock is not registered
+pursuant to Section 12 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Accordingly, our executive
+officers and directors and persons who own more than 5% of a registered class of our equity securities are not subject to the beneficial
+ownership reporting requirements of Section 16(a) of the Exchange Act.
+Code of Ethics
+Our Board has not adopted a written code of business
+conduct and ethics.
+Board Leadership Structure and Risk Oversight
+Our Board has responsibility for the oversight of
+our risk management processes and, either as a whole or through its committees, regularly discusses with management our major risk exposures,
+their potential impact on our business and the steps we take to manage them. The risk oversight process includes receiving regular reports
+from board committees and members of senior management to enable our Board to understand our risk identification, risk management and
+risk mitigation strategies with respect to areas of potential material risk, including operations, finance, legal, regulatory, cybersecurity,
+strategic and reputational risk.
+16
+Committees of the Board of Directors
+We have not
+yet established Compensation, Audit, and Nominations and Corporate Governance committees nor do we have an Audit Committee financial expert
+as defined in Item 407(d)(5) of Regulation S-K promulgated under the Securities Act. Currently, the functions of these committees are
+performed by our entire Board of Directors. We hope to establish these committees and appoint an Audit Committee financial expert as our
+business develops.
+Family Relationships
+We currently do not have any of our officers or directors
+who are related to each other.
+Corporate Governance
+There have been no changes
+in any state law or other procedures by which security holders may recommend nominees to our board of directors. In addition to having
+no nominating committee for this purpose, we currently have no specific audit committee and no audit committee financial expert. Based
+on the fact that our current business affairs are simple, any such committees are excessive and beyond the scope of our business and needs.
+Involvement in Certain Legal Proceedings
+Except as disclosed below, to our knowledge, none
+of our current directors or executive officers has, during the past ten (10) years:
+·
+been convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offenses);
+·
+had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two (2) years prior to that time;
+·
+been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his or her involvement in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be associated with persons engaged in any such activity;
+·
+been found by a court of competent jurisdiction in a civil action or by the SEC or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated;
+·
+been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+·
+been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+17
+Indemnification and Limitation on Liability of
+Directors
+The Company’s articles of incorporation and
+bylaws provide that, to the fullest extent permitted by the laws of the State of Nevada, any officer or director of the Company, who was
+or is a party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal,
+administrative or investigative, by reason of the fact that he or she is or was or has agreed to serve at the request of the Company as
+a director, officer, employee or agent of the Company, or while serving as a director or officer of the Company, is or was serving or
+has agreed to serve at the request of the Company as a director, officer, employee or agent (which, for purposes hereof, shall include
+a trustee, partner or manager or similar capacity) of another corporation, partnership, joint venture, trust, employee benefit plan or
+other enterprise, or by reason of any action alleged to have been taken or omitted in such capacity. For the avoidance of doubt, the foregoing
+indemnification obligation includes, without limitation, claims for monetary damages against Indemnitee to the fullest extent permitted
+under Section 78.7502 of the Nevada Revised Statutes as in existence on the date hereof.
+The indemnification provided shall be from and against
+expenses (including attorneys’ fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by the indemnitee
+or on the indemnitee’s behalf in connection with such action, suit or proceeding and any appeal therefrom, but shall only be provided
+if the indemnitee acted in good faith and in a manner the indemnitee reasonably believed to be in or not opposed to the best interests
+of the Company, and, with respect to any criminal action, suit or proceeding, had no reasonable cause to believe the indemnitee’s
+conduct was unlawful.
+At present, there is no pending litigation or proceeding
+involving any of our directors, officers, employees or agents where indemnification will be required or permitted. Insofar as indemnification
+for liabilities arising under the Securities Act may be permitted to our directors, officers and controlling persons pursuant to the foregoing
+provisions, or otherwise, we have been advised that in the opinion of the SEC such indemnification is against public policy as expressed
+in the Securities Act and is, therefore, unenforceable.
+Insider Trading Policy
+We do not maintain insider trading policies and procedures governing
+the purchase, sale, and/or other dispositions of our securities by our directors, officers, and employees that we believe are reasonably
+designed to promote compliance with insider trading laws, rules, and regulations applicable to us. We have failed to do so due to limited
+number of members of management, limited resources, and the lack of equity awards granted to management. We intend to adopt an insider
+trading policy in the near future.
+Item 11. Executive Compensation.
+The following
+tables set forth certain information about compensation paid, earned or accrued for services by our current and former executive officers
+as of April 30, 2025 and 2024:
+Summary Compensation Table
+Name and principal position
+Year ended
+April 30th
+Salary
+($)
+Stock
+Compensation
+($)
+Total
+($)
+Qiuping Lu, President, Chief Executive Officer and Director (1)
+2025
+$
+134,283
+$
+–
+$
+134,283
+2024
+$
+42,724
+$
+–
+$
+42,724
+Steve Niu, Chief Financial Officer (2)
+2025
+$
+8,000
+$
+2,000
+$
+10,000
+2024
+$
+–
+$
+1,000
+$
+1,000
+Xianchang Ma, former Chief Executive Officer, President,
+2025
+$
+–
+$
+–
+$
+–
+Chief Financial Officer and Director (3)
+2024
+$
+–
+$
+–
+$
+–
+Barry Sytner, former Chief Executive Officer and Director (4)
+2025
+$
+–
+$
+–
+$
+–
+2024
+$
+–
+$
+–
+$
+–
+(1)
+Ms. Lu was appointed as Chief Executive Officer, President, Chief Financial Officer and Director in September 2023. She resigned as Chief Financial Officer in January 2024.
+(2)
+Mr. Niu was appointed as Chief Financial Officer in January 2024.
+(3)
+Mr. Ma became Chief Executive Officer, President, Chief Financial Officer and Director in June 2023 and served until he passed away on August 3, 2023.
+(4)
+Mr. Sytner became Chief Executive Officer, President, Chief Financial Officer and Director in July 2021 and resigned from all of his positions at the Company in June 2023.
+18
+Equity Awards
+A total of 60,000 shares of common stock are authorized
+to be issuable to the Chief Financial Officer of the Company, Steve Niu, under share-based compensation. As of April 30, 2025, no shares
+of common stock have been issued.
+Employment Agreements
+We do not have any employment or consulting agreements
+with our officers or directors.
+Stock Incentive Plan
+We do not have any stock incentive plans.
+Employee Pension, Profit Sharing or other Retirement
+Plans
+We do not have a defined benefit, pension plan, profit
+sharing or other retirement plan, although we may adopt one or more of such plans in the future.
+Granting of Certain Equity Awards Close in Time
+to the Release of Material Nonpublic Information
+In accordance with Item 402(x) of Regulation S-K, we are providing information regarding our procedures related
+to the grant of certain equity awards close in time to the release of material non-public information. Although we do not have a formal
+policy, program, or plan that requires us to award equity or equity-based compensation on specific dates, we do not grant equity awards
+in anticipation of the release of material nonpublic information that is likely to result in changes to the price of our common stock,
+and do not time the public release of such information based on award grant dates. During the last completed fiscal year, we have not
+made awards to any named executive officer or director during the period beginning four business days before and ending one business day
+after the filing of a period report on Form 10-Q or Form 10-K or the filing or furnishing of a current report on Form 8-K, and we have
+not timed the disclosure of material nonpublic information for the purpose of affecting the value of executive compensation.
+Director Compensation
+The following table provides information regarding
+the total compensation that was earned by or paid to each person who served as our directors during the year ended April 30, 2025. Ms.
+Qiuping Lu, Mr. Xianchang Ma and Barry Sytner are not included in the table below as their compensation information is provided in the
+“Summary Compensation Table” above.
+Name
+Fees earned or paid in cash
+($)
+Stock awards
+($)
+Option awards
+($)
+Non-equity incentive plan compensation
+($)
+Nonqualified deferred compensation earnings
+($)
+All other compensation
+($)
+Total
+($)
+Ruiming Zhou (1)
+–
+–
+–
+–
+–
+–
+–
+(1)
+Mr. Zhou became a director of the Company in September 2023.
+19
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and related Stockholder Matters.
+The following table sets forth information as
+of July 24, 2025 regarding the beneficial ownership of the Company’s common stock by each of its executive officers and directors,
+individually and as a group and by each person who beneficially owns in excess of five percent of the common stock after giving effect
+to any exercise of warrants or options held by that person. Unless otherwise indicated, the principal address of the named officers, directors
+and 5% stockholders of the Company is c/o 39 E Broadway, Suite 603, New York, NY 10002.
+Name of Beneficial Owner
+Position
+Amount of Shares Beneficial Owned
+Percent of class (1)
+Qiuping Lu
+President, Chief Executive Officer and Director
+1,248,750
+4.99%
+Ruiming Zhou
+Director
+2,201,220
+8.80%
+Steve Niu
+Chief Financial Officer
+–
+–%
+Officers and Directors as a Group
+(total of 2 persons)
+3,449,970
+13.79%
+5%+ Stockholders
+Huaping Lu
+2,000,000
+8.00%
+Lingtao Zeng
+1,600,000
+6.40%
+Na Wang
+1,600,000
+6.40%
+Fenfen Li
+3,714,840
+14.85%
+Caihong Qu
+5,066,250
+20.26%
+Meilin Chu
+2,000,000
+8.00%
+*
+Less than 1%
+(1)
+Based upon 25,012,270 shares outstanding as of July 24, 2025.
+Changes in Control
+There are no arrangements, to our knowledge, including
+any pledge by any person of securities of the Company, the operation of which may at a subsequent date result in a change in control of
+the Company.
+Item 13. Certain Relationships and Related Transactions.
+The Company has been provided
+free office space by its stockholder. The management determined that such cost is nominal and did not recognize the rent expense in its
+financial statements.
+From time to time, the stockholder
+and director of the Company advanced funds to the Company for working capital purpose. Those advances are unsecured, non-interest bearing
+and due on demand.
+Apart from the transactions
+and balances detailed elsewhere in these accompanying financial statements, the Company has no other significant or material related party
+transactions during the years presented.
+20
+Director Independence
+We have adopted standards
+for director independence that correspond to NASDAQ listing standards and SEC rules. An “independent director” means a person
+who is not an officer or employee of the Company or its subsidiaries, or any other individual having a relationship that, in the opinion
+of the Board, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. To be considered
+independent, the Board must affirmatively determine that neither the director, nor any member of his or her immediate family, has had
+any direct or indirect material relationship with the Company within the previous three years. In addition, to be considered “independent”
+under SEC rules, each member of the Audit Committee may not accept, directly or indirectly, any consulting, advisory, or other compensatory
+fee from us, other than compensation for his or her services as a director.
+The Board considered relationships,
+transactions and/or arrangements with each of the directors and concluded that none of the non-employee directors, or any of his or her
+immediate family members, has any relationship with us that would impair his or her independence. The Board has determined that each member
+of the Board, is not an independent director under applicable NASDAQ listing standards and SEC rules.
+Item 14. Principal Accountant Fees and Services.
+During the year
+ended April 30, 2025 and 2024, we engaged Simon & Edward, LLP (“S&E”) as the Company’s independent registered
+public accounting firm.
+For the years
+ended April 30, 2025 and 2024, we incurred fees, as discussed below:
+Fiscal Years ended April 30,
+2025
+2024
+Audit Fees(1)
+$20,000
+$20,000
+Audit-Related Fees(2)
+$–
+$–
+Tax Fees
+$–
+$–
+All Other Fees
+$–
+$–
+(1)
+Audit fees consist of fees relating to the audit of the Company’s annual consolidated financial statements and reviews of interim condensed consolidated financial statements.
+(2)
+Audit-related fees consisted of reviews of the Company’s registration statements, consents, and the completion of comfort letter procedures associated with the Company’s securities offerings.
+Our Board of Directors has
+not yet adopted pre-approval policies and procedures but considers all matters brought before it. We expect to adopt such policies and
+procedures after the formation of our Audit Committee.
+21
+PART IV
+Item 15. Exhibits; Financial Statement Schedules.
+The following documents are filed as part of this
+Annual Report:
+1.
+Financial Statements: The following Financial Statements and Supplementary Data of Yijia Group Corp. and the Report of Independent Registered Public Accounting Firm included in Part II, Item 8:
+·
+Consolidated Balance Sheets at April 30, 2025 and 2024;
+·
+Consolidated Statements of Operations and Other Comprehensive Income for the years ended April 30, 2025 and 2024;
+·
+Consolidated Statements of Changes in Shareholders’ Equity for the years ended April 30, 2025 and 2024;
+·
+Consolidated Statements of Cash Flows for the years ended April 30, 2025 and 2024; and
+·
+Notes to Financial Statements.
+2.
+Exhibits:
+Exhibit No.
+Description
+3.1
+Articles of Incorporation (incorporated by reference to Form S-1 filed on June 14, 2017)
+3.2
+Certificate of Amendment to the Articles of Incorporation (incorporated by reference to Form 8-K filed on November 26, 2018)
+3.3
+Bylaws (incorporated by reference to Form S-1 filed on June 14, 2017)
+10.1
+Consultant Agreement with SBV Workforce Management (incorporated by reference to Form 8-K filed on February 16, 2022)
+10.2
+Consultant Agreement with Care365 LLC (incorporated by reference to Form 8-K filed on February 16, 2022)
+10.3
+Form of the Purchase Agreement Pursuant to Regulation D under the Securities Act (incorporated by reference to Exhibit 10.1 to Form 8-K filed on February 5, 2024)
+10.4
+Form of the Purchase Agreement Pursuant to Regulation S under the Securities Act (incorporated by reference to Exhibit 10.2 to Form 8-K filed on February 5, 2024)
+21.1
+List of Subsidiaries of the Registrant (incorporated by reference to Exhibit 21.1 to Form 10-K filed on July 29, 2024)
+24.1*
+Power of Attorney (incorporated by reference to the signature page of this Annual Report on Form 10-K)
+31.1*
+Certification of Chief Executive Officer pursuant to Exchange Act Rules 13a-14 and Rule 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification of Chief Financial Officer pursuant to Exchange Act Rules 13a-14 and Rule 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1**
+Certification of Chief Executive Officer and President and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101
+Interactive Data Files
+101.INS
+XBRL Instance Document
+101.SCH
+XBRL Schema Document
+101.CAL
+XBRL Calculation Linkbase Document
+101.DEF
+XBRL Definition Linkbase Document
+101.LAB
+XBRL Label Linkbase Document
+101.PRE
+XBRL Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*Filed herewith.
+**Furnished herewith and not to be incorporated by reference into
+any filing of Yijia Group Corp. under the Securities Act or the Exchange Act whether made before or after the date of this Annual Report.
+Item 16. Form 10-K Summary.
+None.
+22
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized on July 24, 2025.
+YIJIA GROUP CORP.
+By:
+/s/ Qiuping Lu
+Qiuping Lu, Chief Executive Officer, President and Director
+Name
+Position
+Date
+/s/ Qiuping Lu
+Chief Executive Officer, President and Director
+July 24, 2025
+Qiuping Lu
+(Principal Executive Officer)
+/s/ Steve Niu
+Chief Financial Officer
+July 24, 2025
+Steve Niu
+(Principal Financial and Accounting Officer)
+/s/ Ruiming Zhou
+Director
+July 24, 2025
+Ruiming Zhou
+23

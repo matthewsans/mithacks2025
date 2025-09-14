@@ -1,0 +1,2413 @@
+true
+FY
+0000764630
+0000764630
+2024-01-01
+2024-12-31
+0000764630
+2024-06-28
+0000764630
+2025-04-10
+0000764630
+2024-12-31
+0000764630
+2023-12-31
+0000764630
+us-gaap:RelatedPartyMember
+2024-12-31
+0000764630
+us-gaap:RelatedPartyMember
+2023-12-31
+0000764630
+us-gaap:NonrelatedPartyMember
+2024-12-31
+0000764630
+us-gaap:NonrelatedPartyMember
+2023-12-31
+0000764630
+us-gaap:SeriesAPreferredStockMember
+2024-12-31
+0000764630
+us-gaap:SeriesAPreferredStockMember
+2023-12-31
+0000764630
+us-gaap:SeriesBPreferredStockMember
+2024-12-31
+0000764630
+us-gaap:SeriesBPreferredStockMember
+2023-12-31
+0000764630
+us-gaap:ServiceMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:ServiceMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:ProductMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:ProductMember
+2023-01-01
+2023-12-31
+0000764630
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:CommonStockMember
+2022-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2022-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2022-12-31
+0000764630
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0000764630
+us-gaap:RetainedEarningsMember
+2022-12-31
+0000764630
+us-gaap:TreasuryStockCommonMember
+2022-12-31
+0000764630
+2022-12-31
+0000764630
+us-gaap:CommonStockMember
+2023-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2023-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2023-12-31
+0000764630
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0000764630
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000764630
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0000764630
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:TreasuryStockCommonMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:CommonStockMember
+2024-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2024-12-31
+0000764630
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2024-12-31
+0000764630
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000764630
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000764630
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0000764630
+us-gaap:CommonStockMember
+SPEV:StockPurchaseAgreementsMember
+2021-04-07
+2021-04-07
+0000764630
+SPEV:EropEnterprisesLlcMember
+us-gaap:SeriesAPreferredStockMember
+SPEV:StockPurchaseAgreementsMember
+2021-04-07
+2021-04-07
+0000764630
+SPEV:EropEnterprisesLlcMember
+us-gaap:SeriesAPreferredStockMember
+SPEV:StockPurchaseAgreementsMember
+2021-04-07
+0000764630
+SPEV:WorldEquityMarketsMember
+SPEV:StockPurchaseAgreementsMember
+2021-04-07
+2021-04-07
+0000764630
+SPEV:VerdeCapitalMember
+SPEV:StockPurchaseAgreementsMember
+2021-04-07
+2021-04-07
+0000764630
+srt:ChiefExecutiveOfficerMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0000764630
+srt:ChiefExecutiveOfficerMember
+us-gaap:SeriesBPreferredStockMember
+2024-01-01
+2024-12-31
+0000764630
+srt:ChiefExecutiveOfficerMember
+2024-01-01
+2024-12-31
+0000764630
+SPEV:ShorepowerMember
+2024-01-01
+2024-12-31
+0000764630
+SPEV:CustomerAMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-01
+2024-12-31
+0000764630
+SPEV:CustomerAMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2023-01-01
+2023-12-31
+0000764630
+SPEV:CustomerBMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-01
+2024-12-31
+0000764630
+SPEV:CustomerBMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2023-01-01
+2023-12-31
+0000764630
+SPEV:CustomerCMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-01
+2024-12-31
+0000764630
+SPEV:CustomerCMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2023-01-01
+2023-12-31
+0000764630
+SPEV:CovoySolutionssLlcMember
+SPEV:PromissoryNoteAgreementMember
+2023-11-25
+0000764630
+SPEV:CovoySolutionssLlcMember
+SPEV:PromissoryNoteAgreementMember
+2023-11-25
+2023-11-25
+0000764630
+SPEV:ThirdPartyMember
+2024-12-31
+0000764630
+SPEV:ThirdPartyMember
+2023-12-31
+0000764630
+SPEV:PromissoryNoteOneMember
+SPEV:JeffKimMember
+2022-02-15
+0000764630
+SPEV:PromissoryNoteOneMember
+SPEV:JeffKimMember
+2022-02-15
+2022-02-15
+0000764630
+SPEV:PromissoryNoteOneMember
+SPEV:JeffKimMember
+2022-04-01
+2022-04-01
+0000764630
+SPEV:PromissoryNoteOneMember
+SPEV:JeffKimMember
+2024-12-31
+0000764630
+SPEV:PromissoryNoteOneMember
+SPEV:JeffKimMember
+2023-12-31
+0000764630
+SPEV:PromissoryNoteTwoMember
+SPEV:JeffKimMember
+2022-03-01
+0000764630
+SPEV:PromissoryNoteTwoMember
+SPEV:JeffKimMember
+2022-03-01
+2022-03-01
+0000764630
+SPEV:PromissoryNoteTwoMember
+SPEV:JeffKimMember
+2024-12-31
+0000764630
+SPEV:PromissoryNoteTwoMember
+SPEV:JeffKimMember
+2023-12-31
+0000764630
+SPEV:PromissoryNoteThreeMember
+SPEV:JeffKimMember
+2022-12-31
+0000764630
+SPEV:PromissoryNoteThreeMember
+SPEV:JeffKimMember
+2022-12-30
+2022-12-31
+0000764630
+SPEV:PromissoryNoteThreeMember
+SPEV:JeffKimMember
+2024-12-31
+0000764630
+SPEV:PromissoryNoteThreeMember
+SPEV:JeffKimMember
+2023-12-31
+0000764630
+SPEV:JeffKimMember
+SPEV:ExecutiveEmploymentAgreementMember
+2023-03-22
+0000764630
+SPEV:JeffKimMember
+SPEV:ExecutiveEmploymentAgreementMember
+2023-03-22
+2023-03-22
+0000764630
+SPEV:JeffKimMember
+SPEV:ExecutiveEmploymentAgreementMember
+2024-12-31
+0000764630
+SPEV:JeffKimMember
+SPEV:ExecutiveEmploymentAgreementMember
+2023-12-31
+0000764630
+2023-02-17
+2023-02-17
+0000764630
+2023-02-17
+0000764630
+2023-02-28
+2023-02-28
+0000764630
+us-gaap:SeriesBPreferredStockMember
+2023-02-23
+2023-02-23
+0000764630
+us-gaap:CommonStockMember
+2023-02-23
+2023-02-23
+0000764630
+us-gaap:SeriesAPreferredStockMember
+2024-01-01
+2024-12-31
+0000764630
+srt:MinimumMember
+us-gaap:SeriesBPreferredStockMember
+2024-12-31
+0000764630
+srt:MaximumMember
+us-gaap:SeriesBPreferredStockMember
+2024-12-31
+0000764630
+us-gaap:SeriesBPreferredStockMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:WarrantMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:WarrantMember
+2023-12-31
+0000764630
+us-gaap:WarrantMember
+2023-01-01
+2023-12-31
+0000764630
+us-gaap:WarrantMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:WarrantMember
+2024-12-31
+0000764630
+srt:ScenarioPreviouslyReportedMember
+us-gaap:ServiceMember
+2024-01-01
+2024-12-31
+0000764630
+srt:RestatementAdjustmentMember
+us-gaap:ServiceMember
+2024-01-01
+2024-12-31
+0000764630
+srt:ScenarioPreviouslyReportedMember
+us-gaap:ProductMember
+2024-01-01
+2024-12-31
+0000764630
+srt:RestatementAdjustmentMember
+us-gaap:ProductMember
+2024-01-01
+2024-12-31
+0000764630
+srt:ScenarioPreviouslyReportedMember
+2024-01-01
+2024-12-31
+0000764630
+srt:RestatementAdjustmentMember
+2024-01-01
+2024-12-31
+0000764630
+us-gaap:SubsequentEventMember
+2025-01-01
+2025-04-15
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+SPEV:Facility
+SPEV:Item
+SPEV:State
+xbrli:pure
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+WASHINGTON,
+D.C. 20549
+FORM
+10-K/A
+Amendment
+No. 1
+☒
+Annual Report Under Section 13 or 15(d) of The Securities Exchange Act of 1934
+For the fiscal year ended December 31, 2024
+or
+☐
+Transitional Report Under Section 13 or 15(d) of The Securities Exchange Act of 1934
+For the transition period from _________ to _________
+Commission File Number 001-15913
+SHOREPOWER
+TECHNOLOGIES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+06-1120072
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+5289
+NE Elam Young Pkwy, Suite
+180, Hillsboro,
+OR 97124
+(Address of Principal Executive Offices with Zip Code)
+Registrant’s telephone number, including area
+code
+(503) 892-7345
+Securities registered pursuant to Section 12(b) of
+the Act: None.
+Securities registered pursuant to Section 12(g)
+of the Act:
+Common Stock, $.01 par value
+Title of Class
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes ☐
+No ☒
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes ☐
+No ☒
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during
+the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes ☒
+No ☐
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See
+definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company” and “emerging
+growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer ☒
+Smaller reporting company ☒
+Emerging Growth Company ☐
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+If securities are registered pursuant to Section 12(b)
+of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of
+an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. ☐
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. ☐
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+State the aggregate market value of the voting and
+non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average
+bid and asked price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal
+quarter. $4,253,895 as of June 28, 2024.
+Indicate the number of shares outstanding of each
+of the registrant’s classes of common stock, as of the latest practicable date: 49,190,204 shares of common stock as of April 10,
+2025.
+EXPLANATORY NOTE
+This Amendment No. 1 to our Form 10-K/A (“Amendment No. 1”) amends our Annual Report on Form 10-K for the fiscal year ended
+December 31, 2024, filed on April 15, 2025 (the “Original Filing”). This Amendment No. 1 is being filed solely to correct
+the categories and corresponding amounts for cost of revenue and additional disclosures on Company’s adoption of CECL. No other
+changes have been made to the Original Filing other than filing currently dated certifications of our Chief Executive Officer and Chief
+Financial Officer, as required under Sections 302 and 906 of the Sarbanes-Oxley Act of 2002.
+SHOREPOWER TECHNOLOGIES, INC.
+TABLE OF CONTENTS
+Page
+PART I
+Item 1.
+Business
+3
+Item 1A.
+Risk Factors
+10
+Item 1B.
+Unresolved Staff Comments
+10
+Item 1C.
+Cybersecurity
+10
+Item 2.
+Property
+10
+Item 3.
+Legal Proceedings
+10
+Item 4.
+Mine Safety Disclosures
+10
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+11
+Item 6.
+[Reserved]
+11
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operation
+11
+Item 7A.
+Quantitative and Qualitative Disclosure About Market Risk
+12
+Item 8.
+Financial Statements and Supplementary Data
+F-1
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+13
+Item 9A.
+Controls and Procedures
+13
+Item 9B.
+Other Information
+14
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+14
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+14
+Item 11.
+Executive Compensation
+16
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+17
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+17
+Item 14.
+Principal Accountant Fees and Services
+17
+PART IV
+Item 15.
+Exhibits, and Financial Statement Schedules
+18
+Item 16
+Form 10-K Summary
+18
+Signatures
+19
+Cautionary Statement Regarding Forward-Looking Statements
+Unless the context indicates otherwise,
+as used in this Annual Report, the terms “SPEV,” “we,” “us,” “our,” “our company”
+and “our business” refer, to Shorepower Technologies Inc. Certain statements, other than purely historical information, including
+estimates, projections, statements relating to our business plans, objectives, and expected operating results, and the assumptions upon
+which those statements are based, are “forward-looking statements.” These forward-looking statements generally are identified
+by the words “believes,” “project,” “expects,” “anticipates,” “estimates,”
+“intends,” “strategy,” “plan,” “may,” “will,” “would,” “will
+be,” “will continue,” “will likely result,” and similar expressions. Forward-looking statements are based
+on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially
+from the forward-looking statements. Our ability to predict results or the actual effect of future plans or strategies is inherently uncertain.
+Factors which could have a material adverse effect on our operations and future prospects include, but are not limited to: changes in
+economic conditions, legislative/regulatory changes, availability of capital, interest rates, competition, and generally accepted accounting
+principles. These risks and uncertainties should also be considered in evaluating forward-looking statements and undue reliance should
+not be placed on such statements.
+2
+PART I
+Item 1. Business.
+We are a transportation electrification
+company that builds, deploys and operates plug-in stations that allow electric vehicles, trucks and refrigerated trailers to conveniently
+access electric power while parked or staged, resulting in cost savings for fleets and drivers that will not have to use petroleum fuel
+thus significantly reducing associated toxic emissions and greenhouse gases by replacing diesel fuel with electric power.
+We currently operate the largest
+heavy-duty focused network of electrified parking spaces (EPS) in North America. This network includes 60 facilities conveniently located
+at travel centers with approximately 1,800 electrified parking spaces. Most of these facilities are focused on truck stop electrification
+(TSE) and electric standby transport refrigeration units (eTRU), but several sites already include electric vehicle charging stations.
+Shorepower originally started
+business as a TSE provider. TSE provides power for hotel loads at commercial parking facilities. Trucks are required to take a rest period
+for a minimum of 10 hours per day. Trucks typically run their engines to provide heating and cooling in the cab and power accessories.
+Shorepower TSE allows drivers to shut down their main engine and plug into outlets that provide power for household type devices such
+as heaters, air-conditioning units, coffee pots, microwaves, TVs, computers and other accessories. On average, this saves drivers and
+fleets one gallon of diesel per hour. Idling (running) the engine 10 hours per day, 300 days per year could cost in excess of $10,000
+per year in wasted diesel fuel. By using Shorepower, drivers can save over $7,000 annually.
+Additionally, we have over 300
+electric vehicle charging station connection points (plugs), sold or controlled that could be upgraded to include our latest cellular-based
+control module, to make these stations revenue producing stations. Combined with upgrading the TSE stations, we have the potential to
+expand to over 2,000 connection points. However, for our first phase of upgrades, we expect to convert up to six stations per facility
+to level 2 and add two or more DC fast chargers to select locations.
+We believe that the key value
+of the existing travel center facilities is the electric infrastructure and utility service that could easily be upgraded to include electric
+vehicle supply equipment (EVSE) for heavy-duty trucks and buses. Most of these sites could also accommodate light-duty(automobile) electric
+vehicle charging.
+Several sites have already been
+upgraded (or are in the process of being upgraded) to include level 2 charging connectors. We have secured approximately $400,000 in grants
+to upgrade additional sites with total project values of over $1,000,000 (including cost share and host-site contributions) and have an
+additional $1,000,000 in grant applications pending. Grants awarded as of March 2025 include approximately $71,000 for TSE equipment in
+New Hampshire, $114,000 to upgrade two sites in California to include Level 2 and DC fast charging, $100,000 in Washington State to add
+Level 2 charging stations at two facilities, $12,500 to install a charging station in Coos Bay, Oregon, and an additional $100,000+ for
+two other projects in California . Two of the California and the New Hampshire projects are already completed, and the Washington contract
+is in process. Invoicing for these projects will be processed next quarter.
+Wall-mount and/or freestanding pedestals with a
+proprietary, cloud-based payment/control system, and reporting
+Competition
+We face competition from other
+EV charging companies, including ChargePoint, ABB, Cyber Switching, Siemens, Tesla, EVBox, BP, Shell, Hyundai, Electrify America, EVGo,
+BMW, General Motors, Honda, Hyundai, Kia, Mercedes-Benz and Stellantis and others. To be competitive in the EV charging market, we intend
+to provide the lowest build-out and operating cost, competitive end-user cost, highest cost savings and best overall feature set from
+our proprietary back-office control and payment systems so that our customers achieve a faster ROI than offered by our competitors. In
+addition, we believe that our success in obtaining government grants for electric transportation infrastructure will be a competitive
+advantage that we have in obtaining additional non-dilutive grants to facilitate our goal of increasing the number of charging stations
+in the United States and Canada, as well as our long-term relationships with essential manufacturers of commercial charging equipment.
+Additionally, we will explore opportunities to expand into other South American, European and Asian countries as opportunities arise and
+resources become available to invest in these regions.
+3
+There are two types of TSE systems:
+on-board and off-board TSE. In off-board electrification, off-board equipment at the truck stop provides heating, ventilation, and air
+conditioning (HVAC). These HVAC systems are contained in a structure above ground (called a gantry) or on a pedestal beside the truck
+parking spaces. A hose from the HVAC system is connected to the truck window and, in some cases, to a computer touch screen that enables
+payment. These stand-alone systems are generally owned and maintained by private companies that charge an hourly fee. To accommodate the
+HVAC hose, an inexpensive window template may be required in the truck. “Off-board” refers to the location of the HVAC equipment,
+since it is off-board (not permanently installed on the truck). IdleAir operates an off-board TSE business.
+On-board electrification, also
+known as “shorepower,” requires some equipment on-board the truck. Then, trucks can plug into electrical outlets at the truck
+stop. To use on-board electrification, trucks must be equipped with electric air conditioning equipment or a portable heater and an extension
+cord to plug into the electrical outlet. The trucking company or driver owns and maintains the on-board equipment. Shorepower operates
+on-board TSE facilities. Other than the equipment on-board the truck, these systems are generally considered more cost effective to build,
+use (hourly fee), maintain and operate. In its simplest form, on-board TSE can be used by simply purchasing a portable heater and an extension
+cord for as little as a $40 initial investment. This investment could be recouped during the first day/night of use.
+The two types of TSE systems do
+not generally serve the same customers, but we may compete for the same space at a truck stop. However, at least two facilities have both
+IdleAir and Shorepower in the same parking lot. Additionally, IdleAir currently only has fewer than a dozen operational facilities. Trucks
+equipped with electric appliances will generally seek Shorepower (on-board) facilities.
+Financing Strategy
+Under the current administration,
+the future of the Bipartisan Infrastructure Law, that became law on November 15, 2021, is uncertain. Congress previously authorized $7.5
+billion in funding specifically for charging stations. Although the new administration could end this program, there are still plenty
+of state level grants, tax credits and utility programs. Shorepower has been highly successful in obtaining government contracts and incentives
+to deploy electric transportation infrastructure projects. Funds from the Merger have been expended, primarily on expenses related to
+being public (legal, accounting and disclosures). Future funding will come from revenues generated from the business or additional investment.
+We have already been awarded approximately $400,000 in grant funding that should start to be distributed in 2025. We are also continuing
+to upgrade the control system at existing sites to generate interim income until charging station upgrades generate increased revenue
+and we are awarded additional government contracts and/or grants. We estimate that 20% to 50% of infrastructure build-out costs will have
+to be contributed by investors and revenues generated from the business, depending on the desired speed of the build out, grant cost share
+requirements and electric vehicle demand (based on number of electric vehicles produced). For example, if we are successful in securing
+$10 million in grants, we may need to contribute $2 million or more in cost share. We believe that our 20 years of experience in the transportation
+electrification space provide a competitive advantage in what we anticipate to be an explosive growth period in the electric vehicle industry.
+4
+Key Products and Markets
+We offer a line of transportation
+electrification stations that allow all types of vehicles to reduce petroleum consumptions whether for reducing engine idling or charging
+electric vehicles. Our commercial products are all made with stainless steel enclosures designed to offer decades of service. We already
+have some stations that have been operational for over 15 years and several hundred have been in service for more than 10 years. Depending
+on the environment and climate the internal electronics are designed to last at least 5-10 years but can last much longer. All components
+are serviceable, so it is not necessary to replace the entire station even if one component is damaged.
+Our Shorepower Truck Stop Electrification
+(TSE) pedestals provide power and entertainment services to long haul truck drivers during rest periods at truck stops, fuel depots, rest
+areas, staging areas, warehouses and anywhere trucks and RVs park for extended periods. The unit’s robust design provides years
+of operation in harsh environments with relatively low maintenance. These energy vending machines track, control and allow payment for
+energy when tied into our back-office system. The Shorepower TSE station is an outdoor-rated unit constructed with high-grade stainless
+steel. It is typically mounted to a concrete pad with the supplied base plate. Each Shorepower TSE stations can service up to four vehicles
+depending on configuration.
+Shorepower’s electric-standby
+Transport Refrigeration Unit (eTRU) station provides easy access to higher power refrigerated trailers with electric-standby. This allows
+them to run on electricity rather than diesel while stopped, staging or loading/unloading. This provides a clean efficient energy source
+for refrigerated loads such as ice cream, meats, vegetables, pharmaceuticals and other frozen goods. This unit typically mounts below
+the standard TSE station but is also available as a stand-alone or wall mounted station.
+5
+Additionally, we offer on-board
+equipment to ensure our customers can utilize the TSE facilities we have in place. Accessories we offer include portable heaters, heavy-duty
+extension cords and cab wiring kits. Shorepower supplies standard 110v AC and 208v power. Customers can use any off-the-shelf electric
+appliance to make life on the road comfortable and convenient: heaters, coffeemakers, microwave ovens, hand-held vacuums, chargers, computers,
+cell phone chargers, power tools, etc.
+Locations
+We have 60 TSE facilities throughout
+the country along major Interstates. These sites provide a cost effective solution to reducing truck engine idling. Primary corridors
+include Interstate 5 (I-5) on the West Coast, I-95 on the East Coast, I-80/I-90 in the North, I-10/I-20 in the South and other major interconnecting
+Interstates and US highways in between. These same facilities will be the first candidates for upgrading to electric vehicle charging
+stations. We have an established network of facilities that can easily and cost-effectively be upgraded in the short-term.
+Growth Strategies
+Our growth strategies to continue
+to play a leadership role in EV charging are as follows:
+Accelerate new product
+offerings.
+We intend to have a leadership
+position with continued efficient investment in product development. We currently manufacture and sell TSE, eTRU and Level 2 charging
+stations. We have recently launched a medium speed cost-effective DC fast charger. We recently submitted a federal proposal to help offset
+the cost of developing a new DC fast charger with battery energy storage. This system will store energy from renewable energy sources
+such as solar and wind. These renewable energy sources are often available when demand is low. This surplus energy can be used to charge
+the battery energy storage when rates are low and can later be offloaded into an electric vehicle, thus maximizing available energy sources
+at the highest margin. More information on these efforts is provided in the “research and development” section below.
+6
+Invest incrementally in
+marketing and sales.
+We intend to continue to attract
+new customers and pursue a business model which attracts new customers to our charging stations and encourages existing customers to increase
+their charging footprint over time as EV penetration increases.
+Pursue Strategic Acquisitions.
+We intend to explore potential
+high-quality merger and acquisition opportunities in this dynamic marketplace both domestically and overseas. Acquisition candidates include
+charging station companies, charging station management software, electrical contractors, alternative fuel equipment suppliers and truck
+stop electrification (TSE) providers. An electrical contracting business, for example, would allow us to both sell charging stations and
+install them without having to use subcontractors.
+Manufacturing
+We have established strong commercial
+relationships over the decades in which we have been doing business in the transportation electrification industry. We have designed many
+of the products that we use, including our comprehensive payment, monitoring and control system with web base management. The majority
+of our hardware products are manufactured in Oregon and Michigan. Components are sourced from a number of global suppliers, with concentrations
+in the United States and Asia. We work proactively with piece part and final assembly supply partners. We prepare factories for new products,
+establish and monitor quality control points, plan ongoing production and issues purchase orders. Most of our major components are manufactured
+in the U.S. which will give us strategic advantage for qualifying for grants in the United States.
+Government Regulation and Incentives
+State, regional and local regulations
+for installation of EV charging stations vary from jurisdiction to jurisdiction and may include permitting requirements, inspection requirements,
+licensing of contractors and certifications as examples. Compliance with such regulation(s) may cause installation delays.
+OSHA
+We are subject to the Occupational
+Safety and Health Act of 1970, as amended (“OSHA”). OSHA establishes certain employer responsibilities, including maintenance
+of a workplace free of recognized hazards likely to cause death or serious injury, compliance with standards promulgated by OSHA and various
+record keeping, disclosure and procedural requirements. Various standards, including standards for notices of hazards, safety in excavation
+and demolition work and the handling of asbestos, may apply to our operations. We are in full compliance with OSHA regulations.
+NEMA
+The National Electrical Manufacturers
+Association (“NEMA”) is the association of electrical equipment and medical imaging manufacturers. NEMA provides a forum for
+the development of technical standards that are in the best interests of the industry and users, advocacy of industry policies on legislative
+and regulatory matters, and collection, analysis, and dissemination of industry data. Our products comply with the NEMA standards that
+are applicable to such products.
+NRTL Certification
+Our stations are certified by
+a Nationally Recognized Testing Laboratory (NRTL). A Nationally Recognized Testing Laboratory (NRTL) is a private-sector organization
+that OSHA has recognized as meeting the legal requirements in 29 CFR 1910.7 to perform testing and certification of products using consensus-based
+test standards We use Intertek Testing Laboratories and Underwriters Laboratories (UL) to certify that our products are safe and use consistent
+manufacturing processes. Most permitting jurisdictions require NRTL certification on products installed in their territory.
+7
+CAFE Standards
+The regulations mandated by the
+Corporate Average Fuel Economy (“CAFE”) standards set the average new vehicle fuel economy, as weighted by sales, that a manufacturer’s
+fleet must achieve. Although we are not a car manufacturer and are thus not directly subject to the CAFE standards, we believe such standards
+may have a material effect on its business. The Energy Independence and Security Act of 2007 raised the fuel economy standards of America’s
+cars, light trucks and sport utility vehicles to a combined average of at least 35 miles per gallon by 2020—a 10 miles per gallon
+increase over 2007 levels—and required standards to be met at maximum feasible levels through 2030. Building on the success of the
+first phase of the National Program, the second phase of fuel economy and global warming pollution standards for light duty vehicles covers
+model years 2017–2025. These standards were finalized by the U.S. Environmental Protection Agency (“EPA”) and NHTSA
+in August 2012. These standards would have required a reduction in average carbon dioxide emissions of new passenger cars and light trucks
+to 163 grams per mile (g/mi) in model year 2025. Manufacturers may choose to comply with these standards by manufacturing more EVs which
+would mean that more charging stations will be needed.
+However, in April 2020, EPA and
+NHTSA finalized the Safer Affordable Fuel-Efficient Vehicles Rule, which reformulated the required reductions, establishing average carbon
+dioxide emissions of new passenger cars and light trucks of 240 g/mi in model year 2026. Several states and groups have announced intentions
+to sue the U.S. government over this reformulation, so the final CAFE standards cannot currently be predicted with any certainty. However,
+to the extent fuel-efficiency standards are decreasing, this may result in less demand for EVs and, in turn, charging stations of the
+type we manufacture. Additionally, the new administration may roll back these regulations.
+Waste Handling and Disposal
+We are subject to laws and regulations
+regarding the handling and disposal of hazardous substances and solid wastes, including electronic wastes and batteries. These laws generally
+regulate the generation, storage, treatment, transportation and disposal of solid and hazardous waste, and may impose strict, joint and
+several liability for the investigation and remediation of areas where hazardous substances may have been released or disposed. For instance,
+CERCLA, also known as the Superfund law, in the United States and comparable state laws impose liability, without regard to fault or the
+legality of the original conduct, on certain classes of persons that contributed to the release of a hazardous substance into the environment.
+These persons include current and prior owners or operators of the site where the release occurred as well as companies that disposed
+or arranged for the disposal of hazardous substances found at the site. Under CERCLA, these persons may be subject to joint and several
+strict liability for the costs of cleaning up the hazardous substances that have been released into the environment, for damages to natural
+resources and for the costs of certain health studies. CERCLA also authorizes the EPA and, in some instances, third-parties to act in
+response to threats to the public health or the environment and to seek to recover from the responsible classes of persons the costs they
+incur. We may handle hazardous substances within the meaning of CERCLA, or similar state statutes, in the course of ordinary operations
+and, as a result, may be jointly and severally liable under CERCLA for all or part of the costs required to clean up sites at which these
+hazardous substances have been released into the environment.
+We also generate solid wastes,
+which may include hazardous wastes that are subject to the requirements of the Resource Conservation and Recovery Act (“RCRA”)
+and comparable state statutes. While RCRA regulates both solid and hazardous wastes, it imposes strict requirements on the generation,
+storage, treatment, transportation and disposal of hazardous wastes. Certain components of our products are excluded from RCRA’s
+hazardous waste regulations, provided certain requirements are met. However, if these components do not meet all of the established requirements
+for the exclusion, or if the requirements for the exclusion change, we may be required to treat such products as hazardous waste, which
+are subject to more rigorous and costly disposal requirements. Any such changes in the laws and regulations, or our ability to qualify
+the materials it uses for exclusions under such laws and regulations, could adversely affect our operating expenses.
+Research and Development
+We have invested a significant
+amount of time and expense into research and development of our charging technologies. Our ability to play a leadership position depends
+in part on our ongoing research and development activities. Our research and development team is composed of several consultants who are
+responsible for the design, development, manufacturing and testing of our products. We focus our efforts on developing charging hardware
+and developing the technology to support our software subscriptions and support services.
+Our hardware research and development
+is principally conducted in Oregon and Michigan. We currently manufacture our own TSE and Level 2 charging stations. We recently launched
+our own certified medium speed DC fast chargers. Our engineers are working on software, a smartphone app and a higher-speed DC fast charger
+that will include internal battery energy storage. This product will have advantages over standard DC fast chargers in that it will require
+much lower input power requirements and can charge vehicles even if there is a power outage, since it has its own battery energy source.
+Standard DC fast chargers usually require power upgrades and new utility services which are expensive and time consuming. Our self-contained
+DC fast charger could be transported to the host-site and immediately be used to charge vehicles. It could even be used at temporary venues
+such as concerts and sporting events with the optional solar array. The internal battery storage can be charged at off-peak hours, then
+later be used to charge vehicles during high demand periods. The internal battery storage can also be charged with excess wind energy
+(or other renewables) which can help stabilized the grid and make more efficient use of unused solar and wind energy. We have submitted
+two grant applications valued at over $2,000,000 to help develop this product.
+8
+Intellectual Property
+We rely on a combination of patent,
+trademark, copyright, unfair competition and trade secret laws, as well as confidentiality procedures and contractual restrictions, to
+establish, maintain and protect its proprietary rights. Our success depends in part upon its ability to obtain and maintain proprietary
+protection for our products, technology and know-how, to operate without infringing the proprietary rights of others, and to prevent others
+from infringing our proprietary rights. As of January 15, 2023, we filed for one U.S. patent that was abandoned. Should we file for any
+future patents that are issued to us, they may be challenged, invalidated or circumvented and may not provide sufficiently broad protection
+and may not prove to be enforceable in actions against alleged infringers.
+We enter into agreements with
+our employees, contractors, customers, partners and other parties with which we do business to limit access to and disclosure of our technology
+and other proprietary information. We cannot be certain that the steps it has taken will be sufficient or effective to prevent the unauthorized
+access, use, copying or the reverse engineering of our technology and other proprietary information, including by third-parties who may
+use our technology or other proprietary information to develop products and services that compete with us. Moreover, others may independently
+develop technologies that are competitive with us or that infringe on, misappropriate or otherwise violate our intellectual property and
+proprietary rights, and policing the unauthorized use of our intellectual property and proprietary rights can be difficult. The enforcement
+of our intellectual property and proprietary rights also depends on any legal actions we may bring against any such parties being successful,
+but these actions are costly, time-consuming and may not be successful, even when our rights have been infringed, misappropriated or otherwise
+violated.
+We intend to continue to regularly
+assess opportunities for seeking patent protection for those aspects of our technology, designs and methodologies that we believe provide
+a meaningful competitive advantage. However, our ability to do so may be limited until such time as it is able to generate cash flow from
+operations or otherwise raise sufficient capital to continue to invest in our intellectual property. For example, maintaining patents
+in the United States and other countries requires the payment of maintenance fees which, if we are unable to pay, may result in loss of
+our patent rights as previously occurred. If we are unable to do so, our ability to protect our intellectual property or prevent others
+from infringing our proprietary rights may be impaired.
+Facilities
+Shorepower’s headquarters
+are located in Hillsboro, Oregon, in the Portland metro area, where we currently utilize shared office and shop space with a monthly lease
+term. We believe this space is sufficient to meet our needs for the foreseeable future and that any additional space we may require in
+Oregon will be available on commercially reasonable terms. We also occupy a warehouse in Ferndale, Michigan near Detroit on a month-to-month
+basis. This building has space to expand as needed for offices, manufacturing and assembly. We plan on updating this facility to add office
+space and a light assembly area as required.
+Employees
+We currently have two employees,
+Jeff Kim, and a technician. We currently use consultants to perform, bookkeeping, accounting, engineering and installation services. The
+use of consultants and contractors has enabled us to keep overhead costs low by utilizing resources as needed. However, we expect to employ
+additional personnel following receipt of sufficient funding to do so as discussed above. We will strive to offer competitive employee
+compensation and benefits in order to attract and retain a skilled and diverse workforce. Since the Merger, we hired the following consultants:
+a business development specialist with grant writing expertise, an engineer for R&D of new products and updates to current products
+and a CPA to aid in preparing financial statements.
+Legal Proceedings
+We are not party to any material
+legal proceedings. From time to time, we may be involved in legal proceedings or subject to claims incident to the ordinary course of
+business. Regardless of the outcome, such proceedings or claims can have an adverse impact on us because of defense and settlement costs,
+diversion of resources and other factors, and there can be no assurances that favorable outcomes will be obtained.
+9
+Item 1A. Risk Factors
+We are a smaller reporting company
+as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and, as such, are not required to provide the information under this Item.
+Item 1B. Unresolved Staff Comments
+None
+ITEM 1C. CYBERSECURITY
+We use,
+store and process data for and about our customers, employees, partners and suppliers. We have implemented a cybersecurity risk management
+program that is designed to identify, assess, and mitigate risks from cybersecurity threats to this data, our systems and business operations.
+Cyber Risk Management
+and Strategy
+Under
+the oversight of the Board of Directors since we do not currently have an Audit Committee, we have implemented and maintain a risk management
+program that includes processes for the systematic identification, assessment, management, and treatment of cybersecurity risks. Our cybersecurity
+oversight and operational processes are integrated into our overall risk management processes, and cybersecurity is one of our designated
+risk categories. We implement a risk-based approach to the management of cyber threats, supported by cybersecurity technologies, including
+automated tools, designed to monitor, identify, and address cybersecurity risks. In support of this approach, our IT security team implements
+processes to assess, identify, and manage security risks to the company, including in the pillar areas of security and compliance, application
+security, infrastructure security, and data privacy. This process includes regular compliance and critical system access reviews. In addition,
+we conduct application security assessments, vulnerability management, penetration testing, security audits, and ongoing risk assessments
+as part of our risk management process. We also maintain an incident response plan to guide our processes in the event of an incident.
+We utilize
+third parties and consultants to assist in the identification and assessment of risks, including to support tabletop exercises and to
+conduct security testing. We utilize well-known cloud-based technologies and service providers such as Amazon AWS, Microsoft Office, and
+Google enterprise to provide protection against cybersecurity threats. We have a special email encryption from Google that protect against
+cyberthreats.
+Further,
+we have processes in place to evaluate potential risks from cybersecurity threats associated with our use of third-party service providers
+that will have access to our data, including a review process for such providers’ cybersecurity practices, risk assessments, contractual
+requirement, and system monitoring.
+We continue
+to evaluate and enhance our systems, controls, and processes where possible, including in response to actual or perceived threats specific
+to us or experienced by other companies.
+Risks
+from cybersecurity threats have to date not materially affected us, our business strategy, results of operations or financial condition.
+For more information, please see Item 1A. Risk Factors, the section titled “Risk Factors— Risks Related to Our Company and
+Our Business—Computer malware, viruses, ransomware, hacking, phishing attacks and similar disruptions could result in security
+and privacy breaches and interruption in service, which could harm our business.
+Item 2. Properties
+Not applicable.
+Item 3. Legal Proceedings.
+There are no material claims,
+actions, suits, proceedings, or investigations that are currently pending or, to the Company’s knowledge, threatened by or against
+the Company or respecting its operations or assets, or by or against any of the Company’s officers, directors, or affiliates.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+10
+PART II.
+Item 5. Market for Registrant’s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities
+Our common stock is quoted on
+the OTC QB Market under the symbol “SPEV”.
+Our shares are subject to Section
+15(g) and Rule 15g-9 of the Securities and Exchange Act, commonly referred to as the “penny stock” rule. The rule defines
+penny stock to be any equity security that has a market price less than $5.00 per share, subject to certain exceptions. These rules may
+restrict the ability of broker-dealers to trade or maintain a market in our common stock and may affect the ability of shareholders to
+sell their shares. Broker-dealers who sell penny stocks to persons other than established customers and accredited investors must make
+a special suitability determination for the purchase of the security. Accredited investors, in general, include individuals with assets
+in excess of $1,000,000 (not including their personal residence) or annual income exceeding $200,000 or $300,000 together with their spouse,
+and certain institutional investors. The rules require the broker-dealer to receive the purchaser’s written consent to the transaction
+prior to the purchase and require the broker-dealer to deliver a risk disclosure document relating to the penny stock prior to the first
+transaction. A broker-dealer also must disclose the commissions payable to both the broker-dealer and the registered representative, and
+current quotations for the security. Finally, monthly statements must be sent to customers disclosing recent price information for the
+penny stocks.
+Holders
+As of March 31, 2025 there were
+approximately 733 registered holders of record of our common stock, in addition to other persons who are beneficial owners of our common
+stock held in street name. The transfer agent and registrar for our common stock is Olde Monmouth Stock Transfer, 200 Memorial Pkwy, Atlantic
+Highlands, NJ 07716. Their telephone number is (732) 872-2727.
+Dividends
+We have not paid cash or stock
+dividends and have no present plan to pay any dividends, intending instead to reinvest our earnings, if any. For the foreseeable future,
+we expect to retain any earnings to finance the operation and expansion of our business and the payment of any cash dividends on our common
+stock is unlikely.
+Recent Sales of Unregistered Securities
+None
+Issuer Purchase of Securities
+We did not repurchase any of our
+securities during our fiscal year ended December 31 2024.
+Item 6. [Reserved]
+Item 7. Management’s Discussion and Analysis
+of Financial Condition and Results of Operation
+Results of Operations
+Year Ended December 31, 2024, Compared to the
+Year Ended December 31, 2023
+Revenue and Cost of Revenue
+We had total revenue of $65,481 and $20,109 for the
+years ended December 31, 2024 and December 31, 2023, respectively, an increase of $45,372 or 225.6%. We had cost of revenue of $73,159
+and $47,223, respectively, and a deduction for revenue share of $5,027 and $5,906, respectively, for gross margins of ($12,705) and ($33,020),
+respectively.
+11
+Professional Fees
+For the year ended December 31, 2024, the company
+incurred $89,289 professional fees compared to $26,884 for the year ended December 31, 2023, an increase of $62,405 or 235,687%. Professional
+fees generally consist of audit, legal, accounting and investor relation fees. In the current year we had an increase in fees for audit,
+accounting and legal of approximately $46,000, 10,200 and $6,200, respectively.
+General and Administrative Expense
+For
+the year ended December 31, 2024, the company incurred $99,802 of G&A expenses compared to $335,489 for the year ended December 31,
+2023, a decrease of $235,687 or 70.3%. In the prior period we issued shares of common stock for total non-cash expense of $197,844.
+Consulting Expense
+For the year ended December 31, 2024 and 2023, we
+recognized $42,025 and $36,968, respectively, of consulting expense, an increase of $5,057 or 13.7%. This increase was primarily for grant
+writing, engineering services and other consultants that were brought on after the merger to bolster access to government contracts and
+grant opportunities and expand product offerings.
+Officer Compensation
+For the year ended December 31, 2024 and 2023, we
+had officer compensation expense of $186,668 and $120,000, respectively, an increase of $66,668 or 55.6%. Beginning in March officer compensation
+for our CEO increased to $16,667 a month. However, this compensation was not paid to the officer in 2024 and 2023 and has been deferred.
+Other Income/Expense
+For the year ended December 31, 2024, we had total
+other expense of $18,829. We had had interest expense of $69,829 and received $50,000 as a grant award to start
+development of a battery energy storage DC fast Charger. For the year ended December 31, 2023, we had $80,587 of interest expense.
+Net Loss
+For the year ended December 31, 2024 and, we had a
+net loss of $450,318 compared to $632,948 for the year ended December 31, 2023, a decrease of $182,630. We had a decrease in our net loss
+primarily due to the stock issued for services discussed above.
+Liquidity and Capital Resources
+Operating Activities
+For the year ended December 31, 2024, the company
+used $154,046 of cash in operating activities compared to $267,034 for the year ended December 31, 2023.
+Financing Activities
+During the year ended December 31, 2024, we repaid
+$113,245 of related party loans. During the year ended December 31, 2023, we received $660,000 from the sale of common stock and repaid
+$112,856 of related party loans.
+Critical Accounting Policies
+Refer to Note 2 of our financial
+statements contained elsewhere in this Form 10-K for a summary of our critical accounting policies and recently adopted and issued accounting
+standards.
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk
+We are a smaller reporting company
+as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item.
+12
+Item 8. Financial Statements and Supplementary
+Data
+SHOREPOWER TECHNOLOGIES, INC.
+TABLE OF CONTENTS
+Report of Independent Registered Public Accounting Firm (PCAOB ID 6631)
+F-2
+Balance Sheets as of December 31, 2024 and 2023
+F-3
+Statements of Operations for the Years Ended December 31, 2024 and 2023
+F-4
+Statements of Changes in Stockholders’ Equity (Deficit) for the Years Ended December 31, 2024 and 2023
+F-5
+Statements of Cash Flows for the Years Ended December 31, 2024 and 2023
+F-6
+Notes to the Financial Statements
+F-7
+F-1
+Report
+of Independent Registered Public Accounting Firm
+To
+the Board of Directors and Stockholders
+of
+Shorepower Technologies Inc.
+Opinion
+on the Financial Statements
+We
+have audited the accompanying balance sheets of Shorepower Technologies Inc. (the “Company”) as of December 31, 2024 and
+December 31, 2023 and the related statements of operations, stockholders’ deficiency, and cash flows for the years then ended,
+and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements
+present fairly, in all material respects, the financial position of Shorepower Technologies Inc. as of December 31, 2024 and December
+31, 2023, and the results of its operations and cash flows for the years then ended in conformity with accounting principles generally
+accepted in the United States.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Going
+Concern Uncertainty
+The
+accompanying financial statements referred to above have been prepared assuming that the Company will continue as a going concern. As
+discussed in Note 3 to the financial statements, the Company’s present financial situation raises substantial doubt about its ability
+to continue as a going concern. Management’s plans in regard to this matter are also described in Note 3. The financial statements
+do not include any adjustments that might result from the outcome of this uncertainty.
+Critical
+Audit Matters
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Revenue
+Recognition– Refer to Note 2
+Critical
+Audit Matter Description
+Revenue
+recognition was identified as the critical audit matter due to its significance and risks to the financial statements as a whole. The
+sale is from services and products.
+How
+the Critical Audit Matter was Addressed in the Audit:
+Our
+principal audit procedures related to the Company’s sales included:
+1.
+Reviewed the Company’s revenue recognition process
+and ascertained the Company has adopted ASC 606.
+2.
+Performed detail testing on sales to ascertain sales
+are valid and accurate
+3.
+Performed sales cutoff procedures to verify sales are
+recorded in the proper period.
+4.
+Considered the adequacy of the disclosure in the financial
+statements in relation to sales.
+Valley
+Stream, New York
+September 2, 2025
+We
+have served as the Company’s auditor since 2020.
+PCAOB
+ID: 6631
+F-2
+SHOREPOWER TECHNOLOGIES INC.
+BALANCE SHEETS
+December 31,
+December 31,
+2024
+2023
+ASSETS
+Current Assets:
+Cash
+$18,332
+$285,623
+Prepaids
+1,322
+—
+Note receivable
+—
+15,000
+Inventory
+44,763
+6,876
+Total Current Assets
+64,417
+$307,499
+Non-Current Assets:
+Other asset
+1,000
+1,000
+Total non-current assets
+1,000
+1,000
+Total Assets
+$65,417
+$308,499
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current Liabilities:
+Accounts payable and accrued expenses
+$92,353
+23,465
+Accounts payable – related party
+37,110
+40,058
+Accrued officer compensation – related party
+306,668
+120,000
+Accrued interest – related party
+148,460
+80,587
+Notes payable – related party
+125,775
+125,773
+Note payable
+111,395
+111,395
+Total Current Liabilities
+821,761
+501,278
+Notes payable, net of current portion – related party
+919,678
+1,032,925
+Total Liabilities
+1,741,439
+1,534,203
+Commitment and contingency
+—
+—
+Stockholders’ Deficit:
+Preferred stock, $0.01 par value, 6,894,356 shares authorized; no shares issued and outstanding
+—
+—
+Series A preferred stock, $0.01 par value, 1,105,644 shares designated; no shares issued and outstanding
+—
+—
+Series B preferred stock, $0.01 par value, 10,000,000 shares designated; 2,000,000 issued and outstanding
+20,000
+20,000
+Preferred
+stock, value
+20,000
+20,000
+Common stock, $0.01 par value, 100,000,000 shares authorized; 48,478,678 and 48,478,678 shares issued and outstanding, respectively
+484,787
+484,787
+Additional paid-in capital
+802,692
+802,692
+Accumulated deficit
+(2,941,047)
+(2,490,729)
+Treasury stock, at cost; 39,975 shares of common stock
+(42,454)
+(42,454)
+Total Stockholders’ Deficit
+(1,676,022)
+(1,225,704)
+Total Liabilities and Stockholders’ Deficit
+$65,417
+$308,499
+The accompanying notes are an integral part of these
+financial statements.
+F-3
+SHOREPOWER TECHNOLOGIES INC.
+STATEMENTS OF OPERATIONS
+2024
+2023
+For the Years Ended December 31,
+2024
+2023
+(Restated)
+Service revenue
+$14,642
+$12,632
+Product sales
+50,479
+7,477
+Total revenue
+65,121
+20,109
+Cost of service revenue
+(60,202)
+(39,831)
+Cost of product sales
+(12,597)
+(7,392)
+Cost of revenue
+(12,597)
+(7,392)
+Less revenue share
+(5,027)
+(5,906)
+Gross margin
+(12,705)
+(33,020)
+Operating Expenses:
+Professional fees
+89,289
+26,884
+General and administrative
+99,802
+335,489
+Consulting
+42,025
+36,968
+Officer compensation
+186,668
+120,000
+Total operating expenses
+417,784
+519,341
+Loss from Operations
+(430,489)
+(552,361)
+Other Income (Expense):
+Grant income
+50,000
+—
+Interest expense
+(69,829)
+(80,587)
+Total other expense
+(19,829)
+(80,587)
+Net loss
+$(450,318)
+$(632,948)
+Loss per Common Share: Basic and Diluted
+$(0.01)
+$(0.01
+Weighted Average Number of Common Shares: Basic and Diluted
+48,478,678
+42,480,346
+The accompanying notes are an integral part of these
+financial statements.
+F-4
+SHOREPOWER TECHNOLOGIES INC.
+STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT)
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Shares
+Amount
+(Deficit)
+Common Stock
+Series A Preferred Stock
+Series B Preferred Stock
+Additional Paid-in
+Accumulated
+Treasury Stock
+Total
+Stockholders’ Equity
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Shares
+Amount
+(Deficit)
+December 31, 2022
+36,435,106
+$364,351
+—
+$—
+2,000,000
+$20,000
+$65,284
+$(1,857,781)
+39,975
+$(42,454)
+$(1,450,600)
+Common stock sold for cash
+11,000,000
+110,000
+—
+—
+—
+—
+550,000
+—
+—
+—
+660,000
+Common stock issued for services
+1,043,572
+10,436
+—
+—
+—
+—
+187,408
+—
+—
+—
+197,844
+Net loss
+—
+—
+—
+—
+—
+—
+—
+(632,948)
+—
+—
+(632,948)
+December 31, 2023
+48,478,678
+484,787
+—
+—
+2,000,000
+20,000
+802,692
+(2,490,729)
+39,975
+(42,454)
+(1,225,704)
+Balance
+48,478,678
+484,787
+—
+—
+2,000,000
+20,000
+802,692
+(2,490,729)
+39,975
+(42,454)
+(1,225,704)
+Net loss
+—
+—
+—
+—
+—
+—
+—
+(450,318)
+—
+—
+(450,318)
+December 31, 2024
+48,478,678
+$484,787
+—
+$—
+2,000,000
+$20,000
+$802,692
+$(2,941,047)
+39,975
+$(42,454)
+$(1,676,022)
+Balance
+48,478,678
+$484,787
+—
+$—
+2,000,000
+$20,000
+$802,692
+$(2,941,047)
+39,975
+$(42,454)
+$(1,676,022)
+The accompanying notes are an integral part of these
+financial statements.
+F-5
+SHOREPOWER TECHNOLOGIES INC.
+STATEMENTS OF CASH FLOWS
+2024
+2023
+For the Years Ended December 31,
+2024
+2023
+Cash Flows from Operating Activities:
+Net loss
+$(450,318)
+$(632,948)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Stock compensation
+—
+197,844
+Changes in operating assets and liabilities:
+Inventory
+(37,887)
+3
+Prepaids
+(1,322)
+—
+Note receivable
+15,000
+(15,000)
+Accounts payable and accrued expenses
+68,888
+(11,708)
+Accounts payable – related party
+(2,948)
+(5,812)
+Accrued interest – related party
+67,873
+80,587
+Accrued officer compensation
+186,668
+120,000
+Net cash used in operating activities
+(154,046)
+(267,034)
+Cash Flows from Investing Activities
+—
+—
+Cash Flows from Financing Activities:
+Common stock issued for cash
+—
+660,000
+Repayment of related party loan
+(113,245)
+(112,856)
+Net cash (used) provided by financing activities
+(113,245)
+547,144
+Net change in cash
+(267,291)
+280,110
+Cash, beginning of year
+285,623
+5,513
+Cash, end of year
+$18,332
+$285,623
+Supplemental disclosures of cash flow information:
+Interest paid
+$1,956
+$—
+Income tax paid
+$—
+$—
+The accompanying notes are an integral part of these
+financial statements.
+F-6
+SHOREPOWER TECHNOLOGIES INC.
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2024
+NOTE 1 – ORGANIZATION AND DESCRIPTION OF
+BUSINESS
+Shorepower Technologies Inc. (“SPEV” “Shorepower”
+“the Company”) (formerly United States Basketball League, Inc)
+was incorporated in Delaware on May 29, 1984, as a wholly owned subsidiary of Meisenheimer Capital, Inc. (“MCI”) for the purpose
+of developing and managing a professional basketball league, the United States Basketball League (the “League”).
+On April 7, 2021, through a series of Stock Purchase
+Agreements (the “Purchase Agreements”), the majority owners of the Company, Richard C. Meisenheimer, Daniel T. Meisenheimer,
+III, James Meisenheimer, Meisenheimer Capital, Inc. and Spectrum Associates, Inc. (the “Sellers”) sold 2,704,007 common shares
+which it held, to a new investor group. The Sellers also sold 1,105,644 of SPEV’s preferred stock at a per share price of $.057
+per share to EROP Enterprises, LLC. As a result of the sale of common and preferred stock by the Sellers, the Company experienced a change
+in control.
+World Equity Markets acted in the capacity of a broker/dealer
+for the Purchase Agreements and was issued 125,000 shares of common stock for its services, and Verde Capital was issued 150,000 shares
+for Consulting Services. Effective April 7, 2021, the Board of Directors accepted the resignation of Daniel T. Meisenheimer, III as Chairman
+of the Board of Directors and President of the Company. Effective April 7, 2021, Saeb Jannoun was appointed to fill the vacancy following
+the resignation of Daniel T. Meisenheimer, III as Chairman of the Board of Directors and President of the Company. Mr. Michael Pruitt
+also joined the Board.
+The Company’s Agreement and Plan of Merger (the
+“Merger Agreement”) with Shurepower, LLC d/b/a Shorepower Technologies under which Shorepower was merged with and into SPEV
+(the “Merger”) was closed on March 22, 2023.
+Under the terms of the Merger Agreement, Jeff Kim,
+the prior CEO of Shurepower, LLC and the current CEO of the Company, now owns 26,089,758 of the issued and outstanding shares of the Company’s
+common stock. 11,000,000 shares of common stock were sold under the Pre-Merger Financing that raised $660,000. Mr. Kim has received 2,000,000
+shares of a Series B Preferred stock and the right to receive the following additional shares of SPEV common stock upon achieving the
+following milestones: (i) an additional 2.5% of the issued and outstanding SPEV Common Stock upon the completion of either (a) the conversion
+of 75 existing connection points to Level 2 or greater or the (b) installation of 75 new connection points to revenue producing stations
+in the first 12 months or some combination of the two yielding 75 units, (ii) an additional 2.5% of the of the issued and outstanding
+SPEV Common Stock upon (a) the application for $10M in grants and/or the (b) the award of $1.0 million in grants in the first 18 months;
+(iii) an additional 2.5% of the issued and outstanding SPEV common stock outstanding upon the completion of acquisitions in the first
+24 months generating no less than $3.0 million in gross revenues and (iv) an additional 500,000 shares of SPEV common stock upon acquiring
+or hiring the following key personnel in the first six months after the effective date of the merger: (a) three or more qualified Board
+members and (b) at least three of the following four individuals having the following qualifications: one sales/marketing person, one
+grant writer/Government relations person, one technician/maintenance person and one software programmer/engineer.
+We accounted
+for the Merger transaction as a recapitalization resulting from the acquisition by a non-operating public company that is not a shell
+company (as defined in Rule 12b-2 under the Securities Exchange Act of 1934). This accounting treatment as a recapitalization is consistent
+with Commission guidance promulgated in staff speeches and the SEC Reporting Manual, Topic 12 on Reverse Acquisitions and Recapitalizations.
+As such, the transaction is outside the scope of FASB ASC 805. Specifically, the Merger transaction was treated as a reverse recapitalization
+in which the entity that issues securities (the legal acquirer) is determined to be the accounting acquiree, while the entity receiving
+securities (the legal acquiree) is the accounting acquirer.
+Under reverse
+merger accounting (i.e., recapitalization), historical financial statements of Shurepower, LLC (the
+legal acquiree, accounting acquirer), are presented with one adjustment, which is to retroactively adjust the accounting acquirer’s
+legal capital to reflect the legal capital of the accounting acquiree. That adjustment is required to reflect the capital of the legal
+parent (the accounting acquiree). Comparative information presented in the financial statements also is retroactively adjusted to reflect
+the legal capital of the legal parent (accounting acquiree).
+F-7
+Effective on
+the date of closing the merger, Saeb Jannoun and Michael D. Pruitt resigned as directors of the Company, and Mr. Jannoun resigned as the
+CEO. Jeff Kim was appointed as the sole officer and director.
+Effective June 20, 2023, the Company’s name
+was changed to Shorepower Technologies Inc and its ticker symbol to SPEV.
+The Company is a transportation electrification infrastructure
+manufacturer and service provider of Electric Vehicle Supply Equipment (EVSE), Truck Stop Electrification (TSE) and electric standby Transport
+Refrigeration Unit (eTRU) stations. They have 60 operational TSE facilities with over 1,800 individual electrified parking spaces in 31
+states. Shorepower’s stations are EPA SmartWay-Verified and CARB-Verified. The Company has headquarters in Hillsboro (Portland Area),
+Oregon and an office in Detroit, Michigan metro area. Shorepower is a certified minority owned business enterprise (MBE). The Company’s
+management team is comprised of a group of seasoned individuals with knowledge of technology, transportation and heavy-duty vehicles and
+nearly two decades working together. Combined, the team has managed over $16 million in government contracts and grant funds to deploy
+transportation electrification throughout the nation.
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES
+Basis of Presentation
+The Company’s financial statements have been
+prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”).
+Effective July 10, 2024, the Company
+has changed its fiscal year end from February 28 to December 31.
+Use of Estimates
+The preparation of financial statements in conformity
+with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during
+the reporting period. Actual results could differ from those estimates. The Company’s accounting estimates include the collectability
+of receivables.
+Concentration of Credit Risk
+Financial instruments that potentially expose the
+Company to concentration of credit risk consist primarily of cash and accounts receivable. The Company’s cash is deposited with
+major financial institutions. At times, such deposits may be in excess of the Federal Deposit Insurance Corporation insurable amount (“FDIC”).
+As of December 31, 2024 and 2023, the Company had no cash in excess of the FDIC’s $250,000 coverage limit.
+Cash Equivalents
+The Company considers all highly liquid investments
+with a maturity of three months or less when purchased to be cash equivalents. There were no cash equivalents for the years ended December
+31, 2024 and 2023.
+Fair Value of Financial Instruments
+The Company follows paragraph 825-10-50-10 of the
+FASB Accounting Standards Codification for disclosures about fair value of its financial instruments and paragraph 820-10-35-37 of the
+FASB Accounting Standards Codification (“Paragraph 820-10-35-37”) to measure the fair value of its financial instruments.
+Paragraph 820-10-35-37 establishes a framework for measuring fair value in accounting principles generally accepted in the United States
+of America (U.S. GAAP) and expands disclosures about fair value measurements. To increase consistency and comparability in fair value
+measurements and related disclosures, Paragraph 820-10-35-37 establishes a fair value hierarchy which prioritizes the inputs to valuation
+techniques used to measure fair value into three (3) broad levels. The fair value hierarchy gives the highest priority to quoted prices
+(unadjusted) in active markets for identical assets or liabilities and the lowest priority to unobservable inputs. The three (3) levels
+of fair value hierarchy defined by Paragraph 820-10-35-37 are described below:
+Level 1: Quoted market prices available in active markets for identical
+assets or liabilities as of the reporting date.
+Level 2: Pricing inputs other than quoted prices in
+active markets included in Level 1, which are either directly or indirectly observable as of the reporting date.
+Level 3: Pricing inputs that are generally unobservable inputs and not
+corroborated by market data.
+F-8
+The carrying amount of the Company’s financial
+assets and liabilities, such as cash, accounts receivable, prepaid expenses, accounts payable and accrued expenses approximate their fair
+value because of the short maturity of those instruments. The Company’s notes payable represents the fair value of such instruments
+as the notes bear interest rates that are consistent with current market rates.
+Stock-based Compensation
+We account for equity-based transactions with employees
+and non-employees under the provisions of FASB ASC Topic 718, “Compensation – Stock Compensation” (“Topic
+718”), which establishes that equity-based payments to employees and non-employees are recorded at the grant date the fair
+value of the equity instruments the entity is obligated to issue when the employees and non-employees have rendered the requisite service
+and satisfied any other conditions necessary to earn the right to benefit from the instruments. Topic 718 also states that observable
+market prices of identical or similar equity or liability instruments in active markets are the best evidence of fair value and, if available,
+should be used as the basis for the measurement for equity and liability instruments awarded in these share-based payment transactions.
+However, if observable market prices of identical or similar equity or liability instruments are not available, the fair value shall be
+estimated by using a valuation technique or model that complies with the measurement objective, as described in Topic 718.
+Net Income (Loss) Per Common Share
+Net income (loss) per common share is computed pursuant
+to section 260-10-45 of the FASB Accounting Standards Codification. Basic net income (loss) per common share is computed by dividing net
+income (loss) by the weighted average number of shares of common stock outstanding during the period. Diluted net income (loss) per common
+share is computed by dividing net income (loss) by the weighted average number of shares of common stock and potentially outstanding shares
+of common stock during the period. The weighted average number of common shares outstanding and potentially outstanding common shares
+assumes that the Company incorporated as of the beginning of the first period presented. As of December 31, 2024 and 2023, the Company’s
+diluted loss per share is the same as the basic loss per share, as the inclusion of any potential shares would have had an anti-dilutive
+effect due to the Company generating a loss.
+Accounts Receivable
+Revenues that have been recognized
+but not yet received are recorded as accounts receivable. Losses on receivables will be recognized when it is more likely than not
+that a receivable will not be collected.\There was no
+account receivable at December 31, 2024 and December 31, 2023.
+Adoption
+of CECL
+On
+January 1, 2023, the Company adopted Accounting Standards Update (“ASU”) 2016-13, Financial Instruments—Credit
+Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (“CECL”), using the modified retrospective
+method.
+The
+Company maintains an allowance for credit losses (“ACL”) to cover expected lifetime losses on financial assets measured at
+amortized cost, including account receivables, held-to-maturity debt securities, and loan receivables. The ACL represents management’s
+best estimate of probable credit losses, determined using historical loss experience, current conditions, and reasonable and supportable
+forecasts.
+Expected
+credit losses are measured on a collective (pool) basis when similar risk characteristics exist. For assets without similar risk characteristics,
+the Company evaluates expected losses individually. The Company applies a discounted cash flow approach / loss-rate method / probability-of-default
+model (customize based on your methodology).
+For
+the years ended December 31, 2024 and December 31, 2023, the Company concluded that no provisions for credit losses were required.
+Revenue Recognition
+The Company follows ASC 606, Revenue from Contracts
+with Customers, the core principle of which is that an entity should recognize revenue to depict the transfer of promised goods or
+services to customers in an amount that reflects the consideration to which the entity expects to be entitled to receive in exchange for
+those goods or services. To achieve this core principle, five basic criteria must be met before revenue can be recognized: (1) identify
+the contract (or PO) with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4)
+allocate the transaction price to performance obligations in the contract; and (5) recognize revenue when or as the Company satisfies
+a performance obligation. The Company generated revenues from selling power vending stations (charging stations) or services. The Company
+considers its performance obligations satisfied upon shipment and/or delivery of the purchased products to the customer. The Company evaluates
+returns from customers purchasing product on a case-by-case basis and generally will issue replacement product in the limited cases of
+product returns. The Company has no policy requiring cash refunds.
+Product
+sales – Revenue is recognized at the point where the customer obtains control of the goods and the Company satisfies its
+performance obligation, which generally is at the time it ships the product to the customer or installation of the product.
+Service
+revenue – Revenue is recognized at the point of when a particular charging session is completed.
+F-9
+The
+Company does not have reportable segments, and all sales occurred in the United States.
+Customer
+Concentration
+For
+the years ended December 31, 2024 and 2023, certain customers individually accounted for more than 10% of total revenue. The following
+table presents revenue from those customers as a percentage of total sales:
+SCHEDULE OF CUSTOMERS CONCENTRATION
+Customer
+2024 % of Revenue
+2023 % of Revenue
+Customer A
+-
+27.33%
+Customer B
+44.93%
+-
+Customer C
+21,50%
+-
+Customer
+21,50%
+-
+Cost of Revenue
+Cost of revenues includes actual product cost, labor,
+if any, and direct overheard, including utility (electricity) bills, which is applied on a per unit basis.
+Revenue sharing arrangement
+Revenue-sharing arrangements are recognized gross
+when the Company has reasonable latitude in establishing the price billed to the end customer and has the primary responsibility to determine
+the service specifications. The Company receives gross revenues from its customers, then pays the host-sites their revenue share on a
+quarterly basis. The revenue share varies depending on the site.
+Income Taxes
+The Company accounts for income taxes under the asset
+and liability method, in which deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences
+between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss
+and tax credit carry forwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income
+in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities
+of a change in tax rates is recognized in operations in the period that includes the enactment date. A valuation allowance is required
+to the extent any deferred tax assets may not be realizable.
+Recently Issued Accounting Pronouncements
+In November 2023, the FASB issued ASU 2023-07, Segment
+Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which will add required disclosures of significant expenses
+for each reportable segment, as well as certain other disclosures to help investors understand how the CODM evaluates segment expenses
+and operating results. The new standard will also allow disclosure of multiple measures of segment profitability if those measures are
+used to allocate resources and assess performance. The amendments will be effective for public companies for fiscal years beginning after
+December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted.
+In November 2024, the FASB issued ASU 2024-03, Disaggregation
+of Income Statement Expenses (“DISE”), which will require additional disclosure of the nature of expenses included in
+the income statement in response to longstanding requests from investors for more information about an entity’s expenses. This ASU
+was further clarified by ASU 2025-01, Income Statement (Topic 220): Reporting Comprehensive Income - Expense Disaggregation Disclosures,
+Disaggregation of Income Statement Expenses, which was issued in December 2024. The new standards require disclosures about specific
+types of expenses included in the expense captions presented on the face of the income statement as well as disclosures about selling
+expenses. The new standards will be effective for public companies for fiscal years beginning after December 15, 2026, and interim periods
+within fiscal years beginning after December 15, 2027. The requirements will be applied prospectively with the option for retrospective
+application. Early adoption is permitted. The Company is currently evaluating the impact of these accounting standard updates on its financial
+statements.
+The Company has implemented all new applicable accounting
+pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise
+disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have
+a material impact on its financial position or results of operations.
+NOTE 3 – GOING CONCERN
+The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern, which contemplates continuity of operations, realization of assets, and liquidation
+of liabilities in the normal course of business. As shown in the accompanying financial statements, the Company has an accumulated deficit
+of $2,941,047 as of December 31, 2024, with minimal revenue generated. Due to these conditions,
+it raises substantial doubt about the Company’s ability to continue as a going concern. The financial statements do not include
+any adjustments relating to the recoverability and classification of asset carrying amounts or the amount and classification of liabilities
+that may result should the Company be unable to continue as a going concern.
+F-10
+NOTE 4 – NOTE RECEIVABLE
+On November 25, 2023, the Company
+entered into a Promissory Note Agreement with Convoy Solutions, LLC (“Convoy”), for up to $40,000.
+The note is non-interest bearing but does incur a 1% weekly fee on the amount outstanding; however, this was not enforced.
+The Note matured on December
+18, 2023, and had a remaining balance of $15,000
+as of December 31, 2023. The note was repaid in full on May 23, 2024.
+NOTE
+5 – INVENTORY
+Inventories
+are stated at the lower of cost or market. Cost is principally determined using the last-in, first-out (LIFO) method. The Company periodically
+assesses if any of the inventory has become obsolete or if the value has fallen below cost. When this occurs, the Company recognizes
+an expense for inventory write down. Total inventory at December
+31, 2024 and 2023 was $44,763 and $6,876, respectively.
+NOTE 6 – LOAN PAYABLE
+As of December 31, 2024 and 2023,
+the Company has a loan payable to a third party of $111,395 and $111,395, respectively. The loan is non-interest bearing and due on demand.
+NOTE 7 – RELATED PARTY TRANSACTIONS
+On February 15, 2022, the Company issued a Promissory
+Note to Jeff Kim, in the amount of $200,000 for funds loaned to the Company on February 15, 2022. The note matures in twenty years and
+accrues interest at 6.58% per annum. The Company began monthly payments of $1,500 on April 1, 2022. As of December
+31, 2024 and 2023, the balance due on this note is $0 and $88,044, respectively. As of December
+31, 2024 and 2023, there is $18,817 and $19,028, respectively, of accrued interest on this note.
+On March 1, 2022, the Company issued a Promissory
+Note to Jeff Kim, in the amount of $253,954. The amount of the note is the balance due to Mr. Kim for loans to the Company beginning in
+2017. The note matures in ten years and accrues interest at 6.63% per annum beginning April 1, 2023. The Company began monthly payments
+on April 1, 2023. As of December 31, 2024 and 2023, the balance due on this note is $207,854
+and $233,054, respectively. As of December 31, 2024 and 2023, there is $26,442 and $12,058,
+respectively, of accrued interest on this note.
+On December 31, 2022, the Company issued a Promissory
+Note to Jeff Kim, in the amount of $1,237,600. The amount of the note is the balance due to Mr. Kim for accrued compensation. The note
+matures in ten years and accrues interest at 6.42% per annum beginning April 1, 2023. The Company is to begin monthly payments principal
+and interest on April 1, 2023, or within one year without penalty. On December 31, 2022, Mr. Kim forgave $400,000 of the principal amount
+of the note. As of December 31, 2024 and 2023, the balance due on this note is $837,600 and
+$837,600, respectively. As of December 31, 2024 and 2023, there is $103,201 and $49,502,
+respectively, of accrued interest on this note.
+For the years ended December 31, 2024 and 2023, the
+Company recognized interest expense of $69,829 and $80,587, respectively, associated with the three loans.
+On March 22, 2023, the Company entered into an executive
+employment agreement with its executive officer, Jeff Kim. Under the terms of his employment agreement, Mr. Kim’s annual base salary
+is $200,000 but payment of such salary is subject to the cash flow of the Company as determined by the Board and agreed to by Mr. Kim
+and any payment cannot exceed $10,000 per month for the nine months from the date of the employment agreement. Additionally, a $2,000
+monthly loan payment will be made as part of the merger agreement. Mr. Kim may elect to defer his salary and receive repayment of his
+current outstanding loans to the Company, not to exceed $10,000 per month, for nine months from the date of his employment agreement.
+As of December 31, 2024 and 2023, there is $306,668 and $120,000 of accrued compensation
+due to Mr. Kim. All salary to date has been deferred.
+For
+the years ended December 31, 2024 and 2023, the Company recognized officer compensation expense of $186,668 and $120,000, respectively.
+During
+2023 and 2024, Jeff Kim paid operating expenses on behalf of the Company. As of December 31, 2024 and 2023, the amounts payable to Jeff
+Kim were $37,110 and $40,058, respectively.
+NOTE
+8 – COMMITMENT AND CONTINGENCY
+Under
+Merger Agreement closed March 22, 2023 Jeff Kim is entitled to receive additional common stocks if following milestones were reached:
+(i) an additional 2.5% of the issued and outstanding USBL Common Stock upon the completion of either (a) the conversion of 75 existing
+connection points to Level 2 or greater or the (b) installation of 75 new connection points to revenue producing stations in the first
+12 months or some combination of the two yielding 75 units, (ii) an additional 2.5% of the of the issued and outstanding USBL Common
+Stock upon (a) the application for $10M in grants and/or the (b) the award of $1.0 million in grants in the first 18 months; (iii) an
+additional 2.5% of the issued and outstanding USBL common stock outstanding upon the completion of acquisitions in the first 24 months
+generating no less than $3.0 million in gross revenues and (iv) an additional 500,000 shares of USBL common stock upon acquiring or hiring
+the following key personnel in the first six months after the effective date of the merger: (a) three or more qualified Board members
+and (b) at least three of the following four individuals having the following qualifications: one sales/marketing person, one grant writer/Government
+relations person, one technician/maintenance person and one software programmer/engineer.
+NOTE 9 – COMMON STOCK
+On February 17, 2023, the Company sold 11,000,000
+shares of common stock through the purchase of units at a price of $0.06 per unit, each unit consisting of one share of its common stock
+and one warrant to purchase shares of its common stock, for total proceeds of $660,000. Funds held at escrow after deducting legal and
+investor relation expenses was $553,000 as of February 28, 2023. The funds held in escrow were transferred to the Company in March 2023.
+On February 23, 2023, pursuant to the terms of the
+merger with Shorepower, the Company granted 2,000,000 shares of Series B preferred stock and 26,089,758 shares of common stock to Jeff
+Kim, the CEO of Shorepower and new CEO of SPEV.
+As of December
+31, 2024 and 2023, there are 48,478,678 and 48,478,678 shares of common stock outstanding, respectively.
+F-11
+NOTE 10 – PREFERRED STOCK
+There are 1,105,644 shares designated as Series A
+preferred stock (“Series A”). Each share of the Series A has five votes, is entitled to a 2% cumulative annual dividend, and
+is convertible at any time into shares of common stock.
+As of December 31, 2024, there were no shares of Series
+A issued and outstanding.
+As part of the merger, the Company designated 2,000,000
+of its 10,000,000 shares of authorized preferred stock as Series B preferred. Each Series B preferred share has voting power of 40 shares
+of the Company’s common stock. The Series B preferred will have no conversion feature.
+On February 23, 2023, pursuant to the terms of the
+merger with Shorepower, the Company granted 2,000,000 shares of Series B preferred stock and 26,089,758 shares of common stock to Jeff
+Kim, the CEO of Shorepower and new CEO of SPEV.
+As of December
+31, 2024 and 2023, there are 2,000,000 shares of Series B issued and outstanding.
+NOTE 11 – WARRANTS
+On February 17, 2023, the Company sold 11,000,000
+shares of common stock through the purchase of units at a price of $0.06 per unit, each unit consisting of one share of common stock and
+one warrant to purchase common stock, for total proceeds of $660,000. The Warrants are exercisable for shares of the Company’s common
+stock at a price of $0.25 per share and expire two years from the date of issuance. The warrants are callable by the Company if its common
+stock trades at $0.75 for at least 20 trading days and at a volume of not less than 30,000 shares per day. Using the fair value calculation,
+the relative fair value for the warrants was calculated to determine the warrants recorded equity amount of $524,737, which has been accounted
+for in additional paid in capital.
+In accordance to ASC 815-40, an equity-linked financial
+instrument can be classified in equity only if it (1) is indexed to the reporting entity’s own stock and (2) meets all other conditions
+for equity classification. The warrants are classified as equity instruments because a fixed amount of cash is exchanged for a fixed amount
+of equity.
+The fair value of the warrants was determined using
+the Black-Scholes option pricing model which requires the input of subjective assumptions, the expected life of the warrants, and the
+expected stock price volatility. The assumptions used in calculating the fair value of stock-based awards represent management’s
+best estimates and involve inherent uncertainties and the application of management’s judgment. As a result, if factors change and
+management uses different assumptions, stock-based compensation expense could be materially different for future awards.
+The assumptions used to determine the fair value of
+the Warrants as follows:
+SCHEDULE OF WARRANTS FAIR VALUE ASSUMPTIONS
+Expected life (years)
+2
+Risk-free interest rate
+4.78%
+Expected volatility
+224.92%
+Dividend yield
+0%
+The expected life of the warrants was estimated using
+the “simplified method,” as the Company has no historical information to develop reasonable expectations about future exercise
+patterns for its warrant grants. The simplified method is based on the average of the vesting tranches and the contractual life of each
+grant. The expected life of awards that vest immediately use the contractual maturity since they are vested when issued.
+For stock price volatility, the Company calculated
+its expected volatility based on the historical closing price of its common stock, par value $0.01 per share. The risk-free interest rate
+is based on U.S. Treasury notes with a term approximating the expected life of the warrant at the grant-date.
+F-12
+SCHEDULE OF WARRANT ACTIVITY
+Number of Warrants
+Weighted Average Exercise Price
+Weighted Average Remaining Contract Term
+Intrinsic Value (1)
+Outstanding, December 31, 2023
+11,000,000
+$0.25
+2
+Issued
+—
+$—
+—
+Cancelled
+—
+$—
+—
+Exercised
+—
+$—
+—
+Outstanding, December 31, 2024
+11,000,000
+$0.25
+.15
+$—
+(1)–
+There is no intrinsic value as the market price of the Company’s common stock has been
+below the strike price of the warrants.
+NOTE 12 – INCOME TAXES
+Deferred taxes are provided on a liability method
+whereby deferred tax assets are recognized for deductible temporary differences and operating loss and tax credit carry forwards and deferred
+tax liabilities are recognized for taxable temporary differences. Temporary differences are the differences between the reported amounts
+of assets and liabilities and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management,
+it is more likely than not that some portion or all of the deferred tax assets will not be realized. The Company has evaluated Staff Accounting
+Bulletin No. 118 regarding the impact of the decreased tax rates of the Tax Cuts & Jobs Act. Deferred tax assets and liabilities are
+adjusted for the effects of changes in tax laws and rates on the date of enactment. The U.S. federal income tax rate of 21% is being used.
+Net deferred tax assets consist of the following components
+as of December 31:
+SCHEDULE
+OF NET DEFERRED TAX ASSETS
+2024
+2023
+Deferred tax assets:
+NOL Carryover
+$618,000
+$523,000
+Less: valuation allowance
+(618,000)
+(523,000)
+Net deferred tax asset
+$–
+$–
+The income tax provision differs from the amount of
+income tax determined by applying the U.S. federal income tax rate to pretax income from continuing operations for the year ended December
+31, due to the following:
+SCHEDULE OF INCOME TAX PROVISION
+2024
+2023
+Deferred Tax Assets:
+Book Loss
+$(94,600)
+$(133,000)
+Less valuation allowance
+94,600
+133,000
+Net deferred tax provision
+$–
+$–
+At December 31, 2024, the Company had net operating
+loss carry forwards of approximately $618,000 that may be offset against future taxable income. NOLs from tax years up to 2017 can be
+carried forward twenty years. Under the CARES Act, the Company carry forward NOLs indefinitely for
+NOLs generated in a tax year beginning after 2017, that remain after they are carried back to tax years in the five-year carryback period.
+No tax benefit has been reported in the December 31, 2024, financial statements since the potential tax benefit is offset by a
+valuation allowance of the same amount.
+Due to the change in ownership provisions of the Tax
+Reform Act of 1986, net operating loss carry forwards for Federal Income tax reporting purposes are subject to annual limitations. Should
+a change in ownership occur, net operating loss carry forwards may be limited as to use in future years. With few exceptions, the Company
+is no longer subject to U.S. federal, state and local income tax examinations by tax authorities for years before 2016.
+NOTE
+13 – RESTATEMENT
+The
+financial statements for the year ended December 31, 2024, are being restated only to correct the categories and corresponding amounts
+for cost of revenue.
+Per
+ASC 250-10 Accounting Changes and Error Corrections, the December 31, 2024 balance sheet has been restated for the following.
+SCHEDULE
+OF
+ACCOUNTING CHANGES AND ERROR CORRECTIONS
+1
+2
+3
+December 31, 2024
+As Filed
+Adjusted
+As Restated
+Service revenue
+$14,642
+—
+$14,642
+Product sales
+50,479
+—
+50,479
+Total revenue
+65,121
+—
+65,121
+Cost of service revenue
+(12,957)
+(47,245)
+(60,202)
+Cost of product sales
+(59,842)
+47,245
+(12,597)
+Cost of revenue
+(59,842)
+47,245
+(12,597)
+Less revenue share
+(5,027)
+—
+(5,027)
+Gross margin
+(12,705)
+—
+(12,705)
+Operating Expenses:
+Professional fees
+89,289
+89,289
+General and administrative
+99,802
+99,802
+Consulting
+42,025
+42,025
+Officer compensation
+186,668
+186,668
+Total operating expenses
+417,784
+417,784
+Loss from Operations
+(430,489)
+(430,489)
+Other Income (Expense):
+Grant income
+50,000
+50,000
+Interest expense
+(69,829)
+(69,829)
+Total other expense
+(19,829)
+(19,829)
+Net loss
+$(450,318)
+$(450,318)
+Loss per Common Share: Basic and Diluted
+$(0.01)
+$(0.01)
+Weighted Average Number of Common Shares: Basic and Diluted
+48,478,678
+48,478,678
+NOTE 14 – SUBSEQUENT EVENTS
+In accordance with ASC 855-10 the Company has analyzed
+its operations subsequent to December 31, 2024, and to the date these financial statements were available to be issued and has determined
+that it has the following subsequent events to disclose in these financial statements.
+Subsequent to December 31, 2024, the Company issued
+711,526 shares of common stock for services.
+F-13
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure
+None.
+Item 9A. Controls and Procedures.
+Management’s Report Disclosure Controls and
+Procedures
+During the fourth quarter of the
+year ended December 31, 2024, we carried out an evaluation, under the supervision and with the participation of our management, including
+our principal executive officer and principal financial officer, of the effectiveness of our disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)). Based upon that evaluation, our principal executive officer and principal financial officer
+concluded that, as of the end of the period covered in this report, our disclosure controls and procedures were not effective to ensure
+that information required to be disclosed in reports filed under the Securities Exchange Act of 1934, as amended, is recorded, processed,
+summarized and reported within the required time periods specified in the Commission’s rules and forms and is accumulated and communicated
+to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions
+regarding required disclosure.
+Our principal executive officer
+and principal financial officer, do not expect that our disclosure controls and procedures or our internal controls will prevent all error
+or fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives
+of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the
+benefits of controls must be considered relative to their costs. Due to the inherent limitations in all control systems, no evaluation
+of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected.
+To address the material weaknesses,
+we performed additional analysis and other post-closing procedures in an effort to ensure our financial statements included in this annual
+report have been prepared in accordance with generally accepted accounting principles. In addition, we engaged accounting consultants
+to assist in the preparation of our financial statements. Accordingly, management believes that the financial statements included in this
+report fairly present in all material respects our financial condition, results of operations and cash flows for the periods presented.
+Management’s Report on Internal Control over
+Financial Reporting
+Internal control over financial
+reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) is a process designed by, or under the supervision of,
+our principal executive and principal financial officers, and effected by our board of directors, management and other personnel, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles. The management is responsible for establishing and maintaining adequate internal
+control over our financial reporting. Under the supervision and with the participation of our management, including our principal executive
+officer and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting
+using the Internal Control – Integrated Framework (2013) developed by the Committee of Sponsoring Organizations of the Treadway
+Commission. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that our internal controls
+over financial reporting were not effective as of December 31, 2024.
+We are aware of the following
+material weaknesses in internal control that could adversely affect the Company’s ability to record, process, summarize and report
+financial data:
+●
+Due to our size and limited resources, we currently do not employ the appropriate accounting personnel to ensure (a) we maintain proper segregation of duties, (b) that all transactions are entered timely and accurately, and (c) we properly account for complex or unusual transactions
+●
+Due to our size and scope of operations, we currently do not have an independent audit committee in place
+●
+Due to our size and limited resources, we have not properly documented a complete assessment of the effectiveness of the design and operation of our internal control over financial reporting.
+13
+Inherent limitations on effectiveness of controls
+Internal control over financial
+reporting has inherent limitations, which include but is not limited to the use of independent professionals for advice and guidance,
+interpretation of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel
+factors. Internal control over financial reporting is a process, which involves human diligence and compliance and is subject to lapses
+in judgment and breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by collusion
+or improper management override. Because of its inherent limitations, internal control over financial reporting may not prevent or detect
+misstatements on a timely basis, however these inherent limitations are known features of the financial reporting process and it is possible
+to design into the process safeguards to reduce, though not eliminate, this risk. Therefore, even those systems determined to be effective
+can provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation
+of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+Changes in Internal Control over Financial Reporting
+There have been no changes in
+our internal controls over financial reporting that occurred during the fourth quarter of the year ended December 31, 2024, that have
+materially or are reasonably likely to materially affect, our internal controls over financial reporting.
+Item 9B. Other Information
+None
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+None
+PART III
+Item 10. Directors, Executive Officers and Corporate
+Governance
+The following persons served as
+our directors and executive officers for the fiscal years ended December 31, 2024. Each director holds office until the next annual meeting
+of the stockholders or until his successor has been duly elected and qualified. Each executive officer serves at the discretion of the
+Board of Directors of the Company.
+Name
+Age
+Position
+Jeff Kim (1)
+51
+CEO, President and Director
+(1)
+Appointed March 22, 2023.
+Background of Executive Officers and Directors
+Mr. Kim
+has been involved with truck idle-reduction technologies for more than 20 years as an engineering consultant and design specialist. In
+a project sponsored by NYSERDA (New York State Energy Research & Development Authority), he performed an operational analysis of competing
+off-board truck stop electrification (TSE) facilities which helped develop a comprehensive understanding of the technical issues of TSE
+technologies. He then led the design of the simpler and more cost effective Shorepower TSE infrastructure system that includes power and
+entertainment connections: electrical power, video, and wireless Internet. He also led the design team responsible for the engineering
+and assembly of Shorepower’s comprehensive unattended automated payment and control system. Mr. Kim presented preliminary findings
+for the TSE demonstrations at the Transportation Research Board’s 83rd Annual Meeting in Washington, DC in January 2004.
+Mr. Kim
+has been responsible for all Shorepower corporate operations and will continue to work with local, state and regional stakeholders to
+develop a strong market position for electric transportation infrastructure. He will continue to recommend product improvements and establish
+R&D objectives, lead product engineering, manage assimilation of data collected from electrified facilities, and oversee site construction
+and deployment activities at future locations. Mr. Kim has also been intimately involved with an Electric Power Research Institute (EPRI)
+effort to develop electrical codes and standards for electric transportation power infrastructure. In February 2007 (https://www.ecmag.com/magazine/articles/article-detail/codes-standards-big-rigs-getting-good-nights-rest)
+the group submitted recommended standards to the National Electric Code (NEC), which is now in the National Electrical Code Handbook,
+used by the majority of jurisdictions throughout North America.
+14
+In 2005
+Mr. Kim completed the development and demonstration of a higher power Shorepower variant to provide electrical power to electric standby
+transport refrigeration units (eTRU) on trailers, to keep refrigerated loads, such as meats, ice cream and pharmaceuticals, cool while
+stopped (or during loading/unloading). This technology leveraged the existing Shorepower system design, but with significantly increased
+power ratings that can employ a simplified automated control system. This system was the first of its kind deployed to two warehouses
+in New York but is now commonly used as a more efficient and clean alternative to running diesel TRUs.
+Mr. Kim
+performed an operational analysis of TSE facilities as part of the work sponsored by the U.S. Department of Energy and has a comprehensive
+understanding of the technical attributes of these technologies. This $20 million project commissioned over 50 facilities with over 1,800
+individual electrified parking spaces in 31 states. Jeff was also instrumental in the engineering and construction management of these
+facilities, which includes design, cost considerations, safety, vehicle access/egress and maintenance of these facilities. This project
+was conducted from 2010 through 2015 with the majority of the construction activity completed in 2012 through 2013.
+Mr. Kim
+was appointed by Oregon’s governor to the Alternative Fuels Infrastructure Working Group which helped develop the State’s
+electrification plan. in September 2008 (https://www.greencarcongress.com/2008/09/oregon-governor.html). This plan provided guidance to
+jurisdictions within the state to help adopt electric vehicle (EV) friendly zoning and planning codes and standards.
+Mr. Kim
+also consulted for TEPCO (Tokyo Electric Power Company) in 2008, to help develop a transportation electrification plan in Japan and how
+to capitalize on providing electricity to power the transportation sector.
+Mr. Kim
+led the engineering team that designed, manufactured and installed some of the first (SAE J1772) Level 2 charging stations in the world
+in 2009, to prepare for the arrival of the first current generation of electric vehicles in 2010+. In partnership with PGE, an electric
+utility company in Oregon, this program deployed over 300 charging points in and around Oregon to help prepare for the introduction of
+the first electric vehicles to hit the market that included the Nissan Leaf and Chevy Volt.
+Mr. Kim
+received a Bachelor’s Degree in Renewable Energy Resources from the University of California-Berkeley in 1995 and a Masters in Mechanical
+Engineering from the University of Maryland at College Park in 2003.
+The Company does not have a separate
+audit committee. The Board of Directors functions as the audit committee.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities
+Exchange Act of 1934 requires the Company’s executive officers, directors and persons who own more than ten percent of a registered
+class of its equity securities to file reports of ownership and changes in ownership on Forms 3, 4 and 5 with the Securities and Exchange
+Commission. These persons are required by SEC regulation to furnish the Company with copies of all Forms 3, 4 and 5 they file with the
+SEC. Based solely upon our review of the copies of the forms the Company has received, we believe that all such persons complied on a
+timely basis with all filing requirements applicable to them with respect to transactions during fiscal 2024.
+Code of Ethics
+Following the merger with Shorepower,
+we have adopted a Code of Ethics applicable to its principal executive officer, and principal financial officer which is available on
+our website. The Board is responsible for overseeing the Code of Conduct and must approve any waivers of the Code of Conduct for employees,
+executive officers and directors. Any amendments to the Code of Conduct, or any waivers of its requirements, will be disclosed on our
+website.
+15
+Item 11. Executive Compensation
+The following table sets forth
+information with respect to all compensation paid by us to our Chief Executive Officer for the last two fiscal years ended December 31,
+2024 and 2023:
+Summary Compensation Table
+Name and Principal Position
+Year
+Salary
+($) (1)
+Bonus
+($)
+Stock
+Awards
+($)
+Option
+Awards
+($)
+Non-Equity
+Incentive Plan
+Compensation
+($)
+Nonqualified
+Deferred
+Compensation
+Earnings
+($)
+All Other
+Compensation
+($)
+Total
+Jeff Kim
+2024
+$186,000
+$0
+$
+$0
+$0
+$0
+$0
+$186,000
+CEO, Director
+2023
+$120,000
+$0
+$
+$0
+$0
+$0
+$0
+$120,000
+(1)
+Salaries are paid when funds are available. If not paid they are accrued. As of December 31, 2024 and 2023, Mr. Kim has accrued salary due of $306,668 and $120,000, respectively.
+Employment Agreements
+We entered
+into an executive employment agreement with our executive officer, Jeff Kim. Under the terms of his employment agreement, Mr. Kim s annual
+base salary is $200,000 but payment of such salary is subject to the cash flow of the Company as determined by the Board and agreed to
+by Mr. Kim and his base salary cannot exceed $10,000 per month for the nine months from the date of the employment agreement. Alternatively,
+Mr. Kim may elect to defer his salary and receive repayment of his current outstanding loans to the Company, not to exceed $10,000 per
+month, for nine months from the date of his employment agreement. Mr. Kim’s employment agreement provides that he is eligible for
+bonuses in cash and/or stock as mutually agreed to by Mr. Kim and the Board, restricted stock and stock option awards at the discretion
+of the Board and to participate in the Company’s health and welfare benefit plans maintained for the benefit of Company employees.
+Mr. Kim has declined to participate in any annual cash bonus program provided by the Company, without regard to his eligibility for any
+such program. Mr. Kim’s employment agreement contains customary confidentiality, non-solicitation and intellectual property assignment
+provisions.
+Pursuant
+to the employment agreement, in the event of a termination for good reason by Mr. Kim, he will receive
+12 months of his then-current base salary to be paid over a period of six months and an acceleration of vesting for all unvested stock
+or stock option grants.
+The foregoing
+description of the employment agreement with Mr. Kim is a summary only and is qualified in its entirety by the full text of the employment
+agreement, a copy of which is incorporated herein by reference to Exhibit 10.5 in the Current Report on Form 8-K filed with the SEC on
+March 27, 2023.
+Outstanding Equity Awards at Fiscal Year-End
+None.
+Compensation Committee Interlocks and Insider Participation
+None of our directors or executive officers serves
+as a member of the board of directors or compensation committee of any other entity that has one or more of its executive officers serving
+as a member of our board of directors.
+Insider Trading Policies
+We have adopted insider trading policies and procedures
+governing the purchase, sale, and/or other dispositions of our securities by directors, officers and employees and their respective immediate
+family members, which are reasonably designed to promote compliance with insider trading laws, rules and regulations, while they are in
+possession of material nonpublic information (the “Insider Trading Policy”).
+The foregoing description of the Insider Trading Policy does not purport
+to be complete and is qualified in its entirety by the terms and conditions of the Insider Trading Policy, a copy of which is attached
+hereto as Exhibit 19.1 and is incorporated herein by reference.
+16
+Director Compensation
+Name and Principal Position
+Fees Earned or Paid in Cash
+($)
+Stock Awards ($)
+Option Awards
+($)
+Non-Equity Incentive Plan Compensation ($)
+Nonqualified Deferred Compensation Earnings
+($)
+All Other Compensation ($)
+Total
+Jeff Kim
+$0
+0
+$0
+$0
+$0
+$0
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters
+The following table sets forth
+certain information as of April 4, 2025, with respect to the beneficial ownership of our outstanding Common Stock by (i) any holder of
+more than five (5%) percent thereof; (ii) each of our officers and directors and (iii) directors and officers of the Company as a group.
+The address of each holder listed
+below, except as otherwise indicated, is c/o Shorepower, Inc., 5291 NE Elam Young Pkwy., Suite 160, Hillsboro, OR 97124.
+Name and Address of Beneficial Owner
+Shares
+Beneficially owned of
+Common Stock
+Percent of Common Stock Beneficially Owned
+Directors and Named Executive Officers:
+Jeff Kim
+26,089,758
+55%
+Item 13. Certain Relationships and Related Transactions,
+and Director Independence
+On February 15, 2022, the Company
+issued a Promissory Note to Jeff Kim, in the amount of $200,000 for funds loaned to the Company on February 15, 2022. The note matures
+in twenty years and accrues interest at 6.58% per annum. The Company began monthly payments of $1,500 on April 1, 2022. As of December
+31, 2024 and 2023, the balance due on this note is $0 and $88,044, respectively. As of December
+31, 2024 and 2023, there is $18,817 and $19,155, respectively, of accrued interest on this note.
+On March 1, 2022, the Company
+issued a Promissory Note to Jeff Kim, in the amount of $253,954. The amount of the note is the balance due to Mr. Kim for loans to the
+Company beginning in 2017. The note matures in ten years and accrues interest at 6.63% per annum beginning April 1, 2023. The Company
+began monthly payments on April 1, 2023. As of December 31, 2024 and 2023, the balance due
+on this note is $207,854 and $233,054, respectively. As of December 31, 2024 and 2023, there
+is $26,442 and $12,397, respectively, of accrued interest on this note.
+On December 31, 2022, the Company
+issued a Promissory Note to Jeff Kim, in the amount of $1,237,600. The amount of the note is the balance due to Mr. Kim for accrued compensation.
+The note matures in ten years and accrues interest at 6.42% per annum beginning April 1, 2023. The Company is to begin monthly payments
+principal and interest on April 1, 2023, or within one year without penalty. On December 31, 2022, Mr. Kim forgave $400,000 of the principal
+amount of the note. As of December 31, 2024 and 2023, the balance due on this note is $837,600
+and $837,600, respectively. As of December 31, 2024 and 2023, there is $103,201 and $49,500,
+respectively, of accrued interest on this note.
+Item 14. Principal Accountant Fees and Services
+Below is the aggregate amount
+of fees billed for professional services rendered by QI CPA LLC our principal accountants, with respect to our last two fiscal years.
+2024
+2023
+Audit fees
+$24,000
+$6,000
+Audit related fees
+$-
+$-
+Tax fees
+$-
+$-
+All other fees
+$-
+$-
+Total
+$24,000
+$6,000
+All of the professional services
+rendered by principal accountants for the audit of our annual financial statements that are normally provided by the accountant in connection
+with statutory and regulatory filings or engagements for the last two fiscal years were approved by our board of directors.
+17
+Audit Fees
+Consist of fees billed for professional
+services rendered for the audit of our financial statements and review of interim financial statements included in quarterly reports and
+services that are normally provided by the principal accountants in connection with statutory and regulatory filings or engagements.
+Audit Related Fees
+Consist of fees billed for assurance
+and related services that are reasonably related to the performance of the audit or review of our financial statements and are not reported
+under “Audit Fees”.
+Tax Fees
+Consist of fees billed for professional
+services for tax compliance, tax advice and tax planning. These services include preparation of federal and state income tax returns.
+All Other Fees
+Consist of fees for product and
+services other than the services reported above.
+PART IV
+Item 15. Exhibits
+The following exhibits are filed as part of this Annual
+Report.
+Exhibit Number
+Description
+4.5
+Specimen Shorepower Technologies Common Stock Certificate
+10.1+
+Employment Agreement dated March 22, 2023 between the Company and Jeff Kim
+19.1
+Insider trading policy
+31.1
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (*)
+32.1
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (*)
+101.INS*
+Inline XBRL Instance Document.
+101.SCH*
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB*
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104*
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
++ Incorporated by reference to Exhibit 10.5 in the
+Company’s Current Report on Form 8-K filed March 27, 2023.
+Item 16. Form 10-K Summary
+None.
+18
+SIGNATURES
+In accordance with Section 13
+or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+SHOREPOWER TECHNOLOGIES, INC.
+Dated: September 3, 2025
+/s/ Jeff Kim
+Jeff Kim
+President and Chief Executive Officer
+(Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer)
+19

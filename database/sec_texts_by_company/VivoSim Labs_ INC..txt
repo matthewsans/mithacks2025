@@ -1,0 +1,725 @@
+10-K/A
+FYTrue0001497253 00014972532025-06-0100014972532024-04-012025-03-3100014972532023-09-30xbrli:sharesiso4217:USD
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549 FORM 10-K/A(Amendment No. 1) (Mark One)☒	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the Fiscal Year Ended March 31, 2025OR☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the Transition Period from
+to
+Commission File No. 001-35996 VIVOSIM LABS, INC.(Exact name of registrant as specified in its charter)
+Delaware
+27-1488943
+(State or other jurisdiction of incorporation or organization)
+(IRS Employer Identification No.)
+11555 Sorrento Valley Rd, Suite 100San Diego, CA
+92121
+(Address of principal executive offices)
+(Zip code)
+Registrant’s telephone number, including area code: 858-224-1000Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+VIVS
+The Nasdaq Stock Market LLC
+Securities registered pursuant to section 12(g) of the Act: None Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes ☐ No ☒Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes ☐ No ☒Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☒
+No ☐Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes ☒
+No ☐ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “accelerated filer”, “large accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive oﬃcers during the relevant recovery period pursuant to §240.10D-1(b). ☐Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes ☐
+No ☒The aggregate market value of the voting and non-voting common equity held by non-affiliates based on the closing stock price as reported on the Nasdaq Capital Market on September 30, 2024, the last trading day of the registrant’s most recently completed second fiscal quarter, was $7,720,472. For purposes of this computation only, shares of common stock held by each executive officer, director, and 10% or greater stockholders have been excluded in that such persons may be deemed affiliates.The number of outstanding shares of the registrant’s common stock, as of July 25, 2025 was 2,599,797.DOCUMENTS INCORPORATED BY REFERENCENone.
+EXPLANATORY NOTE VivoSim Labs, Inc. (“VivoSim,” the “Company,” “we,” “our” or “us”) is filing this Amendment No. 1 on Form 10-K/A (this “Amendment”) to its Annual Report on Form 10-K for the fiscal year ended March 31, 2025 (“Fiscal 2025”), as filed with the Securities and Exchange Commission (the “SEC”) on June 5, 2025 (the “Original Form 10-K” and as amended, the “Annual Report”). The purpose of this Amendment is solely to disclose the information required in Part III (Items 10, 11, 12, 13 and 14) of Form 10-K, which information was previously omitted from the Original Form 10-K in reliance on General Instruction G(3) to Form 10-K. Accordingly, we hereby amend and restate in its entirety Part III of the Original Form 10-K. In addition, pursuant to the rules of the SEC, Item 15 of Part IV has been amended and restated in its entirety to include the currently dated certifications of the Company’s principal executive officer and principal financial officer required under Section 302 of the Sarbanes-Oxley Act of 2002. Because no financial statements have been included in this Amendment and this Amendment does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K, paragraphs 3, 4 and 5 of the certifications have been omitted. In addition, this Amendment does not include the certificate under Section 906 of the Sarbanes-Oxley Act of 2002 as no financial statements are being filed with this Amendment. Except as described above or as otherwise expressly provided by the terms of this Amendment, no other changes have been made to the Original Form 10-K. Except as otherwise indicated herein, this Amendment continues to speak as of the date of the Original Form 10-K, and we have not updated the disclosure contained therein to reflect any events that occurred subsequent to the filing date of the Original Form 10-K. This Amendment should be read in conjunction with the Original Form 10-K and with our filings with the SEC subsequent to the filing date of the Original Form 10-K.
+VivoSim Labs, Inc. Annual Report on Form 10-K For the Year Ended March 31, 2025 Table of Contents
+Page
+PART III
+1
+Item 10.
+Directors, Executive Officers and Corporate Governance
+1
+Item 11.
+Executive Compensation
+5
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+14
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+16
+Item 14.
+Principal Accountant Fees and Services
+18
+PART IV
+20
+Item 15.
+Exhibits and Financial Statement Schedules
+20
+PART IIIItem 10. Directors, Executive Officers and Corporate Governance.  Board of Directors Information Our Board of Directors ("Board") is comprised of five directors.
+Our Board is divided into three classes, with one class standing for election each year for a three-year term.
+There are currently one Class I director, two Class II directors, and two Class III directors. In addition to the information set forth below regarding our directors and the skills that led our Board to conclude that these individuals should serve as directors, we also believe that all of our directors have a reputation for integrity, honesty and adherence to the highest ethical standards.
+We believe they each have demonstrated business acumen and an ability to exercise sound judgment, as well as a commitment of service to our Company and to their Board duties. Information About Our Directors The following sets forth information regarding the business experience of our current directors:
+Name
+Age(1)
+Position(s)
+Director Class
+Keith Murphy
+53
+Director and Executive Chairman
+Class III
+Adam Stern
+61
+Director
+Class III
+Douglas Jay Cohen
+54
+Lead Independent Director
+Class II
+David Gobel
+72
+Director
+Class II
+Alison Tjosvold Milhous
+46
+Director
+Class I
+__________________(1)As of July 29, 2025. Class II Directors Continuing in Office Until the 2025 Annual Meeting of Stockholders Douglas Jay Cohen, Lead Independent Director, has served on our Board since September 2020 and has served as our Lead Independent Director since September 2022.
+He has served as President and Chief Executive Officer of IR Medtek LLC since January 2019, a medical device company developing a non-invasive probe for cancer detection by primary care physicians using a technology licensed from the Ohio State University.
+Prior to IR Medtek, Mr. Cohen served as President and Chief Executive Officer of Beacon Street Innovations, an advanced technology printing company from September 2016 to present.
+From January 1994 to September 2016, Mr. Cohen served as Vice President of Operations and Engineering at Screen Machine Industries, an industrial and construction heavy equipment manufacturer.
+As an active investor in startup companies, Mr. Cohen has invested in more than 20 biotech startups in the past 10 years, including investing in VivoSim in 2013 and maintaining a position in the company ever since.
+Mr. Cohen received a B.S. from the Massachusetts Institute of Technology. We believe Mr. Cohen’s experience in the life sciences industry, his experience in managing emerging growth companies and his experience in developing business strategies qualifies him to serve as a member of our Board. David Gobel, Director, has served on our Board since September 2020. He has served as Chief Executive Officer of Methuselah Fund LLC since December 2016 and as Chief Executive Officer of Methuselah Foundation since September 2001, promoting increasing the healthy human lifespan by various means including: performance prizes, targeted grant making, education, and the creation/funding of biotech startups. Mr. Gobel became Chief Venture Strategist at Transportation Security Administration from January 2009 until March 2013, where he was responsible for strategic planning, innovation management and creation of a novel Venture Capital capability for TSA and then Department of Homeland Security by partnering with In-Q-Tel.
+Mr. Gobel was a member of the board of Volumetric Biotechnologies, a company that focuses on the development of bioholographic human tissue printing, from April 2018 to January 2020.
+Since July 2018, Mr. Gobel has served as member of the board for Turn Bio, and since May 2020 as chairman of the board of Turn Bio.
+Mr. Gobel served as a board member of Leucadia Therapeutics from October 2015 to August 2022, and as an independent founding board member of Oisin Therapeutics since December 2014. We believe Mr. Gobel’s previous services as chief executive officer for other biotechnology companies, his experience and expertise with human tissue printing companies and his extensive board experience qualify him to serve as a member of our Board. Class III Directors Continuing in Office Until the 2026 Annual Meeting of Stockholders
+1
+Keith Murphy, Director and Executive Chairman, re-joined our Board in July 2020 and has served as our Executive Chairman since September 2020. Mr. Murphy is the Chief Executive Officer and Chairman of Viscient Biosciences, Inc. (“Viscient”), a private company that he founded in 2017 that is focused on drug discovery and development utilizing 3D tissue technology and multi-omics (genomics, transcriptomics, metabolomics).
+Mr. Murphy previously served as the President and Chief Executive Officer of VivoSim from February 2012 through April 2017, and as Chairman from February 2012 through August 2017.
+Mr. Murphy also previously served as President, Chief Executive Officer, and Chairman of Organovo, Inc., VivoSim's primary operating company prior to its going-public transaction, from August 2007 to February 2012.
+Prior to founding VivoSim, Mr. Murphy served in various roles at Amgen, Inc. from August 1997 to July 2007 including as Global Operations Leader for the osteoporosis/bone cancer drug Prolia/Xgeva (denosumab). Prior to joining Amgen, Mr. Murphy served at Alkermes, Inc., a biotechnology company, from July 1993 to July 1997, where he played a role on the development team for their first approved product, Nutropin (hGH) Depot.
+Mr. Murphy has served as a member of the board of directors of Matinas BioPharma Holdings, Inc. (NYSE: MTNB) since March 2025 and served as a member of the board of directors of Kintara Therapeutics, Inc. from August 2020 to February 2022, and served on its compensation committee and nominating and corporate governance committee.
+He holds a B.S. in Chemical Engineering from MIT and is an alumnus of the UCLA Anderson School of Management. We believe Mr. Murphy’s previous experience in the biotechnology field, especially in developing novel products, his experience and expertise with our 3D bioprinting technology and product development opportunities and strategy, and his educational experience qualify him to be a member of our Board. Adam Stern, Director, re-joined our Board in July 2020.
+Mr. Stern is currently the Chief Executive Officer of SternAegis Ventures, the private equity group at Aegis Capital Corp. responsible for venture capital and private equity financing, and has been the Head of Private Equity Banking at Aegis Capital Corp., a full-service investment banking firm, since December 2012.
+Prior to SternAegis, Mr. Stern served as Senior Managing Director at Spencer Trask Ventures, Inc., a private equity and venture firm, from 1997 to 2012, where he managed the structured finance group focusing primarily on technology and life sciences companies.
+From 1989 to 1997, Mr. Stern was at Josephthal & Co., Inc., Members of the New York Stock Exchange, where he served as Head of Private Equity and Managing Director.
+He has been a FINRA licensed securities broker since 1987 and a Registered General Securities Principal since 1991.
+Mr. Stern previously served as a director of VivoSim from February 2012 to June 2013.
+Mr. Stern is a current director at DarioHealth Corp. (Nasdaq: DRIO), privately held Amplifica Holdings, Group, Inc., and Aerami Therapeutics Holdings Inc. Mr. Stern is a former director of Adgero Biopharmaceuticals Holdings, Matinas BioPharma Holdings, Inc. (NYSE: MTNB), Hydrofarm Holdings Group Inc. (Nasdaq: HYFM), InVivo Therapeutics, Inc. (Nasdaq: NVIV) and PROLOR Biotech prior to its sale in 2013 to Opko Health, Inc. (Nasdaq: OPK).
+Mr. Stern graduated with a Bachelor of Arts degree from the University of South Florida in 1987. We believe Mr. Stern’s extensive experience in corporate finance, his expertise in the life sciences industries and his previous experience as a member of our Board qualify him to be a member of our Board. Class I Director Continuing in Office until the 2027 Annual Meeting of Stockholders Alison Tjosvold Milhous, Director, has served on our Board since September 2020.
+She has 20 years of audit and technical accounting experience and is a certified public accountant.
+She is currently the Vice President of Accounting at Erasca, Inc., a clinical-stage precision oncology company.
+Prior to joining Erasca, she was an independent consultant assisting public and private companies with accounting and reporting needs primarily within the life sciences and technology industries.
+Ms. Milhous was previously an audit partner at Grant Thornton LLP from August 2015 through September 2019 and held various positions with increasing responsibility at Grant Thornton from June 2002 as an audit associate through July 2015 as an audit senior manager.
+She began her career in June 2000 at Arthur Andersen LLP.
+Ms. Milhous served on the membership committee of Athena San Diego, a professional women’s leadership organization with a STEM focus, from August 2012 through September 2019 and was on the Pinnacle steering committee from September 2013 through April 2015.
+Ms. Milhous received a Bachelor of Science degree in Business Administration with a dual concentration in Accounting and Finance from California State Polytechnic University, San Luis Obispo. We believe Ms. Milhous’ extensive financial and accounting experience and her experience providing audit and consulting services to life sciences companies qualify her to serve as a member of our Board.
+No Family RelationshipsThere are no family relationships between any of our officers and directors. Executive Officers The following persons are our executive officers and hold the positions set forth opposite their names as of July 29, 2025:
+2
+Name
+Age
+Position
+Keith Murphy
+53
+Executive Chairman
+Norman Staskey
+55
+President and Chief Financial Officer
+See the section entitled “Information About Our Directors” above for a description of the business experience and educational background of Mr. Murphy. Norman Staskey, President and Chief Financial Officer, joined us in December 2024.
+Mr. Staskey is currently employed by Danforth Advisors, LLC (“Danforth”), a professional financial consulting services firm. He has over twenty years of experience and has been with Danforth since May 2021, serving as their Senior Director. Mr. Staskey is a seasoned executive with significant experience in managing and leading teams as well as overseeing the financial and operational responsibilities of private and publicly traded life sciences companies. Mr. Staskey has served as the Chief Financial Officer of Azitra, Inc. since October 2022. From September 2014 to May 2021, Mr. Staskey was employed by EY (formally Ernst & Young), most recently as a managing director in EY’s Financial Accounting and Advisory services practice. Mr. Staskey received his B.S. of Business Administration from Cleveland State University and is a Certified Public Accountant in the State of Ohio. Code of Business Conduct We have adopted the VivoSim Labs, Inc. Code of Business Conduct (the “Code of Business Conduct”) that applies to all of our officers, directors, employees and consultants.
+Among other matters, our Code of Business Conduct is designed to deter unlawful or unethical behavior and to promote the following:•Prohibiting conflicts of interest (including protecting corporate opportunities);•Protecting our confidential and proprietary information and that of our customers and vendors;•Treating our employees, customers, suppliers and competitors fairly;•Encouraging full, fair, accurate, timely and understandable disclosure;•Protecting and properly using company assets;•Conducting research activities with honesty, objectivity, transparency and accountability;•Complying with laws, rules and regulations (including insider trading laws); and•Encouraging the reporting of any unlawful or unethical behavior. Any waiver of the Code of Business Conduct for our executive officers, directors or employees may be made only by our Nominating and Corporate Governance Committee and will be promptly disclosed on our website. We have posted a copy of our Code of Business Conduct, and intend to post amendments to this code, on our website as permitted under SEC rules and regulations.
+The full text of our Code of Business Conduct is available on our website at www.vivosim.ai. Audit Committee.
+Our Audit Committee currently consists of Ms. Milhous (Chair), Mr. Cohen and Mr. Stern.
+The functions of the Audit Committee include the retention of our independent registered public accounting firm, reviewing and approving the planned scope, proposed fee arrangements and results of the Company’s annual audit, reviewing the adequacy of the Company’s accounting and financial controls and reviewing the independence of the Company’s independent registered public accounting firm.
+The Board has determined that each member of the Audit Committee is an “independent director” under the Nasdaq listing standards, is financially literate under Nasdaq listing standards, and at least one member has financial sophistication under Nasdaq listing standards.
+The Board has also determined that Ms. Milhous is an “audit committee financial expert” within the applicable definition of the SEC.
+The Audit Committee is governed by a written charter approved by the Board, a copy of which is available on our website at www.organovo.com. Insider Trading Policy; Prohibition Against Hedging and Pledging Policy Our Board has adopted the VivoSim Labs, Inc. Insider Trading Policy (the “Insider Trading Policy”), which provides guidelines to our employees, directors, officers and consultants with respect to transactions in our securities, including the purchase, sale and/or other disposition of our securities. We adopted the Insider Trading Policy and the procedures set forth therein to help avoid inadvertent instances of improper insider trading. We believe the Insider Trading Policy is reasonably designed to promote compliance with insider trading laws, rules and regulations and listing standards applicable to the Company. The Insider Trading Policy prohibits our officers, directors and employees from engaging in hedging transactions, including prepaid variable forwards, equity swaps, collars and exchange funds. It further prohibits holding our stock in a margin account, short sales of
+3
+our stock, and any transactions in put options, call options or other derivative securities involving our stock. Additionally, the Insider Trading Policy generally prohibits our officers, directors and employees from pledging our stock as collateral to secure loans. Consideration of Director Nominees General.
+In evaluating nominees for membership on our Board, our Nominating and Corporate Governance Committee applies the Board membership criteria set forth in our Corporate Governance Guidelines.
+Under these criteria, the Nominating and Corporate Governance Committee takes into account many factors, including an individual’s business experience and skills (including skills in core areas such as operations, management, technology, relevant industry knowledge (e.g., research tools, contract research services, therapeutics, drug discovery, reimbursement, medical/surgical), accounting and finance, regulatory matters and clinical trials, leadership, strategic planning and international markets), independence, judgment, professional reputation, integrity and ability to represent the best interests of the Company and its stockholders.
+In addition, the Nominating and Corporate Governance Committee will consider the ability of the nominee to commit sufficient time and attention to the activities of the Board, as well as the absence of any potential conflicts with the Company’s interests.
+The Nominating and Corporate Governance Committee does not assign specific weights to particular criteria and no particular criterion is necessarily applicable to all prospective nominees.
+The Board does not have a formal policy with respect to diversity of nominees.
+Rather, our Nominating and Corporate Governance Committee considers these Board membership criteria as a whole and seeks to achieve diversity of occupational and personal backgrounds on the Board.
+Our Board will be responsible for selecting candidates for election as directors based on the recommendation of the Nominating and Corporate Governance Committee. Our Nominating and Corporate Governance Committee regularly assesses the appropriate size of our Board, and whether any vacancies on our Board are expected due to retirement or other reasons. In the event that vacancies are anticipated, or otherwise arise, the Committee will consider various potential nominees who may come to the attention of the Committee through current Board members, professional search firms, stockholders or other persons. Each potential nominee brought to the attention of the Committee, regardless of who recommended such potential nominee, is considered on the basis of the criteria set forth in our Corporate Governance Guidelines. Stockholder Nominees.
+The Nominating and Corporate Governance Committee will review a reasonable number of candidates for director recommended by a single stockholder who has held more than 1.0% of our common stock for more than one year and who satisfies the notice, information and consent provisions set forth in our Bylaws and Rule 14a-19 of the Exchange Act (“Rule 14a-19”).
+The Board will use the same evaluation criteria and process for director nominees recommended by stockholders as it uses for other director nominees.
+A stockholder wishing to formally nominate an individual for election to the Board must do so by following the procedures described in the Bylaws and Rule 14a-19.
+4
+Item 11. Executive Compensation. The following discussion is designed to provide our stockholders with an understanding of our compensation philosophy and objectives as well as an overview of the analysis that our Compensation Committee performed in setting the compensation of our executive officers for Fiscal 2025 (i.e., the period from April 1, 2024 to March 31, 2025). This discussion summarizes the Compensation Committee’s determination of how and why, in addition to what, compensation actions were taken for our named executive officers, as follows:•Keith Murphy, our Executive Chairman and Principal Executive Officer;•Norman Staskey, our Chief Financial Officer and Principal Financial Officer; and•Thomas Hess, our former Chief Financial Officer and former Principal Financial Officer(1).(1)Mr. Hess resigned from the Company effective as of December 24, 2024, from his part-time role to pursue retirement. These three individuals are collectively referred to in this Annual Report as our “named executive officers”. Mr. Murphy and Mr. Staskey were the only executive officers serving at the end of Fiscal 2025.   Recent “Say-on-Pay” Votes Our recent stockholder advisory votes, commonly referred to as a “Say-on-Pay” vote, to approve the compensation of our named executive officers for Fiscal 2024 (i.e., the period from April 1, 2023 to March 31, 2024) was approved by our stockholders, with approximately 92% of stockholder votes cast in favor of the proposal. During Fiscal 2025, our Executive Chairman, former Chief Financial Officer, and Chief Financial Officer maintained significant stockholder engagement efforts to monitor how our investors vote, obtain their views on key corporate governance and disclosure matters and determine how best to respond to feedback each year going forward. Specifically, we reached out to our stockholders representing over 95% of our institutional stock holdings multiple times. None of the stockholders indicated a need or desire to engage with the Company to discuss or express any concerns.
+Going forward, we plan to continue to: •at least annually, reach out to institutional stockholders representing a majority of the shares held by our institutional stockholders; and•invite them to engage and participate in calls to discuss our executive compensation programs, their feedback and questions and how we may best address them.
+One or more members of executive management are expected to be active participants on all such calls, as will one or more members of our Compensation Committee. All such feedback will be shared with our Board.
+In evaluating potential changes to our executive compensation programs’ structure and disclosure, the Compensation Committee will closely examine, and aim to understand further, our stockholders’ feedback, including any common themes from our stockholders’ feedback. The Compensation Committee will also seek the advice of independent compensation consultants with respect to the design of our executive compensation program.
+Compensation Philosophy and Objectives Our executive compensation program focuses on creating alignment between our stockholders and executive officers by including both performance- and incentive-based compensation elements.
+Our compensation package also combines both short- and long-term components (cash and equity, respectively) at the levels the Compensation Committee determined to be appropriate to motivate, reward, and retain our executive officers.
+Our executive compensation program is designed to achieve the following key objectives:•Attract, retain, and reward talented executives and motivate them to contribute to the Company’s success and to build long-term stockholder value;•Establish financial incentives for executives to achieve our key financial, operational, and strategic goals;•Enhance the relationship between executive pay and stockholder value by utilizing long-term equity incentives; and
+5
+•Recognize and reward executives for superior performance. Use of Market Data and Benchmarking The Compensation Committee endeavors to set compensation at competitive levels.
+In order to do this, the Compensation Committee compares our compensation packages with the packages offered by other peer companies that are similarly situated, and with which we compete for talent. Selection criteria includes:•Industry, specifically biotechnology and medical research,•Company focus, with an emphasis on technology platforms,•Stage of leading drug candidate, with an emphasis on Phase II/III,•Market capitalization, targeting less than $100 million,•Number of employees, targeting less than 50 employees, and•Location, specifically nationwide. For Fiscal 2025, the Compensation Committee engaged Anderson Pay Advisors ("Anderson"), an independent compensation consultant, as the Compensation Committee’s advisor reporting directly to the chair of the Compensation Committee.
+The Compensation Committee determined that no conflict of interest exists that would preclude Anderson from serving as an independent consultant to the Compensation Committee. The Compensation Committee requested that Anderson conduct a review and analysis of our executive compensation programs as compared against competitive benchmarks. This included a benchmarking analysis against prevailing market practices of a peer group of comparable companies approved by the Compensation Committee and broader industry trends and benchmarks.
+The analysis included a review of the “Total Direct Compensation” (which includes salary, cash incentives, and equity awards) of our executive officers, and was based on an assessment of market trends covering available public information as well as proprietary information provided by Anderson. For Fiscal 2025, based on recommendations from Anderson, our Compensation Committee determined that our peer group should be modified to better reflect our current market valuation as well as the growing importance of our therapeutics program to our overall business model.
+With input from Anderson, our Compensation Committee added a group of companies focused on technology platforms, with comparable size, revenues, market valuations, and stage of leading drug candidate.
+Our Compensation Committee also replaced some of the companies previously included in our peer group because their market valuations had grown too high for direct comparison to our Company, and/or their business focus had become less relevant for direct comparison to our Company. Our Compensation Committee then used the compensation data from this revised peer group in setting executive compensation for Fiscal 2025. The peer group for Fiscal 2025 included:
+Aligos Therapeutics, Inc.
+Hepion Pharmaceuticals, Inc.
+Scorpius Holdings, Inc.*
+Anika Therapeutics, Inc.*
+Hoth Therapeutics, Inc.*
+Seelos Therapeutics, Inc.
+Aprea Therapeutics, Inc.
+Immunic Therapeutics, Inc.*
+Soligenix, Inc.
+Ayala Pharmaceuticals
+Imunon, Inc.
+Theriva Biologics, Inc.
+Bolt Biotherapeutics, Inc.*
+LadRx Corp.
+Traws Pharma, Inc.*
+Cumberland Pharmaceuticals, Inc.*
+Lifecore Biomedical*
+Galmed Pharmaceuticals Ltd.
+Pulmatrix, Inc.
+* Indicates addition to peer group from Fiscal 2024. Determination of Executive Compensation In addition to peer group data, the Compensation Committee considered relevant publicly available market data and surveys and the compensation reports it received from Anderson.
+The Compensation Committee also reviewed and considered the compensation recommendations of our Executive Chairman, the Company’s overall performance during Fiscal 2025, the Company’s financial status and operating runway, each executive officer’s responsibilities and contribution to the Company’s achievement of the Fiscal 2025 corporate goals, and each executive officer’s individual performance during Fiscal 2025.
+With respect to new hires, our Compensation Committee considered the executive officer’s background and historical compensation in lieu of prior year performance in addition to benchmark data for the newly hired executive’s position.
+6
+Commitment to Good Compensation Governance Practices In designing our executive compensation program, our Compensation Committee intends to create alignment between our stockholders and executive officers and to implement good compensation governance by:•Annual Advisory Vote on the Compensation of our Named Executive Officers – We provide our stockholders with the ability to vote annually on the compensation of our named executive officers.•Independent Compensation Consultant – The Compensation Committee engaged Anderson during Fiscal 2025 to serve as its independent compensation consultant. Anderson did not provide any other services to the Company during the periods it served as a consultant to the Compensation Committee.•Performance and Incentive Based – Previously, approximately 40% of the Total Direct Compensation our executive officers could earn was performance and incentive based, thereby aligning the interests of our executive officers with our stockholders’ interests. As our current executive officers are retained through consulting firms, neither are eligible for performance based compensation.•Compensation Risk Assessment – The Compensation Committee oversees and evaluates an annual risk assessment of the Company’s compensation program.
+The Compensation Committee believes that the performance goals established for incentives do not encourage excessive risk-taking or have the potential to encourage behavior that may have a material adverse effect on the Company.•Prohibitions on Hedging, Pledging and Margin Activities – Our insider trading policy prohibits hedging transactions by Company employees.
+Under the policy, all short-term, speculative or hedging transactions in VivoSim securities are prohibited by all employees.
+In addition, the policy specifically prohibits the use of VivoSim securities for pledging and margin activities.•No Single Trigger Change in Control Vesting - We do not provide for the acceleration of vesting solely upon the occurrence of a change in control in our equity awards for our directors and executive officers. •No Excise Tax Gross Ups – We do not include excise tax gross ups for any change in control payments.•Director and Executive Officer Stock Ownership Guidelines – We have adopted stock ownership guidelines that require each director and executive officer to accumulate and hold a specified value of our stock within five years of most recently starting employment with us or becoming a director.
+The Compensation Committee believes that the program and policies described above demonstrate the Company’s commitment to, and consistent execution of, an effective performance-oriented executive compensation program. Components of Executive CompensationThe framework established by the Compensation Committee, based on the data provided by Anderson, for our executive compensation program consists of a base salary, performance-based cash incentives and long-term equity-based incentives.
+The Compensation Committee endeavors to combine these compensation elements to develop a compensation package that provides competitive pay, rewards our executive officers for achieving our commercial, operational and strategic objectives and aligns the interests of our executive officers with those of our stockholders. Salary.
+The Compensation Committee has provided, and will continue to provide, our executive officers with a base salary to compensate them for services provided during the fiscal year.
+In addition to benchmark data from our peer group, our Compensation Committee considers the Company’s overall performance during the prior fiscal year, cash burn, the Company’s financial status and operating profile, each executive officer’s responsibilities and contribution to the achievement of the prior year’s corporate goals, and each executive officer’s individual performance during the prior fiscal year.
+The evaluations and recommendations proposed by our Executive Chairman are also considered (other than with respect to determining his own compensation).
+With respect to new hires, the Compensation Committee considers an executive’s background and historical compensation in lieu of prior year performance as well as benchmark data for the new hire’s position.
+Our Compensation Committee evaluates and sets the base salaries for our executives following annual performance evaluations, as well as upon a promotion or other change in responsibility.
+Our Compensation Committee expects to continue to utilize these policies going forward. Pursuant to the terms of our consulting agreement with Multi Dimensional Bio Insight LLC (“MDBI”), a biotechnology consulting firm through which we retain Mr. Murphy, MDBI has the right, on an annual basis, to increase hourly consultant rates by up to 4%. From January 1, 2021 to May 1, 2022, the hourly rate for Mr. Murphy’s services was $375, which was increased to $413 effective May 1, 2022 and remained the same throughout the remainder of Fiscal 2024 and Fiscal 2025.
+The cash amount paid to MDBI
+7
+increased from $657,984 for Fiscal 2024 to $726,674 for Fiscal 2025, with approximately a 10% increase in Mr. Murphy’s hours for Fiscal 2025 as compared to Fiscal 2024. Pursuant to the terms of our consulting agreement with Danforth Advisors, LLC (“Danforth”), a financial consulting firm through which we retain Mr. Staskey, Danforth has the right, on an annual basis, to increase hourly consultant rates by up to 4%. From January 1, 2025 to March 31, 2025, the hourly rate for Mr. Staskey's services was $450. The cash amount paid to Danforth for Mr. Staskey's services was $20,925 for Fiscal 2025. Pursuant to the terms of our consulting agreement with Danforth through which we retained Mr. Hess, Danforth had the right, on an annual basis, to increase hourly consultant rates by up to 4%. From January 1, 2024 and the remainder of Fiscal 2024 and Fiscal 2025, the hourly rate for Mr. Hess' services was $450. The cash amount paid to Danforth for Mr. Hess' services decreased from $199,322 for Fiscal 2024 to $114,975 for Fiscal 2025, with approximately a 44% decrease in Mr. Hess’ hours for Fiscal 2025 as compared to Fiscal 2024. The cash amounts paid to our named executive officers for Fiscal 2025 as compared to Fiscal 2024 are set forth in the following table:
+Name and Title
+Fiscal 2025Cash Payments
+Fiscal 2024Cash Payments
+Keith Murphy, Executive Chairman(1)
+$
+726,674
+$
+657,984
+Norman Staskey, Chief Financial Officer(2)
+20,925
+—
+Thomas Hess, Former Chief Financial Officer(3)
+114,975
+199,322
+______________________(1)Mr. Murphy was appointed our Executive Chairman on September 15, 2020.
+The Company retains Mr. Murphy through MDBI, a biotechnology consulting firm, pursuant to the terms of a consulting agreement, pursuant to which the Company has agreed to pay MDBI $375-390 per hour of services provided by Mr. Murphy, with an annual increase in rates by up to 4%.
+The amounts reported under “Fiscal 2025 Cash Payments” and “Fiscal 2024 Cash Payments” are comprised of the actual amounts paid to MDBI for its consulting services.
+Mr. Murphy did not directly receive a base salary from the Company in Fiscal 2025 or Fiscal 2024.
+Mr. Murphy’s increase in base salary was primarily due to additional time commitment of Mr. Murphy in his consulting role as Executive Chairman of the Company. (2)Mr. Staskey was appointed our Chief Financial Officer on December 30, 2024.
+The Company retains Mr. Staskey through Danforth, a financial consulting firm, pursuant to the terms of a consulting agreement, pursuant to which the Company has agreed to pay Danforth $450 per hour of services provided by Mr. Staskey, with an annual increase in rates by up to 4%.
+The amounts reported under “Fiscal 2025 Cash Payments” and “Fiscal 2024 Cash Payments” are comprised of the actual amounts paid to Danforth for its consulting services related to Mr. Staskey. Mr. Staskey did not directly receive a base salary from the Company in Fiscal 2025 or Fiscal 2024.(3)Mr. Hess resigned from the Company effective as of December 24, 2024, from his part-time role to pursue retirement. He previously served as our Chief Financial Officer from October 6, 2022 to December 24, 2025. The Company retained Mr. Hess through Danforth pursuant to the terms of a consulting agreement, pursuant to which the Company agreed to pay Danforth $400 per hour of services provided by Mr. Hess, with an annual increase in rates by up to 4%.
+The amounts reported under “Fiscal 2025 Cash Payments” and “Fiscal 2024 Cash Payments” are comprised of the actual amounts paid to Danforth for its consulting services in connection Mr. Hess.
+Mr. Hess did not directly receive a base salary from the Company in Fiscal 2025 or Fiscal 2024. Performance-Based Cash Incentive Awards.
+Our executive compensation program typically includes an annual performance-based cash incentive award, which provides our executive officers with an annual cash incentive opportunity as a percentage of their base salaries based upon the achievement of corporate and individual performance goals evaluated and approved by the Compensation Committee. The Company continues to use an objectives and key results goal-setting framework (“OKRs”) used by individuals, teams, and the Company to define measurable goals and track their outcomes, originally developed and implemented by Andrew Grove at Intel. See: http://www.whatmatters.com. Mr. Murphy is retained through MDBI, a biotechnology consulting firm, pursuant to the terms of a consulting agreement.
+As such, Mr. Murphy is not eligible to receive a bonus for services provided during the fiscal year. Mr. Staskey is retained through Danforth, a financial consulting firm, pursuant to the terms of a consulting agreement.
+As such, Mr. Staskey is not eligible to receive a bonus for services provided during the fiscal year.  Mr. Hess was retained through Danforth, a financial consulting firm, pursuant to the terms of a consulting agreement.
+As such, Mr. Hess was not eligible to receive a bonus for services provided during the fiscal year.
+Equity-Based Incentive Awards.
+In addition to base salaries and annual performance-based cash incentives, the Compensation Committee has provided long-term, equity-based incentive awards to our executive officers.
+In determining the size and terms of the awards, the Compensation Committee considered benchmark data from our peer group, publicly available market and survey data and the individual performance of the named executive officers. On August 5, 2024, the Compensation Committee granted Mr. Murphy options to purchase the aggregate number of shares of common stock equal to 7% of the outstanding number of shares of common stock at the time of grant, consisting of (a) a time-based
+8
+option to purchase 47,910 shares of common stock, or 4% of the outstanding shares of common stock on the date of grant (the “Time-Based Option), and (b) three performance-based options to purchase an aggregate of 35,931 shares of common stock, or 3%, of the outstanding shares of common stock on the date of grant (the “Performance-Based Options” and together with the Time-Based Option, the “Options”). The Time-Based Option has an exercise price of $6.44 and vests in 3 equal annual installments on each of August 5, 2025, August 5, 2026 and August 5, 2027. The Performance-Based Options are each for 11,977 shares of common stock, have an exercise price of $6.44 vest upon the achievement of the milestones applicable to each Performance-Based Option, as follows: (1) the Company enters into a definitive agreement for a collaboration or partnership, which in the sole judgment of our Board or a committee thereof, constitutes a major strategic partnership that expands the Company's business relationships, (2) the 90-day moving average closing price of the Company’s common stock on The Nasdaq Stock Market LLC exceeds $18.36 per share, and (3) the Company achieves cumulative revenue of $1.5 million from combined cell line sales, IP licensing revenue, including up-front and royalty payments, non-dilutive collaborations, grants and partnerships, as confirmed by our Board or a committee thereof.
+The Compensation Committee further approved that in the event that the Company closed an equity financing (in one or more tranches) after August 5, 2024 and on or prior to March 31, 2025 (the “Financing”) and the aggregate number of shares of common stock issuable upon exercise of the Time-Based Option and the Performance-Based Option was equal to less than 4% and 3%, respectively, of the number of shares of common stock outstanding immediately after such Financing (in all cases assuming no exercise of any of the Options) (“Post-Financing Shares Outstanding”), Mr. Murphy would be granted: (a) an additional time-based option to purchase such number of shares of common stock as was equal to 4% of the Post-Financing Shares Outstanding minus the number of shares initially issuable upon exercise of the Time-Based Option, and/or (b) an additional performance-based option to purchase such number of shares of common stock as was equal to 3% of the Post-Financing Shares Outstanding minus the number of shares of common stock initially issuable upon exercise of the Performance-Based Option ((a) and (b) collectively, the “True-Up Options”), each of which would be subject to the vesting requirements (including the vesting commencement date) and substantially the same terms as the Time-Based Option and Performance-Based Option, respectively, other than that the exercise price for such True-Up Options would be the closing price of the common stock on the date of grant, which would be the date of the closing of the Financing. The Company did not close a Financing by the deadline of March 31, 2025, and therefore no True-Up Options were granted. Other BenefitsIn order to attract and retain qualified individuals and pay market levels of compensation, we have historically provided, and will continue to provide, our executives with the following benefits:•Health Insurance – We provide each of our executives and their spouses and children the same health, dental, and vision insurance coverage we make available to our other eligible employees.•Life and Disability Insurance – We provide each of our executives with the same life and disability insurance as we make available to our other eligible employees.•Pension Benefits – We do not provide pension arrangements or post-retirement health coverage for our executives or employees.
+We implemented a 401(k) Plan effective January 1, 2014.
+We provide a company matching contribution up to 3.5% of compensation for all participants in the 401(k) plan, including our executive officers, to help attract and retain top talent.•Nonqualified Deferred Compensation – We do not provide any nonqualified defined contribution or other deferred compensation plans to any of our employees.•Perquisites – We limit the perquisites that we make available to our executive officers.
+In certain cases, we have reimbursed our executive officers for their relocation expenses on their initial hire. Severance Arrangements During Fiscal 2025, none of our executive officers were party to any agreements or arrangements providing for severance payments.  Potential Payments upon Termination or Change in Control As of March 31, 2025, none of our named executive officers were entitled to receive any payments upon termination or change of control.
+9
+Death or Disability Benefits The outstanding equity awards held by our executive officers provide such executive officers with accelerated vesting if the executive officer terminates services with the Company as a result of death or disability.
+In order for an equity award to be eligible for accelerated vesting, the executive officer’s death or disability must occur more than 90 days after the date the equity award was granted.
+With respect to performance-based equity awards, an executive officer will vest at target levels upon the executive officer’s death or disability.   Summary Compensation Table The following table summarizes the total compensation paid to or earned by each named executive officer for Fiscal 2025 and Fiscal 2024.
+Name and Principal Position
+Year or Period
+Salary($)
+Bonus ($)
+Stock Awards($)
+Option Awards($)(1)
+Non-Equity Incentive Plan Compensation($)(2)
+All Other Compensation($)
+Total($)
+Keith Murphy(3)Executive Chairman
+2025
+726,674
+—
+—
+428,113
+—
+10,870(4)
+1,165,657
+2024
+657,984
+—
+—
+—
+—
+23,152(4)
+681,136
+Norman Staskey(5)Chief Financial Officer
+2025
+20,925
+—
+—
+—
+—
+—
+20,925
+Thomas Hess(6)Former Chief Financial Officer
+2025
+114,975
+—
+—
+—
+—
+—
+114,975
+2024
+199,322
+—
+—
+—
+—
+—
+199,322
+______________________(1)These amounts represent the grant date fair value of time-based and performance-based stock option awards granted by the Company during the periods presented, determined in accordance with FASB ASC Topic 718.
+All awards are amortized over either the vesting life or requisite service period of the award.
+For the assumptions used in our valuations, see “Note 7 – Stockholders’ Equity” of the Notes to Consolidated Financial Statements included elsewhere in this Annual Report.(2)Includes amounts paid under the Company’s Performance-Based Cash Incentive Award program based on the achievement of corporate and individual performance goals established and measured by the Compensation Committee.(3)Mr. Murphy was appointed our Executive Chairman on September 15, 2020.
+The amounts reported under “Salary” are comprised of the amounts paid to MDBI for its consulting services.
+Mr. Murphy did not receive a base salary from the Company in Fiscal 2025 or Fiscal 2024. Mr. Murphy also received compensation for services as a member of the Board, which is included in the section entitled “Director Compensation Table” on page 12 of this Amendment.(4)This amount includes $1,250 for expense reimbursements, $3,020 for administrative services and $6,600 for office rent in Fiscal 2025 and $14,777 for expense reimbursements, $1,775 for administrative services and $6,600 for office rent in Fiscal 2024.(5)Mr. Staskey was appointed our Chief Financial Officer on December 30, 2024. The amounts reported under "Salary" are comprised of the amounts paid to Danforth for its consulting services related to Mr. Staskey. Mr. Staskey did not receive a base salary from the Company in Fiscal 2025. Mr. Staskey's compensation for Fiscal 2024 has been omitted from this table as Mr. Staskey was not a named executive officer for Fiscal 2024. (6)Mr. Hess resigned from the Company as of December 24, 2024, from his part-time role to pursue retirement. The amounts reported under “Salary” are comprised of the amounts paid to Danforth for its consulting services related to Mr. Hess.
+Mr. Hess did not receive a base salary from the Company in Fiscal 2025 or Fiscal 2024.
+Outstanding Equity Awards at Fiscal Year End The following table shows certain information regarding outstanding equity awards as of March 31, 2025 for our named executive officers:
+Option Awards
+Stock Awards
+Name
+No. of SecuritiesUnderlyingUnexercisedOptions (#)Exercisable
+No. of SecuritiesUnderlyingUnexercisedOptions (#)Unexercisable
+OptionExercise Price($)
+OptionExpiration Date
+No. of Shares orUnits of StockThat Have NotVested (#)
+Market Valueof Shares orUnits of StockThat HaveNot Vested($)
+Keith Murphy
+2,083
+(1)
+1,250
+$
+28.32
+8/31/2032
+1,633
+(2)
+$
+3,658
+—
+(3)
+47,910
+6.44
+8/5/2034
+—
+(4)
+11,977
+6.44
+8/5/2034
+—
+(5)
+11,977
+6.44
+8/5/2034
+—
+(6)
+11,977
+6.44
+8/5/2034
+______________________(1)The option shares vest in 16 equal quarterly installments beginning August 31, 2022.(2)The restricted stock units vest on the earlier of one year from the vesting commencement date, August 7, 2024, or the next annual meeting of stockholders held by the Company. (3)The option shares vest in 3 equal annual installments beginning August 5, 2024. (4)The option becomes exercisable, if at all, when the Company enters into a definitive agreement for a collaboration or partnership, which in the sole judgment of the Board or a committee thereof, constitutes a major strategic partnership that expands the Company's business relationships.(5)The option becomes exercisable, if at all, if the 90-day moving average closing price of the Company's common stock on The Nasdaq Stock Market LLC exceeds $18.36 per share.
+10
+(6)The option becomes exercisable, if at all, if the Company achieves cumulative revenue of $1.5 million from combined cell line sales, IP licensing revenue, including up-front and royalty payments, non-dilutive collaborations, grants and partnerships, as confirmed by the Board or a committee thereof.
+As of March 31, 2025, neither Mr. Staskey nor Mr. Hess held any outstanding equity awards. Director Compensation
+Our directors play a critical role in guiding our strategic direction and overseeing the management of our Company.
+Ongoing developments in corporate governance and financial reporting have resulted in an increased demand for such highly qualified and productive public company directors.
+The many responsibilities and risks and the substantial time commitment of being a director of a public company require that we provide adequate incentives for our directors’ continued performance by paying compensation commensurate with our directors’ workload.
+Our directors are compensated based upon their respective levels of Board participation and responsibilities, including service on Board committees. Our director compensation is overseen by the Compensation Committee, which makes recommendations to our Board on the appropriate structure for our director compensation program and the appropriate amount of compensation. Our Board is responsible for final approval of our director compensation program and the compensation paid to our directors. In connection with establishing our director compensation for Fiscal 2025, the Compensation Committee retained Anderson as its independent compensation consultant. With the assistance of Anderson, the Board and Compensation Committee conducted a formal review of our director compensation and incentive programs relative to the same peer group used in benchmarking the compensation for our executive officers.
+Fiscal 2025 Director Compensation Framework For Fiscal 2025, our Director Compensation Framework provided to both non-employee and employee directors annual cash retainers for Board service and for service as the chair or member of one of the standing Board committees. Our directors are not entitled to any Board meeting fees or Board committee meeting fees.
+Annual Cash Retainers.
+For Fiscal 2025, each of our directors was eligible to receive an annual cash retainer of $66,300 for Board membership.
+In addition, each of our directors are eligible to receive the applicable annual retainers set forth below for serving as committee chairs and for service as a member of a Board committee, with total cash compensation for each director not to exceed $105,000 per fiscal year:
+Position
+Audit Committee
+CompensationCommittee
+Nominating andCorporateGovernanceCommittee
+Science andTechnologyCommittee
+Committee Chair
+$
+25,500
+$
+25,500
+$
+25,500
+$
+25,500
+Committee Member (excluding Chair)
+$
+15,300
+$
+15,300
+$
+15,300
+$
+15,300
+No additional meeting fees were paid to our directors for Fiscal 2025. Equity Awards.
+In addition, in August 2024, each director received a restricted stock unit award with respect to 1,633 shares of common stock (a value of approximately $10,700), which will vest in full on the earlier of (i) August 4, 2025 or (ii) the date of our next annual meeting of stockholders, subject to acceleration in the event of a change of control.
+Reimbursement.
+Our directors are entitled to reimbursement for their reasonable travel and lodging expenses for attending Board and Board committee meetings.
+11
+Director Compensation Table The following table sets forth the compensation earned and paid to each member of our Board for service as a director during Fiscal 2025:
+Name
+Fees Earnedor Paid inCash ($)
+StockAwards($)(1)
+OptionAwards($)
+All OtherCompensation($)
+Total ($)
+Douglas Jay Cohen
+$
+105,000
+$
+10,729
+$
+—
+$
+—
+$
+115,729
+David Gobel
+105,000
+10,729
+—
+—
+115,729
+Alison Tjosvold Milhous
+105,000
+10,729
+—
+—
+115,729
+Adam Stern
+96,900
+10,729
+—
+—
+107,629
+Keith Murphy
+81,600
+10,729
+—
+—
+92,329
+(2)
+Vaidehi Joshi(3)
+91,800
+10,729
+—
+—
+102,529
+______________________(1)These amounts represent the grant date fair value of time-based restricted stock unit awards granted by the Board, determined in accordance with FASB ASC Topic 718.
+All awards are amortized over the vesting life of the award.
+For the assumptions used in our valuations, see “Note 7 – Stockholders’ Equity” of our Notes to Consolidated Financial Statements included elsewhere in this Annual Report.(2)Comprised solely of the compensation received by Mr. Murphy for his service as a member of the Board.
+Mr. Murphy’s additional compensation for Fiscal 2025 is included in the section entitled “Summary Compensation Table” on page 11 of this Amendment.(3)Ms. Joshi resigned from the Board as of March 21, 2025.
+Compensation Committee Interlocks and Insider Participation No member of our Compensation Committee has at any time been our employee.
+None of our executive officers serves, or has served during the last fiscal year, as a member of the board of directors or compensation committee of any other entity that has one or more executive officers serving as a member of our Board or our Compensation Committee. Equity Award Timing Procedures In accordance with Item 402(x) of Regulation S-K under the Securities Act of 1933, as amended, we are providing information regarding our procedures related to the grant of certain equity awards close in time to the release of material non-public information (“MNPI”). Although we do not have a formal policy, program or plan that requires us to award equity or equity-based compensation on specific dates, we generally expect our Compensation Committee to approve and grant equity awards to our executive officers annually. Additionally, our insider trading policy prohibits directors, officers and employees from trading in our common stock while in possession of or on the basis of MNPI about us. We have not timed, and do not plan to time, the disclosure of MNPI for the purpose of affecting the value of executive compensation.
+In the year ended March 31, 2025, the following options were granted to our named executive officers within four business days prior to, or one business day following, the filing or furnishing of a periodic or current report by us that disclosed MNPI.
+12
+Name
+Grant Date
+Number of Securities Underlying the Award
+Exercise Price of the Aware($/share)
+Grant Date Fair Value of the Award
+Percentage Change in the Closing Market Price of the Securities Underlying the Award Between the Trading Day Ending Immediately Prior to the Disclosure of Material Nonpublic Information and the Trading Day Beginning Immediately Following the Disclosure of Material NonpublicInformation
+Keith Murphy
+8/5/2024
+47,910
+$
+6.44
+$
+248,653
+0.4%
+(1)
+8/5/2024
+11,977
+$
+6.44
+$
+61,801
+0.4%
+(1)
+8/5/2024
+11,977
+$
+6.44
+$
+58,829
+0.4%
+(1)
+8/5/2024
+11,977
+$
+6.44
+$
+58,829
+0.4%
+(1)
+(1)We filed a quarterly report on Form 10-Q on August 5, 2024. The percentage change in the closing market price of the securities underlying the award between the trading day ending immediately prior to the disclosure of material nonpublic information and the trading day beginning immediately following the disclosure of material nonpublic information was approximately 0.4%.
+13
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+Security Ownership of Certain Beneficial Owners and Management The following tables set forth certain information regarding the beneficial ownership of our common stock as of July 1, 2025 by (i) each of our directors and named executive officers (as disclosed in this Annual Report); (ii) all of our current executive officers and directors as a group; and (iii) each holder of more than 5% of our common stock. Unless otherwise indicated in the table or the footnotes to the following table, each person named in the table has sole voting and investment power and such person’s address is c/o VivoSim Labs, Inc., 11555 Sorrento Valley Rd., Suite 100, San Diego, CA 92121. We determined the number of shares of common stock beneficially owned by each person under rules promulgated by the SEC, based on information obtained from Company records and filings with the SEC on or before July 1, 2025. In cases of holders who are not directors or named executive officers, Schedules 13G or 13D filed with the SEC, as applicable (and, consequently, ownership reflected here), often reflect holdings as of a date prior to July 1, 2025. The information is not necessarily indicative of beneficial ownership for any other purpose. Under these rules, beneficial ownership includes any shares as to which the individual or entity has sole or shared voting power or investment power and also any shares which the individual or entity had the right to acquire within 60 days of July 1, 2025. These shares, however, are not deemed outstanding for the purpose of computing the percentage ownership of any other person or entity. Applicable percentages are based on 2,599,797 shares of common stock outstanding as of July 1, 2025, as adjusted as required by the rules promulgated by the SEC. We have deemed shares of our common stock subject to stock options that are currently exercisable or exercisable within 60 days of July 1, 2025, or issuable pursuant to restricted stock units that are subject to vesting conditions expected to occur within 60 days of July 1, 2025, to be outstanding and to be beneficially owned by the person holding the stock option or restricted stock units for the purpose of computing the percentage ownership of that person. We did not deem these shares outstanding, however, for the purpose of computing the percentage ownership of any other person or entity.
+Beneficial Ownership(1)
+Name of Beneficial Owner
+Number of Common Shares
+Percent ofCommonShares
+Directors and Named Executive Officers
+Keith Murphy
+30,353
+(2)
+*
+Douglas Jay Cohen
+10,273
+(3)
+*
+Alison Tjosvold Milhous
+9,273
+(4)
+*
+Adam Stern
+9,273
+(4)
+*
+David Gobel
+6,007
+(5)
+*
+Norman Staskey
+—
+*
+Thomas Hess (6)
+—
+*
+All current executive officers and directors as a group (6 persons)
+65,179
+(7)
+2.5%
+______________________* Less than one percent.(1)Beneficial ownership of shares and percentage ownership are determined in accordance with the rules of the SEC.
+Unless otherwise indicated and subject to community property laws where applicable, the individuals named in the table above have sole voting and investment power with respect to all shares of our common stock shown as beneficially owned by them.(2)Represents 12,092 shares of common stock held by Mr. Murphy and 18,261 shares subject to options that are immediately exercisable or exercisable within 60 days of July 1, 2025.(3)Represents 5,732 shares of common stock held by Mr. Cohen, 167 shares held by Mr. Cohen’s children and 4,374 shares subject to options that are immediately exercisable or exercisable within 60 days of July 1, 2025.(4)Represents 4,899 shares of common stock held and 4,374 shares subject to options that are immediately exercisable or exercisable within 60 days of July 1, 2025.(5)Represents shares subject to options that are immediately exercisable or exercisable within 60 days of July 1, 2025.(6)Mr. Hess resigned from the Company effective as of December 24, 2024.(7)Comprised of shares included under “Directors and Named Executive Officers” other than Mr. Hess as he is not currently an executive officer. Securities Authorized for Issuance Under Equity Compensation Plans
+14
+The following table summarizes information about the Company’s equity compensation plans by type as of March 31, 2025:
+(C)
+(A)
+Number of
+Number of
+securities available
+securities to be
+(B)
+for future issuance
+issued upon
+Weighted-average
+under Equity
+exercise/vesting
+exercise price
+Compensation Plans
+of outstanding
+of outstanding
+(excluding securities
+options, warrants,
+options, warrants,
+reflected in
+Plan category
+units and rights
+units and rights
+column (A))
+Equity compensation plans approved by security holders (1)
+145,396 (2)
+$
+22.34
+202,482 (3)
+Equity compensation plans not approved by security holders (4)
+4,166 (5)
+$
+33.00
+83 (6)
+(1)Includes the 2012 Plan, the A&R 2022 Plan, and the ESPP. (2)Includes stock options to purchase 137,231 shares of common stock with a per share weighted-average exercise price of $22.34. Also includes 8,165 restricted stock units with no exercise price.(3)Includes 198,774 shares of common stock reserved for issuance pursuant to the 2012 Plan and A&R 2022 Plan and 3,708 shares of common stock available for purchase under the ESPP as of March 31, 2025.(4)Includes the Inducement Plan.(5)Includes 4,166 stock options with a per share exercise price of $33.00 granted pursuant to the Inducement Plan. (6)Includes 83 shares of common stock reserved for issuance pursuant to the Inducement Plan.
+15
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+Board Independence Our shares of common stock are listed for trading on the Nasdaq Capital Market. As a result, our Board utilizes the definition of “independence” as that term is defined by the listing standards of the Nasdaq Capital Market and the rules and regulations of the SEC, including the additional independence requirements for members of our Audit Committee and the Compensation Committee. Our Board considers a director “independent” when the director is not an officer or employee of the Company or its subsidiaries, does not have any relationship which would, or could reasonably appear to, materially interfere with the independent judgment of such director, and the director otherwise meets the independence requirements under the listing standards of the Nasdaq Capital Market and the rules and regulations of the SEC. Our Board has reviewed the materiality of any relationship that each of our directors has with the Company, either directly or indirectly. Based on this review, our Board has affirmatively determined that the following four of our five current directors qualify as “independent” directors: Douglas Jay Cohen, David Gobel, Alison Tjosvold Milhous and Adam Stern. Keith Murphy does not qualify as an independent director. Mr. Murphy currently serves as our Executive Chairman and as Chief Executive Officer of Viscient, which has made payments to the Company in sufficient amounts to qualify as related party transactions leading to director non-independence. Please see the section titled “Certain Relationships and Related Transactions” for additional information. Certain Relationships and Related Transactions Since April 1, 2024, there have not been any transactions or series of similar transactions to which we were or are a party in which the amount involved exceeded or exceeds the lesser of $120,000 or one percent of the average of our total assets at fiscal year-end for the last two completed fiscal years, and in which any of our directors or executive officers, any holder of more than 5% of any class of our voting securities or any member of the immediate family of any of the foregoing persons had or will have a direct or indirect material interest, other than (i) the transactions described below and (ii) the compensation arrangements with our executive officers and non-employee directors described in “Executive Compensation” and “Director Compensation,” respectively. Intercompany Agreement with Viscient Viscient is an entity for which Keith Murphy, our Executive Chairman and member of our Board, serves as the Chief Executive Officer and President. Messrs. Stern, Cohen and Gobel (through the Methuselah Foundation and the Methuselah Fund) have invested funds through a convertible promissory note in Viscient, but do not serve as an employee, officer or director of Viscient. On December 28, 2020, the Company entered into an intercompany agreement (the “Intercompany Agreement”) with Viscient and Organovo, Inc., the Company’s wholly-owned subsidiary, which included an asset purchase agreement for certain lab equipment. Pursuant to the Intercompany Agreement, the Company agreed to provide Viscient certain services related to 3D bioprinting technology, which includes, but is not limited to, histology services, cell isolation, and proliferation of cells and Viscient agreed to provide the Company certain services related to 3D bioprinting technology, including bioprinter training, bioprinting services, and qPCR assays, in each case on payment terms specified in the Intercompany Agreement and as may be further determined by the parties. In addition, the Company and Viscient each agreed to share certain facilities and equipment, and, subject to further agreement, to each make certain employees available for specified projects for the other party at prices to be determined in good faith by the parties. During the second quarter of fiscal 2025 and first quarter of fiscal 2026, the companies added Statements of Work to the Intercompany Agreement, pursuant to which Viscient agreed to provide the Company with certain testing services related to the Company's ongoing research and development ("R&D"). The Company evaluated the accounting for the Intercompany Agreement and concluded that any services provided by Viscient to the Company will be expensed as incurred, and any compensation for services provided by the Company to Viscient will be considered a reduction of personnel related expenses. Any services provided to Viscient do not fall under Financial Accounting Standards Board Topic 606 (“Revenue from Contracts with Customers”) as the Intercompany Agreement is not a contract with a customer. For the year ended March 31, 2025, the Company incurred $118,000 in R&D consulting expenses from Viscient. The Company did not incur any consulting expenses during the fiscal year ended March 31, 2024. Additionally, for the fiscal years ended March 31, 2025 and 2024, the Company provided approximately $3,000 and $14,000 of histology services to Viscient, respectively.
+Related Party Transaction Policy and Procedures Pursuant to our written Related Party Transaction Policy and Procedures, our executive officers, directors, and principal stockholders, including their immediate family members and affiliates, are prohibited from entering into a related party transaction with us without the prior consent of our Audit Committee or a committee of our independent directors.
+Any request for us to enter into a transaction with an executive officer, director, principal stockholder, or any of such persons’ immediate family members or affiliates, in which the amount involved exceeds $120,000, must first be presented to our Audit Committee for review, consideration and approval.
+In
+16
+approving or rejecting the proposed agreement, our Audit Committee will consider the relevant facts and circumstances available and deemed relevant, including, but not limited to, the terms of the transaction, the nature of the related party’s interest in the transaction, the significance of the transaction to us and the related party, the nature of the related party’s relationship with us and whether the transaction would be likely to impair (or create an appearance of impairing) the judgement of a director or executive officer to act in our best interest.
+Our Audit Committee shall approve only those agreements that, in light of known circumstances, are in, or are not inconsistent with, our best interests, as our Audit Committee determines in the good faith exercise of its discretion.
+17
+Item 14. Principal Accountant Fees and Services.
+On July 18, 2023, Mayer Hoffman McCann P.C. (“MHM”) informed us and the Audit Committee that it would not stand for re-election as our registered public accounting firm for the audit of our financial statements for the fiscal year ending March 31, 2024. MHM served as our independent registered public accounting firm from February 8, 2011 through August 10, 2023. Our Audit Committee is responsible for, and, has approved, the engagement of Rosenberg Rich Baker Berman P.A. ("RRBB P.A.") as our independent registered public accounting firm for the fiscal year ending March 31, 2025. RRBB P.A. has served as our independent registered public accounting firm since August 31, 2023. The audit reports of RRBB P.A. on our financial statements for the fiscal years ended March 31, 2025 and 2024, respectively, did not contain an adverse opinion or a disclaimer of opinion, and were not qualified or modified as to uncertainty, audit scope or accounting principles, except for an explanatory paragraph regarding the existence of substantial doubt about our ability to continue as a going concern.
+During our two most recent fiscal years ended March 31, 2025 and 2024, there were no (a) disagreements, within the meaning of Item 304(a)(1)(iv) of Regulation S-K promulgated under the Securities Exchange Act of 1934, as amended (“Regulation S-K”), and the related instructions thereto, with RRBB P.A. or MHM on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of RRBB P.A. or MHM, would have caused it to make reference to the subject matter of the disagreements in connection with its reports, or (b) reportable events within the meaning of Item 304(a)(1)(v) of Regulation S-K and the related instructions thereto. Audit and Non-Audit Fees During Fiscal 2025, the Audit Committee met with RRBB P.A. on a quarterly or more frequent basis thereafter. During Fiscal 2024, the Audit Committee met with MHM during the first quarter and RRBB P.A. on a quarterly or more frequent basis thereafter.
+At such times, the Audit Committee reviewed the services performed by RRBB P.A. and MHM, as well as the fees charged for such services.  The following table sets forth the fees for services provided and billed by RRBB P.A. relating to Fiscal 2025 and Fiscal 2024.
+Fiscal Year2025
+Fiscal Year2024
+Audit fees
+$
+260,000
+$
+175,000
+Audit-related fees
+—
+—
+Tax fees
+—
+—
+All other fees
+—
+—
+Total
+$
+260,000
+$
+175,000
+Audit Fees: For the fiscal years ended March 31, 2025 and 2024, the aggregate audit fees billed by our independent registered public accounting firm were for professional services rendered for audits and quarterly reviews of our consolidated financial statements, and assistance with reviews of registration statements and documents filed with the SEC. Audit-Related Fees: For the fiscal years ended March 31, 2025 and 2024, there were no audit-related fees billed by our independent registered public accounting firm, other than the fees described above. Tax Fees: For the fiscal years ended March 31, 2025 and 2024, the tax-related fees billed by an associated entity of our independent registered public accounting firm pertained to services related to tax return preparation and tax planning services. All Other Fees: For the fiscal years ended March 31, 2025 and 2024, there were no fees billed by our independent registered public accounting firm for other services, other than the fees described above. Policy on Audit Committee Pre-Approval of Audit and Permitted Non-Audit Services of Independent Registered Public Accounting Firm The Audit Committee has determined that all services provided by RRBB P.A. to date are compatible with maintaining the independence of such audit firm.
+The charter of the Audit Committee requires advance approval of all auditing services and permitted non-audit services (including the fees and terms thereof) to be performed for the Company by our independent registered public accounting firm, subject to any exception permitted by law or regulation.
+The Audit Committee has delegated to the Chair of the
+18
+Audit Committee authority to approve permitted services, provided that the Chair reports any decisions to the Audit Committee at its next scheduled meeting.
+19
+PART IV
+Item 15. Exhibits, Financial Statement Schedules.
+(a). The following documents have been filed as part of this Amendment: •Consolidated Financial Statements: No financial statements are filed with this Amendment. The financial statements were included in Item 8 of Part II of the Original Form 10-K. •Financial Statement Schedules: None. •Exhibits: The exhibits listed in the Exhibit Index attached to this report are filed or incorporated by reference as part of this Amendment.
+(b). The exhibits listed in the accompanying Exhibit Index are filed or incorporated by reference as part of this Amendment.
+20
+EXHIBIT INDEX
+Exhibit No.
+Description
+2.1#
+Asset Purchase Agreement, dated February 23, 2025, by and between the Company, Eli Lilly and Company and for certain sections therein, Organovo, Inc. (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on February 25, 2025).
+3.1
+Certificate of Incorporation (incorporated by reference from Exhibit 3.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on February 3, 2012).
+3.2
+Certificate of Amendment of Certificate of Incorporation (incorporated by reference from Exhibit 3.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on July 27, 2018).
+3.3
+Certificate of Second Amendment of Certificate of Incorporation (incorporated by reference from Exhibit 3.1 to the Company’s Current Report on Form 8-K as filed with the SEC on August 17, 2020).
+3.4
+Certificate of Third Amendment of Certificate of Incorporation (incorporated by reference from Exhibit 3.1 to the Company’s Current Report on Form 8-K as filed with the SEC on March 21, 2025).
+3.5
+Certificate of Fourth Amendment of Certificate of Incorporation (incorporated by reference from Exhibit 3.1 to the Company’s Current Report on Form 8-K as filed with the SEC on April 24, 2025).
+3.6
+Amended and Restated Bylaws (incorporated by reference from Exhibit 3.2 to the Company's Current Report on Form 10-K, as filed with the SEC on April 24, 2025).
+4.1
+Form of Common Warrant (incorporated by reference from Exhibit 4.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on May 13, 2024).
+4.2**
+Description of Securities.
+10.1+**
+VivoSim Labs, Inc. Amended and Restated 2012 Equity Incentive Plan.
+10.2+
+Form of Stock Option Award Agreement under the 2012 Equity Incentive Plan (incorporated by reference from Exhibit 10.16 to the Company’s Current Report on Form 8-K, as filed with the SEC on February 13, 2012).
+10.3+
+Form of Non-Employee Director Stock Option Award Agreement under the 2012 Equity Incentive Plan (incorporated by reference to Exhibit 10.35 to the Company’s Annual Report on Form 10-K, as filed with the SEC on June 9, 2015).
+10.4+
+Form of Executive Stock Option Award Agreement under the 2012 Equity Incentive Plan (incorporated by reference to Exhibit 10.36 to the Company’s Annual Report on Form 10-K, as filed with the SEC on June 9, 2015).
+10.5+
+Form of Indemnification Agreement (incorporated by reference from Exhibit 10.17 to the Company’s Current Report on Form 8-K, as filed with the SEC on February 13, 2012).
+10.6#**
+License Agreement, dated March 24, 2009, by and between Organovo, Inc. and the Curators of the University of Missouri.
+10.7#**
+License Agreement, dated March 12, 2010, by and between Organovo, Inc. and the Curators of the University of Missouri.
+10.8+
+Severance and Change in Control Plan (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on November 9, 2015).
+10.9+
+Amendment No. 1 to Severance and Change in Control Plan, dated May 19, 2020 (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on May 20, 2020).
+10.10+
+Form of Severance and Change in Control Plan Participation Agreement (incorporated by reference to Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on November 9, 2015).
+21
+Exhibit No.
+Description
+10.11+
+Form of Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement (Retention Form) under the 2012 Equity Incentive Plan (incorporated by reference from Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on August 4, 2016).
+10.12+
+Form of Employee Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement under the 2012 Equity Incentive Plan (incorporated by reference from Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on August 4, 2016).
+10.13+
+Form of Non-Employee Director Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement under the 2012 Equity Incentive Plan (incorporated by reference from Exhibit 10.4 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on August 4, 2016).
+10.14+
+Consulting Agreement, dated September 15, 2020, by and between Organovo, Inc. and Multi Dimensional Bio Insight LLC (incorporated by reference from Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on November 5, 2020).
+10.15+
+Consulting Agreement, dated August 25, 2020, by and between Organovo, Inc. and Danforth Advisors (incorporated by reference from Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q, as filed with the SEC on November 5, 2020).
+10.16+
+Amendment No. 5, dated October 4, 2021, to Consulting Agreement, dated August 25, 2020 by and between Organovo, Inc. and Danforth Advisors LLC (incorporated by reference from Exhibit 10.3 to the Company’s Current Report on Form 8-K, as filed with the SEC on October 6, 2021).
+10.17+
+Amendment No. 6, dated December 30, 2024, to Consulting Agreement, dated August 25, 2020, by and between Organovo, Inc. and Danforth Advisors, LLC (incorporated by reference from Exhibit 10.2 to the Company’s Current Report on Form 8-K, as filed with the SEC on December 31, 2024).
+10.18
+Lease Agreement, dated November 23, 2020, between VivoSim Labs, Inc. and San Diego Inspire 2, LLC (Permanent Lease Agreement 176640186.8) (incorporated by reference from Exhibit 10.2 to the Company’s Current Report on Form 8-K, as filed with the SEC on November 25, 2020).
+10.19
+Amended and Restated Lease Agreement, dated November 23, 2020, between Organovo, Inc., as Tenant, and San Diego Inspire 2, LLC, as Landlord, as amended by First Amendment to Amended & Restated Lease, dated November 17, 2021, between Organovo, Inc., as Tenant and San Diego Inspire 2, LLC, as Landlord (incorporated by reference from Exhibit 10.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on November 19, 2021).
+10.20
+Intercompany Agreement, dated December 28, 2020, by and among VivoSim Labs, Inc., Organovo, Inc. and Viscient Biosciences, Inc. (incorporated by reference from Exhibit 10.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on December 31, 2020).
+10.21
+Sales Agreement, dated March 16, 2018, by and between VivoSim Labs, Inc., and Jones Trading Institutional Services LLC (incorporated by reference from Exhibit 10.1 to the Company’s Current Report on Form 8-K, as filed with the SEC on March 16, 2018).
+10.22+**
+VivoSim Labs, Inc. Amended and Restated 2021 Inducement Equity Incentive Plan.
+10.23+**
+Form of Stock Option Agreement under the VivoSim Labs, Inc. 2021 Inducement Equity Incentive Plan.
+10.24+**
+Form of Restricted Stock Unit Agreement under the VivoSim Labs, Inc. 2021 Inducement Equity Incentive Plan.
+10.25
+Settlement and Patent License Agreement, dated February 22, 2022, by and between Organovo, Inc. and BICO Group AB (incorporated by reference to Exhibit 10.34 to the Company’s Annual Report on Form 10-K, as filed with the SEC on June 10, 2022).
+10.26+**
+VivoSim Labs, Inc. Amended and Restated 2022 Equity Incentive Plan.
+10.27+**
+Form of Global Stock Option Award Agreement under the VivoSim Labs, Inc. Amended and Restated 2022 Equity Incentive Plan.
+10.28+**
+Form of Global Restricted Stock Unit Award Agreement under the VivoSim Labs, Inc. Amended and Restated 2022 Equity Incentive Plan.
+10.29+**
+VivoSim Labs, Inc. Amended and Restated 2023 Employee Stock Purchase Plan.
+14.1**
+VivoSim Labs, Inc. Code of Business Conduct.
+19.1**
+VivoSim Labs, Inc. Insider Trading Policy.
+21.1**
+Subsidiaries of VivoSim Labs, Inc.
+22
+Exhibit No.
+Description
+23.1**
+Consent of Independent Registered Public Accounting Firm.
+24.1**
+Power of Attorney (included on signature page hereto).
+31.1**
+Certification of Chief Executive Officer Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended.
+31.2**
+Certification of Chief Financial Officer a Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended.
+31.3*
+Certification of Chief Executive Officer Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended.
+31.4*
+Certification of Chief Financial Officer a Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended.
+32.1**
+Certifications Required Under Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, and to 18 U.S.C. Section 1350.
+97
+VivoSim Labs, Inc. Clawback Policy (incorporated by reference from Exhibit 97 to the Company's Annual Report on Form 10-K, as filed with the SEC on May 31, 2024).
+* Filed herewith.** Previously filed with the Original Form 10-K.+ Designates management contracts and compensation plans. † This Exhibit has been filed separately with the Secretary of the Securities and Exchange Commission without the redaction pursuant to a Confidential Treatment Request under Rule 24b-2 of the Securities Exchange Act of 1934, as amended.# Certain identified information has been omitted pursuant to Item 601(b)(10) of Regulation S-K because such information is both (i) not material and (ii) would likely cause competitive harm to the Registrant if publicly disclosed. The Registrant hereby undertakes to furnish supplemental copies of the unredacted exhibit upon request by the Securities and Exchange Commission.^ Non-material schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby undertakes to furnish supplemental copies of any of the omitted schedules and exhibits upon request by the Securities and Exchange Commission.
+23
+SIGNATURESPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+VIVOSIM LABS, INC.
+By:
+/s/ Keith Murphy
+Keith Murphy
+Executive Chairman
+Date:
+July 29, 2025
+24

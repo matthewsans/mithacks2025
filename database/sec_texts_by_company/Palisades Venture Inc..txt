@@ -1,0 +1,1693 @@
+PALISADES VENTURE, INC. 10-K
+false
+2024
+FY
+0002010982
+0002010982
+2024-01-01
+2024-12-31
+0002010982
+2024-06-30
+0002010982
+2025-08-20
+0002010982
+2024-01-31
+2024-12-31
+0002010982
+2024-12-31
+0002010982
+2023-12-31
+0002010982
+2023-01-01
+2023-12-31
+0002010982
+us-gaap:CommonStockMember
+2022-12-31
+0002010982
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0002010982
+us-gaap:RetainedEarningsMember
+2022-12-31
+0002010982
+2022-12-31
+0002010982
+us-gaap:CommonStockMember
+2023-12-31
+0002010982
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0002010982
+us-gaap:RetainedEarningsMember
+2023-12-31
+0002010982
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0002010982
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0002010982
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0002010982
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0002010982
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0002010982
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0002010982
+us-gaap:CommonStockMember
+2024-12-31
+0002010982
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0002010982
+us-gaap:RetainedEarningsMember
+2024-12-31
+0002010982
+NONE:CorpTechHoldingMember
+2024-12-31
+0002010982
+NONE:OrieRechtmanMember
+2024-12-31
+0002010982
+2023-06-30
+0002010982
+NONE:RechtmanMember
+2024-12-31
+0002010982
+NONE:RechtmanMember
+2023-12-31
+0002010982
+NONE:RechtmanMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:RechtmanMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+NONE:NonConvertibleNoteMember
+2024-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+NONE:ImputedInterestMember
+2024-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+2022-01-01
+2022-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+2023-12-31
+0002010982
+NONE:PromissoryNoteMember
+NONE:CorptechHoldingsIncMember
+2022-12-31
+0002010982
+NONE:ServiceLevelAgreementMember
+NONE:TechnicalSupportAndHostingServersMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:ServiceLevelAgreementMember
+NONE:TechnicalSupportAndHostingServersMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:ServiceLevelAgreementMember
+NONE:TechnicalSupportAndHostingServersMember
+2024-10-01
+2024-12-31
+0002010982
+NONE:CorptechHoldingsIncMember
+NONE:PromissoryNoteMember
+2024-12-31
+0002010982
+NONE:CorptechHoldingsIncMember
+NONE:PromissoryNoteMember
+2021-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2021-02-17
+0002010982
+NONE:MrRobertPapiriMember
+NONE:OlderPapiriNoteMember
+2021-02-17
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2021-02-16
+2021-02-17
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2021-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2022-01-01
+2022-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2022-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2023-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:MrRobertPapiriMember
+NONE:ConvertibleNoteAgreementMember
+2024-12-31
+0002010982
+NONE:MrRobertPapiriMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:CorptechHoldingsIncMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:MrRobertPapiriMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:CorptechHoldingsIncMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:FourCustomersMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:ThreeCustomersMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:ThreeCustomersMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:ThreeCustomersMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2023-01-01
+2023-12-31
+0002010982
+NONE:CustomerAMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:CustomerBMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:CustomerCMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:OneVendorMember
+us-gaap:SupplierConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-12-31
+0002010982
+NONE:OneVendorMember
+us-gaap:SupplierConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2023-01-01
+2023-12-31
+0002010982
+2024-10-01
+2024-12-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the year ended: December 31, 2024
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________ to __________
+Commission File Number: 333-276934
+PALISADES VENTURE, INC.
+(Exact name of registrant as specified in its charter)
+Wyoming
+99-0991248
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer Identification No.)
+21200 Oxnard Street, #6630, Woodland Hills, CA
+91362
+(Address of principal executive offices)
+(Zip Code)
+(818)
+465-1300
+(Registrant’s telephone number, including
+area code)
+(Former name, former address and former fiscal
+year, if changed since last report)
+Securities
+to be Registered Under Section 12(b) of the Act:
+Title of each class
+Trading Symbol (s)
+Name of each exchange on which registered
+Common
+N/A
+N/A
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. ☐
+Yes ☒ No
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. ☐
+Yes ☒ No
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. ☒ Yes ☐
+No
+Indicate by check mark whether the registrant
+has submitted electronically and every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). ☒
+Yes ☐ No
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large
+accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. ☐
+If securities are registered pursuant to Section
+12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction
+of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). ☐ Yes
+☒ No
+The aggregate market value of the voting and non-voting
+common equity held by non-affiliates of the registrant as of the last business day of its most recently completed second fiscal quarter
+(June 30, 2024) based upon the price at which the common equity was last sold was $0.
+As of August 20, 2025 there were 109,500,000
+issued and outstanding.
+PALISADES VENTURE, INC.
+Financial Statements
+For the Fiscal Year Ended December 31, 2024 and
+31 December, 2023
+TABLE OF CONTENTS
+Page
+PART I
+Item 1.
+Business
+1
+Item 1A.
+Risk Factors
+2
+Item 1B.
+Unresolved Staff Comments
+2
+Item 1C.
+Cybersecurity
+2
+Item 2.
+Properties
+2
+Item 3.
+Legal Proceedings
+2
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+3
+Item 6.
+Selected Financial Data
+3
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+3
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk
+5
+Item 8.
+Financial Statements and Supplementary Data
+6
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+7
+Item 9A.
+Controls and Procedures
+7
+Item 9B.
+Other Information
+8
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+9
+Item 11.
+Executive Compensation
+10
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+11
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+11
+Item 14.
+Principal Accounting Fees and Services
+11
+PART IV
+Item 15.
+Exhibits, Financial Statement Schedules
+12
+Item 16.
+Form 10-K Summary
+12
+Signatures
+13
+i
+PART I
+Item 1. Business
+Palisades Venture, Inc., is a datacenter and computer storage company based
+in the US. The Company was formed in 2021 primarily to absorb the assets of Landmark PMG LLC (d/b/a 4Service Cloud Tech) – one of
+the subsidiaries of CorpTech Holding Inc., for 25,000,000 shares of our restricted common stock and $300,000, through an Asset Purchase
+Agreement, dated July 27, 2021.
+The Company is engaged in the cloud computing segment of the technology
+sector as well as IT business continuity, disaster recovery and Cyber Security.
+In the past 10 years, 4Service Cloud Tech and Riteman have provided corporate
+clients with an array of managed technology services in data protection, cyber security and business continuation with real time disaster
+recovery solutions.
+Since 2011, the company implemented secured cloud computing solutions and
+today 4Service is considered to have a implemented based on existing top manufacturers and providers of hardware and software solutions,
+such as Cisco, Checkpoint, Dell, HP, EMC2, VMWare and Microsoft.
+4Service is a business continuity solutions provider that specializes in
+cloud computing and disaster recovery services. 4Service offer a 3-Tier approach to our disaster recovery strategy and our private managed
+cloud computing offering is comprised of the best-in-class of industry leading equipment and software solutions. Utilizing the newest
+desktop and server virtualization technologies, our cloud computing solution allows any organization, regardless of size, to gain a world-class
+infrastructure and dramatically cut its IT costs across the board.
+Riteman is a managed services provider specializing in high-end technical
+and professional services with a focus on infrastructure virtualization. IT@Once offers a full array of IT solutions and has a proven
+track record in deploying, implementing, and managing on-premise and cloud virtualized environments.
+Employees
+Management of the Company expect to use consultants,
+attorneys and accountants as necessary, and does not anticipate a need to engage any full-time employees. The need for employees and their
+availability will be addressed in connection with the decision whether or not to acquire or participate in specific business opportunities.
+Emerging Growth Company
+We qualify as an emerging growth company as that term is used in the Jumpstart
+Our Business Startups Act of 2012, or “JOBS Act.” An Emerging Growth Company may take advantage of specified reduced reporting
+and other burdens that are otherwise applicable generally to public companies. These provisions include:
+·
+a requirement for quarterly and annual reports filed with the U.S. Securities and Exchange Commission (“SEC”) to have only two years of audited financial statements and only two years of related management’s discussion and analysis;
+·
+reduced disclosure concerning executive compensation arrangements;
+·
+exemption from the auditor attestation requirement in the assessment of the emerging growth company’s internal control over financial reporting under Section 404 of the Sarbanes-Oxley Act of 2002; and
+·
+No non-binding advisory votes on executive compensation or golden parachute arrangements.
+1
+We have utilized some of these exemptions in this prospectus, which are
+also available to us as a smaller reporting company as defined under Rule 12b-2 of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”).
+In addition, Section 107 of the JOBS Act provides that an emerging growth
+company utilize the extended transition period provided in Section 7(a)(2)(b) of the Securities Act of 1933, as amended (the “Securities
+Act”) for complying with new or revised accounting standards. We are choosing to “opt out” of such extended transition
+period, and as a result, we will comply with new or revised accounting standards on the relevant dates on which adoption of such standards
+is required for non-emerging growth companies. Section 107 of the JOBS Act provides that our decision to opt out of the extended transition
+period for complying with new or revised accounting standards is irrevocable.
+We could remain an emerging growth company for up to five years, or until
+the earliest of (i) the last day of the first fiscal year in which annual gross revenue equals or exceeds $1.07 billion, (ii) the date
+that we become a “large accelerated filer” as defined in Rule 12b-2 under the Exchange Act, which would occur if the market
+value of our common stock that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed
+second fiscal quarter, or (iii) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three-year
+period.
+Item 1A. Risk Factors
+We are a smaller reporting company as defined by Rule
+12b-2 of the Exchange Act and are not required to provide the information required under this item.
+Item 1B. Unresolved Staff Comments
+Not applicable.
+Item 1C. Cybersecurity
+Cybersecurity Risk Management, Strategy, and Governance
+The identification, detection, prevention and
+remediation of known or potential IT security vulnerabilities, including those arising from third-party hackers, hardware or software,
+is extremely costly and time consuming. The Company does not have the manpower, expertise or financial resources to effectively identify,
+detect, prevent or remediate cybersecurity risks. No assurance or guarantee whatsoever can be given that the Company will not be damaged
+by the exploitation of its cybersecurity vulnerabilities.
+During the year ended December 31, 2024, we did
+not identify any cybersecurity threats that have materially affected or are reasonably likely to materially affect our business strategy,
+results of operations, or financial condition. However, we may not be aware of all vulnerabilities or might not accurately assess the
+risks of incidents, and such preventative measures cannot provide absolute security and may not be sufficient in all circumstances or
+mitigate all potential risks.
+Item 2. Properties
+We currently do not own or rent any property.
+Item 3. Legal Proceedings
+Management is not aware of any legal proceedings contemplated
+by any governmental authority or any other party involving us or our properties. As of the date of this year-end report, no director,
+officer or affiliate is (i) a party adverse to us in any legal proceeding, or (ii) has an adverse interest to us in any legal proceedings.
+Management is not aware of any other legal proceedings pending or that have been threatened against us or our properties.
+2
+PART II
+Item 5. Market for Registrant’s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market Information
+Our common shares are currently not quoted on any
+exchange.
+As of December 31, 2024, no shares of our common stock
+have been traded.
+Number of Holders
+As of December 31, 2024, 100,000,000 shares of common
+stock were issued and outstanding.
+Dividends
+No cash dividends have been paid on our shares of
+common stock to date.
+Purchase of our Equity Securities by Officers
+and Directors
+None.
+Other Stockholder Matters
+Granting
+of Certain Equity Awards Close in Time to the Release of Material Nonpublic Information
+We do not grant equity awards in anticipation of
+the release of material nonpublic information that is likely to result in changes to the price of our common stock, and do not
+time the public release of such information based on award grant dates. During the last completed fiscal year, we have not made
+awards to any named executive officer or director during the period beginning four business days before and ending one business day
+after the filing of a period report on Form 10-Q or Form 10-K or the filing or furnishing of a current report on Form 8-K, and we
+have not timed the disclosure of material nonpublic information for the purpose of affecting the value of executive
+compensation.
+Item 6. Selected Financial Data
+Not applicable.
+Item 7. Management’s Discussion and Analysis
+of Financial Condition and Results of Operations
+You should read the following discussion and analysis
+of our financial condition and results of operations together with our financial statements and the related notes and other financial
+information included elsewhere in this Financial Statement. Some of the information contained in this discussion and analysis or set forth
+elsewhere in this Statement, including information with respect to our plans and strategy for our business and related financing, includes
+forward-looking statements that involve risks and uncertainties.
+Our cash balance was $1,103 as of December 31, 2024.
+We believe our cash balance is not sufficient to fund our limited levels of operations for any period of time. We have where necessary
+been utilizing funds borrowed from our Chairman. The Chairman has no commitment, arrangement or legal obligation to advance or loan funds
+to the company. The borrowing is non-interest-bearing, unsecured, and due on demand.
+3
+Our independent registered public accountants
+have issued a going concern opinion. This means that there is substantial doubt that we can continue as an on-going business for the
+next twelve months unless we obtain additional capital to pay our bills. The accompanying financial statements have been prepared
+assuming that the Company continues as a going concern, which contemplates continuity of operations, realization of assets, and
+liquidation of liabilities in the normal course of business. As shown in the accompanying financial statements, the Company has
+accumulated losses of $(438,648) net of owner draw, and positive working capital of $395 as of December 31, 2024, and a cash flows
+from operating activities of $(12,324) for the year ended December 31, 2024. Due to these conditions, it raises substantial doubt
+about its ability to continue as a going concern.
+We are an “emerging growth company” as
+defined in the JOBS Act, and we may take advantage of certain exemptions from various reporting requirements that are applicable to other
+public companies that are not “emerging growth companies” including, but not limited to: not required to comply with the auditor
+attestation requirements of Section 404 of the Sarbanes-Oxley Act; reduced disclosure obligations regarding executive compensation in
+our periodic reports and proxy statements; exemptions from the requirements of holding an annual non-binding advisory vote on executive
+compensation and nonbinding stockholder approval of any golden parachute payments not previously approved. In addition, Section 107 of
+the JOBS Act also provides that an “emerging growth company” can take advantage of the extended transition period provided
+in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an “emerging
+growth company” can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies.
+We are choosing to “opt out” of such extended transition period, and as a result, we will comply with new or revised accounting
+standards on the relevant dates on which adoption of such standards is required for non-emerging growth companies. Section 107 of the
+JOBS Act provides that our decision to opt out of the extended transition period for complying with new or revised accounting standards
+is irrevocable.
+Revenues and Cost of goods Sold for the years
+ended December 31, 2024 and 2023
+Revenues and Cost of GoodsRevenue for the year ended December 31, 2024 was $178,853
+compared to $147,095 for the year ended December 31, 2023. The increase in revenue was mainly due to an increase in IT consulting work.
+The cost of goods for the year ended December 31,
+2024 was $41,000 compared to $39,612 for the year ended December 31, 2022. The increase was due to increased costs of maintaining the
+server systems for the cloud computing business.
+Operating expenses
+General and administrative expenses were $115,755
+for the year ended December 31, 2024, compared to $63,985 for the year ended December 31, 2023, an increase of $52,922 mainly due to increased
+costs of legal and professional fees and audit fees.
+Net Profit
+Net profit/(loss) for the year ended December 31,
+2024 was $(9,910) compared to $12,161 for the year ended December 31, 2023.
+Plan of Operations
+We expect that working capital requirements will continue
+to be funded through borrowing from related parties.
+Off Balance Sheet Arrangements
+We have no off-balance sheet arrangements that have
+or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses,
+results of operations, liquidity, capital expenditures or capital resources.
+4
+Material Commitments
+As of the date of this Annual Report, we do not have
+any material commitments.
+Purchase of Significant Equipment
+We do not intend to purchase any significant equipment
+during the next twelve months.
+Liquidity and Capital Resources
+The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern, which contemplates continuity of operations, realization of assets, and liquidation
+of liabilities in the normal course of business. As shown in the accompanying financial statements the Company has a retained deficit
+of ($438,854) and positive working capital of $286 as of December 31, 2024. For the year ended December 31, 2024 the Company had a net
+loss of $9,910. Due to these conditions, it raises substantial doubt about the Company’s ability to continue as a going concern.
+The Company is attempting to expand operations and
+generate additional revenue; however, the Company’s cash position may not be sufficient to support its daily operations. While the
+Company believes in the viability of its strategy to generate sufficient revenue and in its ability to raise additional funds, there can
+be no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon its ability to further implement
+its business plan and generate sufficient revenue and its ability to raise additional funds. The financial statements do not include any
+adjustments relating to the recoverability and classification of asset carrying amounts or the amount and classification of liabilities
+that may result should the Company be unable to continue as a going concern.
+Net cash used in operating activities was $(12,324)
+and $43,652 for the years ended December 31, 2024 and 2023, respectively.
+Net cash used in financing activities was $(15,430) and $(37,355) for the
+years ended December 31, 2024 and 2023, respectively.
+Over the next twelve months, we expect our principal
+source of liquidity will be dependent on borrowings from related parties.
+Going Concern Consideration
+Our auditors have issued a “going concern”
+opinion, meaning that there is substantial doubt if we can continue as an on-going business for the next twelve months unless we obtain
+additional capital. The Company’s cash position may not be sufficient to support its daily operations.
+Limited operating history and need for additional
+capital
+There is no historical financial information about
+us upon which to base an evaluation of our performance. We are in a growth mode and have not generated sufficient revenues. We cannot
+guarantee we will be successful in our business operations. Our business is subject to risks inherent in the growth of a business enterprise,
+including limited capital resources and possible cost overruns due to price and cost increases in services and products.
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk
+Not applicable to smaller reporting companies.
+5
+Item 8. Financial Statements and Supplementary
+Data
+Reports
+of Independent Registered Public Accounting Firm (PCAOB Auditor ID: 7002)
+F-1
+Balance Sheets as of December 31, 2024 and 2023
+F-4
+Statements of Operations for the Years Ended December 31, 2024 and 2023
+F-5
+Statements of Changes in Stockholders’ Deficit for the Years Ended December 31, 2024 and 2023
+F-6
+Statements of Cash Flows for the Years Ended December 31, 2024 and 2023
+F-7
+Notes to the Financial Statements
+F-8
+6
+Reports
+of Independent Registered Public Accounting Firms
+August 20, 2025
+To the Board of Directors of Palisades Venture,
+Inc.
+In connection with our audits of the financial
+statements of Palisades Venture, Inc. for the years ended December 31, 2024 we will issue our report thereon dated August 20, 2025. Professional
+standards require that we provide you with the following information related to our audits.
+Significant and Critical Accounting Policies
+and Practices
+Management is responsible for the selection and
+use of appropriate accounting policies. In accordance with the terms of our engagement letter, we will advise management about the appropriateness
+of accounting policies and their application. The Company’s significant accounting policies are disclosed in the notes to the financial
+statements as required by generally accepted accounting principles. No new accounting policies were adopted and the application of existing
+accounting policies was not changed during 2024. We noted no transactions entered into by the Company during the year for which accounting
+policies are controversial or for which there is a lack of authoritative guidance or consensus or diversity in practice.
+Critical accounting policies and practices are
+those that are both (1) most important to the portrayal of the Company’s financial condition and results and (2) require management’s
+most difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effects of matters that are
+inherently uncertain. The critical accounting policies used by Palisades Venture, Inc. in its 2024 financial statements are Revenue, Improper
+Revenue Recognition, Management Override of Controls, and Going Concern.
+Critical Accounting Estimates
+Accounting estimates are an integral part of the
+financial statements prepared by management and are based on management’s knowledge and experience about past and current events
+and assumptions about future events. Critical accounting estimates are estimates for which (a) the nature of the estimate is material
+due to the levels of subjectivity and judgment necessary to account for highly uncertain matters or the susceptibility of such matters
+to change and (b) the impact of the estimate on financial condition or operating performance is material. We noted no critical accounting
+estimates during our audits.
+Significant Unusual Transactions
+For purposes of this letter,
+professional standards define significant unusual transactions as transactions that are outside the normal course of business for
+the Company or that otherwise appear to be unusual due to their timing, size or nature. We noted no significant unusual transactions during
+our audits.
+F-1
+Related-party Relationships and Transactions
+As part of our audits, we evaluated the Company’s
+identification of, accounting for, and disclosure of the Company’s relationships and transactions with related parties as required
+by professional standards. We noted no related parties or related-party relationships or transactions that were previously undisclosed
+to us; significant related-party transactions that have not been approved in accordance with the Company’s policies or procedures
+or for which exceptions to the Company’s policies or procedures were granted; or significant related-party transactions that appeared
+to lack a business purpose.
+In order to meet working capital requirements
+during periods of insufficient cash, the Company expects to continue funding its working capital needs through borrowings from related
+parties.
+Quality of the Company’s Financial
+Reporting
+Management is responsible not only for the appropriateness
+of the accounting policies and practices, but also
+for the quality of such policies and practices.
+Our responsibility under professional standards is to
+evaluate the qualitative aspects of the company’s
+accounting practices, including potential bias in management’s judgment about the amounts and disclosures in the financial statements,
+and to communicate the results of our evaluation and our conclusions to you.
+Quality of the Company’s accounting principles
+and financial reporting was evaluated during our audits and we noted no issues of missing or insufficient accounting policies or practices
+Uncorrected and Corrected Misstatements
+Professional standards require us to accumulate
+misstatements identified during the audits, other than those that are clearly trivial, and to communicate accumulated misstatements to
+management. Management is in agreement with the misstatements we have identified, and they have been corrected in the Company’s
+financial statements. The attached schedule summarizes the corrected misstatements, other than those that are clearly trivial, that, in
+our judgment, may not have been detected except through our auditing procedures.
+Auditor’s Report
+In connection with the audits of the financial
+statements, we have provided you a draft of our auditor’s report, and we have discussed our unqualified opinion, our Going Concern
+paragraph, and our determination that Going Concern was a Critical Audit Matter.
+Disagreements with Management
+For purposes of this letter, professional standards
+define a disagreement with management as a matter, whether or not resolved to our satisfaction, concerning a disagreement on a financial
+accounting, reporting, or auditing matter that could be significant to the financial statements or the auditor’s report. We are
+pleased to report that no disagreements with management arose during the course of our audits.
+F-2
+Difficulties Encountered in Performing the
+Audits
+We encountered no significant difficulties in
+dealing with management in performing and completing our audits.
+Other Information in Documents Containing
+Audited Financial Statements
+The Company’s audited financial statements
+are included in its annual report. Our responsibility for the other information contained in the annual report does not extend beyond
+the financial information identified in our audit report. We do not have an obligation to perform any procedures to corroborate the other
+information contained in the annual report. However, we read the other information and considered whether such information (including
+the manner of its presentation) contained a material misstatement of fact or was materially inconsistent with information appearing in
+the financial statements. Nothing came to our attention that caused us to believe that such information (including the manner of its presentation)
+contained a material misstatement of fact or was materially inconsistent with the information appearing in the financial statements.
+Going Concern
+Note 3 to the financial statements discloses all
+of the matters of which we are aware that are relevant to the Company’s ability to continue as a going concern, including significant
+conditions and events, and management plans. We have reviewed Note 3 as well as our auditor’s consideration of our ability to continue
+as a going concern.
+This has been and will continue to be discussed
+with the audit committee and those charged with governance.
+This information is intended solely for the use
+of the Audit Committee, Board of Directors, and management of Palisades Venture, Inc. and is not intended to be, and should not be, used
+by anyone other than these specified parties.
+Thanks and Regards
+Raj Gupta & Co.
+Chartered Accountant
+/s/ Geetanjali Nagpal
+Geetanjali Nagpal
+(Partner)
+New
+Delhi, India
+F-3
+PALISADES VENTURE, INC.
+BALANCE SHEETS
+December 31, 2024
+December 31, 2023
+Assets
+Current Assets
+Cash
+$1,103
+$4,207
+Receivables
+10,615
+5,199
+Total Current Assets
+11,718
+9,406
+Total Assets
+$11,718
+$9,406
+Liabilities and Stockholders Equity
+Current Liabilities
+Accrued Interest
+$11,867
+$8,249
+Accounts Payables
+–
+4,467
+Related Party Payables
+(337)
+37,592
+Total Current Liabilities
+11,530
+50,308
+Long Term Note Payable-Related Party
+300,000
+300,000
+Convertible Note payable
+39,000
+16,500
+Total Liabilities
+350,530
+366,808
+Stockholders’ Equity
+Common stock, $0.001 par value, 500,000,000 shares authorized, 100,000,000 and 100,000,000 shares issued and outstanding, respectively
+100,000
+100,000
+Additional Paid in capital
+42
+(28,458)
+Accumulated Deficit
+(438,854)
+(428,944)
+Total Stockholders’ Deficit
+(338,812)
+(357,402)
+Total Liabilities and Stockholders’ Deficit
+$11,718
+$9,406
+The accompanying notes are an integral part of these
+financial statements.
+F-4
+PALISADES VENTURE, INC.
+STATEMENTS OF OPERATIONS
+December 31, 2024
+December 31, 2023
+Revenue
+$178,962
+$147,095
+Cost of Sales
+41,000
+39,612
+Gross Profit
+137,962
+107,483
+Operating Expenses
+115,755
+63,985
+Total Expenses
+115,755
+63,985
+Income/(Loss) from Operations
+22,207
+43,498
+Interest Expense
+32,117
+31,337
+Net Income (Loss)
+$(9,910)
+$12,161
+Earnings per common share
+Basic
+$0.00
+$0.00
+Diluted
+$0.00
+$0.00
+Weighted Average common shares outstanding
+Basic
+100,000,000
+100,000,000
+Diluted
+100,000,000
+100,000,000
+The accompanying notes are an integral part of these
+financial statements.
+F-5
+PALISADES VENTURE, INC.
+STATEMENTS OF CHANGES IN STOCKHOLDERS’ DEFICIT
+FOR THE YEARS ENDED DECEMBER 31, 2024 and 2023
+Common
+Additions
+Shares
+Common
+to Paid in
+Accumulated
+Total
+Outstanding
+Stock
+Capital
+Deficit
+Equity
+$
+$
+$
+$
+Balance as at December 31, 2022
+100,000,000
+100,000
+(56,958)
+(413,623)
+(370,581)
+Imputed Interest
+–
+–
+28,500
+–
+28,500
+Net Loss
+–
+–
+–
+12,161
+12,161
+Owners Draw
+–
+–
+–
+(27,482)
+(27,482)
+Balance as at December 31, 2023
+100,000,000
+100,000
+(28,458)
+(428,944)
+(357,402)
+Imputed Interest
+–
+–
+28,500
+–
+28,500
+Net Profit
+–
+–
+–
+(9,910)
+(9,910)
+Balance at December 31, 2024
+100,000,000
+100,000
+42
+(438,854)
+(338,812)
+The accompanying notes are an integral part of these
+financial statements.
+F-6
+PALISADES VENTURE, INC.
+STATEMENTS OF CASH FLOWS
+December 31, 2024
+December 31, 2023
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net profit/(Loss)
+$(9,910)
+$12,161
+Adjustments to reconcile net income/loss to net cash used in operating activities
+Imputed Interest
+28,500
+28,500
+Changes in Assets and Liabilities
+Accounts Receivable
+(5,416)
+2,757
+Accounts Payable
+(4,467)
+(2,603)
+Deferred Revenue
+–
+–
+Accrued Expenses
+3,617
+2,837
+Net cash used in Operating Activities
+12,324
+43,652
+CASH FLOWS FROM FINANCING ACTIVITIES
+Related Party Advances
+(37,930)
+(14,945)
+Owners Draw
+–
+(27,482)
+Borrowings on debt
+22,500
+2,500
+Net cash used in Financing Activities
+(15,430)
+(39,927)
+Net Change in Cash
+(3,104)
+3,725
+Cash at beginning of the Year
+4,207
+482
+Cash at end of the Year
+$1,103
+$4,207
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Interest Paid
+$–
+$–
+Income Taxes Paid
+$–
+$–
+The accompanying notes are an integral part of these
+financial statements.
+F-7
+PALISADES VENTURE, INC.
+Notes to Financial Statements
+December 31, 2024
+NOTE 1 – NATURE OF BUSINESS
+Palisades Venture, Inc., is a datacenter and computer
+storage company based in the US. The Company was formed in 2021 primarily to absorb the assets of Landmark PMG LLC (d/b/a 4Service Cloud
+Tech) – one of the subsidiaries of CorpTech Holding Inc., for 25,000,000 shares of our restricted common stock and $300,000, through
+an Asset Purchase Agreement, dated July 27, 2021.
+The Company is engaged in the cloud computing segment
+of the technology sector as well as IT business continuity, disaster recovery and Cyber Security.
+Effective as of July 27, 2021, CorpTech Holding, Inc.,
+(d/b/a Landmark Properties Management Group, LLC, d/b/a 4Service Cloud Tech) sold all of its rights and assets, through an Asset Purchase
+Agreement of its Landmark PMG LLC, D/B/A 4 Service Cloud Tech business to Palisades Venture, Inc. in exchange for 25,000,000 shares of
+the common stock of Palisades and a $300,000 promissory note. As part of that certain Asset Purchase Agreement by and between the Company
+and CorpTech Holding, Inc.; wherein, the Company acquired all the assets and rights to the Landmark PMG LLC, (d/b/a 4Service Cloud Tech)
+business for 25,000,000 shares of common stock and a $300,000 promissory note.
+Approximately 22.83% of the outstanding common stock
+of Palisades Venture, Inc. is presently owned by CorpTech Holding, Inc. while 68.49% is owned by our CEO Orie Rechtman.
+NOTE 2 – SIGNIFICANT AND CRITICAL ACCOUNTING
+POLICIES AND PRACTICES
+Revenue
+Recognition
+Under Topic
+606, revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects
+the consideration we expect to be entitled to in exchange for those goods or services.
+We determine
+revenue recognition through the following steps:
+·
+identification of the contract, or contracts, with a customer;
+·
+identification of the performance obligations in the contract;
+·
+determination of the transaction price;
+·
+allocation of the transaction price to the performance obligations in the contract; and
+·
+recognition of revenue when, or as, we satisfy a performance obligation.
+Company recognizes
+revenues based on monthly fees for services provided to customers as well as additional hourly work performed per customer’s request
+in addition to the Monthly Recurring Charges. Customers typically pay on Net 30 Days terms. All customers pay Monthly Recurring charges
+based on the resources utilized such as the number of Licenses for Microsoft Windows users, and server utilization.
+In addition,
+if a customer requests additional services such as adding/deleting users, updating their personal computers, synchronizing data between
+their cell phone and servers, issues solving issues with other applications they use internally or additional such services, the Company
+will provide these services at a rate of $145 per hour.
+F-8
+Accounts
+Receivable
+Accounts receivable
+consist primarily of trade receivables. The Company provides an allowance for doubtful trade receivables equal to the estimated uncollectible
+amounts. That estimate is based on historical collection experience, current economic and market conditions and a review of the current
+status of each customer’s trade accounts receivable. The Company does not perform a credit check on new customers but typically
+will start a new client on pay upfront for the initial on-boarding and first month and gradually move them to Net 15 days after 3 -6 months
+and then Net 30 days. The allowance for doubtful trade receivables was $0 as of December 31, 2024 and 2023 as we believe all of our
+receivables are fully collectable.
+Basis of Presentation
+The accompanying financial statements of the Company
+have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”)
+and the rules of the Securities and Exchange Commission (“SEC”).
+Use of Estimates
+The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Cash equivalents
+The Company considers all highly liquid investments
+with a maturity of three months or less when purchased to be cash equivalents. There were no cash equivalents for the years ended December
+31, 2024 and 2023.
+Stock-based Compensation
+The Company records stock-based compensation in accordance
+with FASB ASC Topic 718, “Compensation – Stock Compensation.” FASB ASC Topic 718 requires companies to measure
+compensation cost for stock-based employee compensation at fair value at the grant date and recognize the expense over the employee’s
+requisite service period. The Company recognizes in the statement of operations the grant-date fair value of stock options and other equity-based
+compensation issued to employees and non-employees. The Company accounts for stock-based compensation in accordance with the provision
+of ASC 505-50, Equity Based Payments to Non-Employees, which requires that such equity instruments are recorded at their fair value
+on the measurement date. The measurement of stock-based compensation is subject to periodic adjustment as the underlying equity instruments
+vest.
+Fair value of financial instruments
+The Company follows paragraph 825-10-50-10 of the
+FASB Accounting Standards Codification for disclosures about fair value of its financial instruments and paragraph 820-10-35-37 of the
+FASB Accounting Standards Codification (“Paragraph 820-10-35-37”) to measure the fair value of its financial instruments.
+Paragraph 820-10-35-37 establishes a framework for measuring fair value in accounting principles generally accepted in the United States
+of America (U.S. GAAP), and expands disclosures about fair value measurements.  To increase consistency and comparability in fair
+value measurements and related disclosures, Paragraph 820-10-35-37 establishes a fair value hierarchy which prioritizes the inputs to
+valuation techniques used to measure fair value into three (3) broad levels.  The fair value hierarchy gives the highest priority
+to quoted prices (unadjusted) in active markets for identical assets or liabilities and the lowest priority to unobservable inputs. The
+three (3) levels of fair value hierarchy defined by Paragraph 820-10-35-37 are described below:
+Level 1 - Quoted market prices available in active
+markets for identical assets or liabilities that the Company has the ability to access at the measurement date.
+Level 2 - Inputs include quoted prices for similar
+assets and liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active,
+inputs other than quoted prices that are observable for the asset or liability (e.g., interest rates, yield curves, etc.), and inputs
+that are derived principally from or corroborated by observable market data by correlation or other means (market corroborated inputs).
+Level 3 - Unobservable inputs that reflect our assumptions
+about the assumptions that market participants would use in pricing the asset or liability.
+F-9
+The Company’s financial instruments are consisted
+principally of accrued expenses, short term debt and long term debt. The carrying amounts of such financial instruments in the accompanying
+balance sheets approximate their fair values due to their relatively short-term nature.
+Income Tax Provision
+The Company follow ASC 740-10-30, which requires recognition
+of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the financial statements
+or tax returns. Under this method, deferred tax assets and liabilities are based on the differences between the financial statement and
+tax bases of assets and liabilities using enacted tax rates in effect for the fiscal year in which the differences are expected to reverse.
+Deferred tax assets are reduced by a valuation allowance to the extent management concludes it is more likely than not that the assets
+will not be realized. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in
+the fiscal years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities
+of a change in tax rates is recognized in the Statements of Income in the period that includes the enactment date.
+Prior to July 27, 2021, Landmark was a LLC and taxed
+as a pass through entity. Palisades is a C corp and taxed as such and that from inception forward for Palisades and from acquisition
+of Landmark forward all amounts are taxed as a C corp.
+Schedule of tax expense benefit
+December 31
+2024
+2023
+Tax expense/(benefit) computed at statutory rate for continuing operations
+$(69,983)
+$(68,412)
+Valuation allowance
+69,983
+68,412)
+Tax expense/(benefit) for continuing operations
+$–
+$–
+The Company has current net operating loss
+carryforwards more than $333,253 as
+of December 31, 2024, to offset future taxable income, which expire beginning 2029.
+Deferred taxes are determined based on the temporary
+differences between the financial statement and income tax bases of assets and liabilities as measured by the enacted tax rates, which
+will be in effect when these differences reverse. The components of deferred income tax assets are as follows:
+Schedule of components of deferred income tax assets
+December 31
+2024
+2023
+Net operating loss
+$(333,253)
+$(323,343)
+Valuation allowance
+333,253
+323,343
+Net deferred asset
+$–
+$–
+At December 31, 2024, the
+Company provided a 100% valuation allowance for the deferred tax asset because it could not be determined whether it was more likely
+than not that the deferred tax asset/(liability) would be realized.
+On December 22, 2017, the Tax Cuts and Jobs Act (TCJA)
+was signed into law by the President of the United States. TCJA is a tax reform act that among other things, reduced corporate tax rates
+to 21 percent effective January 1, 2018. FASB ASC 740, Income Taxes, requires deferred tax assets and liabilities to be adjusted for the
+effect of a change in tax laws or rates in the year of enactment, which is the year in which the, change was signed into law.
+The Company adopted ASC 740-10-25 (“ASC 740-10-25”)
+with regard to uncertainty income taxes.  ASC 740-10-25 addresses the determination of whether tax benefits claimed or expected to
+be claimed on a tax return should be recorded in the financial statements.  Under ASC 740-10-25, we may recognize the tax benefit
+from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing
+authorities, based on the technical merits of the position.  The tax benefits recognized in the financial statements from such a
+position should be measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement.
+ASC 740-10-25 also provides guidance on derecognition, classification, interest and penalties on income taxes, and accounting in interim
+periods and requires increased disclosures.  We had no material adjustments to our liabilities for unrecognized income tax benefits
+according to the provisions of ASC 740-10-25.
+F-10
+Net income (loss) per common share
+Net loss per common share is computed pursuant to
+section 260-10-45 of the FASB Accounting Standards Codification. Basic net loss per common share is computed by dividing net loss by the
+weighted average number of shares of common stock outstanding during the period. Diluted net loss per common share is computed by dividing
+net loss by the weighted average number of shares of common stock and potentially dilutive outstanding shares of common stock during the
+period to reflect the potential dilution that could occur from common shares issuable through contingent share arrangements, stock options
+and warrants. There were no potentially dilutive common shares outstanding for the years ended December 31, 2024 and December 31, 2023.
+NOTE 3 – GOING CONCERN
+The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern, which contemplates continuity of operations, realization of assets, and liquidation
+of liabilities in the normal course of business. As shown in the accompanying financial statements, the Company has retained losses of
+$(438,854)
+and positive working capital of $395 as of December 31, 2024. For the year ended December 31, 2024 and
+2023 the Company had a net income (loss) of $(9,910) and $12,161 respectively. Due to these conditions, it raises substantial doubt about
+the Company’s ability to continue as a going concern.
+The Company is attempting to expand operations and
+generate additional revenue; however, the Company’s cash position may not be sufficient to support its daily operations. While the
+Company believes in the viability of its strategy to generate sufficient revenue and in its ability to raise additional funds, there can
+be no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon its ability to further implement
+its business plan and generate sufficient revenue and its ability to raise additional funds. The financial statements do not include any
+adjustments relating to the recoverability and classification of asset carrying amounts or the amount and classification of liabilities
+that may result should the Company be unable to continue as a going concern.
+NOTE 4 – RELATED PARTY TRANSACTIONS
+In the year ended December 31, 2024 the amount
+due to Mr. Rechtman is $0
+and Mr. Rechtman owes the Company $337
+whereas the amount due by the Company to Mr. Rechtman in the year ended December 31, 2023 was $37,592.
+Funds were previously advanced by Mr. Rechtman to support the company during a shortage of cash due partially to lower revenues and
+Other cash flow needs.
+The funds due to Mr. Rechtman have no formal agreement, no due date and
+no rate of interest.
+In the year ended December 31, 2024 distributions
+to Mr Rechtman were $28,819 and $27,482 in the year ended December 31, 2023. These distributions/owners draw were not connected to the
+amounts advanced to the Company in the related party transactions.
+On July 27th, 2021 Palisades purchased
+the assets of Landmark LLC from CorpTech Holding Inc. Mr. Rechtman - our CEO, owns 75% of our Company as well as 90% of CorpTech Holding
+Inc., while CorpTech owns 25% of our Company. Palisades paid for this purchase as follows: 25,000,000 shares of Palisades shares and $300,000
+promissory Note with terms including no payments for 5 years, $5000 monthly payments for additional 5 years and a balloon payment at the
+end of the 10 years for all remaining balance. Palisades may prepay the note with no penalty at any time.
+The due date of this note is July 25, 2031. The interest
+rate of the non-convertible note is 0.5%. The Company used the stated rate of 9.5% as imputed interest rate, which was $28,500 and $28,500
+for the year ended December 31, 2023 and year ended December 31, 2022 respectively. As of December 31, 2023, and 2022, the balance of
+the debt was $300,000.
+On February 2, 2023 the Company entered into a Service
+Level Agreement with CorpTech Holding where CorpTech will provide the Company with technical support and hosting of servers. The Company
+is paying CorpTech $2,500 a month for these services. In the period ended December 31, 2023 the Company incurred $25,000 of expenses related
+to this agreement and $30,000 for the year ended December 31, 2024. The specifics of this Service Level Agreement are detailed in the agreement
+attached to this document
+F-11
+RELATED PARTY NOTE AND INTEREST
+Schedule of related party note and interest
+Corptech Holdings, Inc.
+Issuance Date
+Maturity date
+Amount
+Interest Rate
+DETAIL
+27-Jul-21
+25-Jul-31
+300,000
+0.50%
+Imputed interest addition
+9.50%
+Total Interest
+10%
+Note
+Interest
+Imputed Interest
+Opening Balance-December 31, 2021
+$300,000
+$645
+$12,259
+Additions
+–
+–
+–
+Repayments
+–
+–
+–
+Interest
+–
+1,500
+–
+Imputed Interest
+–
+–
+28,500
+Balance as at December 31, 2022
+$300,000
+$2,145
+$40,759
+Additions
+–
+–
+–
+Repayments
+–
+–
+–
+Interest
+–
+1,500
+–
+Imputed Interest
+–
+–
+28,500
+Balance as at December 31, 2023
+$300,000
+$3,645
+$69,259
+Additions
+–
+–
+–
+Repayments
+–
+–
+–
+Interest
+–
+1,500
+–
+Imputed Interest
+–
+–
+28,500
+Balance as at December 31, 2024
+$300,000
+$5,145
+$97,759
+F-12
+NOTE 5 – CONVERTIBLE NOTE
+On February 17, 2021 the Company (Palisades Venture
+Inc.) and Rechtman entered into a convertible note agreement with Mr. Robert Papiri in the amount of $24,000 and an interest rate of 8%
+per annum. $4000 was the remaining balance from an older note Papiri provided and the remaining amount was to provide the company the
+financial help to complete and pay for the costs associated with the S1 registration. To date Papiri has advanced $39,000 against this
+note. In the year ended December 31, 2024 and 2023 $22,500 and $2,500 were advanced respectively. The note was revised On March 1, 2023
+with a maturity date of June 1, 2025 and an interest rate of 8% per annum.
+This note can convert to 2,500,000 shares of common
+stock of Palisades Venture, Inc. with conversion price of $0.0096 per share within 60 days following the filing of the S1 registration.
+If Papiri does not convert, the loan is repaid over 18 months with minimum payments of $1,000 per month and a balloon at the end of the
+period. No payments are due until 60 days after the filing of the registration statement. The interest rate on this note is 8% per annum.
+Any balance of interest due at the time of conversion may also be converted under the same terms as the capital portion of the note.
+CONVERTIBLE NOTE AND INTEREST
+Schedule of convertible note and interest
+Robert Papiri
+Issuance Date
+Date of Revision
+Maturity date
+Amount
+Interest Rate
+Details
+February 17, 2021
+March 1, 2023
+June 1, 2025
+$24,000
+8%
+Note
+Interest
+Opening Balance-December 31, 2021
+$8000
+$–
+Additions
+6000
+–
+Interest
+–
+–
+Imputed Interest
+–
+–
+Balance as at December 31, 2022
+$14,000
+$3,267
+Additions
+2,500
+–
+Repayments
+–
+–
+interest
+–
+1,337
+Balance as at December 31, 2023
+$16,500
+$4,604
+Additions
+22,500
+–
+Repayments
+–
+–
+Interest
+–
+2,117
+Balance as at December 31, 2024
+$39,000
+$6,721
+F-13
+INTEREST EXPENSE
+Schedule of interest expense
+Robert Papiri
+Corptech Holdings, Inc.
+TOTAL
+Year Ended December 31, 2023
+$1,337
+$30,000
+$31,337
+Year ended December 31, 2024
+$2,117
+$30,000
+$32,117
+NOTE 6 – STOCKHOLDERS’ EQUITY (DEFICIT)
+The Company’s equity structure from July 23,
+2021 through December 31, 2024 was as follows:
+The company has authorized 500,000,000 shares of common stock par value
+$0.001.
+Total Shares outstanding 100,000,000.
+NOTE 7 – CONCENTRATION
+Concentration
+of Major Customers
+As of December
+31, 2024, the Company’s trade accounts receivables from four customers represented approximately 100% of its accounts receivable.
+As of December 31, 2023, the Company’s trade accounts receivables from three customers represented approximately 87% of its
+accounts receivable.
+For the year
+ended December 31, 2024 and 2023, the Company received approximately 70% of its revenue from three customers. The specific concentrations
+were Customer A, 32%, Customer B, 21%, Customer C, 17%.
+Concentration
+of Supplier Risk
+The Company
+had one vendor that accounted for approximately 97% of purchases during the year ended December 31, 2024, related to operations.
+For the year ended December 31, 2023 the Company had 1 vendor that accounted for approximately 97% of purchases.
+NOTE 8 – SUBSEQUENT EVENTS
+Holding, Inc.;
+In January 2025 the company entered into a compensation
+agreement with its CEO Mr. Rechtman. The agreement calls for the company to pay Mr. Rechtman a salary in the amount of $12,000 monthly.
+In the event that the company is not able to pay this amount it will become a loan from Mr. Rechtman to the company that carries annual
+interest of 5%.
+In June 2025 an additional 9,500,000 shares were issued
+to various consultants that assisted in the preparation of the S-1 registration.
+The Company now has 109,500,000 shares issued
+and outstanding.
+F-14
+Item 9. Changes in and Disagreements with
+Accountants on Accounting and Financial Disclosure
+None.
+Item 9A. Controls and Procedures
+Management’s Conclusions Regarding
+Effectiveness of Disclosure Controls and Procedures
+As required by Rule 13a-15 under the Securities
+Exchange Act of 1934, as of December 31, 2024, the end of the year covered by this report, our management concluded its evaluation of
+the effectiveness of the design and operation of our disclosure controls and procedures.
+Disclosure controls and procedures refer to
+controls and other procedures designed to ensure that information required to be disclosed in the reports we file or submit under the
+Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the rules and forms
+of the SEC and that such information is accumulated and communicated to our management, including our chief executive officer and chief
+financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure
+controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide
+only reasonable assurance of achieving the desired control objectives, and management is required to apply its judgment in evaluating
+and implementing possible controls and procedures.
+Our management does not expect that our disclosure
+controls and procedures will prevent all errors and all fraud. A control system, no matter how well designed and operated, can provide
+only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control system
+must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because
+of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues
+and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision-making
+can be faulty, and that breakdowns can occur because of simple error or mistake. The design of any system of controls is based in part
+upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving
+its stated goals under all potential future conditions.
+With respect to the fiscal year ending December 31, 2024, under the supervision
+and with the participation of our management, we conducted an evaluation of the effectiveness of the design and operations of our disclosure
+controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934. Based upon
+our evaluation regarding the fiscal year ending December 31, 2024, our management, including our principal executive officer and principal
+financial officer, has concluded that our disclosure controls and procedures were ineffective.
+Management’s Report on Internal Control
+over Financial Reporting
+Our management is responsible for
+establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the
+Securities Exchange Act. Our management is also required to assess and report on the effectiveness of our internal control over financial
+reporting in accordance with Section 404 of the Sarbanes-Oxley Act of 2002 (“Section 404”). Management assessed the effectiveness
+of our internal control over financial reporting as of December 31, 2024. In making this assessment, we used the criteria set forth by
+the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control - Integrated Framework. Based on that
+evaluation, our management concluded that our internal controls over financial reporting were not effective as of such date to ensure
+that information required to be disclosed in the reports that we file or submit under the Exchange Act, is recorded, processed, summarized
+and reported within the time periods specified in SEC rules and forms. We note the following deficiencies that management believes to
+be material weaknesses:
+7
+·
+The Company’s lack of segregation of duties.
+·
+Lack of an audit committee and independent directors
+·
+Management has not established appropriate and rigorous procedures for evaluating internal controls over financial reporting. Due to limited resources and lack of segregation of duties, documentation of the limited control structure has not been accomplished.
+·
+We employ policies and procedures for reconciliation of the financial statements and note disclosures, however, these processes are not appropriately documented.
+·
+Management has not established methodical and consistent data back-up procedures to ensure loss of data will not occur.
+The Company is evaluating the necessity of implementing
+an independent board of directors to rectify these weaknesses.
+A material weakness (within the meaning
+of PCAOB Auditing Standard No. 5) is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such
+that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented
+or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control over financial
+reporting that is less severe than a material weakness, yet important enough to merit attention by those responsible for oversight of
+the company’s financial reporting.
+Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods
+are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the
+policies and procedures may deteriorate.
+This annual report does not include an
+attestation report of our registered public accounting firm regarding internal control over financial reporting. Management’s report
+was not subject to attestation by our registered public accounting firm pursuant to temporary rules of the Securities and Exchange Commission
+that permit us to provide only management’s report in this annual report.
+Changes in Internal Controls
+There have been no changes in our internal control
+over financial reporting during the year ended December 31, 2024 that have materially affected, or are reasonably likely to materially
+affect, our internal controls over financial reporting.
+Item 9B. Other Information
+During
+the quarter ended December 31, 2024, no director or officer of the Company adopted or terminated
+a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in
+Item 408(a) of Regulation S-K.
+We do not maintain insider trading
+policies and procedures governing the purchase, sale, and or other dispositions of our securities by our directors, officers, and employees
+that we believe are reasonably designed to promote compliance with insider trading laws, rules and regulations applicable to us.
+8
+PART III
+Item 10. Directors, Executive Officers and
+Corporate Governance
+Name
+Age
+Position
+Orie Rechtman
+74
+Chief Executive Officer, Chairman
+Biographical Information and Background
+of officer and director
+Mr. Rechtman has been a veteran of the computer
+industry since its inception in 1980. For the past 33 years Mr. Rechtman served as CEO of technology companies always self-owned. In 2011,
+Mr. Rechtman acquired the assets of 4Service Cloud Tech Inc and served as the CEO in charge of all aspects of the company’s operation
+and growth. In 2015 Mr. Rechtman added IT@ONCE to Riteman Inc. by acquiring the assets of the company. Mr. Rechtman is the CEO of Riteman
+Inc. The company provides IT Managed Services - a high level technical support organization. In 2016 Mr. Rechtman entered into a Reverse
+Merger agreement between his companies and an OTC listed company – Crednology Holding Corp/CorpTech Holding. Mr. Rechtman is the
+CEO of this company and handles all day to day operation.
+In 2016 Mr. Rechtman acquired the assets of California
+Recycles Inc – an E-waste recycling company. Mr. Rechtman Served as CEO of the company. He sold the company in 2022. In 2018 Mr.
+Rechtman acquired clients from Evolve Partners Inc through an Asset Purchase between Riteman Inc and Evolve.
+Mr. Rechtman, served from 1969-1972 in the Israeli
+Air Force, Honorably Discharged, from 1973-1976 he studied Business Administration at the University of Southern California, with emphasis
+on Organizational Behavior and International Trade. He was nominated as “Entrepreneur of the Year” by Deloitte Touche for
+Inc500, selected as “Person of the Year” by the Hebrew Academy for contributing to the education of underprivileged children,
+and is a member of Pacific Palisades Jewish Community Board.
+Term of Office
+Our directors are appointed for a one-year
+term to hold office until the next annual general meeting of our shareholders or until removed from office in accordance with our bylaws.
+Our officers are appointed by our board of directors and hold office until removed by the board.
+Family Relationships
+There are no family relationships among and between our directors, officers,
+persons nominated or chosen by the Company to become directors or officers, or beneficial owners of more than five percent (5%) of the
+any class of the Company’s equity securities.
+Involvement in Certain Legal Proceedings
+No executive officer or director has been involved
+in the last ten years in any of the following:
+·
+Any bankruptcy petition filed by or against any business or property of such person, or of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time;
+·
+Any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses);
+·
+Being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities;
+·
+Being found by a court of competent jurisdiction (in a civil action), the SEC or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated;
+·
+Being the subject of or a party to any judicial or administrative order, judgment, decree or finding, not subsequently reversed, suspended or vacated relating to an alleged violation of any federal or state securities or commodities law or regulation, or any law or regulation respecting financial institutions or insurance companies, including but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail, fraud, wire fraud or fraud in connection with any business entity; or
+·
+Being the subject of or a party to any sanction
+or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the
+Exchange Act, any registered entity (as defined in Section 1(a) (29) of the Commodity Exchange Act), or any equivalent exchange, association,
+entity or organization that has disciplinary authority over its members or persons associated with a member.
+9
+Board Committees and Audit Committee Financial
+Expert
+We do not currently have a standing audit, nominating
+or compensation committee of the Board of Directors, or any committee performing similar functions. Our Board of Directors performs the
+functions of audit, nominating and compensation committees. As of the date of this annual report, no member of our Board of Directors
+qualifies as an “audit committee financial expert” as defined in Item 407(d) (5) of Regulation S-K promulgated under the Securities
+Act.
+Director Nominations
+As of December 31, 2024, we did not affect any
+material changes to the procedures by which our shareholders may recommend nominees to our Board of Directors. We have not established
+formal procedures by which security holders may recommend nominees to the Company’s Board of Directors.
+Code of Ethics
+We have adopted a code of ethics that applies
+to our principal executive officers, principal financial officer, principal accounting officer or controller, or persons performing similar
+functions. A copy of our code of ethics may be obtained free of charge by contacting us at the address or telephone number listed on the
+cover page hereof.
+Item 11. Executive Compensation
+Name and Principal Position
+Year
+Owner Draw
+Bonus
+Stock Awards
+Option Awards
+Non Equity Incentive
+Nonqualified Deferred
+Earnings
+All Other Earnings
+TOTAL
+$
+$
+$
+$
+$
+$
+$
+$
+Orie Rechtman
+2024
+0
+0
+0
+0
+0
+0
+0
+0
+President
+2023
+24,910
+0
+0
+0
+0
+0
+0
+24,910
+Grants of Plan-Based Awards Table
+None of our named executive officers received
+any grants of stock, option awards or other plan-based awards during the year ended December 31, 2024 or 2023. The Company has no activity
+with respect to these awards.
+Options Exercised and Stock Vested Table
+None of our named executive officer exercised
+any stock option, and no restricted stock units, if any, held by our named executive officers vested during the year ended December 31,
+2024 and 2023. The Company has no activity with respect to these awards.
+Outstanding Equity Awards at Fiscal Year-End
+Table
+Our executive officer had no outstanding stock
+or option awards as of December 31, 2024 that would be compensatory to the officer. The Company has not issued any awards to its named
+executive officer. The Company and its Board of Directors may grant awards as it sees fit to its employees as well as key consultants.
+10
+Compensation of Directors
+During the fiscal year ended December 31, 2024, we
+did not provide compensation to any of our directors for serving as our director. We currently have no formal plan for compensating our
+directors for their services in their capacity, although we may elect to issue stock options to such persons from time to time. Directors
+are entitled to reimbursement for reasonable travel and other out-of-pocket expenses incurred in connection with attendance at meetings
+of our board of directors. Our board of directors may award special remuneration to any director undertaking any special services on our
+behalf other than services ordinarily required of a director. However certain expenses were paid on behalf of the Director for health
+and life insurance and auto expenses and auto insurance.
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters.
+The following table sets forth, as of December31,
+2024 the beneficial ownership of our common stock by each executive officer and director, by each person known by us to beneficially own
+more than 5% of our common stock and by the executive officers and directors as a group. Currently 100,000,000 shares of common stock
+is issued and outstanding.
+Title of Class
+Name of Beneficial Owner
+Amount and
+Nature of
+Beneficial Ownership
+Percentage
+Common Stock
+Orie Rechtman
+75,000,000
+Item 13. Certain Relationships and Related
+Transactions, and Director Independence
+As of December 31, 2024, the amount due to a related
+party was $337.
+Item 14. Principal Accounting Fees and Services
+Audit Fees
+During fiscal year ended December 31, 2024, we incurred
+$21,000 in fees to our principal independent accountants for professional services rendered in connection with the audit of our financial
+statements and for the reviews of our financial statements. The Audit fees incurred during the fiscal year ended December 31, 2023 were
+$2,500.
+Tax Fees
+During the years ended December 31, 2024
+and 2023 our principal accountant did not render services to us for tax compliance, tax advice or tax planning.
+Currently, we have no independent audit
+committee. Our full board of directors’ functions as our audit committee and is comprised of one director who is not considered
+to be “independent” in accordance with the requirements of Rule 10A-3 under the Exchange Act. Our audit committee’s
+pre-approval policies and procedures described in paragraph (c)(7)(i) of Rule 2-01 of Regulation S-X were that the audit committee pre-approve
+all accounting related activities prior to the performance of any services by any accountant or auditor.
+11
+PART IV
+Item 15. Exhibits, Financial Statement Schedules
+Exhibit Number
+Description
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13(a)-14(a)/15(d)-14(a) of the Securities Act of 1934*
+31.2
+Certification of Chief Financial Officer pursuant to Rule 13(a)-14(a)/15(d)-14(a) of the Securities Act of 1934*
+32.1
+Certification of Chief Executive Officer and Chief Financial Officer under Section 1350 as Adopted pursuant Section 906 of the Sarbanes-Oxley Act of 2002*
+101.INS
+Inline XBRL Taxonomy Extension Schema Document
+101.SCH
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+* Filed Herewith
+Item 16. Form 10-K Summary
+None.
+12
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Date:
+August 20, 2025
+By:
+/s/ Orie Rechtman
+Orie Rechtman
+CEO
+13
