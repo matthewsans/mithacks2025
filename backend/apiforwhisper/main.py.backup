@@ -1,5 +1,4 @@
 from fastapi import FastAPI, File, UploadFile, Form
-from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import uvicorn
 import os
@@ -11,15 +10,6 @@ from simple_audio_processor import SimpleAudioProcessor
 
 # Initialize FastAPI app
 app = FastAPI(title="Speech-to-Text API")
-
-# Add CORS middleware
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # In production, replace with specific origins
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 # Load config from config.json
 def load_config():
@@ -38,7 +28,6 @@ async def transcribe_file(
 ):
     """
     Accepts an uploaded audio file and returns transcription
-    Frontend-compatible endpoint
     """
     # Save file to a temp location
     with tempfile.TemporaryDirectory() as tmpdir:
@@ -52,18 +41,11 @@ async def transcribe_file(
         except Exception as e:
             return JSONResponse(status_code=500, content={"error": str(e)})
 
-    # Return format that matches frontend expectations
     return {
-        "text": result,  # Changed from "transcription" to "text"
-        "filename": file.filename,
-        "success": True
+        "transcription": result,
+        "filename": file.filename
     }
 
-# Health check endpoint
-@app.get("/health")
-async def health_check():
-    return {"status": "ok", "service": "whisper-api"}
-
-# Enable server startup - UNCOMMENTED
-if __name__ == "__main__":
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+# Optional: for local testing
+# if __name__ == "__main__":
+#     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
