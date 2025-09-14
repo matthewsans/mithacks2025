@@ -6,7 +6,6 @@ import multiprocessing
 from models import Query
 from langchain_huggingface import HuggingFaceEmbeddings
 from runner import vectorstore
-import temp_agent
 import time
 import threading
 import subprocess
