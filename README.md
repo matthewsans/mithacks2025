@@ -2,6 +2,8 @@
 
 A full-stack application that combines speech-to-text transcription using OpenAI Whisper with a ChatGPT-like search interface. Users can either type queries or use voice input to search and get HTML-formatted responses.
 
+<img width="1232" height="682" alt="Screenshot 2025-09-14 112321" src="https://github.com/user-attachments/assets/1e464461-899a-4e64-ab81-6edb11f34a82" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
