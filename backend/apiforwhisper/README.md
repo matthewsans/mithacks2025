@@ -25,65 +25,50 @@ python -m uvicorn main:app --reload
 - API: `http://localhost:8000`
 - Interactive docs: `http://localhost:8000/docs`
 
+## Main Endpoint
+
+**POST `/transcribe`**
+Upload an audio file to get transcription.
+
+**Usage:**
+```bash
+curl -X POST "http://localhost:8000/transcribe" \
+  -F "file=@your_audio_file.wav" \
+  -F "language=en"
+```
+
+Or use the interactive docs at `http://localhost:8000/docs` to test uploads.
+
 ## Prerequisites
 - Python 3.8+
 - FFmpeg installed on system
 
-## API Endpoints
-
-### `POST /transcribe`
-Transcribe audio files using OpenAI Whisper.
+## API Response
 
 **Parameters:**
-- `audio_file`: Audio file (WAV, FLAC, MP3, etc.)
-- `language_code`: Language code (default: "en-US")
-- `enable_automatic_punctuation`: Add punctuation (default: true)
-- `enable_word_time_offsets`: Include word timestamps (default: false)
-- `model`: Recognition model (default: "default")
+- `file`: Audio file (WAV, MP3, MP4, etc.)
+- `language`: Language code (optional, e.g. "en", "ja", "es")
 
 **Response:**
 ```json
 {
-  "success": true,
-  "transcripts": [
-    {
-      "transcript": "Hello world",
-      "confidence": 0.95,
-      "words": [...]
-    }
-  ],
-  "language_code": "en-US",
-  "model": "default",
-  "file_info": {...},
-  "estimated_duration_minutes": 1.5,
-  "estimated_cost_usd": 0.0,
-  "billing_info": "Using OpenAI Whisper"
+  "transcription": "Hello world, this is the transcribed text",
+  "filename": "audio_file.wav"
 }
 ```
-
-### `POST /transcribe-long`
-For audio files > 10MB or longer duration with speaker diarization support.
-
-### `GET /languages`
-Get supported language codes.
-
-### `GET /health`
-Health check endpoint.
-
-## Pricing (OpenAI Whisper)
-
-- **Free:** Open-source and self-hosted
 
 ## Supported Audio Formats
 
 - WAV
-- FLAC
 - MP3
+- MP4
+- FLAC
 - OGG
 - WebM
-- AMR
-- 3GPP
+- And many more (handled by FFmpeg)
 
-## Frontend Integration
+## Notes
 
-A simple HTML client is provided in `/frontend/index.html` for testing the API.
+- First run will download Whisper model (~150MB for "small" model)
+- Processing time depends on audio length and system performance
+- Uses OpenAI Whisper "small" model for good balance of speed and accuracy
