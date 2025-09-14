@@ -1,42 +1,38 @@
 # Speech-to-Text API Backend
 
-FastAPI backend for Google Cloud Speech-to-Text V1 API integration.
+FastAPI backend for speech-to-text transcription using OpenAI Whisper.
 
-## Setup
+## Quick Setup
 
-1. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+**1. Install dependencies:**
+```bash
+pip install fastapi uvicorn python-multipart openai-whisper torch torchaudio ffmpeg-python
+```
 
-2. **Set up Google Cloud credentials:**
-   - Create a Google Cloud project
-   - Enable the Speech-to-Text API
-   - Create a service account and download the JSON key file
-   - Set the environment variable:
-     ```bash
-     export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-key.json"
-     ```
+**2. Create config.json:**
+```json
+{
+    "hf_token": "your_huggingface_token_here"
+}
+```
 
-3. **Configure environment:**
-   ```bash
-   cp .env.example .env
-   # Edit .env with your settings
-   ```
+**3. Run the API:**
+```bash
+python -m uvicorn main:app --reload
+```
 
-4. **Run the server:**
-   ```bash
-   python whisper_handler.py
-   ```
-   Or with uvicorn:
-   ```bash
-   uvicorn whisper_handler:app --host 0.0.0.0 --port 8000 --reload
-   ```
+**4. Access:**
+- API: `http://localhost:8000`
+- Interactive docs: `http://localhost:8000/docs`
+
+## Prerequisites
+- Python 3.8+
+- FFmpeg installed on system
 
 ## API Endpoints
 
 ### `POST /transcribe`
-Transcribe audio files using Google Cloud Speech-to-Text V1 API.
+Transcribe audio files using OpenAI Whisper.
 
 **Parameters:**
 - `audio_file`: Audio file (WAV, FLAC, MP3, etc.)
@@ -61,7 +57,7 @@ Transcribe audio files using Google Cloud Speech-to-Text V1 API.
   "file_info": {...},
   "estimated_duration_minutes": 1.5,
   "estimated_cost_usd": 0.0,
-  "billing_info": "Using Speech-to-Text V1 API with data logging (free for first 60 minutes/month)"
+  "billing_info": "Using OpenAI Whisper"
 }
 ```
 
@@ -74,11 +70,9 @@ Get supported language codes.
 ### `GET /health`
 Health check endpoint.
 
-## Pricing (Google Cloud Speech-to-Text V1)
+## Pricing (OpenAI Whisper)
 
-- **With data logging:** Free for first 60 minutes/month, then $0.016/minute
-- **Without data logging:** Free for first 60 minutes/month, then $0.024/minute
-- **Medical model:** Free for first 60 minutes/month, then $0.078/minute
+- **Free:** Open-source and self-hosted
 
 ## Supported Audio Formats
 
