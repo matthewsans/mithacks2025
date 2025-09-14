@@ -46,7 +46,7 @@ if __name__ == '__main__':
     time.sleep(15)
     print('Started successfully')
 
-    helper.send_queries(['fruit', 'metal', 'red'])
+    helper.send_queries(['how about debt of Intuit?', 'how about detail information of income of Intuit?', 'Can you show me the financial income and revenue of Intuit'])
     # helper.send_query('fruit')
 
     helper.close()

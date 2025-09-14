@@ -33,6 +33,7 @@ async def send_message(ctx: Context):
     ctx.logger.info("Starting sender agent...")
 
     with open('add.txt', 'r') as file:
+        
         receiver = file.readlines()[0].strip()
         await ctx.send(receiver, Request(message=message))
     

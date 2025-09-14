@@ -2,19 +2,24 @@
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from test_wo_anthropic import Test
+import chromadb
 
 COLLECTION_NAME = "your_collection_name"
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
+embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
-vectorstore = Chroma.from_texts(
-    texts=[
-        "This is a document about pineapple",
-        "This is a document about oranges",
-        "This is a document about iron"
-    ],
-    embedding=embeddings,
-    collection_name=COLLECTION_NAME
+client = chromadb.CloudClient(
+    api_key='ck-CgjiogLt3X2NZD6tVoFAmzdFUHjhXBfTPepAZ4HWu99x',
+    tenant='a2faafc5-2326-4a13-957a-4626ef39a875',
+    database='qAnts',
 )
+
+
+# AIzaSyB_760I5bmGaoHzconRf5lOGKjhrJQxZ_A
+
+vectorstore = Chroma(client=client, 
+                     embedding_function=embeddings)
+
+
 
 retriever = vectorstore.as_retriever(
     search_type="similarity_score_threshold",
