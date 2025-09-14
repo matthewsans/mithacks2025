@@ -1,0 +1,3033 @@
+STEMTECH CORPORATION 10-K
+false
+2024
+FY
+0001511820
+30831052
+0001511820
+2024-01-01
+2024-12-31
+0001511820
+2024-06-30
+0001511820
+2025-06-30
+0001511820
+2024-12-31
+0001511820
+2023-12-31
+0001511820
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:CommonStockMember
+2022-12-31
+0001511820
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001511820
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001511820
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001511820
+STEK:SubTotalMember
+2022-12-31
+0001511820
+us-gaap:NoncontrollingInterestMember
+2022-12-31
+0001511820
+2022-12-31
+0001511820
+us-gaap:CommonStockMember
+2023-12-31
+0001511820
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001511820
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001511820
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001511820
+STEK:SubTotalMember
+2023-12-31
+0001511820
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001511820
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:SubTotalMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:NoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:SubTotalMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:CommonStockMember
+2024-12-31
+0001511820
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001511820
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001511820
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001511820
+STEK:SubTotalMember
+2024-12-31
+0001511820
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001511820
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2024-12-31
+0001511820
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2023-12-31
+0001511820
+STEK:OriginalAcquisitionMember
+2018-05-06
+2018-05-07
+0001511820
+STEK:OriginalAcquisitionMember
+2018-05-07
+0001511820
+STEK:LFRAcquisitionMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:LFRAcquisitionMember
+2023-03-31
+0001511820
+STEK:LFRAcquisitionMember
+2023-03-30
+2023-03-31
+0001511820
+STEK:PatentProductsMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:PatentProductsMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:TradeNamesAndTrademarksMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:TradeNamesAndTrademarksMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:CustomerOrDistributionListMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:CustomerOrDistributionListMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:NonCompeteAgreementMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:NonCompeteAgreementMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:NotesPayableMember
+2024-12-31
+0001511820
+STEK:NotesPayableMember
+2023-12-31
+0001511820
+us-gaap:ConvertibleNotesPayableMember
+2024-12-31
+0001511820
+us-gaap:ConvertibleNotesPayableMember
+2023-12-31
+0001511820
+STEK:SharingServicesGlobalCorporationMember
+2024-12-31
+0001511820
+STEK:SharingServicesGlobalCorporationMember
+2023-12-31
+0001511820
+STEK:TwoNotesMember
+2023-10-24
+0001511820
+STEK:TwoNotesMember
+2023-11-20
+0001511820
+STEK:TwoNotesMember
+2024-12-31
+0001511820
+STEK:TwoNotesMember
+2023-12-31
+0001511820
+us-gaap:ConvertibleNotesPayableMember
+2021-12-31
+0001511820
+us-gaap:ConvertibleNotesPayableMember
+2021-01-01
+2021-12-31
+0001511820
+STEK:LFRMember
+2021-01-01
+2021-12-31
+0001511820
+STEK:ConvertibleNotesPayable1Member
+STEK:ExtensionAgreementMember
+2022-04-01
+2022-06-30
+0001511820
+STEK:ConvertibleNotesPayable1Member
+STEK:SecondExtensionAgreementMember
+2022-08-17
+2022-08-18
+0001511820
+STEK:ConvertibleNotesPayable2Member
+STEK:WarrantsMember
+2022-07-12
+2022-07-13
+0001511820
+STEK:ConvertibleNotesPayable2Member
+us-gaap:CommonStockMember
+2022-07-12
+2022-07-13
+0001511820
+STEK:ConvertibleNotesPayable2Member
+2022-07-12
+2022-07-13
+0001511820
+STEK:LeoniteFund1Member
+2022-07-12
+2022-07-13
+0001511820
+STEK:LeoniteFund1Member
+2022-09-07
+2022-09-08
+0001511820
+us-gaap:ConvertibleNotesPayableMember
+STEK:MCUSAndLeoniteMember
+2022-07-01
+2022-09-30
+0001511820
+us-gaap:ConvertibleNotesPayableMember
+STEK:MCUSAndLeoniteMember
+2022-10-01
+2022-12-31
+0001511820
+STEK:PromissoryNotesMember
+2023-01-01
+2023-01-31
+0001511820
+STEK:SecuredConvertiblePromissoryNoteMember
+us-gaap:CommonStockMember
+2023-02-27
+2023-02-28
+0001511820
+STEK:SecuredConvertiblePromissoryNoteMember
+us-gaap:CommonStockMember
+2023-02-28
+0001511820
+STEK:SecuredConvertiblePromissoryNoteMember
+us-gaap:CommonStockMember
+2023-06-30
+0001511820
+STEK:SecuredConvertiblePromissoryNoteMember
+us-gaap:CommonStockMember
+2023-04-01
+2023-06-30
+0001511820
+STEK:SecuredConvertiblePromissoryNoteMember
+us-gaap:CommonStockMember
+2023-09-20
+2023-09-21
+0001511820
+STEK:ConvertiblePromissoryNoteMember
+STEK:InvestmentAgreementMember
+STEK:InstitutionalInvestorMember
+2023-03-27
+0001511820
+STEK:MCUSMember
+2023-04-11
+0001511820
+STEK:MCUSMember
+2023-04-10
+2023-04-11
+0001511820
+STEK:MCUSMember
+2023-04-30
+2023-05-01
+0001511820
+STEK:MCUSMember
+2023-05-01
+0001511820
+STEK:MCUSMember
+2023-06-29
+2023-06-30
+0001511820
+STEK:SecuredConvertiblePromissoryNoteMember
+us-gaap:CommonStockMember
+2023-08-10
+2023-08-11
+0001511820
+STEK:SharingServicesGlobalCorporationMember
+2023-04-30
+2023-05-01
+0001511820
+STEK:ConvertibleNote1Member
+2024-12-31
+0001511820
+STEK:ConvertibleNote2Member
+2024-12-31
+0001511820
+STEK:ConvertibleNote3Member
+2024-12-31
+0001511820
+STEK:ConvertibleNote1Member
+2023-12-31
+0001511820
+STEK:ConvertibleNote2Member
+2023-12-31
+0001511820
+STEK:ConvertibleNote3Member
+2023-12-31
+0001511820
+STEK:ConvertibleNote1Member
+2022-12-31
+0001511820
+STEK:ConvertibleNote2Member
+2022-12-31
+0001511820
+STEK:ConvertibleNote3Member
+2022-12-31
+0001511820
+STEK:Mr.JohnWMeyerMember
+2024-12-31
+0001511820
+STEK:Mr.DarrylVGreenMember
+2024-12-31
+0001511820
+2023-05-05
+0001511820
+STEK:OfficersEmployeesAndVendorsMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:ChairmanAndCEOMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:ChairmanAndCEOMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:JohnMeyerMember
+2024-02-14
+2024-02-15
+0001511820
+srt:ChiefFinancialOfficerMember
+2024-03-18
+2024-03-19
+0001511820
+STEK:FiveDirectorsMember
+2024-03-18
+2024-03-19
+0001511820
+STEK:ChairmanAndChiefExecutiveOfficerMember
+2024-01-01
+2024-12-31
+0001511820
+STEK:PresidentAndCOOMember
+2024-01-01
+2024-12-31
+0001511820
+srt:ChiefFinancialOfficerMember
+2024-01-01
+2024-12-31
+0001511820
+srt:ChiefFinancialOfficerMember
+2024-12-31
+0001511820
+STEK:CorporateSecretaryMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:CorporateSecretaryMember
+2023-12-31
+0001511820
+STEK:BoardMemberMember
+2023-01-01
+2023-12-31
+0001511820
+STEK:BoardMemberMember
+2023-12-31
+0001511820
+srt:AmericasMember
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-12-31
+0001511820
+srt:AmericasMember
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-12-31
+0001511820
+srt:LatinAmericaMember
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-12-31
+0001511820
+srt:LatinAmericaMember
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-12-31
+0001511820
+srt:AsiaMember
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-12-31
+0001511820
+srt:AsiaMember
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-12-31
+0001511820
+srt:AmericasMember
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0001511820
+srt:AmericasMember
+us-gaap:OperatingSegmentsMember
+2023-12-31
+0001511820
+srt:LatinAmericaMember
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0001511820
+srt:LatinAmericaMember
+us-gaap:OperatingSegmentsMember
+2023-12-31
+0001511820
+srt:AsiaMember
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0001511820
+srt:AsiaMember
+us-gaap:OperatingSegmentsMember
+2023-12-31
+0001511820
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0001511820
+us-gaap:OperatingSegmentsMember
+2023-12-31
+0001511820
+us-gaap:GeographicDistributionDomesticMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:GeographicDistributionDomesticMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:GeographicDistributionForeignMember
+2024-01-01
+2024-12-31
+0001511820
+us-gaap:GeographicDistributionForeignMember
+2023-01-01
+2023-12-31
+0001511820
+us-gaap:NonUsMember
+2024-12-31
+0001511820
+2024-10-01
+2024-12-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+December 31, 2024
+or
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period
+from _______ to _______
+Commission file number:
+333-172172
+STEMTECH CORPORATION
+(Exact name of registrant as specified
+in its charter)
+Nevada
+87-2151440
+State or other jurisdiction
+of incorporation or organization
+(IRS. Employer
+Identification No.)
+4851 Tamiami Trail North,
+Suite 200
+Naples, FL 34103
+www.stemtech.com
+(Address of principal executive offices)
+(954) 715-6000
+Registrant’s telephone
+number, including area code
+Securities registered pursuant to Section 12(b)
+of the Act:
+Title of each class
+Name of each exchange on which registered
+None
+N/A
+Securities registered pursuant to Section 12(g)
+of the Act:
+Common Shares - $0.001 par value
+(Title of Class)
+Indicate by check mark whether the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No
+☒ Indicate by check mark if the registrant is not required to file
+reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No
+☒
+Indicate by check mark whether
+the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for shorter period that the registrant as required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether
+the registrant has submitted every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+☐ No ☒
+Indicate by check mark if disclosure
+of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, and will not be contained,
+to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. ☒
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of “large accelerated
+filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether
+the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control
+over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that
+prepared or issued its audit report. ☐
+If securities are registered pursuant
+to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect
+the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether
+any of those error corrections are restatements that required a recovery analysis of incentive- based compensation received by any of
+the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No
+☒
+The aggregate market value of the
+voting and non-voting stock held by non-affiliates of the registrant as of the last business day of the registrants most recently completed
+second fiscal quarter, based on the price at which the common equity was last sold on the OTC Markets on June 30, 2024 was approximately
+$5,645,051. For purposes of this computation only, all officers, directors and 5% or greater stockholders of the registrant are deemed
+to be “affiliates.”
+As of June 30,
+2025, the registrant had 142,443,444
+shares of common stock with par value $0.001 issued and outstanding.
+TABLE OF CONTENTS
+Part I
+Item 1
+Description of Business
+1
+Item 1A
+Risk Factors
+1
+Item 1B
+Unresolved Staff Comments
+1
+Item 1C
+Cybersecurity
+2
+Item 2
+Properties
+2
+Item 3
+Legal Proceedings
+2
+Item 4
+Mine Safety Disclosures
+2
+Part II
+Item 5
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+3
+Item 6
+[Reserved]
+4
+Item 7
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+4
+Item 7A
+Quantitative and Qualitative Disclosures about Market Risk
+8
+Item 8
+Financial Statements and Supplementary Data
+8
+Item 9
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure
+9
+Item 9A (T)
+Controls and Procedures
+9
+Item 9B
+Other Information
+10
+Item 9C
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+10
+PART III
+Item 10
+Directors, Executive Officers, and Corporate Governance
+11
+Item 11
+Executive Compensation
+14
+Item 12
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+15
+Item 13
+Certain Relationships, Related Transactions and Director Independence
+16
+Item 14
+Principal Accountant Fees and Services
+16
+PART IV
+Item 15
+Exhibits and Financial Statement Schedules
+17
+i
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+Some of the statements contained in this annual
+report may constitute “forward-looking statements” for purposes of the federal securities laws. Our forward-looking statements
+include, but are not limited to, statements regarding our or our management team’s expectations, hopes, beliefs, intentions or strategies
+regarding the future. In addition, any statements that refer to projections, forecasts or other characterizations of future events or
+circumstances, including any underlying assumptions, are forward-looking statements. The words “anticipate,” “believe,”
+“continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,”
+“plan,” “possible,” “potential,” “predict,” “project,” “should,”
+“would” and similar expressions may identify forward-looking statements, but the absence of these words does not mean that
+a statement is not forward-looking.
+The forward-looking statements contained in this
+annual report are based on our current expectations and beliefs concerning future developments and their potential effects on us. There
+can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve
+a number of risks, uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance
+to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include,
+but are not limited to, the following risks, uncertainties and other factors:
+·
+The
+implementation of our strategic plans for our business;
+·
+Our
+financial performance;
+·
+Developments
+relating to our competitors and our industry, including the impact of government regulation;
+·
+Estimates
+of our expenses, future revenues, capital requirements and our needs for additional financing; and
+·
+Other
+risks and uncertainties, including those listed under the captions “Business,” “Risk Factors,” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+Should one or more of these risks or uncertainties materialize, or
+should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking
+statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future
+events or otherwise, except as may be required under applicable securities laws. All dollar amounts refer to US dollars unless otherwise
+indicated.
+ii
+PART I
+Item 1: Description of Business
+Stemtech Corporation and its Subsidiaries
+(collectively, the “Company”, or “Stemtech”) was incorporated in the State of Nevada, USA on September 4, 2009
+under the name Globe Net Wireless Corp. with ticker symbol “GNTW”. Our corporate name was changed to Stemtech Corporation
+in the state of Nevada.in August 2021. We were listed on the OTCQB market under symbol “STEK” in April 2021. Stemtech is a
+global network marketing company that develops science-based products that it believes supports wellness by helping the body maintain
+healthy stem cell physiology, also known as stem cell enhancers. Known as the Stem Cell Nutrition Company®, the Company is a pioneer
+in stem cell science, and believes it can demonstrate that adult stem cells function as the natural renewal system of the body. The Company
+believes our products enhance and support the work of the body’s stem cells by releasing more stem cells, helping to circulate them
+in the blood and migrate them into tissues, where they can perform their daily function of renewal for optimal health. Our Mission is
+to enhance wellness and prosperity around the world. These products are marketed internationally by the Companies subsidiaries and through
+independent distributors. The Company markets its products under the following brands: RCM System, stemrelease3™, StemFlo® MigraStem®
+and OraStem® (Oral Health Care). Stemtech also introduced a new skincare product in December 2022: Cellect One® Rapid Renew Stem
+Cell Peptide Night Cream. In January 2025, The Company introduced Cellect One® Shield HOCL – (Hypochlorous Acid) skin care product.
+On August 19, 2021, Stemtech Corporation
+(“Stemtech”), a (Delaware corporation), entered into a Merger Agreement (the “Merger Agreement”) with Globe Net
+Wireless Corp. (“Globe Net” or “GNTW”). The merger is accounted for as a reverse acquisition and recapitalization
+in accordance with the Accounting Standards Codification topic 805, Business Combinations (“ASC 805”). Management evaluated
+the guidance contained in ASC 805 with respect to the identification of the acquirer in the merger and concluded, based on a consideration
+of the pertinent facts and circumstances, that Stemtech acquired Globe Net for financial accounting purposes. On November 9, 2021, the
+Company changed its fiscal year end date from August to December.
+Basis of Presentation
+The accompanying consolidated
+financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S.
+GAAP”). The summary of significant accounting policies presented below is designed to assist in understanding the Company’s
+consolidated financial statements. Such consolidated financial statements and accompanying notes are the representations of the Company’s
+management, who is responsible for their integrity and objectivity. All intercompany accounts and transactions have been eliminated in
+consolidation. The consolidated financial statements include the accounts of Stemtech Corporation (Parent) and its thirteen (13) subsidiaries:
+1.Stemtech HealthSciences Corp (U.S.A.) (“Stemtech HealthSciences”)
+2.Stemtech IP Holdings, LLC (U.S.A.)
+3.Stemtech Canada, Inc. (“Canada”)
+4.Stemtech Health Sciences S. de R.L. de C.V. (“Mexico”)
+5.Stemtech Services SARL de C.V. (Mexico) (“Stemtech Mexico”)
+6.Tecrecel Mexico SA de CV  (“TME”)
+7.Stemtech Malaysia Holdings Sdn. Bhd. (“Malaysia Holdings”)
+8.Stemtech Malaysia Sdn. Bhd. (“Malaysia”)
+9.Stemtech Taiwan Holding, Inc. (“Taiwan”)
+10.Stemtech Taiwan Branch
+11.Tecrecel S.A. (“Ecuador”)
+12.Food & Health Tech Foodhealth SA (“FHT Ecuador”)
+13.Life Factor Research (“LFR”)
+Item 1A. Risk Factors.
+We are a smaller reporting company
+as defined in Rule 12b-2 of the Exchange Act and are not required to provide the information required under this item.
+Item 1B. Unresolved Staff Comments.
+None.
+1
+Item 1C. Cybersecurity.
+Risk Management
+We recognize
+the critical importance of developing, implementing, and maintaining robust cybersecurity measures to safeguard our information systems
+and protect the confidentiality, integrity, and availability of our data. We currently have security measures in place to protect our
+clients, customers, employees, and vendor information and prevent data loss and other security breaches. We also only use third party
+software for accounting, billing and payroll that have successful SOC 1 type 2 compliance. Both management and the Board are actively
+involved in the continuous assessment of risks from cybersecurity threats, including prevention, mitigation, detection, and remediation
+of cybersecurity incidents.
+Our current
+cybersecurity risk assessment program consists of an annual review of our risks and policies. The program outlines governance, policies
+and procedures, and technology we use to oversee and identify risks from cybersecurity threats.
+Our President
+& COO and CEO are responsible for overseeing our business operations and are responsible for day-to-day assessment and management
+of risks from cybersecurity threats, including the prevention, mitigation, detection, and remediation of cybersecurity incidents. We also
+use the services of an outside consulting firm to monitor activity and advise the company of cybersecurity protocols.
+We routinely
+undertake activities to prevent, detect, and minimize the effects of cybersecurity incidents, including an annual risk review, policy
+reviews and revisions. In addition, we maintain business continuity, contingency, and recovery plans for use in the event of a cybersecurity
+incident by the administering of local and cloud based back up of files. and emails.
+We engaged
+and used the advice of a third-party consultant to help us assess and identify risks from cybersecurity threats, including the threat
+of a cybersecurity incident, and manage our risk assessment program. Among other things, these providers have recommended periodic evaluations
+of the work stations.
+We have multiple controls in place in order to prevent breaches,
+some of these controls include:
+a.FMA/2FA, this is our first AND most important first line of defense, no one should
+have MFA bypassed or disabled, with no exceptions.
+b.Email Banner for external emails. This banner assists us to identify any phishing / impersonation email
+and cannot be bypassed.
+c.Conditional Access Policy (CAP): Rejects connections to Exchange Online from un-authorized
+countries. We are further enhancing this control by implementing ACL's (access lists) in our CRM and ERP systems and any other mission
+critical platform. ALL platforms should have MFA enforced, any platform not supporting MFA in 2024 is deemed high-risk and immediately
+replaced as it is obsolete and poses high-risk to the Company.
+As of the
+date of this report, no cybersecurity incident (or aggregation of incidents) or cybersecurity threat has materially affected our results
+of operations or financial condition. However, an actual or perceived breach of our security could damage our reputation and cause existing
+Independent Business Partners (IBPs or distributors) / customers to discontinue, as well as prevent us from attracting new clients / customers.
+and / or subject us to third-party lawsuits, regulatory fines or other actions or liabilities, any of which could adversely affect our
+business, operating results or financial condition. We currently do not carry a cyber liability insurance policy, but are evaluating whether
+to acquire one to mitigate any financial impact of a cybersecurity breach.
+Item 2. Properties.
+Not Applicable.
+Item 3. Legal Proceedings.
+On August
+6, 2019, the former CEO (prior to the Company’s bankruptcy proceedings) filed a lawsuit against the Company’s subsidiary,
+Stemtech HealthSciences Corp., alleging unpaid salary and vacation pay related to a period prior to the current management team assuming
+control in 2018. The total claim is for approximately $267,000. The Company has filed a counterclaim against the former CEO and considers
+his claims to be without merit.
+As of December
+31, 2024 and 2023, the Company has accrued $267,000 related to this matter, which is included in accounts payable and accrued liabilities
+in the consolidated balance sheets. The Court dismissed the former CEO’s request for summary judgment on March 3, 2023; however,
+the litigation remains ongoing.
+Item 4. Mine Safety Disclosures.
+Not Applicable.
+2
+PART II
+Item 5. Market for Registrant’s
+Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. Market Information
+Stemtech’s common shares
+have been quoted on the NASD OTC Bulletin Board under the symbol “STEK” since April 13, 2022. The table below gives the high-and-low-bid
+information for each fiscal quarter of trading for the last two fiscal years. The bid information was obtained from Pink OTC Markets Inc.
+and reflects inter-dealer prices, without retail mark-up, mark-down or commission, and may not represent actual transactions.
+The closing share prices presented
+below represent prices between broker-dealers and do not include retail mark-ups and mark-downs or any commission to the dealer.
+QUARTER ENDED
+HIGH
+LOW
+December 31, 2023
+$0.03
+$0.02
+March 31, 2024
+$0.10
+$0.03
+June 30, 2024
+$0.06
+$0.04
+September 30, 2024
+$0.06
+$0.03
+December 31, 2024
+$0.06
+$0.04
+Holders of Stemtech’s Common Stock
+The Company had 112
+registered holders of its common stock as of June 24, 2025.
+Dividends
+Stemtech has declared no dividends
+on its common shares and is not subject to any restrictions that limit its ability to pay dividends on its common shares. Dividends are
+declared at the sole discretion of Stemtech’s Board of Directors.
+Recent Sales of Unregistered Securities
+None.
+Penny Stock Rules
+Trading in Stemtech’s Common
+Stock is subject to the “penny stock” rules. The Securities and Exchange Commission (“SEC”) has adopted regulations
+that generally define a penny stock to be any equity security that has a market price of less than $5.00 per share, subject to certain
+exceptions.
+These rules require that any broker-dealer
+who recommends Stemtech’s Common Stock to persons other than prior customers and accredited investors, must, prior to the sale,
+make a special written suitability determination for the purchaser and receive the purchaser’s written agreement to execute the
+transaction. Unless an exception is available, the regulations require the delivery, prior to any transaction involving a penny stock,
+of a disclosure schedule explaining the penny stock market and the risks associated with trading in the penny stock market. In addition,
+broker- dealers must disclose commissions payable to both the broker-dealer and the registered representative and current quotations for
+the securities they offer. The additional burdens imposed upon broker-dealers by such requirements may discourage broker-dealers from
+effecting transactions in Stemtech’s securities, which could severely limit their market price and liquidity of Stemtech’s
+securities. The application of the “penny stock” rules may affect your ability to resell Stemtech’s securities.
+3
+Item 6. Selected Financial Data.
+The Company is a smaller reporting
+company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the information required under this item.
+Item 7. Management’s Discussion
+and Analysis of Financial Condition and Results of Operations.
+The following discussion should
+be read in conjunction with our financial statements, including the notes thereto, appearing elsewhere in this annual report. The following
+discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Stemtech’s actual results could differ
+materially from those discussed in the forward-looking statements. Factors that could cause or contribute to such differences include
+but are not limited to those discussed below and elsewhere in this annual report. Stemtech’s audited financial statements are stated
+in United States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles.
+Company Overview
+Stemtech Corporation and its Subsidiaries (collectively,
+the “Company”, or “Stemtech”) was incorporated in the State of Nevada, USA on September 4, 2009 under the name
+Globe Net Wireless Corp. with ticker symbol “GNTW”. Our corporate name was changed to Stemtech Corporation in the state of
+Nevada.in August 2021. On August 19, 2021, Stemtech Corporation (“Stemtech”), a (Delaware corporation), entered into a Merger
+Agreement (the “Merger Agreement”) with Globe Net Wireless Corp. (“Globe Net” or “GNTW”) in exchange
+for the issuance of 37,060,000 shares of the Company, approximately 85% of the issued and outstanding shares of the Company. On November
+19, 2021, the Company adopted an Amendment to its Articles changing the name of the Corporation to Stemtech Corporation in the state of
+Nevada, and on April 14, 2022, FINRA gave final approval for said name change. Stemtech has pioneered and patented a whole new category
+of stem cell dietary supplements.
+Stemtech’s patented, advanced Stem Cell
+Nutrition formulations are one-of-a-kind natural products designed to help support the three most important aspects of stem cell physiology
+found in our RCM System: 1) Releasing the body’s own stem cells slowing down the bodies aging process; 2) their Circulation in the
+blood; and 3) Migration into tissues, where they can perform their daily anti-aging and longevity function of renewal and rejuvenation
+for optimal health. We harness the incredible power of adult stem cells. How does this work? Adult stem cells are released from your body’s
+own bone marrow into the bloodstream, they then circulate in the bloodstream and flow into the tissues and organs most in need. As they
+arrive, the adult stem cells migrate into the tissues, reproduce and become new, healthy cells of those tissues. This process takes place
+every single day, even without tissue damage, as part of the natural renewal system of the body. It is important to understand that Stemtech’s
+patented products do not contain stem cells. They are composed of all-natural plant-based botanicals and other ingredients that have been
+clinically documented to support the release and performance of your own adult stem cells essentially allowing the human body to heal
+itself naturally. Stemtech also offers our all-natural OraStem® toothpaste, which is a tooth whitener, breath freshener,
+anti-microbial, stem cell attracting and promotes good gum health. OraStem prevents bacteria from further entering the body and spreading
+germs to vital organs.
+In December 2022, our new Cellect One®
+Rapid Renew Stem Cell Peptide Night Cream. The Night Cream is a Stemtech proprietary formula containing an FDA patented ingredient, Red
+Oak Bark, which enables deep penetration to promote good skin health. In 2025, we introduced Cellect One® Shield: HOCL
+(Hypochlorous Acid) skin care mist, which supports healthier skin, kills germs as a disinfectant, supports wound care and odor elimination.
+Stemtech announced it will introduce StemPets™, a pet supplement like our RCM for humans to our furry family members in April 2025.
+The global pet industry is a $303 Billion market.
+While sales of products obviously create the cash
+flow, our real business model is not just “sales”, but lateral penetration. We do this through our IBPs - “Independent
+Business Partner” Sales Force, and we invest much energy in growing our IBPs. Post funding, Stemtech is projecting the addition
+of 30,000 new independent business partner reps over the next 12 to 24 months, adding to the existing IBPs. IBPs are incentivized to build
+their network, attracting additional industry leaders. IBPs are a testimonial to our product and business model, lowering our customer
+acquisition costs. Our IBPs offer highly flexible yet steady income which is most adapted to todays “Laptop & Cellphone Lifestyle”,
+with structured and organized weekly Corporate training calls, a personalized website, back-office tracking, oversight and management
+Tools, Reports, Training Materials and Social Sharing. Management conservatively believes we can reinvigorate sales to be more consistent
+with the company’s previous revenue historically, as Stemtech has been recognized 4 times in the Inc 5000 Magazine’s list
+of fastest growing companies. Below this IBP level, we plan to have our “DTC” (Direct To Consumer) network marketing Distribution
+model. This integrative model allows us an immediate global presence and ability to operate in multiple countries on every continent.
+With a 10% money back guarantee, This method requires no up-front or required buy-in of inventory by customers, with monthly shipments
+available for known recurring sales. This platform has us now operating at the intersection of the ecommerce economy, social economy and
+gig economy.
+4
+Implications of Being an Emerging
+Growth Company
+Emerging Growth Company - We are
+an emerging growth company as defined in Section 2(a)(19) of the Securities Act of 1933, as amended, or the Securities Act. We will continue
+to be an emerging growth company until: (i) the last day of our fiscal year during which we had total annual gross revenues of at least
+$1.07 billion; (ii) the last day of our fiscal year following the fifth anniversary of the date of the first sale of our common stock
+pursuant to an effective registration statement under the Securities Act; (iii) the date on which we have, during the previous 3-year
+period, issued more than $1.0 billion in non-convertible debt; or (iv) the date on which we are deemed to be a large accelerated filer,
+as defined in Section 12b-2 of the Securities Exchange Act of 1934, as amended, or the Exchange Act, which means the market value of our
+common stock that is held by non-affiliates exceeds $700 million as of the prior June 30.
+As an emerging growth company, we are
+exempt from:
+·Sections 14A(a) and (b) of the Exchange Act, which require companies to hold stockholder
+advisory votes on executive compensation and golden parachute compensation;
+·The requirement to provide, in any registration statement, periodic report or other
+report to be filed with the SEC certain modified executive compensation disclosure under Item 402 of Regulation S-K or selected financial
+data under Item 301 of Regulation S-K for any period before the earliest audited period presented in our initial registration statement;
+·Compliance with new or revised accounting standards until those standards are applicable to private companies;
+·The requirement under Section 404(b) of the Sarbanes-Oxley Act of 2002, or the
+Sarbanes-Oxley Act, to provide auditor attestation of our internal controls and procedures; and
+·Any Public Company Accounting Oversight Board, or “PCAOB”, rules regarding
+mandatory audit firm rotation or an expanded auditor report, and any other PCAOB rules subsequently adopted unless the Commission determines
+the new rules are necessary for protecting the public.
+We have elected to use the extended
+transition period for complying with new or revised accounting standards under Section 102(b)(1) of the Jumpstart Our Business Startups
+Act.
+We are also a smaller reporting
+company as defined in Rule 12b-2 of the Exchange Act. As a smaller reporting company, we are not required to provide selected financial
+data pursuant to Item 301 of Regulation S-K, nor are we required to comply with the auditor attestation requirements of Section 404(b)
+of the Sarbanes-Oxley Act of 2002. We are also permitted to provide certain modified executive compensation disclosure under Item 402
+of Regulation S-K.
+Basis of Presentation
+The accompanying consolidated financial
+statements have been prepared in accordance with U.S. GAAP. Such consolidated financial statements and accompanying notes are the representations
+of the Company’s management, which is responsible for their integrity and objectivity. All intercompany accounts and transactions
+have been eliminated in consolidation.
+Critical Accounting Policies
+This Management’s Discussion
+and Analysis of Financial Condition and Results of Operations discusses our consolidated financial statements, which have been prepared
+in accordance with U.S. GAAP. In connection with the preparation of our consolidated financial statements, we are required to make assumptions
+and estimates about future events and apply judgments that affect the reported amounts of assets, liabilities, revenue, expenses and the
+related disclosures. We base our assumptions, estimates and judgments on historical experience, current trends and other factors that
+management believes to be relevant at the time our consolidated financial statements are prepared. On a regular basis, management reviews
+the accounting policies, assumptions, estimates and judgments to ensure that our consolidated financial statements are presented fairly
+and in accordance with U.S. GAAP. However, because future events and their effects cannot be determined with certainty, actual results
+could differ from our assumptions and estimates, and such differences could be material.
+Our significant accounting policies
+are discussed in Note 2, Summary of Significant Accounting Policies, of the Notes to Consolidated Financial Statements included elsewhere
+in this report.
+5
+Critical Accounting Estimates
+Our discussion and analysis of
+our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance
+with U.S. GAAP. The preparation of our consolidated financial statements and related disclosures requires us to make estimates, assumptions
+and judgments that affect the reported amounts of assets, liabilities and expenses and related disclosures. Management believes that there
+are no critical accounting estimates in these consolidated financial statements.
+New Accounting Pronouncements
+We do not expect recent accounting
+pronouncements will have a material impact on our consolidated financial position, results of operations or cash flows. See Note 2 in
+the accompanying consolidated financial statements for additional information.
+Results of Operations
+Our consolidated financial statements
+have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments relating to the recoverability
+and realization of assets and classification of liabilities that might be necessary should we be unable to continue in operation. We expect
+we will require additional capital to meet our long-term operating requirements. We expect to raise additional capital through, among
+other things, the sale of equity or debt securities.
+Year Ended December 31, 2024 Compared
+to the Year Ended December 31, 2023.
+During the years ended December
+31, 2024 and 2023, net sales were $5,053,690 and $4,921,531, respectively. The increase of $132,159 is primarily due to slight increases
+in the overall sales of the subsidiaries due to the increase in IBPs in 2024.
+During the years ended December
+31, 2024 and 2023, our total operating expenses were $6,113,773 and $8,144,439, respectively, reflecting a favorable decrease of $2,030,664.
+This improvement was primarily driven by effective cost management initiatives, including a reduction in general and administrative expenses,
+which decreased to $5,233,823 in 2024 from $6,439,537 in 2023.
+During the years ended December
+31, 2024 and 2023, total non-operating expenses were $1,386,274 and $1,207,433, respectively, reflecting a modest increase of $178,841.
+This increase was primarily due to the absence in 2024 of gains from the change in fair value of derivative liabilities and settlements
+of derivative liabilities, which contributed $1,488,686 and $1,366,298, respectively, in 2023. Offsetting this impact, interest expense
+decreased significantly to $1,579,370 in 2024 from $4,893,033 in 2023, reflecting improved debt management and reduced financing costs.
+We also recognized a gain on extinguishment of debt of $107,733 in 2024, compared to $814,132 in the prior year. Other income and expenses,
+net, increased modestly to $85,363 in 2024 from $16,484 in 2023.
+Our net loss for the years ended December
+31, 2024 and 2023 was $3,772,701 and $5,431,979, respectively. The year-over-year improvement in net loss was primarily driven by reductions
+in operating expenses and interest expense, partially offset by the absence of derivative-related gains recognized in the prior year as
+mentioned above.
+Liquidity and Capital Resources
+In spite of increasing revenues, we
+are not yet profitable, and we cannot provide any assurance of when we will be profitable. We incurred a net loss of $3,772,701 and $5,431,979
+for the years ended December 31, 2024 and 2023, respectively. During the year ended December 31, 2024, we met our short-term liquidity
+needs through existing cash reserves and financing activities. These included proceeds from notes payable of $274,689, net proceeds from
+a factoring arrangement of $529,667, and stock issued for cash of $474,812. These inflows were partially offset by repayments of notes
+payable totaling $282,034. As a result, net cash provided by financing activities was $1,079,110 for the year.
+As of December 31, 2024, our current
+assets totaled $921,746, compared to $400,710 as of December 31, 2023, reflecting an improvement in liquidity. Our current liabilities
+increased to $9,009,049 as of December 31, 2024, from $6,462,036 at December 31, 2023. The increase was primarily driven by financing
+obligations and trade-related payables. Current liabilities as of December 31, 2024, consisted of $4,518,391 in accounts payable and accrued
+expenses, $1,769,583 in convertible notes payable, $2,046,001 in non-convertible notes payable, $673,611 in factoring liabilities, and
+$1,463 in deferred revenues.
+Stockholders’ deficit increased
+to $5,226,804 as of December 31, 2024, from $2,778,765 as of December 31, 2023. The increase was primarily due to the net loss incurred
+during the year, partially offset by the conversion of convertible notes and the reclassification of derivative liabilities to equity.
+6
+Cash Flows from Operating Activities
+We have not generated positive cash
+flows from operating activities. For the year ended December 31, 2024, net cash used in operating activities was $601,198, primarily due
+to a net loss of $3,772,701 partially offset by non-cash adjustments of $1,789,721 and changes in working capital.
+The non-cash adjustments included depreciation
+and amortization of $344,466, amortization of right-of-use assets of $70,820, stock compensation expense of $440,256, amortization of
+debt discount of $362,404, stock issued for services of $746,374, and a loss on extinguishment of debt of $107,733, partially offset by
+a $66,866 adjustment for operating lease liabilities.
+Changes in operating assets and liabilities
+included an increase in accounts payable and accrued expenses of $1,809,485, a decrease in accounts receivable of $208,255, a decrease
+in inventory of $149,030, an increase in prepaid expenses and other current assets of $22,619, an increase in long-term deposits of $6,776,
+and a decrease in deferred revenues of $54,576.
+Cash Flows from Financing Activities
+We have financed our operations primarily
+through the issuance of common stock and proceeds from debt arrangements. For the year ended December 31, 2024, net cash provided by financing
+activities was $1,079,110. This included $274,689 in proceeds from notes payable, $81,976 from related party notes, $529,667 from a factoring
+arrangement, and $474,812 from the issuance of common stock. These inflows were partially offset by repayments of notes payable totaling
+$282,034.
+Plan of Operation and Funding
+We expect that working capital
+requirements will continue to be funded through a combination of our existing funds and further issuances of equity securities and debt
+instruments.
+Existing working capital, further
+advances and debt instruments, and anticipated cash flow are expected to be adequate to fund our operations over the next three months.
+Generally, we have financed operations to date through the proceeds of the private placement of equity and debt instruments. In connection
+with our business plan, management anticipates additional increases in operating expenses and capital expenditures relating to: (i) acquisition
+of inventory; (ii) developmental expenses associated with a start-up business; and (iii) marketing expenses. We intend to finance these
+expenses with further issuances of securities and director loans. Thereafter, we expect we will need to raise additional capital and generate
+revenues to meet long-term operating requirements. Additional issuances of equity or convertible debt securities will result in dilution
+to our current shareholders. Additional financing may not be available upon acceptable terms, or at all. If adequate funds are not available
+or are not available on acceptable terms, we may not be able to take advantage of prospective new business endeavors or opportunities,
+which could significantly and materially restrict our business operations. We will have to raise additional funds in the next twelve months
+in order to sustain and expand our operations. We currently do not have a specific plan of how we will obtain such funding; however, we
+anticipate that additional funding will be in the form of equity financing from the sale of our common stock. We have and will continue
+to seek to obtain short-term loans from our directors, although no future arrangement for additional loans has been made. We do not have
+any agreements with our directors concerning these loans. We do not have any arrangements in place for any future equity financing.
+Off-Balance Sheet Arrangements
+As of the date of this report,
+we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources
+that are material to investors.
+Stockholders’ Deficit
+Authorized Shares
+Effective May 5, 2023, the Company
+is authorized to issue up to 400,000,000 shares of common stock, $0.001 par value. Prior to May 5, 2023, the Company was authorized to
+issue up to 200,000,000 shares (see Note 9). Each outstanding share of common stock entitles the holder to one vote per share on all matters
+submitted to a stockholder vote. All shares of common stock are non-assessable and non-cumulative, with no pre-emptive rights.
+7
+Commitments and Contingencies
+None.
+Financing
+On March 27, 2023, the Company
+entered into a Senior Secured Convertible Promissory Note with Leviston Resources, LLC for a maximum principal amount of up to $7,000,000,
+subject to disbursement at the lender’s discretion. To date, Leviston Resources LLC has disbursed four tranches totaling $1,561,660,
+consisting of $1,000,000, $250,000, $250,000, and $61,660, respectively. The latest disbursement adheres to the terms of the note and
+prior funding obligations. The note bears interest at 7% per annum and is convertible into common stock at a conversion price initially
+set at 125% of the closing bid price on the disbursement date, subject to adjustment thereafter.
+Future financing through equity
+investments is likely to be dilutive to existing stockholders. Also, the terms of securities we may issue in future capital transactions
+may be more favorable for our new investors. Newly issued securities may include preferences, superior voting rights, and the issuance
+of warrants or other derivative securities, which may have additional dilutive effects. Further, we may incur substantial costs in pursuing
+future capital and financing, including investment banking fees, legal fees, accounting fees, and other costs. We may also be required
+to recognize non-cash expenses in connection with certain securities we may issue, such as convertible notes and warrants, which will
+adversely impact our financial condition.
+Our ability to obtain needed financing
+may be impaired by such factors as the capital markets, both generally and specifically in the nutraceutical industry, which could impact
+the availability or cost of future financing. If the amount of capital we are able to raise from financing activities, together with our
+revenue from operations, is not sufficient to satisfy our capital needs, even to the extent that we reduce our operations accordingly,
+we may be required to cease operations.
+We have no plans, arrangements or contingencies
+in place in the event that we cease operations.
+Item 7A. Quantitative and Qualitative
+Disclosures about Market Risk.
+We are a smaller reporting company as
+defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item.
+Item 8. Financial Statements and Supplementary Data.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Stemtech Corporation
+Consolidated
+Financial Statements
+December 31,
+2024
+Page
+Financial Statements
+Report of Independent Registered Public Accounting Firm
+F-1
+Consolidated Balance Sheets
+F-2
+Consolidated Statements of Operations and Comprehensive Loss
+F-3
+Consolidated Statements of Changes in Stockholders’ Deficit
+F-4
+Consolidated Statements of Cash Flows
+F-5
+Notes to Consolidated Financial Statements
+F-6
+8
+REPORT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM
+Board of Directors and Shareholders
+Stemtech Corporation and Subsidiaries
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Stemtech
+Corporation and Subsidiaries (the “Company”) as of December 31, 2024 and 2023 and the related consolidated statements of operations
+and comprehensive loss, shareholders’ equity, and cash flows, for the period ended December 31, 2024 and 2023, and the related notes
+(collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements
+present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its
+operations and its cash flows for each of the years then ended, in conformity with accounting principles generally accepted in the United
+States of America.
+Going Concern
+The accompanying consolidated financial statements have been prepared
+on a going concern basis of accounting, which contemplates continuity of operations, realization of assets and classification of liabilities
+and commitments in the normal course of business. The accompanying consolidated financial statements do not reflect any adjustments relating
+to the recoverability and classification of recorded asset amounts or the amounts and classifications of liabilities that might result
+if the Company is unable to continue as a going concern.
+Basis for Opinion
+These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial statements based on our audit. We are a public accounting firm
+registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent
+with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities
+and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit
+of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control
+over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control
+over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from the current period
+audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to
+accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex
+judgements. We determined that there are no critical audit matters.
+/s/Bush & Associates CPA LLC
+We have served as the Company’s auditor since 2024.
+Henderson, Nevada
+June 30, 2025
+PCAOB ID Number 6797
+F-1
+Stemtech Corporation
+Consolidated
+Balance Sheets
+December 31, 2024
+December 31, 2023
+ASSETS
+CURRENT ASSETS:
+Cash
+$255,298
+$114,166
+Accounts receivable, net
+269,749
+61,494
+Inventory, net
+197,355
+48,325
+Prepaid expenses and other current assets
+199,344
+176,725
+TOTAL CURRENT ASSETS
+921,746
+400,710
+Property and equipment, net
+–
+10,056
+Intangible assets, net
+2,376,158
+2,710,568
+Other long term assets
+–
+–
+Long term deposits
+16,932
+23,708
+Operating lease right-of-use assets - net
+–
+70,820
+Goodwill
+467,409
+467,409
+Intercompany
+–
+–
+TOTAL ASSETS
+$3,782,245
+$3,683,271
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Accounts payable and accrued expenses
+$4,518,391
+$2,708,906
+Notes payable
+2,046,001
+1,889,321
+Convertible debentures, net of discount
+1,769,583
+1,596,960
+Operating lease liabilities - current
+–
+66,866
+Deferred revenues
+1,463
+56,039
+Factoring liability
+673,610
+143,944
+Derivative liability
+–
+–
+TOTAL CURRENT LIABILITIES
+9,009,049
+6,462,036
+Notes payable - Long term
+–
+–
+Operating lease liabilities - noncurrent
+–
+–
+Other long term liabilities
+–
+–
+TOTAL LIABILITIES
+9,009,049
+6,462,036
+COMMITMENTS AND CONTINGENCIES (Note 10)
+–
+STOCKHOLDERS’ EQUITY
+Common stock - $0.001 par value; 200,000,000 shares authorized; 135,756,053 and 104,988,853 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+135,756
+104,989
+Additional paid in capital
+26,357,396
+24,726,722
+Accumulated other comprehensive loss
+(146,277)
+190,503
+Accumulated deficit
+(30,831,052)
+(27,061,486)
+Stemtech Corporation shareholders’ deficit
+(4,484,176)
+(2,039,272)
+Non-controlling interest in subsidiaries
+(742,628)
+(739,493)
+Net loss
+–
+–
+TOTAL STOCKHOLDERS’ EQUITY
+(5,226,804)
+(2,778,765)
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$3,782,245
+$3,683,271
+See accompanying Notes to Consolidated Financial Statements
+F-2
+Stemtech Corporation
+Consolidated Statements of Operations
+and Comprehensive Loss
+For The Twelve Months Ending
+December
+31,
+2024
+2023
+NET SALES
+$5,053,690
+$4,921,531
+COST OF GOODS SOLD:
+Cost of goods sold
+1,216,413
+731,339
+Freight-in
+109,931
+270,301
+TOTAL COST OF GOODS SOLD
+1,326,344
+1,001,640
+GROSS PROFIT
+3,727,346
+3,919,891
+OPERATING EXPENSES:
+Commissions
+780,772
+1,187,027
+Selling and marketing
+99,178
+504,075
+General and administrative
+5,233,823
+6,439,537
+Research and development
+–
+13,800
+TOTAL OPERATING EXPENSES
+6,113,773
+8,144,439
+OPERATING LOSS
+(2,386,427)
+(4,224,548)
+OTHER INCOME (EXPENSE):
+Change in fair value of derivative liability
+–
+1,488,686
+Interest expense
+(1,579,370)
+(4,893,033)
+Other income and expenses, net
+85,363
+16,484
+Gain on settlement of derivative liabilities
+–
+1,366,298
+Gain (loss) on extinguishment of debt
+107,733
+814,132
+Loss on disposal of assets
+–
+–
+TOTAL OTHER INCOME (EXPENSE)
+(1,386,274)
+(1,207,433)
+INCOME (LOSS) BEFORE INCOME TAXES
+(3,772,701)
+(5,431,979)
+PROVISION FOR INCOME TAXES
+–
+–
+NET LOSS
+(3,772,701)
+(5,431,979)
+NET LOSS ATTRIBUTABLE TO NONCONTROLLING INTERESTS
+(3,135)
+(1,734)
+NET LOSS AVAILABLE TO COMMON
+STOCKHOLDERS
+$(3,769,566)
+$(5,430,245)
+Net loss per common share
+Basic
+$(0.03)
+$(0.07)
+Diluted
+$(0.03)
+$(0.07)
+Shares used to compute loss per share
+Basic
+118,697,641
+83,469,544
+Diluted
+118,697,641
+83,469,544
+Comprehensive loss
+Net loss
+$(3,769,566)
+$(5,430,245)
+Change in foreign currency translation adjustments
+(336,780)
+438,263
+Comprehensive loss available to common stockholders
+$(4,106,346)
+$(4,991,982)
+See accompanying Notes to Consolidated Financial Statements
+F-3
+Stemtech Corporation
+Consolidated Statements of
+Changes in Stockholders’ Deficit
+For the Years Ended December 31, 2024 and 2023
+Accumulated
+Other
+Non-
+Total
+Common Stock
+Additional
+Accumulated
+Comprehensive
+controlling
+Stockholders'
+No. of Shares
+Amount
+Paid-in Capital
+Deficit
+Income (Loss)
+Subtotal
+Interest
+Deficit
+Balance at December 31, 2022
+53,442,147
+$53,442
+$19,391,400
+$(21,631,241)
+$(247,760)
+$(2,434,159)
+$(737,759)
+$(3,171,918)
+Stock based compensation
+–
+–
+439,054
+–
+–
+439,054
+–
+439,054
+Stock issued for services
+6,115,200
+6,115
+427,910
+–
+–
+434,025
+–
+434,025
+Conversion of convertible notes and accrued interest to common stock
+30,371,836
+30,372
+2,373,081
+–
+–
+2,403,453
+–
+2,403,453
+Settlement of accrued liabilities for common stock
+12,149,670
+12,150
+794,926
+–
+–
+807,076
+–
+807,076
+Stock issued for LFR Acquisition
+2,400,000
+2,400
+269,520
+–
+–
+271,920
+–
+271,920
+Reclassification of derivative liabilities to APIC
+–
+–
+1,011,451
+–
+–
+1,011,451
+–
+1,011,451
+Issuance of stock for cancellation of options
+510,000
+510
+19,380
+19,890
+19,890
+Foreign currency translation adjustment
+–
+–
+–
+–
+438,263
+438,263
+–
+438,263
+Loss attributable to non-controlling interests
+–
+–
+–
+–
+–
+–
+(1,734)
+(1,734)
+Net loss
+–
+–
+–
+(5,430,245)
+–
+(5,430,245)
+–
+(5,430,245)
+Balance at December 31, 2023
+104,988,853
+$104,989
+$24,726,722
+$(27,061,486)
+$190,503
+$(2,039,272)
+$(739,493)
+$(2,778,765)
+Balance at December 31, 2023
+104,988,853
+$104,989
+$24,726,722
+$(27,061,486)
+$190,503
+$(2,039,272)
+$(739,493)
+$(2,778,765)
+Stock based compensation
+–
+–
+440,256
+–
+–
+440,256
+–
+440,256
+Stock issued for services
+18,775,140
+18,775
+727,599
+–
+–
+746,374
+–
+746,374
+Conversion of convertible notes and accrued interest to common stock
+11,992,060
+11,993
+462,819
+–
+–
+474,812
+–
+474,812
+Settlement of accrued liabilities for common stock
+–
+–
+–
+–
+–
+–
+–
+–
+Stock issued for LFR Acquisition
+–
+–
+–
+–
+–
+–
+–
+–
+Reclassification of derivative liabilities to APIC
+–
+–
+–
+–
+–
+–
+–
+–
+Foreign currency translation adjustment
+–
+–
+–
+–
+(336,780)
+(336,780)
+–
+(336,780)
+Non-controlling interest
+–
+–
+–
+–
+–
+–
+(3,135)
+(3,135)
+Net loss
+–
+–
+–
+(3,769,566)
+–
+(3,769,566)
+–
+(3,769,566)
+Balance at December 31, 2024
+135,756,053
+$135,756
+$26,357,396
+$(30,831,052)
+$(146,277)
+$(4,484,176)
+$(742,628)
+$(5,226,804)
+See accompanying Notes to Consolidated Financial Statements
+F-4
+Stemtech Corporation
+Consolidated Statements
+of Cash Flows
+For the
+year Ended December 31,
+2024
+2023
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss
+$(3,772,701)
+$(5,431,979)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization
+344,466
+587,797
+Amortization of right of use asset
+70,820
+71,981
+Operating lease liabilities
+(66,866)
+–
+Stock compensation expense
+440,256
+439,054
+Non-cash interest expense from issuance on debt (derivative)
+–
+1,623,579
+Amortization of debt discount
+362,404
+2,797,403
+Change in fair value of derivative liabilities
+–
+(1,488,686)
+Gain (loss) on settlement of derivative liabilities
+–
+(1,366,298)
+Cancellation of shares returned by shareholders
+–
+19,890
+Stock issued for services
+746,374
+434,025
+(Gain) loss on extinguishment of debt
+(107,733)
+(814,132)
+Changes in operating assets and liabilities, net of effect of acquisitions:
+Accounts receivable
+(208,255)
+(26,727)
+Inventory
+(149,030)
+109,728
+Prepaid expenses and other current assets
+(22,619)
+110,338
+Accounts payable and accrued expenses
+1,809,486
+957,056
+Long term deposits
+6,776
+(643)
+Operating lease liabilities
+–
+(75,267)
+Deferred revenues
+(54,576)
+16,869
+Net cash used in operating activities
+(601,198)
+(2,036,012)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of property and equipment
+–
+–
+Net cash used in investing activities
+–
+–
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from notes payable
+274,689
+2,236,000
+Net proceeds from factoring arrangement
+529,667
+(189,700)
+Repayment of note payable
+(282,034)
+(466,872)
+Stock issued for cash
+474,812
+–
+Proceeds from note payable - related
+parties
+81,976
+–
+Net cash provided (used) by financing
+activities
+1,079,110
+1,579,428
+Effects of currency translation on cash
+(336,780)
+438,263
+Net increase (decrease) in cash
+141,132
+(18,321)
+Cash, beginning of period
+114,166
+132,487
+Cash, end of period
+$255,298
+$114,166
+Supplemental disclosure cash flow information:
+Cash paid for interest
+$6,821
+$6,821
+Cash paid for income taxes
+$–
+$–
+Supplemental noncash transactions
+Stock issued for LFR Acquisition
+$–
+$271,920
+Issuance of common stock for
+conversion of debt
+$–
+$2,403,453
+Settlement of accrued liabilities
+for common stock
+$–
+$807,076
+Reclassification of derivative
+liabilities to APIC
+$–
+$1,011,451
+Recognition of right of use
+asset - operating lease
+$–
+$–
+See accompanying Notes to Consolidated Financial Statements
+F-5
+STEMTECH CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER 31, 2024
+Note 1 – Organization and Basis
+of Presentation
+Stemtech Corporation and its Subsidiaries
+(collectively, the “Company”) was incorporated in the State of Nevada, USA on September 4, 2009 under the previous
+name Globe Net Wireless Corp. On November 19, 2021, the Company adopted an Amendment to its Articles changing the name of the Corporation
+to Stemtech Corporation in the state of Nevada, and on April 14, 2022, FINRA gave final approval for said name change, as evidenced by
+the 8-K filed that date. Stemtech is a global network marketing company that develops science-based products that it believes supports
+wellness by helping the body maintain healthy stem cell physiology, also known as stem cell enhancers. Known as the Stem Cell Nutrition
+Company®, the Company is a pioneer in stem cell science, and believes it can demonstrate that adult stem cells function as the natural
+renewal system of the body. The Company believes its products enhance and support the work of the body’s stem cells by releasing
+more stem cells, helping to circulate them in the blood and migrate them into tissues, where they can perform their daily function of
+renewal for optimal health. Our mission is to enhance wellness and prosperity around the world. These products are marketed internationally
+by the Company’s subsidiaries and through independent distributors. The Company markets its products under the following brands:
+RCM System, stemrelease3™, Stemflo® MigraStem™ and OraStem® (Oral Health Care), and Cellect One™ Rapid Renew
+Stem Cell Peptide Night Cream.The Company introduced Cellect One® Shield HOCL – (Hypochlorous Acid) skin care product.
+On August 19, 2021, Stemtech Corporation
+(“Stemtech”), a Delaware corporation, entered into a Merger Agreement (the “Merger Agreement”) with
+Globe Net Wireless Corp. (“Globe Net” or “GNTW”). The merger was accounted for as a reverse acquisition
+and recapitalization in accordance with the Financial Accounting Standards Board (“FASB”) Accounting Standards Codification
+(“ASC”) 805, Business Combinations. Management evaluated the guidance contained in ASC 805 with respect to the identification
+of the acquirer in the merger and concluded, based on a consideration of the pertinent facts and circumstances, that Stemtech acquired
+Globe Net for financial accounting purposes. On November 9, 2021, the Company changed its fiscal year end from a fiscal year end of August
+31 to a calendar year end of December 31.
+The consolidated financial statements
+include the accounts of Stemtech (Parent) and its thirteen (13) subsidiaries:
+1.Stemtech HealthSciences Corp (U.S.A.) (“Stemtech HealthSciences”)
+2.Stemtech IP Holdings, LLC (U.S.A.)
+3.Stemtech Canada, Inc. (“Canada”)
+4.Stemtech Health Sciences S. de R.L. de C.V. (“Mexico”)
+5.Stemtech Services SARL de C.V. (Mexico) (“Stemtech Mexico”)
+6.Tecrecel Mexico SA de CV  (“TME”)
+7.Stemtech Malaysia Holdings Sdn. Bhd. (“Malaysia Holdings”)
+8.Stemtech Malaysia Sdn. Bhd. (“Malaysia”)
+9.Stemtech Taiwan Holding, Inc. (“Taiwan”)
+10.Stemtech Taiwan Branch
+11.Tecrecel S.A. (“Ecuador”)
+12.Food & Health Tech Foodhealth SA (“FHT Ecuador”)
+13.Life Factor Research (“LFR”)
+F-6
+Note 2 — Summary of Significant
+Accounting Policies
+Basis of Presentation
+The consolidated financial statements
+of the Company have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S.
+GAAP”) and considering the requirements of the United States Securities and Exchange Commission (“SEC”). All intercompany
+accounts and transactions have been eliminated in consolidation.
+Going Concern
+The accompanying consolidated financial
+statements have been prepared on a going concern basis of accounting, which contemplates continuity of operations, realization of assets
+and classification of liabilities and commitments in the normal course of business. The accompanying consolidated financial statements
+do not reflect any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classifications
+of liabilities that might result if the Company is unable to continue as a going concern.
+The Company has experienced recurring
+net losses and negative cash flows from operations since inception and has an accumulated deficit of approximately $30.8 million and a
+working capital deficiency of approximately $8.1 million at December 31, 2024. The Company has funded its activities to date almost exclusively
+from debt and equity financing. These conditions raise substantial doubt about the Company’s ability to continue as a going concern.
+The Company will continue to require substantial funds to implement its new investment acquisition plans. Management’s plans in
+order to meet its operating cash flow requirements include financing activities such as private placements of its common stock, preferred
+stock offerings, and issuances of debt and convertible debt instruments.
+The Company’s ability to
+continue as a going concern for the next twelve months from the issuance of these consolidated financial statements depends on its ability
+to execute its business plan, increase revenue, and reduce expenditures. The Company has reduced its labor force, cut out significant
+overhead and increased sales in attempts to address the above.
+Use of Estimates
+The preparation of consolidated
+financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities, disclosure of contingent assets and liabilities at the date of the consolidated financial statements, and the
+reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Cash
+The Company considers all highly
+liquid temporary investments purchased with original maturities of three months or less at the date of purchase to be cash equivalents.
+The Company cash equivalents $255,298 and $114,166 as of December 31, 2024 and 2023. The Company maintains certain cash balances at several
+institutions located outside the United States. The Company has not experienced any losses in such accounts and believes it is not exposed
+to any significant credit risk.
+F-7
+Inventory
+Inventory is comprised of finished
+goods and raw materials and is valued at the lower of cost or market, using the “first-in, first-out” method in determining
+cost. Management evaluates the allowance for inventory obsolescence on a regular basis and has determined that no allowance for slow moving
+or obsolete inventory is necessary as at December 31, 2024 and 2023.
+Intangible Assets and Goodwill
+The estimated fair values of acquired
+intangibles are generally determined based upon future economic benefits such as earnings and cash flows. Acquired identifiable intangible
+assets are recorded at fair value and are amortized over their estimated useful lives. Acquired intangible assets with an indefinite life
+are not amortized but are reviewed for impairment at least annually or more frequently whenever events or changes in circumstances indicate
+that the carrying amounts of those assets are below their estimated fair values. Impairment is tested under ASC 350, Intangibles -
+Goodwill and Other.
+Goodwill represents the excess
+of the purchase price over the fair value of the net tangible and intangible assets acquired in a business combination. Goodwill is not
+amortized but is tested for impairment annually or more frequently if events or changes in circumstances indicate that the asset may be
+impaired. The fair value of the reporting unit is evaluated on qualitative factors to determine if the reported value may be impaired.
+If the qualitative factors indicate a likelihood of impairment, we then evaluate carrying value of the reporting unit based on quantitative
+factors using the income approach. An impairment charge is recognized for the excess of the carrying value of goodwill for the reporting
+unit over its implied fair value.
+Notes Payable and Convertible Debentures
+U.S. GAAP
+requires companies to bifurcate conversion options from their host instruments and account for them as freestanding derivative financial
+instruments according to certain criteria. The criteria include circumstances in which (a) the economic characteristics and risks of the
+embedded derivative instrument are not clearly and closely related to the economic characteristics and risks of the host contract, (b)
+the hybrid instrument that embodies both the embedded derivative instrument and the host contract is not re-measured at fair value under
+otherwise applicable U.S. GAAP with changes in fair value reported in earnings as they occur, and (c) a separate instrument with the same
+terms as the embedded derivative instrument would be considered a derivative instrument. An exception to this rule is when the host instrument
+is deemed to be conventional, as that term is described under ASC 480, Distinguishing Liabilities From Equity. See Note 6 –
+Notes Payable and Convertible Debentures
+Factoring Liability
+We have entered
+into factoring agreements with various financial institutions to receive cash for our future revenues. These transactions are treated
+as a debt instrument and are accounted for as a liability because the Company makes weekly payments towards the balance and fees. We utilize
+factoring arrangements as an integral part of our financing for working capital. Any change in the availability of these factoring arrangements
+could have a material adverse effect on our consolidated financial condition. See Note 6 – Notes Payable and Convertible Debentures.
+Derivative Liabilities
+The Company classifies as equity
+any contracts that: (i) require physical settlement or net-share settlement; or (ii) provide the Company with a choice of net-cash settlement
+or settlement in its own shares (physical settlement or net-share settlement) providing that such contracts are indexed to the Company’s
+own stock. The Company classifies as assets or liabilities any contracts that: (i) require net-cash settlement (including a requirement
+to net cash settle the contract if an event occurs and if that event is outside the Company’s control); or (ii) gives the counterparty
+a choice of net-cash settlement or settlement in shares (physical settlement or net-share settlement). The Company assesses classification
+of its common stock purchase warrants and other freestanding derivatives at each reporting date to determine whether a change in classification
+between assets and liabilities is required.
+The Company’s freestanding
+derivatives consisted of warrants to purchase common stock that were issued in connection with the issuance of debt and the sale of common
+shares, and of embedded conversion options within convertible notes. The Company evaluated these derivatives to assess their proper classification
+in the accompanying consolidated balance sheet as of December 31, 2024 and 2023 using the applicable classification criteria enumerated
+under ASC 815, Derivatives and Hedging. See Note 7 – Derivative Liabilities
+F-8
+Impairment of Long-Lived Assets
+The Company assesses, on an annual
+basis, the recoverability of the carrying amount of intangible assets and long-lived assets used in continuing operations. A loss is recognized
+when expected future cash flows (undiscounted and without interest) are less than the carrying amount of the asset. The impairment loss
+is determined as the difference by which the carrying amount of the asset exceeds its fair value. The Company evaluated its long-lived
+assets for any indications of impairment. The Company concluded that there was no impairment, however there can be no assurance that market
+conditions will not change or demand for the Company’s products will continue which could result in impairment of long- lived assets
+in the future.
+Revenue Recognition
+It is the Company’s policy
+that revenues from product sales is recognized in accordance with ASC 606 Revenues from Contracts with Customers. Five basic steps
+must be followed before revenue can be recognized; (1) Identifying the contract(s) with a customer that creates enforceable rights and
+obligations; (2) Identifying the performance obligations in the contract, such as promising to transfer goods or services to a customer;
+(3) Determining the transaction price, meaning the amount of consideration in a contract to which an entity expects to be entitled in
+exchange for transferring promised goods or services to a customer; (4) Allocating the transaction price to the performance obligations
+in the contract, which requires the Company to allocate the transaction price to each performance obligation on the basis of the relative
+standalone selling prices of each distinct good or services promised in the contract; and (5) Recognizing revenue when (or as) the entity
+satisfies a performance obligation by transferring a promised good or service to a customer. The amount of revenue recognized is the amount
+allocated to the satisfied performance obligation.
+Revenues from direct retail sales
+to consumers and revenues from independent distributors occur when title and risk of loss has passed, which generally occurs at the time
+the products are shipped. Revenues are recorded net of estimated sales returns and allowances.
+Allowances for product returns
+are provided at the time the sale is recorded. This liability is based upon historic return rates and the relevant return pattern, which
+reflects anticipated returns to be received over a period of up to one year following the original sale. As of both December 31, 2024
+and 2023, the Company had a reserve for sales returns of approximately $0 and $7,000, which is included in accrued liabilities in the
+accompanying consolidated balance sheets.
+We offer various incentives to
+our IBPs, such as volume bonuses, commissions, and promotional discounts. These are considered part of variable consideration and are
+estimated at the time of sale. The estimate is based on historical trends and our current compensation plans and is recognized as a reduction
+to revenue.
+Breakage refers to unused credits,
+promotional balances, or rewards that are not expected to be redeemed. We estimate the amount of breakage using historical data and recognize
+the related income over time, as it becomes clear that these amounts won’t be used.
+We regularly monitor and
+update these estimates to ensure our revenue recognition remains accurate and consistent with accounting standards.
+Comprehensive Loss
+The other comprehensive loss in
+the accompanying consolidated financial statements relates to the net loss of the Company for the respective period as well as unrealized
+foreign currency translation adjustments.
+F-9
+Foreign Currency Translation
+A portion of the Company’s
+business operations occur outside the United States. The local currency of each of the Company’s subsidiaries is generally its functional
+currency. All assets and liabilities are translated into U.S. Dollars at exchange rates existing at the consolidated balance sheet dates,
+revenue and expenses are translated at weighted-average exchange rates and stockholders’ deficit is recorded at historical exchange
+rates. The resulting foreign currency translation adjustments are recorded as a separate component of stockholders’ deficit in the
+consolidated balance sheets and as a component of comprehensive loss. Transaction gains and losses are included in other income (expense),
+net in the consolidated statements of operations and comprehensive loss.
+Leases
+In February 2016, the FASB issued
+ASC 842, Leases, (“ASC 842”) to increase transparency and comparability among organizations by requiring the recognition of
+right-of-use (“ROU”) assets and lease liabilities on the balance sheet for leases previously classified as operating leases.
+The Company adopted ASC 842 effective January 1, 2022 and recognized and measured operating leases existing at, or entered into after,
+January 1, 2021 (the beginning of the earliest comparative period presented) using a modified retrospective approach, with certain practical
+expedients available (see Note 5). The Company’s accounting for finance leases under ASC 842 remained substantially unchanged,
+In accordance with ASC 842, the
+Company determines if an arrangement is a lease at inception. Operating lease assets and liabilities are recognized at the lease commencement
+date. Operating lease liabilities represent the present value of lease payments not yet paid. Operating lease assets represent the Company’s
+right to use an underlying asset and are based upon the operating lease liabilities adjusted for prepayments or accrued lease payments,
+initial direct costs, lease incentives, and impairment of operating lease assets. To determine the present value of future lease payments,
+the Company estimates the incremental borrowing rates corresponding to the reasonably certain lease term. If the estimate of the Company’s
+incremental borrowing rate was changed, the operating lease assets and liabilities could differ materially.
+Finance lease assets and liabilities
+are recognized at the lease commencement date at the present value of the future lease payments not yet paid using the Company’s
+incremental borrowing rate, Assets acquired under finance lease are included in property and equipment, while finance lease obligations
+are included in other current liabilities and other long- term liabilities on the consolidated balance sheets.
+Income Tax
+The Company accounts for income
+taxes in accordance with ASC 74, Income Taxes. Accordingly, deferred income taxes are determined utilizing the asset and liability
+method based on the estimated future tax effects of differences between
+financial accounting and the tax bases of assets and liabilities
+under the applicable tax law. Deferred tax balances are computed using the enacted tax rates expected to be in effect when these differences
+reverse. Valuation allowances with respect to deferred tax assets are provided for, if necessary, to reduce deferred tax assets to amounts
+more likely than not to be realized.
+The Company accounts for uncertain
+tax positions in accordance with ASC Topic 740-10, which prescribes detailed guidance for the financial statement recognition, measurement
+and disclosure of uncertain tax positions recognized in an enterprise’s financial statements. According to ASC Topic 740-10, tax
+positions must meet a more-likely-than-not recognition threshold. The Company’s accounting policy is to classify interest and penalties
+relating to uncertain tax positions under income taxes, however the Company did not recognize such items in its fiscal 2024 and 2023 consolidated
+financial statements and did not recognize any liability with respect to unrecognized tax positions in its consolidated balance sheet.
+F-10
+Business Combinations
+The Company allocates the
+fair value of purchase consideration to the tangible and intangible assets acquired, net of liabilities assumed, based on their estimated
+fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities
+is recorded as goodwill. Such valuations require management to make significant estimates and assumptions, especially with respect to
+intangible assets. Significant estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows
+from acquired customer lists, acquired technology, and trade names from a market participant perspective, useful lives and discount rates.
+Management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and
+unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is one year from the acquisition
+date, the Company may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon
+the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+Fair Value of the Acquired Assets
+The Company accounted for the acquisitions
+discussed in Note 4 as business combinations using the acquisition method of accounting as prescribed in ASC 805 and ASC 820. In accordance
+with ASC 805 and ASC 820, the Company assigned fair value to the tangible and intangible assets acquired, identifiable intangible assets
+and liabilities assumed as of the acquisition dates. Goodwill as of the acquisition date is measured as the excess of purchase consideration
+over the fair value of tangible and identifiable intangible assets acquired and liabilities assumed.
+Segment Information
+The Company manages its operations
+in three geographic segments for the purpose of assessing performance and making operating decisions including North America (including
+its subsidiaries in United States and Canada), Latin America (including subsidiaries in Mexico and Ecuador) and Asia (including its subsidiaries
+in Malaysia and Taiwan).
+Reclassifications
+Certain reclassifications have been made to prior year data
+to conform to the current year’s presentation. These reclassifications had no impact on reported income or losses.
+Recent Accounting Pronouncements
+In July 2023, the FASB issued Accounting Standards Update
+("ASU") 2023-03, Presentation of Financial Statement (Topic 205), Income Statement - Reporting Comprehensive Income
+(Topic 220), Distinguishing Liabilities from Equity (Topic 480), Equity (Topic 505), and Compensation - Stock Compensation
+(Topic 718), to amend various SEC paragraphs in the ASC to reflect the issuance of SEC Staff Accounting Bulletin No. 120, among other
+things. The ASU does not provide any new guidance so there is no transition or effective date associated with it. The Company is currently
+assessing the impact of adopting ASU 2023-03 on the consolidated financial statements and related disclosures.
+In November 2023, FASB issued ASU
+2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which expands annual and interim disclosure
+requirements for reportable segments, primarily through enhanced disclosures about significant segment expenses. ASU 2023-07 is effective
+for the Company’s annual periods beginning January 1, 2024, and for interim periods beginning January 1, 2025, with early adoption
+permitted.
+In December 2023, the FASB issued
+ASU 2023-09, Income Taxes (Topics 740): Improvements to Income Tax Disclosures to expand the disclosure requirements for income
+taxes, specifically relating to the rate reconciliation and income taxes paid. ASU 2023-09 is effective for the Company’s annual
+periods beginning January 1, 2025, with early adoption permitted.
+The Company is currently evaluating the potential effects
+that ASU 2023-07 and ASU 2023-09 will have on the consolidated financial statement disclosures.
+F-11
+Net Loss per Common Share, basic and diluted
+Basic net loss per share is computed
+by dividing net loss available to common shareholders by the weighted average number of common shares outstanding during the period. Diluted
+loss per share includes potentially dilutive securities such as outstanding options and warrants, using various methods such as the treasury
+stock or modified treasury stock method in the determination of dilutive shares outstanding during each reporting period.
+For the years ended December
+31, 2024 and 2023, the dilutive effect of 15,198,206
+and 3,010,875,
+respectively, of common stock warrants have not been included in the average shares outstanding for the calculation of net loss per share
+as the effect would be anti-dilutive as a result of the Company’s net losses in these periods.
+Fair Value Measurements
+As defined in ASC 820 Fair Value
+Measurements, fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date (exit price). The Company utilizes market data or assumptions that market participants
+would use in pricing the asset or liability, including assumptions about risk and the risks inherent in the inputs to the valuation technique.
+These inputs can be readily observable, market corroborated, or generally unobservable. The Company classifies fair value balances based
+on the observability of those inputs. ASC 820 establishes a fair value hierarchy that prioritizes the inputs used to measure fair value.
+The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1 measurement)
+and the lowest priority to unobservable inputs (level 3 measurement).
+The Company determines the level
+in the fair value hierarchy within which each fair value measurement falls in its entirety, based on the lowest level input that is significant
+to the fair value measurement in its entirety. In determining the appropriate levels, the Company performs an analysis of the assets and
+liabilities at each reporting period end.
+The Company’s financial instruments
+consist of cash, accounts receivable, accounts payable, accrued interest, notes payable and, convertible debentures. The carrying amounts
+of these financial instruments are of approximate fair value due to either length of maturity or interest rates that approximate prevailing
+rates unless otherwise disclosed in these financial statements. The Company’s derivative liabilities are valued using option pricing
+models with Level 3 inputs.
+Sequencing
+Based upon ASC 815-15-25 Embedded
+Derivatives, the Company has adopted a sequencing approach regarding the application of ASC 815-40 Contracts in Entity's Own Equity
+to its outstanding convertible notes and warrants. Pursuant to the sequencing approach, the Company evaluates its contracts based
+upon the earliest issuance date.
+Note 3 – Inventory
+Inventory consists of the
+following components:
+Schedule of inventory
+December 31,
+December 31,
+2024
+2023
+Finished goods
+$197,355
+$48,325
+Raw materials
+–
+–
+Total Inventory
+$197,355
+$48,325
+F-12
+Note 4 – Business Combinations, Intangible Assets and Goodwill
+Original Acquisition
+On May 7, 2018, the Company purchased
+the assets of Stemtech International, Inc. (the “Former Parent Company”), out of a Chapter 7 Bankruptcy for $400,000 and purchase
+of a $4,000,000 note acquiring 100% of the issued and outstanding capital stock of Canada, Mexico, Stemtech Mexico, Stemtech New Zealand,
+Taiwan, Korea and Ecuador; and Stemtech Malaysia Holdings that owns two-thirds of its subsidiary Malaysia. In addition to the net tangible
+assets, the Company acquired various intangible assets including patent products, licenses and trademarks and customers and distribution
+lists. The estimated useful lives of the identifiable intangible assets range from six to fourteen years.
+The excess purchase price has been
+recorded as goodwill in the amount of $467,409 at December 31, 2024 and 2023. The estimated useful life of the identifiable intangible
+assets is six to fourteen years.
+LFR Acquisition
+In March 2023, the Company acquired
+100% of LFR, a research and development company with expertise in the formulation of products.
+The consideration paid was 2.4
+million shares of the Company with a fair value of $271,920. At the time of purchase, LFR’s liabilities exceeded its assets by $15,205,
+and the difference between the net tangible assets and the purchase price, being $287,125, was allocated to a non-compete agreement and
+will be amortized over 18 months.
+The following table summarizes
+the allocation of purchase price of the acquisition:
+Schedule of allocation of purchase price of the acquisition
+Tangible Assets Acquired:
+Allocation
+Cash and cash equivalents
+$2,171
+Inventory
+6,099
+Accounts payable and Accrued liabilities
+(23,475)
+Net Tangible Assets Acquired
+$(15,205)
+Intangible Assets Acquired:
+Non-compete Agreement
+287,125
+Total Fair Value of Assets Acquired
+$271,920
+Consideration:
+Common Stock
+271,920
+Goodwill
+$–
+F-13
+The components of all acquired
+intangible assets were as follows at December 31, 2024 and December 31, 2023:
+Schedule of acquired intangible assets
+December
+31, 2024
+December
+31, 2023
+Average
+Estimated Life (Years)
+Patent products
+$2,344,900
+$2,344,900
+14
+Trade names and trademarks
+1,106,000
+1,106,000
+Indefinite
+Customer/distribution list
+1,461,300
+1,461,300
+6
+Non-compete agreement
+287,125
+287,125
+18 months
+Accumulated amortization
+(2,823,168)
+(2,488,757)
+Total
+$2,376,158
+$2,710,568
+Estimated future amortization as of December 31, 2024 is as follows:
+Schedule of estimated future amortization
+Year ending December 31,
+2025
+$167,493
+2026
+167,493
+2027
+167,493
+2028
+167,493
+Thereafter
+1,664,309
+Total
+$2,334,281
+Intellectual
+Property
+The Company has two current patents
+filed in the US and 3 filed internationally, and as our research and development progresses, plan on filing more patents. Our current
+patent portfolio includes:
+·Patent US 9, 289, 375 – Skin Care Composition Containing Combinations of Natural Ingredients
+·Patent AU 201127647 – Methods and Composition for Enhancing Stem Cell Mobilization
+·Patent MX 344304 – Metodos y Composiciones para Mejorar las Celulas Madre
+·Patent US 10,159,705 – Methods and Composition for Enhancing Stem Cell Mobilization
+·Patent MX 358857 – Composiciones para el Cuidado de la Piel que Contienen Combinaciones de Ingredientes Naturales
+·Patent MX 358857 (part 1 of 3) - Composiciones para el Cuidado de la Piel que Contienen Combinaciones de Ingredientes Naturales
+·Patent MX 358857 (part 2 of 3) - Composiciones para el Cuidado de la Piel que Contienen Combinaciones de Ingredientes Naturales
+·Patent MX358857 (part 3 of 3) - Composiciones para el Cuidado de la Piel que Contienen Combinaciones de Ingredientes Naturales
+F-14
+Note 5 – Operating Lease Commitments
+On August 16,
+2021, the Company extended its office space lease with Sunbeam Properties Inc. to rent approximately 5,000 square feet of space
+in Miramar, Florida. The Company pays $9,027 per month in rent until the end of the extended lease September 30, 2024. The Company has
+sublet the space to a tenant who pays the Company $9,097 to occupy the space. The Company incurred lease expense for its operating leases
+of $0 and $70,820 for the years ended December 31, 2024 and 2023, respectively and Company’s remaining lease term relating
+to its operating lease terminates on September 30, 2024.
+Note 6 – Notes Payable and Convertible Debentures
+Schedule of notes payable
+as of:
+Schedule of notes payable
+December 31,
+December 31,
+2024
+2023
+Notes payable (1)
+$2,046,001
+$1,889,321
+Total Notes payable
+2,046,001
+1,889,321
+Convertible notes payable, net of discount (2)
+1,769,583
+1,596,960
+Total notes payable, net of discount of $2,046,001 and $1,889,321 as of December 31, 2024 and 2023, respectively
+$3,815,584
+$3,486,281
+On May 1, 2023, the Company amended
+its convertible promissory note with Sharing Services Global Corporation (“SHRG”), which is eventually assigned to American
+Pacific Bank - DSS wherein SHRG capitalized $222,556 of accrued interest and waived its conversion rights as per the original agreement,
+see below. The promissory note is no longer convertible and is included in the chart above with plain notes payable. As of December 31,
+2024 and 2023, the outstanding balance for the notes amounted to $1,349,915 and $1,278,325 respectively.
+On October 24, 2023 and November
+20, 2023, the Company entered into two notes with an investor for an aggregate principal balance of $450,000. The notes mature in March
+2025 and accrue interest at 12% per annum. There was $59,323 of accrued interest for these notes recorded in accounts payable and accrued
+expenses on the balance sheet as of December 31, 2024. As of December 31, 2024 and 2023, the outstanding balance for the notes amounted
+to $450,000 and $450,000 respectively.
+During the
+fiscal year concluding on December 31, 2021, the Company issued a cumulative total of $2,423,738 in convertible promissory notes to investors.
+These notes featured varying maturity dates spanning from nine months to three years, coupled with interest rates ranging from 8% to 12%
+per annum. In addition, the Company distributed 154,173 shares of common stock and granted warrants allowing the purchase of 2,400,000
+common stock shares at exercise prices spanning between $2.685 and $3.00 per share. The recorded value of both the common stock and warrants
+was attributed as a discount to the notes, valued at fair market value.
+In the second quarter of 2022,
+one of the notes held by investor MCUS LLC (“MCUS”) was extended by 60 days, until August 1, 2022. As part of the extension
+agreement, the Company issued 100,000 shares of common stock to the noteholder. Moreover, the conversion price of the note was reduced
+to the lower of (i) 50% of the lowest volume weighted average prices for common stock over the 30 trading days leading up to the conversion
+notice date and (ii) the Closing Price on the Closing Date, capped at $2.25. On August 18, 2022, this note was extended to September 30,
+2022, in exchange for 200,000 shares of common stock and in the fourth quarter of 2022, this note was once again extended, this time until
+May 31, 2023.
+F-15
+On July 13, 2022, another note
+held by investor Leonite Fund 1, LP (”Leonite”), was extended to September 1, 2022, in exchange for 183,780 warrants, 75,512
+common stock shares, and an increased principal amount of $70,833. The Company recognized $955,658 loss on extinguishment of this note.
+On September 8, 2022, the same note was further extended to May 26, 2023, accompanied by a rise in the interest rate from 10% to 18% per
+annum. The amendment of this note resulted in a recognized loss on extinguishment amounting to $252,429 (see Note 9 for other gain (loss)
+amounts on extinguishment in 2022).
+Throughout the third and fourth
+quarters of 2022, the Company issued a collective sum of $400,000 in convertible notes payable, net of discount, in several installments
+to MCUS and Leonite. These notes accrued interest varying from 10% to prime plus 8% per annum and possessed maturity dates nine months
+from their issuance. Additionally, the lenders received 95,115 warrants with an exercise price equivalent to the lower of $2.685 or 65%
+of the lowest traded price over the preceding 30 days, and 81,760 warrants with an exercise price equal to the lower of $2.685 or 50%
+of the Volume Weighted Average Price (“VWAP”) over the preceding 30 days. All the warrants issued were set to expire five
+years after their issuance date.
+In January 2023, the Company
+issued 5,266,763 upon the conversion of $263,000 in notes payable. Upon conversion and settlement of the derivative liability, the Company
+recognized a $318,678 gain on extinguishment.
+On February 28, 2023, the Company
+entered into a comprehensive settlement and exchange agreement concerning a Senior Secured Convertible Promissory Note with Leonite. Under
+this agreement, Leonite agreed to settle its outstanding liability and cancel its warrants in exchange for 10,648,152 common stock shares
+of the Company to purchase common stock at $0.05 per share. As the debt was settled, the Company recognized a loss on extinguishment worth
+$132,142 and owed $637,684 worth of common shares. In the second quarter of 2023, the Company issued 6,340,591 common shares, leaving
+a payable balance of 4,307,561 shares of common stock valued at $573,336, which is included in accounts payable and accrued expenses on
+the consolidated balance sheet as of June 30, 2023. On September 21, 2023, the Company issued the remaining 4,307,561 shares of common
+stock.
+On March 27, 2023, the Company
+executed an investment agreement with an institutional investor (“Holder”) for up to $7,000,000 through a convertible promissory
+note, share purchase agreement, and warrant agreement (the "2023 Note"). The 2023 Note, with a principal amount reaching up
+to $7,000,000, carried an original issue discount of 12% and was structured to be disbursed in four installments. These installments included
+a first disbursement of $1,000,000 on March 27, 2023, a second disbursement of $200,000 within three days after filing an S-1 registration
+statement, a third disbursement of $500,000 forty-five days after the effectiveness of the S-1 registration statement, and a fourth disbursement
+of $120,000 forty-five days after the third disbursement. The S-1 Registration Statement was filed on May 9, 2023. The 2023 Note bore
+an interest rate of seven percent (7%) per annum and could be redeemed by the Company at any time for an amount equivalent to one hundred
+twenty-five percent (125%) of the outstanding principal and interest on the Note. Additional disbursements were discretionary on the Holder's
+part and could be executed at any time. Should the Holder's broker decline custody of the issued securities, the Holder would have no
+obligation to adhere to the disbursement schedule, yet the option to make such disbursement would remain.
+On April 11, 2023, the Company
+amended its Promissory Note with MCUS, resulting in the conversion price being fixed at $0.05. Since the Promissory Note is not significantly
+different after the amendment, the note was treated using modification accounting. After eliminating the bifurcated derivative liability,
+the Company recorded a gain of $171,362 on settlement of derivative liabilities. On May 1, 2023, the Company partially settled its debt
+with MCUS by agreeing to issue 7,739,938 shares of common stock, of which 5,121,200 were issued, resulting in a loss on extinguishment
+of $79,212. The Company retains an obligation towards MCUS, entailing the issuance of 2,618,738 shares of common stock valued at $130,987,
+which is included in accounts payable and accrued expenses as of June 30, 2023. On August 11, 2023, the Company issued the remaining 2,559,600
+shares of common stock.
+Similarly, on May 1, 2023, the
+Company amended its convertible promissory note with SHRG, wherein SHRG capitalized $222,556 of accrued interest and waived its conversion
+rights as per the original agreement. However, this amendment was contingent upon the Company making a payment of $222,556 to SHRG, which
+was duly fulfilled in May 2023. This amendment was treated using extinguishment accounting which eliminated the bifurcated derivative
+liability and added additional debt discount resulted in a recorded gain of $557,793 on extinguishment (see Note 9 for other gain (loss)
+amounts on extinguishment in 2023).
+F-16
+As of December 31, 2024, the
+outstanding gross principal balance for the three convertible notes, net of discounts was $1,349,914, $0 and $0, and the remaining unamortized
+debt discount for each note was $0, $0, and $0, respectively
+As of December 31, 2023,
+the outstanding gross principal balance for the three convertible notes, net of discounts was $1,369,182,
+$227,778
+and $0,
+and the remaining unamortized debt discount for each note was $0,
+$0,
+and $0,
+respectively.
+As of December 31, 2022, the outstanding gross principal
+balance for the three convertible notes was $1,400,000, $267,082, and $639,068, and the remaining unamortized debt discount for each note
+was $1,259,825, $183,391, and $380,049, respectively.
+The aggregate balance of convertible notes payable, net
+of discount, as of December 31, 2024 and 2023 was $1,769,583 and $1,596,960, respectively.
+As of December 31, 2024, the company owed outstanding
+principal balance of convertible promissory notes $106,009 and $25,000 to its Chief Operating officer and President Mr. John W Meyer and
+Director Mr. Darryl V Green.
+Note 7 – Derivative Liabilities
+The Company issued debt instruments
+that consist of the issuance of convertible notes with variable conversion provisions. The conversion terms of the convertible notes are
+variable based on certain factors, such as the future price of the Company’s common stock, which gives rise to a derivative liability
+which is a non-cash liability. The number of shares of common stock to be issued is based on the future price of the Company’s common
+stock. The number of shares of common stock issuable upon conversion of the promissory note is indeterminate. Pursuant to ASC Subtopic
+815-15 Embedded Derivatives (“ASC 815-15”), the fair values of the variable conversion options and warrants and shares
+to be issued were recorded as derivative liabilities on the issuance date and revalued at each reporting period. Based upon ASC 840-15-25,
+the Company has adopted a sequencing approach regarding the application of ASC 815-40 to its outstanding convertible notes and warrants.
+Pursuant to the sequencing approach, the Company evaluates its contracts based upon the earliest issuance date.
+As of December 31, 2024
+and December 31, 2023, the Company had no derivative liabilities outstanding.
+Note 8 – Financing Arrangement
+- Factoring Liability
+During the year ended December
+31, 2024, the Company entered into various non-recourse agreements for the sale of future receipts for gross proceeds of $1,630,487, receiving
+$947,101 in cash, which provided the Company with the ability to convert its account receivables into cash.
+The Company accounts for these
+agreements as a financing arrangement, with the purchase price recorded as a liability and daily repayments made are a reduction of the
+liability. As of December 31, 2024, there was an outstanding balance of $673,611 compared to $143,944 as of December 31, 2023.
+F-17
+Note 9 – Stockholders’
+Deficit
+On May 5, 2023, the Company amended
+its articles of incorporation to increase the number of authorized shares of common stock of the Company to 400,000,000.
+Stock issuance for services and stock
+based compensation
+During the year ended December
+31, 2024, the Company issued 18,775,140 shares of common stock, to officers, employees and vendors for services valued at $746,374.
+During the years ended December
+31, 2024 and 2023, the Company also recognized $440,256 and $439,054, respectively, of expense relating to the vesting of common stock
+issued to the Company’s Chairman and CEO.
+For details of common stock
+issued in 2023 for services and acquisitions, see the Company’s Form 10-K for the year ended December 31, 2023.
+Note 10 – Related Parties
+Notes Payable and Accrued Interest – Related Parties
+Year Ended December 31, 2024
+During the year ended December 31, 2024, the Company entered into
+the following transactions with related parties:
+·During the year 2024, John W. Meyer, President and COO of the Company, provided a loan of $105,000
+to the Company.
+·On March 19, 2024, the Company issued 900,000 shares of common stock to the Chief Financial Officer as stock-based compensation in
+lieu of cash payments, at a fair value of $0.05 per share, totaling $45,000.
+·On the same date, the Company issued an aggregate of 5,000,000 shares of common stock to five directors (1,000,000 each), as stock
+compensation, at a fair value of $0.05 per share, totaling $150,000.
+·The Company recognized $440,256 in stock compensation expense during the period, related to awards previously granted to its Chairman
+and CEO, which are being amortized over 82 months.
+Year Ended December 31, 2023
+During the year ended December 31, 2023, the Company entered into
+the following related party transactions:
+·Issued 8,333,333 shares of common stock at $0.05 per share to its Chairman and CEO to settle $416,667 in accrued salary. The Company
+also amortized $439,054 of previously granted stock compensation to the Chairman and CEO (same 82-month amortization schedule as noted
+above).
+·Accrued $120,000 in salary payable to its President and COO.
+·Paid $10,500 in fees to its former CFO and accrued an additional $18,000 in unpaid fees as of December 31, 2023.
+·Issued 2,685,180 shares of common stock at $0.05 per share (valued at $134,259) and paid $7,500 in cash to the Company’s Corporate
+Secretary for legal services. Additionally, $3,500 in fees remained accrued.
+·Issued 3,663,636 shares of common stock to a board member in settlement of $150,000 in notes payable and $33,182 in accrued interest.
+F-18
+Note 11 – Segment and Geographic
+Information
+Operating segments are identified
+as components of an enterprise about which separate discreet financial information is available for evaluation by the chief operating
+officer, or chief executive officer, in making decisions on how to allocate resources and assess performance.
+The Company is operated and managed
+geographically, and management evaluates performance and allocates the Company’s resources on a geographic basis. Operating segments’
+measure of profitability is based on loss from operations. The accounting policies for the reportable operating segments are the same
+as for the Company taken as a whole. The Company has three reportable operating segments: North America (including its subsidiaries in
+United States and Canada), Latin America (including subsidiaries in Mexico and Ecuador) and Asia (including its subsidiaries in Malaysia
+and Taiwan.).
+Information about operating
+segments is as follows:
+Schedule of information about operating segments
+Year Ended December 31,
+2024
+2023
+Geographic Net Sales:
+Americas
+$2,168,270
+$1,675,992
+Latin America
+2,670,163
+3,065,274
+Asia
+215,257
+180,265
+Total Net Sales
+$5,053,690
+$4,921,531
+Cost of Goods Sold:
+Americas
+$400,415
+$308,607
+Latin America
+834,280
+638,898
+Asia
+91,649
+54,135
+Total Cost of Goods Sold:
+$1,326,344
+$1,001,640
+Operating Expenses:
+Americas
+$3,711,475
+$5,166,285
+Latin America
+2,155,873
+2,662,950
+Asia
+246,425
+315,202
+Total Operating Expenses
+$6,113,773
+$8,144,437
+Loss from operations:
+Americas
+$(1,943,618)
+$(3,798,900)
+Latin America
+(319,992)
+(236,574)
+Asia
+(122,817)
+(189,072)
+Total Loss from Operations
+$(2,386,427)
+$(4,224,546)
+Total Assets by Geographic Location
+Americas
+$3,123,445
+$3,451,192
+Latin America
+606,127
+163,830
+Asia
+48,908
+68,249
+Total Assets
+$3,778,480
+$3,683,271
+F-19
+Note 12 – Commitments and Contingencies
+Legal proceedings
+On August
+6, 2019, the former CEO (prior to the Company’s bankruptcy proceedings) filed a lawsuit against the Company’s subsidiary,
+Stemtech HealthSciences Corp., alleging unpaid salary and vacation pay related to a period prior to the current management team assuming
+control in 2018. The total claim is for approximately $267,000. The Company has filed a counterclaim against the former CEO and considers
+his claims to be without merit.
+As of December 31, 2024
+and 2023, the Company has accrued $267,000 related
+to this matter, which is included in accounts payable and accrued liabilities in the consolidated balance sheets. The Court dismissed
+the former CEO’s request for summary judgment on March 3, 2023; however, the litigation remains ongoing.
+Note 13 – Income Taxes
+Income taxes are accounted for
+under the liability method of accounting for income taxes. Under the liability method, future tax liabilities and assets are recognized
+for the estimated future tax consequences attributable to differences between the amounts reported in the financial statement carrying
+amounts of assets and liabilities and their respective tax bases. Future tax assets and liabilities are measured using enacted or substantially
+enacted income tax rates expected to apply when the asset is realized or the liability settled. The effect of a change in income tax rates
+on future income tax liabilities and assets is recognized in income in the period that the change occurs. Future income tax assets are
+recognized to the extent that they are considered more likely than not to be realized.
+The FASB has issued ASC 740 clarifies
+the accounting for uncertainty in income taxes recognized in an enterprise’s financial statements. This standard requires a company
+to determine whether it is more likely than not that a tax position will be sustained upon examination based upon the technical merits
+of the position.
+If the more-likely-than-not threshold
+is met, a company must measure the tax position to determine the amount to recognize in the financial statements.
+As a result of the implementation
+of this standard, the Company performed a review of its material tax positions in accordance with recognition and measurement standards
+established by ASC 740 and concluded that the tax position of the Company has not met the more-likely-than-not threshold as of December
+31, 2024.
+F-20
+The domestic and foreign
+components of loss before provision for income taxes were as follows:
+Schedule of domestic and foreign components of income
+Year Ended
+Year Ended
+December 31, 2024
+December 31, 2023
+Domestic
+$(3,386,541)
+$(4,994,976)
+Foreign
+(386,160)
+(437,003)
+Loss before provision for income taxes
+$(3,772,701)
+$(5,431,979)
+The reconciliation of income tax expense
+computed at the U.S. federal statutory rate to the income tax provision for the years ended December 31, 2024 and 2023 is as follows:
+Schedule of reconciliation of income tax expense
+Year Ended
+Year Ended
+December 31, 2024
+December 31, 2023
+Loss before income taxes
+$(3,772,701)
+$(5,431,979)
+Taxes benefits under statutory US tax rates
+(792,267)
+(1,140,716)
+Increase (decrease) in taxes resulting from:
+Change in valuation allowance
+(997,142)
+672,813
+Foreign tax rate differential
+68,863
+79,780
+Permanent differences
+1,779,553
+435,797
+State taxes
+(59,007)
+(47,674)
+Provision for income taxes
+$–
+$–
+Deferred income taxes reflect
+the net tax effects of temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and
+amounts used for income tax purposes. Significant components of the Company's deferred tax assets and liabilities consist of the following:
+Schedule of deferred taxes
+December 31, 2024
+December 31, 2023
+Deferred tax assets
+Net operating loss carryforwards
+$6,389,127
+$6,394,098
+Stock based compensation
+1,718,035
+2,098,976
+Intangibles
+(680,012)
+(70,768)
+Depreciation
+(3,973)
+(1,986)
+Other
+(27,130)
+(27,130)
+Total deferred tax assets
+7,396,047
+8,393,189
+Valuation allowance
+(7,396,047)
+(8,393,189)
+Net deferred tax assets (liabilities)
+$–
+$–
+At December 31, 2024, the
+Company had net operating loss (“NOL”) carryforwards of approximately $29.1
+million that may be offset against future taxable income. Of the $29.1 million in NOLs, approximately $25.6
+million relates to U.S. federal and state net operating losses, which are subject to limitations under Internal Revenue Code Section
+382. These U.S. NOLs are limited to 80% of taxable income in any given year but do not expire under current tax law. The remaining $3.5
+million relates to non-U.S. jurisdictions and may begin to expire in varying years depending on local regulations.
+F-21
+Note 14 – Subsequent Events
+Management of the Company has performed
+a review of events and transactions occurring after the consolidated balance sheet date to determine if there were any such events or
+transactions requiring adjustment to or disclosure in the accompanying consolidated financial statements, noting none other than the following:
+On November 30, 2024, the Company
+entered into a Merger Agreement with Seacret Direct, LLC (“Seacret”), a multi-level marketing firm specializing in health
+and lifestyle products. Pursuant to the agreement, the Company will acquire substantially all assets of Seacret, excluding certain specified
+assets, in exchange for 13,400,000 Preferred Shares valued at $2.50 per share, each convertible into 10 Common Shares. The closing of
+the transaction is subject to the completion of an audit of Seacret and other customary closing conditions. This transaction was previously
+disclosed in a Form 8-K filed on December 6, 2024.
+On March 6, 2025, the Company issued
+an aggregate of 5,000,000 shares of common stock to five directors in recognition of their services. Each director received 1,000,000
+shares. The fair value of the shares was $0.04 per share, resulting in total stock-based compensation expense of $150,000.
+On March 7,
+2025, the Company entered into a merchant cash advance agreement for a principal amount of $140,425. Under the terms of the agreement,
+the Company is required to make daily repayments of $1,170.20 over a term of 120 business days. The proceeds were used to support short-term
+working capital needs.
+On March 20,
+2025, the Company issued a $52,500 convertible promissory note to 1800 Diagonal Lending LLC for proceeds of $43,750. The note bears a
+one-time 10% interest charge, matures on January 30, 2026, and is repayable in ten monthly installments beginning April 30, 2025. The
+note includes standard default provisions and is convertible into common stock upon default.
+On March 20,
+2025, the Company issued another $76,500 promissory note to 1800 Diagonal Lending LLC for proceeds of $63,750. The note includes a one-time
+10% interest charge, matures on January 30, 2026, and is repayable in five scheduled installments beginning September 30, 2025. The note
+includes customary default provisions and may be converted into common stock upon default.
+F-22
+Item 9.
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A(T). Controls and Procedures.
+A.Disclosure Controls and Procedures
+As required by paragraph (b) of
+Rules 13a-15 or 15d-15 under the Securities Exchange Act of 1934, Stemtech’s principal executive officer and principal financial
+officer evaluated its disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) for the period
+covered by this annual report as of its fiscal year end, December 31, 2024. Based on this evaluation, this officer concluded that as of
+the end of the period, these disclosure controls and procedures were adequate to ensure that the information required to be disclosed
+by Stemtech in reports it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods
+specified in the rules and forms of the SEC and include controls and procedures designed to ensure that such information is accumulated
+and communicated to management, including Stemtech’s principal executive officer and principal financial officer, to allow timely
+decisions regarding required disclosure.
+An evaluation was conducted under
+the supervision and with the participation of management of the effectiveness of the design and operation of our disclosure controls and
+procedures as of December 31, 2024. Based on that evaluation, management concluded that Stemtech’s disclosure controls and procedures
+were adequate as of such date to ensure that information required to be disclosed in the reports that Stemtech files or submits under
+the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms. Such officer
+also confirmed that there was no change in Stemtech’s internal control over financial reporting during the fiscal year that has
+materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+B.Management’s Report on Internal Control over Financial Reporting
+Management is responsible for establishing
+and maintaining adequate internal control over Stemtech’s financial reporting. In order to evaluate the effectiveness of internal
+control over financial reporting, as required by Section 404 of the Sarbanes-Oxley Act, management has conducted an assessment, including
+testing, using the criteria in the Internal Control - Integrated Framework, issued by the Committee of Sponsoring Organizations of the
+Treadway Commission (“COSO”).
+Stemtech’s system of internal
+control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Based on Stemtech’s evaluation,
+its Chief Executive Officer and Chief Financial Officer concluded that Stemtech’s internal controls over financial reporting were
+not effective as of December 31, 2024 and were subject to material weaknesses.
+9
+A material weakness is a deficiency,
+or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material
+misstatement of the company’s annual or interim financial statements will not be prevented or detected on a timely basis. Management
+has identified the following material weaknesses in Stemtech’s internal control over financial reporting using the criteria established
+in the COSO:
+1.
+Failing to have an audit committee or other independent committee that is independent of management to assess internal control
+over financial reporting; and
+2. Failing to have a director that qualifies as an audit committee financial expert as defined in Item 407(d)(5)(ii) of Regulation S-K.
+3. Lack of segregation of duties consistent with control objectives.
+4.
+Insufficient written policies and procedures for accounting and financial reporting with respect to the requirements and applications
+of US GAAP and SEC disclosure requirements.
+Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. In addition, projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions and that the degree of
+compliance with the policies or procedures may deteriorate.
+This annual report does not include
+an attestation report of Stemtech’s independent registered public accounting firm regarding internal control over financial reporting.
+Stemtech’s internal control over financial reporting was not subject to attestation by Stemtech’s independent registered public
+accounting firm pursuant to temporary rules of the SEC that permit Stemtech to provide only management’s report in this annual report.
+C.Changes in Internal Control over Financial Reporting.
+During the year ended December 31, 2024,
+Stemtech’s internal control over financial reporting was not subject to changes.
+Item 9B. Other Information.
+During the year ended December
+31, 2024, no director or officer adopted or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as
+each term is defined in Item 408(a) of Regulation S-K.
+Insider Trading Policies and
+Procedures
+The Company has adopted
+insider trading policies and procedures that are reasonably designed to promote compliance with applicable securities laws and regulations.
+These policies apply to the Company’s directors, officers, employees, and the Company itself, and are intended to prevent trading
+in the Company’s securities while in possession of material nonpublic information.
+The policies include restrictions on trading
+during blackout periods, pre-clearance requirements for certain individuals, and provisions related to Rule 10b5-1 trading plans. The
+Company monitors compliance with these policies on an ongoing basis.
+Item 9C. Disclosure Regarding Foreign Jurisdictions
+that Prevent Inspections
+None.
+10
+PART III
+Item 10. Directors, Executive Officers,
+Promoters and Control Persons; Compliance with Section 16(A) of the Exchange Act.
+The following individuals serves
+as Directors and Executive Officers of the Company as of the date of this Annual Report. Directors of the Company hold office until the
+next annual meeting of our shareholders or until their successors have been elected and qualified. Executive officers of the Company are
+appointed by our board of directors and hold office until their death, resignation or removal from office.
+Name
+Position
+Age
+Held Position Since
+John W. Meyer
+Director, President & COO
+71
+August 19, 2021
+Charles S. Arnold
+Director, CEO
+74
+August 19, 2021
+John Thatch
+Director
+61
+September 17, 2021
+Benjamin Kaplan
+Director
+58
+September 17, 2021
+Darryl V. Green
+Director
+60
+September 17, 2021
+Srilakshmi Vadlapatla
+CFO
+40
+December 15, 2024
+Mr. Charles Arnold, Mr. Arnold’s
+ability to integrate marketing concepts and financial strategies play a pivotal role in the development of his clients’ businesses.
+In addition to developing start-up companies, he is responsible for placing more than $1 Billion into public and private companies with
+as much as $400 Million in a single transaction. Significant mergers and acquisitions have been accomplished through his network of financial
+specialists and professionals throughout the world. In 1993, Mr. Arnold was one of the original investors in pre-paid legal “PPD”
+(now Legal Shield). In 2001 he was engaged by National Health “LEXXUS”, and the company grew from under $1.00 to over $40
+and traded on the American stock exchange. Mr. Arnold feels that the direct sales marketing industry is an underserved market that deserves
+investors’ attention. Mr. Arnold believes that Stemtech has exceptional growth potential and sees this company’s bright future
+with innovative stem cell nutrition products and the business opportunity for our Independent Business Partners.
+Mr. John W. Meyer. With
+over 45 years’ business experience in logistics and management of projects, supply chain and staff, Mr. Meyer oversees operations
+for Stemtech’s global company. In fifteen years with Stemtech, he has supported openings of 51 national markets, serving as VP
+of Global Operations prior to his position as COO in 2016 and as President and COO since October 2021. Mr. Meyer is responsible for global
+management of the Company, including operations, inventory management, purchasing, transportation, as well as for global Human Resources,
+Partner Services, Training, Information Technology, global facilities and for global manufacturing of nutraceuticals, cosmetics, oral
+healthcare, ECO products and any new product development and quality assurance. He also is the executive sponsor and leader of the Life
+Sciences Advisory Board, the Field Advisory Board and the Business Advisory Board. Mr. Meyer graduated from the University of San Francisco
+with B.A. and M.A. degrees. He previously worked at Shaklee, Arbonne, and third-party logistics provider Menlo Worldwide – now
+a part of XPO Logistics.
+John “JT” Thatch,
+serves as Chief Executive Officer and Vice Chairman of Sharing Services Global Corporation a publicly traded company with over $100M in
+annual revenues. Mr. Thatch is an accomplished executive who has successfully started and operated businesses in various industries that
+include service companies, retail, wholesale, on-line learning, finance, real estate management and technology. From 2009 to 2016, Mr.
+Thatch served as Chief Executive Officer of Universal Education Group, in 2016 Mr. Thatch created Superior Wine and Spirits, LLC, a Florida-based
+wholesale distributor of wine and spirits. Prior to 2005, Mr. Thatch served as CEO of Orbital Energy Group, Inc. (“OEG”),
+a NASDAQ-listed company formerly known as OnScreen Technologies, Inc. Mr. Thatch currently serves on the board of directors of several
+other companies and is the lead independent director of Document Security Systems, Inc. (“DSS”), a NYSE listed company and
+is a current member of NACD.
+Benjamin Kaplan has been a successful
+entrepreneur and investor for over 20 years, with a particular focus on health, wellness and pharmaceutical companies. He currently serves
+as the CEO of Ehave, Inc., a leader in digital therapeutics delivering evidence-based therapeutic interventions to patients.
+Darryl V. Green is Founder and
+President of DVG Ventures & DVG Nutrition since 2014. He specializes in health and nutrition businesses and is a franchise strategist.
+For over 30 years, from 1983 – 2014, Mr. Green was with GNC Nutrition which included 20 years of corporate and franchise executive
+positions and over 10 years of various field positions encompassing all facets of retail operations across the United States.
+11
+All directors serve for terms of one
+year each and are subject to re-election at Annual Meeting of Shareholders, unless they earlier resign.
+There are no material proceedings
+to which any of our directors, officers or affiliates, any owner of record or beneficially of more than five percent of any class of our
+voting securities, or any associate of any such director, officer, affiliate, or security holder is a party adverse to us or any of our
+subsidiaries or has a material interest adverse to us or any of our subsidiaries.
+We have attempted and will continue
+to attempt to ensure that any transactions between we and our officers, directors, principal shareholders, or other affiliates have been
+and will be on terms no less favorable to us than could be obtained from unaffiliated third parties on an arm’s length basis.
+Involvement in Certain Legal Proceedings
+Except as noted herein or below, during
+the last ten (10) years none of our directors or officers have:
+(1)
+had any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer either
+at the time of the bankruptcy or within two years prior to that time;
+(2)  been convicted in a criminal proceeding or subject to a pending criminal proceeding;
+(3)  been
+subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction,
+permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities
+or banking activities; or
+(4)
+been found by a court of competent jurisdiction in a civil action, the Commission or the Commodity Futures Trading Commission to
+have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated.
+All of these filing requirements were
+satisfied by the Company’s officers, directors, and ten-percent holders.
+In making these statements, we
+have relied on the written representation of our Directors and Officers or copies of the reports that they have filed with the Commission.
+(b) Identify Significant Employees
+Charles S. Arnold, Chief Executive
+Officer – Mr. Arnold is dedicated full-time to Stemtech Corporation and plays a key role in strategic oversight and corporate
+direction. He also serves on the boards of other companies. Mr. Arnold does not receive a cash salary; instead, his compensation is provided
+in the form of shares of the Company’s common stock or debt instruments.
+John W. Meyer, President and Chief
+Operating Officer – Mr. Meyer devotes his full time to the business operations of the Company and is responsible for the day-to-day
+execution of corporate strategy and operations management.
+Srilakshmi Vadlapatla, Chief Financial
+Officer – Mrs. Vadlapatla also devotes her full time to the Company. She oversees the Company’s financial planning, reporting,
+and regulatory compliance functions.
+12
+(c) Family Relationships
+There are no family relationships
+among the directors, executive officers or persons nominated or chosen by our company to become directors or executive officers.
+(d) Involvement in Certain Legal Proceedings
+During the past 10 years, no Director,
+officer, or promoter of Stemtech has been:
+·a general partner or executive officer of any business against which any bankruptcy
+petition was filed, either at the time of the bankruptcy or two years prior to that time;
+·convicted in a criminal proceeding or named subject to a pending criminal proceeding
+(excluding traffic violations and other minor offenses);
+·subject to any order, judgment or decree, not subsequently reversed, suspended
+or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his
+involvement in any type of business, securities or banking activities;
+·subject to any order, judgment or decree, not subsequently reversed, suspended
+or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right of such person
+to engage in any activity as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor
+broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person
+of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director
+or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct
+or practice in connection with such activity, or to be associated with persons engaged in any such activity;
+·found by a court of competent jurisdiction in a civil action or by the SEC to have
+violated any Federal or State securities law, and the judgment in such civil action or finding by the SEC has not been subsequently reversed,
+suspended, or vacated;
+·found by a court of competent jurisdiction in a civil action or by the Commodity
+Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity
+Futures Trading Commission has not been subsequently reversed, suspended or vacated;
+·the subject of, or a party to, any Federal or State judicial or administrative
+order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of:
+any Federal or State securities or commodities law or regulation;
+or
+·any law or regulation respecting financial institutions or insurance companies
+including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary
+or permanent cease-and-desist order, or removal or prohibition order; or
+·any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+·the subject of, or a party to, any sanction or order, not subsequently reversed,
+suspended or vacated, of any self-regulatory organization, any registered entity, or any equivalent exchange, association, entity or organization
+that has disciplinary authority over its members or persons associated with a member.
+13
+(f) Nomination Procedure for Directors
+Stemtech does not have a standing
+nominating committee; recommendations for candidates to stand for election as directors are made by the board of directors. Stemtech has
+not adopted a policy that permits shareholders to recommend candidates for election as directors or a process for shareholders to send
+communications to the board of directors.
+(g) Audit Committee Financial Expert
+Stemtech has no financial expert.
+Management believes the cost related to retaining a financial expert at this time is prohibitive. Stemtech’s Board of Directors
+has determined that it does not presently need an audit committee financial expert on the Board of Directors to carry out the duties of
+the Audit Committee. Stemtech’s Board of Directors has determined that the cost of hiring a financial expert to act as a director
+of Stemtech and to be a member of the Audit Committee or otherwise perform Audit Committee functions outweighs the benefits of having
+a financial expert on the Audit Committee.
+(h) Identification of Audit Committee
+Stemtech does not have a separately
+designated standing audit committee. Rather, Stemtech’s entire board of directors perform the required functions of an audit committee.
+Currently, John W. Meyer our President and COO and Charles S. Arnold, our CEO are the only members of Stemtech’s audit committee,
+but they do not meet Stemtech’s independent requirements for an audit committee member. See “Item 13. (c) Director independence”
+below for more information on independence.
+(i) Code of Ethics
+Stemtech has adopted a financial
+code of ethics that applies to all its executive officers and employees, including its CEO and CFO. See Exhibit 14 – Code of Ethics
+for more information. Stemtech undertakes to provide any person with a copy of its financial code of ethics free of charge. Please contact
+Stemtech at (954) 715-6000 to request a copy of Stemtech’s financial code of ethics. Management believes Stemtech’s financial
+code of ethics is reasonably designed to deter wrongdoing and promote honest and ethical conduct; provide full, fair, accurate, timely
+and understandable disclosure in public reports; comply with applicable laws; ensure prompt internal reporting of code violations; and
+provide accountability for adherence to the code.
+Item 11. Executive Compensation
+We
+do not grant equity awards in anticipation of the release of material nonpublic information that is likely to result in changes to the
+price of our common stock, and we do not time the public release of such information based on award grant dates. During the last completed
+fiscal year, we did not grant any equity awards to a named executive officer or director within the period beginning four business days
+before and ending one business day after the filing of a periodic report on Form 10-Q or Form 10-K, or the filing or furnishing of a current
+report on Form 8-K. Further, we have not timed the disclosure of material nonpublic information for the purpose of affecting the value
+of executive compensation.
+The following table sets forth
+the compensation paid to our officers for the years ended December 31, 2024 and 2023. This information includes the dollar value of base
+salaries, bonus awards and number of stock options granted, and certain other compensation, if any. The compensation discussed addresses
+all compensation awarded to, earned by, or paid to named executive officers.
+Summary Compensation Table
+Stock
+All Other
+Name and Principal Position
+Year
+Salary
+Bonus
+Awards
+Compensation
+Total
+Charles S. Arnold
+2024
+$250,000
+$–
+440,256
+$–
+$690,256
+Director, CEO
+2023
+$250,000
+$–
+439,054
+$–
+$689,054
+John W. Meyer
+2024
+$120,000
+$–
+–
+$–
+$120,000
+President & COO
+2023
+$120,000
+$–
+–
+$–
+$229,526
+James S Cardwell
+2024
+$22,500
+$–
+–
+$–
+$22,500
+Former CFO
+2023
+$22,500
+$–
+$–
+$22,500
+Srilakshmi Vadlapatla, CFO
+2024
+$2,500
+$–
+–
+$–
+$2,500
+There are no stock option plans, retirement,
+pension, or profit-sharing plans for the benefit of Stemtech’s officers and directors.
+14
+Item 12. Security Ownership of
+Certain Beneficial Owners and Management and Related Stockholder Matters
+The table below sets forth information
+regarding the beneficial ownership of our common stock by (i) our directors and named executive officers (including persons who served
+as principal executive officer and principal financial officer during a portion of the fiscal year ended December 31, 2024) and all the
+named executives and directors as a group and (ii) any other person or group that to our knowledge beneficially owns more than five percent
+of our outstanding shares of common stock.
+The information contained in this table
+is as of April 15, 2025. At that date, we had 142,443,444 shares of common stock outstanding.
+A person is deemed to be a beneficial
+owner of shares if he has the power to vote or dispose of the shares. This power can be exclusive or shared, direct or indirect. In addition,
+a person is considered by SEC rules to beneficially own shares underlying options or warrants that are presently exercisable or that will
+become exercisable within sixty (60) days.
+Name of Beneficial Owner and address (1)
+Amount and Nature of Beneficial Ownership
+Percent of Ownership
+Named Executives and Directors
+Charles Arnold (2)
+18,240,016
+15.7%
+John W. Meyer
+1,644,302
+1.5%
+John Thatch (3)
+2,854,173
+2.5%
+Darryl V Green
+8,605,573
+7.4%
+Benjamin Kaplan (4)
+4,678,680
+4.1%
+All directors and Named Executive Officers as a group (5 persons)
+37,422,745
+31.7%
+Over 5% Shareholders
+Leviston Resources, LLC (6)
+12,875,748
+9.9%
+Over 5% Shareholders
+19,414,496
+15.5%
+*Less than 1%.
+(1)Addresses for all officers and directors are 4851 Tamiami Traill North, Suite 200, Naples, FL 34103.
+(2)Includes 1,765,090 indirect shares owned through a related party held by Crest Ventures LLC.
+(3)Includes shares underlying vested warrants of 1,400,00 issued by the Company and 154,173 indirect shares owned through a related
+party held by American Pacific Bancorp (DSS).
+(4)Includes shares 2,198,905 indirect shares owned through a related party held by Long Side Ventures LLC and 104,185 indirect shares
+owned by Triple Crown Consulting Inc.
+(5)Includes shares underlying vested warrants of 12,875,748 issued by the Company.
+Changes in Control
+None.
+15
+Item 13. Certain Relationships
+and Related Transactions. Director Independence
+Stemtech’s board of directors
+currently consists of John W. Meyer our President and COO, Charles S. Arnold, our CEO, John Thatch, Benjamin Kaplan and Darryl V. Green.
+Pursuant to Item 407(a)(1)(ii) of Regulation S-K of the Securities Act, Stemtech’s board of directors has adopted the definition
+of “independent director” as set forth in Rule 4200(a)(15) of the NASDAQ Manual. In summary, an “independent director”
+means a person other than an executive officer or employee of Stemtech or any other individual having a relationship which, in the opinion
+of Stemtech’s board of directors, would interfere with the exercise of independent judgement in carrying out the responsibilities
+of a director, and includes any director who accepted any compensation from Stemtech in excess of $200,000 during any period of 12 consecutive
+months with the three past fiscal years. Also, the ownership of Stemtech’s stock will not preclude a director from being independent.
+In applying this definition, Stemtech’s
+board of directors has determined that neither Messrs. Meyer nor Arnold qualifies as an “independent director” pursuant to
+the same rule.
+As of the date of the report, Stemtech
+did not maintain a separately designated compensation or nominating committee.
+Stemtech has also adopted this
+definition for the independence of the members of its audit committee. John W. Meyer our President &COO and Charles S. Arnold, our
+CEO are the sole members of Stemtech’s audit committee as a result of being the sole director. Stemtech’s board of directors
+has determined that neither Messrs. Meyer nor Arnold qualifies “independent” for purposes of Rule 4200(a)(15) of the NASDAQ
+Manual, applicable to audit, compensation and nominating committee members, and is “independent” for purposes of Section 10A(m)(3)
+of the Securities Exchange Act.
+Item 14. Principal Accountant Fees and Services.
+Audit Fees
+For the years ended December 31, 2024 and 2023, the
+aggregate fees billed by Bush & Associates, CPA were $47,500 and $60,000 respectively, plus any out-of-pocket costs.
+We do not use Bush & Associates,
+CPA for financial information system design and implementation. These services, which include designing or implementing a system that
+aggregates source data underlying the consolidated financial statements or generates information that is significant to our consolidated
+financial statements, are provided internally or by other service providers. We do not engage Bush & Associates CPA. to provide compliance
+outsourcing services.
+Effective May 6, 2003, the SEC
+adopted rules which require that before Bush & Associates CPA. is engaged by us to render any auditing or permitted non-audit related
+service, the engagement be:
+·approved by our board of directors who are capable of analyzing and evaluating financial information; or
+·entered into pursuant to pre-approval policies and procedures established by the
+board of directors, provided the policies and procedures are detailed as to the particular service, the board of directors is informed
+of each service, and such policies and procedures do not include delegation of the board of directors’ responsibilities to management.
+The board of directors pre-approves
+all services provided by our independent auditors. All of the above services and fees were reviewed and approved by the board of directors
+either before or after the respective services were rendered.
+16
+PART IV
+Item 15. Exhibits
+and Financial Statement Schedules.
+(a)(1) Financial Statements.
+The following consolidated financial statements of Stemtech Corporation are included in Item 8 of this Annual Report on Form 10-K:
+·Report of Independent Registered Public Accounting Firm
+·Consolidated Balance Sheets as of December 31, 2024 and 2023
+·Consolidated Statements of Operations and Comprehensive Loss for the years ended December 31, 2024 and 2023
+·Consolidated Statements of Changes in Stockholders’ Deficit for the years ended December 31, 2024 and 2023
+·Consolidated Statements of Cash Flows for the years ended December 31, 2024 and 2023
+·Notes to Consolidated Financial Statements
+(a)(2) Financial Statement Schedules.
+All schedules for which provision is made in Regulation S-X are either not required, not applicable, or the required information is included
+in the footnotes to the financial statements and therefore have been omitted from this Item 15.
+(a)(3) Exhibits.
+The exhibits listed below are filed as part of, or incorporated by reference into, this Annual Report on Form 10-K:
+·
+Exhibit 31.1Certification by the Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+·
+Exhibit 31.2Certification by
+the Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+·
+Exhibit 32.1Certification by
+the Principal Executive Officer pursuant to 18 U.S.C. 1350 (Section 906)
+·
+Exhibit 32.2Certification by
+the Principal Financial Officer pursuant to 18 U.S.C. 1350 (Section 906)
+·
+Exhibit 101Financial statements from the annual report on Form 10-K of Stemtech for the fiscal year ended December 31, 2023, formatted in XBRL:
+(i) the Audited Balance Sheets, (ii) the Audited Statements of Operations; (iii) the Audited Statements of Stockholders’ Deficit
+and Comprehensive Income, and (iv) the Audited Statements of Cash Flows.
+17
+SIGNATURES
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+Stemtech Corporation
+Date: June 30, 2025
+By:
+/s/ Charles S. Arnold
+Charles S. Arnold
+Title:
+Chief Executive Officer
+(Principal Executive Officer)
+Date: June 30, 2025
+By:
+/s/
+Srilakshmi Vadlapatla
+Srilakshmi Vadlapatla
+Title:
+Chief Financial Officer
+(Principal Financial Officer)
+18

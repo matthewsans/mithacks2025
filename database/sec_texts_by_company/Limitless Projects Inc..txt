@@ -1,0 +1,854 @@
+LIMITLESS PROJECTS INC. - Form 10-K SEC filing
+0001842167
+--07-31
+false
+2023
+FY
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+0001842167
+2022-08-01
+2023-07-31
+0001842167
+2023-07-31
+0001842167
+2023-01-31
+0001842167
+2025-09-09
+0001842167
+2022-07-31
+0001842167
+2021-08-01
+2022-07-31
+0001842167
+us-gaap:CommonStockMember
+2022-08-01
+2023-07-31
+0001842167
+us-gaap:AdditionalPaidInCapitalMember
+2022-08-01
+2023-07-31
+0001842167
+us-gaap:RetainedEarningsMember
+2022-08-01
+2023-07-31
+0001842167
+us-gaap:NoncontrollingInterestMember
+2022-08-01
+2023-07-31
+0001842167
+2021-07-31
+0001842167
+us-gaap:CommonStockMember
+2021-07-31
+0001842167
+us-gaap:AdditionalPaidInCapitalMember
+2021-07-31
+0001842167
+us-gaap:RetainedEarningsMember
+2021-07-31
+0001842167
+us-gaap:NoncontrollingInterestMember
+2021-07-31
+0001842167
+us-gaap:CommonStockMember
+2021-08-01
+2022-07-31
+0001842167
+us-gaap:AdditionalPaidInCapitalMember
+2021-08-01
+2022-07-31
+0001842167
+us-gaap:RetainedEarningsMember
+2021-08-01
+2022-07-31
+0001842167
+us-gaap:NoncontrollingInterestMember
+2021-08-01
+2022-07-31
+0001842167
+us-gaap:CommonStockMember
+2022-07-31
+0001842167
+us-gaap:AdditionalPaidInCapitalMember
+2022-07-31
+0001842167
+us-gaap:RetainedEarningsMember
+2022-07-31
+0001842167
+us-gaap:NoncontrollingInterestMember
+2022-07-31
+0001842167
+us-gaap:CommonStockMember
+2023-07-31
+0001842167
+us-gaap:AdditionalPaidInCapitalMember
+2023-07-31
+0001842167
+us-gaap:RetainedEarningsMember
+2023-07-31
+0001842167
+us-gaap:NoncontrollingInterestMember
+2023-07-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Fiscal Year Ended July 31, 2023
+Or
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______ to _______
+Commission file number 000-56462
+LIMITLESS PROJECTS INC.
+(Name of Registrant as Specified in Its Charter)
+Wyoming
+85-3964614
+(State or other jurisdiction of incorporation)
+(IRS Employer Identification Number)
+Shiriki House Office Community, 3rd Floor Westside Towers
+Lower Kabete Road, Westlands Nairobi, Kenya 00100
+(Address of principal executive offices) (Zip Code)
+(702) 605-4080
+(Issuer’s Telephone Number, Including Area Code)
+Securities registered under Section 12(b) of the Exchange Act:
+None
+Securities registered under Section 12(g) of the Exchange Act:
+Common Stock, Par value $0.001 per share
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. ☐ Yes   ☒ No
+Indicate by checkmark if the registrant is not required to file reports pursuant to Section 13 or 15(d) Of the Act. ☐ Yes   ☒ No
+Indicate by check mark whether the issuer: (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ☐ Yes   ☒ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files) ☒ Yes   ☐ No
+i
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes   ☒ No
+The aggregate market value of voting and non-voting common equity held by non-affiliates as of was $20,800 based on the price at which the common stock was last sold prior to the last business day of the registrant’s most recently completed second fiscal quarter.
+Number of common shares outstanding as of September 9, 2025 was 100,608,200.
+ii
+Table of Contents
+PART I
+1
+Item 1. Business.
+1
+Item 1A. Risk Factors.
+6
+Item 1B. Unresolved Staff Comments.
+6
+Item 2. Properties.
+6
+Item 3. Legal Proceedings.
+6
+Item 4. Mine Safety Disclosures.
+6
+PART II
+6
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+7
+Item 6. Selected Financial Data.
+7
+Item 7. Management’s Discussion and Analysis of our Financial Conditions and Results of Operations.
+7
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+9
+Item 8. Financial Statements and Supplementary Data
+9
+Item 9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure.
+10
+Item 9A. Controls and Procedures.
+10
+Item 9B. Other Information.
+11
+PART III
+11
+Item 10. Directors, Executive Officers, and Corporate Governance.
+11
+Item 11. Executive Compensation.
+12
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+12
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+13
+Item 14. Principal Accountant Fees and Services.
+13
+Item 15. Exhibits and Financial Statement Schedules.
+14
+SIGNATURES
+15
+iii
+PART I
+NOTE REGARDING FORWARD LOOKING STATEMENTS
+CAUTIONARY STATEMENT FOR PURPOSES OF THE “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+This Annual Report contains historical information as well as forward-looking statements. Statements looking forward in time are included in this Annual Report pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve known and unknown risks and uncertainties that may cause our actual results in future periods to be materially different from any future performance suggested herein. We wish to caution readers that in addition to the important factors described elsewhere in this Form 10-K, the following forward-looking statements, among others, sometimes have affected, and in the future could affect, our actual results and could cause our actual results during 2023 and beyond, to differ materially from those expressed in any forward-looking statements made by or on our behalf.
+Item 1. Business.
+Business Overview
+We were incorporated on November 18, 2020 under the laws of the state of Wyoming. We are involved in the development of computer software systems and mobile device applications for commercial and consumer use. We retain independent computer software and application developers to develop our products to the specifications that we outline. Our president, Daniel Okelo, is responsible for developing the product concepts that the independent developers subsequently design.
+We are currently developing employee monitoring software that balances employer concerns regarding employee efficiency and productivity with employee privacy known as “Privacy and Value”. Our intention is to sell this product to third parties who will sell the software to customers rather than become involved in the sales and marketing of this product ourselves.
+WarpSpeedTaxi Application
+We were previously involved in the development of a ride-hailing and food delivery computer and mobile device application known as “WarpSpeedTaxi”, which we were developing through our subsidiary, WarpSpeed Taxi Inc. (“WarpSpeed”).
+On September 6, 2022, WarpSpeed entered into a debt settlement agreement with Global Corporate Structural Services Inc. (“GCSS”), a private company that has provided us with marketing, beta testing, cloning, and maintenance services in connection with the WarpSpeed Taxi computer application. Pursuant to the debt settlement agreement, WarpSpeed acknowledged that it owed $135,430.95 to GCSS for its services as of July 31, 2022.
+On September 15, 2022, WarpSpeed entered into a final settlement agreement with GCSS whereby it agreed to transfer its 100% interest in the WarpSpeed Taxi application to GCSS in full and final satisfaction of the debt owed to GCSS and any other claims that GCSS has against WarpSpeed. However, WarpSpeed will retain a license for the sole and exclusive use of the WarpSpeed Taxi application in the United States.
+On June 11, 2025, we entered into a stock purchase and sale agreement with Ulixe One Corp., a Wyoming corporation, whereby we sold our 115,000,000 shares of common stock in the capital of WarspSpeed Taxi Inc. for $11,500. Accordingly, we no longer have any interest in WarpSpeed Taxi Inc.
+Privacy and Value Employee Monitoring Software
+We also commenced developing employee monitoring software known as “Privacy and Value” in December 2020 shortly after our incorporation. Our goal is to develop a software product that balances employer concerns regarding employee efficiency and productivity with employee privacy. We will retain all interest in the intellectual property relating to the Privacy and Value software unless we subsequently sell those rights.
+As companies are increasingly attempting to meet the demands of employees that want work environment flexibility and are forced to avoid employee congregation in response to the current global Covid-19 pandemic, they are retaining
+1
+staff that either work from home or they rely on outsourcing to retain employees and independent contractors in other countries. One of the primary concerns with having staff work in a separate location that removes them from the daily, direct oversight of management is that employee productivity will suffer. One of the responses to this concern is for businesses to use some form of worker surveillance in order to ensure that employees are utilizing their work time efficiently. However, businesses may face pushback from their staff due to concerns that their personal privacy is compromised when they are subject to constant monitoring during work hours. They may resist practices such as webcam surveillance or persistent computer screen observation.
+To address employer concerns regarding staff efficiency and employee concerns regarding privacy, we intend to develop the Privacy and Value software that has features to monitor worker computer productivity while providing employees with reasonable privacy during their work days. The intended features of the software are as follows:
+·the software will monitor the employees’ computer desktops while they are actually working on the system. Surveillance will commence when an employee logs on to his or her computer through our software and will continue until the employee logs out of the system. After an employee signs out of the software, recording and monitoring will cease and the employee can access his or her computer contents and the Internet for personal purposes;
+·when the employee is logged in, the software will allow management to maintain real-time access to employee activity and to view each employee’s desktop screen content and the keystrokes that the employee is typing. All of this information will also be recorded and stored for future management use with all information time stamped. The file name for each day’s recording will be the employee’s first name, last name, and the year, month, and day, which will allow a manager to identify the appropriate recording without difficulty; and
+·based on employee actions, the software will calculate the amount of time that the employee was logged into the system based on a searchable time period (e.g., a shift, a week, or a month). It will also indicate the length of various time periods during which the employee did not make any keystrokes on his or her computer and allow the manager to quickly access the recording of employee’s desktop at the times when keystrokes commenced and stopped. The software will also provide details of the length of each break that the employee takes during the work period analyzed. It will also have tools that the manager can use, in tabular and graphic form, to compare the efficiency of employees in terms of keystrokes and time logged in to their computer.
+Management entered into an Asset Purchase and Joint Venture Agreement dated March 15, 2021, as amended, with Cyber Apps World, Inc. (“Cyber Apps”). Under this agreement, upon completing the sale of a 50% interest in the Privacy and Value software to Cyber Apps, the parties will establish a single-purpose joint venture dedicated to completing, testing, marketing, and selling the software. The joint venture will be overseen by a management committee, with each party appointing one member and those two members jointly selecting an independent third member to serve on the committee. Cyber Apps World, Inc., a reporting company, has agreed to purchase a 50% interest in the Privacy and Value software for
+1.$10,000 upon execution of the agreement, which has been paid; and
+2.an amount equal to the estimation of the value of the 50% interest in Privacy and Value based upon an independent business valuation, less the $10,000 payment, which amount shall be no less than $50,000 and no more than $250,000 and was due by June 15, 2021.
+The management obtained an independent valuation of the Privacy and Value software in its present form of development that estimated its value at approximately $2,200,000. Accordingly, the amount that was due from Cyber Apps to Limitless Projects Inc. under the Asset Purchase and Joint Agreement was $250,000.
+The management entered into agreements with Cyber Apps whereby they each will transfer 50,000,000 of our shares, for a total of 100,000,000 to Cyber Apps and its principals for a cash payment of $250,000 that was due on June 15, 2021. Cyber Apps did not make the $250,000 payment by the deadline date of June 15, 2021 and the agreement has been terminated.
+2
+EMERGING GROWTH COMPANY STATUS
+Because we generated less than $1 billion in total annual gross revenues during our most recently completed fiscal year, we qualify as an “emerging growth company” under the Jumpstart Our Business Startups (“JOBS”) Act.
+We will lose our emerging growth company status on the earliest occurrence of any of the following events:
+1.on the last day of any fiscal year in which we earn at least $1 billion in total annual gross revenues, which amount is adjusted for inflation every five years;
+2.on the last day of the fiscal year of the issuer following the fifth anniversary of the date of our first sale of common equity securities pursuant to an effective registration statement;
+3.on the date on which we have, during the previous 3-year period, issued more than $1 billion in non-convertible debt; or
+4.the date on which such issuer is deemed to be a ‘large accelerated filer’, as defined in section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.
+A “large accelerated filer” is an issuer that, at the end of its fiscal year, meets the following conditions:
+1.it has an aggregate worldwide market value of the voting and non-voting common equity held by its non-affiliates of $700 million or more as of the last business day of the issuer’s most recently completed second fiscal quarter;
+2.It has been subject to the requirements of section 13(a) or 15(d) of the Act for a period of at least twelve calendar months; and
+3.It has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act.
+As an emerging growth company, exemptions from the following provisions are available to us:
+1.Section 404(b) of the Sarbanes-Oxley Act of 2002, which requires auditor attestation of internal controls;
+2.Section 14A(a) and (b) of the Securities Exchange Act of 1934, which require companies to hold shareholder advisory votes on executive compensation and golden parachute compensation;
+3.Section 14(i) of the Exchange Act (which has not yet been implemented), which requires companies to disclose the relationship between executive compensation actually paid and the financial performance of the company;
+4.Section 953(b)(1) of the Dodd-Frank Act (which has not yet been implemented), which requires companies to disclose the ratio between the annual total compensation of the CEO and the median of the annual total compensation of all employees of the companies; and
+5.The requirement to provide certain other executive compensation disclosure under Item 402 of Regulation S-K. Instead, an emerging growth company must only comply with the more limited provisions of Item 402 applicable to smaller reporting companies, regardless of the issuer’s size.
+Pursuant to Section 107 of the JOBS Act, an emerging growth company may choose to forgo such exemption and instead comply with the requirements that apply to an issuer that is not an emerging growth company. We have elected under this section of the JOBS Act to maintain our status as an emerging growth company and take advantage of the JOBS Act provisions relating to complying with new or revised accounting standards under Section 102(b)(1) of the JOBS Act.
+COMPETITION
+The software and computer application development business is extremely fragmented and competitive. The sector includes large, established corporations that develop their products in-house and have the capability and financial
+3
+resources necessary in order to launch and market their products, as well as large custom software development companies that design products according to client specifications, such as Praxent, Orases, 10Pearls, Fingent, Tack Mobile, and Mercury Development. Additionally, there are smaller niche market participants that focus on a single or small number of products that are well-tailored to specific commercial or consumer demands. Many of these competitors have international operations and are able to not only compete in terms of software quality, but also based on price given their access to software development talent in developing countries, such as India, where skilled labor is less expensive.
+Our competitors will have greater financial resources and may be able to develop software and computer application products that have better design qualities and features than the ones that we develop. We may be unable to compete effectively with these existing or new competitors, which could have a material adverse effect on our financial condition and results of operations.
+Our ability to compete with other companies in the sector will depend on our success in retaining skilled independent contractors to complete the development of our software and computer application projects. As well, our ability to generate sales will greatly depend on our president’s ability to identify software and application concepts that are attractive to potential purchasers and ultimately to the businesses and consumers that will use them.
+COMPLIANCE WITH GOVERNMENT REGULATIONS
+We will be subject to a wide variety of laws and regulations in the United States and other jurisdictions. These laws, regulations, and standards govern issues such as consumer protection and privacy, data usage, data integrity, cybersecurity, worker confidentiality, and intellectual property. These regulations are often complex and subject to varying interpretations, in many cases due to their lack of specificity, and as a result, their application in practice may change or develop over time through judicial decisions or as new guidance or interpretations are provided by regulatory and governing bodies, such as federal, state, and local administrative agencies.
+Privacy, Data Storage, and Data Usage
+In 2018, the European Union adopted measures to improve cybersecurity and data privacy practices by passing the General Data Protection Regulation to hold organizations liable for poor practices. The Regulation requires organizations to implement appropriate technical and organizational measures to ensure ongoing confidentiality, integrity, availability, and resilience of processing systems and services. Any company that fails to comply with the Regulation may be subject to a regulatory enforcement actions, which can result in monetary penalties of up to 4% of worldwide revenue. Similar laws are now in effect in countries such as Australia, Japan, Brazil, and South Korea, among others. While the United States has not adopted federal data security laws, it is likely that it will in the future. Although it is the companies that purchase our software, and in some instances, their customers who will be responsible for compliance with these laws and regulations, such enactments will impact our software design since we will be expected to develop software that allows companies to meet regulatory requirements.
+The users of the Privacy and Value software can use our products to collect, use, and store personal or identifying information regarding their customers and employees. Federal, state and foreign government bodies and agencies have adopted, are considering adopting or may adopt laws and regulations regarding the collection, use, storage and disclosure of personal information obtained from individuals. While there is no comprehensive federal law that governs data privacy in the United States, the Federal Trade Commission (“FTC”) has jurisdiction over commercial entities to prevent deceptive trade practices. The FTC has the authority to take action against companies that fail to implement and maintain reasonable data security measures, fail to follow a privacy policy that they have adopted, or transfer or sell personal information. When the FTC has held that companies have failed to protect user privacy, they have often imposed substantial fines. For example, in 2019, the FTC fined Facebook $5 billion for deceiving website users about their ability to control the privacy of their personal information.
+In June 2018, California passed the California Consumer Privacy Act (“CCPA”), which provides new data privacy rights for consumers and new operational requirements for companies, which became effective in 2020. These duties include informing data subjects when and how data is collected and giving them the ability to access, correct, and delete such information. The CCPA creates a private right of action that could lead to consumer class actions and other litigation with statutory damages of up to $750 per violation. The California Attorney General will also maintain authority to enforce the CCPA and will be permitted to seek civil penalties for intentional violations of the CCPA of up to $7,500 per violation.
+4
+New York has adopted similar legislation, known as the SHIELD Act, which requires any person or business owning or licensing computerized data that includes the private information of a resident of New York to implement and maintain reasonable safeguards to protect the security, confidentiality and integrity of the private information. Violators may be liable for a civil penalty of up to $5,000 dollars per violation.
+Surveillance
+Our Privacy and Value software will allow employers to monitor the work that employees conduct on their computers. The United States Electronic Communications Privacy Act of 1986 (“ECPA”) allows business owners to monitor all employee verbal and written communication as long as the company can present a legitimate business reason for doing so. This ability for companies to monitor their workers extends to employee use of company devices, such as a computer. However, it is unclear how these provisions may apply to situations in which an employee works from home or uses his or her own personal computer for a combination of work and non-work tasks. Customers that use our software must ensure that they comply the ECPA provisions and also be aware of specific state constitutional laws in California, Florida, Louisiana and South Carolina that guarantee resident rights to privacy and may require notice of monitoring to employees. While it would be our customers rather than us that must ensure compliance with surveillance laws, our business may be adversely impacted if potential customers are reluctant to purchase Privacy and Value software due to these legal concerns. Individuals who violate ECPA provisions face up to five years in prison and fines up to $250,000. Victims are also entitled to bring civil suits and recover actual damages, in addition to punitive damages and attorney’s fees, for violations.
+Intellectual Property Laws
+We do not have any trademark protection of the Privacy and Value name and logo or any other intellectual property protection of the Privacy and Value software. Without assessing whether we hold copyrights to the programming code that is included in the product we are developing or whether we may be violating intellectual property that others hold, we bear the risk that someone could either copy the software that we have developed or that we may be liable to a third-party for violating their intellectual property rights. While copyright protection of software is effective upon creation of the works, lack of copyright registration makes it more difficult for us to prove our ownership of the software we develop. If we are held to have infringed on the copyrighted work of others, we may have to pay damages to the copyright holder that may represent the gains that we realized from infringing the patent or possibly a much greater amount. The copyright holder is typically granted a permanent injunction that would prevent an infringing company from continuing to sell or license its software products.
+EMPLOYEES
+We have no employees as of the date of this prospectus. We have retained independent contractors to complete the development of our Privacy and Value software.
+RESEARCH AND DEVELOPMENT EXPENDITURES
+We have not incurred any research or development expenditures since our incorporation.
+SUBSIDIARIES
+We own a 50% interest in Privacy and Value Inc., a Wyoming corporation that holds all of the assets relating to the Privacy and Value employee monitoring software.
+PATENTS AND TRADEMARKS
+We do not own, either legally or beneficially, any patents or trademarks.
+DESCRIPTION OF PROPERTY
+We do not own any interest in real property.
+5
+Item 1A. Risk Factors.
+Not applicable.
+Item 1B. Unresolved Staff Comments.
+None.
+Item 2. Properties.
+We do not own any interest in real property.
+Item 3. Legal Proceedings.
+None.
+Item 4. Mine Safety Disclosures.
+None.
+6
+PART II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Our shares of common stock do not trade on any recognized stock exchange or quotation system. We have retained a market maker that has filed an application on our behalf to commence trading on OTC Markets. However, there is no guarantee that FINRA will approve the application and that a trading market will develop for our shares.
+As of September 9, 2021, there were approximately 37 beneficial owners of record of our common stock.
+Holders of common stock are entitled to receive such dividends as may be declared by the Board of Directors out of funds legally available therefore and, in the event of liquidation, to share pro rata in any distribution of our assets after payment of liabilities. The Board of Directors is not obligated to declare a dividend. We have not paid any dividends and we do not have any current plans to pay any dividends.
+Securities Authorized for Issuance under Equity Compensation Plans
+None.
+Item 6. Selected Financial Data.
+Not applicable.
+Item 7. Management’s Discussion and Analysis of our Financial Conditions and Results of Operations.
+Introduction
+We were incorporated on November 18, 2020 under the laws of the State of Wyoming.
+Results of Operations for the year-ended July 31, 2023
+From August 1, 2021 to our fiscal year end of July 31, 2023, we earned a total of $0 in revenue from customer subscriptions for the Privacy and Value software. During the fiscal year ended July 31, 2023, we incurred a consolidated net loss of $155,567 consisting entirely of general and administrative expenses.
+We have not attained profitable operations and are dependent upon obtaining financing to complete our proposed business plan. For these reasons our auditors believe that there is substantial doubt that we will be able to continue as a going concern.
+Our financial statements have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments relating to the recoverability and realization of assets and classification of liabilities that might be necessary should we be unable to continue in operation.
+Liquidity and Capital Resources
+As of July 31, 2023, our current assets of $25,032 consisted of $32 in cash and $25,000 in prepayments and deposits our total liabilities were $476,751, which consisted of accounts payable of the WarpSpeed Taxi application and the Privacy and Value software. We expect we will require additional capital to meet our long term operating requirements. We expect to raise additional capital through, among other methods, the sale of equity or debt securities.
+Cash Flows from Operating Activities
+We have not generated positive cash flows from operating activities. For the fiscal year ended July 31, 2023, net cash flows used in operating activities were ($70,259) consisting of a consolidated net loss of $155,567, software impairment of $51,202, accumulated depreciation of $1,086 for the period, which was offset changes in accounts receivable of $0, accounts payable and accrued liabilities of $33,021, as well as prepayments and deposits of $0 and the write-off of a note receivable of $0.
+7
+Cash Flows from Financing Activities
+We have financed our operations exclusively through the sale of our common stock. For the fiscal year ended July 31, 2023, net cash from financing activities was $57,000.
+Cash Flows from Investment Activities
+For the fiscal year ended July 31, 2023, our cash flows used in investing activities were $0, which consisted of the purchase costs of fixed assets and software related to the development and sale of the Privacy and Value computer monitoring software and the WarpSpeed Taxi computer application.
+We have not attained profitable operations and are dependent upon obtaining financing to pursue exploration activities. For these reasons, there is substantial doubt that we will be able to continue as a going concern
+Since our incorporation, we have financed our operations through proceeds from the sale of our common stock. We expect to finance operations through the sale of equity for the foreseeable future, as we do not receive significant revenue from our business operations. There is no guarantee that we will be successful in arranging financing on acceptable terms.
+Our ability to raise additional capital is affected by trends and uncertainties beyond our control. We do not currently have any arrangements for financing and we may not be able to find such financing if required. Obtaining additional financing would be subject to a number of factors, including investor sentiment. Market factors may make the timing, amount, terms or conditions of additional financing unavailable to us.
+Our auditors are of the opinion that our continuation as a going concern is in doubt. Our continuation as a going concern is dependent upon continued financial support from our shareholders and other related parties.
+Critical Accounting Policies
+Our discussion and analysis of its financial condition and results of operations are based upon our financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America.
+Off-Balance Sheet Arrangements
+As of the date of this annual report, we do not have any off balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+Use of Estimates
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates and judgments, including those related to revenue recognition, inventories, adequacy of allowances for doubtful accounts, valuation of long-lived assets and goodwill, income taxes, litigation and warranties. We base its estimates on historical and anticipated results and trends and on various other assumptions that we believe are reasonable under the circumstances, including assumptions as to future events. The policies discussed below are considered by management to be critical to an understanding of our financial statements. These estimates form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent degree of uncertainty. Actual results may differ from those estimates.
+Property and Equipment
+Property and equipment are recorded at cost. Depreciation of property and equipment are accounted for by accelerated methods over the following estimated useful lives:
+8
+Evaluation of Long-Lived Assets
+We review property and equipment for potential impairment whenever significant events or changes in circumstances indicate the carrying value may not be recoverable in accordance with the guidance in ASC 360-15-35 “Impairment or Disposal of Long-Lived Assets”. An impairment exists when the carrying amount of the long-lived assets is not recoverable and exceeds its fair value. The carrying amount of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. If an impairment exists, the resulting write-down would be the difference between the fair market value of the long-lived asset and the related net book value.
+Income Taxes
+Deferred income tax assets or liabilities are computed based on the temporary differences between the financial statement and income tax bases of assets and liabilities using the statutory marginal income tax rate in effect for the years in which the differences are expected to reverse. Deferred income tax expenses or credits are based on the changes in the deferred income tax assets or liabilities from period to period. A valuation allowance against deferred tax assets is required if, based on the weight of available evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized. The valuation allowance should be sufficient to reduce the deferred tax asset to the amount that is more likely than not to be realized.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+Not applicable.
+Item 8. Financial Statements and Supplementary Data
+Index to the Financial Statements
+Report of Independent Registered Public Accounting Firm
+F-1
+Consolidated Balance Sheet as at July 31, 2023 and 2022
+F-2
+Consolidated Statement of Comprehensive Loss for the Year Ending July 31, 2023 and 2022
+F-3
+Consolidated Statement of Stockholders’ Equity for the Year Ending July 31, 2023 and 2022
+F-4
+Consolidated Statement of Cash Flow for the Year Ending July 31, 2023 and 2022
+F-5
+Notes to the Audited Consolidated Financial Statements
+F-6
+9
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The Board of Directors and Stockholders of Limitless Projects Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Limitless Projects Inc. (the ‘Company’) as of July 31, 2023 and 2022, and the related consolidated statements of operations, comprehensive income, changes in stockholders’ equity and cash flows for period ended July 31, 2023 and 2022, and the related notes (collectively referred to as the “financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the consolidated financial position of the Company as of July 31, 2023 and 2022, and the results of its operations and its cash flows for each of the period ended July 31, 2023 and 2022, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2, the Company suffered an accumulated deficit of $774,504. These matters raise substantial doubt about the Company’s ability to continue as a going concern. Management’s plans with regards to these matters are also described in Note 2 to the financial statements. These financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. Communication of critical audit matters does not alter in any way our opinion on the financial statements taken as a whole and we are not, by communicating the critical audit matters, providing separate opinions on the critical audit matter or on the accounts or disclosures to which they relate. There was no Critical Audit Matter to be communicated.
+/s/ Lateef Awojobi
+LAO Professionals (PCAOB: 7057)
+Lagos, Nigeria
+We have served as the Company’s auditor since 2024.
+August 4, 2025
+F-1
+LIMITLESS PROJECTS INC.
+CONSOLIDATED BALANCE SHEET
+(Audited)
+July 31,
+2023
+July 31,
+2022
+$
+$
+ASSETS
+Current assets:
+Cash
+32
+13,291
+Prepayment & deposits
+25,000
+25,000
+Total current assets:
+25,032
+38,291
+Fixed assets:
+Software
+307,782
+373,629
+Office Equipment
+18,988
+5,427
+Total Fixed assets:
+326,770
+379,056
+Total Assets:
+351,802
+417,347
+LIABILITIES AND STOCKHOLDER’S EQUITY
+Current liabilities:
+Accounts payable and accrued liabilities
+476,750
+443,728
+Total current liabilities:
+476,750
+443,728
+Total Liabilities:
+476,750
+443,728
+Stockholder’s Equity
+Common stock: $0.0001 par value, 500,000,000 authorized,
+100,608,200 issued and outstanding as of July 31, 2023
+and July 31, 2022, respectively.
+10,061
+10,061
+Additional paid in capital
+697,695
+640,695
+Accumulated deficit
+(774,504)
+(694,891)
+Minority interest
+(58,200)
+17,754
+Total Stockholder’s Equity:
+(124,948)
+(26,381)
+Total Liabilities and Stockholder’s Equity:
+351,802
+417,347
+(The accompanying notes are an integral part of these audited financial statements)
+F-2
+LIMITLESS PROJECTS INC.
+CONSOLIDATED STATEMENT OF COMPREHENSIVE LOSS
+(Audited)
+For the year ended
+July 31,
+2023
+2022
+$
+$
+General income
+-
+1,328
+Cost of goods sold
+-
+-
+Gross profit
+-
+1,328
+Expenses:
+General and administrative
+155,567
+645,244
+Operating loss
+(155,567)
+(643,916)
+Net loss attributable to minority interest
+(75,954)
+(302,878)
+Net loss attributable to Limitless
+(79,613)
+(341,038)
+Consolidated net loss
+(155,567)
+(643,916)
+Net loss per share - basic and diluted
+(0.00)
+(0.00)
+Weighted average shares outstanding
+- basic and diluted
+100,608,200
+100,608,200
+(The accompanying notes are an integral part of these audited financial statements)
+F-3
+LIMITLESS PROJECTS INC.
+CONSOLIDATED STATEMENT OF STOCKHOLDER’S EQUITY
+For the year ended July 31, 2023 and 2022
+Common Stock
+Number
+Par Value
+Paid in
+Capital
+Accumulated
+Deficit
+Minority
+Interest
+Total
+$
+$
+$
+$
+$
+Opening Balance, July 31, 2021
+100,608,200
+10,061
+640,695
+(353,853)
+(7,174)
+289,729
+Adjustment to minority interest
+-
+-
+-
+-
+327,806
+327,806
+Net Loss
+-
+-
+-
+(341,038)
+(302,878)
+(643,916)
+Closing Balance, July 31, 2022
+100,608,200
+10,061
+640,695
+(694,891)
+17,754
+(26,381)
+Opening Balance, July 31, 2022
+100,608,200
+10,061
+640,695
+(694,891)
+17,754
+(26,381)
+Adjustment to additional paid in capital
+-
+-
+57,000
+-
+-
+57,000
+Net Loss
+-
+-
+-
+(79,613)
+(75,954)
+(155,567)
+Closing Balance, July 31, 2023
+100,608,200
+10,061
+697,695
+(774,504)
+(58,200)
+(124,949)
+(The accompanying notes are an integral part of these audited financial statements)
+F-4
+LIMITLESS PROJECTS INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(Audited)
+For the year ended
+July 31,
+2023
+2022
+$
+$
+Cash flows from operating activities:
+Net loss for the period
+(155,567)
+(643,916)
+Adjustments to Reconcile Net Loss to Net Cash Provided by Operations:
+Software impairment
+51,201
+-
+Accumulated depreciation
+1,086
+-
+Change in operating assets and liabilities:
+Accounts receivable
+-
+40,000
+Payments & deposits
+-
+(15,000)
+Accounts payable and accrued liabilities
+33,021
+399,630
+Notes receivable
+-
+(250,000)
+Investments
+-
+24,100
+Net cash used in operating activities:
+(70,259)
+(445,186)
+Cash flows from investing activities:
+Software development
+-
+367,628
+Net cash provided by investing activities:
+-
+367,628
+Cash flows from financing activities:
+Proceeds from issuance of common stock
+-
+11,500
+Proceeds from paid in capital
+57,000
+2,600
+Cash payment of investment purchase
+-
+10,000
+Net cash provided by financing activities:
+57,000
+24,100
+Change in cash
+(13,259)
+(53,458)
+Cash - beginning of period
+13,291
+66,749
+Cash - end of period
+32
+13,291
+Supplemental cash flow disclosures
+Cash paid for:
+Interest
+-
+-
+Income tax
+-
+-
+(The accompanying notes are an integral part of these audited financial statements)
+F-5
+LIMITLESS PROJECTS INC.
+NOTES TO THE AUDITED CONSOLIDATED FINANCIAL STATEMENTS
+July 31, 2023
+1. NATURE AND CONTINUANCE OF OPERATIONS
+Limitless Projects Inc. (the “Company”) was incorporated in the state of Wyoming on November 18, 2020 (“Inception”). The Company is in the business of developing computer software systems and mobile device applications. The Company’s fiscal year-end is July 31. The Company is developing a ride-hailing and food delivery computer and mobile device application, as well as employee monitoring software that balances employer concerns regarding employee efficiency and productivity with employee privacy.
+By an agreement dated December 31, 2020, the Company entered into an asset purchase and sale agreement whereby it agreed to sell its 100% in a ride-hailing computer and mobile device application for a cash payment of $10,000 that the Company has received in the period, an additional $40,000 to be received after the Company’s delivery of a working prototype of the application, plus the purchaser’s issuance of a promissory note for $250,000 that is payable on the Company’s demand any time after December 31, 2023. The note bears simple interest at a rate of 5% per annum and is unsecured. The purchaser may pay this note early without penalty.
+The Company entered into an Asset Purchase and Joint Venture agreement dated March 15, 2021, as amended, whereby a third-party has agreed to purchase a 50% interest in the Privacy and Value software for $10,000 upon execution of the agreement (paid) and an additional $250,000, which was due on June 15, 2021. The purchaser did not make the $250,000 payment by the deadline date of June 15, 2021, and the agreement has been terminated.
+2. GOING CONCERN
+These consolidated financial statements have been prepared on a going concern basis which assumes the Company will be able to realize its assets and discharge its liabilities in the normal course of business for the foreseeable future. The Company has incurred a consolidated net loss of $155,567 for the year-ended July 31, 2023, and an accumulated deficit of $774,504 as of July 31, 2023. It is anticipated that the Company may incur losses in the future development of its business raising substantial doubt about the Company’s ability to continue as a going concern. In order to remain in business, the Company will need to raise capital or generate revenue from operations in the next twelve months. The ability to continue as a going concern is dependent upon the Company generating profitable operations in the future and/or obtaining the necessary financing to meet its obligations and repay its liabilities arising from normal business operations when they come due. Management intends to finance operating costs over the next twelve months with existing cash on hand, proceeds from its public offering, and revenue from its sale of computer software and applications. The Company has no written or verbal commitments from stockholders or its director or officer to provide the Company with any form of cash advances, loans, or other sources of liquidity to meet its working capital needs. The accompanying financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classifications of liabilities that may result from the possible inability of the Company to continue as a going concern.
+3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+These financial statements of the Company have been prepared in accordance with generally accepted accounting principles in the United States of America and are presented in US dollars. The Company has selected July 31 as its year-end. In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation of its financial position and the results of operations have been reflected herein.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with an original maturity of three months or less when purchased to be cash equivalents. The Company maintains cash and cash equivalent balances at one financial institution that is insured by the FDIC. As of July 31, 2023, the Company had $32 in cash.
+F-6
+Fair Value of Financial Instruments
+The Company follows FASB ASC 820, Fair Value Measurements and Disclosures, for all financial instruments and non-financial instruments accounted for at fair value on a recurring basis. This accounting standard establishes a single definition of fair value and a framework for measuring fair value, sets out a fair value hierarchy to be used to classify the source of information used in fair value measurement and expands disclosures about fair value measurements required under other accounting pronouncements. It does not change existing guidance as to whether or not an instrument is carried at fair value. The Company defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+AS topic 820 “Fair Value Measurements and Disclosures” establishes a three-tier fair value hierarchy, which prioritizes the inputs in measuring fair value. The hierarchy prioritizes the inputs into three levels based on the extent to which inputs used in measuring fair value are observable in the market.
+These tiers include:
+Level 1:Defined as observable inputs such as quoted prices in active markets;
+Level 2:Defined as inputs other than quoted prices in active markets that are either directly or indirectly observable;
+Level 3:Defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.
+The Company has adopted FASB ASC 825, Financial Instruments, which allows companies to choose to measure eligible financial instruments and certain other items at fair value that are not required to be measured at fair value. The Company has not elected the fair value option for any eligible financial instruments.
+Comprehensive Loss
+The Company adopted FASB ASC 220, “Reporting Comprehensive Income”, which establishes standards for the reporting and display of comprehensive income and its components in the financial statements. Comprehensive income consists of net income and other gains and losses affecting stockholders’ equity that are excluded from net income, such as unrealized gains and losses on investments available for sale, foreign currency translation gains and losses and minimum pension liability. Since Inception, the Company’s other comprehensive income represents foreign currency translation adjustments.
+Revenue Recognition
+The Company recognizes revenue in accordance with Accounting Standards Codification No. 606, “Revenue Recognition” (“ASC-606”), ASC-606 requires that five basic criteria must be met before revenue can be recognized: (1) persuasive evidence of an arrangement exists and both parties will perform their respective obligations; (2) can identify each party’s rights regarding goods or services being transferred; (3) the selling price is fixed and determinable; (4) the contract has commercial substance; and (5) collectability is reasonably assured. Determination of criteria (3) and (5) are based on management’s judgments regarding the fixed nature of the selling prices of the products delivered and the collectability of those amounts. Provisions for discounts and rebates to customers, estimated returns and allowances, and other adjustments are provided for in the same period the related sales are recorded. The Company will defer any revenue for which the product has not been delivered or is subject to refund until such time that the Company and the customer jointly determine that the product has been delivered or no refund will be required.
+Because the Company assumes that the reported amounts of assets and liabilities will be recovered and settled, respectively, a difference between the tax basis of an asset or a liability and its reported amount in the balance sheet will result in a taxable or a deductible amount in some future years when the related liabilities are settled or the reported amounts of the assets are recovered, which gives rise to a deferred tax asset. The Company must then assess the likelihood that the deferred tax assets will be recovered from future taxable income and to the extent the Company believes that recovery is not likely, the Company must establish a valuation allowance.
+The Company has adopted FASB guidance on accounting for uncertainty in income taxes which provides a consolidated financial statement recognition threshold and measurement attribute for a tax position taken or expected to be taken in a tax return. Under this guidance, the Company may recognize the tax benefit from an uncertain tax
+F-7
+position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the consolidated financial statements from such a position should be measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. The guidance also extends to de-recognition of income tax assets and liabilities, classification of current and deferred income tax assets and liabilities, accounting for interest and penalties associated with tax positions, and income tax disclosures.
+Basic and Diluted Loss per Share
+The Company computes income (loss) per share in accordance with FASB ASC 260 “Earnings per Share”. Basic loss per share is computed by dividing net income (loss) available to common shareholders by the weighted average number of outstanding common shares during the period. Diluted income (loss) per share gives effect to all dilutive potential common shares outstanding during the period. Dilutive loss per share excludes all potential common shares if their effect is anti-dilutive. For the period from August 1, 2022 through July 31, 2023 there were no potentially dilutive debt or equity instruments issued or outstanding.
+Use of Estimates and Assumptions
+The preparation of consolidated financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the period. Actual results could differ from those estimates.
+Due to the limited level of operations, the Company has not had to make material assumptions or estimates other than the assumption that the Company is a going concern.
+Recently Adopted and Recently Enacted Accounting Pronouncements
+The Company adopts new pronouncements relating to accounting principles generally accepted in the United States of America applicable to the Company as they are issued, which may be in advance of their effective date.
+Management does not believe that any recently issued, but not yet effective accounting standards, if currently adopted, would have a material effect on the accompanying financial statements.
+In March 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2016-09, Compensation – Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting. This guidance changes how companies account for certain aspects of share-based payments to employees. Among other things, under the new guidance, companies will no longer record excess tax benefits and certain tax deficiencies in additional paid-in-capital (“APIC”), but will instead record such items as income tax expense or benefit in the income statement, and APIC pools will be eliminated. Companies will apply this guidance prospectively. Another component of the new guidance allows companies to make an accounting policy election for the impact of forfeitures on the recognition of expense for share-based payment awards, whereby forfeitures can be estimated, as required today, or recognized when they occur. If elected, the change to recognize forfeitures when they occur needs to be adopted using a modified retrospective approach. The amendment is effective for public entities for fiscal years beginning after December 15, 2016. Early adoption is permitted. The Company is currently evaluating the impact of this guidance, if any, on its financial statements and related disclosures.
+In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842), which issued new guidance related to leases that outlines a comprehensive lease accounting model and supersedes the current lease guidance. The new guidance requires lessees to recognize lease liabilities and corresponding right-of-use assets for all leases with lease terms of greater than 12 months. It also changes the definition of a lease and expands the disclosure requirements of lease arrangements. The new guidance must be adopted using the modified retrospective approach and will be effective for the public entities for fiscal years beginning after December 15, 2018. Early adoption is permitted. The Company is currently evaluating the impact of this guidance, if any, on its financial statements and related disclosures.
+In July 2015, the FASB issued ASU No. 2015-11, Inventory (Topic 330): Simplifying the Measurement of Inventory. The guidance requires an entity to measure inventory at the lower of cost or net realizable value, which is the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation, rather than the lower of cost or market in the previous guidance. This amendment applies to inventory
+F-8
+that is measured using first-in, first-out (FIFO). This amendment is effective for public entities for fiscal years beginning after December 15, 2016, including interim periods within those years. A reporting entity should apply the amendments prospectively with earlier application permitted as of the beginning of an interim or annual reporting period. The Company is currently evaluating the impact of this guidance, if any, on its financial statements and related disclosures.
+In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers (“ASU 2014-09”), which requires an entity to recognize the amount of revenue to which it expects to be entitled for the transfer of promised goods or services to customers. ASU 2014-09 will replace most existing revenue recognition guidance in U.S. generally accepted accounting principles when it becomes effective. In July 2015, the FASB deferred the effective date of the standard by an additional year; however, it provided companies the option to adopt one year earlier, commensurate with the original effective date. The amendment is effective for public entities for fiscal years beginning after December 15, 2016. The Company is currently evaluating this standard and has not yet selected a transition method or the effective date on which it plans to adopt the standard, nor has it determined the effect of the standard on its financial statements and related disclosures.
+4. CAPITAL STOCK
+The total number of common shares authorized that may be issued by the Company is 500,000,000 shares with a par value of $0.0001 per share.
+During the year ended July 31, 2022, the Company issued 100,608,200 shares of common stock for total cash proceeds of $10,061 to the Company’s director.
+As of July 31, 2023, there were no issued and outstanding stock options or warrants.
+5. INCOME TAXES
+The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred income tax liabilities, projected future taxable income, and tax planning strategies in making this assessment. Based on consideration of these items, management has determined that enough uncertainty exists relative to the realization of the deferred income tax asset balances to warrant the application of a full valuation allowance as of July 31, 2023. All tax years since inception remains open for examination by taxing authorities.
+F-9
+Item 9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure.
+None
+Item 9A. Controls and Procedures.
+As supervised by our board of directors and our principal executive and principal financial officer, management has established a system of disclosure, controls and procedures and has evaluated the effectiveness of that system. The system and its evaluation are reported on in the below Management’s Annual Report on Internal Control over Financial Reporting. Our principal executive and financial officer has concluded that our disclosure, controls and procedures (as defined in Securities Exchange Act of 1934 (“Exchange Act”) Rule 13a-15(e)) as of July 31, 2023, were not effective, based on the evaluation of these controls and procedures required by paragraph (b) of Rule 13a-15.
+Management’s Annual Report on Internal Control over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) of the Exchange Act. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles.
+Management assessed the effectiveness of internal control over financial reporting as of July 31, 2023. We carried out this assessment using the criteria of the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control - Integrated Framework.
+Management’s Report on Internal Control over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over our financial reporting. In order to evaluate the effectiveness of internal control over financial reporting, as required by Section 404 of the Sarbanes-Oxley Act, management has conducted an assessment, including testing, using the criteria in the Internal Control - Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”).
+Our system of internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+Based on our evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our internal controls over financial reporting were not effective as of July 31, 2023 and were subject to material weaknesses.
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company’s annual or interim financial statements will not be prevented or detected on a timely basis. We have identified the following material weaknesses in our internal control over financial reporting using the criteria established in the COSO:
+1.Failing to have an audit committee or other independent committee that is independent of management to assess internal control over financial reporting; and
+2.Failing to have a director that qualifies as an audit committee financial expert as defined in Item 407(d)(5)(ii) of Regulation S-K.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions and that the degree of compliance with the policies or procedures may deteriorate.
+This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by our registered public accounting firm, pursuant to rules of the Securities and Exchange Commission that permit us to provide only
+10
+management’s report in this annual report. Management concluded in this assessment that as of July 31, 2023, our internal control over financial reporting is not effective.
+There have been no significant changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d15(f) under the Exchange Act) during the fourth quarter of our 2023 fiscal year that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Item 9B. Other Information.
+None
+PART III
+Item 10. Directors, Executive Officers, and Corporate Governance.
+Our executive officers and directors and their respective ages are as follows:
+Name of Executive Officer and/or Director
+Age
+Position
+Daniel Okelo
+39
+President, C.E.O., C.F.O. and Director
+BIOGRAPHICAL INFORMATION
+Set forth below is a brief description of the background and business experience of our executive officers and directors for the past five years.
+Daniel Okelo acts as our President, C.E.O., C.F.O., and a director, and holds these same positions with our parent company, Limitless Projects Inc., as well as with WarpSpeed Taxi Inc., which is another subsidiary of Limitless Projects Inc. Since April 2019, he has also acted as relief manager for Ashnil Lodges and Camps. From September 2018 to April 2019, Mr. Okelo acted as a manager for the Crown Plaza Hotel and, from December 2015 to September 2018, he acted as the rooms division manager for the Nairobi Safari Club. All of these companies are located in Nairobi, Kenya. Mr. Okelo is in the course of completing his Master of Science degree in Hospitality and Tourism Management from Kenyatta University in Nairobi. He earned his Bachelor of Science degree in Hospitality and Tourism Management from the same institution in 2014. Mr. Okelo also holds a diploma in hotel management from Kenya Utalii College in Nairobi.
+Term of Office
+Our directors are appointed for a one-year term to hold office until the next annual meeting of our shareholders or until removed from office in accordance with our bylaws. Our officers are appointed by our board of directors and hold office until removed by the board.
+Section 16(A) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires the Company’s executive officers and directors, and persons who beneficially own more than five percent (5%) of the Company’s equity securities, to file reports of ownership and changes in ownership with the Securities and Exchange Commission. Officers, directors and greater than ten percent shareholders are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms they file. Based on its review of the copies of such forms received by it, the Company believes that during the fiscal year ended July 31, 2023, all such filing requirements applicable to its officers and directors were complied with.
+Code of Ethics
+We have not adopted a Code of Ethics that governs the conduct of our officer.
+Audit Committee
+We do not have a formal audit committee or an audit committee financial expert. We do not have an audit committee financial expert because we believe the cost related to retaining a financial expert at this time is prohibitive. Further, because we have limited operations, at the present time, we believe the services of a financial expert are not warranted.
+11
+Item 11. Executive Compensation.
+The following table sets forth the compensation paid by us since our incorporation to our officers. This information includes the dollar value of base salaries, bonus awards and number of stock options granted, and certain other compensation, if any. The compensation discussed addresses all compensation awarded to, earned by, or paid to named executive officers.
+EXECUTIVE OFFICER COMPENSATION TABLE
+Name and Principal Position
+Year
+Salary
+Bonus
+Stock Awards
+Option Awards
+Non-Equity Incentive Plan Compensation
+Change in pension value and nonqualified deferred compensation earnings
+All Other Compensation
+Total
+($)
+($)
+($)
+($)
+($)
+($)
+($)
+($)
+Daniel Okelo
+President, CEO, CFO, Secretary, and a director
+2023
+0
+0
+0
+0
+0
+0
+0
+0
+2022
+0
+0
+0
+0
+0
+0
+0
+0
+We do not have any standard arrangements by which directors are compensated for any services provided as a director. No cash has been paid to our director in his capacity as such.
+The compensation discussed herein addresses all compensation awarded to, earned by, or paid to our named executive officers.
+There are no stock option plans, retirement, pension, or profit-sharing plans for the benefit of our officers and directors.
+Compensation of Directors
+Our directors are not compensated for their services as directors. The board has not implemented a plan to award options to any directors. There are no contractual arrangements with any member of the board of directors. We have no director service contracts.
+Change of Control
+We do not have any pension plans or compensatory plans or other arrangements which provide compensation in the event of a termination of employment or a change in our control.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+The following table sets forth, as September 9, 2025, certain information with respect to the beneficial ownership of our common stock by each stockholder known by us to be the beneficial owner of more than 5% of our common stock and by each of our current directors and executive officers. Each person has sole voting and investment power with respect to the shares of common stock, except as otherwise indicated. Beneficial ownership consists of a direct interest in the shares of common stock, except as otherwise indicated.
+12
+Title of
+Class
+Name and address
+of beneficial owner
+Amount of
+beneficial
+ownership
+Percent
+Of Class
+Common Stock
+Daniel Okelo
+President, C.E.O., C.F.O., Secretary, and director
+2261 Rosanna Street
+Las Vegas, Nevada 89117
+100,000,000
+shares
+99.40%
+Common Stock
+All Officers and Directors
+as a group that consists of one person
+100,000,000
+shares
+99.40%
+The percent of class is based on 100,608,200 shares of common stock that is currently issued and outstanding as of the date of this annual report.
+None of the above shareholders have any right to acquire additional shares of common stock in the capital of the Company. There are no arrangements that may result in our change in control of the Company.
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+On January 26, 2021, we offered and sold 100,000,000 shares of common stock to Daniel Okelo who acts as our sole director and officer. We sold these shares to Mr. Okelo at a price of $0.0001 per share for aggregate proceeds of $10,000.
+Otherwise, during the period from our inception to July 31, 2021, and the period since our more recently completed fiscal year, we have not entered into any transactions with directors, executive officers, nominees for election as a director, any 10% shareholders of our common stock, or any immediate family members of the such persons in which they had a direct or indirect material interest in the transaction.
+Item 14. Principal Accountant Fees and Services.
+Audit Fees.
+The aggregate fees billed by for professional services rendered for the accounting and audit of our financial statements for the fiscal year ended July 31, 2023 was $2,500.
+Audit-Related Fees.
+There have been no audit-related fees billed by our accountants in the last fiscal year of our Company.
+Tax Fees.
+There have been no tax fees billed by our accountants in the last fiscal year of our Company.
+All Other Fees.
+All other fees billed by our accountants in the last fiscal year of our Company totaled $750.
+It is the policy of our board of directors that before the accountant is engaged to render audit or non-audit services, the engagement is approved by the Board of Directors that is at present acting as the Audit Committee.
+13
+Item 15. Exhibits and Financial Statement Schedules.
+Exhibits
+Exhibit
+Number
+Description
+3.1
+Articles of Incorporation*
+3.2
+Articles of Amendment*
+3.3
+By-Laws*
+10.1
+Asset Purchase Agreement*
+10.2
+Bill of Sale**
+31.1
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive and Principal Financial Officer
+32.1
+Section 1350 Certification of Chief Executive Officer and Principal Financial Officer.
+* filed as an exhibit to our registration statement on Form S-1 filed on February 5, 2021.
+** filed as an exhibit to our registration statement on Form S-1/A filed on March 8, 2021.
+Copies of the following documents are included as exhibits to this report pursuant to Item 601 of Regulation S-K.
+SEC Ref. No.
+Title of Document
+101. INS
+XBRL Instance Document
+101. SCH
+XBRL Taxonomy Extension Schema Document
+101. CAL
+XBRL Taxonomy Calculation Linkbase Document
+101. DEF
+XBRL Taxonomy Extension Definition Linkbase Document
+101. LAB
+XBRL Taxonomy Label Linkbase Document
+101. PRE
+XBRL Taxonomy Presentation Linkbase Document
+The XBRL related information in Exhibits 101 to this Annual Report on Form 10-K shall not be deemed “filed” or a part of a registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, and is not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of those sections.
+14
+SIGNATURES
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+LIMITLESS PROJECTS INC.
+By: /s/ Daniel Okelo
+President and Chief Executive Officer
+Date: September 9, 2025
+In accordance with the Securities Exchange Act, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+By: /s/ Daniel Okelo
+(President, Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer, and Director)
+Date: September 9, 2025
+15

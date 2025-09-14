@@ -1,0 +1,2017 @@
+false
+0001394108
+FY
+2024
+--12-31
+0001394108
+2024-01-01
+2024-12-31
+0001394108
+2024-12-31
+0001394108
+2025-06-23
+0001394108
+2023-12-31
+0001394108
+2023-01-01
+2023-12-31
+0001394108
+us-gaap:CommonStockMember
+2022-12-31
+0001394108
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001394108
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001394108
+2022-12-31
+0001394108
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001394108
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001394108
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001394108
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001394108
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0001394108
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0001394108
+us-gaap:CommonStockMember
+2023-12-31
+0001394108
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001394108
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001394108
+us-gaap:CommonStockMember
+2024-12-31
+0001394108
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001394108
+us-gaap:RetainedEarningsMember
+2024-12-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☑
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2024
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES AND EXCHANGE ACT OF 1934
+For transition period ___ to ____
+Commission file number: 000-53737
+SUIC Worldwide Holdings Ltd.
+(Name of registrant in its charter)
+Nevada
+47-2148252
+(State or jurisdiction of incorporation or organization)
+(IRS Employer Identification No.)
+136-20
+38th Ave. Unit 3G,
+Flushing,
+NY 11354
+(Address of principal executive offices)
+(929) 391-2550
+(Registrant's telephone number)
+SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF
+THE EXCHANGE ACT:
+None.
+SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF
+THE EXCHANGE ACT:
+None.
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes☐
+No☑
+Check whether the issuer is not required to file reports
+pursuant to Section 13 or 15(d) of the Exchange Act. Yes☐ No☑
+Check whether the issuer
+(1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or
+for such shorter periods that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes☑
+No☐
+Indicate by check mark whether the registrant has submitted
+electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files). Yes☑ No☐
+Check if there is no disclosure of delinquent filers
+in response to Item 405 of Regulation S-K contained in this form, and no disclosure will be contained, to the best of the registrant's
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. ☐
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large
+accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer ☐
+Smaller reporting company ☑
+Indicate by check mark whether the registrant is an
+emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by checkmark whether the registrant has filed
+a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. ☐
+If securities are registered pursuant to Section 12(b)
+of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of
+an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections
+are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers
+during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). Yes☐
+No☑
+As of December 31, 2024, the aggregate market value
+of the shares of the Registrant’s common stock held by non-affiliates (based upon the closing price of such shares as reported on
+the OTC Bulletin Board was approximately $836,279 (3,331,788 shares at $0.2510 per share).
+As of June 23, 2025, 11,396,638 shares of the Company’s common stock, $0.01 par value, were issued and outstanding.
+PART I
+Item 1.
+Business
+4
+Item 1A
+Risk Factors
+5
+Item 1B.
+Unresolved Staff Comments
+8
+Item 2.
+Properties
+8
+Item 3.
+Legal Proceedings
+8
+Item 4.
+Mine and Safety Disclosures
+8
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters
+and Issuer Purchases of Equity Securities
+9
+Item 6.
+Selected Financial Data
+10
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and
+Results of Operations
+10
+Item7A.
+Quantitative and Qualitative Disclosures About Market Risk
+15
+Item 8.
+Financial Statements and Supplementary Financial Data
+15
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial
+Disclosure
+15
+Item 9A
+Controls and Procedures
+15
+Item 9B.
+Other Information.
+16
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+17
+Item 11.
+Executive Compensation
+18
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and
+Related Stockholder Matters
+19
+Item 13.
+Certain Relationships and Related Party Transactions, and director
+independence
+20
+Item 14.
+Principal Accountant Fees and Services
+20
+PART IV
+Item 15.
+Exhibits, Financial Statements, Schedules
+21
+SIGNATURES
+33
+Forward-Looking Statements
+Statements contained in this Annual Report include
+“forward-looking statements” within the meaning of such term in Section 27A of the Securities Act and Section 21E of the
+Exchange Act. Forward-looking statements involve known and unknown risks, uncertainties and other factors which could cause actual financial
+or operating results, performances or achievements expressed or implied by such forward-looking statements not to occur or be realized.
+Forward-looking statements made in this Report generally are based on our best estimates of future results, performances or achievements,
+predicated upon current conditions and the most recent results of the companies involved and their respective industries. Forward-looking
+statements may be identified by the use of forward-looking terminology such as “may,” “will,” “could,”
+“should,” “project,” “expect,” “believe,” “estimate,”
+“anticipate,” “intend,” “continue,” “potential,” “opportunity” or similar
+terms, variations of those terms or the negative of those terms or other variations of those terms or comparable words or expressions.
+Potential risks and uncertainties include, among other things, such factors as:
+•
+our heavy reliance on limited number
+of consumers;
+•
+strong competition in our industry;
+•
+increases in our raw material costs; and
+•
+an inability to fund our capital requirements.
+Additional disclosures
+regarding factors that could cause our results and performance to differ from results or performance anticipated by this annual report
+are discussed in Item 1A. “Risk Factors.” Readers are urged to carefully review and consider the various disclosures
+made by us in this annual report and our other filings with the SEC. These reports attempt to advise interested parties of the risks
+and factors that may affect our business, financial condition and results of operations and prospects. The forward-looking statements
+made in this annual report speak only as of the date hereof and we disclaim any obligation to provide updates, revisions or amendments
+to any forward-looking statements to reflect changes in our expectations or future events.
+PART I
+ITEM 1.
+BUSINESS
+SUIC Worldwide Holdings Ltd (SUIC) is a Nevada corporation
+incorporated on August 30, 2006, under the name Gateway Certifications, Inc. On November 16, 2009, our corporate name was changed to American
+Jianye Greentech Holdings, Ltd. On February 13, 2014, our corporate name was changed to AJ Greentech Holdings, Ltd. and on July 17, 2017,
+our corporate name was changed to Sino United Worldwide Consolidated Ltd. On November 9, 2022, our corporate name was changed to SUIC
+Worldwide Holdings Ltd.
+From November 2009 until October, 2013, through our
+China and Taiwan subsidiaries, we were engaged in renewable energy business. From October 2013 until September 2017, through our Taiwan
+subsidiary, we were engaged in the driving record management system (DMS) business. Both Subsidiaries were spun off through stock transfer
+and debt cancellation for the best interest of shareholders.
+From 2018 to present, the Company focused in products
+and services that adopt IT, cloud computing, mobile payments, Big Data, Blockchain and AI, and other new and exciting business models
+that will create revolutionary products and services. From 2020 to present, the Company through promissory
+notes becomes major creditor and stakeholder in Beneway Holdings Group Ltd (its corporate name was changed from Sinoway International
+Corp.). As of December 31, 2024, Midas Touch Technology Co. Ltd. had nominal operations and nominal assets. The Company works with Beneway
+Holdings Group Ltd (“Beneway”) in several new business ventures with focus on the following fields:
+•
+Fintech - Through Boom Fintech,
+the major subsidiary of Beneway USA, the company holds nine revolutionary fintech patents. Boom Fintech integrates payment systems,
+electronic invoice devices, mobile cash registers, POS system devices and ERP, as well as Big Data, AI and other services, to all-in-one
+products that provide standardized intellectual property that’s modular to all industries, from chain department stores to
+night market vendors. Beneway Holdings Group connects borrowers and lenders, building strategic partnerships by bridging the various
+stakeholders to provide a holistic financial delivery ecosystem and to integrate advanced systems and finance its global merchants
+and franchisees.
+•
+Food Industry Supply Chain Integration –
+SUIC and Beneway will partner with international trade financiers to support the huge demand for raw material import/export between
+the U.S. and Asia. SUIC and Beneway are looking to raise funds from an IPO and the capital markets to support mergers and acquisitions
+of U.S. mid- and upper-stream food industry suppliers.
+•
+Global Chain & Franchise Expansion –Through
+I.Hart catering group, SUIC and Beneway are working to bring reputable and distinguished overseas food product brands to the U.S.
+and around the world. It is working on integrating more successful chains to enter the U.S. chain and franchise market in all
+50 states. It is replicating its successful multi-branding business model and teaming up with top U.S. real estate firms, shopping
+malls and associated groups for faster expansion.
+•
+Other Supply Chain Integration - Beneway
+has identified several additional industries for future expansion, including medical and health care, high-tech digital AI systems,
+environmental protection and energy-related production.
+4
+Our Business Model and Objectives
+The Company will continue to strengthen our competencies
+in research and development, venture financing for investing in the private enterprises and the public sector to develop products and
+services that adopt IoT, cloud computing, mobile payments, Big Data, Blockchain and AI, and other new and exciting business models that
+will create revolutionary products and services.
+Competitive Advantages
+The Company focuses on small and micro-cap companies
+with traditionally difficult access to capital. We provide specialized consulting services to help companies operate in the public markets.
+Our management team is experienced in risk management and exit planning. The Company’s competitive advantages include a global business
+network of investment and financial professionals who are integrated into our fintech ecosystem. In summary, our services and capital
+speed up the development and commercialization of our customers’ products.
+Employees
+The company currently has 2 directors and 3 employees
+in the Taiwan office, and 1 director in the Malaysian office.
+ITEM 1A.
+RISK FACTORS
+Risks Related to Our Organization, Structure
+and Business
+You should carefully consider the risks described below
+before buying our common stock. If any of the risks described below actually occurs, that event could cause the trading price of our common
+stock to decline, and you could lose all or part of your investment.
+Downturns in general economic and market conditions
+could materially and adversely affect our business.
+The IT-communications, mobile apps and blockchain industries
+are most susceptible to, and greatly affected by economic downturns and policy uncertainties. We have encountered and will continue to
+encounter risks and difficulties frequently experienced by growing companies in rapidly changing industries, including increased expenses
+as we continue to grow our business. If we do not manage these risks and overcome these difficulties successfully, our business will suffer.
+If we are not able to compete effectively with
+other competitors, our prospects for future growth will be jeopardized.
+There is significant competition in both the software
+industry and the blockchain industry with more established companies. We are not only competing with other software and blockchain providers
+but also with companies offering different kinds of software and blockchain solutions, which are usually more established and have greater
+resources to devote to research and development, manufacturing and marketing than we have. Our competitors may promote these softwares
+and blockchain solutions which are more readily accepted by customers than our products and maybe required to reduce the prices of our
+products in order to remain competitive.  Our competitors may also seek to use our financial difficulties in marketing against
+us.
+5
+Our board of directors may change our
+investment or operation objectives and strategies without shareholders’ consent.
+Our board of directors determines our major policies,
+including decisions regarding financing, growth, debt capitalization, distributions and other material events. Our board of
+directors may amend or revise these and other policies without a vote of the shareholders. Under our Articles of Incorporation and Bylaws,
+our directors generally have a right to vote only on the following matters:
+•
+the election
+or removal of director;
+•
+the amendment of our charter,
+except that our board of directors may amend our charter without shareholders’ approval to:
+•
+change our name;
+•
+change the name or other
+designation or the par value of the Common Stock;
+•
+increase or decrease the
+aggregate number of Common Stock that we have the authority to issue;
+•
+increase or decrease the
+number of our Common Stock that we have the authority to issue;
+•
+effect certain reverse
+Common Stock splits;
+•
+our liquidation and dissolution;
+•
+our being a party to a
+merger, consolidation, sale or other disposition of all or substantially all of our assets or statutory merger or acquisition.
+All other matters are
+subject to the discretion of our board of directors.
+We may be unable
+to attract and retain qualified, experienced, highly skilled personnel, which could adversely affect the implementation
+of our business plan.
+Our success depends to a significant degree upon our
+ability to attract, retain and motivate skilled and qualified personnel. As we become a more mature company in the future, we may find
+recruiting and retention efforts more challenging. If we do not succeed in attracting, hiring and integrating excellent personnel, or
+retaining and motivating existing personnel, we may be unable to grow effectively. The loss of any key employee or contractor, including
+shareholders of our senior management team, and our inability to attract highly skilled personnel with sufficient experience in our industries
+could harm our business.
+Currency fluctuations may adversely affect our
+operating results.
+Company generates revenues and incurs expenses and
+liabilities in foreign currency. However, it will report its financial results in the United States in U.S. Dollars. As a result, our
+financial results will be subject to the effects of exchange rate fluctuations between these currencies. Any events that result in a devaluation
+of the foreign currency versus the U.S. Dollar will have an adverse effect on our reported results. We have not entered into agreements
+or purchased instruments to hedge our exchange rate risks.
+We are not likely to hold annual shareholder
+meetings in the near future.
+Management does not expect to hold annual meetings
+of shareholders in the near future, due to the expense involved. The current members of the Board of Directors were appointed to that
+position by the previous directors. If other directors are added to the Board in the future, it is likely that the current directors
+will appoint them.
+Risks Related to Our Stockholders and Purchasing
+Shares of Common Stock
+Your percentage of ownership may become diluted
+if we issue new Common Stock or other securities.
+Our board of directors is authorized, without your
+approval, to cause us to issue additional Common Stock to raise capital through the issuance of Common Stock (including equity or debt
+securities convertible into Common Stock), and other rights, on terms and for consideration as our board of directors in its sole discretion
+may determine. Any such issuance could result in dilution of the equity of our shareholders.
+6
+We have not voluntarily implemented various
+corporate governance measures.
+Federal legislation, including the Sarbanes-Oxley Act
+of 2002, has resulted in the adoption of various corporate governance measures designed to promote the integrity of the corporate management
+and the securities markets. Some of these measures have been adopted in response to legal requirements. Others have been adopted by companies
+in response to the requirements of national securities exchanges, such as the NYSE or The NASDAQ Stock Market, on which their securities
+are listed. Among the corporate governance measures that are required under the rules of national securities exchanges are those that
+address board of directors’ independence, audit committee oversight and the adoption of a Code of Ethics. Our board of directors
+expects to adopt a Code of Ethics at a future board meeting. The Company has not adopted exchange-mandated corporate governance measures
+and, since our securities are not listed on a national securities exchange, we are not required to do so. It is possible that if we were
+to adopt some or all of these corporate governance measures, stockholders would benefit from somewhat greater assurances that internal
+corporate decisions were being made by disinterested directors and that policies had been implemented to define responsible conduct. For
+example, in the absence of audit, nominating and compensation committees comprised of at least a majority of independent directors, decisions
+concerning matters such as compensation packages to our senior officers and recommendations for director nominees may be made by a majority
+of directors who have an interest in the outcome of the matters being decided. Prospective investors should bear in mind our current lack
+of corporate governance measures in formulating their investment decisions.
+We may be exposed to potential risks relating
+to our internal control over financial reporting.
+As directed by Section 404 of the Sarbanes-Oxley Act
+of 2002 (“SOX 404”), the SEC has adopted rules requiring public companies to include a report of management on the Company’s
+internal control over financial reporting in its annual reports. While we expect to expend significant resources in developing the necessary
+documentation and testing procedures required by SOX 404, there is a risk that we will not comply with all of the requirements imposed
+thereby. At present, there is no precedent available with which to measure compliance adequately. In the event we identify significant
+deficiencies or material weaknesses in our internal control over financial reporting that we cannot remediate in a timely manner, investors
+and others may lose confidence in the reliability of our financial statements and our ability to obtain equity or debt financing could
+suffer.
+We have a large number of authorized but unissued
+shares of our common stock.
+We have a large number of authorized but unissued shares
+of common stock, which our management may issue without further stockholder approval, thereby causing dilution of your holdings of our
+common stock. Our management will continue to have broad discretion to issue shares of our common stock in a range of transactions, including
+capital-raising transactions, mergers, acquisitions and other transactions, without obtaining stockholder approval, unless stockholder
+approval is required. If our management determines to issue shares of our common stock from the large pool of authorized but unissued
+shares for any purpose in the future, your ownership position would be diluted without your further ability to vote on that transaction.
+Shares of our common stock may continue to be
+subject to illiquidity because our shares may continue to be thinly traded and may never become eligible for trading on a national securities
+exchange.
+While we may at some point be able to meet the requirements
+necessary for our common stock to be listed on a national securities exchange, we cannot assure you that we will ever achieve a listing
+of our common stock on a national securities exchange. Our shares will only eligible for quotation on the OTC Markets, which is not an
+exchange. Initial listing on a national securities exchange is subject to a variety of requirements, including minimum trading price
+and minimum public “float” requirements, and could also be affected by the general skepticism of such markets concerning
+companies that are the result of mergers with inactive publicly-held companies. There are also continuing eligibility requirements for
+companies listed on public trading markets. If we are unable to satisfy the initial or continuing eligibility requirements of any such
+market, then our stock may not be listed or could be delisted. This could result in a lower trading price for our common stock and may
+limit your ability to sell your shares, any of which could result in you losing some or all of your investments.
+7
+The market valuation of our business
+may fluctuate due to factors beyond our control and the value of your investment may fluctuate correspondingly.
+The market valuation of emerging growth companies,
+such as us, frequently fluctuate due to factors unrelated to the past or present operating performance of such companies. Our market
+valuation may fluctuate significantly in response to a number of factors, many of which are beyond our control, including:
+i.
+changes
+in securities analysts’ estimates of our financial performance, although there are currently no analysts covering our stock;
+ii.
+fluctuations
+in stock market prices and volumes, particularly among securities of emerging growth companies;
+iii.
+changes
+in market valuations of similar companies;
+iv.
+announcements
+by us or our competitors of significant contracts, new technologies, acquisitions, commercial relationships, joint ventures or capital
+commitments;
+v.
+variations
+in our quarterly operating results;
+vi.
+fluctuations
+in related commodities prices; and
+vii.
+additions or departures of key personnel.
+As a result, the value
+of your investment in us may fluctuate.
+We have never paid
+dividends on our common stock.
+We have never paid cash dividends on our common stock
+and do not presently intend to pay any dividends in the foreseeable future. Investors should not look to dividends as a source of
+income.
+In the interest of reinvesting initial profits back
+into our business, we do not intend to pay cash dividends in the foreseeable future. Consequently, any economic return will initially
+be derived, if at all, from appreciation in the fair market value of our stock, and not as a result of dividend payments.
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS
+Not applicable for smaller reporting companies.
+ITEM 2.
+PROPERTIES
+Our company has a rental office which is located at
+136-20 38th Ave. Unit 3G Flushing, NY 11314, USA. Telephone no. is 929-391-2550.
+ITEM 3.
+LEGAL PROCEEDINGS
+None.
+ITEM 4.
+MINE AND SAFETY DISCLOSURES
+Not Applicable.
+8
+PART II
+ITEM 5.
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+Market for Our Common Stock
+The following table sets
+forth, for the periods indicated, the high and low closing prices of our common stock. These prices reflect inter-dealer prices, without
+retail mark-up, mark-down or commission, and may not represent actual transactions.
+Closing Prices (1)
+High
+Low
+Year Ended December 31, 2024
+1st Quarter
+$
+1.8000
+$
+1.8000
+2nd Quarter
+$
+0.8200
+$
+0.7600
+3rd Quarter
+$
+0.8990
+$
+0.3920
+4th Quarter
+$
+0.3900
+$
+0.2510
+Year Ended December 31, 2023
+1st Quarter
+$
+7.500
+$
+2.000
+2nd Quarter
+$
+2.900
+$
+1.260
+3rd Quarter
+$
+3.000
+$
+0.950
+4th Quarter
+$
+2.750
+$
+1.370
+(1)
+The above tables set forth the range
+of high and low closing prices per share of our common stock as reported by OTC Bulletin Board and the Pink Sheets, as applicable,
+for the periods indicated.
+Approximate Number
+of Holders of Our Common Stock
+On December 31, 2024, there were approximately 109
+stockholders of record of our common stock.
+Dividend Policy
+The Company has not declared or paid cash dividends
+or made distributions in the past, and we do not anticipate that we will pay cash dividends or make distributions in the foreseeable future.
+We currently intend to retain and reinvest future earnings, if any, to finance our operations.
+Recent Sales of Unregistered Securities
+None.
+Repurchase of Equity Securities.
+There is no sale of unregistered securities during
+the fiscal year ending December 31, 2024.
+Securities Authorized for Issuance under Equity
+Compensation Plans
+We currently do not have any equity compensation plans.
+Item 5.03
+Amendment to Articles of Incorporation or Bylaws; Change in Fiscal Year
+On January 24, 2019, we filed
+a certificate of designation setting forth the rights, preferences and privileges of a new series of preferred stock designated as the
+series A convertible preferred stock and series C convertible preferred stock. Each share of series A preferred stock is convertible into
+50 shares of common stock and each share of series C preferred stock is convertible into 20 shares of common stock.
+Please refer to 8-K filed on January 30, 2019.
+9
+On July 16, 2021, the Company
+filed a Certificate of Amendment with the Secretary of State of Nevada changing the name of the Company to SUIC Worldwide Holdings Ltd.
+The change of name was effective on November 9, 2022 upon FINRA Approval. No other change was made to the Certificate of Incorporation.
+Please refer to 8-K filed on July 16, 2022.
+On March 30, 2023, the Board of
+Directors of the Company appointed Esther Jou as Chief Executive Officer of the firm.
+Please refer to 8-K filed on March 31, 2023.
+On July 3, 2023, the Board of Directors
+authorized the submission of a Certificate of Change/Amendment to the Nevada Secretary of State in which the Company sought to affect
+a reverse split of its common stock at the rate of 1 for 10 for the purpose of increasing the per share price for the Company’s
+stock in an effort to attract future investors who might otherwise shy away from a good company because of its low stock price.
+The reverse split of SUIC Worldwide Holdings Ltd. common
+stock at a ratio of 1 for 10, was declared effective by FINRA with a Daily List Announcement Date of July 24, 2023, and a Market Effective
+Date of July 25, 2023. A “D” was placed on the Company’s ticker symbol for 20 business days after the Market Effective
+Date. After 20 business days, the symbol reverted back to the original symbol (SUIC).
+Upon the reverse split became effective,
+the company revised its outstanding shares and recalculated EPS with adjusting the computations of basic and diluted EPS retroactively
+for all periods presented to reflect that change in capital structure. Thus, as of December 31, 2023, in consideration of months fraction
+factor, the basic weight average shares outstanding is 4,125,300 and diluted weight average shares outstanding is 283,125,300.
+Please refer to 8-K filed on July 24, 2023.
+On August 15, 2023, the Company
+changed CEO from Esther Jou to Hanwei Wang and planned to grant stock award of 2,000 shares for one year services. Deferred compensation
+(contra-equity) will be recognized based on the stock price on grant date.
+No Form 8-K was filed for the appointment of the new
+CEO.
+On October 30, 2023, the Board
+of Directors of the Company appointed Mr. Kuo Yu-Chieh as Chairman of the Board of Directors.
+Please refer to 8-K filed on October 30, 2023.
+ITEM 6.
+SELECTED FINANCIAL DATA
+Not applicable for smaller reporting companies.
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+This Annual Report contains
+forward-looking statements within the meaning of the federal securities laws. These include statements about our expectations, beliefs,
+intentions or strategies for the future, which we indicate by words or phrases such as "anticipate," "expect," "intend,"
+"plan," "will," "we believe," "management believes" and similar language. The forward-looking
+statements are based on the current expectations of the Company and are subject to certain risks, uncertainties and assumptions, including
+those set forth in the discussion under "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+in this report. Actual results may differ materially from results anticipated in these forward-looking statements. We base the forward-looking
+statements on information currently available to us, and we assume no obligation to update them.
+Investors are also advised
+to refer to the information in our previous filings with the Securities and Exchange Commission (SEC), especially on Forms 10-K, 10-Q
+and 8-K, in which we discuss in more detail various important factors that could cause actual results to differ from expected or historic
+results. It is not possible to foresee or identify all such factors. As such, investors should not consider any list of such factors to
+be an exhaustive statement of all risks and uncertainties or potentially inaccurate assumptions.
+Overview
+From 2018 to present, the
+Company focused in products and services that adopt IT, cloud computing, mobile payments, Big Data, Blockchain and AI, and other new
+and exciting business models that will create revolutionary products and services. From 2020 to present, the Company through promissory
+notes becomes major creditor and stakeholder in Beneway Holdings Group Ltd (its corporate name was changed from Sinoway International
+Corp.). As of December 31, 2024, Midas Touch Technology Co. Ltd., had nominal operations and nominal assets. The company works with Beneway
+Holdings Group in several new business ventures with focus on the following fields:
+•
+Fintech - Through Boom Fintech,
+the major subsidiary of Beneway USA, the company holds nine revolutionary fintech patents. Boom Fintech integrates payment systems,
+electronic invoice devices, mobile cash registers, POS system devices and ERP, as well as Big Data, AI and other services, to all-in-one
+products that provide standardized intellectual property that’s modular to all industries, from chain department stores to
+night market vendors. Beneway Holdings Group connects borrowers and lenders, building strategic partnerships by bridging the various
+stakeholders to provide a holistic financial delivery ecosystem and to integrate advanced systems and finance its global merchants
+and franchisees.
+•
+Food Industry Supply Chain Integration –
+SUIC and Beneway will partner with international trade financiers to support the huge demand for raw material import/export between
+the U.S. and Asia. SUIC and Beneway are looking to raise funds from an IPO and the capital markets to support mergers and acquisitions
+of U.S. mid- and upper-stream food industry suppliers.
+•
+Global Chain & Franchise Expansion –Through
+I.Hart catering group, SUIC and Beneway are working to bring reputable and distinguished overseas food product brands to the U.S.
+and around the world. It is working on integrating more successful chains to enter the U.S. chain and franchise market in all
+50 states. It is replicating its successful multi-branding business model and teaming up with top U.S. real estate firms, shopping
+malls and associated groups for faster expansion.
+•
+Other Supply Chain Integration - Beneway
+has identified several additional industries for future expansion, including medical and health care, high-tech digital AI systems,
+environmental protection and energy-related production.
+Certain amounts in last
+year’s financial statements have been reclassified to conform to current year presentation.
+10
+Our Business Model and Objectives
+The Company will continue to strengthen our competencies
+in research and development, venture financing for investing in the private enterprises and the public sector to develop products and
+services that adopt IoT, cloud computing, mobile payments, Big Data, Blockchain and AI, and other new and exciting business models that
+will create revolutionary products and services.
+Competitive Advantages
+The Company focuses on small and micro-cap companies
+with traditionally difficult access to capital. We provide specialized consulting services to help companies operate in the public markets.
+Our management team is experienced in risk management and exit planning. The Company’s competitive advantages include a global business
+network of investment and financial professionals who are integrated into our fintech ecosystem. In summary, our services and capital
+speed up the development and commercialization of our customers’ products.
+Material Agreements
+The company has signed several franchise brand and
+distribution contracts. Please refer to subsequent events.
+Results of Operations
+Years ended December 31,
+2024 and 2023.
+Revenue
+The Company recognized $0
+and $0 of revenue from continuing operations during the year ended December 31, 2024 and 2023, respectively.
+Other income from Cancellation
+of Liability
+The income from cancellation
+of liability was $0 and $3,000 for the years ended December 31, 2024 and 2023, respectively.
+Cost of Revenues
+Cost of revenues from continuing operations were $0 and $0 for the years
+ended December 31, 2024 and 2023, respectively.
+General and Administrative
+Expenses
+General and administrative
+expenses from continuing operations were $157,623 and $150,995 for the years ended December 31, 2024 and 2023, respectively. The increase
+was primarily due to the increase in professional fees paid for marketing activities.
+Bad Debts expense
+Bad debts expenses were $60,000.00
+and $380,578 for the year ended December 31, 2024 and 2023.
+Interest expense
+Interest expenses from continuing
+operation was $21,618 and $20,091 for the year ended December 31, 2024 and 2023 which included the interest on the convertible promissory
+notes and short term debts.
+Profits (Loss) from continuing
+operations
+The Company generated losses
+from continuing operations of $(234,211) and $(552,753) for the years ended December 31, 2024 and 2023, respectively.
+Net profits (loss)
+As a result of the foregoing,
+the Company generated net losses of operations of $(234,211) and $(552,753) for the years ended December 31, 2024 and 2023, respectively.
+11
+Liquidity and Capital Resources
+We have funded our operations
+to date primarily through operations, and non-related party loans. The Company’s management recognizes that the Company must generate
+sales and obtain additional financial resources to continue to develop its operations
+As of December 31, 2024,
+we had a working capital deficit of $(540,252). Our current assets on December 31, 2024 were $38,495 primarily consisting of cash in the
+bank. Our current liabilities were $578,747 primarily composed of loans payables- others $254,445, accrued interest payable $109,877,
+short term debts $97,900, other payables $96,000, credit card payable of $11,756 and accounts payables of $ 8,769.
+As of December 31, 2023,
+we had a working capital deficit of $(426,141). Our current assets on December 31, 2023 were $7,600 primarily consisting of cash in the
+bank. Our current liabilities were $433,741 primarily composed of loans payables- others $103,470, accrued interest payable $91,063, short
+term debts $107,734, other payables $96,000, credit card payable of $5,474 and accounts payables of $30,000.
+Cash Flow from Operating Activities
+Net cash used in operating activities was $ $(174,245)
+during the year ended December 31, 2024, which consisted of our net losses from continuing operation of $(234,211) which consisted of
+change in other interest receivables –Beneway Group Holdings (formerly Sinoway International Corp.) $(4,000), change in other receivables-
+Beneway Group Holdings Ltd $60,000, a change in accounts payables $(21,231), a change in accrued expenses and other liabilities $18,814,
+and a change of credit card payable of $6,282.
+Net cash used in operating
+activities was $(76,942) during the year ended December 31, 2023, which consisted of our net losses from continuing operation of $ $(552,753)
+primarily due to change of accounts receivables $362,525, other loans receivables $67,078, , other interest receivables$(4,500),
+a change of loan payables $103,470, accounts payable $30,000, accrued expenses and other current liabilities $16,948 and a change of
+credit card payable of $3,710.
+12
+Cash Flow from Investing
+Activities
+Net cash used in investing activities totaled $0 for
+the year ended December 31, 2024.
+Net cash used in investing activities totaled $30,000
+for the year ended December 31, 2023.
+Cash Flow from Financing Activities
+Net cash used in financing activities was $205,141
+during the year ended December 31, 2024, which primarily consisted of proceeds from loan payables-others $150,975, proceeds from non-related
+party loan and shares issued to iGala Commonwealth Ltd. $64,000, and repayment of non-related party loan $(9,834).
+Net cash used in financing
+activities was $38,470 during the year ended December 31,
+2023, which primarily consisted of repayment of short term debt to Shoou Chyn Kan $65,000 and change in loan payable $103,470.
+Off-Balance Sheet Arrangements
+There are no off-balance sheet arrangements that have
+or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues, expenses,
+results of operations, liquidity, capital expenditures or capital resources.
+Inflation
+We do not believe our business and operations have
+been materially affected by inflation
+Critical Accounting Policies and Estimates
+This discussion and analysis of our financial condition
+and results of operations are based on our financial statements that have been prepared under accounting principle generally accepted
+in the United States of America. The preparation of financial statements in conformity with accounting principles generally accepted in
+the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities
+and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those estimates.
+A summary of significant accounting policies is included
+in Note 3 to the consolidated financial statements included in this Annual Report. Of these policies, we believe that the following items
+are the most critical in preparing our financial statements.
+Accounts Receivable and Allowance for Doubtful
+Accounts
+Accounts receivable are recorded at the invoiced amount,
+net of an allowance for doubtful accounts. The Company follows paragraph 310-10-50-9 of the FASB Accounting Standards Codification to
+estimate the allowance for doubtful accounts. The Company performs on-going credit evaluations of its customers and adjusts credit limits
+based upon payment history and the customer’s current credit worthiness, as determined by the review of their current credit information;
+and determines the allowance for doubtful accounts based on historical write-off experience, customer specific facts and economic conditions.
+Outstanding account balances are reviewed individually
+for collectability. The allowance for doubtful accounts is the Company’s best estimate of the amount of probable credit losses
+in the Company’s existing accounts receivable. Bad debt expense is included in general and administrative expenses, if any. Pursuant
+to paragraph 310-10-50-2 of the FASB Accounting Standards Codification account balances are charged off against the allowance after all
+means of collection have been exhausted and the potential for recovery is considered remote. The Company has adopted paragraph 310-10-50-6
+of the FASB Accounting Standards Codification and determine when receivables are past due or delinquent based on how recently payments
+have been received.
+13
+Inventories
+Inventories consists of products purchased and are
+valued at the lower of cost or net realizable value. Cost is determined on the weighted average cost method. The Company reduces inventories
+for the diminution of value, resulting from product obsolescence, damage or other issues affecting marketability, equal to the difference
+between the cost of the inventory and its estimated net realizable value. Factors utilized in the determination of estimated net realizable
+value include (i) current sales data and historical return rates, (ii) estimates of future demand, (iii) competitive pricing pressures,
+(iv) new product introductions, (v) product expiration dates, and (vi) component and packaging obsolescence.
+The Company evaluates its current level of inventories
+considering historical sales and other factors and, based on this evaluation, classify inventory markdowns in the income statement as
+a component of cost of goods sold pursuant to Paragraph 420-10-S99 of the FASB Accounting Standards Codification to adjust inventories
+to net realizable value. These markdowns are estimates, which could vary significantly from actual requirements if future economic conditions,
+customer demand or competition differ from expectations.
+Revenue Recognition
+The Company’s revenue recognition policies
+are in compliance with ASC 606. Revenue is recognized when the promised goods or services are transferred to the customer. The amount
+of revenue recognized should equal the total consideration an entity expects to receive in return for the goods or services.
+Our revenues are primarily generated by providing professional
+services and software products, consulting and other professional services to our clients and are billable to our clients based on the
+services provided, or achieved outcomes. Revenues are primarily driven by the total value, scope, and terms of the consulting contracts.
+We also engage independent contractors to supplement our revenue-generating professionals on client engagements as needed.
+We adopt a fixed fee billing arrangement and agree
+to a pre-established fee in exchange for a predetermined set of professional services. We set the fees based on our estimates of the costs
+and timing for completing the engagements.
+Our quarterly results are impacted principally by the
+total value, scope, and terms of our client contracts. Our utilization rate can be affected by seasonal variations in the demand for our
+services from our clients.
+Our operating expenses
+include professional fees, technology costs, software and data hosting expenses, rent and other office related expenses.
+Foreign Currency
+Translation and Fair Value of Financial Instruments
+The
+Company follows Section 830-10-45 of the FASB Accounting Standards Codification (“Section 830-10-45”) for foreign currency
+translation to translate the financial statements of the foreign subsidiary from the functional currency, generally the local currency,
+into U.S. Dollars. Section 830-10-45 sets out the guidance relating to how a reporting entity determines the functional currency of a
+foreign entity (including of a foreign entity in a highly inflationary economy), re-measures the books of record (if necessary), and
+characterizes transaction gains and losses. the assets, liabilities, and operations of a foreign entity shall be measured using the functional
+currency of that entity. An entity’s functional currency is the currency of the primary economic environment in which the entity
+operates; normally, that is the currency of the environment, or local currency, in which an entity primarily generates and expends cash .
+The functional currency
+of each foreign subsidiary is determined based on management’s judgment and involves consideration of all relevant economic facts
+and circumstances affecting the subsidiary. Generally, the currency in which the subsidiary transacts a majority of its transactions,
+including billings, financing, payroll and other expenditures, would be considered the functional currency, but any dependency upon the
+parent and the nature of the subsidiary’s operations must also be considered. If a subsidiary’s functional currency is deemed
+to be the local currency, then any gain or loss associated with the translation of that subsidiary’s financial statements is included
+in accumulated other comprehensive income. However, if the functional currency is deemed to be the U.S. Dollar, then any gain or loss
+associated with the re-measurement of these financial statements from the local currency to the functional currency would be included
+in the consolidated statements of comprehensive income (loss). If the Company disposes of foreign subsidiaries, then any cumulative translation
+gains or losses would be recorded into the consolidated statements of comprehensive income (loss). If the Company determines that there
+has been a change in the functional currency of a subsidiary to the U.S. Dollar, any translation gains or losses arising after the date
+of change would be included within the statement of comprehensive income (loss).
+Based on an assessment
+of the factors discussed above, the management of the Company determined the relevant subsidiaries’ local currencies to be their
+respective functional currencies. Foreign currency translation gains (loss) resulting from the process of translating the local currency
+financial statements into U.S. dollars are included in determining accumulated other comprehensive income in the consolidated statement
+of stockholders’ equity.
+14
+The Company follows the ASC 820 of the U.S. GAAP for
+fair valuation measurement. The company’s financial instruments include cash and cash equivalents, accounts receivable, accounts
+payable, short-term debts, and long-term debt. Fair value is defined as the amount that would be received to sell an asset or paid to
+transfer a liability in an orderly transaction between market participants as of the measurement date. This standard also establishes
+a hierarchy for inputs used in measuring fair value. This standard maximizes the use of observable inputs and minimizes the use of unobservable
+inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs market participants would use
+in valuing the asset or liability based on market data obtained from independent sources. Unobservable inputs are inputs that reflect
+our assumptions about the factors market participants would use in valuing the asset or liability based upon the best information available
+in the circumstances. The categorization of financial assets and liabilities within the valuation hierarchy is based upon the lowest
+level of input that is significant to the fair value measurement. The hierarchy is broken down into three levels. Level 1 inputs are
+quoted prices in active markets for identical assets or liabilities. Level 2 inputs include quoted prices for similar assets or liabilities
+in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, and inputs (other than
+quoted prices) that are observable for the asset or liability, either directly or indirectly. Level 3 inputs are unobservable for the
+asset or liability and their fair values are determined using pricing models, discounted cash flow methodologies or similar techniques
+and at least one significant model assumption or input is unobservable. Level 3 may also include certain investment securities for which
+there is limited market activity or a decrease in the observability of market pricing for the investments, such that the determination
+of fair value requires significant judgment or estimation.
+Fair value measurements of other financial instruments
+– The following methods and assumptions were used to estimate the fair value of each class of financial instrument for which it
+is practicable to estimate fair value.
+Cash and cash equivalents, accounts receivable, and
+accounts payable – The carrying amounts reported in the consolidated balance sheets approximate fair value because of the short-term
+nature of these items.
+Long-term debt – The carrying amounts reported
+in the balance sheets approximates fair value because our interest rate is fixed.
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+Not required for smaller reporting companies.
+Most Recent accounting pronouncements
+Refer to note 2 in the accompanying consolidated financial
+statements.
+Impact of Most Recent Accounting Pronouncements
+There were no recent accounting pronouncements that
+have had a material effect on the Company’s financial position or results of operations.
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY FINANCIAL DATA
+Financial Statements
+The full text of our audited consolidated financial
+statements as of December 31, 2024 and 2023 begins on page F-1 of this Report.
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+There were no recent changes in auditor appointment
+and engagement.
+ITEM 9A.
+CONTROLS AND PROCEDURES.
+Evaluation of disclosure controls and procedures.
+The Company maintains a set of disclosure controls
+and procedures designed to ensure that information required to be disclosed by the Company in the reports filed under the Securities Exchange
+Act, is recorded, processed, summarized and reported within the time periods specified by the SEC's rules and forms. Disclosure controls
+are also designed with the objective of ensuring that this information is accumulated and communicated to the Company's management, including
+the Company's chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+During the course of internal evaluation, following
+control weaknesses are noted for the fiscal year ended December 31, 2024 that required correction:
+•
+no independent director exists in the Board of Directors, and the directors have little understanding about U.S. GAAP and Sarbanes-Oxley Act 404 requirements in 2024.
+Based upon their evaluation as of the end of the period
+covered by this annual report, the Company's chief executive officer and chief financial officer concluded that, due to the significant
+deficiencies in internal control over financial reporting described below, the Company's disclosure controls and procedures are not effective
+as of December 31, 2024.
+15
+Changes in internal controls.
+The term “internal control over financial reporting”
+(defined in SEC Rule 13a-15(f)) refers to the process of a company that is designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles. The Company’s management, with the participation of the Chief Executive Officer and Chief Financial Officer, has evaluated
+any changes in the Company’s internal control over financial reporting that occurred during the fourth quarter of the year covered
+by this annual report, and they have concluded that there was no change to the Company’s internal control over financial reporting
+that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Management's Report on Internal Control over
+Financial Reporting.
+Our management is responsible for establishing and
+maintaining adequate internal control over financial reporting for the company in accordance with as defined in Rules 13a-15(f) and 15d-15(f)
+under the Exchange Act. Our internal control over financial reporting is designed to provide reasonable assurance regarding the (i) effectiveness
+and efficiency of operations, (ii) reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles, and (iii) compliance with applicable laws and regulations. Our internal controls
+framework is based on the criteria set forth in the Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations
+of the Treadway Commission (COSO).
+Due to inherent limitations, internal control over
+financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject
+to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies and
+procedures may deteriorate.
+A material weakness in internal controls is a deficiency
+in internal control, or combination of control deficiencies, that adversely affects the Company’s ability to initiate, authorize,
+record, process, or report external financial data reliably in accordance with accounting principles generally accepted in the United
+States of America such that there is more than a remote likelihood that a material misstatement of the Company’s annual or interim
+financial statements that is more than inconsequential will not be prevented or detected. In the course of making our assessment of the
+effectiveness of internal controls over financial reporting, we identified some material weaknesses in our internal control over financial
+reporting.
+We lack sufficient personnel with the appropriate level
+of knowledge, experience and training in the application of accounting operations of our company. This weakness causes us to not fully
+identify and resolve accounting and disclosure issues that could lead to a failure to perform timely internal control and reviews.
+Management is currently reviewing its staffing and
+systems in order to remedy the weaknesses identified in this assessment. However, because of the above condition, management’s assessment
+is that the Company’s internal controls over financial reporting were not effective as of December 31, 2024. Additionally, the Registrant’s
+management has concluded that the Registrant has a material weakness associated with its U.S. GAAP expertise.
+This Annual Report does not include an attestation
+report of the Company’s registered public accounting firm regarding internal control over financial reporting. Management’s
+report was not subject to attestation by the Company’s registered public accounting firm pursuant to temporary rules of the Securities
+and Exchange Commission that permit the Company to provide only management’s report in this annual report.
+ITEM 9B.
+OTHER INFORMATION.
+None.
+16
+PART III
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+The following table sets forth: (1) names and ages
+of all persons who presently are and who have been selected as directors and executive officers of the Registrant; (2) all positions
+and offices with the Registrant held by each such person; (3) any period during which he or she has served a such. All directors hold
+office until the next annual meeting of our shareholders and until their successors have been elected and
+qualify. Officers serve at the pleasure of the Board of Directors.
+Name (1)
+Age
+Title
+Bill Tan Yee Wei
+53
+Chief Technology Officer, Director
+Hanwei Wang
+43
+Chief Executive Officer
+Yanru Zhou
+30
+Chief Finance Officer
+On Feb 28, 2018, the
+board of Director (the “Board”) of the Company appointed Yanru Zhou as Chief Executive Officer of the firm. Ms. Zhou received
+her undergraduate education in China.
+On December 31, 2019, the Board of Directors (the “Board”)
+of the Company appointed Bill Tan Yee Wei as Chief Technology Officer of the firm. Mr. Wei has more than 18 years of total working experiences
+in different industries with Lean Manufacturing and Six Sigma Black Belt skills. He has hands on experiences in Supply Chain Management,
+Procurement, Quality Assurance, Inventory, Sales, Production, Logistic, Project Management, Transport Management and Distribution exposure.
+Mr. Wei has received his Bachelor of Science, Mechanical Engineer degree at West Virginia University Institute of Technology, WV, USA.
+On August 15, 2023, the Board
+of the Company appointed Mr. Hanwei Wang as Chief Executive Officer of the firm. Mr. Wang received his degree of Bachelor of Science in
+Finance at the Tamkang University, Taiwan. He is currently serving as chief executive officer of I.H Art Co. Ltd. (Taiwan) and served
+as the Secretary General of Taiwan Institute of Quantitative Trading https://tiqt.org.tw.
+On August 15, 2023, the Board
+of Directors of the Company approved the resignation of Ms. Esther Jou as Chief Executive Officer of the firm.
+Nominating, Compensation and Audit Committees
+The Board of Directors does not have an audit committee,
+a compensation committee or a nominating committee, due to the small size of the Board. The Board does also not have an “audit committee
+financial expert” within the definition given by the Regulations of the Securities and Exchange Commission.
+Section 16(A) Beneficial Ownership Reporting
+Compliance
+Under U.S. securities laws, directors, certain executive
+officers and persons holding more than 10% of our common stock must report their initial ownership of the common stock, and any changes
+in that ownership, to the SEC.
+Involvement in Certain Legal Proceedings
+To the best of our knowledge, none of our directors
+or executive officers has been convicted in a criminal proceeding, excluding traffic violations or similar misdemeanors, or has been
+a party to any judicial or administrative proceeding during the past five years that resulted in a judgment, decree or final order enjoining
+the person from future violations of, or prohibiting activities subject to, federal or state securities laws (except where not subsequently
+dismissed without sanction or settlement), or from engaging in any type of business practice, or a finding of any violation of federal
+or state securities laws. To the best of our knowledge, no petition under the federal bankruptcy laws or any state insolvency law was
+filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or property of any of our
+directors or officers, or any partnership in which any of our directors or officers was a general partner at or within two years before
+the time of such filing, or any corporation or business association of which any of our directors or officers was an executive officer
+at or within two years before the time of such filing. Except as set forth in our discussion below in “Certain Relationships and
+Related Transactions, and Director Independence,” none of our directors, director nominees or executive officers has been involved
+in any transactions with us or any of our directors, executive officers, affiliates or associates which are required to be disclosed
+pursuant to the rules and regulations of the SEC.
+17
+Code of Ethics
+The Board of Directors has not adopted a code of ethics
+applicable to the Company’s executive officers. The Board believes that the small number of individuals involved in the Company’s
+management makes such a code unnecessary.
+Board Attendance
+During 2024, the board of directors did not hold any
+meetings.  All actions were taken by actions in writing.
+ITEM 11.
+REMUNERATION OF DIRECTORS
+None of the members of the Board of Directors receives
+remuneration for service on the Board.
+18
+Executive Employment Contracts
+We have an employment agreement with CFO, Yanru Zhou
+on February 28, 2018 for 5 years, subject to automatic renewals of another 5 years.
+We have an employment agreement with CTO, Bill Tan
+Yee Wei effective January 1, 2020.
+We have an employment agreement with CEO, Hanwei Wang
+on August 15, 2023 for 10 years.
+Equity Compensation Plan Information
+We do not have any compensation plan as of December
+31, 2024.
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+Security Ownership of Certain Beneficial Owners
+and Management
+The following table summarizes
+certain information regarding the beneficial ownership (as such term is defined in Rule 13d-3 under the Securities Exchange Act of 1934)
+of outstanding Registrant Common Stock as of December 31, 2024 by (i) each person known by us to be the beneficial owner of more than
+5% of the outstanding Common Stock, (ii) each of our directors, (iii) each of our named executive officers, and (iv) all executive officers
+and directors as a group. Except as indicated in the footnotes below, the security and stockholders listed below possess sole voting
+and investment power with respect to their shares.
+Name and Address of Beneficial Owner
+(1)
+Amount
+and Nature
+of Beneficial
+Ownership
+(2)
+Percentage
+of
+Class
+(2)
+North America Chinese Financial Association
+3,958,850
+34.737
+%
+Hsu, Chien-Lung
+1,750,000
+15.355
+%
+Esther Jou
+1,655,000
+14.522
+%
+Lin, Shih-Hsiung
+700,000
+6.1420
+%
+Tan Yee-Wei
+500
+0.0040
+%
+Yanru Zhou
+500
+0.0040
+%
+All Directors and Executive Officers as a Group
+(1 person)
+8,064,850
+70.764
+%
+(1) "Beneficial
+Owner" means having or sharing, directly or indirectly (i) voting power, which includes the power to vote or to direct the voting,
+or (ii) investment power, which includes the power to dispose or to direct the disposition, of shares of the common stock of an issuer.
+The definition of beneficial ownership includes shares, underlying options or warrants to purchase common stock, or other securities
+convertible into common stock, that currently are exercisable or convertible or that will become exercisable or convertible within 60
+days. Unless otherwise indicated, the beneficial owner has sole voting and investment power.
+(2) For each shareholder, the calculation of percentage
+of beneficial ownership is based upon 11,396,638 shares of Common Stock outstanding as of December
+31, 2024 and shares of Common Stock subject to options, warrants and/or conversion rights held by the shareholder that are currently
+exercisable or exercisable within 60 days, which are deemed to be outstanding and to be beneficially owned by the shareholder holding
+such options, warrants, or conversion rights. The percentage ownership of any shareholder is determined by assuming that the shareholder
+has exercised all options, warrants and conversion rights to obtain additional securities and that no other shareholder has exercised
+such rights.
+EMPLOYMENT AGREEMENTS
+We have an employment agreement with CFO, Yanru Zhou
+on Feb. 28, 2018 for 5 years, subject to automatic renewals of another 5 years.
+We have an employment agreement with CTO, Bill Tan
+Yee Wei effective January 1, 2020.
+We have an employment agreement with CEO, Hanwei Wang
+on August 15, 2023 for 10 years, subject to automatic renewals.
+Equity Compensation Plan Information
+As of the date of this Form 10-K, the Company has
+not authorized any equity compensation plan, nor has our Board of Directors authorized the reservation or issuance of any securities
+under any equity compensation plan.
+Changes in Control
+During the year of 2024, there was no change in control.
+19
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS.
+Transactions with Related Persons
+During the year of 2024, the Company had no advances
+from related parties.
+Director Independence
+Currently, we have no independent directors on our
+Board of Directors, and therefore have no formal procedures in effect for reviewing and pre-approving any transactions between us, our
+directors, officers and other affiliates. We will use our best efforts to insure that all transactions are
+on terms at least as favorable to the Company as we would negotiate with unrelated third parties.
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+2024
+2023
+Audit fees(1)
+$
+10,440
+$
+13,280
+Audit-related fees
+$
+—
+$
+—
+Tax fees(2)
+$
+—
+$
+—
+All other fees
+$
+—
+$
+—
+Total
+$
+10,440
+$
+13,280
+(1)
+Consists of fees billed for the audit
+of our annual financial statements, review of financial statements included in our Quarterly Reports on Form 10-Q and services that
+are normally provided by the accountant in connection with statutory and regulatory filings or engagements.
+(2)
+“Tax Fees” consisted of fees billed for professional
+services rendered by the principal accountant for tax compliance, tax advice, and tax planning.
+Pre-Approval Policies
+and Procedures
+Under the Sarbanes-Oxley Act of 2002, all audit and
+non-audit services performed by our auditors must be approved in advance by our Board to assure that such services do not impair the auditors’
+independence from us. In accordance with its policies and procedures, our Board pre-approved the audit service performed by Victor Mokuolu,
+CPA PLLC, for our financial statements as of and for the year ended December 31, 2024.
+20
+PART IV
+ITEM 15.
+EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES.
+Exhibit
+No.
+Description
+3.1(1)
+Articles of Incorporation
+3.2(1)
+By-Laws
+4.1(1)
+Form of Share Certificate
+10.1(1)
+Private Placement Memorandum
+10.2(1)
+Subscription Agreement
+10.3(1)
+Registration Rights Agreement
+31.1
+Certification of Chief Executive Officer Pursuant
+to Section 302 of the Sarbanes-Oxley Act of 2002 *
+31.2
+Certification of Chief Financial Officer Pursuant
+to Section 302 of the Sarbanes-Oxley Act of 2002 *
+32.1
+Certification pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 *
+32.2
+Certification pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 *
+101
+The following materials from our Annual Report
+on Form 10-K for the year ended December 31, 2024, formatted in XBRL (eXtensible Business Reporting Language): (i) the
+Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Stockholders'
+Equity (iv) the Consolidated Statements of Cash Flows, and (v) Notes to Consolidated Financial Statements. *
+(1) Filed as exhibits
+to the registrant’s Form SB-2 filed with the Commission on June 29, 2007.
+SUIC Worldwide Holdings
+Ltd.
+December 31, 2024 and
+2023
+Index to the financial
+statements
+Contents
+Page(s)
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 6771)
+F-1
+Balance Sheets
+F-2
+Statements of Operations
+F-3
+Statements of Stockholders’
+Deficiency
+F-4
+Statements of Cash Flows
+F-5
+Notes to the Financial Statements
+F-6
+21
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+To the Board of Directors and Stockholders
+SUIC Worldwide Holdings Ltd.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets of
+SUIC Worldwide Holdings, Ltd. (the “Company”) as of December 31, 2024, and December 31, 2023, and the related statements of
+operations, stockholders’ deficiency, and cash flows for each of the two years in the period ended December 31, 2024, and the related
+notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in
+all material respects, the financial position of the Company as of December 31, 2024, and December 31, 2023, and the results of its operations
+and its cash flows for each of the two years in the period ended December 31, 2024, in conformity with accounting principles generally
+accepted in the United States of America.
+Substantial Doubt about the Company’s ability
+to continue as a Going Concern
+The accompanying financial statements have been prepared
+assuming the Company will continue as a going concern. As discussed in Note 2, Going Concern to the financial statements, the Company
+has suffered recurring losses from operations and has a significant accumulated deficit of $2,526,784 and a working capital deficit of
+$540,252 as of December 31, 2024. These factors raise substantial doubt about the Company’s ability to continue as a going concern.
+Management’s plans in regard to these matters are also described in Note 2. The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility of
+the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits.
+We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required
+to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal
+control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal
+control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+A critical audit matter is a matter arising from the
+current period audit of the financial statements that was communicated or required to be communicated to the Company’s audit committee
+equivalent and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. We determined that there are no critical audit matters.
+/s/ Victor Mokuolu, CPA PLLC
+We have served as the Company’s auditor since 2025.
+Houston, Texas
+June 30, 2025
+PCAOB ID: 6771
+F-1
+SUIC Worldwide Holdings
+Ltd.
+Balance Sheets
+December
+31, 2024
+December
+31, 2023
+ASSETS
+CURRENT ASSETS:
+Cash
+$38,495
+$7,600
+Total Current Assets
+38,495
+7,600
+NONCURRENT ASSETS:
+Fixed assets
+—
+100
+Other interest receivables
+15,702
+11,702
+Other loans receivables
+30,000
+90,000
+Total Non-Current
+Assets
+45,702
+101,802
+Total Assets
+$84,197
+$109,402
+LIABILITIES AND STOCKHOLDERS'
+(DEFICIENCY)
+CURRENT LIABILITIES:
+Credit card payable
+$11,756
+$5,474
+Accounts payable - related
+party
+8,769
+30,000
+Short term debts
+97,900
+107,734
+Loans payables- others
+254,445
+103,470
+Other payables - related party
+96,000
+96,000
+Accrued interest
+payable
+109,877
+91,063
+Total Current
+Liabilities
+578,747
+433,741
+NON-CURRENT LIABILITIES:
+Convertible
+promissory notes- other
+279,000
+279,000
+Total Non-Current
+Liabilities
+279,000
+279,000
+Total Liabilities
+857,747
+712,741
+Stockholders’
+(Deficiency)
+Common stock,
+$0.01
+par value, 394,500,000
+shares authorized; 11,396,638
+shares and 11,356,638 shares issued and outstanding as of December 31, 2024 and 2023, respectively
+41,544
+41,504
+Additional paid-in capital
+1,711,691
+1,647,731
+Accumulated deficit
+(2,526,784)
+(2,292,573)
+Total Stockholders'
+(Deficiency)
+(773,550)
+(603,339)
+Total Liabilities
+and Stockholders'
+(Deficiency)
+$84,197
+$109,402
+See accompanying
+notes to the financial statements.
+F-3
+SUIC Worldwide Holdings
+Ltd.
+Statements of Operations
+Years Ended December 31,
+2024
+2023
+Revenue
+$—
+$—
+Cost of revenues
+—
+—
+Gross Profit
+—
+—
+Operating Expenses
+General
+and administrative
+157,623
+150,995
+Bad debt expenses
+60,000
+380,578
+Total operating
+expenses
+157,623
+531,573
+Loss from operations
+(217,623)
+(531,573)
+Other income:
+5,030
+7,911
+Other expense:
+Interest expense - related party
+(18,814)
+(19,948)
+Interest expense – other
+(2,803)
+(143)
+Expense for
+Uncollectible Dividends
+—
+(9,000)
+Total other expense:
+(21,618)
+(29,091)
+Loss
+before income tax provision
+(234,211)
+(552,753)
+Income tax
+provision
+—
+—
+Net Loss
+(234,211)
+(552,753)
+Net Loss
+$(234,211)
+$(552,753)
+Weighted average shares outstanding
+Basic
+11,380,354
+4,584,035
+Diluted
+290,380,354
+283,584,035
+See accompanying notes
+to the financial statements.
+F-4
+SUIC Worldwide Holdings Ltd.
+Statements of Stockholders'
+(Deficiency)
+Common
+Stock
+Additional
+Number
+of Shares
+Amount
+Paid-in
+Capital
+Accumulated (Deficit)
+Total
+Balance, December 31, 2022
+33,503,604
+$
+33,504
+$
+1,647,731
+$
+(1,739,820
+)
+$
+(58,585
+)
+Balance, after reverse stock split (10 to 1),
+effective on July 25, 2023
+3,356,638
+$
+33,504
+$
+1,647,731
+$
+(1,739,820
+)
+$
+(58,585
+)
+Shares issued for cash
+8,000,000
+$
+8,000
+—
+—
+$
+8,000
+Net income (loss)
+—
+—
+—
+(552,753
+)
+$
+(552,753
+)
+Balance, December 31, 2023
+11,356,638
+$
+41,504
+$
+1,647,731
+$
+(2,292,573
+)
+$
+(603,339
+)
+Shares Issued for service
+40,000
+$
+40
+$
+63,960
+$
+64,000
+Net income (loss)
+$
+(234,211
+)
+$
+(234,211
+)
+Balance, December 31, 2024
+11,396,638
+$
+41,544
+$
+1,711,691
+$
+(2,526,784
+)
+$
+(773,550
+)
+See accompanying notes to the financial statements.
+F-5
+SUIC Worldwide Holdings
+Ltd.
+Statements of Cash
+Flows
+Years Ended December 31,
+2024
+2023
+CASH
+FLOW FROM OPERATING ACTIVITIES
+Net
+Loss
+$(234,211)
+$(552,753)
+Adjustment to
+reconcile net loss to net cash provided by (used in) operating activities
+Depreciation
+50
+50
+Impairment loss-
+disposal of office equipment
+50
+—
+Change in operating
+assets and liabilities
+Change
+in accounts receivable
+—
+362,525
+Other interest receivable
+(4,000)
+(4,500)
+Other loans receivables
+60,000
+67,078
+Change in credit card payable
+6,282
+3,710
+Accounts payable
+(21,231)
+30,000
+Accrued expenses and other current liabilities
+18,814
+16,948
+Net cash provided
+by (used in) operating activities
+$(174,245)
+$(76,942)
+CASH
+FLOW FROM INVESTING ACTIVITIES
+Short
+term investment
+—
+30,000
+Net
+cash provided by investing activities
+—
+30,000
+CASH
+FLOW FROM FINANCING ACTIVITIES
+Repayment of
+short term debts
+(9,834)
+(65,000)
+Proceeds from
+loan payables - others
+150,975
+—
+Shares issued for cash
+64,000
+Loans payable
+—
+103,470
+Net cash provided
+by
+financing activities
+$205,141
+$38,470
+INCREASE(DECREASE)
+IN CASH
+30,895
+(8,472)
+Cash
+- beginning of year
+7,600
+16,072
+Cash
+- end of year
+$38,495
+$7,600
+Supplement
+disclosure information
+Cash paid for
+interest
+$2,803
+$143
+Cash paid for
+income taxes
+—
+—
+The accompanying
+notes are an integral part of the financial statements.
+F-6
+SUIC Worldwide Holdings Ltd.
+Notes to the Financial Statements
+NOTE 1 – Organization and Basis of presentation
+SUIC Worldwide Holdings Ltd (SUIC) is a Nevada corporation
+incorporated on August 30, 2006, under the name Gateway Certifications, Inc. On November 16, 2009, our corporate name was changed to American
+Jianye Greentech Holdings, Ltd., on February 13, 2014, our corporate name was changed to AJ Greentech Holdings, Ltd. and on July 17, 2017,
+our corporate name was changed to Sino United Worldwide Consolidated Ltd. On November 9, 2022, our corporate name was changed to SUIC
+Worldwide Holdings Ltd.
+From November 2009 until October, 2013, through our
+China and Taiwan subsidiaries, we were engaged in renewable energy business. From October 2013 until September, 2017, through our Taiwan
+subsidiary, we were engaged in the driving record management system (DMS). Both Subsidiaries were spun off through stock transfer and
+debt cancellation for the best interest of shareholders.
+From 2018 to present, the Company focused on products
+and services that adopt IT, cloud computing, mobile payments, Big Data, Blockchain and AI, and other new and exciting business models
+that will create revolutionary products and services. From 2020 to present, the Company through promissory notes becomes major creditor
+and stakeholder in Beneway Holdings Group Ltd (its corporate name was changed from Sinoway International Corp.). As of December 31, 2024,
+Midas Touch Technology Co. Ltd., doesn’t have any operation and net assets. The company works with Beneway Holdings Group in several
+new business ventures with focus on the following fields:
+•
+Fintech - Through Boom Fintech, the major subsidiary of Beneway USA, the company holds nine revolutionary fintech patents. Boom Fintech integrates payment systems, electronic invoice devices, mobile cash registers, POS system devices and ERP, as well as Big Data, AI and other services, to all-in-one products that provide standardized intellectual property that’s modular to all industries, from chain department stores to night market vendors. Beneway Holdings Group connects borrowers and lenders, building strategic partnerships by bridging the various stakeholders to provide a holistic financial delivery ecosystem and to integrate advanced systems and finance its global merchants and franchisees.
+•
+Food Industry Supply Chain Integration – SUIC and Beneway will partner with international trade financiers to support the huge demand for raw material import/export between the U.S. and Asia. SUIC and Beneway are looking to raise funds from an IPO and the capital markets to support mergers and acquisitions of U.S. mid- and upper-stream food industry suppliers.
+•
+Global Chain & Franchise Expansion –Through I.Hart catering group, SUIC and Beneway are working to bring reputable and distinguished overseas food product brands to the U.S. and around the world. It is working on integrating more successful chains to enter the U.S. chain and franchise market in all 50 states. It is replicating its successful multi-branding business model and teaming up with top U.S. real estate firms, shopping malls and associated groups for faster expansion.
+•
+Other Supply Chain Integration - Beneway has identified several additional industries for future expansion, including medical and health care, high-tech digital AI systems, environmental protection and energy-related production.
+Certain amounts in last year’s financial statements
+have been reclassified to conform to current year presentation.
+NOTE 2 – Going Concern
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. The Company had a working capital deficit of $ (540,252), an
+accumulated deficit of $(2,526,784) and stockholders’ deficit was $(773,550) as of December 31, 2024. The Company has
+generated no cash or income from its operations. There is substantial doubt about the ability of the entity to continue as a going
+concern within one year after the date that the financial statements are issued. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+The Company is seeking for external resource of financing
+and develop new business in new fields to generate adequate cash flow for purpose of mitigating such unfavorable situation. As discussed
+in “NOTE 8 –Subsequent Events,” the Company plans to have joint ventures with other companies and cooperation with other
+companies in order to attract new investment and expand new business practice.
+F-7
+NOTE 3 – Summary of Significant Accounting Policies
+Use
+of Estimates
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the amount of revenues and expenses during the reporting periods. Management makes these estimates using the best information
+available at the time the estimates are made. However, actual results could differ materially from those results. Significant accounting
+estimates reflected in the Company’s financial statements included the valuation of accounts receivable, the estimated useful lives
+of long-term assets, the valuation of short-term investment and the valuation of deferred tax assets.
+Cash and cash equivalents
+Cash and cash equivalents include cash on hand and
+deposits placed with banks or other financial institutions, which are unrestricted as to withdrawal and use and with an original maturity
+of three months or less. The Company maintains its cash in bank deposit accounts. Cash accounts are guaranteed by the Federal Deposit
+Insurance Corporation up to $250,000. The Company has not experienced any losses in such accounts and believes it is not exposed to any
+significant credit risk on such cash.
+Accounts Receivable and Allowance for Doubtful Accounts
+Accounts receivable
+are recorded at the invoiced amount, net of an allowance for doubtful accounts. The Company follows paragraph 310-10-50-9 of the
+FASB Accounting Standards Codification Receivables (Topic 310) to
+estimate the allowance for doubtful accounts. The Company performs on-going credit evaluations of its customers and adjusts credit
+limits based upon payment history and the customer’s current credit worthiness, as determined by the review of their current
+credit information; and determines the allowance for doubtful accounts based on historical write-off experience, customer specific
+facts and economic conditions.
+Outstanding account balances are reviewed individually
+for collectability. The allowance for doubtful accounts is the Company’s best estimate of the amount of probable credit losses in
+the Company’s existing accounts receivable. Bad debt expense is included in general and administrative expenses, if any. Pursuant
+to paragraph 310-10-50-2 of the FASB Accounting Standards Codification account balances are charged off against the allowance after all
+means of collection have been exhausted and the potential for recovery is considered remote. The Company has adopted paragraph 310-10-50-6
+of the FASB Accounting Standards Codification and determine when receivables are past due or delinquent based on how recently payments
+have been received.
+For the years ended
+December 31, 2024 and 2023, the Company recorded bad debt expenses of $60,000 and $380,578, respectively.
+Revenue Recognition
+The Company’s
+revenue recognition policies are in compliance with ASC 606. Revenue is recognized when the promised goods or services are transferred
+to the customer. The amount of revenue recognized should equal the total consideration an entity expects to receive in return for the
+goods or services.
+Our revenues are primarily
+generated by providing professional services and software products, consulting and other professional services to our clients and are
+billable to our clients based on the services provided, or achieved outcomes. Revenues are primarily driven by the total value, scope,
+and terms of the consulting contracts. We also engage independent contractors to supplement our revenue-generating professionals on client
+engagements as needed.
+We adopt a fixed fee billing
+arrangement and agree to a pre-established fee in exchange for a predetermined set of professional services. We set the fees based on
+our estimates of the costs and timing for completing the engagements.
+Our
+results are impacted principally by the total value, scope, and terms of our client contracts. Our utilization rate can be affected by
+seasonal variations in the demand for our services from our clients. There is zero revenue as of December 31, 2024 and 2023.
+Our operating expenses include
+professional fees, technology costs, software and data hosting expenses, and other office related expenses.
+Property and Equipment
+Property and equipment are stated at cost, less accumulated
+depreciation and amortization. Property and equipment are depreciated using the straight-line method over the estimated useful lives of
+the assets. Leasehold and tenant improvements are amortized over the shorter of the lease term or the estimated useful lives of the assets.
+The Company periodically reviews assets’ estimated useful lives based upon actual experience and expected future utilization. A
+change in useful life is treated as a change in accounting estimate and is applied prospectively.
+Upon retirement or disposition of property and equipment,
+the cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is reflected in selling, general and
+administrative expenses for that period. Major additions and betterments are capitalized to the asset accounts while maintenance and
+repairs, which do not improve or extend the lives of assets, are expensed as incurred.
+F-8
+Investments in Non-Consolidated Entities
+Investments in non-consolidated entities are accounted
+for using the equity method or cost basis depending upon the level of ownership and/or the Company's ability to exercise significant
+influence over the operating and financial policies of the investee. When the equity method is used, investments are recorded at original
+cost and adjusted periodically to recognize the Company's proportionate share of the investees' net income or losses after the date of
+investment. When net losses from an investment are accounted for under the equity method exceed its carrying amount, the investment balance
+is reduced to zero and additional losses are not provided for. The Company resumes accounting for the investment under the equity method
+if the entity subsequently reports net income and the Company's share of that net income exceeds the share of net losses not recognized
+during the period the equity method was suspended. Investments are written down only when there is clear evidence that a decline in value
+that is other than temporary has occurred.
+As ASC 321 stipulated, if the investor has less than
+20% ownership, it is presumed that there is nominal influence or no significant influence over the operating and financing activities
+of the investee. The Company holds 10% stock of iDrink, Taiwan since 2020, which is a private company without readily determinable
+fair value. Thus, the Company carried the investment at cost for each reporting period the Company keep tracking on the qualitative factors
+in assessing whether the investment is impaired. As of December 31, 2023, the Company wrote off the investment in iDrink Taiwan.
+For investment in Midas Touch Technology Co. Ltd.,
+we have 49% ownership and have significant influence on it, so we adopt equity method to recognize the investment. Due to this company
+didn’t have any net assets and operation yet as of December 31, 2024, we account for it as $0.
+Income Taxes
+The Company accounts for income taxes in accordance
+with ASC 740, Income Taxes, which requires that the Company recognize deferred tax liabilities and assets based on the differences
+between the financial statement carrying amounts and the tax basis of assets and liabilities, using enacted tax rates in effect in the
+years the differences are expected to reverse. Deferred income tax benefit (expense) results from the change in net deferred tax assets
+or deferred tax liabilities. A valuation allowance is recorded when, in the opinion of management, it is more likely than not that some
+or all of any deferred tax assets will not be realized.
+The Company adopted ASC 740-10-25, Income Taxes- Overall-Recognition,
+on January 1, 2007, which provides criteria for the recognition, measurement, presentation and disclosure of uncertain tax position. The
+Company must recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be
+sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the
+financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized
+upon ultimate resolution. The Company did not recognize any additional liabilities for uncertain tax positions as a result of the implementation
+of ASC 740-10-25.
+On December 22, 2017, the Tax Cuts and Jobs Act (the
+“Tax Act”) was enacted by the U.S. government which included a wide range of tax reform affecting businesses including the
+corporate tax rates, international tax provisions, tax credits and deduction with majority of the tax provision effective after December
+31, 2017.
+The Coronavirus Aid, Relief and Economy Security (CARES)
+Act (“the CARES Act, H.R. 748”) was signed into law on 27 March 2020. The CARES Act temporarily eliminates the 80% taxable
+income limitation (as enacted under the Tax Cuts and Jobs Act of 2017) for NOL deductions for 2018-2020 tax years and reinstated NOL carrybacks
+for the 2018-2020 tax years. Moreover, the CARES Act also temporarily increases the business interest deduction limitations from 30% to
+50% of adjusted taxable income for the 2019 and 2020 taxable year. Lastly, the Tax Act technical correction classifies qualified improvement
+property as 15-year recovery period, allowing the bonus depreciation deduction to be claimed for such property retroactively as if it
+was included in the Tax Act at the time of enactment.
+The Company accounts for an unrecognized tax benefit from an uncertain tax
+position only if it is more likely than not that the tax position will be sustained upon examination by the tax authorities.
+Net Profit per Share
+The Company calculates its basic and diluted earnings
+per share in accordance with ASC 260. Basic earnings per share are calculated by dividing net income by the weighted average number of
+common shares outstanding for the period. Diluted earnings per share are calculated by adjusting the weighted average outstanding shares
+to assume conversion of all potentially dilutive warrants and options and convertible securities.
+Due to impact of assumption of total conversion of the convertible securities, the number of basic and diluted shares of common stock
+is 11,396,638 and 290,396,638 respectively.
+Recently Issued Accounting Pronouncements
+In November 2024, the Financial Accounting Standards
+Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2024-04, Debt with Conversion and Other Options
+(Subtopic 470-20): Induced Conversions of Convertible Debt Instruments, which clarify the requirements related to accounting for the settlement
+of a debt as an induced conversion. ASU 2024-04 is intended to improve the relevance and consistency in application of the induced conversion
+guidance in Subtopic 470-20 for convertible debt instruments with cash conversion features and debt instruments that are not currently
+convertible. ASU 2024-04 is effective for fiscal years beginning after December 15, 2025, with early adoption permitted. We plan to adopt
+ASU 2024-04 in the first quarter of fiscal year 2026. We are currently evaluating the impact of this ASU on our financial statements and
+disclosures.
+In December 2023, the Financial Accounting Standards
+Board (“FASB”) issued Accounting Standards Update (“ASU”) 2023-09, “Income Taxes (Topic 740): Improvements
+to Income Tax Disclosures,” which modifies the rules on income tax disclosures to require disaggregated information about a reporting
+entity’s effective tax rate reconciliation as well as information on income taxes paid. The standard is intended to benefit investors
+by providing more detailed income tax disclosures that would be useful in making capital allocation decisions. The guidance is effective
+for annual periods beginning after December 15, 2024, with early adoption permitted. ASU 2023-09 should be applied on a prospective basis,
+but retrospective application is permitted. The Company is currently evaluating the potential impact of adopting this new guidance on
+our financial statements and related disclosures.
+In November 2023, the FASB issued ASU 2023-07, “Segment
+Reporting (Topic 280): Improvements to Reportable Segment Disclosures,” which is intended to improve reportable segment disclosure
+requirements, primarily through enhanced disclosures about significant segment expenses. The purpose of the amendment is to enable investors
+to better understand an entity’s overall performance and assess potential future cash flows. The guidance is effective for fiscal
+years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption
+permitted. The guidance is to be applied retrospectively to all prior periods presented in the financial statements. The Company will
+begin providing the enhanced reportable segment financial disclosures effective with its Annual Report on Form 10-K for the year ending
+December 31, 2024.
+Management does not believe that any recently issued,
+but not yet effective accounting pronouncements, when adopted, will have a material effect on the accompanying financial statements.
+F-9
+NOTE 4- Convertible Promissory Note and Short Term
+Loans
+The Company has signed
+the following convertible promissory note agreements with creditor, Shoou Chyn Kan, with an outstanding total $279,000 and $279,000 as
+of December 31, 2024 and December 31, 2023, respectively .
+The notes have parity in conversion in to common share for $0.001 per share with interest rate 5% per annum. The composition of the outstanding
+balances is stated in the following table:
+Date
+Description
+December 31, 2024
+December 31, 2023
+October 1, 2017
+Loan granted convertible to 65 million shares of common stock of the Company.
+$65,000
+$65,000
+December 1, 2018
+Loan granted convertible to 20 million shares of common stock of the Company.
+$20,000
+$20,000
+January 29, 2019
+Loan granted convertible to 15 million shares of common stock of the Company.
+$15,000
+$15,000
+June 1, 2019
+Loan granted convertible to 50 million shares of common stock of the Company.
+$50,000
+$50,000
+July 1, 2019
+Loan granted convertible to 20 million shares of common stock of the Company
+$12,000
+$20,000
+December 1, 2019
+Loan granted convertible to 20 million shares of common stock of the Company.
+$20,000
+$20,000
+January 22, 2020
+Loan granted convertible to 35 million shares of common stock of the Company.
+$35,000
+$35,000
+June 1, 2020
+Loan granted convertible to 12 million shares of common stock of the Company.
+$12,000
+$12,000
+August 25, 2020
+Loan granted convertible to 25 million shares of common stock of the Company.
+$25,000
+$25,000
+December 28, 2020
+Loan granted convertible to 25 million shares of common stock of the Company.
+$25,000
+$25,000
+Total:
+$279,000
+$287,000
+Payments:
+On November 6, 2023, the creditor Shoou-Chyn Kan holder of convertible promissory note dated July 1, 2019 for $20,000 converted 8,000,000 shares of common stock at conversion price of $0.001.
+-
+($8,000)
+Balances.
+$279,000
+$279,000
+The Company signed the
+following unsecured short term debt agreements with creditor, Shoou Chyn Kan with interest rate at 1.% per annum for
+a total of $172,734 in the year 2020 to 2021. The short term debts total $97,900 and $107,734 as of December 31, 2024 and December 31,
+2023 respectively. The company paid a total of $65,000 in the year 2023 and $48,939 in the year 2024. The Company plans to clear the balances
+of the Short Term Loans in year 2025, so it is classified as short-term liability. The composition of the outstanding balances is stated
+in the following table:
+Date
+December 31, 2024
+December 31, 2023
+Balance 12/31/2020
+$2,734
+March 29, 2021
+$10,000
+August 23, 2021
+$80,000
+December 16, 2021
+$60,000
+December 21, 2021
+$20,000
+Total:
+$ 172,734
+$ 172,734
+Payments
+-
+$(65,000)
+Balance: December 31, 2023
+$107,734
+$107,734
+January 23, 2024
+$2,104
+February 14, 2024
+$25,000
+July 30, 2024
+$12,000
+Payments:
+$(48,939)
+Balance, December 31, 2024
+$97,900
+NOTE 5 –
+Transactions with Significant Creditors
+Shoou -Chyn Kan is a significant creditor of the Company
+that could influence the decisions of the Company (please refer to Note 4 Convertible Promissory Note and Short Term Loans). And Shoou-Chyn
+Kan maintains business relationships with a number of Company’s shareholders.
+As of December 31, 2024, the outstanding balance of
+the convertible promissory note (principal) from the creditor- Shoou -Chyn Kan is $279,000 with unpaid total balance of $105,284  in
+accrued interest. For the year ended December 31, 2024, the Company recognized interest expense related to those convertible promissory
+notes of $17,550.
+As of December 31, 2023, the outstanding balance of
+the convertible promissory note (principal) from the credit Shoou-Chyn Kan is $279,000 with unpaid total balance of $87,734 in accrued
+interest. For the year ended December 31, 2023, the Company recognized interest expense related to those convertible promissory notes
+of $19,948.
+As of December 31, 2024, the outstanding balance of
+the short-term loan (principal) from the creditor- Shoou -Chyn Kan is $97,900 with unpaid total balance of $4,594 in accrued interest.
+As of December 31, 2023, the outstanding balance of
+the short-term loan (principal) from the creditor- Shoou-Chyn Kan is $107,734 with unpaid total balance of $3,329 in accrued interest.
+On November 6, 2023, the creditor Shoou -Chyn Kan holder
+of convertible promissory note dated July 1, 2019 for $20,000 converted 8,000,000 shares of common stock at conversion price of $0.001.
+The shares were donated to North American Chinese Financial Association, a non-profit organization to which Shoou-Chyn Kan is a member.
+The total of Loan Payable- Others was $254,445 and
+$103,470 as of December 31, 2024 and December 31, 2023 respectively. These loans were obtained through Shoou-Chyn Kan in business transactions
+with some of the Company’s shareholders.
+NOTE 6 – Related Party Transactions and Balances
+North American Chinese
+Financial Association, is a shareholder of the Company. The Company has an outstanding account payable to NACFA totaling $8,769, and
+$20,000 as of December 31, 2024 and December 31, 2023 respectively.
+Unise Investment Corp.,
+is a shareholder of the Company. The Company has an outstanding other payable to Unise Investment Corp totaling $96,000 and
+$96,000 as of December 31, 2024 and December 31, 2023 respectively. The Company has an outstanding account payable of $0 and $10,000
+as of December 31, 2024 and December 31, 2023 respectively.
+F-10
+NOTE 7 – Income
+Taxes
+The unused net
+operating loss carryover was $(2,526,784) and $2,292,573 as
+of December 31, 2024 and December 31, 2023 respectively. Due to the Company experienced net loss for a long period, so it treats
+deferred tax asset generated by net operating loss in a conservative manner. The Company deem the chance of the deferred tax asset
+being fully realized less than 50%. Thus, the Company recognized Valuation Allowance for Deferred Asset as full amount of deferred
+tax asset. The ending balance of Deferred Tax Asset and its Valuation Allowance are stated as following:
+December 31,
+December 31,
+2024
+2023
+Deferred Tax Asset
+$
+530,625
+$
+481,440
+Valuation Allowance
+$
+(530,625
+)
+(481,440)
+Deferred Tax Asset (Net)
+$
+—
+—
+A reconciliation of the
+provision for income taxes to the Company’s effective income tax rate for is as follows:
+For the year end December 31,
+2024
+2023
+Pre-tax income(loss)
+$
+(234,211)
+$
+(552,753)
+U.S. federal corporate income tax rate
+21
+%
+21
+%
+Expected U.S. income tax expense(benefit)
+$
+(49,184
+)
+$
+(116,078
+)
+Change of valuation allowance
+$
+49,184
+$
+116,078
+Effective tax expense
+$
+—
+$
+—
+NOTE 8 –
+Subsequent Events
+The Company has evaluated subsequent events through
+the filing of this Form 10-K with the SEC, and determined that the Company plans to have joint ventures with other companies and cooperation
+with other companies in order to attract new investment and expand new business practice.
+F-11
+SIGNATURES
+Pursuant to the requirements of
+Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+Sino United Worldwide Consolidated Ltd.
+Date: June 30, 2025
+By:
+/s/
+Han-Wei Wang
+Han-Wei Wang
+Chief Executive Officer
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ Han-Wei Wang
+Chief Executive Officer, Director
+June 30, 2025
+Han-Wei Wang
+(Principal Executive Officer)
+/s/ Yanru Zhou
+Chief Financial Officer
+June 30, 2025
+Yanru Zhou
+(Principal Financial Officer)
+33

@@ -1,0 +1,1260 @@
+10-K/A
+true0001804591FY
+0001804591
+2024-04-01 2025-03-31
+0001804591
+2024-09-30
+0001804591
+2023-04-01 2024-03-31
+0001804591
+2022-04-01 2023-03-31
+0001804591
+2021-04-01 2022-03-31
+0001804591
+vgac:AnneWojcickiMember
+2024-04-01 2025-03-31
+0001804591
+vgac:JosephSelsavageMember
+2024-04-01 2025-03-31
+0001804591
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember ecd:PeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember vgac:Peo2Member
+2024-04-01 2025-03-31
+0001804591
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember vgac:Peo2Member
+2024-04-01 2025-03-31
+0001804591
+ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMember vgac:Peo2Member
+2024-04-01 2025-03-31
+0001804591
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember vgac:Peo2Member
+2024-04-01 2025-03-31
+0001804591
+ecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember vgac:Peo2Member
+2024-04-01 2025-03-31
+0001804591
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember ecd:NonPeoNeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember ecd:PeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember ecd:PeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMember ecd:PeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember ecd:PeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember ecd:PeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember vgac:Peo2Member
+2024-04-01 2025-03-31
+0001804591
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember ecd:NonPeoNeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember ecd:NonPeoNeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMember ecd:NonPeoNeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember ecd:NonPeoNeoMember
+2024-04-01 2025-03-31
+0001804591
+ecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember ecd:NonPeoNeoMember
+2024-04-01 2025-03-31
+0001804591
+us-gaap:CommonClassAMember
+2025-07-17
+0001804591
+us-gaap:CommonClassBMember
+2025-07-17
+0001804591
+vgac:AnneWojcickiMember
+2023-04-01 2024-03-31
+0001804591
+vgac:JosephSelsavageMember
+2023-04-01 2024-03-31
+0001804591
+vgac:AnneWojcickiMember
+2022-04-01 2023-03-31
+0001804591
+vgac:JosephSelsavageMember
+2022-04-01 2023-03-31
+0001804591
+vgac:AnneWojcickiMember
+2021-04-01 2022-03-31
+0001804591
+vgac:JosephSelsavageMember
+2021-04-01 2022-03-31
+iso4217:USD
+xbrli:shares   UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K/A (Amendment No. 1)   (Mark One) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended March 31, 2025 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM       TO       Commission File Number 001-39587   23ANDME HOLDING CO. (Exact name of Registrant as specified in its Charter)
+Delaware
+87-1240344
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+870 Market Street, Room 415San Francisco, California
+94102
+(Address of principal executive offices)
+(Zip Code)(650) 938-6300 (Registrant’s telephone number, including area code)   Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A common stock, $0.0001 par value per share
+*
+*Securities registered pursuant to Section 12(g) of the Act: None Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒ Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes ☐ No ☒ Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐ Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files). Yes ☒ No ☐ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☒
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+Table of ContentsIf an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Indicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.  ☒ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.  ☐ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).  ☐ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒ The aggregate market value of voting stock held by non-affiliates of the Registrant as of September 30, 2024, the last business day of the Registrant’s most recently completed second fiscal quarter, was approximately $120.3 million (based on the last reported sale price of the Registrant’s Class A common stock of $6.95 per share on September 30, 2024 on the Nasdaq Capital Market), excluding only shares of Class A common stock held by executive officers and directors of the Registrant as of such date. The Registrant has no non-voting stock outstanding. As of July 17, 2025, there were 25,431,244 shares of Class A common stock, $0.0001 par value per share, and 2,110,250 shares of Class B common stock, $0.0001 par value per share, issued and outstanding. DOCUMENTS INCORPORATED BY REFERENCE None. *On March 24, 2025, 23andMe Holding Co., a Delaware corporation (the “Company”), received a letter from the Listing Qualifications Department (the “Staff”) of The Nasdaq Stock Market LLC (“Nasdaq”), notifying the Company that, in accordance with Nasdaq Listing Rules 5101, 5110(b), and IM-5101-1, the Staff had determined to delist the Company’s securities from Nasdaq. The Company did not request a hearing before the panel to appeal the Staff’s determination. Accordingly, trading of the Company’s Class A common stock, $0.0001 par value per share (the “Class A common stock”) was suspended at the opening of business on March 31, 2025, and on June 6, 2025, the Company filed a Form 25 with the Securities and Exchange Commission to remove the Class A common stock from listing and registration on Nasdaq. The delisting was effective ten days after the filing of the Form 25. The deregistration of the Class A common stock under Section 12(b) of the Securities Exchange Act of 1934, as amended, will be effective 90 days after the filing of the Form 25. The Class A common stock began trading on the OTC Pink Market on March 31, 2025 under the symbol “MEHCQ.”
+TABLE OF CONTENTS
+PART III
+1
+Item 10.  Directors, Executive Officers, and Corporate Governance
+1
+Item 11.  Executive Compensation
+5
+Item 12.  Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters
+26
+Item 13.  Certain Relationships and Related Transactions and Director Independence
+29
+Item 14.  Principal Accounting Fees and Services
+31
+PART IV
+32
+Item 15.  Exhibits, Financial Statement Schedules
+32
+SIGNATURES
+33
+i
+EXPLANATORY NOTE 23andMe Holding Co. (the “Company”) is filing this Amendment No. 1 on Form 10-K/A (this “Amendment”) to amend its Annual Report on Form 10-K for the fiscal year ended March 31, 2025 (“Fiscal 2025”) filed with the Securities and Exchange Commission (the “SEC”) on June 11, 2025 (the “Original Report”). This Amendment is being filed for the purpose of including the information required by Items 10 through 14 of Part III of Form 10-K not included in the Original Report. This information required by Items 10 through 14 of Part III of Form 10-K was previously omitted from the Original Report in reliance on the SEC’s general instructions to Form 10-K, which permit the information in the above referenced items to be incorporated by reference from a definitive proxy statement if such statement is filed no later than 120 days after a company’s fiscal year-end. The Company is filing this Amendment to include the Part III information in the Original Report because the Company’s definitive proxy statement containing this information will not be filed before such date. As such, this Amendment hereby amends and supplements Items 10 through 14 of Part III of the Original Report and amends and updates the Form 10-K cover page (primarily to update the number of shares of Class A Common Stock and Class B Common Stock outstanding to July 17, 2025). In addition, in accordance with applicable SEC rules, Item 15 of Part IV of the Original Report has been supplemented to include currently dated certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. Except as described above, this Amendment does not amend, update, or change any other items or disclosures in the Original Report and does not purport to reflect any information or events subsequent to the filing of the Original Report, including, without limitation, the consummation of the transactions contemplated by that certain Asset Purchase Agreement, by and among the Company, certain of its subsidiaries, and TTAM Research Institute, dated as of June 13, 2025. As such, this Amendment speaks only as of the date the Original Report was filed, and the Company has not undertaken herein to amend, supplement, or update any information contained in the Original Report to give effect to any subsequent events. KPMG LLP (“KPMG”) issued reports on the consolidated financial statements of the Company, and the effectiveness of the Company’s internal control over financial reporting, within the Original Report. As this Amendment speaks to the date of the Original Report, KPMG’s reports speak only as to June 11, 2025. The Company has made no substantive changes to the Original Report other than those noted above.
+PART III Item 10. Directors, Executive Officers, and Corporate Governance BOARD OF DIRECTORS AND EXECUTIVE OFFICERS The Board of Directors (the “Board”) of the Company currently consists of five directors. Biographical information regarding each of the directors currently serving on the Board is set forth below. CLASS I DIRECTOR
+Jim Frankola AGE | 60INDEPENDENTDIRECTOR SINCE | 2024COMMITTEES | AC, CC, SC
+A practiced leader and advisor in the technology space, Mr. Frankola most recently served as the Chief Financial Officer and a strategic advisor to Cloudera, Inc., an enterprise data cloud company, from 2012 to 2023. Prior to Cloudera, Inc., Mr. Frankola was the Chief Financial Officer of Yodlee, Inc., a data aggregation and analytics platform, from 2010 to 2012, and Ariba, Inc., a leading procurement and supply chain management technology provider, from 2001 to 2010. He currently serves on the Board of Directors and the Audit, Compensation, Nominating and Governance Committees of Skillsoft Corp. (NYSE: SKIL). He previously served on the Boards of Directors of Ansys, Inc. (2021 to 2025), Cvent (2021 to 2023), and ActivIdentity (2006 to 2010). Additionally, Mr. Frankola is an advisor to the artificial intelligence companies Vectara and Narada. Key Qualifications: We believe that Mr. Frankola is qualified to serve on the Board because of his extensive experience serving on the boards of directors of public companies, as well as his expertise with technology companies. CLASS II DIRECTORS
+Andre Fernandez AGE | 56INDEPENDENTDIRECTOR SINCE | 2024COMMITTEES | AC, CC, SC
+Mr. Fernandez, a seasoned executive with extensive cross-industry leadership experience, is currently a Principal at Domain Americas LLC (“Domain”), a financial and strategy consulting firm. Previously, he was the Chief Financial Officer of WeWork, Inc. (“WeWork”) from 2022 to 2023. WeWork filed for Chapter 11 bankruptcy protection in November 2023 (five months after Mr. Fernandez ceased to be employed by WeWork). Prior to joining WeWork, he was the Executive Vice President and Chief Financial Officer of NCR Corporation, a global enterprise technology provider of digital commerce solutions for financial institutions, retail stores, and restaurants, from 2018 to 2020, and the President and Chief Executive Officer of CBS Radio Inc. from 2015 to 2017. Mr. Fernandez currently serves on the Board of Directors and the Audit and Compensation Committees of Cardlytics, Inc. (Nasdaq: CDLX) and on the Board of Directors and the Audit Committee of Blackstone Infrastructure Strategies L.P. He previously served on the Boards of Directors FaZe Holdings (2022 to 2024) and Sachem Acquisition Corp. (2021 to 2022). Key Qualifications: We believe that Mr. Fernandez is qualified to serve on the Board because of his extensive leadership experience, and experience in serving on boards of directors.  1 Table of Contents
+Mark Jensen AGE | 75INDEPENDENTDIRECTOR SINCE | 2024COMMITTEES | AC, CC, SC
+Mr. Jensen has substantial financial and corporate governance experience, having served as an advisor and board member in various companies in the technology sector. Prior to his retirement in 2012, Mr. Jensen was an executive at Deloitte & Touche LLP (“Deloitte”), where he served as U.S. Managing Partner-Audit and Enterprise Risk Services, Technology Industry and U.S. Managing Partner-Venture Capital Services Group. Before Deloitte, Mr. Jensen was the Chief Financial Officer at Redleaf Group, as well as an executive at the accounting firm Arthur Andersen LLP, where he was the Managing Partner of the Silicon Valley Office and led the company’s Global Technology Industry Practice. Mr. Jensen currently serves on the Board of Directors and Chair of the Audit Committee of Lattice Semiconductor Corporation (Nasdaq: LSCC) and serves on the Board of Directors of Wolfspeed, Inc. (NYSE: WOLF). Key Qualifications: We believe that Mr. Jensen is qualified to serve on the Board as he provides a financial expertise and has extensive corporate governance experience. CLASS III DIRECTORS
+Thomas Walper AGE | 71INDEPENDENTDIRECTOR SINCE | 2025COMMITTEES | SC
+Mr. Walper is a seasoned bankruptcy and restructuring attorney with over four decades of experience in navigating complex Chapter 11 cases and out-of-court restructurings. Mr. Walper is a former partner of the law firm of Munger, Tolles & Olson LLP (“Munger Tolles”), where he advised on restructuring matters for clients across a wide range of industries, including technology, healthcare and finance until 2025. Between partnership terms at Munger Tolles, Mr. Walper also served as Head of Corporate Restructuring at Plainfield Asset Management, a $5 billion investment firm based in Greenwich, Connecticut, where he led the analysis and restructure of distressed investments. Key Qualifications: We believe that Mr. Walper is qualified to serve on the Board because of his legal and bankruptcy experience.  2 Table of Contents
+Anne Wojcicki AGE | 51NOT INDEPENDENTDIRECTOR SINCE | 2021COMMITTEES | None
+Ms. Wojcicki joined the Board of Directors of 23andMe, Inc. in 2006 and was elected to our Board upon the consummation of the Company’s business combination in 2021. She served as our Chief Executive Officer and President until March 2025. Ms. Wojcicki co-founded 23andMe, Inc. in 2006 and has served as Chief Executive Officer since 2010. Prior to co-founding 23andMe, Inc., she worked as a healthcare analyst for several investment firms, including Passport Capital, LLC from 2004 to 2006, Andor Capital Management from 2001 to 2002, Ardsley Partners from 1999 to 2000, and Investor AB from 1996 to 1999. She is a co-founder and board member of the Breakthrough Prize in Life Sciences, the largest scientific award that is given to researchers who have made discoveries that extend human life. Ms. Wojcicki sits on the boards of directors of Zipline, Inc. and the Kaiser Permanente Bernard J. Tyson School of Medicine. Ms. Wojcicki also chairs the advisory board for the UCSF- Stanford Center of Excellence in Regulatory Science and Innovation. From 2008 to 2016, Ms. Wojcicki served on the Board of the Foundation for the National Institutes of Health. Ms. Wojcicki earned a B.S. in Biology from Yale University and also conducted molecular biology research at the National Institutes of Health and at the University of California, San Diego. Ms. Wojcicki previously served on the board of directors of the special purpose acquisition company, AJAX I, from 2020 until its business combination with Cazoo Group Ltd. in 2021. She also served on the Cazoo Group Ltd. board of directors until 2022. Key Qualifications: Ms. Wojcicki is considered a pioneer in the direct-to-consumer DNA testing space, and we believe that her extensive industry experience, as well as her institutional knowledge as the co-founder of 23andMe, Inc., qualify her to serve on the Board. INFORMATION ABOUT OUR EXECUTIVE OFFICERS  Our executive officers are appointed annually by our Board and serve at the pleasure of the Board. The following individuals our current executive officers:
+Name
+Age
+Title
+Joseph Selsavage
+62
+Interim Chief Executive Officer and Chief Financial and Accounting Officer
+Matt Kvarda
+54
+Chief Restructuring OfficerJoseph Selsavage Mr. Selsavage has served as our Interim Chief Executive Officer (“CEO”) since March 2025 and as our Chief Financial and Accounting Officer since August 2022. Previously, he served as the Chief Financial Officer of Lemonaid Health, Inc., which was acquired by the Company in November 2021 and is a wholly-owned subsidiary of the Company. Before joining Lemonaid Health, Inc. in 2020, Mr. Selsavage was a consultant at Red Eclipse Consulting from 2018 to 2020, where he provided accounting and financial systems consulting services. Prior to that, Mr. Selsavage served as the Chief Financial Officer of Metromile, Inc. from 2015 to 2018 and as the Vice President and Chief Financial Officer and other financial roles of Hotwire.com (Expedia, Inc.) from 2001 to 2015. Mr. Selsavage served as the Director of Accounting (Controller) from 1995 to 2001 and as an Accounting Manager from 1993 to 1995 at the International Brotherhood of Teamsters. Mr. Selsavage received his Bachelor of Arts degree in Economics and Financial Management and his Master of Arts degree in Accountancy from Catholic University of America. Mr. Selsavage earned his Master of Business Administration degree from the Massachusetts Institute of Technology. He is also an active Certified Public Accountant (CPA) in the State of California.  3 Table of ContentsMatt Kvarda Matt Kvarda joined 23andMe as Chief Restructuring Officer in March 2025 to help oversee the Company’s voluntary Chapter 11 proceedings. Mr. Kvarda is a Managing Director at Alvarez & Marsal North America, LLC with over 30 years of restructuring experience and has served in interim management roles at numerous companies, including as interim Chief Financial Officer at Revlon (NYSE: REV), TEAM, Inc. (NYSE: TEAM) and Jacuzzi Brands. Mr. Kvarda brings valuable expertise in advising companies through complex restructurings and will lead the oversight and management of 23andMe’s restructuring and sale process. Mr. Kvarda holds a B.A. in Economics from the University of California at San Diego and an MBA from the University of California at Los Angeles. He is a Certified Insolvency and Restructuring Advisor (CIRA), with distinction, and a member of the Association of Insolvency and Restructuring Advisors (AIRA). FAMILY RELATIONSHIPS  There are no immediate family relationships between any of our directors or executive officers and any other directors or executive officers. CORPORATE GOVERNANCE GOVERNANCE POLICIES  Our core governance frameworks and provisions are contained in our Corporate Governance Guidelines and Code of Business Conduct and Ethics, which applies to all our employees, including our executive officers. These can be found on our investor website at h.t.t.p.s://investors.23andme.com/corporate-governance/documents-charters or provided in print, at no charge, upon request to our Corporate Secretary at 870 Market Street, Room 415, San Francisco, California 94102. We will disclose any changes in, or waivers from, our Code of Business Conduct and Ethics by posting such information on the same website or by filing a Current Report on Form 8-K. There have been no changes to the procedures by which stockholders may recommend director nominees to our Board since our last disclosure of such procedures, which appeared in the Definitive Proxy Statement on Schedule 14A for our 2024 Annual Meeting of Stockholders, which was filed with the SEC on July 16, 2024. BOARD COMMITTEES  Our Board has two standing committees and one special committee: the Audit Committee, the Compensation Committee, and the Special Committee. Each standing committee operates pursuant to a committee charter. The charters of the Audit Committee and the Compensation Committee are on our website at h.t.t.p.s://investors.23andme.com/corporate-governance/documents-charters. The following chart provides a summary of the Audit Committees’ duties, responsibilities, and composition:
+Audit Committee
+MET 7 TIMES IN FISCAL 2025
+Primary Responsibilities
+The primary responsibilities of the Audit Committee are to oversee:
+COMMITTEE MEMBERS •   Andre Fernandez (Chair) •   Jim Frankola •   Mark Jensen
+•   the accounting and financial reporting processes and audits of the financial statements of the Company
+•   the integrity of the Company’s financial statements
+•   the Company’s processes relating to risk management and the conduct and systems of internal control over financial reporting and disclosure controls and procedures
+•   the qualifications, engagement, compensation, independence, and performance, as well as termination and replacement of the Company’s independent auditor, and the auditor’s conduct of the annual audit of the Company’s financial statements and any other services provided to the Company  4 Table of Contents
+Audit Committee
+•   the performance of the Company’s internal audit function, if any
+In addition, the Audit Committee is responsible for:
+•   reviewing and, if appropriate, approving or ratifying any related person transactions and other significant conflicts of interest, in each case in accordance with the Company’s Code of Business Conduct and Ethics and Related Person Transaction Approval Policy
+•   establishing and reviewing “whistleblowing” procedures for (a) the receipt, retention, and treatment of complaints received by the Company regarding accounting, internal accounting controls, or auditing matters; and (b) the confidential, anonymous submission by the Company’s employees of concerns regarding questionable accounting or auditing matters
+•   producing the report of the Audit Committee to be included in the Company’s annual proxy statement or Annual Report on Form 10-K as required by the rules of the SEC
+FINANCIAL EXPERTISE AND INDEPENDENCE
+The Board has determined that each current member of the Audit Committee meets all applicable independence and financial literacy and expertise requirements under the Nasdaq rules and applicable SEC rules and regulations. Additionally, the Board has determined that Andre Fernandez qualifies as an “audit committee financial expert” within the meaning of SEC regulations.  Item 11. Executive Compensation Compensation Discussion and Analysis This Compensation Discussion and Analysis provides important information on our executive compensation program and on the amounts shown in the executive compensation tables that follow. In this Amendment, the term “named executive officers” or “NEOs” means the individuals named in the executive compensation tables that follow and who are listed below.
+NEO
+Title
+Joseph Selsavage(1)
+Interim Chief Executive Officer and Chief Financial and Accounting Officer
+Matt Kvarda(2)
+Chief Restructuring Officer
+Anne Wojcicki(3)
+Former Chief Executive Officer
+William Richards(4)
+Former Head of Therapeutics Discovery
+Kathy Hibbs(5)
+Former Chief Administrative Officer
+(1)
+Mr. Selsavage was appointed Interim Chief Executive Officer effective March 23, 2025.
+(2)
+Mr. Kvarda was appointed Chief Restructuring Officer effective March 23, 2025.
+(3)
+Ms. Wojcicki served as the Company’s Chief Executive Officer until March 23, 2025.
+(4)
+Mr. Richards served as Head of Therapeutics Discovery until August 23, 2024.
+(5)
+On March 26, 2024, Ms. Hibbs notified the Company of her decision to retire on May 24, 2024. Following her retirement on May 24, 2024, Ms. Hibbs provided certain consulting services to the Company pursuant to the Hibbs Consulting Agreement (as defined below).  5 Table of ContentsSay-on-Pay Results At the 2024 Annual Meeting of Stockholders, the Company conducted a “Say-on-Pay” vote and received strong stockholder support, with 99% of shares cast in favor of the Company’s Fiscal 2024 named executive officer compensation. The Board and the Compensation Committee reviewed and considered the outcome of the 2024 “Say-on-Pay” vote in designing the Company’s executive compensation program and determining executive compensation. No material changes to the Company’s executive compensation program were made as a result of the 2024 “Say-on-Pay” vote outcome. EXECUTIVE COMPENSATION PHILOSOPHY AND OBJECTIVES  Philosophy and Key Objectives of the Compensation Program We design our executive compensation program to (i) allow us to attract and retain highly qualified executive officers, and (ii) allow these executive officers the opportunity to own a portion of the Company. We believe that our ability to ensure that our executive officers are engaged and productive depends upon how we structure our compensation program. In addition, for us to be appropriately positioned to attract new talent, we must be prepared to be, and be perceived as, an employer that offers competitive compensation. We believe that providing our executive officers an opportunity to be partial owners in our business fosters their active engagement in our success, strengthens our retention objectives, and aligns their long-term interests with those of our stockholders. Consistent with this philosophy, we have designed our executive compensation program to achieve the following primary objectives:
+•
+attract and retain highly qualified, experienced executive officers who can make significant contributions to our long-term business success;
+•
+reward executive officers for achieving business goals and delivering strong performance; and
+•
+align executive incentives with stockholder value creation. DETERMINATION OF EXECUTIVE COMPENSATION  The Compensation Committee is charged with the responsibility of determining and administering the Company’s executive compensation program, as discussed below. Role of the Compensation Committee Our Board has delegated authority to the Compensation Committee to oversee and approve the overall compensation program for our executive officers. In making its decisions, the Compensation Committee takes into consideration a variety of factors, including the recommendations of management and the independent compensation consultant. The Compensation Committee has the authority to exercise discretion with respect to executive compensation awards and performance metrics and may authorize adjustments to targets and/or awards as it deems necessary or appropriate. Role of Executive Officers Our former CEO, Ms. Wojcicki, provided input and made recommendations to the Compensation Committee regarding our Fiscal 2025 executive compensation program. During Fiscal 2025, she also reported to the Compensation Committee on individual NEO performance and provided recommendations regarding each NEO’s compensation (except with respect to her own compensation). Role of Compensation Consultant As provided in its charter, the Compensation Committee has the sole authority to hire, terminate, and approve fees for compensation consultants, outside legal counsel, and other advisors as it deems necessary to assist in the fulfillment of its responsibilities. The Compensation Committee retained Compensia, Inc. (“Compensia”), a  6 Table of Contentsmanagement consulting firm, as its independent compensation consultant for Fiscal 2025. Compensia provides research, market data, survey, proxy information, and design expertise in developing executive and director compensation programs. As requested by the Compensation Committee, Compensia provided the Compensation Committee with market data from proprietary surveys and databases and publicly available information to consider when making compensation decisions for the NEOs. The Compensation Committee reviewed its relationship with Compensia and determined that there are no conflicts of interest pursuant to applicable rules and regulations. Compensia did not provide any additional services unrelated to executive or director or broader equity strategy compensation consulting to the Company in Fiscal 2025. Compensation Benchmarking and Setting Executive Compensation Generally, the Compensation Committee targets NEO pay within the peer market range, subject to adjustment based on the Compensation Committee’s assessment of the Company’s and the NEO’s performance. The Compensation Committee evaluated the actual pay of the NEOs with pay data drawn from publicly-disclosed pay information for the following publicly traded companies, which comprised the Fiscal 2025 Peer Group:
+Fiscal 2025 Proxy Peer Group(1)
+10x Genomics, Inc.
+Denali Therapeutics Inc.
+Nanostring Technologies Inc.
+Accolade, Inc.
+Fulgent Genetics, Inc.
+Natera, Inc.
+Adaptive Biotechnologies Corp.
+Guardant Health, Inc.
+NeoGenomics Inc.
+American Well Corp.
+Health Catalyst, Inc.
+Pacific Biosciences of California, Inc.
+Blueprint Medicines Corp.
+Hims & Hers Health, Inc.
+Schrodinger, Inc.
+BridgeBio Pharma, Inc.
+Invitae Corp.
+Twist Bioscience Corp.
+CareDx, Inc.
+iRhythm Technologies, Inc.
+Veracyte, Inc.
+Cryoport, Inc.
+Myriad Genetics Inc.
+(1)  The Fiscal 2025 Peer Group consisted of the same companies as the Fiscal 2024 Peer Group.BASE SALARY  Base salaries are intended to provide a fixed component of cash compensation sufficient to attract and retain an effective management team, when considered in combination with the other components of the executive compensation program. In general, we seek to provide a base salary level designed to reflect each NEO’s position and scope of responsibility and accountability. In light of her equity interests in the Company, Ms. Wojcicki historically has received base salary compensation significantly lower than that of the other NEOs. Base salaries in effect during Fiscal 2025 are shown in the table below:
+NEO
+Fiscal 2025 Base Salary ($)
+Joseph Selsavage(1)
+600,000
+Matt Kvarda(2)
+-
+Anne Wojcicki(3)
+66,560
+William Richards
+507,000
+Kathy Hibbs
+605,000
+(1)  Effective May 21, 2024, Mr. Selsavage’s annual base salary was increased from $530,000 to $600,000 to reflect his change from interim Chief Financial Officer to permanent Chief Financial Officer (the “Selsavage Base Salary Increase”).
+(2)  Mr. Kvarda does not receive compensation directly from the Company; the terms of his service as Chief Restructuring Officer are pursuant to the A&M Engagement Letter (as defined below).
+(3)  Ms. Wojcicki’s annual base salary was provided to comply with applicable California minimum salary laws. 7 Table of ContentsANNUAL INCENTIVE PLAN AWARDS  Joseph Selsavage, William Richards, and Kathy Hibbs were each eligible to participate in the Fiscal 2025 Annual Incentive Plan (“AIP”), pursuant to which they were each eligible to receive an annual incentive bonus based upon the Company’s achievement of certain pre-established financial performance metrics during the one-year performance period ended March 31, 2025 (the “Fiscal 2025 performance period”). Mr. Selsavage’s, Mr. Richards’s, and Ms. Hibbs’s AIP target bonus opportunities were each equal to 30% of their respective base salaries. Additionally, for Mr. Selsavage, his AIP target bonus opportunity was prorated to reflect the Selsavage Base Salary Increase. As Mr. Richards and Ms. Hibbs ceased to be employed by the Company in August 2024 and May 2024, respectively, they were not entitled to receive any payouts pursuant to the AIP for the Fiscal 2025 performance period. Accordingly, Mr. Selsavage was the only NEO entitled to receive an AIP payout for the Fiscal 2025 performance period. The Compensation Committee determined that Gross Margin (as measured by revenue after cost of sales) and Adjusted EBIDTA should be the performance metrics for the Fiscal 2025 performance period, with Gross Margin weighted 75% and Adjusted EBITDA weighted 25%. The following sets forth the Company’s actual performance and percent achievement based on performance of the Fiscal 2025 AIP performance metrics. While the Company’s actual performance would have resulted in a payout achievement of 25%, the Compensation Committee exercised its discretion and determined that no payouts pursuant to the AIP should be made to any participating NEO for the Fiscal 2025 performance period. Accordingly, Mr. Selsavage did not receive a payout under the Fiscal 2025 AIP.
+Goal ($ in millions) & Correspondent Payout(%)
+PercentAchievementBased onPerformance
+PerformanceMetric
+Minimum
+Target
+Maximum
+GoalWeighting
+ActualPerformance
+Gross Margin(as measured byRevenue afterCost of Sales)
+$110 million
+$110 million to$115 million
+$141 million
+75%
+$100.3 million
+0%
+Adjusted EBITDA*
+($130 million)
+($130 million)to($120 million)
+($94 million)
+25%
+$(119.2 million)
+100%
+0%
+100%
+125%
+Payout is linear scaling for minimum/maximum outside the target range
+25%
+Joseph Selsavage AIP Payout
+$0
+*
+Adjusted EBITDA is a non-GAAP measure. We define Adjusted EBITDA as net income (loss) before net interest income (expense), net other income (expense), income tax expenses (benefit), depreciation and amortization, impairment charges, stock-based compensation expense, and other items that are considered unusual or not representative of underlying trends of our business, including, but not limited to: changes in fair value of warrant liabilities, litigation settlements, gains or losses on dispositions of subsidiaries, acquisition transaction-related costs, and cybersecurity incident expenses, net of probable insurance recoveries, if applicable for the periods presented.LONG-TERM EQUITY  The only long-term equity award granted to a NEO in Fiscal 2025 was a grant of 50,000 restricted stock units (“RSUs”) (as adjusted to reflect the one-for-20 reverse stock split effected on October 16, 2024) to Joseph Selsavage on May 25, 2024 (the “Selsavage Equity Award”). The Selsavage Equity Award vests equally in 1/8 quarterly installments commencing on August 20, 2024.  8 Table of ContentsBENEFITS  As employees of the Company, the NEOs are eligible to participate in all the broad-based Company-sponsored benefits programs on the same basis as other full-time employees. The Company’s health and welfare plans include medical, dental and vision benefits, commuter benefits, flexible-spending accounts, paid family leave to supplement the Family and Medical Leave Act of 1993, back-up child and elder care, personal legal resources (for estate planning, for instance), an enhanced employee assistance program (EAP) with up to eight complimentary therapy visits, personal financial wellness platform and access to fiduciary advisors, parental leave, short-term and long-term disability insurance, and life insurance. Additionally, we offer a tax-qualified retirement savings plan under Section 401(k) of the Internal Revenue Code of 1986, as amended (the “Code”), the Retirement and Savings Plan (the “401(k) plan”), which provides eligible employees, including the NEOs, with an opportunity to save for retirement on a tax-advantaged basis. All participants’ interests in their contributions are 100% vested when contributed. Under the 401(k) plan, the Company can make discretionary matching contributions, and it currently provides a dollar-for-dollar match up to a maximum of 2% of the eligible employees’ base pay per pay period. New hires are automatically enrolled at a 6% contribution rate. The 401(k) plan is intended to qualify under Sections 401(a) and 501(a) of the Code. Executive officers do not accrue vacation, as they are able to use unlimited vacation. We otherwise do not offer preferential benefits or perquisites to our executive officers that are not widely available to all full-time employees. EMPLOYMENT AGREEMENTS WITH NEOS  Employment arrangements with the NEOs are set forth below. Joseph Selsavage On March 21, 2025 (the “Retention Agreement Effective Date”), the Company entered into a Cash Retention Agreement (the “Retention Agreement”) with Mr. Selsavage. Pursuant to the Retention Agreement, the Company paid Mr. Selsavage a cash bonus of $500,000 on the Retention Agreement Effective Date (the “Retention Bonus”) as consideration for his continued service during the period beginning on the Retention Agreement Effective Date and ending on the earlier of (i) December 31, 2025 and (ii) the date of the Company’s emergence from bankruptcy following the effective date of a plan of reorganization approved by the Court and implemented under the Bankruptcy Code or a consummation of a comprehensive out-of-court restructuring transaction, in either case, involving the Company and/or its affiliates (the “Retention Period”). In the event that Mr. Selsavage’s employment with the Company is terminated prior to the end of the Retention Period due to (i) Mr. Selsavage’s resignation for any reason other than Good Reason, or (ii) by the Company for Cause (each as defined in the Retention Agreement), Mr. Selsavage will be required to repay to the Company, within forty-five (45) days following the date of his employment termination, the entire gross amount of the Retention Bonus (the “Retention Bonus Clawback”). The Retention Bonus Clawback will not apply if Mr. Selsavage’s employment is terminated during the Retention Period due to (x) his death or disability, (y) a termination by the Company without Cause, or (z) a resignation by Mr. Selsavage for Good Reason. The Retention Agreement does not modify any existing employment, severance, or other agreement between the Company and Mr. Selsavage. Matt Kvarda In January 2025, the Company authorized the employment of Alvarez & Marsal North America, LLC (“A&M”) as the Company’s financial advisor. On March 21, 2025, the Board appointed Matthew Kvarda to serve as Chief Restructuring Officer (“CRO”) of the Company, which such appointment was subject to the filing of the bankruptcy petitions and effective upon March 23, 2025 (the “Bankruptcy Petitions Date”). In connection with Mr. Kvarda’s appointment, the Company entered into that certain Engagement Letter (the “A&M Engagement Letter”) with A&M, to set forth the terms of A&M’s engagement and Mr. Kvarda’s service as the Company’s CRO. As further set forth in the A&M Engagement Letter, Mr. Kvarda’s authority as CRO includes, in connection with the Company’s advisors and management, (a) performing a financial review of the Company, (b) assisting in the identification (and implementation) of cost reduction and operations improvement opportunities, (c) assisting with the Special  9 Table of ContentsCommittee’s review of possible restructuring plans or strategic alternatives, (d) serving as the principal contact with the Company’s creditors with respect to financial and operational matters, and (e) upon the mutual agreement of A&M and the Company, providing additional A&M employees to assist the CRO in the execution of his duties. Under the A&M Engagement Letter, the Company is required to pay A&M $1,300 per hour of service provided by Mr. Kvarda. The A&M Engagement Letter also provides for hourly fees should additional A&M personnel assist Mr. Kvarda in executing his duties as CRO. In addition to the aforementioned hourly compensation, A&M is entitled to $750,000.00 in incentive compensation payable upon the earlier of (x) the consummation of a Chapter 11 plan of reorganization and (y) the sale, transfer, or other disposition of all or a substantial portion of the assets or equity of the Company. No fees were earned by Mr. Kvarda or paid by the Company pursuant to the A&M Engagement Letter in connection with services rendered by Mr. Kvarda during the period beginning on the Bankruptcy Petitions Date and ending March 31, 2025. Anne Wojcicki Ms. Wojcicki did not have an employment agreement during her tenure as the Company’s Chief Executive Officer. William Richards On February 20, 2020, 23andMe, Inc. entered into an offer letter with Mr. Richards to serve as its Director, Target and Drug Discovery (the “Richards Offer Letter”). The Richards Offer Letter initially provided for an annual base salary of $325,000. In connection with the commencement of his employment, Mr. Richards also received an option to purchase 50,000 shares of common stock, which vested 25% after 12 months of service and on a pro rata basis (in remaining 1/48 installments) over the following 36 months of service. Mr. Richards also is eligible to participate in the benefit plans that are generally available to all employees. Kathy Hibbs On February 6, 2014, 23andMe, Inc. entered into an offer letter with Ms. Hibbs to serve as its Chief Legal and Regulatory Officer (the “Hibbs Offer Letter”). The Hibbs Offer Letter initially provided for an annual base salary of $400,000, subject to adjustment from time to time. In connection with the commencement of her employment, Ms. Hibbs also received an option to purchase 525,000 shares of common stock, which vested 25% after 12 months of service and on a pro rata basis (in remaining 1/48 installments) over the following 36 months of service. Ms. Hibbs also is eligible to participate in the benefit plans that are generally available to all employees. The Hibbs Offer Letter also included an annual performance bonus of up to 30% of Ms. Hibbs’ base salary rate based upon the achievement of objective and subjective criteria established by Ms. Wojcicki and approved by the Board; we discontinued the bonus program in February 2018. The Hibbs Offer Letter provides for certain severance benefits. If Ms. Hibbs experiences an involuntary separation from service by the Company for any reason other than Cause, death, or Permanent Disability (each as defined in the Hibbs Offer Letter), then she will receive four months of continued salary at the rate that was in effect at the time of the termination. The receipt of any severance benefits is subject to Ms. Hibbs’ execution and non-revocation of a general release of claims. Additionally, the Hibbs Offer Letter also provided for certain change-in-control benefits; however, in December 2022, the Separation Benefits (as defined below) provided for pursuant to the CIC Plan (as defined below) superseded and replaced any and all change-in-control benefits provided for in the Hibbs Offer Letter. In connection with Ms. Hibbs’ retirement, on May 23, 2024, the Company entered into the that certain Consulting Agreement and Statement of Work #1 thereunder, dated as of May 24, 2024 (together, the “Hibbs Consulting Agreement”). Pursuant to the Hibbs Consulting Agreement, Ms. Hibbs provided general advisory services to the Company to support the transition of legal and regulatory related work (the “Advisory Services”). During the Consulting Term (as defined below) of the Hibbs Consulting Agreement, Ms. Hibbs was anticipated to provide a maximum of ten hours of Advisory Services to the Company a month and was compensated at an hourly rate of $750 (rounded to the nearest quarter hour as billed). Additionally, Ms. Hibbs was entitled to reimbursement for out-of-pocket and reasonable expenses, provided that such expenses were pre-approved by the Company.  10 Table of ContentsThe Hibbs Consulting Agreement clarified that equity awards that were previously granted to Ms. Hibbs in connection with her prior employment with the Company that remained outstanding and unvested as of May 24, 2024 did not continue to vest as a result of Ms. Hibbs’ and the Company’s entry into the Hibbs Consulting Agreement or Ms. Hibbs’ status as a consultant of the Company. The Hibbs Consulting Agreement contains customary provisions and restrictive covenants, including provisions related to proprietary information, intellectual property, confidentiality, and non-solicitation. The Hibbs Consulting Agreement was effective as of May 28, 2024 and remained in effect until May 30, 2025 (the “Consulting Term”). CLAWBACK  In October 2022, the SEC adopted Rule 10D-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which required national securities exchanges, including Nasdaq, to establish listing standards relating to executive officer incentive compensation clawback and disclosure rules. Nasdaq established listing standards in accordance with Rule 10D-1 (the “Nasdaq Clawback Listing Standards”), which took effect on October 2, 2023 and required listed companies to adopt a compliant clawback policy no later than December 1, 2023. Accordingly, on November 14, 2023, the Compensation Committee adopted the 23andMe Holding Co. Compensation Recoupment Policy (the “Clawback Policy”). The Clawback Policy (i) provides for the mandatory recoupment of erroneously awarded incentive-based compensation in the event of an accounting restatement in accordance with the Nasdaq Clawback Listing Standards and (ii) provides the Compensation Committee with the discretionary authority to recoup certain compensation in the event the Compensation Committee determines that a “Senior Officer” has engaged in any of the following: (a) material failure to comply with the policies and procedures of the Company; (b) commission of any felony, willful misconduct, or breach of a fiduciary duty, in each case, in connection with such Senior Officer’s services to the Company; (c) commission of an act of gross misconduct, fraud, embezzlement, or misappropriation with respect to the Company; or (d) breach of any restrictive covenant to which such Senior Officer is subject under any employment agreement or applicable policy of the Company. Under the Clawback Policy, a “Senior Officer” means any person designated by the Board as an “officer” in accordance with Rule 16a-1(f) promulgated under Section 16 of the Exchange Act. Additionally, pursuant to the 23andMe Holding Co. Second Amended and Restated 2021 Incentive Equity Plan (the “2021 Plan”), subject to the requirements of applicable law, the Compensation Committee may provide in any grant instrument that, if a participant breaches any restrictive covenant agreement between the participant and the Company or otherwise engages in activities that constitute Cause (as defined in the 2021 Plan) either while employed by, or providing service to, the Company or within a specified period of time thereafter, all grants held by the participant shall terminate, and the Company may rescind any exercise of an option or stock appreciation right (“SAR”) and the vesting of any other grant and delivery of shares upon such exercise or vesting (including pursuant to dividends and dividend equivalents), as applicable on such terms as the Compensation Committee shall determine, including the right to require that, in the event of any such rescission, (i) the participant shall return to the Company the shares received upon the exercise of any option or SAR and/or the vesting and payment of any other grant (including pursuant to dividends and dividend equivalents), or, (ii) if the participant no longer owns the shares, the participant shall pay to the Company the amount of any gain realized or payment received as a result of any sale or other disposition of the shares (or, in the event the participant transfers the shares by gift or otherwise without consideration, the fair market value of the shares on the date of the breach of the restrictive covenant agreement (including a participant’s grant instrument containing restrictive covenants) or activity constituting Cause), net of the price originally paid by the participant for the shares. Payment by the participant shall be made in such manner and on such terms and conditions as may be required by the Compensation Committee. The Company shall be entitled to set off against the amount of any such payment any amounts otherwise owed to the participant by the Company. In addition, all grants under the 2021 Plan are subject to any applicable clawback or recoupment policies, share trading policies, and other policies that may be implemented by the Board from time to time. TAX DEDUCTIBILITY OF COMPENSATION UNDER INTERNAL REVENUE CODE SECTION 162(M)  Section 162(m) of the Internal Revenue Code generally disallows a tax deduction to publicly held companies (such as the Company) for compensation paid to certain “covered employees” in excess of $1,000,000 per covered employee in any year.  11 Table of ContentsNeither the Compensation Committee nor the full Board has adopted a formal policy regarding tax deductibility of compensation paid to the Company’s executive officers. While the Compensation Committee carefully considers the net cost and value to the Company of maintaining the deductibility of all compensation, it also desires the flexibility to reward the Company’s executive officers in a manner that enhances the Company’s ability to attract and retain individuals as well as to create longer-term value for our stockholders. Thus, income tax deductibility is only one of several factors the Compensation Committee considers in making decisions regarding the Company’s executive compensation program. The Compensation Committee may authorize compensation that might not be deductible if the Compensation Committee determines that such compensation decision is in the best interest of the Company. Compensation Committee Report The Compensation Committee (the “Compensation Committee”) of the Board of Directors (the “Board”) of 23andMe Holding Co. (the “Company”) has reviewed and discussed the Compensation Discussion and Analysis (the “CD&A”) included in this Amendment with members of management, and based on such review and discussions, the Compensation Committee recommended to the Board that the CD&A be included in this Amendment. This report has been furnished by the Compensation Committee of the Board of Directors. Mark Jensen (Chair) Jim Frankola Andre Fernandez The foregoing Compensation Committee Report does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other filing of the Company under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that the Company specifically incorporates the report by reference therein. Compensation Risk Management and Other Policies COMPENSATION RISK ASSESSMENT Our Compensation Committee is responsible for the oversight of our compensation risk profile. The Compensation Committee reviews our compensation approach outlined above to ensure that the policies, plan documents, and practices do not encourage excessive risk-taking. The assessment reviews our best practices and ensures that:
+•
+Pay levels are competitive with the relevant market for talent and aligned with the Company’s performance relative to peers.
+•
+The executive compensation program has the appropriate balance of fixed versus variable pay and short-term versus long- term focus.
+•
+Our compensation programs include features that discourage excessive risk-taking.
+•
+The Compensation Committee approves all matters related to executive compensation, is supported by an independent advisor, and has the authority to make modifications or adjustments. Based on the assessment, the Compensation Committee believes that the Company’s compensation programs are balanced and do not create risks reasonably likely to have a material adverse impact on the Company. Accordingly, there were no material adjustments made to our compensation policies and practices. We will continue to monitor our compensation policies and practices to determine whether our risk management objectives are being met with respect to incentivizing the Company’s executive officers.  12 Table of ContentsPOLICIES PROHIBITING HEDGING, PLEDGING, AND SPECULATIVE OR SHORT-TERM TRADING The 23andMe Holding Co. Amended and Restated Insider Trading Policy (the “Insider Trading Policy”) prohibits employees (including executive officers), directors, advisors, and consultants of the Company (collectively, “Team Members”) from purchasing financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds), or otherwise engaging in transactions that hedge, offset, or are designed to hedge or offset, any decrease in the market value or the full ownership risks and rewards of a Team Member’s holdings in Company securities. The Insider Trading Policy also prohibits executive officers and directors from directly or indirectly pledging, hypothecating, or otherwise encumbering shares of the Company’s stock as collateral for indebtedness. This prohibition includes, but is not limited to, holding such shares in a margin account or any other account that could cause the Company’s stock to be subject to a margin call or otherwise be available as collateral for a margin loan. Additionally, this prohibition applies to the Company’s stock that (i) an executive officer or director owns directly or indirectly or (ii) is granted by the Company as part of an executive officer’s or director’s compensation. The Insider Trading Policy also prohibits Team Members from engaging in short sales (sales of securities that are not currently owned by the seller), transactions in put or call options, margin trading, or other inherently speculative transactions with respect to Company securities at any time. GRANT PRACTICES SPECIFIC TO STOCK OPTION AWARDS Although we do not have a formal policy regarding the timing of stock option grants to our NEOs coinciding with the release of material nonpublic information, we do not time the release of material nonpublic information for the purpose of affecting the value of any NEO award. Additionally, our NEOs do not choose the grant date for their individual stock option grants; instead, the grant date generally ties to date of the meeting during which the Compensation Committee approves such NEO award. During Fiscal 2025, none of our NEOs were awarded stock options. Executive Compensation Tables SUMMARY COMPENSATION TABLE The table below summarizes the compensation paid to, awarded to, or earned by our NEOs for Fiscal 2025, and, to the extent applicable, Fiscal 2024 and Fiscal 2023.
+Name and   Principal   Position
+FiscalYear
+Salary($)
+Bonus($)
+StockAwards($)(1)
+OptionAwards($)
+Non-EquityIncentive PlanCompensation($)
+All OtherCompensation($)
+Total ($)
+Joseph Selsavage
+2025
+590,756
+600,000(2)
+530,000
+—
+—
+30,085(3)
+1,750,842
+Interim Chief Executive Officer and Chief Financial and Accounting Officer
+2024
+517,730
+100,000
+1,128,591
+380,142
+—
+6,763
+2,133,227
+2023
+441,228
+49,500
+620,775
+640,171
+77,278
+6,550
+1,835,502
+Matt Kvarda
+2025
+—
+—
+—
+—
+—
+—
+—
+Chief Restructuring Officer
+Anne Wojcicki
+2025
+66,596
+—
+—
+—
+—
+—
+66,596
+Former Chief Executive Officer
+2024
+65,000
+—
+—
+7,298,723
+—
+—
+7,363,723
+2023
+62,920
+—
+—
+—
+—
+—
+62,920  13 Table of Contents
+Name and   Principal   Position
+FiscalYear
+Salary($)
+Bonus($)
+StockAwards($)(1)
+OptionAwards($)
+Non-EquityIncentive PlanCompensation($)
+All OtherCompensation($)
+Total ($)
+William Richards
+2025
+219,211
+—
+—
+—
+—
+291,272(4)
+510,483
+Former Head of Therapeutics Discovery
+2024
+507,000
+—
+744,312
+204,336
+—
+6,220
+1,461,868
+Kathy Hibbs
+2025
+91,913
+1,000(5)
+—
+—
+—
+27,338(6)
+120,252
+Former Chief Administrative Officer
+2024
+605,000
+—
+1,128,591
+380,142
+—
+6,050
+2,119,783
+2023
+605,000
+—
+—
+—
+89,238
+5,567
+699,805
+(1)
+The amounts shown in this column represent the grant date fair value of the RSUs granted to each NEO, computed in accordance with FASB ASC Topic 718 using the assumptions described in “Note 15. Equity Incentive Plans and Stock-Based Compensation” of the Notes to the Consolidated Financial Statements included within “ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA” of our Annual Report on Form 10-K for the fiscal year ended March 31, 2025. The grant date fair value of RSUs is determined using the fair value of our Class A common stock on the date of grant. Pursuant to the applicable SEC rules, the amounts shown exclude the impact of estimated forfeitures related to service-based vesting conditions. The amounts reported in this column reflect the accounting cost for these awards and do not necessarily correspond to the actual economic value that may be received by the NEOs.
+(2)
+The amount shown includes the Retention Bonus provided pursuant to the Retention Agreement, as well as an additional $100,000 retention bonus granted by the Board in December 2024.
+(3)
+The amount shown includes $7,250 in Company 401(k) contributions and the release of an escrow amount of $22,835 related to the Company’s acquisition of Lemonaid Health, Inc.
+(4)
+The amount shown includes $4,365 in Company 401(k) contributions and Mr. Richards’s severance, which consisted of a lump sum payment of $253,500 (equivalent to six months of base salary) and $33,407 representing the intrinsic value of the acceleration of vesting of 4,514 RSUs.
+(5)
+The amount represents a $1,000 service award bonus granted to Ms. Hibbs upon her attainment of ten years of employment with the Company.
+(6)
+The amount includes $1,838 in Company 401(k) contributions and $25,500 for Ms. Hibbs’s provision of certain consulting services pursuant to the Hibbs Consulting Agreement. GRANTS OF PLAN-BASED AWARDS
+Estimated Possible PayoutsUnder Non-Equity Incentive PlanAwards(1)
+All OtherStockAwards:Number ofShares ofStock or Units(#)(2)
+All OtherOptionAwards:Number ofSecuritiesUnderlyingOptions(#)
+Exerciseor BasePrice ofOptionAwards($/Sh)
+Grant Date Fair Value of Stock Awards and Options Awards ($)(3)
+Name
+Grant Date
+Threshold($)
+Target($)
+Maximum($)
+Joseph Selsavage
+—
+0
+177,123
+221,404
+—
+—
+—
+—
+05/21/2024(4)
+—
+—
+50,000
+—
+—
+530,000
+Matt Kvarda
+—
+—
+—
+—
+—
+—
+—
+Anne Wojcicki
+—
+—
+—
+—
+—
+—
+—
+William Richards
+—
+0
+152,100
+190,125
+—
+—
+—
+—
+Kathy Hibbs
+—(5)
+0
+181,500
+226,875
+—
+—
+—
+—
+(1)
+Amounts represent the Fiscal 2025 AIP. Target amounts represent 100% achievement of the Fiscal 2025 performance metrics, and maximum amounts represent 125% achievement of the Fiscal 2025 performance metrics. Each of Mr. Selsavage, Mr. Richards, and Ms. Hibbs were eligible to participate in the Fiscal 2025 AIP; however, as Mr. Richards and Ms. Hibbs ceased to be employed by the Company in August 2024 and May 2024, respectively, they were not entitled to receive any payouts pursuant to the AIP for the Fiscal 2025 performance period. Additionally, the Compensation Committee determined that no participating NEO would receive a Fiscal 2025 AIP payout.
+(2)
+All amounts reflect the one-for-20 reverse stock split that was effective October 16, 2024.
+(3)
+The amounts shown in this column represent the grant date fair value of the equity awards, computed in accordance with FASB ASC Topic 718 using the assumptions described in “Note 15. Equity Incentive Plans and Stock-Based Compensation” of the Notes to the Consolidated Financial Statements included within “ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA” of our Annual Report on Form 10-K for the fiscal year ended March 31, 2025.
+(4)
+Amount represents the Selsavage Equity Award.  14 Table of ContentsOUTSTANDING EQUITY AWARDS AT FISCAL 2025 YEAR-END
+Option Awards(1)
+Stock Awards(1)
+Name
+OptionGrant Date
+Number ofSharesUnderlyingUnexercisedOptionsExercisable(#)
+Number ofSharesUnderlyingUnexercisedOptionsUnexercisable(#)
+OptionExercisePrice($)
+OptionExpirationDate
+Stock AwardGrant Date
+Numberof Sharesor Unitsof StockThat HaveNotVested (#)
+Market Value of Shares or Units of Stock That Have Not Vested ($)(2)
+Joseph Selsavage
+11/1/2021(3)
+26,053
+0
+19.20
+2/17/2031
+4/15/2022(4)
+2,937
+1,091
+71.20
+4/15/2032
+9/1/2022(5)
+5,941
+3,566
+66.00
+9/1/2032
+9/15/2023(6)
+12,405
+12,406
+22.00
+9/15/2033
+12/15/2021(7)
+968
+716
+4/15/2022(8)
+677
+501
+9/1/2022(9)
+2,835
+2,098
+9/15/2023(10)
+29,925
+22,145
+5/21/2024(11)
+31,250
+23,125
+Matt Kvarda
+-
+-
+-
+-
+-
+-
+-
+-
+Anne Wojcicki
+3/29/2022(12)
+273,444
+101,556
+79.00
+3/29/2032
+-
+-
+-
+9/15/2023(4)
+238,178
+238,178
+22.00
+9/15/2033
+-
+-
+-
+William Richards
+8/28/2020(13)
+2,696
+0
+100.89
+8/27/2030
+-
+-
+-
+Kathy Hibbs
+8/26/2020(13)
+42,054
+0
+100.89
+8/25/2030
+-
+-
+-
+(1)
+All amounts reflect the one-for-20 reverse stock split that was effective October 16, 2024.
+(2)
+Market value represents the product of the closing price of a share of the Company’s Class A common stock on the last trading day of Fiscal 2025, March 31, 2025, which was $0.74, multiplied by the number of RSUs.
+(3)
+The shares underlying this stock option vested over a four-year period, with an initial 25% vesting on November 1, 2022, and the remainder vesting on a quarterly basis thereafter.
+(4)
+The shares underlying this stock option vest in 48 equal monthly installments commencing May 1, 2022.
+(5)
+The shares underlying this stock option vest in 48 equal monthly installments commencing October 1, 2022.
+(6)
+The shares underlying this stock option vest equally in 36 monthly installments commencing on October 15, 2023.
+(7)
+The RSUs vest over a four-year period, with an initial 25% vesting on November 20, 2022, and the remainder vesting on a quarterly basis thereafter.
+(8)
+The RSUs vest equally in 16 quarterly installments commencing on May 20, 2022.
+(9)
+The RSUs vest equally in 16 quarterly installments commencing on February 20, 2023.
+(10)
+The RSUs vest equally in 12 quarterly installments commencing on February 20, 2024.
+(11)
+The RSUs vest equally in 8 quarterly installments commencing on August 20, 2024.
+(12)
+The shares underlying this stock option vest equally in 48 monthly installments commencing on May 1, 2022.
+(13)
+The shares underlying this stock option vested in 48 equal monthly installments commencing October 1, 2020.  15 Table of ContentsOPTION EXERCISES AND STOCK VESTED TABLE
+Option Awards(1)
+Stock Awards(1)
+Name
+Number of SharesAcquired onExercise(#)
+Value Realized onExercise($)
+Number of SharesAcquired on Vesting(#)(2)
+Value Realized on Vesting ($)(3)
+Joseph Selsavage
+—
+—
+39,442
+205,040
+Matt Kvarda
+—
+—
+—
+—
+Anne Wojcicki
+—
+—
+15,632
+93,510
+William Richards
+—
+—
+14,808
+111,019
+Kathy Hibbs
+5,782
+7,555
+4,944
+54,038
+(1)
+All amounts reflect the one-for-20 reverse stock split that was effective October 16, 2024.
+(2)
+Amounts represent the number of shares and related value for stock awards that vested on applicable vesting dates, prior to the withholding of shares to satisfy taxes. Consistent with Company policy, upon the vesting of these awards, the Company withheld a portion of the otherwise distributable shares in respect of taxes. Accordingly, after shares were withheld for taxes, the NEOs acquired the following net share amounts: Mr. Selsavage — 21,183; Ms. Wojcicki — 15,632 (paid tax via cash); Mr. Richards — 9,521; and Ms. Hibbs — 3,180.
+(3)
+The amounts shown in the Value Realized on Vesting column are calculated based on the closing market price of the stock on the date when the RSUs vested. POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE OF CONTROL Change of Control Under the CIC Plan On December 5, 2022, the Board approved the adoption of the 23andMe Holding Co. Change in Control Separation Plan (the “CIC Plan”) to be effective as of December 5, 2022. Pursuant to the CIC Plan, the Company’s “Officers” (as defined in Rule 16a-1(f) of the Exchange Act), including the NEOs, and certain key employees (each, a “Participant” and collectively, the “Participants”) designated by the Board, the Compensation Committee, or, with respect to employees who are not Officers, the Chief Executive Officer, will be entitled to receive certain separation benefits if such Participant’s employment is terminated in connection with a Change in Control (as defined in the CIC Plan). Specifically, a Participant will be entitled to the Separation Benefits (as defined below) if (i) a Change in Control occurs and, (ii) within the period beginning 30 days before and ending 12 months after such Change in Control, such Participant’s employment is terminated either (a) by the Company or a subsidiary of the Company without Cause (as defined in the CIC Plan) or (b) by such Participant for Good Reason (as defined in the CIC Plan) (the occurrence of (i) and (ii), a “Double-Trigger Event”). Subject to a Participant’s execution of a release of claims in favor of the Company, a Participant will be entitled to the following separation benefits (collectively, the “Separation Benefits”) upon the occurrence of a Double-Trigger Event:
+•
+a lump-sum cash payment equal to six months of the Participant’s annual base salary (either in effect on the date of termination or in effect on the date of the Change in Control, whichever is higher) plus one-half of the Participant’s target annual bonus under the Company’s AIP for the year of termination;
+•
+a lump-sum cash payment equal to the cost of six months of COBRA continuation of the medical, dental, and vision coverage in effect for the Participant on the date of termination; and
+•
+the acceleration of all of the Participant’s outstanding unvested equity awards granted under the 2021 Plan. Notwithstanding the foregoing, the Separation Benefits will be reduced by any separation payments or benefits received by the Participant under any offer letter, employment agreement, or contract with the Company or its subsidiaries or any payments required by applicable law as a result of the termination of the Participant’s employment. The Separation Benefits may also be subject to adjustment if any Separation Benefits constitute an “excess parachute payment” under the Code. The Separation Benefits will not affect any other accrued or vested or earned but deferred compensation rights or other benefits that may be owed to a Participant following the termination, including, but not limited to, accrued vacation or sick-pay amounts or benefits payable under any bonus or other compensation plan, stock purchase plan, life insurance plan, health plan, disability plan, or similar or successor plan.   16 Table of ContentsThe CIC Plan may be terminated or amended by the Board until a Change in Control has occurred. Upon the occurrence of a Change in Control, the CIC Plan may not be amended or terminated. The Separation Benefits provided for pursuant to the CIC Plan superseded and replaced any severance benefits related to a change of control provided for in the NEOs’ respective offer letters, as applicable and as confirmed by acknowledgment letter. Change of Control Under the 2021 Plan Pursuant to the 2021 Plan, if 23andMe experiences a change of control where 23andMe is not the surviving corporation (or survives only as a subsidiary of another corporation), unless the Compensation Committee determines otherwise, all outstanding grants that are not exercised or paid at the time of the change of control will be assumed, or replaced with grants (with respect to cash, securities, or a combination thereof) that have comparable terms, by the surviving corporation (or a parent or subsidiary of the surviving corporation). If there is a change of control and all outstanding grants are not assumed or replaced with grants that have comparable terms, by the surviving corporation, the Compensation Committee may (but is not obligated to) make adjustments to the terms and conditions of outstanding grants, including, without limitation, taking any of the following actions (or combination thereof) without the consent of any participant:
+•
+determine that outstanding options and SARs will accelerate and become fully exercisable and the restrictions and conditions on outstanding stock awards, stock units, and dividend equivalents immediately lapse;
+•
+pay participants, in an amount and form determined by the Compensation Committee, in settlement of outstanding stock units or dividend equivalents;
+•
+require that participants surrender their outstanding stock options and SARs in exchange for a payment by us, in cash or shares of Class A common stock, equal to the difference between the exercise price and the fair market value of the underlying shares of Class A common stock; provided, however, that if the per share fair market value of Class A common stock does not exceed the per share stock option exercise price or SARs base amount, as applicable, 23andMe will not be required to make any payment to the participant upon surrender of the stock option or SAR and shall have the right to cancel any such option or SAR for no consideration; or
+•
+after giving participants an opportunity to exercise all of their outstanding stock options and SARs, terminate any unexercised stock options and SARs on the date determined by the Compensation Committee. In general terms, a change of control under the 2021 Plan occurs if:
+•
+a person, entity, or affiliated group, with certain exceptions, acquires more than 50% of the then-outstanding voting securities;
+•
+23andMe merges into another entity, unless the holders of voting shares immediately prior to the merger have at least 50% of the combined voting power of the securities in the merged entity or its parent;
+•
+23andMe merges into another entity and the members of the Board prior to the merger would not constitute a majority of the board of the merged entity or its parent;
+•
+23andMe sells or disposes of all or substantially all of the assets of 23andMe;
+•
+23andMe consummates a complete liquidation or dissolution; or
+•
+a majority of the members of the Board is replaced during any 12-month period by directors whose appointment or election is not endorsed by a majority of the incumbent directors.  17 Table of ContentsExcept with respect to Anne Wojcicki, William Richards, and Kathy Hibbs, the following table describes the approximate payments that would have been made to the NEOs pursuant to agreements, plans, or individual award agreements in effect on March 31, 2025, in the event of the termination of employment of the NEOs under the circumstances described below, assuming such terminations took place on March 31, 2025.
+Name
+VoluntaryTermination($)
+InvoluntaryTermination(1)(2)($)
+Death / PermanentDisability(3)($)
+Change of Control /Double-Trigger(1)(3)($)
+Joseph Selsavage
+Cash Severance
+—
+—
+—
+390,000
+Benefits Continuation
+—
+—
+—
+4,943
+Equity Value
+—
+—
+—
+48,590(5)
+Total
+—
+—
+—
+443,533
+Matt Kvarda(4)
+Cash Severance
+—
+—
+0
+Benefits Continuation
+—
+—
+—
+0
+Equity Value
+—
+—
+—
+0
+Total
+—
+—
+0
+(1)
+The receipt of such benefits is subject to the NEO’s execution and non-revocation of a general release of claims.
+(2)
+Includes an involuntary separation from service by the Company for any reason other than (a) Cause, (b) death, or (c) Permanent Disability prior to a Change in Control.
+(3)
+Represents the Separation Benefits provided for under the CIC Plan upon the occurrence of a Double-Trigger Event.
+(4)
+As an executive officer, Mr. Kvarda is entitled to participate in the CIC Plan; however, as he does not have any equity holdings and does not receive any direct cash compensation, his payout amounts would be $0 in the event of a Change in Control.
+(5)
+Amount does not include the following underwater options, because such underwater options do not have intrinsic value:
+Underwater Options that WouldAccelerate upon a QualifyingTermination(#)
+Joseph Selsavage
+17,063
+Anne Wojcicki Payments upon a Termination of Employment On March 21, 2025, Anne Wojcicki, by mutual agreement between Ms. Wojcicki and the Special Committee, tendered her resignation as an officer of the Company to the Board, which such resignation was effective at 5:00 p.m., Eastern Time, on March 23, 2025. Ms. Wojcicki did not receive any severance in connection with her resignation. As Ms. Wojcicki continues to serve as a Class III director on the Board, her equity awards continue to vest pursuant to their original grant terms. Bill Richards Payments upon a Termination of Employment On August 5, 2024, Bill Richards tendered his resignation to the Company and resigned from any and all positions held at the Company and/or its subsidiaries effective August 23, 2024 (the “Resignation Effective Date”). In connection therewith, on August 6, 2024, the Compensation Committee approved the provision of the following severance benefits to Mr. Richards: a lump sum payment of $253,500 (equivalent to six months of base salary), subject to applicable withholding; continued healthcare benefits through COBRA for the six-month period following the Resignation Effective Date; and an acceleration of vesting of 90,265 RSUs, which represents the number of RSUs that would have vested in the six-month period following the Resignation Effective Date had Mr. Richards remained employed by the Company.  18 Table of ContentsKathy Hibbs Payments upon a Termination of Employment On March 26, 2024, Kathy Hibbs delivered to the Company a letter informing the Company of her intention to retire from her employment with the Company, effective as of May 24, 2024. Effective on such date, Ms. Hibbs ceased to serve as the Company’s Chief Administrative Officer. Ms. Hibbs did not receive any severance in connection with her retirement and forfeited all unvested equity awards upon her retirement. Pay Ratio As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 402(u) of Regulation S-K, we are providing the ratio of (i) the sum of (x) the total compensation provided to our current Interim CEO, Joseph Selsavage, from March 23, 2025 to March 31, 2025 and (y) the total compensation provided to our former CEO, Anne Wojcicki, from April 1, 2024 to March 23, 2025 (ii) to that of our median employee. In making this pay ratio disclosure, other companies may use assumptions, estimates, and methodologies different than ours; as a result, the following information may not be directly comparable to the information provided by other companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The sum of (i) Mr. Selsavage’s total compensation from March 23, 2025 to March 31, 2025 (i.e., the Fiscal 2025 period during which he served as Interim CEO) and (ii) Ms. Wojcicki’s total compensation from April 1, 2024 to March 23, 2025 (i.e., the Fiscal 2025 period during which she served as CEO), calculated pursuant to SEC rules, was $79,544. The annual total compensation of the median employee of the Company for Fiscal 2025, calculated pursuant to SEC rules, was $242,581. Accordingly, the ratio of the combined CEO annual total compensation to that of the median employee of the Company was approximately 3:1 for Fiscal 2025. In identifying the median employee, we used the following methodology. We used total direct compensation as our compensation measure and a determination date of March 31, 2025 (the “Determination Date”). Total direct compensation is (i) actual salary via payroll records, plus (ii) Fiscal 2025 AIP payout amount, plus (iii) retention and/or special cash and equity bonuses, plus (iv) annual equity grant. We believe that total direct compensation is an appropriate compensation measure because all of our employees are eligible to participate in the AIP and receive equity grants. For new hires that were not employed for the entirety of Fiscal 2025, we annualized their respective base salaries. We then selected the median employee, having identified the Fiscal 2025 total direct compensation for all of our employees (excluding our Interim CEO and former CEO) on the Determination Date. We included all employees in our calculation and excluded interns. We did not make any other assumptions, adjustments, or estimates with respect to our calculation of total direct compensation or our determination of the median employee. Pay Versus Performance The following information is presented to disclose the relationship between executive compensation actually paid (“CAP”), as calculated under applicable SEC rules, and the Company’s financial performance. As required by SEC rules, the table presented below discloses CAP for (i) the Company’s principal executive officers (“PEOs”) and (ii) the Company’s NEOs other than the PEOs (the “Non-PEO NEOs”), on an average basis. The methodology for calculating amounts presented in the columns “CAP to PEO 1,” “CAP to PEO 2,” and “Average CAP to Non-PEO NEOs,” including details regarding the amounts that were deducted from, and added to, the Summary Compensation Table (“SCT”) totals to arrive at the values presented for CAP, are provided in the footnotes to the table. A narrative discussion of the relationship between CAP and the Company performance measures (i) listed in the table below and (ii) that the Company has deemed most important in linking CAP during Fiscal 2025 to Company performance is also presented below.  19 Table of ContentsPay Versus Performance (“PvP”) Table
+FiscalYear
+SCT Totalfor PEO 1
+SCT Totalfor PEO 2
+CAP toPEO 1
+CAP toPEO 2
+Average SCTTotal for Non-PEO NEOs
+Average CAPto Non-PEONEOs
+Value of Initial Fixed$100 Investment BasedOn:
+Net Income(Loss)($ millions)
+Gross Margin($ millions)
+TSR
+Peer GroupTSR
+(a)(1)
+(b1)(2)
+(b2)(2)
+(c1)(3)
+(c2)(3)
+(d)(4)
+(e)(5)
+(f)(6)
+(g)(6)
+(h)
+(i)(6)
+2025
+$66,596
+$1,750,842
+$(2,422,570)
+$750,078
+$315,367
+$(128,361)
+$0.28
+$117.00
+$(280.89)
+$100
+2024
+$7,363,723
+-
+$(3,183,483)
+-
+$1,760,470
+$428,029
+$3.99
+$118.50
+$(666.70)
+$98
+2023
+$62,920
+-
+$(9,366,735)
+-
+$839,511
+$(1,548,032)
+$17.12
+$103.84
+$(311.66)
+$133
+2022
+$32,546,430
+-
+$23,624,938
+-
+$4,952,433
+$2,024,265
+$28.75
+$109.62
+$(217.49)
+$132
+(1)
+PEOs and Non-PEO NEOs for Fiscal 2025, Fiscal 2024, Fiscal 2023, and Fiscal 2022 included:
+FiscalYear
+PEO
+Non-PEO NEOs
+2025
+PEO 1: Anne Wojcicki (until March 23, 2025) PEO 2: Joseph Selsavage (effective March 23, 2025)
+Matt Kvarda, William Richards, and Kathy Hibbs
+2024
+Anne Wojcicki
+Joseph Selsavage, William Richards, Kathy Hibbs, and Kenneth Hillan
+2023
+Anne Wojcicki
+Joseph Selsavage, Kathy Hibbs, Kenneth Hillan, Paul Johnson, and Steven Schoch
+2022
+Anne Wojcicki
+Steven Schoch, Kathy Hibbs, Kenneth Hillan, and Paul JohnsonIn reliance on Instruction 2 to Item 402(v) of Regulation S-K, the Company is providing information for Fiscal 2025, Fiscal 2024, Fiscal 2023, and Fiscal 2022 only.
+(2)
+The dollar amounts reported in columns (b1) and (b2) are the amounts of total compensation reported for the Company’s PEOs for each corresponding fiscal year in the “Total” column of the SCT. Refer to the SCT for further detail.
+(3)
+The dollar amounts reported in columns (c1), (c2), and (e) represent the amounts of CAP to PEOs and average CAP to Non-PEO NEOs, respectively. CAP does not necessarily represent cash and/or equity value transferred to the PEOs or applicable Non-PEO NEO without restriction, but rather is a value calculated in accordance with applicable SEC rules. As the Company does not have a defined benefit plan, no adjustments for pension benefits are included in the below tables. Similarly, no adjustments were made for dividends, as the Company has not paid any dividends. The following table sets forth the adjustments made to calculate CAP to PEO 1, as shown in column (c1):
+Fiscal 2025
+SCT Total
+$66,596
+Less: Grant Date Fair Value of Option Awards and Stock Awards Granted in Fiscal Year
+$0
+Plus: Fair Value at Fiscal Year-End of Outstanding and Unvested Option Awards and Stock Awards Granted in Fiscal Year
+$0
+Plus: Change in Fair Value of Outstanding and Unvested Option Awards and Stock Awards Granted in Prior Fiscal Years
+($1,690,000)
+Plus: Fair Value at Vesting of Option Awards and Stock Awards Granted in Fiscal Year that Vested During Fiscal Year
+$0
+Plus: Change in Fair Value as of Vesting Date of Option Awards and Stock Awards Granted in Prior Fiscal Years For Which Applicable Vesting Conditions Were Satisfied During Fiscal Year
+($799,166)
+Less: Fair Value as of Prior Fiscal Year-End of Option Awards and Stock Awards Granted in Prior Fiscal Years that Failed to Meet Applicable Vesting Conditions During Fiscal Year
+$0
+CAP
+($2,422,570)
+20 Table of ContentsThe following table sets forth the adjustments made to calculate CAP to PEO 2, as shown in column (c2):
+Fiscal 2025
+SCT Total
+$1,750,842
+Less: Grant Date Fair Value of Option Awards and Stock Awards Granted in Fiscal Year
+($530,000)
+Plus: Fair Value at Fiscal Year-End of Outstanding and Unvested Option Awards and Stock Awards Granted in Fiscal Year
+$23,109
+Plus: Change in Fair Value of Outstanding and Unvested Option Awards and Stock Awards Granted in Prior Fiscal Years
+($429,739)
+Plus: Fair Value at Vesting of Option Awards and Stock Awards Granted in Fiscal Year that Vested During Fiscal Year
+$81,250
+Plus: Change in Fair Value as of Vesting Date of Option Awards and Stock Awards Granted in Prior Fiscal Years For Which Applicable Vesting Conditions Were Satisfied During Fiscal Year
+($145,384)
+Less: Fair Value as of Prior Fiscal Year-End of Option Awards and Stock Awards Granted in Prior Fiscal Years that Failed to Meet Applicable Vesting Conditions During Fiscal Year
+$0
+CAP
+$750,078
+The following table sets forth the adjustments made to calculate average CAP to Non-PEO NEOs, as shown in column (e):
+Fiscal 2025
+SCT Total
+$315,367
+Less: Grant Date Fair Value of Option Awards and Stock Awards Granted in Fiscal Year
+$0
+Plus: Fair Value at Fiscal Year-End of Outstanding and Unvested Option Awards and Stock Awards Granted in Fiscal Year
+$0
+Plus: Change in Fair Value of Outstanding and Unvested Option Awards and Stock Awards Granted in Prior Fiscal Years
+$0
+Plus: Fair Value at Vesting of Option Awards and Stock Awards Granted in Fiscal Year that Vested During Fiscal Year
+$0
+Plus: Change in Fair Value as of Vesting Date of Option Awards and Stock Awards Granted in Prior Fiscal Years For Which Applicable Vesting Conditions Were Satisfied During Fiscal Year
+($25,823)
+Less: Fair Value as of Prior Fiscal Year-End of Option Awards and Stock Awards Granted in Prior Fiscal Years that Failed to Meet Applicable Vesting Conditions During Fiscal Year
+($417,905)
+CAP
+($128,361)
+(4)
+The dollar amounts reported in column (d) are the average amounts of total compensation reported for the Non-PEO NEOs for each corresponding fiscal year in the “Total” column of the SCT. Refer to the SCT.
+(5)
+For purposes of calculating peer group total shareholder return (“TSR”), the S&P 500 Healthcare Sector Index (the “Peer Group TSR”) was utilized pursuant to Item 201(e) of Regulation S-K and as is reflected in our Annual Report on Form 10-K for Fiscal 2025. In accordance with applicable SEC rules, the Peer Group TSR was calculated on a market capitalization weighted basis according to the respective issuers’ stock market capitalization at the beginning of each period for which a return is indicated. TSR for both the Company and the peer group is based on an initial $100 investment, measured on a cumulative basis from the market close on June 17, 2021 (the date the Company’s Class A common stock commenced publicly trading), through and including the end of the fiscal year for which TSR is being presented in the table. TSR calculations reflect reinvestment of dividends.
+(6)
+We identified Gross Margin as our Company-Selected Measure that represents, in our view, the most important measure used to link CAP to performance for Fiscal 2025. Gross Margin was the heaviest weighted (75%) performance measure in the Fiscal 2025 AIP.  21 Table of ContentsNarrative Discussion of Relationship Between CAP and Financial Performance Measures One objective of the “Pay Versus Performance Table” is to illustrate how performance-based features in our executive compensation program operate to index pay to performance. As further explained below, we believe that the table generally reflects an alignment of CAP with the Company’s performance on key financial performance measures. Additionally, the graphs shown below illustrate the relationship between CAP and (i) the Company and Peer Group TSRs, (ii) Net Income (Loss), and (iii) Gross Margin. TSR: As depicted below, a comparison of the Company’s cumulative TSR versus the cumulative Peer Group TSR from June 17, 2021 through the end of Fiscal 2025, shows that the CAP values are generally aligned with the Company’s stock price performance and generally reflect the Company’s historic practice of using equity incentives that are directly related to stock price performance.
+22 Table of ContentsNet Income (Loss): SEC rules require that net income be presented as a performance measure in the PVP Table above; however, no portion of the PEOs’ or the Non-PEO NEOs’ compensation is directly tied to Net Income (Loss).
+Gross Margin: Gross Margin was the heaviest weighted (75%) performance measure in the Fiscal 2025 AIP; however, in prior fiscal years, the only performance measure for the AIP was Adjusted EBITDA.* Accordingly, there is not a strong correlation between CAP values and Gross Margin results for Fiscal 2022, Fiscal 2023, and Fiscal 2024.
+23 Table of ContentsImportant Financial Performance Measures For Fiscal 2025, Gross Margin and Adjusted EBITDA* were the only financial performance measures used by the Company to link CAP (for all NEOs) to Company performance. Because there were only two metrics, the Company chose not to use a tabular format. For additional information related to how the Compensation Committee assessed the Company’s performance and established compensation for the NEOs, see the Compensation Discussion and Analysis.
+*
+Adjusted EBITDA is a non-GAAP measure. We define Adjusted EBITDA as net income (loss) before net interest income (expense), net other income (expense), income tax expenses (benefit), depreciation and amortization, impairment charges, stock-based compensation expense, and other items that are considered unusual or not representative of underlying trends of our business, including, but not limited to: changes in fair value of warrant liabilities, litigation settlements, gains or losses on dispositions of subsidiaries, acquisition transaction-related costs, and cybersecurity incident expenses, net of probable insurance recoveries, if applicable for the periods presented. Director Compensation On September 17, 2024, the following non-employee directors resigned from the Board (the “Resignations”): Roelof Botha, Patrick Chung, Sandra Hernández, M.D., Neal Mohan, Valerie Montgomery Rice, M.D., Richard Scheller, Ph.D., and Peter J. Taylor (collectively, the “Resigning Directors”). Following the Resignations, effective October 28, 2024 (the “Appointment Effective Date”), Andre Fernandez, Jim Frankola, and Mark Jensen (the “New Directors”) were appointed to the Board and the Audit Committee, Compensation Committee, and Special Committee. In connection with the appointment of the New Directors, the Board terminated the 23andMe Holding Co. Amended and Restated Outside Director Compensation Policy (Effective as of September 6, 2023) (the “Prior Director Compensation Policy”) (see the “Director Compensation” of the Company’s Definitive Proxy Statement on Schedule 14A filed with the SEC on July 16, 2024 for a description of the Prior Director Compensation Policy) and approved the provision of $1 million in cash compensation (the “New Director Compensation”) to each New Director for their respective services on the Board, the Audit Committee, and the Compensation Committee for the period beginning on the Appointment Effective Date and ending on the date of the 2025 Annual Meeting of Stockholders (the “Director Service Period”), which such New Director Compensation shall be paid as follows: $800,000 on or promptly following the Effective Date, and $20,000 per month thereafter (the “Monthly Payment”), payable on the last business day of each month beginning in November 2024 and ending with the final Monthly Payment to be made on the date of the 2025 Annual Meeting of Stockholders. Except for the New Director Compensation, the New Directors are not entitled to any other compensation, whether cash or equity, for their respective Board and committee service during the Director Service Period. Effective March 23, 2025, the Board appointed Thomas B. Walper as a non-employee director of the Board and as a member of the Special Committee. In connection with his appointment, the Board approved, and the Company entered into, that certain Agreement for Service of Independent Director with Mr. Walper (the “Director Agreement”). Pursuant to the Director Agreement, Mr. Walper will receive a $35,000 cash payment for each month that he serves on the Board (the “Walper Director Compensation”); provided that $225,000 of the Director Compensation was payable to Mr. Walper on or prior to the Bankruptcy Petitions Date as an upfront payment (the “Payment”), and thereafter, beginning on September 1, 2025, the Walper Director Compensation will be paid in monthly installments of $35,000 on the first of each month, prorated, as necessary, based on any amounts remaining of the Payment as of September 1, 2025; provided that, (i) if the Bankruptcy Petitions Date had not occurred or (ii) Mr. Walper had not been appointed to the Board, in each ease, within five business days of payment of the Payment, Mr. Walper was obligated to repay the Payment to the Company. If, prior to September 1, 2025, Mr. Walper voluntarily resigns from the Board (a “Voluntary Resignation”), then he will be required to pay to the Company an amount equal to $35,000 multiplied by the number of months less than six months that the Director Agreement was in effect. A Voluntary Resignation does not include any involuntary resignation, including any such resignation arising from a change of control transaction or consummation of a transaction involving all or substantially all of the Company’s assets. Additionally, the Director Agreement provides that Mr. Walper will receive a payment of $2,500 for each day that he is required to spend more than four hours addressing matters that are outside of the regular duties associated with being a member of the Board and the Special Committee, as applicable, on account of his role as an independent director, for preparation and participation in depositions, preparation for and participation in court or other judicial or administrative hearings,  24 Table of Contentsparticipation in mediation or settlement meetings, and for participation in meetings with Company management, advisors, or external accountants or other consultants that are for purposes other than regular or special meetings of the Board or the Special Committee. Pursuant to the Director Agreement, the Company will reimburse Mr. Walper for all reasonable, necessary, and documented out-of-pocket expenses and disbursements incurred in carrying out his duties and responsibilities as an independent director, including travel on commercial flights, lodging, and local transportation in accordance with Company policies. Director Compensation Table The following table summarizes the compensation paid to, awarded to, or earned by each individual who served as a non-employee director of the Company at any time during Fiscal 2025 for service on the Board.
+Name(1)
+Fees Earned or Paid in Cash($)(2)
+Stock Awards($)(3)
+All OtherCompensation($)
+Total($)
+Roelof Botha
+59,980
+219,932
+—
+279,912
+Patrick Chung
+67,481
+219,932
+—
+287,414
+Andre Fernandez
+900,000
+-
+—
+900,000
+Jim Frankola
+900,000
+-
+—
+900,000
+Mark Jensen
+900,000
+-
+—
+900,000
+Sandra Hernández, M.D.
+91,728(4)
+219,932
+—
+311,661
+Neal Mohan
+57,500
+219,932
+—
+277,432
+Valerie Montgomery Rice, M.D.
+70,981(5)
+219,932
+—
+290,913
+Richard Scheller, Ph.D.
+50,000
+219,932
+10,000(6)
+279,932
+Peter J. Taylor
+111,742(7)
+219,932
+—
+331,674
+Thomas Walper
+225,000
+-
+—
+225,000
+(1)
+Anne Wojcicki is not included in the table above, as she served as an executive officer of the Company until March 23, 2025 and did not receive any compensation for her service as a director in fiscal 2025. Ms. Wojcicki’s compensation is reflected in the “Summary Compensation Table.”
+(2)
+The following directors elected to receive RSUs in lieu of cash fees pursuant to the 23andMe Holding Co. RSU Conversion and Deferral Program for Directors:
+Name
+Number of RSUs Received inLieu of Cash Fees (#)
+Value of RSUs Received inLieu of Cash Fees ($)
+Roelof Botha
+8,979
+59,980
+Patrick Chung
+10,102
+67,481
+Sandra Hernández, M.D.
+13,129
+91,728
+Valerie Montgomery Rice, M.D.
+10,495
+70,981
+Peter J. Taylor
+5,646
+41,742
+(3)
+Each of the Resigning Directors was granted an annual award of RSUs on August 26, 2024 pursuant to the Prior Director Compensation Policy; however, such awards were forfeited upon the Resignations. The award grant date fair values shown in the table have been determined in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 718, using the assumptions described in Note 15 to 23andMe’s Consolidated Financial Statements, which is included in our Annual Report. As of March 31, 2025, no non-employee directors held any outstanding equity awards.
+(4)
+Includes $41,742 in fees received by the director for service on the Board’s Special Committee.
+(5)
+Includes $5,998 in fees received by the director for service on the Board’s Special Committee.
+(6)
+During Fiscal 2025, the Company paid Dr. Scheller $10,000 pursuant to the Scheller Consulting Agreement (as defined below).
+(7)
+Includes $41,742 in fees received by the director for service on the Board’s Special Committee.  25
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters
+EQUITY COMPENSATION PLAN INFORMATION
+The following table provides information as of March 31, 2025, regarding shares of our Class A common stock that may be issued upon the exercise of options and other rights under our existing equity compensation plans and arrangements, divided between plans approved by our stockholders and plans or arrangements not submitted to our stockholders for approval. The information includes the number of shares covered by, and the weighted-average exercise price of, outstanding options, warrants, and other rights and the number of shares remaining available for future grants, excluding the shares to be issued upon exercise of outstanding options, warrants, and other rights.
+Plan Category
+Number of Securities to be IssuedUpon Exercise of OutstandingOptions, Warrants, and Rights(a)
+Weighted-AverageExercise Price ofOutstanding Options,Warrants, and Rights(b)
+Number of SecuritiesRemainingAvailable for Future IssuanceUnder Equity CompensationPlans (Excluding SharesReflected in Column (a))(c)
+Equity Compensation Plans Approved by Security Holders(1)
+4,923,452
+$
+66.23
+4,369,915
+Equity Compensation Plans Not Approved by Security Holders
+—
+—
+—
+Total
+4,923,452
+$
+66.23
+4,369,915
+(1) Consists of the 2021 Plan; the Company suspended purchases under the 23andMe Holding Co. Amended and Restated Employee Stock Purchase Plan effective March 1, 2025. Amounts in column (a) include stock options and unvested restricted stock units.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table furnishes, with respect to each person who is known to the Company to be the beneficial owner of more than 5% of the outstanding shares of common stock of the Company, the name and address of such beneficial owner, the number of shares of common stock reported as beneficially owned (as determined in accordance with Rule 13d-3 under the Exchange Act) by such beneficial owner in the most recent Schedule 13G or Schedule 13D filed with the SEC, and the percentage that such shares comprised the outstanding shares of common stock of the Company as of July 1, 2025.
+Name and Address of Beneficial Owner
+Number of SharesBeneficially Owned
+Percentage of SharesBeneficially Owned(2)
+Percent ofCombined VotingPower of AllClasses ofCommonStock(2)(3)
+Class A
+Class B(1)
+Class A
+Class B(1)
+ABeeC 2.0, LLC
+4,931,692(4)
+—
+19.39%
+—
+10.60%
+71 Main Street, Suite 259
+Los Altos, CA 94022
+Farallon Capital Partners, L.P.
+1,270,908(5)
+—
+5.00%
+—
+2.73%
+c/o Farallon Partners, L.L.C.
+One Maritime Plaza, Suite 2100
+San Francisco, CA 94111
+26
+Name and Address of Beneficial Owner
+Number of SharesBeneficially Owned
+Percentage of SharesBeneficially Owned(2)
+Percent ofCombined VotingPower of AllClasses ofCommonStock(2)(3)
+Class A
+Class B(1)
+Class A
+Class B(1)
+GSK plc
+—
+1,983,025(6)
+—
+93.97%
+42.61%
+980 Great West Road
+Brentford, Middlesex, TW8 9GS
+United Kingdom
+Zentree Investments Limited
+3,699,236(7)
+—
+14.55%
+—
+7.95%
+c/o Zentree Investment Management Pte Ltd 18 Robinson Road
+Level 15-01
+Singapore 048547
+(1)
+Each share of Class B common stock is convertible into one share of Class A common stock at the option of the holder.
+(2)
+The percentages are based upon 25,431,244 shares of Class A common stock and 2,110,250 shares of Class B common stock outstanding on July 1, 2025.
+(3)
+Each share of Class A common stock is entitled to one vote, and each share of Class B common stock is entitled to 10 votes.
+(4)
+Based on information contained in Amendment No. 13 to Schedule 13D filed with the SEC by ABeeC 2.0, LLC (the “LLC”) on June 16, 2025 to report beneficial ownership of shares of the Company’s common stock as of June 13, 2025. In the Schedule 13D, the LLC reported that The ANNE WOJCICKI REVOCABLE TRUST U/A/D 9/2/09, AS AMENDED AND RESTATED (the “Trust”) is the sole member of the LLC and Anne Wojcicki is the sole trustee of the Trust. The LLC reported that the LLC, the Trust, and Ms. Wojcicki have shared power to vote and dispose, or direct the disposition, of 4,931,692 Class A common stock held by the LLC.
+(5)
+Based on information contained in the Schedule 13G filed with the SEC by Farallon Capital Partners, L.P. (“Farallon”) on June 20, 2025 to report beneficial ownership of shares of the Company’s Class A common stock as of June 13, 2025. In the Schedule 13G, Farallon reported that: (i) 221,858 shares of Class A common stock are held by Farallon; (ii) 195,040 shares of Class A common stock are held by Farallon Capital Institutional Partners, L.P. (“FCIP”); (iii) 107,337 shares of Class A common stock are held by Farallon Capital Institutional Partners II, L.P. (“FCIP II”); (iv) 67,533 shares of Class A common stock are held by Farallon Capital Institutional Partners III, L.P. (“FCIP III”); (v) 70,155 shares of Class A common stock are held by Four Crossings Institutional Partners V, L.P. (“FCIP V”); (vi) 525,633 shares of Class A common stock are held by Farallon Capital Offshore Investors II, L.P. (“FCOI II”); (vii) 39,667 shares of Class A common stock are held by Farallon Capital F5 Master I, L.P. (“F5MI”); and (viii) 43,685 shares of Class A common stock are held by Farallon Capital (AM) Investors, L.P. (“FCAMI” and, together with Farallon, FCIP, FCIP II, FCIP III, FCIP V, FCOI II, and F5MI, the “Farallon Funds”). The Schedule 13G also included the following reporting persons: (i) Farallon Partners, L.L.C. (the “Farallon General Partner”) as (a) the general partner of each of Farallon, FCIP, FCIP II, FCIP III, FCOI II, and FCAMI, and (b) the sole member of the FCIP V General Partner (as defined below), with respect to the shares held by each of the Farallon Funds other than F5MI; (ii) Farallon Institutional (GP) V, L.L.C. (the “FCIP V General Partner”) as the general partner of FCIP V, with respect to the shares held by FCIP V; (iii) Farallon F5 (GP), L.L.C. (the “F5MI General Partner” and, together with the Farallon Funds, Farallon General Partner, and FCIP V General Partner, the “Farallon Reporting Entities”) as the general partner of F5MI, with respect to the shares held by F5MI; and (iv) the following persons, each of whom is a managing member or senior managing member, as the case may be, of the Farallon General Partner, and a manager or senior manager, as the case may be, of the FCIP V General Partner and the F5MI General Partner, with respect to the shares held by the Farallon Funds: Joshua J. Dapice (“Dapice”); Philip D. Dreyfuss (“Dreyfuss”); Hannah E. Dunn (“Dunn”); Richard B. Fried (“Fried”); Varun N. Gehani (“Gehani”); Nicolas Giauque (“Giauque”); David T. Kim (“Kim”); Michael G. Linn (“Linn”); Patrick (Cheng) Luo (“Luo”); Rajiv A. Patel (“Patel”); Thomas G. Roberts, Jr. (“Roberts”); Edric C. Saito (“Saito”); William Seybold (“Seybold”); Daniel S. Short (“Short”); Andrew J. M. Spokes (“Spokes”); John R. Warren (“Warren”); and Mark C. Wehrly (“Wehrly” and, together with Dapice, Dreyfuss, Dunn, Fried, Gehani, Giauque, Kim, Linn, Luo, Patel, Roberts, Saito, Seybold, Short, Spokes, and Warren, the “Farallon Individual Reporting Persons”).
+The Schedule 13G further reported that the shares reported for the respective Farallon Funds are held directly by the respective Farallon Funds. All Farallon Reporting Entities and Farallon Individual Reporting Persons reported having shared voting and shared dispositive power with respect to their reported shares. The Farallon General Partner, as the general partner of each of Farallon, FCIP, FCIP II, FCIP III, FCOI II, and FCAMI, and as the sole member of the FCIP V General Partner, may be deemed to be a beneficial owner of such shares held by the Farallon Funds other than F5MI. The FCIP V General Partner, as the general partner of FCIP V, may be deemed to be a beneficial owner of such shares held by FCIP V. The F5MI General Partner, as the general partner of F5MI, may be deemed to be a beneficial owner of such shares held by F5MI. Each of the Farallon Individual Reporting Persons, as a managing member or senior managing member, as the case may be, of the Farallon General Partner, and as a manager or senior manager, as the case may be, of the FCIP V General Partner and the F5MI General Partner, in each case with the power to exercise investment discretion, may be deemed to be a beneficial owner of such shares held by the Farallon Funds. Each of the Farallon General Partner, the FCIP V General Partner, the F5MI General Partner and the Farallon Individual Reporting Persons disclaimed any beneficial ownership of any such shares.
+(6)
+Based on information contained in Amendment No. 3 to Schedule 13D filed with the SEC by GSK plc (the “GSK”) on November 15, 2024 to report beneficial ownership of shares of the Company’s common stock as of November 12, 2024. In Amendment No. 3 to Schedule 13D, GSK reported that Glaxo Group Limited, an indirect wholly owned subsidiary of GSK, had sole power to vote and dispose, or direct the disposition, of 1,983,025 shares of the Class B common stock held by GSK.
+27
+(7)
+Based on information contained in Amendment No. 2 to Schedule 13D filed with the SEC by Zentree Investments Limited on April 1, 2025 to report beneficial ownership of shares of the Company’s Class A common stock as of March 28, 2025. In the Schedule 13D, Zentree Investments Limited reported that it had sole voting power of 0 shares of Class A common stock, shared voting power of 3,699,236 shares of Class A common stock, sole dispositive power of 0 shares of Class A common stock, and shared dispositive power of 3,699,236 shares of Class A common stock.
+The following table furnishes the number of shares of common stock of the Company beneficially owned (as determined in accordance with Rule 13d-3 under the Exchange Act) by each of the current directors, the named executive officers, and the current directors and executive officers as a group, as of July 1, 2025.
+Name and Address of   Beneficial Owner(1)
+Number of Shares   Beneficially Owned(2)
+Percentage of Shares   Beneficially Owned(4)
+Percent ofCombinedVoting Power ofAll Classes ofCommonStock(4)(5)
+Class A(11)
+Class B(3)
+Class A
+Class B(3)
+Andre Fernandez
+—
+—
+—
+—
+—
+Jim Frankola
+—
+—
+—
+—
+—
+Mark Jensen
+—
+—
+—
+—
+—
+Thomas Walper
+—
+—
+—
+—
+—
+Anne Wojcicki
+5,736,063(6)
+—
+22.56%
+—
+12.33%
+Joseph Selsavage
+100,771
+—
+*
+—
+*
+Matt Kvarda
+—
+—
+—
+—
+—
+William Richards
+—
+—
+—
+—
+—
+Kathy Hibbs
+—
+—
+—
+—
+—
+All Current Directors and Executive Officers as a Group (7 persons)
+5,836,834(7)
+—
+22.95%
+—
+12.54%
+*
+Less than 1%.
+(1)
+Unless otherwise indicated, the business address of each individual is 349 Oyster Point Boulevard, South San Francisco, California 94080.
+(2)
+Unless otherwise indicated, each individual has voting and dispositive power over the listed shares of common stock and such voting and dispositive power is exercised solely by the named individual or shared with a spouse.
+(3)
+Each share of Class B common stock is convertible into one share of Class A common stock at the option of the holder.
+(4)
+The percentages are based upon 25,431,244 shares of Class A common stock and 2,110,250 shares of Class B common stock outstanding on July 1, 2025.
+(5)
+Each share of Class A common stock is entitled to one vote and each share of Class B common stock is entitled to 10 votes.
+(6)
+Includes 4,931,692 shares of Class A common stock held by the LLC and 125,000 shares of Class A common stock held by the Anne Wojcicki Foundation, over which Ms. Wojcicki may be deemed to hold voting and dispositive power.
+(7)
+Includes the following number of shares of Class A common stock issuable within 60 days after July 1, 2025, upon vesting of RSUs and shares of Class A common stock subject to outstanding stock options that are exercisable within 60 days of July 1, 2025:
+Name of Beneficial Owner
+RSUs
+Stock Options
+Joseph Selsavage
+11,423
+52,192
+Anne Wojcicki
+—
+616,842
+All Current Directors and Executive Officers as a Group (7 persons)
+11,423
+669,034
+28
+Item 13. Certain Relationships and Related Transactions and Director Independence
+RELATED PERSON TRANSACTIONS
+Related Person Transaction Approval Policy
+The Board has adopted the 23andMe Holding Co. Related Person Transaction Approval Policy (the “RPT Policy”). The RPT Policy applies to any transaction (each, a “Related Person Transaction”) in which:
+•
+23andMe or a subsidiary, partnership, joint venture, or other business association that is effectively controlled by 23andMe, directly or indirectly, is, was, or will be a participant in the transaction;
+•
+the amount of the transaction exceeds $120,000; and
+•
+a Related Person (as defined below) has, had, or will have a direct or indirect material interest in the transaction.
+Under the RPT Policy, a “Related Person” is (i) any director or executive officer of 23andMe, (ii) any nominee for director (when the information called for by the rules and regulations of the SEC is being presented in a proxy or information statement related to the election of that nominee for director), (iii) any stockholder of 23andMe known to 23andMe to be the beneficial owner of more than 5% of any class of 23andMe’s voting securities (a “5% or Greater Holder”), and (iv) any immediate family member of any such person.
+The Audit Committee is responsible for reviewing Related Person Transactions and approving, ratifying, revising, or rejecting Related Person Transactions in accordance with the RPT Policy. Company management is responsible for determining whether a transaction is a Related Person Transaction, including whether the Related Person has a material interest, based on a review of all facts and circumstances, which includes, without limitation, information provided to management in the annual director and officer questionnaires. Upon determination by management that a transaction is a Related Person Transaction and therefore requires review by the Audit Committee, the material facts respecting the Related Person Transaction and the Related Person’s interest in such Related Person Transaction are reported to the Audit Committee. The Audit Committee is entitled to rely on such determinations by management.
+Related Person Transactions
+The following sets forth a summary of the Related Person Transactions during Fiscal 2025, all of which were approved by the Audit Committee in accordance with the RPT Policy.
+Transactions with Related Persons in Fiscal 2024
+GSK Agreement
+The Company considers Glaxo Group Limited to be a 5% or Greater Holder. From July 2018 to July 2023, we were party to an exclusive collaboration agreement with an affiliate of GlaxoSmithKline (“GSK”) (the “original GSK Agreement”) to leverage genetic insights to validate, rapidly progress development, and commercialize useful new drugs. As of July 2023, we are able to pursue new target discovery collaborations with other parties that leverage our extensive database, research capabilities and successful drug discovery track record. In October 2023, we entered into an amendment to the original GSK Agreement (the “2023 GSK Amendment” and, together with the original GSK Agreement, the “GSK Agreements”) to provide GSK with a non-exclusive license to certain new, de-identified, aggregated data from our database (the “New Data”), as well as access to certain of our research services with respect to such New Data. During Fiscal 2025, the Company recognized revenue of $19.7 million under the GSK Agreements, and as of March 31, 2025, the Company had deferred revenue of $0.3 million related to the GSK Agreements.
+29
+TWF Agreement
+In January 2024, the Company entered into a research services agreement (the “TWF Agreement”) and related statement of work (the “initial SOW”) with the Troper Wojcicki Foundation (“TWF”) with the goal of expanding scientific knowledge in the field of lung cancer using the Company’s phenotype and genotype data to build large scale research cohorts. At the time, Susan Wojcicki was a director and officer of TWF, and a sibling of the Company’s former CEO and current member of the Board of Directors, Anne Wojcicki, and therefore the Company determined that TWF is a related party. The TWF Agreement has a term of five years through December 21, 2028. The fees under the initial SOW are $5.4 million, payable in installments over the term of the TWF Agreement, with certain payments being subject to the achievement of specified milestones. The Company recognized revenue from the TWF Agreement of $0.7 million in Fiscal 2025. As of March 31, 2025, the Company had deferred revenue of $1.4 million associated with the TWF Agreement.
+Consulting Agreement with Richard Scheller
+Richard Scheller serves as a director on our Board. Effective April 1, 2019, Dr. Scheller executed a consulting agreement with 23andMe, Inc. (the “Scheller Consulting Agreement”). The Scheller Consulting Agreement provided that Dr. Scheller would serve as a consultant for the one-year period of April 1, 2019 to March 31, 2020, at a rate of $10,000 a month. The Scheller Consulting Agreement was amended on March 30, 2020 to extend the term of the Scheller Consulting Agreement through March 31, 2021 and to address minor ministerial updates. Effective March 24, 2021, a second amendment to the Scheller Consulting Agreement further extended the term of the Scheller Consulting Agreement through March 31, 2022. Effective March 24, 2022, a third amendment to the Scheller Consulting Agreement further extended the term of the Scheller Consulting Agreement through March 31, 2023. Effective March 10, 2023, a fourth amendment to the Scheller Consulting Agreement further extended the term of the Scheller Consulting Agreement through March 31, 2024. During Fiscal 2025, the Company paid Dr. Scheller $10,000 pursuant to the Scheller Consulting Agreement.
+BOARD INDEPENDENCE
+As our securities were previously listed on Nasdaq, we use the standards of “independence” prescribed by rules set forth by Nasdaq. Under Nasdaq rules, a majority of a listed company’s board of directors must be comprised of independent directors. Under Nasdaq rules, a director will only qualify as an “independent director” if, in the opinion of that company’s board of directors, that person does not have a relationship that would interfere with the exercise of independent judgment in carrying out a director’s responsibilities. Our Board has determined that the following directors are independent under Nasdaq and SEC rules and regulations: Andre Fernandez, Jim Frankola, Mark Jensen, and Thomas Walper. Additionally, the Board determined that the following Resigning Directors were independent during their respective tenures as directors: Roelof Botha, Patrick Chung, Sandra Hernández, Neal Mohan, Valerie Montgomery Rice, and Peter Taylor. As Anne Wojcicki served as our Chief Executive Officer until March 23, 2025 and Richard Scheller, a Resigning Director, provided consulting services to the Company during Fiscal 2025, they are not deemed to be independent.
+30
+Item 14. Principal Accounting Fees and Services
+Audit Committee Matters
+AUDIT FEES AND SERVICES
+Fees billed for services rendered by KPMG for each of Fiscal 2025 and Fiscal 2024 were as follows:
+Type of Service
+Fiscal 2025 ($)
+Fiscal 2024 ($)
+Audit Fees(1)
+3,338,206
+4,576,250
+Audit-Related Fees
+—
+—
+Tax Fees(2)
+60,000
+42,000
+All Other Fees
+—
+—
+Total
+3,398,206
+4,618,250
+(1)
+Audit fees represent the aggregate fees billed for professional services rendered by our independent registered public accounting firm for the audit of our annual financial statements, review of financial statements included in our Quarterly Reports on Form 10-Q, and services that are normally provided in connection with statutory and regulatory filings or engagements for the Fiscal 2025 and 2024, respectively.
+(2)
+Consists of fees for professional services primarily for tax advice services.
+PRE-APPROVAL POLICIES AND PROCEDURES
+Our Audit Committee has adopted policies and procedures relating to the approval of all audit and non-audit services that are to be performed by our independent registered public accounting firm. This policy generally provides that we will not engage our independent registered public accounting firm to render audit or non-audit services unless the service is specifically approved in advance by the Audit Committee or the engagement is entered into pursuant to the pre-approval procedures described below.
+From time to time, the Audit Committee may pre-approve specified types of services that are expected to be provided to us by our independent registered public accounting firm during the next 12 months. Any such pre-approval is detailed as to the particular service or type of services to be provided and is also generally subject to a maximum dollar amount.
+All of the services rendered by KPMG to the Company and our subsidiaries during Fiscal 2025 were pre-approved by our Audit Committee.
+31
+PART IV
+Item 15. Exhibits, Financial Statement Schedules
+EXHIBIT INDEX
+No.
+Description
+31.1*
+Certification of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. (Previously furnished as Exhibit 32.1 to the Company’s Annual Report on Form 10-K filed June 11, 2025 and incorporated by reference herein.)
+101.INS
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document.
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+*
+Filed herewith
+Item 16. Form 10-K Summary
+None.
+32
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+23ANDME HOLDING CO.
+Date:   July 25, 2025
+By:
+/s/ Joseph Selsavage
+Name: Joseph Selsavage
+Title:  Interim Chief Executive Officer and Chief Financial and Accounting Officer
+(Principal Executive Officer and Principal Financial and Accounting Officer)
+33

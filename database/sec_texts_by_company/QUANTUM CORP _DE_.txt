@@ -1,0 +1,94 @@
+NT 10-K
+1
+d70603dnt10k.htm
+NT 10-K
+NT 10-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 12b-25
+NOTIFICATION OF LATE FILING
+(Check one):
+☒ Form 10-K  ☐ Form 20-F  ☐ Form 11-K  ☐ Form 10-Q  ☐ Form 10-D
+☐ Form N-CEN
+☐ Form N-CSR
+For Period Ended: March 31, 2025
+☐ Transition Report on Form 10-K
+☐ Transition Report on Form 20-F
+☐ Transition Report on Form 11-K
+☐ Transition Report on Form 10-Q
+For the Transition Period Ended:
+Nothing in this form shall be construed to imply that the Commission has verified any information contained herein.
+If the notification relates to a portion of the filing checked above, identify the item(s) to which the notification relates:
+PART I — REGISTRANT INFORMATION
+QUANTUM CORPORATION
+(Full Name of Registrant)
+N/A
+(Former Name if
+Applicable)
+224 Airport Parkway, Suite 550
+(Address of Principal Executive Office (Street and Number))
+San Jose, California 95110
+(City, State and Zip Code)
+PART II — RULES 12b-25(b) AND (c)
+If the subject report could not be filed without unreasonable effort or expense and the registrant seeks relief pursuant to Rule 12b-25(b), the following should be completed. (Check box if appropriate)
+☒
+(a)
+The reasons described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+(b)
+The subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-CEN or Form N-CSR, or portion
+thereof, will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report or transition report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or
+before the fifth calendar day following the prescribed due date; and
+(c)
+The accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART III — NARRATIVE
+State below in
+reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-CEN, N-CSR, or the transition report or portion thereof, could not be filed within the prescribed time period.
+Quantum Corporation (the “Company”) has determined that it is unable to file its Annual Report on Form 10-K (the “Form 10-K”) for the
+fiscal year ended March 31, 2025 (“Fiscal 2025”) by June 30, 2025, the original due date for such filing, without unreasonable effort or expense due to the circumstances described below.
+The Company is reviewing its accounting related to certain revenue contracts as well as the application of standalone selling price under applicable
+accounting standards. The results of the review will need to be reflected in the Company’s financial statements for Fiscal 2025 in the Form 10-K. The Company does not expect the current review will affect the Company’s financial statements
+for any fiscal periods prior to Fiscal 2025.
+As a result, the Company has been unable to complete its consolidated audited financial statement close
+process for Fiscal 2025, and therefore unable to compile in a timely manner, without unreasonable effort or expense, the consolidated financial information required to prepare the Form 10-K for Fiscal 2025, within the prescribed time period.
+PART IV — OTHER INFORMATION
+(1)
+Name and telephone number of person to contact in regard to this notification
+Lewis W. Moorehead
+(408)
+944-4000
+(Name)
+(Area Code)
+(Telephone Number)
+(2)
+Have all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment Company Act of 1940 during the preceding 12 months or for such shorter period
+that the registrant was required to file such report(s) been filed? If answer is no, identify report(s). Yes ☒ No ☐
+(3)
+Is it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be reflected by the earnings statements to be included in the subject report or
+portion thereof? Yes ☐ No ☒
+If so, attach an explanation of the anticipated change, both narratively and quantitatively, and, if appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+Cautionary Note Regarding Forward-Looking Statements:
+Forward-Looking Statements: This Form 12b-25 contains “forward-looking” statements within the meaning of federal securities laws. All
+statements other than statements of historical fact are statements that could be deemed forward-looking statements. The Company advises caution in reliance on forward-looking statements. Forward-looking statements include, without limitation:
+statements related to the ongoing audit procedures, including timing and expected outcome; and the Company’s plans, objectives and intentions. These statements involve known and unknown risks, uncertainties and other factors that may cause
+actual results to differ materially from those implied by the forward-looking statement, including without limitation: the outcome of the pending review of the Company’s accounting related to its revenue contracts and application of standalone
+selling price; the discovery of additional and unanticipated information during the procedures required to be completed before the Company is able to file the Form 10-K; the completion of the Company’s Fiscal 2025 audit and any adjustments
+resulting therefrom; any changes to the assumptions underlying the Company’s closing process and auditors’ audit; risks related to legal proceedings and investigations; risks related to the Company’s ability to meet stock exchange
+continued listing standards; and risks related to the Company’s ability to implement and maintain effective internal control over financial reporting. See also other risks that are described in “Risk Factors” in the Company’s
+filings with the Securities and Exchange Commission (the “SEC”), including its Annual Report on Form 10-K filed with the SEC for the fiscal year ended March 31, 2024, and any subsequent reports filed with the SEC. All forward-looking
+statements in this Form 12b-25 are based on information available to the Company as of the date of this filing. The Company expressly disclaims any obligation to update or alter its forward-looking statements, whether as a result of new
+information, future events or otherwise, except as required by applicable law.
+QUANTUM CORPORATION
+(Name of Registrant as Specified in Charter)
+has caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated:
+June 30, 2025
+By:
+/s/ Lewis W. Moorehead
+Lewis W. Moorehead
+Chief Financial Officer
+INSTRUCTION: The form may be signed by an executive officer of the registrant or by any other duly authorized representative.
+The name and title of the person signing the form shall be typed or printed beneath the signature. If the statement is signed on behalf of the registrant by an authorized representative (other than an executive officer), evidence of the
+representative’s authority to sign on behalf of the registrant shall be filed with the form.
+ATTENTION
+Intentional misstatements or omissions of fact constitute Federal Criminal Violations (See 18 U.S.C. 1001).

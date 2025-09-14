@@ -1,0 +1,1693 @@
+true
+FY
+0001962011
+0001962011
+2024-01-01
+2024-12-31
+0001962011
+2024-06-28
+0001962011
+2025-07-28
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+10-K/A
+(Amendment
+No. 2)
+☒
+ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the fiscal year ended December 31, 2024
+or
+☐
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from ___ to ___
+Commission
+file number: 001-42275
+KAIROS
+PHARMA, LTD.
+(Exact
+name of registrant as specified in its charter)
+Delaware
+46-2993314
+(State
+or other jurisdiction of
+incorporation
+or organization)
+(I.R.S
+Employer
+Identification
+No.)
+2355 Westwood Blvd., #139
+Los
+Angeles CA 90064
+(Address
+of principal executive offices) (Zip Code)
+(310)
+948-2356
+(Registrant’s
+telephone number, including area code)
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+Common
+Stock, par value $0.001 per share
+KAPA
+NYSE
+American
+Securities
+registered pursuant to Section 12(g) of the Act: None
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). Yes ☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large
+accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated
+filer ☐
+Smaller
+reporting company ☒
+Emerging
+growth company ☒
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. ☐
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+The
+registrant was not a public company as of the last business day of its most recently completed second fiscal quarter and, therefore,
+cannot calculate the aggregate market value of its voting and non-voting common equity held by non-affiliates as of such date.
+As
+of July 28, 2025, the Registrant had 20,457,480 shares of Common Stock outstanding.
+EXPLANATORY
+NOTE
+Kairos
+Pharma, Ltd. (the “Company”) is filing this Amendment No. 2 on Form 10-K/A (the “Form 10-K/A”) to amend its
+Annual Report for the year ended December 31, 2024 filed with the Securities and Exchange Commission (the “SEC”) on
+April 15, 2025, as amended (the “Original Form 10-K”), for purposes of adding in the information required by Items 10
+through 14 of Part III not included in the Original Form 10-K. The Part III Items have already been filed with the Company’s
+Definitive Proxy Statement on Schedule 14A, which was filed by the Company on April 30, 2025, but was not deemed received by the SEC
+until May 1, 2025, and which was subsequently amended on May 16, 2025. As such, the Company is filing this Form 10-K/A to ensure that the Company’s Annual report on Form 10-K is
+deemed complete by the SEC.
+Pursuant
+to Rule 12b-15 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), this Form 10-K/A also contains
+certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, which are attached hereto. Because no financial statements
+have been included in this Form 10-K/A and this Form 10-K/A does not contain or amend any disclosure with respect to Items 307 and 308
+of Regulation S-K, paragraphs 3, 4 and 5 of the certifications have been omitted, in accordance with the guidance set forth in Question 161.01 of the Compliance Disclosure
+Interpretations of the Division of Corporation Finance of the SEC.
+Except
+as described above, this Form 10-K/A does not modify or update the disclosure in, or exhibits to, the Original Form 10-K. Furthermore,
+this Form 10-K/A does not change any previously reported financial results. Information not affected by this Form 10-K/A remains unchanged
+and reflects the disclosures made at the time the Original Form 10-K was filed.
+i
+TABLE
+OF CONTENTS
+PART
+III
+1
+Item
+10
+Directors,
+Executive Officers and Corporate Governance
+1
+Item
+11
+Executive
+Compensation
+8
+Item
+12
+Security
+Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+16
+Item
+13
+Certain
+Relationships and Related Transactions, and Director Independence
+17
+Item
+14
+Principal
+Accountant Fees and Services
+18
+PART
+IV
+19
+Item
+15
+Exhibits
+and Financial Statement Schedules
+19
+Item
+16
+Form
+10-K Summary
+22
+Signatures
+23
+ii
+PART
+III
+ITEM
+10 - DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Executive
+Officers and Directors
+The
+following table sets forth information regarding our executive officers as of the date hereof.
+Name
+Age
+Position(s)
+John
+S. Yu, M.D.
+61
+Chief
+Executive Officer and Chairman of the Board
+Neil
+Bhowmick, Ph.D.
+54
+Chief
+Scientific Officer
+Ramachandran
+Murali. Ph.D.
+65
+Vice
+President of Research and Development
+Doug
+Samuelson
+65
+Chief
+Financial Officer
+Hyun
+W. Bae, M.D.
+55
+Independent
+Director
+Hansoo
+Michael Keyoung, M.D., Ph.D.
+50
+Independent
+Director
+Rahul
+Singhvi, Sc.D., MBA
+59
+Independent
+Director
+There
+are no arrangements or understandings between any executive officer and any other person pursuant to which such executive officer was
+or is to be selected as an officer.
+John
+S. Yu, M.D., CEO and Chairman of the Board of Directors
+Dr.
+Yu, our co-founder, Chairman and Chief Executive Officer, is a medical clinician and investigator. Since 2019, Dr. Yu has also served
+as the Chief Financial Officer and a director of our wholly owned subsidiary, Enviro. Dr. Yu is committed to advancing Kairos’s
+pipeline to tackle the most unmet needs in cancer: resistance to cancer therapeutics and the suppressed immune response in cancer. As
+the Professor of Neurosurgery and Director of Surgical Neuro-Oncology at Cedars-Sinai Medical Center, where he has worked since January
+1998 until present, he has dedicated his medical career to the development of immunotherapy for cancer and glioblastoma. Dr. Yu is the
+co-inventor of the GITR and activated T cell technology. Dr. Yu earned his bachelor’s degree from Stanford University in 1985 and
+spent a year at the Sorbonne in Paris studying French literature while completing a fellowship in immunology at the Institut Pasteur
+in Paris, and earned his medical degree from Harvard Medical School in 1990 and a master’s degree from the Harvard University Department
+of Genetics in 1990, before pursuing a neurosurgical residency at Massachusetts General Hospital in Boston. His portfolio has included
+26 research grants, 10 patents, seven FDA-approved investigational drugs and 17 IRB approved clinical trials. We believe Dr. Yu, with
+his substantial experience in the field, is qualified to serve on our board of directors.
+Neil
+Bhowmick, Ph.D., Chief Scientific Officer
+Dr.
+Bhowmick, our Chief Scientific Officer, has more than 20 years of broad biochemistry experience filing and prosecuting patents in therapeutics
+and devices, published in peer-reviewed journals (110 publications) leading foundational and pre-clinical cancer studies, obtaining regulatory
+approvals, and conducting clinical trials. Dr. Bhowmick discovered the role of fibroblasts in cancer therapy resistance and has used
+this finding to extend the time of cancer remission in multiple cancer types in preclinical and clinical examples as a founder and CEO
+of Enviro Therapeutics Inc. He trained at Vanderbilt University and is the Professor of Medicine at Cedars-Sinai Medical Center and Director
+of the Cancer Biology Program at Cedars-Sinai Cancer. He is on the Editorial Board of four scientific journals and charter member of
+a NIH grant study section. Dr. Bhowmick was a Consultant at Celgene (currently Bristol Myers Squibb, a New York Stock Exchange-listed
+company) in 2009, Xencor Inc., a Nasdaq-listed company, from 2019 to 2020 and at Tracon, a Nasdaq-listed company, from 2014 to 2019.
+He currently serves on the Scientific Advisory Board of FibroBiologics. Dr. Bhowmick has received NCI/NIH funding for over 15 years,
+has been cited over 15,000 times, and holds six patents for biomarker detection platforms and stromal targeted therapeutics (inclusive
+of ENV 105 and ENV 205).
+Ramachandran
+Murali, Ph.D., Vice President of Research and Development
+Dr.
+Murali, our Vice President of Research and Development, is an established structural biologist with expertise in macromolecular crystallography,
+computational biology, drug discovery, immunology, and cancer biology. Using these skills, Dr. Murali advanced a unique technology for
+creating small peptidomimetics and small molecule drugs that target protein-protein/DNA interactions for diagnostic and therapeutic applications
+in areas like cancer biology, immunotherapy, and autoimmune pathologies. Dr. Murali co-founded three biotech startup companies, including
+Xcyte Therapeutics, a cancer immunotherapy company founded in Seattle, WA in 1996, Ception Therapeutics, Inc, an immunotherapeutic pharmaceutical
+company founded in Philadelphia, PA in 2003 and Nidus, CA, a immunotherapeutic company founded in Los Angeles, CA in 2005. Dr. Murali’s
+accomplishments also include developing small molecule agonist/antagonists for numerous cell surface receptor complexes, including members
+of the TNFR super family. Recently, he targeted various transcription factors, such as Onecut-2, for cancer therapy. Dr. Murali has over
+10 years of experience in collaborating with several biotech companies and is a co-inventor of more than 10 patents. Dr. Murali obtained
+his doctoral degree in Biophysics from the University of Madras, one of the pioneering institutes for structural biology in India. Upon
+graduation, he completed his post-doctoral training at Columbia University and the Wistar Institute (Philadelphia, PA). Later, he joined
+the University of Pennsylvania as a faculty member and rose to the position of Associate Professor. He is currently a Professor in the
+Department of Biomedical Sciences, Research Division of Immunology at Cedars-Sinai Medical Center (Los Angeles, CA).
+1
+Doug
+Samuelson, Chief Financial Officer
+Mr.
+Samuelson has served as our external Chief Financial Officer since 2019. Mr. Samuelson is a finance and accounting professional with
+over 25 years of experience. From 2016 to 2022, Mr. Samuelson served as the Chief Financial Officer of Wellness Center USA, Inc. in Tucson,
+Arizona. From 2016 to March 2020, Mr. Samuelson served as the Director of Accounting of Second Sight Medical Products, Inc., and in this
+position, managed all accounting functions, including all general ledger close functions, tax reporting, external audit responsibilities,
+banking and technical accounting issues. From 2018 to 2019, Mr. Samuelson served as the Chief Financial Officer of AdvaVet, Inc., in
+Los Angeles, California, the U.S. subsidiary of Swedish pharmaceutical company, Oasmia Pharmaceutical AB (NASDAQ: OASM). From 2016 to
+2018, Mr. Samuelson was the Chief Financial Officer of Solis Tek, Inc. (OTC: GNAL), where he handled all financial reporting with the
+SEC. Mr. Samuelson obtained a Bachelor of Science in Accounting from University of Utah, College of Business, and obtained a Master of
+Science in Computer Science from California State University, Northridge, School of Engineering. He is also a Certified Public Accountant
+in the State of California.
+Hyun
+W. Bae, M.D., Independent Director
+Dr.
+Hyun W. Bae has served on our board of directors as an independent director since September 9, 2020. Dr. Bae is an orthopaedic surgeon
+in private practice in Santa Monica, California, and has been appointed Professor in Orthopaedic Surgery at Cedars-Sinai Medical Center,
+the Director of Cedars’ Education and Fellowship program, and a clinical partner of the Orthopaedic Stem Cell and Tissue Engineering
+Laboratory. Since 2010, Dr. Bae has served as the Chief Medical Officer and a director of Prosidyan, a company that develops proprietary
+fiber-based bioactive glass products. Dr. Bae has served as a Scientific Advisory Board Member of Mesoblast since 2008, Engage Surgical
+since 2018, and Spine Biopharma since 2019. He also served as a Scientific Advisory Board Member of Tissuegene from 2008 to 2015. Dr.
+Bae is a 20-year veteran of the drug development industry and is a renowned researcher and inventor. He was principal investigator for
+four FDA-approved randomized clinical trials and has completed 30 clinical studies throughout his career. Dr. Bae also has authored 60
+published scientific papers, written five review articles and holds 30 patents. Dr. Bae obtained a Biomechanics degree from Columbia
+University and a Doctor of Medicine degree, cum laude, from Yale University and is a former NIH Howard Hughes Research Fellow in Bethesda,
+Maryland. We believe that Dr. Bae is qualified to serve on our board of directors because of his industry and technical experience, including
+his operational experience in drug discovery and development, and service on multiple company boards.
+Hansoo
+Michael Keyoung, M.D., Ph.D., Independent Director
+Dr.
+Hansoo Michael Keyoung has served on our board of directors as an independent director since our IPO in September 2024. For over 20 years,
+Dr. Keyoung has led a successful career as a physician, healthcare executive, and investor in the United States, Europe and Asia. Since
+2017, Dr. Keyoung has served as the head of North America for CBC Group, a healthcare-dedicated private equity firm with over $4 billion
+in assets under management. He has served as Board Chair of AffaMed Therapeutics since 2019, a director of Graybug Vision, a Nasdaq-listed
+company, since 2019, and a director of InxMed since 2019. From 2015 to 2017, Dr. Keyoung also served as the Chief Executive Officer of
+Genexine, a KOSDAQ-listed biotech company with a $1 billion plus market cap focused on developing innovative biologic drugs for cancer
+and rare diseases. During his tenure as Chief Executive Officer of Genexine, he successfully helped lead clinical development in Europe
+and Asia, raised $100 million in equity, and set up partnerships with Merck, Fosun Pharma, Tasly Pharma, and Kalbe Pharma. From 2013
+to 2015, he also served as President of Catalyst Biosciences, a Nasdaq-listed company and a clinical-stage hemophilia and ophthalmology
+company that partnered with Pfizer, MedImmune, and Isu Abxis. Additionally, he has experience advising Eli Lilly, Bausch & Lomb,
+and Samsung Electronics/Biologics on Asian expansion, global drug development and commercial partnership strategies. Dr. Keyoung has
+a Doctor of Medicine degree and a Doctor of Philosophy degree in neuroscience and neurology from Cornell University Weill Medical College
+and Memorial Sloan Kettering. He was also a Biomedical Fellow at Rockefeller University and Memorial Sloan Kettering. We believe that
+Dr. Keyoung is qualified to serve on our board of directors because of his extensive experience serving in management and on boards of
+directors of public company, his experience in private equity investing in healthcare companies, and his extensive advisory work to industry-leading
+healthcare companies.
+2
+Rahul
+Singhvi, Sc.D., MBA, Independent Director
+Dr.
+Rahul Singhvi has served on our board of directors as an independent director since December 10, 2024. Dr. Singhvi is a global leader
+in the Life Sciences industry and is cofounder of the US based biomanufacturing company, Resilience (National Resilience, Inc.). Prior
+to cofounding Resilience in 2020, from October 2019 to July 2020, Dr. Singhvi was an Operating Partner at Flagship Pioneering, where
+he founded and operated companies launched from Flagship’s innovation foundry, Flagship Venture Labs. Before joining Flagship,
+from September 2013 until October 2019, Rahul was the Chief Operating Officer at the Vaccine Business Unit of Takeda Pharmaceutical Co
+Ltd. (NYSE: TAK) where he led worldwide vaccine manufacturing operations. Before joining Takeda, from August 2005 to April 2011, Dr.
+Singhvi was President and CEO of Novavax, Inc. (Nasdaq:NVAX) where he led the company’s transformation into a global vaccine player.
+Dr. Singhvi’s career began at Merck & Co in 1994, where he held several positions in R&D and manufacturing. Dr. Singhvi
+serves on the Board of Trustees of the Keck Graduate Institute, and on the Board of Directors for Codexis (Nasdaq:CDXS), and Garuda Therapeutics
+(private). Dr. Singhvi graduated as the top ranked chemical engineer from the Indian Institute of Technology, Kanpur, India and obtained
+both his M.S. and Sc.D. degrees in chemical engineering from MIT. He received an MBA from the Wharton School of the University of Pennsylvania,
+where he graduated as a Palmer Scholar. Because of Dr. Signhvi’s experience and knowledge in the operation and leadership of early-stage
+public healthcare companies, we believe he will be able to provide valuable insights and contributions to our Board.
+Family
+Relationships
+There
+are no family relationships among our directors and executive officers.
+Composition
+of Our Board of Directors
+Our
+business and affairs are organized under the direction of our board of directors, which consists of four members, each of whom are elected
+to serve for one year terms to hold office until the next annual meeting of our stockholders and
+until a successor is appointed and qualified, or until their removal, resignation, or death. The primary responsibilities of our
+board of directors are to provide oversight, strategic guidance, counselling, and direction to our management. Our board of directors
+meets on a regular basis and additionally as required.
+Director
+Independence
+Our
+board of directors has undertaken a review of the independence of each director. Based on information provided by each director concerning
+his background, employment and affiliations, including family relationships, our board of directors has determined that three
+of our four directors, each of Drs. Bae, Keyoung and Singhvi, are “independent” directors in accordance with the rules and
+regulations of NYSE American.
+Involvement
+in Certain Legal Proceedings
+To
+the best of our knowledge, none of our directors or executive officers has, during the past ten years:
+●
+been
+convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor
+offences);
+●
+had
+any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business
+association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years
+prior to that time;
+●
+been
+subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction
+or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in
+any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be
+associated with persons engaged in any such activity;
+●
+been
+found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures
+Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended,
+or vacated;
+●
+been
+the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently
+reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged
+violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions
+or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution,
+civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting
+mail or wire fraud or fraud in connection with any business entity; or
+●
+been
+the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+(as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29)
+of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary
+authority over its members or persons associated with a member.
+3
+The
+Board of Directors’ Role in Risk Oversight
+The
+board of directors oversees that the assets of our Company are properly safeguarded, that the appropriate financial and other controls
+are maintained, and that our business is conducted wisely and in compliance with applicable laws and regulations and proper governance.
+Included in these responsibilities is the board of directors’ oversight of the various risks facing our company. In this regard,
+our board of directors seeks to understand and oversee critical business risks. Our board of directors does not view risk in isolation.
+Risks are considered in virtually every business decision and as part of our business strategy. Our board of directors recognizes that
+it is neither possible nor prudent to eliminate all risk. Indeed, purposeful and appropriate risk-taking is essential for our company
+to be competitive on a global basis and to achieve its objectives.
+While
+the board of directors oversees risk management, company management is charged with managing risk. Management communicates routinely
+with the board of directors and individual directors on the significant risks identified and how they are being managed. Directors are
+free to, and indeed often do, communicate directly with senior management.
+Our
+board of directors administers its risk oversight function as a whole by making risk oversight a matter of collective consideration;
+however, much of the work is delegated to committees, which will meet regularly and report back to the full board of directors. We have
+established a standing audit committee, compensation committee and nominating and corporate governance committee of our board of directors.
+The audit committee will oversee risks related to our financial statements, the financial reporting process, accounting and legal matters,
+the compensation committee will evaluate the risks and rewards associated with our compensation philosophy and programs, and the nominating
+and corporate governance committee will evaluate risk associated with management decisions and strategic direction.
+Committees
+of Our Board of Directors
+Our
+board of directors has established an audit committee, a compensation committee, and a nominating and corporate governance committee,
+each of which is made up of independent directors. The composition and responsibilities of each of the committees of our board of directors
+are described below. Members serve on these committees until their resignation or until otherwise determined by our board of directors.
+Each committee has adopted a written charter that satisfies the application rules and regulation of the SEC and the NYSE American rules
+and regulations, which have been posted to our website at https://kairospharma.com. Our board of directors may establish other committees
+as it deems necessary or appropriate from time to time.
+Audit
+Committee
+Our
+audit committee consists of Dr. Michael Keyoung, Dr. Hyun W. Bae and Dr. Rahul Singhvi, each of whom our board of directors has determined
+satisfies the independence requirements under the NYSE American rule and regulations and Rule 10A-3(b)(1) of the Exchange Act. The chair
+of our audit committee is Dr. Michael Keyoung, whom our board of directors has determined is an “audit committee financial expert”
+within the meaning of SEC regulations. Each member of our audit committee can read and understand fundamental financial statements in
+accordance with applicable requirements. In arriving at these determinations, the board of directors has examined each audit committee
+member’s scope of experience and the nature of their employment in the corporate finance sector.
+4
+The
+primary purpose of the audit committee is to discharge the responsibilities of our board of directors with respect to our corporate accounting
+and financial reporting processes, systems of internal control and financial-statement audits, and to oversee our independent registered
+accounting firm. Specific responsibilities of our audit committee include:
+●
+helping
+our board of directors oversee our corporate accounting and financial reporting processes;
+●
+managing
+the selection, engagement, qualifications, independence and performance of a qualified firm to serve as the independent registered
+public accounting firm to audit our financial statements;
+●
+discussing
+the scope and results of the audit with the independent registered public accounting firm, and reviewing, with management and the
+independent accountants, our interim and year-end operating results;
+●
+developing
+procedures for employees to submit concerns anonymously about questionable accounting or audit matters;
+●
+reviewing
+related person transactions;
+●
+obtaining
+and reviewing a report by the independent registered public accounting firm at least annually, that describes our internal quality
+control procedures, any material issues with such procedures, and any steps taken to deal with such issues when required by applicable
+law; and
+●
+approving
+or, as permitted, pre-approving, audit and permissible non-audit services to be performed by the independent registered public accounting
+firm.
+Compensation
+Committee
+Our
+compensation committee consists of Dr. Singhvi, Dr. Keyoung and Dr. Bae. The chair of our compensation committee is Dr. Singhvi. Our
+board of directors has determined that each member of our compensation committee is independent under the NYSE American rules and regulations
+and as a “non-employee director” as defined in Rule 16b-3 promulgated under the Exchange Act.
+The
+primary purpose of our compensation committee is to discharge the responsibilities of our board of directors in overseeing our compensation
+policies, plans and programs, and to review and determine the compensation to be paid to our executive officers, directors and other
+senior management, as appropriate. Specific responsibilities of our compensation committee include:
+●
+reviewing
+and approving the compensation of our chief executive officer, other executive officers, and senior management;
+●
+reviewing
+and recommending to our board of directors the compensation paid to our directors;
+●
+reviewing
+and approving the compensation arrangements with our executive officers and other senior management;
+●
+administering
+our equity incentive plans and other benefit programs;
+●
+reviewing,
+adopting, amending, and terminating, incentive compensation and equity plans, severance agreements, profit sharing plans, bonus plans,
+change-of-control protections, and any other compensatory arrangements for our executive officers and other senior management;
+●
+reviewing,
+evaluating, and recommending to our board of directors’ succession plans for our executive officers; and
+●
+reviewing
+and establishing general policies relating to compensation and benefits of our employees, including our overall compensation strategy,
+including base salary, incentive compensation, and equity-based grants, to assure that it promotes stockholder interests and supports
+our strategic and tactical objectives, and that it provides for appropriate rewards and incentives for our management and employees.
+5
+Nominating
+and Corporate Governance Committee
+Our
+nominating and corporate governance committee consists of Dr. Singhvi, Dr. Bae and Dr. Keyoung. The chair of our nominating and corporate
+governance committee is Dr. Singhvi. Our board of directors has determined that each member of the nominating and corporate governance
+committee is independent under the NYSE American rules and regulations, a non-employee director, and free from any relationship that
+would interfere with the exercise of his or her independent judgment.
+Specific
+responsibilities of our nominating and corporate governance committee include:
+●
+identifying
+and evaluating candidates, including the nomination of incumbent directors for reelection and nominees recommended by stockholders,
+to serve on our board of directors;
+●
+considering
+and making recommendations to our board of directors regarding the composition and chairmanship of the committees of our board of
+directors;
+●
+instituting
+plans or programs for the continuing education of our board of directors and orientation of new directors;
+●
+developing
+and making recommendations to our board of directors regarding corporate governance guidelines and matters; and
+●
+overseeing
+periodic evaluations of the board of directors’ performance, including committees of the board of directors and management.
+Stockholders
+of record may also nominate director candidates for our annual meetings of stockholders by following the procedures set forth in our
+bylaws.
+Code
+of Business Conduct and Ethics
+We
+have adopted a written Code of Business Conduct and Ethics that applies to all our employees, officers, and directors. This includes
+our principal executive officer, principal financial officer, and principal accounting officer or controller, or persons performing similar
+functions. The full text of our Code of Business Conduct and Ethics has been posted on our website at www.kairospharma.com. We intend
+to disclose on our website any future amendments of our Code of Business Conduct and Ethics or waivers that exempt any principal executive
+officer, principal financial officer, principal accounting officer or controller, persons performing similar functions, or our directors
+from provisions in the Code of Business Conduct and Ethics. Information contained on, or accessible through, our website is not a part
+of this prospectus, and the inclusion of our website address in this prospectus is only an inactive textual reference.
+Insider
+Trading Policy
+We
+have adopted an insider trading policy which prohibits our directors, officers and employees from engaging in transactions in our common
+stock while in the possession of material non-public information; engaging in transactions in the stock of other companies while in possession
+of material non-public information that they become aware of in performing their duties; and disclosing material non-public information
+to unauthorized persons outside our company.
+Our
+insider trading policy restricts trading by directors, officers and certain key employees during blackout periods, which generally begin
+three weeks prior to the last day of each fiscal quarter and ending three business days following the date the Company’s financial
+results are publicly disclosed and the Form 10-Q or the Form 10-K is filed. Additional blackout periods may be imposed with or without
+notice, as the circumstances require.
+6
+In
+addition, directors, officers and employees are expressly prohibited from making certain transactions, including short-term trading,
+short sales, options trading, trading on margin, and hedging, unless such transaction is specifically approved in advance by the administrator
+of our insider trading policy.
+While
+we have not adopted a formal policy governing insider trading restrictions on the Company itself, as a matter of practice the Company
+observes the same procedures and restrictions, including the potential existence of material non-public information, with respect to
+transactions by the Company in its securities, including repurchases of common stock.
+Compensation
+Committee Interlocks and Insider Participation
+None
+of the members of the compensation committee is currently, or has been at any time, one of our executive officers or employees. None
+of our executive officers currently serves, or has served during the last calendar year, as a member of the board of directors or compensation
+committee of any entity that has one or more executive officers serving as a member of our board of directors or compensation committee.
+Delinquent
+Section 16(a) Reports
+Section
+16(a) of the Exchange Act requires our executive officers and directors, and persons who own more than 10% of our common stock, to file
+reports regarding ownership of, and transactions in, our securities with the SEC and to provide us with copies of those filings.
+To
+the Company’s knowledge, based solely on our review of the copies of such forms furnished to us and written representations by
+our officers and directors regarding their compliance with applicable reporting requirements under Section 16(a) of the Exchange Act,
+we believe that all Section 16(a) filing requirements for our executive officers, directors and 10% stockholders were met during the
+year ended December 31, 2024, except for the following:
+Name
+Late
+Reports
+Date
+of Earliest Transaction
+Date
+Filed
+Doug
+Samuelson
+Form
+4
+11/22/2024
+11/25/2024
+Rahul
+Singhvi
+Form
+3
+12/10/2024
+04/30/2025
+7
+ITEM
+11 - EXECUTIVE COMPENSATION
+Named
+Executive Officers
+Our
+named executive officers for the year ended December 31, 2024 and 2023 were Dr. Yu, Dr. Bhowmick, Dr. Murali, and Mr. Samuelson.
+Summary
+Compensation Table
+Set
+forth below is the summary compensation table for our named executive officers for the years ended December 31, 2024 and 2023. We are
+currently a “emerging growth company” and a “smaller reporting company” as defined under SEC rules and, as a
+result, we are required to include only two years of compensation disclosure, rather than three years, in this table.
+Name
+and principal position
+Year
+Salary
+($)
+Bonus
+($)
+Stock
+Awards ($)
+Option
+Awards ($)
+Non-Equity
+Incentive Plan Compensation ($)
+Nonqualified
+Deferred Compensation Earnings ($)
+All
+Other Compensation ($)
+Total
+($)
+John S. Yu
+2024
+51,301
+-
+34,440
+-
+-
+-
+-
+85,741
+2023
+-
+-
+-
+-
+-
+-
+-
+-
+Neil Bhowmick
+2024
+29,315
+-
+34,440
+-
+-
+-
+-
+72,755
+2023
+-
+-
+-
+-
+-
+-
+-
+-
+Ramachandran Murali
+2024
+23,452
+-
+34,440
+-
+-
+-
+-
+63,892
+2023
+-
+-
+-
+-
+-
+-
+-
+-
+Doug Samuelson
+2024
+14,657
+-
+123,000
+-
+-
+-
+-
+137,657
+2023
+-
+-
+-
+-
+-
+-
+-
+Compensation
+Discussion and Analysis
+This
+Compensation Discussion and Analysis reviews the principles underlying our compensation policies and decisions for 2024.
+Executive
+Compensation Principles & Best Practices
+What
+We Do
+What
+We Do Not Do
+●
+Our Board has established standing committees in connection with the discharge of its responsibilities. These committees include
+an Audit Committee, a Compensation Committee, and a Nominating and Corporate Governance Committee. Our Board of Directors has adopted
+written charters for each of these committees.
+●
+We do not allow repricing of stock options without stockholder approval.
+●
+We do not provide change of control payments or gross-up of related excise taxes.
+●
+Dividend equivalents will not be paid unless vesting and performance conditions for Restricted Stock Units (RSUs), to which such
+rights attach, are met.
+●
+We do not provide significant perquisites to our named executive officers.
+Compensation
+Philosophy
+Our
+compensation program is designed to attract, motivate, and retain highly talented executives, and to provide competitive compensation
+opportunities that align management’s interests with the short- and long-term interests of our stockholders. Our incentive compensation
+plans are designed with the objectives of motivating the desired performance and maximizing stockholder value. We believe that our compensation
+program, supported by our underlying compensation philosophy, serves to motivate management to execute on the strategic and operational
+plans that will deliver increases in stockholder value over the long-term.
+The
+forms and level of compensation for each named executive officer are determined after considering several factors, including the executive’s
+position and scope of responsibility, as well as their ability to assume increasing responsibility within the Company, performance results,
+and, at times, other external market-based factors. The Compensation Committee uses all of this information when establishing compensation
+opportunities in order to arrive at a comprehensive package that both emphasizes performance and is competitive in the marketplace.
+The
+Compensation Committee reviews and considers this philosophy at least annually and may adjust it from time to time as deemed necessary
+or appropriate.
+Evaluation
+of Stockholder “Say — on — Pay” Vote Results
+We
+value input from our stockholders on our executive compensation programs. Our Board seeks an annual non-binding advisory vote from stockholders
+to approve our executive compensation. We believe our overall executive compensation program aligns with our philosophy and designed
+to create long-term value for stockholders.
+8
+Roles
+& Responsibilities in the Compensation Process
+The
+Company’s compensation philosophy drives our decision-making process. Decisions about individual levels of each compensation element
+involve the participation of multiple parties, following a comprehensive, multi-step process. The key parties and their roles in the
+process are described below:
+Role
+of the Compensation Committee
+The
+Compensation Committee is appointed by our Board to assist it in fulfilling its oversight responsibilities by directing all significant
+aspects of our compensation policies and programs, including:
+●
+Reviews
+and approves the compensation and annual performance objectives, if any, and goals of our executive officers.
+●
+Reviews,
+approves, and administers cash and equity incentive-based compensation plans in which our executive officers participate.
+●
+Evaluates
+Chief Executive Officer and other named executive officers performance in light of the Company’s goals and objectives and recommends
+to the Board the salaries and short- and long-term incentives payouts for our Chief Executive Officer and other named executive officers.
+●
+Evaluates
+risks created by our compensation policies and practices and considers any reasonably likely effect of such risk.
+●
+Reviews
+and recommends to our Board new or modified executive compensation programs (if any).
+Role
+of Management
+We
+did not pay any compensation to our executive officers during the fiscal year ended December 31, 2023 and before we completed our IPO
+in September 2024. Our Chief Executive Officer made recommendations to the Compensation Committee regarding the elements of compensation
+for each of our executive officers. He was assisted, as needed, by other members of management, including our Chief Financial Officer
+for purposes of administering and implementing the compensation program.
+Compensation
+Elements
+Base
+Salary
+Base
+salary is the fixed element of an executive officer’s annual compensation and is intended to attract and retain highly qualified
+executives and to compensate for expected day-to-day performance. The Compensation Committee reviews the base salary for each of our
+executive officers on an annual basis and considers the following factors in making its determinations:
+●
+the
+executive officer’s position and associated responsibilities;
+●
+experience,
+expertise, knowledge and qualifications;
+●
+market
+factors;
+●
+the
+industry in which we operate and compete;
+●
+retention
+considerations;
+●
+the
+executive officer’s individual compensation history;
+●
+internal
+equity among salary levels of the members of our executive team and similarly situated/comparable executives in our peer group; and
+●
+our
+overall compensation philosophy.
+The
+Company completed its IPO on September 16, 2024, after which time we commenced paying salaries to our executives. Prior to completion
+of our IPO, none of our executive officers received any salary, thus no salaries were paid during the fiscal year ended December 31,
+2023. In 2024, base salaries of our named executive officers as of the calendar year end, which are reflective of the full salary that
+would have been owed for a full year of employment, were as follows:
+Name
+2024
+Base
+Salary Rate
+2023
+Base
+Salary Rate
+John S. Yu
+$175,000
+—
+Neil Bhowmick
+$100,000
+—
+Ramachandran Murali
+$80,000
+—
+Doug Samuelson
+$50,000
+—
+9
+Long-Term
+(Equity) Incentives (“LTIP”)
+Long-term
+equity incentives are designed to align the interests of management with those of our stockholders and motivating them to achieve sustained
+long-term performance improvements by linking a significant portion of compensation to stockholder returns. The Company issues awards
+of long-term equity and/or cash compensation under the LTIP consistent with the objectives and philosophy of our compensation programs.
+Our LTIP is governed by the Kairos Pharma, Ltd. 2023 Equity Incentive Plan, which was approved by our stockholders.
+The
+board of directors also may consider and approve interim or mid-year grants, or grants made on another basis, from time to time based
+on business needs, changing compensation practices or other factors, at the discretion of the board of directors. The board of directors
+does not consider material nonpublic information in determining the timing and terms of equity-based awards, and we have not timed the
+disclosure of material nonpublic information for the purpose of affecting the value of executive compensation.
+Each
+of our executive officers has received an initial grant of restricted stock units (“RSUs”), calculated on
+the date of grant, which
+vests annually in substantially equal installments over a period of three years. None of our executive officers
+received any RSUs during the fiscal year ended December 31, 2023 and before our IPO. The table below sets forth the RSUs received by
+our executive officers as of the fiscal year ended December 31, 2024.
+Name
+RSUs
+(#)(2)
+John S. Yu
+$14,000
+Neil Bhowmick
+14,000
+Ramachandran Murali
+14,000
+Doug Samuelson
+123,000
+Employment
+Agreements
+Each
+of our executive officers has entered into an employment agreement with us. The executive officers will each received annual cash compensation,
+payable in monthly installments commencing at the completion of our IPO, as well as an initial restricted stock grant of RSUs. As may
+be decided from time to time by our Compensation Committee, our executive officers may be entitled to various target bonuses. The terms
+of the employment agreements are as follows:
+Employment
+Agreement with John Yu, MD
+On
+September 27, 2023, we entered enter into an employment agreement with our Chief Executive Officer and Chairman of the Board, John Yu,
+M.D. Dr. Yu’s employment agreement became effective upon consummation of our IPO. Under the terms of his employment agreement,
+Dr. Yu will receive base compensation of $175,000 per year. Dr. Yu also received 14,000 RSUs, which will vest annually in substantially
+equal installments over a period of three years. In addition, Dr. Yu will be entitled to receive an annual cash or stock bonus, as may
+be determined by the compensation committee of the board of directors. Should Dr. Yu terminate his employment for “Good Reason,”
+as defined in his employment agreement, he will be entitled to his then applicable base salary for period of six months, subject to his
+continued compliance with certain requirements of his employment agreement. Dr. Yu will also be entitled to standard benefits that may
+be offered by the Company from time to time, including 30 days’ paid vacation.
+Employment
+Agreement with Doug Samuelson
+On
+September 27, 2023, we entered into an employment agreement with our Chief Financial Officer, Mr. Doug Samuelson, which became effective
+upon consummation of our IPO. Under the employment agreement, Mr. Samuelson will be entitled to receive (i) a base salary equal to $50,000
+per year, payable in monthly installments; (ii) an annual grant of 50,000 RSUs, which RSUs will be issued each year on the anniversary
+date of our IPO, with each grant becoming fully vested after 12 months; and (iii) such number of RSUs equal to 1.2 times the amount of
+outstanding invoices then owed to Mr. Samuelson according to his current consulting agreement, with such number of RSUs to be calculated
+at our IPO per share purchase price. In addition, in the event of “Change of Control,” as such term is defined in his employment
+agreement, Mr. Samuelson will be entitled to receive 250,000 RSUs, which number shall include all RSUs Mr. Samuelson has received up
+until the date of the Change of Control, and which shall all vest immediately upon issuance. Mr. Samuelson will also be entitled to receive
+an annual cash or stock bonus, as may be determined by the compensation committee of the board of directors and will be entitled to standard
+benefits that may be offered by the Company from time to time, including 30 days’ paid vacation and six months’ severance
+in the event his employment is terminated without cause.
+10
+Employment
+Agreement with Neil Bhowmick, MD
+On
+September 27, 2023, we entered into an employment agreement with our Chief Scientific Officer, Neil Bhowmick, M.D., which became effective
+upon the consummation of our IPO. Under Dr. Bhowmick’s employment agreement, Dr. Bhowmick will receive a base salary equal to $100,000
+per year, payable in monthly installments, and 14,000 RSUs, which RSUs will vest annually over a period of three years. In addition,
+Dr. Bhowmick will be entitled to receive an annual cash or stock bonus, as may be determined by the board of directors or a committee
+thereof. Dr. Bhowmick will also be entitled to standard benefits that may be offered by the Company from time to time, including 30 days’
+paid vacation and six months’ severance in the event his employment is terminated without “Good Cause” in accordance
+with the terms of his employment agreement.
+Employment
+Agreement with Ramachandran Murali, MD
+On
+September 27, 2023, we entered into an employment agreement with our Vice President of Research and Development, Ramachandran Murali,
+MD, which became effective upon consummation of our IPO. Under Dr. Murali’s employment agreement, Dr. Murali will receive base
+compensation of $80,000 per year and will receive an initial grant of 14,0000 RSUs, which RSUs will vest annually in substantially equal
+installments over a period of three years. In addition, Dr. Murali will be entitled to receive an annual cash or stock bonus, as may
+be determined by the board of directors or a committee thereof. Dr. Murali will also be entitled to standard benefits that may be offered
+by the Company from time to time, including 30 days’ paid vacation and six months’ severance in the event his employment
+is terminated without “Good Cause” in accordance with the terms of his employment agreement.
+11
+Equity-Based
+Incentive Awards
+In
+July 2023, we adopted our 2023 Equity Incentive Plan, which reserves 1,650,000 shares of common stock for issuance under the 2023 Equity
+Incentive Plan. Our equity-based incentive awards granted under the 2023 Equity Incentive Plan are designed to align our interests and
+those of our stockholders with those of our employees and consultants, including our executive officers. Our board of directors or an
+authorized committee thereof is responsible for approving equity grants.
+Outstanding
+Equity Awards at Fiscal Year End
+None
+of our named officers had been granted options, or received any other type of equity compensation, during the fiscal years ended December
+31, 2024 and 2023.
+Emerging
+Growth Company Status
+We
+are an “emerging growth company,” as defined in the JOBS Act. As an emerging growth company we will be exempt from certain
+requirements related to executive compensation, including the requirements to hold a nonbinding advisory vote on executive compensation
+and to provide information relating to the ratio of total compensation of our chief executive officer to the median of the annual total
+compensation of all of our employees, each as required by the Investor Protection and Securities Reform Act of 2010, which is part of
+the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+Pension
+Benefits
+Our
+named executive officers did not participate in, or otherwise receive any benefits under, any pension or retirement plan sponsored by
+us during the fiscal years ended December 31, 2024 and 2023.
+Nonqualified
+Deferred Compensation
+Our
+named executive officers did not participate in, or earn any benefits under, a non-qualified deferred compensation plan sponsored by
+us during the fiscal years ended December 31, 2024 and 2023.
+Potential
+Payments upon Termination or Change-in-Control
+Our
+employment agreements with our executive officers include a termination clause which includes that, in the event of termination for a
+good reason, including a change of control, the Company shall pay to the executive severance in an amount equal to the executive’s
+then applicable base salary for a period equal to the number of months set forth in such executive’s employment agreement (the
+“Severance Period”), payable in the form of salary continuation for the applicable Severance Period following the
+executive’s termination, and subject to the Company’s regular payroll practices and required withholdings. Such severance
+shall be reduced by any cash remuneration paid to the executive because of the executive’s employment or self-employment during
+the Severance Period. The executive shall continue to receive all benefits (either through the Company or an Affiliate) during the Severance
+Period. In addition to the above, our Chief Financial Officer will receive five years’ worth of RSU grants in the event of a change
+of control.
+Equity
+Benefit Plans
+We
+believe that our ability to grant equity-based awards is a valuable and necessary compensation tool that aligns the long-term financial
+interests of our employees, consultants, and directors with the financial interests of our stockholders. In addition, we believe that
+our ability to grant options and other equity-based awards helps us to attract, retain, and motivate employees, consultants, and directors,
+and encourages them to devote their best efforts to our business and financial success. As a result, we adopted the 2023 Equity Incentive
+Plan in July 2023 in advance of our IPO. The 2023 Equity Incentive Plan includes the features set forth below.
+12
+2023
+Equity Incentive Plan
+Tax
+Limitations on Options. Each option will be designated in an award agreement as either an Incentive Stock Option (“ISO”)
+or a Nonstatutory Stock Option (“NSO”). However, notwithstanding such designation, to the extent that the aggregate fair
+market value of the shares with respect to which ISOs are exercisable for the first time by the participant during any calendar year
+exceeds $100,000, such options will be treated as NSOs. The fair market value of the shares will be determined as of the time the option
+with respect to such shares is granted. The administrator will determine the term of each option in its sole discretion; provided, however,
+that the term will be no more than ten (10) years from the date of grant in the case of ISOs. Moreover, in the event an ISO is granted
+to a participant who, at the time of grant, owns stock representing more than 10% of the total combined voting power of all classes of
+stock of the Company, the term of the ISO will be five (5) years from the date of grant or such shorter term as may be provided in the
+award agreement.
+Restricted
+Stock Unit Awards. Restricted stock units (“RSUs”) may be granted at any time and from time to time as determined
+by the administrator of the 2023 Equity Incentive Plan. Each RSU grant will be evidenced by an award agreement that will specify such
+other terms and conditions as the administrator, in its sole discretion, will determine in accordance with the terms and conditions of
+the 2023 Equity Incentive Plan. The administrator, in its discretion, may accelerate the time at which any restrictions will lapse or
+be removed, subject to the prohibition on acceleration of the timing of distribution of deferred compensation subject to Section 409A
+of the Code, to the extent applicable to the award. On the date set forth in the award agreement, all unearned RSUs will be forfeited
+to the Company.
+Restricted
+Stock Awards. Each restricted stock award will be evidenced by an award agreement that will specify the period of restriction,
+the number of shares granted, and such other terms and conditions as the administrator will determine. During the period of restriction,
+service providers holding shares of restricted stocks granted hereunder may exercise full voting rights with respect to those shares,
+unless the administrator determines otherwise in a manner not prohibited by the award agreement. During the period of restriction, service
+providers holding shares of restricted stocks will be entitled to receive all dividends and other distributions paid with respect to
+such shares unless otherwise provided in the award agreement. If any such dividends or distributions are paid in shares, the shares will
+be subject to the same restrictions on transferability and provisions for forfeiture as the shares of restricted stocks with respect
+to which they were paid. On the date set forth in the award agreement, the restricted stocks for which restrictions have not lapsed will
+revert to the Company and again will become available for grant under the 2023 Equity Incentive Plan.
+Stock
+Appreciation Rights. Stock appreciation rights will be granted in accordance with stock appreciation rights agreements, in the
+form adopted by the administrator. The exercise price of stock appreciation rights will be not less than 100% of the fair market value
+of a share on the date of grant. Each stock appreciation right grant will be evidenced by an award agreement that will specify the exercise
+price, the number of shares with respect to which the award is granted, the term of the stock appreciation right, the conditions of exercise,
+and such other terms and conditions as the administrator, in its sole discretion, will determine. Stock appreciation right granted under
+the 2023 Equity Incentive Plan will expire upon the date determined by the administrator and set forth in the award agreement; provided,
+however, that the term will be no more than ten (10) years from the date of grant thereof. Upon exercise of a stock appreciation right,
+a participant will be entitled to receive payment from the Company in an amount determined by multiplying: (i) the difference between
+the fair market value of a share on the date of exercise over the “stock appreciation right exercise price,” as defined under
+Treasury Regulation Section 1.409A-1(b)(i)(B)(2), i.e., the fair market value of a share on the date of grant of the stock appreciation
+right; times (ii) the number of shares with respect to which the stock appreciation right is exercised. At the discretion of the administrator,
+the payment upon stock appreciation right exercise may be in cash, in shares of equivalent value, or in some combination thereof.
+13
+Performance
+Awards. Performance units and performance shares may be granted to service providers at any time and from time to time, as will
+be determined by the administrator, in its sole discretion. Each performance unit will have an initial value that is established by the
+administrator on or before the date of grant. Each performance share will have an initial value equal to the fair market value of a share
+on the date of grant. The administrator will set performance objectives or other vesting provisions. The administrator may set vesting
+criteria based upon the achievement of Company-wide, business unit, or individual goals (including, but not limited to, continued employment),
+or any other basis determined by the administrator in its discretion. Each award of performance units/shares will be evidenced by an
+award agreement that will specify the performance period, and such other terms and conditions as the administrator, in its sole discretion,
+will determine. After the applicable performance period has ended, the holder of performance units/shares will be entitled to receive
+a payout of the number of performance units/shares earned by the participant over the performance period, to be determined as a function
+of the extent to which the corresponding performance objectives or other vesting provisions have been achieved. Payment of earned performance
+units/shares will be made as soon as practicable after the expiration of the applicable performance period or, if earlier, after the
+date on which a participant’s interest in such performance units/shares is no longer subject to a substantial risk of forfeiture,
+provided however, that in no event shall such payment be made after the later to occur of (i) December 31 of the year in which such risk
+of forfeiture lapses or (ii) two and one-half months after such risk of forfeiture lapses. The administrator, in its sole discretion,
+may pay earned performance units/shares in the form of cash, in shares (which have an aggregate fair market value equal to the value
+of the earned performance units/shares at the close of the applicable performance period) or in a combination thereof. On the date set
+forth in the award agreement, all unearned or unvested performance units/shares will be forfeited to the Company, and again will be available
+for grant under the Plan.
+Other
+Stock Awards. The administrator may grant other awards based in whole or in part by reference to our common stock. The administrator
+will set the number of shares under the stock award (or cash equivalent) and all other terms and conditions of such awards.
+Adjustments.
+In the event that any dividend or other distribution (whether in the form of cash, shares, other securities, or other property),
+recapitalization, stock split, reverse stock split, reorganization, merger, consolidation, split-up, spin-off, combination, repurchase,
+or exchange of shares or other securities of the Company, or other change in the corporate structure of the Company affecting the shares
+occurs, the administrator, in order to prevent diminution or enlargement of the benefits or potential benefits intended to be made available
+under the 2023 Equity Incentive Plan, will adjust the number and class of shares that may be delivered under the 2023 Equity Incentive
+Plan and/or the number, class, and price of shares covered by each outstanding award, and the numerical share limits set forth thereof.
+Dissolution
+or Liquidation. In the event of the proposed dissolution or liquidation of the Company, any corporate separation or division,
+including, but not limited to, a split-up, a split-off or a spin-off; a reverse merger in which the Company is the surviving entity,
+but the shares of Company stock outstanding immediately preceding the merger are converted by virtue of the merger into other property,
+whether in the form of securities, cash or otherwise; or the transfer of more than fifty percent (50%) of the then outstanding voting
+stock of the Company to another person or entity, the administrator will notify each participant as soon as practicable prior to the
+effective date of such proposed transaction. The Company, to the extent permitted by applicable law but otherwise in its sole discretion
+may provide for: (i) the continuation awards by the Company (if the Company is surviving entity or its parent; (ii) the assumption of
+the 2023 Equity Incentive Plan and such outstanding awards by the surviving entity or its parent; (iii) the substitution by the surviving
+entity or its parent of rights with substantially the same terms for such outstanding awards; or (iv) the cancellation of such outstanding
+rights without payment of any consideration provided that in the case of this clause (iv), the administrator will provide notice of its
+intention to cancel award and offer a reasonable opportunity to exercise vested awards.
+Change
+in Control. In the event of a merger or change in control, as defined in the 2023 Equity Incentive Plan, each outstanding award
+will be treated as the administrator determines, including, without limitation, that each award will be assumed or an equivalent option
+or right substituted by the successor corporation or a parent or subsidiary of the successor corporation. The administrator will not
+be required to treat all awards similarly in the transaction.
+Plan
+Amendment or Termination. The administrator may at any time amend, alter, suspend, or terminate the 2023 Equity Incentive Plan.
+The Company will obtain stockholder approval to any amendment to the 2023 Equity Incentive Plan to the extent necessary or desirable
+to comply with applicable rules and regulations. No amendment, alteration, suspension, or termination of the 2023 Equity Incentive Plan
+will impair the rights of any participant, unless mutually agreed otherwise between the participant and the administrator, which agreement
+must be in writing and signed by the participant and the Company. Termination of the 2023 Equity Incentive Plan will not affect the administrator’s
+ability to exercise the powers granted to it thereunder with respect to awards granted under the 2023 Equity Incentive Plan prior to
+the date of such termination.
+14
+Clawback
+Policy
+As
+a public company, if we are required to restate our financial results due to our material noncompliance with any financial reporting
+requirements under the federal securities laws as a result of misconduct, the Chief Executive Officer and Chief Financial Officer may
+be legally required to reimburse our Company for any bonus or other incentive-based or equity-based compensation they receive in accordance
+with the provisions of section 304 of the Sarbanes-Oxley Act of 2002, as amended. As such, on March 1, 2024 we adopted a clawback policy,
+entitled, “Policy for Recovery of Erroneously Awarded Compensation.”
+Non-Employee
+Director Compensation
+Compensation
+for non-employee directors is determined by the board of directors. Each non-employee director receives an annual cash compensation of
+$50,000, payable in quarterly instalments in arrears, plus an additional $10,000 cash compensation for the chair of the audit committee.
+In addition, our policy provides that, upon initial election or appointment to our board of directors, each new non-employee director
+will be granted a one-time grant, or Director Initial Grant, of $50,000 of RSUs, with the number of RSUs issued calculated as of the
+grant date, which will vest in substantially equal annual instalments over a period of three years. The Director Initial Grant is subject
+to full acceleration of vesting upon the sale of our Company, in accordance with the terms of our 2023 Equity Incentive Plan. Employee
+directors receive no additional compensation for their service as a director.
+We
+reimburse our directors for all reasonable out-of-pocket expenses incurred for their attendance at meetings of our board of directors
+or any committee thereof.
+Our
+current non-employee directors earned the following compensation for their service during fiscal year ended December 31, 2024:
+Name
+Fees
+Earned or Paid in Cash ($)
+Stock
+Awards ($)(3)
+Option
+Awards ($)
+Non-Equity
+Incentive Plan Compensation ($)
+All
+Other Compensation ($)
+Total
+($)
+Hyun W. Bae(1)
+$14,583
+$24,600
+—
+—
+—
+$39,183
+Hansoo Michael Keyoung(1)
+$17,500
+$24,600
+—
+—
+—
+$42,100
+Rahul Singhvi(2)
+$2,822
+$50,000
+—
+—
+—
+$52,822
+(1)
+We
+entered into director agreements with Dr. Bae and Dr. Keyoung, effective September 16, 2024, the date of our initial listing on the
+NYSE American.
+(2)
+We
+entered into a director agreement with Dr. Singhvi upon his appointment on December 10, 2024.
+(3)
+Each
+non-employee director received RSUs which vest annually in one-third increments over a period of three years.
+Our
+certificate of incorporation contains provisions limiting the liability of directors, and our bylaws provide that we will indemnify each
+of our directors and officers to the fullest extent permitted under Delaware law. Our certificate of incorporation and bylaws will also
+provide our board of directors with discretion to indemnify our employees and other agents when determined appropriate by the board of
+directors. In addition, we have entered into indemnification agreements with each of our directors and executive officers, which will
+require us to indemnify them.
+15
+ITEM
+12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+PRINCIPAL
+STOCKHOLDERS
+The
+following table sets forth information regarding beneficial ownership of our capital stock as of the date of this prospectus by:
+●
+each
+person, or group of affiliated persons, known by us to beneficially own more than 5% of our common stock;
+●
+each
+of our directors and named executive officers; and
+●
+all
+of our current executive officers and directors as a group.
+We
+have determined beneficial ownership in accordance with the rules and regulations of the SEC, and the information is not necessarily
+indicative of beneficial ownership for any other purpose. Except as indicated by the footnotes below, we believe, based on information
+furnished to us, that the persons and entities named in the table below have sole voting and sole investment power with respect to all
+shares that they beneficially own, subject to applicable community property laws.
+Applicable
+percentage ownership is based on 20,457,480 shares of our common stock outstanding as of July 28, 2025.
+Unless
+otherwise indicated, the address for each beneficial owner listed in the table below is 2355 Westwood Blvd. #139, Los Angeles, California
+90064.
+Name of Beneficial
+Owner
+Number
+of Shares
+Beneficially
+Owned
+(#)
+Percentage
+of
+Shares
+Beneficially
+Owned
+(%)
+Greater than 5% Holders:
+Technomedics Management
+and Systems, Inc.(1)
+1,173,572
+5.7
+Directors and Named Executive
+Officers:
+John S. Yu, M.D.
+5,341,837
+26.1
+Ramachandran Murali, Ph.D.
+137,524
+**
+Neil Bhowmick, Ph.D.
+1,129,653
+5.5
+Douglas Samuelson
+104,888
+**
+Hyun W. Bae, M.D
+44,286
+**
+Hansoo Michael Keyoung, M.D.(2)
+-
+-
+Rahul Singhvi, Sci.D., MBA(2)
+-
+-
+All directors and executive officers as a group
+(7 persons)
+6,758,187
+33.0
+**
+Represents beneficial ownership of less than 1%.
+(1)
+Manfred Mosk exercises voting and investment power of all shares held by Technomedics Management and Systems, Inc.
+(2)
+Does not include restricted stock units issued under the Company’s 2023 Equity Incentive Plan which remain subject to vesting.
+16
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+The
+following includes a summary of transactions since January 1, 2021 to which we have been a party in which the amount involved exceeded
+or will exceed the lesser of $120,000 as of December 31, 2024, and in which any of our directors, executive officers or, to our knowledge,
+beneficial owners of more than 5% of our capital stock or any member of the immediate family of any of the foregoing persons had or will
+have a direct or indirect material interest, other than equity and other compensation, termination, change in control and other arrangements,
+which are described under “Executive Compensation.” We also describe below certain other transactions with our directors,
+executive officers and stockholders.
+Loans
+and Advances from Related Parties
+In
+August 2024, the Company borrowed $0.04 million from one of its officers. The loans accrue interest at 7.5% interest per annum, are unsecured,
+and are due in August 2025.
+In
+April and May 2024, the Company borrowed $0.1 million from three of its officers. The loans accrue interest at 7.5% per annum, are unsecured,
+and are due in April 2025. The officers holding notes payable have since agreed to convert the outstanding loans and principal into shares
+of common stock of the company, converting at the IPO per share purchase price, following completion of the IPO.
+During
+the year ended December 31, 2021, stockholders of the Company, and a company whose principal stockholder is also a stockholder of the
+Company, advanced the Company $0.01 million, which was all outstanding at December 31, 2021. The advances accrue no interest, are unsecured
+and are due on demand. As of December 31, 2021, $0.01 million was owed on the advances. During the year ended December 31, 2022, the
+Company repaid $0.01 million of the advances, and as of December 31, 2022 and 2023, and June 30, 2024, a total of $0.004 was outstanding.
+Policies
+and Procedures for Transactions with Related Persons
+Any
+request for us to enter into a transaction with an executive officer, director, nominee for election as a director, beneficial owner
+of more than 5% of any class of our common stock, or any member of the immediate family of any of the foregoing persons, in which the
+amount involved exceeds $120,000 (or, if less, 1% of the average of our total assets in a fiscal year) and such person would have a direct
+or indirect interest, must be presented to our board of directors or our audit committee for review, consideration and approval. In approving
+or rejecting any such proposal, our board of directors or our audit committee is to consider the material facts of the transaction, including
+whether the transaction is on terms no less favorable than terms generally available to an unaffiliated third party under the same or
+similar circumstances and the extent of the related person’s interest in the transaction.
+Board
+Independence
+As
+required under the listing standards of the NYSE American, a majority of the members of a listed company’s board must qualify
+as “independent director,” as affirmatively determined by the Company’s board of directors. NYSE American defines
+an “independent director” as a director who is not an executive officer or employee of the company and who does not
+otherwise have a relationship that would interfere with the exercise of independent judgment in carrying out a director’s
+responsibilities. We presently maintain a four person board, led by our Chairman and Chief Executive Officer, Dr. John Yu, with
+three independent directors. Our board has determined that the following directors are considered independent under Nasdaq rules and
+SEC regulations: Dr. Hyun W. Bae, Dr. Hansoo Michael Keyoung and Dr. Rahul Singhvi.
+ANNUAL
+REPORT
+On
+April 15, 2025, we filed with the SEC our Annual Report on Form 10-K for the year ended December 31, 2024 and subsequently filed an Amendment
+No. 1 to Form 10-K (the “10-K/A”) solely to update the exhibits in the Form 10-K/A to include Exhibit 97.1, the company’s
+recovery policy for erroneously awarded equity compensation. A copy of the Annual Report has been made available with this proxy statement
+to all stockholders entitled to notice of and to vote at the Annual Meeting.
+17
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+Marcum
+LLP (PCAOB Firm ID: 688) served as our independent registered public accounting firm for fiscal years ended December 31, 2024 and December 31, 2023.
+Fees
+Paid to Auditors
+The
+following table presents fees paid for professional services rendered by Marcum LLP over the last two years for the audit of the
+Company’s financial statements contained in the Company’s IPO registration statement, annual financial statements, and
+review of financial statements included in the Company’s Forms 10-Q and 10-K, and fees billed for other services.
+(in thousands)
+2024
+2023
+Audit fees(1)
+$144,200
+$41,200
+Audit-related fees
+59,740
+—
+Tax fees
+—
+—
+All other fees
+—
+—
+Total
+$203,940
+$41,200
+(1)
+Audit fees consist of fees
+for the audit of the Company’s annual financial statements for 2024 and 2023 and services in connection with registration statements
+filed in 2024 and 2023. Audit fees also include fees related to the reviews of interim financial information included in Forms 10-Q
+and for consent or comfort letter procedures performed in conjunction with registration statements or completing financial transactions
+during the respective fiscal years.
+Audit
+Committee Pre-approval Policies and Procedures
+Our
+policy has been for the Audit Committee to pre-approve all audit, audit-related and non-audit services performed by our independent auditors
+and to subsequently review the actual fees and expenses paid to our independent auditors. Accordingly, the Audit Committee pre-approved
+all audit, audit-related and non-audit services performed by our independent auditors and subsequently reviewed the actual fees and expenses
+paid to our former auditor, Marcum LLP, during fiscal 2023 and 2024. The Audit Committee has determined that the fees paid to Marcum
+LLP for services were compatible with maintaining Marcum LLP’s independence as our auditors.
+18
+PART
+IV
+ITEM
+15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+Exhibit
+Number
+Description
+3.1
+Certificate
+of Incorporation of Kairos Pharma, Ltd. filed with the Secretary of State of the State of Delaware, dated May 10, 2023 (incorporated
+by reference to Exhibit 3.5 to the Company’s Registration Statement on Form S-1, filed on August 16, 2024).
+3.2
+Bylaws
+of Kairos Pharma, Ltd. (Delaware) (incorporated by reference to Exhibit 3.6 to the Company’s Registration Statement on Form
+S-1, filed on August 16, 2024).
+4.1
+Form
+of Representative’s Warrant (incorporated by reference to Exhibit 4.1 to the Company’s Registration Statement on Form
+S-1, filed on August 16, 2024).
+4.2
+Form
+of Pre-Funded Warrant (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed January 14,
+2025).
+4.3
+Form
+of Common Warrant (incorporated by reference to Exhibit 4.2 to the Company’s Current Report on Form 8-K filed January 17, 2025).
+4.4
+Form
+of Placement Agent Warrants (incorporated by reference to Exhibit 4.3 to the Company’s Current Report on Form 8-K filed January
+17, 2025).
+10.1
+Exclusive
+Option Agreement, dated March 16, 2020, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc. (re Depletion of Mitochondrial
+DNA) (incorporated by reference to Exhibit 10.1 to the Registration Statement filed on August 16, 2024).
+10.2
+Amendment
+to Exclusive Option Agreement, dated January 11, 2021, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc. (re Depletion
+of Mitochondrial DNA). (incorporated by reference to Exhibit 10.2 to the Registration Statement filed on August 16, 2024).
+10.3
+Exclusive
+Option Agreement, dated March 16, 202, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc. (re Sensitization of Solid
+Tumors) (incorporated by reference to Exhibit 10.3 to the Registration Statement filed on August 16, 2024).
+10.4
+Amendment
+to Exclusive Option Agreement, dated January 9, 2021, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc. (re Sensitization
+of Solid Tumors) (incorporated by reference to Exhibit 10.4 to the Registration Statement filed on August 16, 2024).
+10.5
+Exclusive
+License Agreement, dated June 21, 2021, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc. (re Compositions and Methods
+for Treating Diseases and Conditions by Depletion of Mitochondrial or Genomic DNA from Circulation and for Detection of Mitochondrial
+or Genomic DNA) (incorporated by reference to Exhibit 10.5 to the Registration Statement filed on August 16, 2024).
+10.6
+Exclusive
+License Agreement, dated June 2, 2021, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc. (re Sensitization of Tumors
+to Therapies Through Endoglin Antagonism) (incorporated by reference to Exhibit 10.6 to the Registration Statement filed on August
+16, 2024).
+10.7
+Exclusive
+License Agreement, dated August 30, 2019, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (as successor to AcTcell Biopharma,
+Inc.) (re Methods of generating activated T cells for cancer therapy) (incorporated by reference to Exhibit 10.7 to the Registration
+Statement filed on August 16, 2024).
+10.8
+Amendment
+to Exclusive License Agreement, dated June 17, 2021, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Methods of generating
+activated T cells for cancer therapy) (incorporated by reference to Exhibit 10.8 to the Registration Statement filed on August 16,
+2024).
+10.9
+Exclusive
+License Agreement, dated October 1, 2017, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Methods of use of compounds
+that bind to RelA of NFkB) (incorporated by reference to Exhibit 10.9 to the Registration Statement filed on August 16, 2024).
+10.10
+Amendment
+to Exclusive License Agreement, dated June 17, 2021, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Methods of use
+of compounds that bind to RelA of NFkB) (incorporated by reference to Exhibit 10.11 to the Registration Statement filed on August
+16, 2024).
+10.11
+Exclusive
+License Agreement, dated October 1, 2017, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Composition and Methods
+for Treating Fibrosis) (incorporated by reference to Exhibit 10.12 to the Registration Statement filed on August 16, 2024).
+19
+10.12
+Amendment
+to Exclusive License Agreement, dated June 17, 2021, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Composition
+and Methods for Treating Fibrosis) (incorporated by reference to Exhibit 10.13 to the Registration Statement filed on August 16,
+2024).
+10.13
+Exclusive
+License Agreement, dated March 12, 2019, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Composition and Methods
+for Treating Cancer and Autoimmune Diseases) (incorporated by reference to Exhibit 10.14 to the Registration Statement filed on August
+16, 2024).
+10.14
+Amendment
+to Exclusive License Agreement, dated June 17, 2021, between Cedars-Sinai Medical Center and Kairos Pharma, Ltd. (re Composition
+and Methods for Treating Cancer and Autoimmune Diseases) (incorporated by reference to Exhibit 10.15 to the Registration Statement
+filed on August 16, 2024).
+10.15
+License
+and Supply Agreement, dated May 21, 2021, between Tracon Pharmaceuticals, Inc., Enviro Therapeutics, Inc., and Kairos Pharma, Ltd.
+(incorporated by reference to Exhibit 10.16 to the Registration Statement filed on August 16, 2024)
+10.16
+First
+Amendment to Exclusive License Agreement, dated April 18, 2021, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc.
+(re Methods for Treating Diseases and Conditions by Depletion of Mitochondrial or Genomic DNA) (incorporated by reference to Exhibit
+10.17 to the Registration Statement filed on August 16, 2024).
+10.17
+Second
+Amendment to Exclusive License Agreement, dated October 11, 2022, between Cedars-Sinai Medical Center and Enviro Therapeutics, Inc.
+(re Sensitization of Tumors to Therapies Through Endoglin Antagonism) (incorporated by reference to Exhibit 10.18 to the Registration
+Statement filed on August 16, 2024).
+10.18
+Form
+of Subscription Agreement for 6% Convertible Notes (incorporated by reference to Exhibit 10.20 to the Registration Statement filed
+on August 16, 2024).
+10.19
+Form
+of 6% Convertible Note (incorporated by reference to Exhibit 10.21 to the Registration Statement filed on August 16, 2024).
+10.20
+Form
+of Investor Rights and Lock-Up Agreement for 6% Convertible Notes (incorporated by reference to Exhibit 10.22 to the Registration
+Statement filed on August 16, 2024).
+10.21
+Kairos
+Pharma, Ltd. 2023 Equity Incentive Plan (incorporated by reference to Exhibit 10.23 to the Registration Statement filed on August
+16, 2024).
+10.22
+Form
+of Director Offer Letter (incorporated by reference to Exhibit 10.24 to the Registration Statement filed on August 16, 2024).
+10.23
+Form
+of Employment Agreement for John Yu (incorporated by reference to Exhibit 10.25 to the Registration Statement filed on August 16,
+2024).
+10.24
+Form
+of Employment Agreement with Doug Samuelson (incorporated by reference to Exhibit 10.26 to the Registration Statement filed on August
+16, 2024).
+10.25
+Form
+of Employment Agreement for Neil Bhowmick (incorporated by reference to Exhibit 10.27 to the Registration Statement filed on August
+16, 2024).
+10.26
+Form
+of Employment Agreement for Ramachandran Murali (incorporated by reference to Exhibit 10.28 to the Registration Statement filed on
+August 16, 2024).
+10.27
+Form
+of Indemnification Agreement between Kairos Pharma, Ltd. and each of its directors (incorporated by reference to Exhibit 10.29 to
+the Registration Statement filed on August 16, 2024).
+10.28
+Conversion
+Agreement, dated March 7, 2024, between Cedars-Sinai Medical Center, Kairos Pharma, Ltd. and Enviro Therapeutics, Inc. (incorporated
+by reference to Exhibit 10.30 to the Registration Statement filed on August 16, 2024).
+10.29
+Second
+Amendment to the Exclusive License Agreement to Methods and Use of Compounds that Bind to RelA of NF-kB, dated March 7, 2024, between
+Kairos Pharma Ltd. and Cedars-Sinai Medical Center (incorporated by reference to Exhibit 10.31 to the Registration Statement filed
+on August 16, 2024).
+10.30
+Second
+Amendment to the Exclusive License Agreement to Composition and Methods for Treating Fibrosis with Kairos Pharma Ltd, dated March
+7, 2024, between Kairos Pharma, Ltd. and Cedars-Sinai Medical Center (incorporated by reference to Exhibit 10.32 to the Registration
+Statement filed on August 16, 2024).
+20
+10.31
+Second
+Amendment to the Exclusive License Agreement to Compositions and Methods for Treating Cancer and Autoimmune Diseases, dated March
+7, 2024, between Kairos Pharma, Ltd. and Cedars-Sinai Medical Center (incorporated by reference to Exhibit 10.33 to the Registration
+Statement filed on August 16, 2024).
+10.32
+Third
+Amendment to Exclusive License to Compositions and Methods for Treating Diseases and Conditions by Depletion of Mitochondrial or
+Genomic DNA, dated March 7, 2024, between Enviro Therapeutics, Inc. and Cedars-Sinai Medical Center(incorporated by reference to
+Exhibit 10.34 to the Registration Statement filed on August 16, 2024).
+10.33
+Third
+Amendment to the Exclusive License Agreement to Sensitization of Tumors to Therapies Through Endoglin Antoganism, dated March 7,
+2024, between Enviro Therapeutics, Inc. and Cedars-Sinai Medical Center (incorporated by reference to Exhibit 10.35 to the Registration
+Statement filed on August 16, 2024).
+10.34
+Form
+of Loan Agreement between the Company and Certain Officers (incorporated by reference to Exhibit 10.36 to the Registration Statement
+filed on August 16, 2024).
+10.35
+Master
+Services Agreement, dated August 1, 2024, between Kairos Pharma Limited and Prevail InfoWorks, Inc. (incorporated by reference to
+Exhibit 10.37 to the Registration Statement filed on August 16, 2024) (1)
+10.36
+Amendment
+to Loan Agreement, dated August 16, 2024, between the Company and John S. Yu (incorporated by reference to Exhibit 10.38 to the Registration
+Statement filed on August 16, 2024).
+10.37
+Amendment
+to Loan Agreement, dated August 16, 2024, between the Company and Doug Samuelson (incorporated by reference to Exhibit 10.39 to the
+Registration Statement filed on August 16, 2024).
+10.38
+Amendment
+to Loan Agreement, dated August 16, 2024, between the Company and Neil Bhowmick (incorporated by reference to Exhibit 10.40 to the
+Registration Statement filed on August 16, 2024).
+10.39
+Bioassay
+Services Agreement, dated September 20, 2024, between the Company and PreCheck (incorporated by reference to Exhibit 10.1 to the
+Company’s current Report on Form 8-K filed on September 24, 2024).
+10.40
+Form
+of Advertising Services Agreement, dated September 23, 2024, between the Company and CEO.CA Technologies, Inc. (incorporated by reference
+to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on September 27, 2024).
+10.41
+Form
+of Advisory & Consulting Agreement, dated September 23, 2024, between the Company and Belair Capital Advisors Inc. (incorporated
+by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed on September 27, 2024).
+10.42
+Consulting
+Agreement, dated October 1, 2024, between Kairos Pharma, Ltd, Cross Current Capital LLC and Alan Masley (incorporated by reference
+to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed October 4, 2024).
+10.43
+Purchase
+Agreement, dated November 12, 2024, by and between Kairos Pharma, Ltd. and Helena Global Investment Opportunities I Ltd. (incorporated
+by reference to Exhibit 10.5 to the Company’s Quartey Report on Form 10-Q, filed on November 14, 2024).
+10.44
+Second
+Conversion Agreement, dated November 13, 2024, by and between Kairos Pharma, Ltd. and Cedars-Sinai Medical Center. (incorporated
+by reference to Exhibit 10.6 to the Company’s Quartey Report on Form 10-Q, filed on November 14, 2024).
+10.45
+Third
+Amendment to Exclusive License Agreement (Cancer Autoimmune), dated November 13, 2024, by and between Kairos Pharma, Ltd. and Cedars-Sinai
+Medical Center. (incorporated by reference to Exhibit 10.7 to the Company’s Quartey Report on Form 10-Q, filed on November
+14, 2024).
+10.46
+Fourth
+Amendment to Exclusive License Agreement (Depletion of DNA), dated November 13, 2024, by and between Kairos Pharma, Ltd. and Cedars-Sinai
+Medical Center and Enviro Therapeutics, Inc (incorporated by reference to Exhibit 10.8 to the Company’s Quartey Report on Form
+10-Q, filed on November 14, 2024).
+10.47
+Third
+Amendment to Exclusive License Agreement (Fibrosis), dated November 13, 2024, by and between Kairos Pharma, Ltd. and Cedars-Sinai
+Medical Center. (incorporated by reference to Exhibit 10.9 to the Company’s Quartey Report on Form 10-Q, filed on November
+14, 2024).
+10.48
+Third
+Amendment to Exclusive License Agreement (RelA of NF-kB), dated November 13, 2024, by and between Kairos Pharma, Ltd. and Cedars-Sinai
+Medical Center. (incorporated by reference to Exhibit 10.10 to the Company’s Quartey Report on Form 10-Q, filed on November
+14, 2024).
+10.49
+Fourth
+Amendment to Exclusive License Agreement (Sensitization of Solid Tumors), dated November 13, 2024, by and between Enviro Therapeutics
+Inc. and Cedars-Sinai Medical Center. (incorporated by reference to Exhibit 10.11 to the Company’s Quartey Report on Form 10-Q,
+filed on November 14, 2024).
+21
+10.50
+Form
+of the Amendment No.1 to the Employment Agreement by and between Kairos Pharma, Ltd and Doug Samuelson (incorporated by reference
+to Exhibit 10.12 to the Company’s Quartey Report on Form 10-Q, filed on November 14, 2024).
+10.51
+Form
+of the Amendment No.1 to the Employment Agreement by and between Kairos Pharma, Ltd and Dr. Ramachandran Murali (incorporated by
+reference to Exhibit 10.13 to the Company’s Quartey Report on Form 10-Q, filed on November 14, 2024).
+10.52
+Form
+of the Amendment No.1 to the Employment Agreement by and between Kairos Pharma, Ltd and Dr. Neil Bhowmick (incorporated by reference
+to Exhibit 10.14 to the Company’s Quartey Report on Form 10-Q, filed on November 14, 2024).
+10.53
+Form
+of Amendment No. 1 to Employment Agreement by and between Kairos Pharma, Ltd. and John S. Yu (incorporated by reference to Exhibit
+10.15 to the Company’s Quartey Report on Form 10-Q, filed on November 14, 2024).
+10.54
+Director
+Offer Letter, dated December 10, 2024, between Kairos Pharma, Ltd. and Rahul Singhvi (incorporated by reference to Exhibit 10.1 to
+the Current Report on Form 8-K filed on December 13, 2024).
+10.55
+Form
+of Securities Purchase Agreement (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed
+January 14, 2025).
+10.56
+Form
+of Registration Rights Agreement (incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed
+January 14, 2025).
+10.57
+Form
+of Lock-up Agreement (incorporated by reference to Exhibit 10.3 to the Company’s Current Report on Form 8-K filed January 14,
+2025).
+10.58
+Form
+of Amended and Restated Securities Purchase Agreement (incorporated by reference to Exhibit 10.1 to the Company’s Current Report
+on Form 8-K filed January 17, 2025).
+10.59
+Placement
+Agent Agreement, dated January 16, 2025, between Kairos Pharma, Ltd. and Boustead Securities LLC (incorporated by reference to Exhibit
+10.3 to the Company’s Current Report on Form 8-K filed January 17, 2025).
+14.1
+Code
+of Business Conduct and Ethics (incorporated by reference to Exhibit 14.1 to the Company’s Amendment No. 1 to its Annual Report
+on Form 10-K/A filed April 28, 2025).
+19.1
+Insider
+Trading Policy (incorporated by reference to Exhibit 19.1 to Amendment No. 1 to the Company’s Annua Report on Form 10-K/A filed
+on April 28, 2025).
+21.1
+List
+of subsidiaries of Kairos Pharma, Ltd. (incorporated by reference to Exhibit 21.1 to the Company’s Registration Statement on
+Form S-1, filed on August 16, 2024).
+23.1
+Consent of Marcum LLP (incorporated by reference to Exhibit 23.1 to the Company’s Form 10-K filed April 15, 2025).
+31.1*
+Certification
+of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification
+of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1**
+Certification
+of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2**
+Certification
+of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS
+Inline
+XBRL Instance Document
+101.SCH
+Inline
+XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline
+XBRL Taxonomy Presentation Linkbase Document
+104
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+(1)
+Certain
+information contained in this exhibit has been redacted because (i) it is not material and (ii) it is the type of information that
+the company normally treats as private or confidential.
+*
+Filed herewith.
+**
+Furnished herewith.
+ITEM
+16. FORM 10-K SUMMARY
+None.
+22
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this Annual Report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+KAIROS
+PHARMA, LTD.
+By:
+/s/
+John S. Yu
+John
+S. Yu
+Chief
+Executive Officer and
+Chairman
+of the Board of Directors
+Date:
+July 28, 2025
+Principal
+Executive Officer
+23

@@ -1,0 +1,99 @@
+NT 10-K
+1
+fnt10k_071525.htm
+FORM NT 10-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 12b-25
+NOTIFICATION OF LATE FILING
+(Check One):
+[X] Form 10-K [  ] Form 20-F [  ] Form 11-K [  ] Form 10-Q [  ] Form 10-D [  ] Form N-CEN
+[  ] Form N-CSR
+For Period Ended: _April 30, 2025____________________
+[  ] Transition Report on Form 10-K
+[  ] Transition Report on Form 20-F
+[  ] Transition Report on Form 11-K
+[  ] Transition Report on Form 10-Q
+[  ] Transition Report on Form N-SAR
+For the Transition Period Ended:
+Read Instruction (on back page) Before Preparing Form. Please Print or Type.
+Nothing in this form shall be construed to imply that the Commission has verified any information contained herein.
+If the notification relates to a portion of the filing checked above, identify the Item(s) to
+which the notification relates:
+PART I - REGISTRANT INFORMATION
+America’s Car-Mart, Inc.
+Full Name of Registrant
+Not applicable
+Former Name if Applicable
+1805 North 2nd Street, Suite 401
+Address of Principal Executive Office (Street and Number)
+Rogers, Arkansas 72756
+City, State, Zip Code
+PART II – RULES 12b-25 (b) AND (c)
+If the subject report could not be filed without unreasonable effort or expense and the registrant
+seeks relief pursuant to Rule 12b-25(b), the following should be completed. (Check box if appropriate)
+(a)
+The reasons described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+[X]
+(b)
+The subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, 11-K
+or Form N-CEN or Form N-CSR, or portion thereof, will be filed on or before the fifteenth calendar day following the prescribed due date;
+or the subject quarterly report or transition report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will
+be filed on or before the fifth calendar day following the prescribed due date; and
+(c)
+The accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART III – NARRATIVE
+State below in reasonable detail the reasons why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-SAR,
+N-CSR, or the transition report or portion thereof, could not be filed within the prescribed time period.
+As part of the year-end reporting process and the preparation of the Registrant’s
+Annual Report on Form 10-K for the fiscal year ended April 30, 2025 (the “Annual Report”), management identified the need
+to enhance disclosures related to loan modifications for borrowers experiencing financial difficulty, in accordance with ASC 310-10-50-42
+through 50-44.
+Specifically, the Registrant is enhancing its disclosures regarding loan
+modifications to customers. The Registrant is in the process of completing its analysis of these accounts and based on its preliminary
+assessment, believes additional disclosures around the loan modifications associated with these customers are required.
+As a result of the time required to complete these enhanced disclosures,
+the Registrant is unable to file its Annual Report within the prescribed time period without unreasonable effort or expense. The Registrant
+expects to file the Annual Report within the fifteen-day filing extension provided by Rule 12b-25 under the Securities Exchange Act of
+1934, as amended.
+PART IV – OTHER INFORMATION
+(1)
+Name and telephone number of person to contact
+in regard to this notification:
+Jonathan M. Collins
+479
+464-9944
+(Name)
+(Area Code)
+(Telephone No.)
+(2)Have all other periodic reports required under section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment
+Company Act of 1940 during the preceding 12 months or for such shorter period that the registrant was required to file such report(s)
+been filed? If the answer is no, identify report(s).  [X] Yes
+[  ] No
+(3)Is it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will
+be reflected by the earnings statements to be included in the subject report or portion thereof?
+[X] Yes [  ] No
+If so, attach an explanation of the anticipated change, both narratively and quantitatively,
+and, if appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+As previously disclosed in the Registrant’s June 12, 2025 press release
+announcing fourth quarter and full-year results for the fiscal year ended April 30, 2025, the Registrant expects to report the following
+in its consolidated statements of operations for the full year, which will be included in the upcoming Annual Report:
+•Total
+revenues decreased by $3.0 million, or (0.2)%.
+•Total
+costs and expenses decreased by $65.9 million, or (4.6)%.
+•Net
+income improved by $49.3 million, shifting from a net loss of $31.4 million, or diluted loss per share of $4.92, in fiscal
+year 2024 to a net profit of $17.9 million, or diluted earnings per share of $2.33, in fiscal year 2025.
+These figures reflect management’s current estimates and are subject to change. Final
+results will be included in the Annual Report once filed.
+America’s Car-Mart, Inc.
+(Name of Registrant as Specified in Charter)
+has caused this notification to be signed on its behalf by the undersigned thereunto duly authorized.
+Date: July 15, 2025
+By:
+/s/ Jonathan M. Collins
+Jonathan M. Collins
+Chief Financial Officer
+(Principal Financial Officer)

@@ -1,0 +1,2364 @@
+false
+FY
+0001324759
+0001324759
+2024-01-01
+2024-12-31
+0001324759
+2024-09-30
+0001324759
+2025-06-24
+0001324759
+2024-12-31
+0001324759
+2023-12-31
+0001324759
+us-gaap:RelatedPartyMember
+2024-12-31
+0001324759
+us-gaap:RelatedPartyMember
+2023-12-31
+0001324759
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:PreferredStockMember
+2022-12-31
+0001324759
+us-gaap:CommonStockMember
+2022-12-31
+0001324759
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001324759
+HGYN:StatutorySurplusReserveMember
+2022-12-31
+0001324759
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001324759
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001324759
+us-gaap:NoncontrollingInterestMember
+2022-12-31
+0001324759
+2022-12-31
+0001324759
+us-gaap:PreferredStockMember
+2023-12-31
+0001324759
+us-gaap:CommonStockMember
+2023-12-31
+0001324759
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001324759
+HGYN:StatutorySurplusReserveMember
+2023-12-31
+0001324759
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001324759
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001324759
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001324759
+us-gaap:PreferredStockMember
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001324759
+HGYN:StatutorySurplusReserveMember
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:NoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001324759
+us-gaap:PreferredStockMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0001324759
+HGYN:StatutorySurplusReserveMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:PreferredStockMember
+2024-12-31
+0001324759
+us-gaap:CommonStockMember
+2024-12-31
+0001324759
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001324759
+HGYN:StatutorySurplusReserveMember
+2024-12-31
+0001324759
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001324759
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001324759
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001324759
+2014-01-30
+2014-01-31
+0001324759
+HGYN:CustodianVenturesLLCMember
+us-gaap:CommonStockMember
+2019-10-04
+2019-10-04
+0001324759
+HGYN:CustodianVenturesLLCMember
+us-gaap:CommonStockMember
+2019-10-04
+0001324759
+us-gaap:SeriesAPreferredStockMember
+2020-04-14
+2020-04-14
+0001324759
+us-gaap:CommonStockMember
+2020-04-14
+2020-04-14
+0001324759
+us-gaap:SeriesAPreferredStockMember
+2020-04-15
+0001324759
+HGYN:SeriesA1PreferredStockMember
+2020-05-01
+0001324759
+HGYN:SeriesA1PreferredStockMember
+HGYN:CustodianVenturesLLCMember
+2020-05-03
+2020-05-04
+0001324759
+us-gaap:CommonStockMember
+2020-11-02
+2020-11-03
+0001324759
+HGYN:SeriesA1PreferredStockMember
+2020-11-02
+2020-11-03
+0001324759
+us-gaap:MajorityShareholderMember
+HGYN:HongyuanHKMember
+2024-10-01
+0001324759
+HGYN:HongyuanHKMember
+2024-10-01
+2024-10-01
+0001324759
+us-gaap:MajorityShareholderMember
+HGYN:FengcuiyuanMember
+2024-10-01
+0001324759
+us-gaap:MajorityShareholderMember
+HGYN:RongchengMember
+2024-10-01
+0001324759
+HGYN:RongchengMember
+2024-11-12
+2024-11-12
+0001324759
+us-gaap:MachineryAndEquipmentMember
+2024-12-31
+0001324759
+us-gaap:AutomobilesMember
+2024-12-31
+0001324759
+us-gaap:OfficeEquipmentMember
+2024-12-31
+0001324759
+2024-04-10
+0001324759
+us-gaap:MajorityShareholderMember
+2024-12-31
+0001324759
+HGYN:HongyuanHKMember
+2024-01-01
+2024-12-31
+0001324759
+us-gaap:MajorityShareholderMember
+2023-12-31
+0001324759
+HGYN:RongchengMember
+us-gaap:SubsequentEventMember
+2025-06-30
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:HKD
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+WASHINGTON,
+D.C. 20549
+FORM
+10-K
+☒
+ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the fiscal year ended December 31, 2024
+☐
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES AND EXCHANGE ACT OF 1934
+For
+the transition period from __________ to __________
+Commission
+File Number: 000-56252
+HONG
+YUAN HOLDING GROUP
+(Exact
+name of registrant as specified in its charter)
+Nevada
+91-2154289
+(State or Other Jurisdiction
+(I.R.S. Employer
+of Incorporation or organization)
+Identification No.)
+No. 3, 21st Floor, Building 1, No.
+176, Jiqing 1st Road,
+Chengdu
+High-tech Zone, China (Sichuan) Pilot Free
+Trade Zone, 610094
+(Address
+of principal executive offices)
++86-
+19382185278
+(Registrant’s
+telephone number, including area code)
+Securities
+Registered Pursuant to Section 12(g) of the Act: Common Stock, $0.001 Par Value
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes☐ No ☒
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such a shorter period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days. Yes ☐ No ☒
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files). Yes☐ No ☒
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large,
+accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated
+filer ☐
+Smaller
+reporting company ☒
+Emerging
+growth company ☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. ☐
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. Yes ☐ No ☒
+Indicate
+by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+The
+aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s
+most recently completed fiscal quarter was approximately $11,407.
+There
+were 74,640,766 shares of common stock outstanding as of June 24, 2025.
+HONG
+YUAN HOLDING GROUP
+Page
+No.
+PART I
+Item
+1
+Business
+4
+Item
+1A
+Risk Factors
+7
+Item
+1B
+Unresolved Staff Comments
+7
+Item
+2
+Properties
+7
+Item
+3
+Legal Proceedings
+7
+Item
+4
+Mine Safety Disclosures
+7
+Part II
+Item
+5
+Market For Registrant’s Common Equity, Related Stockholder Matters And Issuer Purchases Of Equity Securities
+7
+Item
+6
+Selected Financial Data
+8
+Item
+7
+Management’s Discussion And Analysis Of Financial Condition And Results Of Operations
+8
+Item
+7A
+Quantitative And Qualitative Disclosures About Market Risk
+11
+Item
+8
+Financial Statements And Supplementary Data
+11
+Item
+9
+Changes In And Disagreements With Accountants On Accounting And Financial Disclosure
+11
+Item
+9A
+Controls And Procedures
+11
+Item
+9B
+Other Information
+12
+Part III
+Item
+10
+Directors And Executive Officers And Corporate Governance
+12
+Item
+11
+Executive Compensation
+13
+Item
+12
+Security Ownership Of Certain Beneficial Owners And Management And Related Stockholder Matters
+13
+Item
+13
+Certain Relationships And Related Transactions, And Director Independence
+14
+Item
+14
+Principal Accountant Fees And Services
+15
+Part IV
+Item
+15
+Exhibits And Financial Statement Schedules
+16
+Signatures
+17
+2
+In
+this annual report, the words “we,” “us,” “our,” and the “Company” refer to Hong Yuan
+Holding Group.
+FORWARD
+LOOKING STATEMENTS
+When
+used in this report, the words “may,” “will,” “expect,” “anticipate,” “continue,”
+“estimate,” “project,” “intend,” and similar expressions are intended to identify forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 regarding
+events, conditions, and financial trends that may affect the Company’s future plans of operations, business strategy, operating
+results, and financial position. Persons reviewing this report are cautioned that any forward-looking statements are not guarantees of
+future performance and are subject to risks and uncertainties, and that actual results may differ materially from those included within
+the forward-looking statements as a result of various factors.
+Statements
+made in this Form 10-K that are not historical, or current facts are “forward-looking statements” made pursuant to the safe
+harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as
+amended. We wish to caution readers not to place undue reliance on any such forward-looking statements, which speak only as of the date
+made. Any forward-looking statements represent our best judgment as to what may occur in the future. These forward-looking statements
+include our plans and objectives for our future growth, including plans and goals related to the consummation of acquisitions and future
+private and public issuances of our equity and debt securities. The forward-looking statements included herein are based on current expectations
+that involve numerous risks and uncertainties. Assumptions relating to the foregoing involve judgments with respect to, among other things,
+future economic, competitive, and market conditions and future business decisions, all of which are difficult or impossible to predict
+accurately and many of which are beyond our control. Although we believe that the assumptions underlying the forward-looking statements
+are reasonable, any of the assumptions could be inaccurate and, therefore, there can be no assurance that the forward-looking statements
+included in this Form 10-K will prove to be accurate. In light of the significant uncertainties inherent in the forward-looking statements
+included herein, you should not regard the inclusion of such information as our representation or the representation of any other person
+that we will achieve our objectives and plans. We disclaim any obligation subsequently to revise any forward-looking statements to reflect
+events or circumstances after the date of such statement or to reflect the occurrence of anticipated or unanticipated events.
+3
+PART
+I
+Item 1
+Business.
+Our
+Company
+Hong
+Yuan Holding Group (“We”, “the Company”, “Hong Yuan”, Us” or “Our”) was incorporated
+on September 29, 2001, in the State of Nevada under the name of Biocorp North America Inc. On March 18, 2005, we filed an amendment to
+our certificate of incorporation to change our name to Cereplast, The Company is a development-stage enterprise devoting substantial
+efforts to establishing a new business, financial planning, raising capital, and researching products that may become part of the Company’s
+product portfolio. The Company has not realized significant sales since inception. A development stage company is defined as one in which
+all efforts are devoted substantially to establishing a new business and, even if planned principal operations have commenced, revenues
+are insignificant.
+History
+On
+February 10, 2014, the Company filed a voluntary petition for relief under Chapter 11 of Title 11 of the United States Bankruptcy Code
+in the United States Bankruptcy Court for the Southern District of Indiana (the “Bankruptcy Court “). On February 14, 2014,
+the Company filed a motion in the Bankruptcy Court seeking to convert the Company’s Chapter 11 Case to a Chapter 7 bankruptcy case.
+On March 27, 2014, the court granted the Company’s motion, and on that date, the Company’s Chapter 11 Case was converted
+to a Chapter 7 case. As a result, the Company adopted a liquidation basis of accounting for its discontinued operations, in accordance
+with ASC 205-30, “Presentation of Financial Statements – Liquidation Basis of Accounting.” Consequently, the accumulated
+deficit generated prior to the bankruptcy proceedings remained unadjusted.
+On
+January 31, 2014, the Board of Directors of Cereplast, Inc. (the “Company”) approved a 1-for-50 reverse split (the “Reverse
+Split) which the shareholders previously approved on April 5, 2013, and previously disclosed on Current Report Form 8-K filed on April
+5, 2013.
+On
+February 3, 2014, Cereplast, Inc. (the “Company”) filed a Certificate of Amendment to its Articles of Incorporation to effect
+the reverse split (the “Reverse Split”), effective as of February 21, 2014.
+On
+March 22, 2019, the Eighth Judicial District Court of Nevada appointed Custodian Ventures, LLC, as custodian for Cereplast, Inc., after
+proper notice had been given to the officers and directors of Cereplast, Inc. There was no opposition.
+On
+June 04, 2019, the Company filed a certificate of revival with the state of Nevada, appointing David Lazar as President, Secretary, Treasurer,
+and Director.
+On
+October 4, 2019, the Company issued 50,000,000 shares of common stock to Custodian Ventures, LLC at par for shares valued at $50,000
+in exchange for settlement of a portion of a related party loan for amounts advanced to the Company for $20,100, and a note receivable
+due to the Company for $29,900. The note bears an interest of 3% and matures in 180 days following written demand by the holder.
+On
+April 14, 2020, Custodian Ventures elected to convert the total amount of the 510 shares of Series A preferred stock into 510 shares
+of common stock.
+On
+April 15, 2020, the Board of directors of the Company approved the withdrawal of the certificate of designation of 5,000,000 shares of
+Series A Preferred stock filed with the Nevada Secretary of State on August 24, 2012, as amended by the Amendment to Certificate of Designation
+after issuance of Class or Series filed with the Nevada Secretary of State on April 13, 2020.
+On
+May 1, 2020, the Company created 5,000,000 shares of Series A-1 Preferred Stock with a par value of $0.001. On May 4, 2020, the Company
+issued 5,000,000 shares of the Series A-1 Preferred stock, valued at $5,000, to Custodian Ventures LLC as repayment for funds loaned
+to the Company.
+A
+change of control of the Company was completed on November 3, 2020, when control was acquired through the sale of 50,000,000 common shares
+and 5,000,000 in Series A-1 Preferred Shares from Custodian Ventures, LLC to Xudong Li. After November 3, 2020, the Company’s operations
+were determined and structured by the new major shareholder.
+On
+November 18, 2020, the Company filed an amendment to its certificate of incorporation to change its name to Hong Yuan Holding Group.
+On
+October 1, 2024, The Company entered into an agreement to acquire from Xudong Li (the majority shareholder of the Company) 100% equity
+interest of Hongyuan International Holding Group Co., Ltd. (“Hongyuan HK”) in exchange for HK $500,000 (approximately $64,103)
+or issuing the equivalent value of the Company’s common stocks, payable upon the completion of changing registered owner with the
+Administration for Industrial and Commerce. Hongyuan HK was established in Hong Kong on July 28, 2021.
+4
+Also
+on October 1, 2024, Hongyuan HK entered into a series of agreements including a Shareholders’ Voting Rights Entrustment Agreement,
+an Exclusive Management Consulting and Service Agreement and a Share Pledge Agreement (collectively the “Agreements”) with
+Fengcuiyuan Chang Technology Development Co., Ltd (“Fengcuiyuan”) and its registered owners (the “Transaction”).
+Fengcuiyuan is a corporation formed under the laws of the PRC on September 3, 2021, in which Xudong Li (the majority shareholder of the
+Company) controls 95% of its equity interest. Fengcuiyuan owns 98% of Rongcheng (Sichuan) Supply Chain Management Co., Ltd (“Rongcheng”),
+a corporation formed under the laws of the PRC located in Chengdu, Sichuan, China, incorporated on April 17, 2024. On November 12, 2024,
+Chongqing Xuchang Qingrong Trading Co., Ltd. (“Xuchang”) located in Chongqing, Sichuan, China, was formed as a 55% subsidiary
+of Rongcheng.
+According
+to the Agreements, Hongyuan HK assumed financial and operating control of Fengcuiyuan. As a result, Hongyuan HK has been determined to
+have a controlling financial interest in Fengcuiyuan, requiring Hongyuan HK to consolidate the financial statements of Fengcuiyuan and
+its subsidiaries, and ultimately consolidate with its parent company, Hong Yuan. The Transaction was accounted for as a reorganization
+of entities under common control. As the combining entities have been under common control since September 2021, the consolidated financial
+statements of the Company recognized the assets and liabilities received in the reorganization at their historical carrying amounts,
+as reflected in the historical financial statements of each entity.
+Business
+The
+Company, through its subsidiary and the Agreements with Fengcuiyuan, focuses on supply chain management services, primarily engaged in
+the wholesale and internet sales of fast-moving consumer goods, including food, daily necessities, and electronic products, across various
+fields such as pre-packaged food, agricultural by-products, and household goods.
+Supply
+chain companies help optimize all the activities involved in procuring raw materials and transforming them into products, as well as
+managing logistics, storage, sales, and shipping those products to consumers, all of which is done using technology such as artificial
+intelligence, IoT, blockchain, and robots.
+What
+is the supply chain?
+The
+supply chain is a series of interconnected steps and processes that a product undergoes to reach a consumer, from its creation to its
+delivery. It often entails a network of companies and people that are involved in obtaining the raw materials of the product, making
+and storing the product and then selling and distributing the product.
+What
+is a supply chain company?
+A
+supply chain company specializes in helping other companies manage and optimize their supply chain operations, providing a range of services
+to improve their efficiency, cost-effectiveness, and productivity. These include inventory management, freight transportation, warehousing,
+and more.
+What
+is supply chain management?
+Supply
+chain management is the handling of the production and distribution process of goods and services.
+We
+develop and operate offline brand-authorized stores, primarily selling a range of Baijiu products at various price points, along with
+classic red wine brands, renowned cigarettes and teas, local specialties, beverages, and mid-to-high-end gifts. At the same time, goods
+are also provided to cooperative e-commerce platforms.
+Before
+December 31, 2024, the primary focus will be on distributing products of well-known brands. After the successful registration of our
+own brand in March 2025, we have established contract manufacturing cooperation with well-known liquor manufacturers and are currently
+in production.
+As
+of December 31, 2024, the store in Chongqing had already opened.
+Currently,
+the stores in Chongqing and Jiangyou are operational, while the Leshan store is in the process of selecting a site and undergoing decoration.
+（Before December 31, 2024, the store will be invested in and hold a 55% stake by Rongcheng (Sichuan) Supply Chain Management Co.,
+LTD. In June 2025, we changed our business model. We still fund the opening of stores, but we no longer hold shares in the stores. The
+investment funds for the stores will be recovered as loans in the future from the stores’ profits.
+Customer
+acquisition is a part of our business model. We provide funds to invest in the establishment of stores and are responsible for their
+operation. Regional service partners are responsible for finding store partners and store members. During the operation of the store,
+we help service partners attract consumers and develop them into loyal members by sharing stock growth dividends, quality commitments,
+price commitments, and after-sales commitments, among other benefits. This enables us to gather the basic purchasing needs of members
+within the store.
+Supply
+Chain Management Co., Ltd. is 98% controlled by Fengcui Yuanchang Technology Development Co., LTD. Fengcui Yuanchang Technology Development
+Co., Ltd. is 100% controlled by Hongyuan HK, and Hongyuan HK is 100% owned by the HGYN.Changshunyuan E-commerce (Sichuan) Co., Ltd. is
+a client of Rongcheng (Sichuan) Supply Chain Management Co., Ltd.
+5
+Products
+The
+mid-to-low-end white and red wines that are popular on the market from major brands, will gradually introduce new product categories
+in the future, such as tea, beverages, rice, cooking oil etc, which are closely related to People’s Daily lives. Chinese liquor
+and wine partner brands: Moutai, Wuliangye, Luzhou Laojiao, Jiannanchun, Shede, Xijiu, Langjiu, Jinsha, Jingjiu, Fenjiu, Shixian Taibai,
+Jiang Xiaobai, Great Wall, Tredo, Ailisong, Claire Valley.....
+Tea
+and beverages: The strategic cooperation brands are Zhongcha and Nongfu Spring. We have carefully selected over ten premium tea varieties
+such as Zhongcha Dianhong Special Grade, Zhongcha Zijuan, Zhongcha Qianli Jiangshan, Zhongcha Dashu Jinzhen, Zhongcha Amber Golden Bud,
+Zhongcha Lianhua Feng Da Hong Pao, Zhongcha Matouyan Cinnamon, Zhongcha Zhangtangjian Old Fir Narcissus, Zhongcha Xixiangying White Tea,
+and Zhongcha Jinhua Xiangyuan, as well as over ten best-selling beverages under Nongfu Spring brand.
+Cigarettes,
+local specialties and seasonal products, Northeast rice
+Mid-to-high-end
+gifts: Dozens of world-renowned cosmetic brands such as Chanel, Lancome, La Mer, SK-II, etc
+First-
+and second-tier brands: The company has the resources to cooperate with manufacturers or first-level distributors of first- and second-tier
+brands, effectively reducing the costs of intermediate links and building a solid profit foundation and price competitiveness for the
+business model.
+Third-tier
+brands: Integrate upstream resources and directly establish direct procurement methods with manufacturers of third-tier brands.
+Private
+Label: Based on market orientation, selecting high-quality factories with excellent business reputation and a complete quality assurance
+system, establishing strategic OEM partnerships, and carrying out contract manufacturing.
+Main
+sales channels
+1.
+Partners and Members: The company mainly sells to members and partners through store service providers
+By
+offering high-quality, reasonably priced products with good services, we attract and convert a large number of partners and members to
+join. Through a value-sharing plan, our user stickiness is strong, and the customer life value is higher than that of similar competitors
+in the market.
+By
+adhering to the zero-cost and worry-free return and exchange policy, we maximize the protection of consumers’ rights and interests,
+significantly enhancing their satisfaction and willingness to repurchase.
+2.
+Other trading companies: Select high-quality e-commerce platforms or companies and establish long-term, stable cooperative relationships.
+Analysis
+of the Current Alcoholic Market and Competition
+Channel
+Transformation and Price System Impact
+1.The
+low-price dumping by e-commerce and new retail has squeezed the profits of distribution channels.
+First
+- and second- tier brands are facing price shocks through online channels. The main reason is that e-commerce platforms (such as Tmall
+and JD.com) and chain systems, leveraging their advantages in establishing a comprehensive supply chain system on a large scale, offer
+low-price promotions to famous first- and second-tier wines.
+2.
+Data from 2025 shows that the online sales of alcoholic beverages have exceeded 30-billion-yuan, accounting for 29% of the total industry
+scale. The annual growth rate of GMV in live-streaming sales has reached 137%, putting pressure on the prices of traditional distribution
+systems and compressing the profit margins of traditional distribution levels.
+3.
+Third - and fourth-tier brands rely on non-standard channels, resulting in price chaos.
+Small
+and medium-sized brands generally rely too heavily on live-stream sales (accounting for over 30%) and private domain sales, with fragmented
+pricing strategies. This has led to a loss of pricing power in terminal stores, making it difficult to maintain consumer loyalty. For
+instance, the online sales growth rate of regional liquor enterprises has reached 2.3 times that of national brands, but they lack a
+unified price control mechanism, making it difficult for terminal stores to stabilize their customer base.
+Consumption
+Upgrade and Evolution of Brand Landscape
+1.
+The increase in brand concentration squeezes the survival of non-branded products.
+The
+upgrading of consumption has highlighted the Matthew effect in the industry: In 2024, the profit share of CR6 liquor enterprises (such
+as Moutai and Wuliangye) reached 86%, a 31% increase compared to ten years ago. The market share of small and medium-sized brands has
+shrunk to less than 15%.
+2.
+Consumers’ demand for brand endorsement has intensified. Leading brands build barriers through quality and cultural ips (for instance,
+the premium of Moutai’s zodiac wine exceeds 50%). At the same time, small and medium-sized liquor enterprises compete in a differentiated
+way by relying on the differentiation of aroma types and cost performance (the market size of plain bottle liquor has exceeded 150 billion
+yuan).
+6
+Terminal
+Ecosystem: Survival Pressure and Transformation Challenges
+1.
+The continuous increase in costs and the lack of specialization have accelerated the bankruptcy and closure of stores. Individual brick-and-mortar
+stores are facing dual pressures:
+Labor
+costs are on the rise: By 2025, the average annual increase in labor costs in the service sector is projected to be 12%. Coupled with
+the rent increase, the gross profit margin of individual stores is compressed to 15%-20%.
+2.
+Backward business model: Over 70% of individual stores are family-run, lacking digital tools and professional product selection capabilities,
+and their survival space is continuously narrowing. By 2025, approximately 50.9% of alcohol retailers experienced a decline in sales,
+forcing them to transform their channels towards a chain operation and O2O model.
+Industry
+Volume-Price Paradox: The Truth of Structural Growth
+The
+alcohol industry has entered a stage of structural growth, presenting a new normal of “volume reduction and price increase”:
+high-end positioning and price increase strategies have driven sales growth, with annual sales increasing at a rate of 20% to 30% year
+by year. In comparison, sales volume has decreased at a rate of 10% to 15% annually.
+Employees
+We
+currently have 10 full-time employees, including one executive, two in finance, and seven in operations, sales, and marketing.
+Mr.
+Xudong has been a director and officer of the Company since 2020 and its principal shareholder.
+Item
+1A.
+Risk
+Factors
+This
+item is inapplicable because we are a “smaller reporting company” as defined in Exchange Act Rule 12b-2.
+Item
+1B.
+Unresolved
+Staff Comments
+This item is inapplicable because we are a “smaller reporting company” as defined in Exchange Act Rule 12b-2.
+Item
+1C.
+Cybersecurity
+Policy
+Our
+management team, specifically our President and Chief Financial Officer, are responsible for the day-to-day administration of our business
+operations, including our risk management of cybersecurity risks. Our management is responsible for the design and implementation of
+policies, processes and internal controls to manage our cybersecurity risks. Our management team regularly meets with their information
+technology resources, including our third-party service providers, to ensure that we are appropriately positioned to manage our cybersecurity
+risks. Our management team also sponsors periodic cybersecurity awareness training for employees
+As
+of the date of this Annual Report, we are not aware of any cybersecurity threats that have materially affected or are reasonably likely
+to materially affect us, including our business strategy, results of operations or financial condition.
+No
+matter how well designed or implemented our internal controls are, we will not be able to anticipate all cybersecurity threats, and we
+may not be able to implement effective preventive or detective measures against such security breaches in a timely manner.
+Item 2
+Properties.
+We
+maintain our administrative offices in leased premises in Chengdu. The lease has an original term of 2 years expiring April 24, 2026.
+Item 3
+Legal
+Proceedings.
+Neither
+we nor any of our officers, directors or holders of five percent or more of its common stock is a party to any pending legal proceedings
+and to the best of our knowledge, no such proceedings by or against us or our officers, or directors or holders of five percent or more
+of its common stock have been threatened or is pending against us.
+Item 4
+Mine
+Safety Disclosures.
+Not
+applicable
+PART
+II
+Item 5
+Market
+For Registrant’s Common Equity, Related Stockholder Matters, And Issuer Purchases of Equity Securities.
+Market
+Information
+Shares
+of our common stock trade in the Pink Sheets market, and quotations for the common stock are listed in the “Pink Sheets”
+produced by the OTC Markets under the symbol “HGYN”.
+The
+following table sets forth, for the respective periods indicated, the prices of our common stock in this market as reported and summarized
+by the National Quotation Bureau. Such prices are based on inter-dealer bid and ask prices, without markup, markdown, commissions, or
+adjustments, and may not represent actual transactions.
+Year ended December 31, 2023
+High
+Low
+First Quarter
+$0.13
+$0.03
+Second Quarter
+0.15
+0.03
+Third Quarter
+0.08
+0.01
+Fourth Quarter
+0.04
+0.01
+7
+Year ended December 31, 2024
+High
+Low
+First Quarter
+$0.13
+$0.03
+Second Quarter
+0.15
+0.03
+Third Quarter
+0.08
+0.01
+Fourth Quarter
+0.04
+0.01
+Year ended December 31, 2025
+High
+Low
+First Quarter
+$0.13
+$0.03
+Second Quarter
+0.003
+0.002
+Holders
+As
+of December 31, 2024, there were 206 holders of record; however, we estimate that the number of beneficial holders of our shares of common
+stock is approximately 290. In many instances, a registered stockholder is a broker or other entity holding shares in street name for
+one or more customers who beneficially own the shares.
+Dividends
+We
+have never paid cash dividends and have no plans to do so in the foreseeable future. Our board of directors will determine our future
+dividend policy, which will depend on several factors, including our financial condition and performance, our cash needs and expansion
+plans, income tax consequences, and the restrictions that applicable laws, any future preferred stock instruments, and any future credit
+arrangements may impose.
+Issuer
+Purchases of Equity Securities
+None.
+Securities
+Authorized for Issuance under Equity Compensation Plans
+The
+Company does not have any equity compensation plans or any individual compensation arrangements with respect to its Common Stock or Preferred
+Stock. The issuance of any of our Common Stock or Preferred Stock is within the discretion of our Board of Directors, which has the power
+to issue any or all of our authorized but unissued shares without stockholder approval.
+Recent
+Sales of Unregistered Equity Securities
+None.
+Item 6
+Selected
+Financial Data.
+This
+item is inapplicable because we are a “smaller reporting company” as defined in Exchange Act Rule 12b-2.
+Item 7
+Management’s
+Discussion And Analysis Of Financial Condition And Results Of Operations.
+Forward-Looking
+Statement Notice
+This
+Current Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws. These include statements
+about our expectations, beliefs, intentions or strategies for the future, which we indicate by words or phrases such as “anticipate,”
+“expect,” “intend,” “plan,” “will,” “we believe,” “believes,”
+“management believes” and similar language. Except for the historical information contained herein, the matters discussed
+in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere in this
+report are forward-looking statements that involve risks and uncertainties. The factors listed in the section captioned “Risk Factors,”
+as well as any cautionary language in this report, provide examples of risks, uncertainties, and events that may cause our actual results
+to differ materially from those projected. Except as may be required by law, we undertake no obligation to update any forward-looking
+statement to reflect events after the date of this Form 10-K.
+Overview
+The
+Company was incorporated in the state of Nevada on September 14, 2001 under the name Biocorp North America, Inc. On March 18, 2005, it
+changed its name to Cereplast, Inc. In the summer of 2014, the Company ceased all operations.
+A
+change of control of the Company was completed on November 3, 2020, control was obtained by the sale of 50,000,000 common shares and
+$5,000,000 Series A-1 Preferred Shares from Custodian Ventures, LLC to Xudong Li. After November 3, 2020, the Company’s operations
+are determined and structured by the new major shareholder.
+8
+On
+November 18, 2020, the Company filed an amendment to its certificate of incorporation to change its name to Hong Yuan Holding Group.
+On
+October 1, 2024, The Company entered into an agreement to acquire from Xudong Li (the majority shareholder of the Company) 100% equity
+interest of Hongyuan International Holding Group Co., Ltd. (“Hongyuan HK”) in exchange for HK $500,000 (approximately $64,103)
+or issuing the equivalent value of the Company’s common stocks, payable upon the completion of changing registered owner with the
+Administration for Industrial and Commerce. Hongyuan HK was established in Hong Kong on July 28, 2021.
+Also
+on October 1, 2024, Hongyuan HK entered into a series of agreements including a Shareholders’ Voting Rights Entrustment Agreement,
+an Exclusive Management Consulting and Service Agreement and a Share Pledge Agreement (collectively the “Agreements”) with
+Fengcuiyuan Chang Technology Development Co., Ltd (“Fengcuiyuan”) and its registered owners (the “Transaction”).
+Fengcuiyuan is a corporation formed under the laws of the PRC on September 3, 2021, in which Xudong Li (the majority shareholder of the
+Company) controls 95% of its equity interest. Fengcuiyuan owns 98% of Rongcheng (Sichuan) Supply Chain Management Co., Ltd (“Rongcheng”),
+a corporation formed under the laws of the PRC located in Chengdu, Sichuan, China, incorporated on April 17, 2024. On November 12, 2024,
+Chongqing Xuchang Qingrong Trading Co., Ltd. (“Xuchang”) located in Chongqing, Sichuan, China, was formed as a 55% subsidiary
+of Rongcheng.
+According
+to the Agreements, Hongyuan HK assumed financial and operating control of Fengcuiyuan. As a result, Hongyuan HK has been determined to
+have a controlling financial interest in Fengcuiyuan, requiring Hongyuan HK to consolidate the financial statements of Fengcuiyuan and
+its subsidiaries, and ultimately consolidate with its parent company, Hong Yuan. The Transaction was accounted for as a reorganization
+of entities under common control. As the combining entities have been under common control since September 2021, the consolidated financial
+statements of the Company recognized the assets and liabilities received in the reorganization at their historical carrying amounts,
+as reflected in the historical financial statements of each entity.
+The
+Company, through its subsidiary and the Agreements with Fengcuiyuan, focuses on supply chain management services, is mainly engaged in
+the wholesale and internet sales of fast-moving consumer goods such as food, daily necessities, and electronic products, covering diversified
+fields such as pre-packaged food, agricultural and by-products, and household goods.
+We
+have not yet generated sustained profits from our prior operations. Our independent accountants have expressed a “going concern”
+opinion. As of December 31, 2024, we had an accumulated deficit of $97,784,280 and a net working capital deficit of $243,326.
+While
+our current burn rate is nominal, it is expected that our costs of operations will continue to exceed revenues, primarily due to the
+costs associated with being a public reporting company. Based upon our current business plan, we may continue to incur losses in the
+foreseeable future and there can be no assurances that we will ever establish profitable operations. These and other factors raise substantial
+doubt about our ability to continue as a going concern.
+Critical
+Accounting Policies, Judgments and Estimates
+Our
+discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which
+have been prepared in accordance with U.S. Generally Accepted Accounting Principles (“GAAP”). The preparation of these consolidated
+financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities,
+revenues and expenses, and the related disclosure of contingent assets and liabilities. We base our estimates on historical experience
+and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ
+from these estimates.
+An
+accounting policy is considered to be critical if it requires an accounting estimate to be made based on assumptions about matters that
+are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used, or changes in
+the accounting estimate that are reasonably likely to occur, could materially impact the consolidated financial statements. We believe
+that the following critical accounting policies reflect the more significant estimates and assumptions used in the preparation of the
+consolidated financial statements.
+Revenue
+Recognition
+ASU
+No. 2014-09, Revenue from Contracts with Customers (“Topic 606”), became effective for the Company on January
+1, 2018 and were adopted using the modified retrospective method. The adoption of the new revenue standards as of January 1, 2018 did
+not change the Company’s revenue recognition as there were no revenues during the period.
+Under
+the new revenue standards, the Company recognizes revenues when its customer obtains control of promised goods or services, in an amount
+that reflects the consideration which it expects to receive in exchange for those goods. The Company recognizes revenues following the
+five step model prescribed under ASU No. 2014-09: (i) identify contract(s) with a customer; (ii) identify the performance obligations
+in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract;
+and (v) recognize revenues when (or as) we satisfy the performance obligation.
+9
+Accounts
+receivable
+The
+Company reviews accounts receivable periodically for collectability and establishes an allowance for doubtful accounts and records bad
+debt expense when deemed necessary. Our allowance for doubtful accounts is maintained to provide for losses arising from customers’
+inability to make required payments. If there is deterioration of our customers’ credit worthiness and/or there is an increase
+in the length of time that the receivables are past due greater than the historical assumptions used, additional allowances may be required.
+The Company has no allowance for doubtful accounts as of December 31, 2024 and 2023, respectively.
+Income
+Taxes
+The
+Company follows the asset and liability method of accounting for future income taxes. Under this method, future income tax assets and
+liabilities are recorded based on temporary differences between the carrying amount of assets and liabilities and their corresponding
+tax basis. In addition, the future benefits of income tax assets including unused tax losses, are recognized, subject to a valuation
+allowance to the extent that it is more likely than not that such future benefits will ultimately be realized. Future income tax assets
+and liabilities are measured using enacted tax rates and laws expected to apply when the tax liabilities or assets are to be either settled
+or realized. The Company’s effective tax rate approximates the Federal statutory rates.
+Results
+of Operations for the Year Ended December 31, 2024 compared to the Year Ended December 31, 2023
+Revenue
+was $245,572 in 2024 compared to Nil in 2023. The increase in revenue was mainly due to the consolidation of the Chinese VIEs under common
+control which started generating revenue in the second quarter of 2024.
+Cost
+of goods sold was $152,675 in 2024 compared to Nil in 2023 due to no revenue in the same period last year as explained above.
+Operating
+expenses were $189,198 and $154,476 for 2024 and 2023, respectively, an increase of $34,722 or 22.5%. The increase was mainly due to
+the increase in general and administrative expenses, partly offset by the slight decrease in professional fees. The increase in general
+and administrative expenses in 2024 was mainly due to the increase in rent expense, personnel expense, and office expense.
+During
+the year ended December 31, 2024, the Company incurred a net loss of $96,437, compared to a net loss of $154,464 during the year ended
+December 31, 2023, a decrease of $58,027 or 37.6%. The decrease in net loss in 2024 was primarily due to the increase in gross profit
+as a result of the Chinese VIEs starting to generate revenue, partly offset by the increase in operating expenses.
+Liquidity
+and Capital Resources
+As
+of December 31, 2024 and 2023, we had a cash balance of $46,291 and $5,983 respectively. During 2023 and 2024, the company’s operations
+are primarily funded by the Company’s CEO and major shareholder and the minority owners of the Chinese VIEs.
+To
+the extent that the Company’s capital resources are insufficient to meet current or planned operating requirements, the Company
+will seek additional funds through equity or debt financing, collaborative or other arrangements with corporate partners, licensees or
+others, and from other sources, which may have the effect of diluting the holdings of existing shareholders. The Company has no current
+arrangements with respect to, or sources of, such additional financing and the Company does not anticipate that existing shareholders
+will provide any portion of the Company’s future financing requirements. Mr. Xudong, the CEO and principal shareholder of the Company,
+would favorably entertain funding, through loans, corporate expenses for approximately 24 months. Any loans by Mr. Xudong would be on
+an interest-free basis, documented by a promissory note and payable only upon consummation of a business combination transaction. Upon
+consummation of a business combination, we or the target may reimburse Mr. Xudong for any such loans from funds furnished by the target.
+We have no written agreement with Mr. Xudong to advance any further funds for future operating expense, therefore there is no assurance
+that such funds from Mr. Xudong will be forth coming, if required.
+No
+assurance can be given that additional financing will be available when needed or that such financing will be available on terms acceptable
+to the Company. If adequate funds are not available, the Company may be required to delay or terminate expenditures for certain of its
+programs that it would otherwise seek to develop and commercialize. This would have a material adverse effect on the Company. These factors
+raise substantial doubt about the ability of the Company to continue as a going concern.
+Operating
+Activities
+For
+the year ended December 31, 2024, net cash used in operating activities was $89,582. This was primarily due to the net loss of $96,437,
+adjusted by non-cash related expenses including depreciation of $1,356, and then increased by favorable changes in working capital of
+$5,499. The favorable changes in working capital mainly resulted from an increase in accounts payable and accrued liabilities of $36,418,
+an increase in tax payable of $4,281, and an increase in due to related party of $37,609, offset by an increase in accounts receivable
+of $11,540, an increase in inventory of $44,378, and an increase in prepaid expense and other receivables of $16,891..
+For
+the year ended December 31, 2023, net cash used in operating activities was $111,866. This was primarily due to the net loss of $154,464,
+adjusted by non-cash related expenses including depreciation of $1,378, and then increase by favorable changes in working capital of
+$41,220. The favorable changes in working capital mainly resulted from an increase in due to related party of $40,484.
+Investing
+Activities
+We
+neither generated nor used cash in investing activities during the year ended December 31, 2024 and 2023.
+10
+Financing
+Activities
+For
+the year ended December 31, 2024 and 2023, net cash provided by financing activities were proceeds from capital contribution received
+by Chinese VIEs of $130,634 and $106,314 respectively.
+Going
+Concern
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As shown in the accompanying
+financial statements, we have incurred net losses of $96,437 and $154,464 for the year ended December 31, 2024 and 2023, respectively,
+and have a working capital deficit of $243,326 as of December 31, 2024, in addition to a stockholders’ deficit of $168,802 which
+raise substantial doubt about the Company’s ability to continue as a going concern.
+Management
+believes the Company will continue to incur losses and negative cash flows from operating activities for the foreseeable future and will
+need additional equity or debt financing to sustain its operations until it can achieve profitability and positive cash flows, if ever.
+Management plans to seek additional debt and/or equity financing for the Company but cannot assure that such financing will be available
+on acceptable terms.
+The
+Company’s continuation as a going concern is dependent upon its ability to ultimately attain profitable operations, generate sufficient
+cash flow to meet its obligations, and obtain additional financing as may be required. Our auditors have included a “going concern”
+qualification in their Report of Independent Certified Public Accountants accompanying our audited financial statements appearing elsewhere
+herein which cites substantial doubt about our ability to continue as a going concern. Such a “going concern” qualification
+may make it more difficult for us to raise funds when needed. The outcome of this uncertainty cannot be assured.
+The
+accompanying financial statements do not include any adjustments that might result from the outcome of this uncertainty. There can be
+no assurance that management will be successful in implementing its business plan or that the successful implementation of such business
+plan will actually improve our operating results.
+Off
+Balance Sheet Arrangements
+We
+have not entered into any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our
+financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or
+capital resources and would be considered material to investors.
+Inflation
+We
+do not believe that inflation has had in the past or will have in the future any significant negative impact on our operations.
+Item 7A
+Quantitative
+And Qualitative Disclosures About Market Risk.
+This
+item does not apply to smaller reporting companies.
+Item 8
+Financial
+Statements And Supplementary Data.
+Our
+financial statements appear beginning on page F-1, immediately following the signature page of this report.
+Item 9
+Changes In
+And Disagreements With Accountants On Accounting And Financial Disclosure.
+On
+May 5, 2024, the Company terminated its relationship with its independent registered public accounting firm, BF Borgers CPA PC (“BF
+BORGERS”). On May 9, 2024, the Company engaged Olayinka Oyebola & C0, Chartered Accountants (“Olayinka”), as BF
+Borgers’ replacement. The decision to change independent registered public accounting firms was made with the recommendation and
+approval of the Company’s Board of Directors.
+On
+February 26, 2025, the board of directors of the Company terminated its relationship with its independent registered public accounting
+firm, Olayinka, and approved the engagement of Aloba, Awomolo & Partners, Chartered Accountants (“Aloba”) to serve as
+the Company’s independent registered public accounting firm.
+There
+has never been any disagreement with any independent registered public accounting firm that has worked for the Company regarding accounting
+and financial disclosure.
+Item 9A
+Controls
+And Procedures.
+Disclosure
+Controls and Procedures
+Based
+upon an evaluation of the effectiveness of our disclosure controls and procedures performed by our Chief Executive Officer as of the
+end of the period covered by this report, our Chief Executive Officer concluded that our disclosure controls and procedures have not
+been effective as a result of a weakness in the design of internal control over financial reporting identified below.
+11
+As
+used herein, “disclosure controls and procedures” mean controls and other procedures of our company that are designed to
+ensure that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act is recorded,
+processed, summarized and reported, within the time periods specified in the Commission’s rules and forms. Disclosure controls
+and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us
+in the reports that we file or submit under the Securities Exchange Act is accumulated and communicated to our management, including
+our principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions
+regarding required disclosure.
+Management’s
+Annual Report on Internal Control over Financial Reporting
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting (“ICFR”), as such term
+is defined in Exchange Act Rule 13a-15(f) under the Securities Exchange Act of 1934. Our Chief Executive Officer/Chief Accounting Officer
+conducted an evaluation of the effectiveness of our ICFR based on the framework in Internal Control-Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission (“COSO 2013”). Based on management’s evaluation under
+the framework, management has concluded that our ICFR was not effective as of December 31, 2023.
+We
+identified material weaknesses in our ICFR primarily attributable to (i) lack of segregation of incompatible duties, and (ii) insufficient
+Board of Directors representation. These weaknesses are attributed to our inadequate staffing during the period covered by this report
+and our limited working capital, which hindered our ability to hire additional staff. Management has retained an outside, independent
+financial consultant to record and review all economic data, as well as prepare our financial reports, to mitigate this weakness. Although
+management will periodically re-evaluate this situation, at this point, it considers that the risk associated with such a lack of segregation
+of duties and the potential benefits of adding employees to segregate such duties are not cost justified. We intend to hire additional
+accounting personnel to assist with financial reporting as soon as our finances will allow.
+This
+annual report does not include an attestation report of our registered public accounting firm regarding ICFR. Management’s report
+was not subject to attestation by our registered public accounting firm pursuant to the temporary rules of the Securities and Exchange
+Commission that permit us to provide only management’s report in this annual report.
+Item 9B.
+Other Information
+Not
+applicable
+PART
+III
+Item 10
+Directors
+And Executive Officers And Corporate Governance.
+The
+following table sets forth the names and ages of all directors and executive officers as of the end of the last fiscal year and on the
+date of this report:
+Name
+Age
+Position
+Since
+Xudong Li
+62
+President, CFO, Secretary
+and Director
+Nov. 3, 2020
+Zhang Haosong
+47
+Director
+Nov. 3, 2020
+Xudong
+Li, has served as a director, President, and Chief Executive Officer of the Company since November 2020. Mr. Xudong is a highly active
+business consultant in China. From 2017 to 2019, he served as the General Consultant at Sichuan Commodities Exchange. He also served
+as a consultant at Tianjin Commodities Exchange for the same period of time. From 2014 to 2016, he served as the General Consultant at
+Shaanxi Jeer Health Industry Group. The company, located in Shaanxi, Ankang City, also known as Chinese Selenium Valley, focuses on the
+R&D, production, and sales of Selenium.
+Zhang
+Haosong has been a director of the Company since November 2020. He previously worked at China Life Insurance as a special assistant
+to the chairman and general manager of one of its large company groups. He has over six years of experience in domestic and international
+listing counseling. He also has expertise in corporate management consulting, equity investments and financing, VIE structure processing,
+listed company acquisitions, mergers and acquisitions and restructuring. Over the past five years, he has served as a consultant to numerous
+private and listed companies, as well as Sino-foreign joint ventures. Mr. Zhang attended the École de Commerce de Brest, France,
+where he received an MBA.
+Each
+of our directors’ primary qualifications for serving in this role involves their extensive experience with various aspects of counseling
+and reviewing opportunities for acquiring businesses for their clients.
+Audit
+Committee
+The
+Company does not presently have an Audit Committee and the entire Board acts in such capacity for the immediate future due to the limited
+size of the Board. The Company intends to increase the size of its Board in the future, at which time it may appoint an Audit Committee.
+12
+In
+lieu of an Audit Committee the Board is empowered to make such examinations as are necessary to monitor the corporate financial reporting
+and the external audits of The Company, to provide to the Board of Directors (the “Board”) the results of its examinations
+and recommendations derived there from, to outline to the Board improvements made, or to be made, in internal control, to nominate independent
+auditors, and to provide to the Board such additional information and materials as it may deem necessary to make the Board aware of significant
+financial matters that require Board attention.
+Compensation
+Committee
+The
+Company does not presently have a Nominating Committee and the Board acts in such capacity for the immediate future due to the limited
+size of the Board. The Company intends to increase the size of its Board in the future, at which time it may appoint a Compensation Committee.
+The
+Compensation Committee will be authorized to review and make recommendations to the Board regarding all forms of compensation to be provided
+to the executive officers and directors of the Company, including stock compensation, and bonus compensation to all employees.
+Nominating
+Committee
+The
+Company does not have a Nominating Committee and the Board acts in such capacity.
+Code
+of Conduct and Ethics
+To
+date, we have not adopted a Code of Ethics applicable to our principal executive officer and principal financial officer because the
+Company has no meaningful operations. The Company does not believe that a formal written code of ethics is necessary at this time.
+Item 11
+Executive
+Compensation.
+The
+following tables set forth certain information about compensation paid, earned, or accrued for services by the Company’s Chief
+Executive Officer in the years ended December 31, 2024, 2023, and 2022:
+Summary
+Compensation Table
+Name and Principal Position
+Year
+Salary ($)
+Bonus ($)
+Stock Awards ($)
+Option Awards ($)
+Non-Equity Incentive Plan Compensation ($)
+Change in Pensions Value and Nonqualified Deferred Compensation Earnings ($)
+All Other Compensation ($)
+Total ($)
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+Li Xudong
+2024
+-
+-
+-
+-
+-
+-
+-
+-
+CEO
+2023
+-
+-
+-
+-
+-
+-
+-
+2022
+-
+-
+-
+-
+-
+-
+-
+Employment
+Agreement
+We
+do not have any employment agreements with our officers.
+Director’s
+Compensation
+Currently,
+we do not compensate our directors for attending meetings of the Board of Directors.
+Item 12.
+Security
+Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+The
+following table sets forth, as of December 31, 2024, the number and percentage of the outstanding shares of common stock, which, according
+to the information available to us, were beneficially owned by:
+(i)
+each
+person who is currently a director,
+13
+(ii)
+each
+executive officer,
+(iii)
+all
+current directors and executive officers as a group, and
+(iv)
+each
+person who is known by us to own beneficially more than 5% of our outstanding common stock.
+Except
+as otherwise indicated, the persons named in the table have sole voting and dispositive power with respect to all shares beneficially
+owned, subject to community property laws where applicable.
+Name and Address of Beneficial Owner (1)
+Number of Common Shares
+Percent of Class
+Xudong Li, President, CFO, Secretary, and Director
+50,000,000
+67.0%
+Zhang Haosong, Director
+-0-
+-0-
+All executive officers, beneficial owners, and directors as a group (2)
+50,000,000
+67.0%
+(1)
+c/o Room 2707,
+Global Mansion, Zhengbian Road, Jishui District, Zhengzhou City, Henan Provence 450000 China
+The
+following table sets forth information as of the date of this report regarding the beneficial ownership of the Company’s Series
+A-1 Preferred Stock by each of its executive officers and directors, individually and as a group and by each person who beneficially
+owns in excess of five percent of the class of stock after giving effect to any exercise of warrants or options held by that person.
+Name and Position
+Shares Owned
+Percent of Class(1)
+Voting Percentage (3)
+Xudong Li, President, Chief Executive Officer, Director (2)
+5,000,000
+100%
+91%
+Zhang Haosong, Director
+-
+-
+-
+All Officers and directors as a Group (2 persons)
+5,000,000
+100%
+91%
+(1)
+Based
+on 5,000,000 shares of Series A-1 Preferred Stock (“Preferred Stock”) outstanding, which, voting together as a class,
+have the right to vote 100 shares for each share of Preferred Stock owned of the Company’s voting shares on any and all shareholder
+matters (the “Majority Voting Rights”). Additionally, as long as at least an aggregate of 1,000,000 shares of Preferred
+Stock are outstanding, the Company shall not, without the approval of the holders of at least a majority of the then outstanding
+shares of Preferred Stock, alter or change the provisions of the Certificate of Incorporation so as to adversely affect the voting
+powers, preferences or special rights of the Preferred Stock. However, the Company may, by any means authorized by law and without
+any vote of the holders of shares of Series A Preferred Stock, make technical, corrective, administrative or similar changes to such
+Certificate of Designations that do not, individually or in the aggregate, adversely affect the rights or preferences of the holders
+of shares of Preferred Stock. Other than the Majority Voting Rights.
+(2)
+The
+address of the officers and directors of the Company is set forth above under the first table of this section.
+Item 13
+Certain
+Relationships And Related Transactions, And Director Independence.
+During
+the year ended December 31, 2024, the Company’s current majority shareholder advanced $37,609 to the Company as working capital.
+As of December 31, 2024 and 2023, the Company owed its current majority shareholder of $251,889 including $64,103 for acquisition of
+Hongyuan HK, and $150,175, respectively. The advances are non-interest bearing and are due on demand.
+Director
+Independence
+The
+Board currently consists of two members, one of whom, Zhang Haosong, meets the independence requirements of the Nasdaq Stock Market as
+presently in effect.
+To
+date, we have not adopted a Code of Ethics applicable to our principal executive officer and principal financial officer. The Company
+does not believe that a formal written code of ethics is necessary at this time. We expect that the Company will adopt a code of ethics
+if and when the board of directors deems it is required.
+Our
+directors will serve until the next annual meeting of shareholders or until their successors are duly elected and have qualified. Officers
+hold their positions at the pleasure of the board of directors, absent any employment agreement, of which none currently exists or is
+contemplated. There is no arrangement or understanding between any person pursuant to which any director or officer was or is to be selected
+as a director or officer, and there is no arrangement, plan or understanding as to whether non-management shareholders will exercise
+their voting rights to continue to elect directors to our board. There are also no arrangements, agreements or understandings between
+non-management shareholders that may directly or indirectly participate in or influence the management of our affairs. Our Board of Directors
+does not have any committees at this time.
+14
+Potential
+Conflicts of Interest
+Since
+we do not have an audit or compensation committee comprised of independent directors or any independent directors on our board, the functions
+that such committees would have performed are performed by our directors. Thus, there is a potential conflict of interest, as our directors
+and officers have the authority to determine issues concerning management compensation and audit matters that may impact management decisions.
+We have disclosed throughout this Annual Report all potential Conflicts of interest involving the Company’s executive officers
+as disclosed in Notes to Financial Statements. We are not aware of any other conflicts of interest with any of our executives or directors.
+Item 14
+Principal
+Accountant Fees And Services.
+On
+February 26, 2025, the board of directors of Hong Yuan Holding Group (the “Company”) terminated its relationship with its
+independent registered public accounting firm, Olayinka Oyebola & Co (“Olayinka”). Olayinka was only retained by the
+Company for less than a year, and no reports were filed with the SEC. During the period that Olayinka was the Company’s auditor
+through February 26, 2025, there were no disagreements with Olayinka on any matter of accounting principles or practices, financial statement
+disclosure, or auditing scope or procedure, which, if not resolved to the satisfaction of Olayinka, would have caused Olayinka to refer
+to the matter in its reports on the Company’s financial statements for such periods.
+On
+February 26, 2025, the Company, based on the decision of its board of directors, approved the engagement of Aloba, Awomolo & Partners,
+Chartered Accountants (“Aloba”) to serve as the Company’s independent registered public accounting firm, commencing
+February 26, 2025. Aloba is a member of the Public Company Accounting Oversight Board (PCAOB) in the United States.
+The
+following is a summary of the fees billed to us for professional services rendered by our registered independent public accountants for
+the fiscal years ended December 31, 2024, and December 31, 2023:
+Fiscal year ended December 31,
+2024
+2023
+Audit Fees
+$21,520
+$15,500
+Audit Related Fees
+-
+-
+Tax Fees
+-
+-
+All Other Fees
+-
+-
+$21,520
+$15,500
+Audit
+Fees. Consists of fees billed for professional services rendered for the audit of our financial statements and review of interim financial
+statements included in quarterly reports, and services that are normally provided in connection with statutory and regulatory filings
+or engagements.
+Audit
+Related Fees. Consists of fees billed for assurance and related services that are reasonably related to the performance of the audit
+or review of our financial statements and are not reported under “Audit Fees”.
+Tax
+Fees. Consists of fees billed for professional services for tax compliance, tax advice, and tax planning. These services include preparing
+federal and state income tax returns.
+All
+Other Fees. Consists of fees for products and services other than the services reported above.
+Board
+of Directors’ Pre-Approval Policies
+We
+do not currently have a standing audit committee, and as a result, our Board of Directors (BOD) performs the duties of the audit committee.
+Our Board of Directors (BOD) evaluates and approves, in advance, the scope and cost of the engagement of an accounting firm before the
+accounting firm renders audit and non-audit services. We do not rely on pre-approval policies and procedures.
+15
+PART
+IV
+ITEM 15
+EXHIBITS
+AND FINANCIAL STATEMENT SCHEDULES.
+(a)
+The following
+documents have been filed as part of this Annual Report on Form 10-K.
+1.
+Financial
+Statements
+Years
+Ended December 31, 2024, and 2023
+Page
+Report of Independent Registered Public Accounting Firm (PCAOB ID 7275)
+F-1
+Balance Sheets as of December 31, 2024, and 2023
+F-2
+Statements of Operations for the Years Ended December 31, 2024, and 2023
+F-3
+Statements of Shareholders’ Deficit for the Years Ended December 31, 2024 and 2023
+F-4
+Statements of Cash Flows for the Years Ended December 31, 2024, and 2023
+F-5
+Notes to Financial Statements
+F-6
+2.
+Financial
+Statement Schedules.
+All
+schedules are omitted because they are not applicable, or not required, or because the required information is included in the Financial
+Statements or the Notes thereto.
+3.
+Exhibits.
+The following exhibits are filed as part of, or incorporated by reference into, this Annual Report:
+Exhibit
+No.
+Description
+3.1*
+Articles of Incorporation and Amendment thereto.
+3.2*
+Bylaws
+10.1*
+Securities Purchase Agreement between Custodian ventures, LLC and Xudong Li dated October 22, 2020
+23.1
+Consent of Independent Registered Public Accounting Firm
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13a-14 or Rule 15d-14 of Securities Exchange Act of 1934.
+32.1
+Certification of Chief Executive Officer pursuant to Section 906 of Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+101.INS
+Inline
+XBRL Instance Document
+101.SCH
+Inline
+XBRL Taxonomy Extension Schema
+101.CAL
+Inline
+XBRL Taxonomy Extension Calculation
+101.DEF
+Inline
+XBRL Taxonomy Extension Definition
+101.LAB
+Inline
+XBRL Taxonomy Extension Label
+101.PRE
+Inline
+XBRL Taxonomy Extension Presentation
+104
+Inline
+XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.
+*
+Previously
+filed
+16
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+Date:
+July 3, 2025
+By:
+/s/ Li
+Xudong
+Li
+Xudong
+Chief
+Executive Officer
+(Principal
+Executive Officer
+In
+accordance with the Exchange Act, this report has been signed below by the following persons on behalf of the registrant and in the capacities
+indicated on July 3, 2025
+Signature
+Title
+/s/
+Li Xudong
+Chief Executive Officer
+and a Director
+Li Xudong
+(Principal Executive Officer)
+/s/
+Zhang Haosong
+Director
+Zhang Haosong
+17
+ALOBA,
+AWOMOLO & PARTNERS
+(Chartered
+Accountants)
+Floor
+4, Providence Court, Ajibade Bus Stop, Beside CocaCola Ibadan, Oyo State, Nigeria
+Tel:
+08055439586, 08034725835
+Email:
+audits@alobaawomolo.org; alobaawomolopartners@gmail.com; website: www.alobaawomolo.org
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To
+the Board of Directors and Stockholders of Hong Yuan Holding Group
+Opinion
+on the Financial Statements
+We
+have audited the accompanying balance sheet of Hong Yuan Holding Group (the Group) as of December 31, 2024, and the related statements
+of income, stockholders’ equity, and cash flows for the period ended December 31, 2024, and the related notes (collectively referred
+to as the financial statements). The financial statements of Hong Yuan Holding Group (the Group) as of December 31, 2023 were audited
+by other auditors whose report, dated April 8, 2024 expressed an unqualified opinion on those financial statements.
+In
+our opinion, the financial statements present fairly, in all material respects, the financial position of the Group as of December 31,
+2024, and the results of its operations and its cash flows for the period ended December 31, 2024, in conformity with accounting principles
+generally accepted in the United States of America.
+Substantial
+Doubt about the Group’s Ability to Continue as a Going Concern
+The
+accompanying consolidated financial statements have been prepared assuming that the Group will continue as a going concern. As discussed
+in Note 3 to the financial statements, the Group incurred a net loss of $98,844 and has an accumulated deficit of $97,784,280. In addition,
+the Group had negative working capital and total stockholders’ deficit of $168,802. These matters raise substantial doubt about
+its ability to continue as a going concern. Management’s plans in regard to these matters are also described in Note 3. The financial
+statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Group’s management. Our responsibility is to express an opinion on the consolidated
+Group’s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting
+Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Group in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Group
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Group’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion.
+Critical
+Audit Matters
+Critical
+audit matters are matters arising from the current period audit of the consolidated financial statements that were communicated or required
+to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements
+and (2) involved our especially challenging, subjective, or complex judgments. We determined that there were no critical audit matters.
+Aloba,
+Awomolo & Partners – PCAOB ID #7275
+We
+have served as the Group’s auditor since 2025.
+Ibadan,
+Nigeria
+June
+24, 2025
+F-1
+HONG YUAN HOLDING GROUP
+Consolidated Balance Sheets
+December 31,
+December 31,
+2024
+2023
+ASSETS
+Current Assets
+Cash and cash equivalents
+$46,291
+$5,983
+Accounts receivable, net
+11,376
+-
+Inventory
+43,748
+-
+Prepaid expense and other receivable
+27,601
+11,257
+Total Current Assets
+129,016
+17,240
+Property and equipment, net of accumulated
+557
+1,947
+Right of use assets
+93,091
+-
+TOTAL ASSETS
+$222,664
+$19,187
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current Liabilities
+Accounts payable and accrued liabilities
+$42,260
+$6,487
+Operating lease liabilities - Current
+73,967
+-
+Tax payable
+4,228
+8
+Due to related party
+251,887
+150,175
+Total Current Liabilities
+372,342
+156,670
+Operating lease liabilities - Noncurrent
+19,124
+-
+TOTAL LIABILITIES
+391,466
+156,670
+Commitments and contingencies
+-
+-
+Stockholders’ Deficit
+Series A-1 Preferred stock: 5,000,000 shares authorized; $0.001 par value 5,000,000 issued and
+outstanding at December 31, 2024 and 2023
+5,000
+5,000
+Common stock: 2,000,000,000 shares authorized; $0.001 par value 74,640,766 shares issued and
+outstanding at December 31, 2024 and 2023
+74,641
+74,641
+Additional Paid-in Capital
+97,471,393
+97,466,278
+Statutory surplus reserve
+314
+-
+Accumulated other comprehensive income
+1,478
+1,720
+Accumulated deficit
+(97,784,280)
+(97,685,122)
+Total Hong Yuan Holding Group Stockholders’ Deficit
+(231,454)
+(137,483)
+Non-controlling interests
+62,652
+-
+Total stockholders’ equity
+(168,802)
+(137,483)
+TOTAL LIABILITIES AND STOCKHOLDERS’ DEFICIT
+$222,664
+$19,187
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-2
+HONG
+YUAN HOLDING GROUP
+Consolidated
+Statements of Operations
+2024
+2023
+Year Ended
+December 31,
+2024
+2023
+Revenue
+$245,572
+$-
+Cost of revenue
+152,675
+-
+Gross Profit
+92,897
+-
+Operating Expenses
+General and administrative
+152,343
+114,954
+Professional fees
+36,855
+39,522
+Total Operating Expenses
+189,198
+154,476
+Operating loss
+(96,301)
+(154,476)
+Other Income and Expense
+Interest income
+18
+12
+Other Income
+153
+-
+Total other income (expense)
+171
+12
+Net loss before taxes
+(96,130)
+(154,464)
+Provision for income taxes
+307
+-
+Net loss before non-controlling interests
+$(96,437)
+$(154,464)
+Net income attributable to non-controlling interests
+2,407
+-
+Net loss attributable to Hong Yuan Holding Group
+(98,844)
+(154,464)
+Other comprehensive income (loss)
+(242)
+-
+Comprehensive Loss
+$(99,086)
+$(154,464)
+Basic and dilutive net loss per common share
+$(0.00)
+$(0.00)
+Weighted average number of common shares outstanding - basic and diluted
+74,640,766
+74,640,766
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-3
+HONG
+YUAN HOLDING GROUP
+STATEMENTS
+OF STOCKHOLDERS’ EQUITY
+Preferred
+Stock
+Common
+Stock
+Additional
+Statutory
+Accumulated
+Other Comprehensive
+Non-
+Total
+Number
+of Shares
+Par
+Value
+Number
+of Shares
+Par
+Value
+Paid-in
+Capital
+surplus
+reserve
+Income
+(Loss)
+Accumulated
+Deficit
+controlling
+Interests
+Stockholders’
+Deficit
+Balance - December
+31, 2022
+5,000,000
+$5,000
+74,640,766
+$74,641
+$97,186,036
+$-
+$-
+$(97,377,201)
+$-
+$
+(111,524
+)
+Retroactive consolidation
+of VIE under common control
+-
+-
+-
+-
+280,242
+-
+-
+(153,457)
+-
+126,785
+Net loss
+-
+-
+-
+-
+-
+-
+-
+(154,464)
+-
+(154,464
+)
+Accumulated other comprehensive
+income
+-
+-
+-
+-
+-
+-
+1,720
+-
+-
+1,720
+Balance - December 31, 2023
+5,000,000
+$5,000
+74,640,766
+$74,641
+$97,466,278
+$-
+$1,720
+$(97,685,122)
+$-
+$
+(137,483
+)
+Balance
+5,000,000
+$5,000
+74,640,766
+$74,641
+$97,466,278
+$-
+$1,720
+$(97,685,122)
+$-
+$
+(137,483
+)
+Acquisition of subsidiary
+under common control
+-
+-
+-
+-
+(64,103)
+-
+-
+-
+-
+(64,103
+)
+Consolidation of VIE with
+non-controlling interests
+-
+-
+-
+-
+69,218
+-
+-
+-
+60,211
+129,429
+Net loss
+-
+-
+-
+-
+-
+314
+-
+(99,158)
+2,407
+(96,437
+)
+Accumulated other comprehensive
+income
+-
+-
+-
+-
+-
+-
+(242)
+-
+34
+(208
+)
+Balance - December 31, 2024
+5,000,000
+$5,000
+74,640,766
+$74,641
+$97,471,393
+$314
+$1,478
+$(97,784,280)
+$62,652
+$
+(168,802
+)
+Balance
+5,000,000
+$5,000
+74,640,766
+$74,641
+$97,471,393
+$314
+$1,478
+$(97,784,280)
+$62,652
+$
+(168,802
+)
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-4
+HONG YUAN HOLDING GROUP
+Consolidated Statements of Cash Flows
+2024
+2023
+Year Ended
+December 31,
+2024
+2023
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss
+$(96,437)
+$(154,464)
+Adjustments to reconcile net income to net cash provided by operating activities:
+-
+-
+Depreciation expense
+1,356
+1,378
+Lease expense
+58,535
+-
+Changes in operating assets and liabilities:
+-
+Accounts receivable
+(11,540)
+-
+Inventory
+(44,378)
+-
+Prepaid expense and Other Receivables
+(16,891)
+380
+Accounts payable and accrued liabilities
+36,418
+362
+Operating lease payment
+(58,535)
+-
+Tax payable
+4,281
+(6)
+Due to related party
+37,609
+40,484
+Net Cash Provided by (Used in) Operating Activities
+(89,582)
+(111,866)
+CASH FLOWS FROM INVESTING ACTIVITIES
+-
+-
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from capital contribution
+130,634
+106,314
+Net Cash Provided by Financing Activities
+130,634
+106,314
+EFFECT OF EXCHANGE RATE CHANGE ON CASH & CASH EQUIVALENTS
+(744)
+(324)
+Net change in cash and cash equivalents
+40,308
+(5,876)
+Cash and cash equivalents, beginning of period
+5,983
+11,859
+Cash and cash equivalents, end of period
+$46,291
+$5,983
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for income taxes
+$-
+$-
+Cash paid for interest
+$-
+$-
+NON-CASH INVESTING AND FINANCING ACTIVITIES
+Right of use asset and related liability
+$148,401
+$-
+Acquisitions of subsidiary under common control
+$64,103
+$-
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-5
+HONG
+YUAN HOLDING GROUP
+NOTES
+TO FINANCIAL STATEMENTS
+Note
+1 – Organization
+Hong
+Yuan Holding Group (“We”, “the Company”, “Hong Yuan”) was incorporated on September 29, 2001 in the
+State of Nevada under the name of Biocorp North America Inc. On March 18, 2005, we filed an amendment to our certificate of incorporation
+to change our name to Cereplast, Inc.
+On
+February 10, 2014, the Company, filed a voluntary petition for relief under Chapter 11 of Title 11 of the United States Bankruptcy Code
+in the United States Bankruptcy Court for the Southern District of Indiana (the “Bankruptcy Court “). On February 14, 2014,
+the Company filed a motion in the Bankruptcy Court seeking to convert the Company’s Chapter 11 Case to a Chapter 7 bankruptcy case.
+On March 27, 2014, the court granted the Company’s motion and on that date the Company’s Chapter 11 Case was converted to
+a Chapter 7 case. As a result, the Company adopted liquidation basis of accounting on the discontinued operations according to ASC 205-30
+“Presentation of Financial Statements – Liquidation Basis of Accounting”, accordingly the accumulated deficit generated
+prior to bankruptcy proceedings remained unadjusted.
+On
+January 31, 2014, the Board of Directors of Cereplast, Inc. (the “Company”) approved a 1-for-50 reverse split (the “Reverse
+Split) which was previously approved by the shareholders on April 5, 2013 and previously disclosed on Current Report Form 8-K filed on
+April 5, 2013.
+On
+February 3, 2014, Cereplast, Inc. (the “Company”) filed a Certificate of Amendment to its Articles of Incorporation to effect
+the reverse split (the “Reverse Split”), effective as of February 21, 2014.
+On
+March 22, 2019, the eight judicial District Court of Nevada appointed Custodian Ventures, LLC as custodian for Cereplast, Inc., proper
+notice having been given to the officers and directors of Cereplast, Inc. There was no opposition.
+On
+June 04, 2019, the Company filed a certificate of revival with the state of Nevada, appointing David Lazar as, President, Secretary,
+Treasurer and Director.
+On
+October 4, 2019, the Company issued 50,000,000 shares of common stock to Custodian Ventures, LLC at par for shares valued at $50,000
+in exchange for settlement of a portion of a related party loan for amounts advanced to the Company in the amount of $20,100, and a note
+receivable due to the Company in the amount of $29,900. The note bears an interest of 3% and matures in 180 days following written demand
+by the holder.
+On
+April 14, 2020, Custodian Ventures elected to convert the total amount of the 510 shares of Series A preferred stock into 510 shares
+of common stock.
+On
+April 15, 2020, the Board of directors of the Company approved the withdrawal of the certificate of designation of 5,000,000 shares of
+Series A Preferred stock filed with the Nevada Secretary of State on August 24, 2012, as amended by the Amendment to Certificate of Designation
+after issuance of Class or Series filed with the Nevada Secretary of State on April 13, 2020.
+On
+May 1, 2020, the Company created 5,000,000 shares of series A-1 preferred stock with par value $0.001. On May 4, 2020, the Company issued
+5,000,00 shares of the Series A-1 Preferred stock valued at $5,000 to Custodian Ventures LLC as repayment funds loaned to the Company.
+A
+change of control of the Company was completed on November 3, 2020, control was obtained by the sale of 50,000,000 common shares and
+$5,000,000 Series A-1 Preferred Shares from Custodian Ventures, LLC to Xudong Li. After November 3, 2020, the Company’s operations
+are determined and structured by the new major shareholder.
+On
+November 18, 2020, the Company filed an amendment to its certificate of incorporation to change its name to Hong Yuan Holding Group.
+The
+Company is a development stage enterprise devoting substantial efforts to establishing a new business, financial planning, raising capital,
+and research into products which may become part of the Company’s product portfolio. The Company has not realized significant sales
+since inception. A development stage company is defined as one in which all efforts are devoted substantially to establishing a new business
+and, even if planned principal operations have commenced, revenues are insignificant.
+On
+October 1, 2024, The Company entered into an agreement to acquire from Xudong Li (the majority shareholder of the Company) 100% equity
+interest of Hongyuan International Holding Group Co., Ltd. (“Hongyuan HK”) in exchange for HK $500,000 (approximately $64,103)
+or issuing the equivalent value of the Company’s common stocks, payable upon the completion of changing registered owner with the
+Administration for Industrial and Commerce. Hongyuan HK was established in Hong Kong on July 28, 2021.
+F-6
+Also
+on October 1, 2024, Hongyuan HK entered into a series of agreements including a Shareholders’ Voting Rights Entrustment Agreement,
+an Exclusive Management Consulting and Service Agreement and a Share Pledge Agreement (collectively the “Agreements”) with
+Fengcuiyuan Chang Technology Development Co., Ltd (“Fengcuiyuan”) and its registered owners (the “Transaction”).
+Fengcuiyuan is a corporation formed under the laws of the PRC on September 3, 2021, in which Xudong Li (the majority shareholder of the
+Company) controls 95% of its equity interest. Fengcuiyuan owns 98% of Rongcheng (Sichuan) Supply Chain Management Co., Ltd (“Rongcheng”),
+a corporation formed under the laws of the PRC located in Chengdu, Sichuan, China, incorporated on April 17, 2024. On November 12, 2024,
+Chongqing Xuchang Qingrong Trading Co., Ltd. (“Xuchang”) located in Chongqing, Sichuan, China, was formed as a 55% subsidiary
+of Rongcheng.
+According
+to the Agreements, Hongyuan HK assumed financial and operating control of Fengcuiyuan. As a result, Hongyuan HK has been determined to
+have a controlling financial interest in Fengcuiyuan, requiring Hongyuan HK to consolidate the financial statements of Fengcuiyuan and
+its subsidiaries, and ultimately consolidate with its parent company, Hong Yuan. The Transaction was accounted for as a reorganization
+of entities under common control. As the combining entities have been under common control since September 2021, the consolidated financial
+statements of the Company recognized the assets and liabilities received in the reorganization at their historical carrying amounts,
+as reflected in the historical financial statements of each entity.
+The
+Company, through its subsidiary and the Agreements with Fengcuiyuan, focuses on supply chain management services, is mainly engaged in
+the wholesale and internet sales of fast-moving consumer goods such as food, daily necessities, and electronic products, covering diversified
+fields such as pre-packaged food, agricultural and by-products, and household goods.
+The
+accompanying financial statements have been prepared assuming the continuation of the Company as a going concern. The Company has not
+yet established an ongoing source of revenues sufficient to cover its operating costs and is dependent on debt and equity financing to
+fund its operations. Management of the Company is making efforts to raise additional funding until a registration statement relating
+to an equity funding facility is in effect. While management of the Company believes that it will be successful in its capital formation
+and planned operating activities, there can be no assurance that the Company will be able to raise additional equity capital, or be successful
+in the development and commercialization of the products it develops or initiates collaboration agreements thereon. The accompanying
+financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of
+assets or the amounts and classification of liabilities that may result from the possible inability of the Company to continue as a going
+concern.
+Note
+2 – Summary of significant accounting policies
+Basis
+of Presentation
+This
+summary of significant accounting policies of the Company (a development stage company) is presented to assist in understanding the Company’s
+financial statements. These accounting policies conform to accounting principles generally accepted in the United States of America and
+have been consistently applied in the preparation of the accompanying financial statements. The Company has realized insignificant revenues
+from its planned principal business purpose and, accordingly, is considered to be in its development stage in accordance with Financial
+Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic No. 915 (SFAS No. 7). The
+Company has elected a fiscal year end of December 31.
+Principles
+of Consolidation
+The
+consolidated financial statements include the accounts of the Company, its subsidiary and variable interest entity (“VIE”)
+for which the Company is the primary beneficiary. All inter-company accounts and transactions have been eliminated in consolidation.
+In
+determining Fengcuiyuan is a VIE of Hongyuan HK, the Company considered the following indicators, among others:
+1.
+Hongyuan
+HK enjoys exclusive and non-competitive rights to intellectual property rights and licensing arising from the performance of the
+Agreements, and controls and administers the financial affairs and daily operation of Fengcuiyuan. The registered owners of Fengcuiyuan
+as a group have no right to make any decision about Fengcuiyuan’s activities without the consent of Hongyuan HK.
+2.
+Hongyuan
+HK is assigned all voting rights of Fengcuiyuan and has the right to appoint all directors and senior management personnel of Fengcuiyuan.
+The registered owners of Fengcuiyuan possess no substantive voting rights.
+3.
+The
+registered owners of Fengcuiyuan have pledged their shares in Fengcuiyuan as collateral to secure these Agreements.
+4.
+The
+Agreements are valid for 10 years. Termination is prohibited by Fengcuiyuan and its registered owners, making termination within
+the control of the Company.
+5.
+Hongyuan
+HK is entitled to a management consulting and service fee based on the workload and commercial value of the technical services provided
+at a price agreed upon by both parties, has the right to adjust the consulting service fee standards at any time based on the quantity
+and content of the services provided to Fengcuiyuan. Therefore, Hongyuan HK is the primary beneficiary of Fengcuiyuan.
+Use
+of Estimates
+The
+preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ
+significantly from those estimates.
+F-7
+Cash
+and Cash Equivalents
+For
+purposes of reporting within the statements of cash flows, the Company considers all cash on hand, cash accounts not subject to withdrawal
+restrictions or penalties, and all highly liquid debt instruments purchased with a maturity of three months or less to be cash and cash
+equivalents.
+Property
+and Equipment
+Property
+and equipment are stated at cost less accumulated depreciation. Major repairs and betterments that significantly extend original useful
+lives or improve productivity are capitalized and depreciated over the period benefited. Maintenance and repairs are expensed as incurred.
+When property and equipment are retired or otherwise disposed of, the related cost and accumulated depreciation are removed from the
+respective accounts, and any gain or loss is included in operations. Depreciation of property and equipment is provided using the straight-line
+method for substantially all assets with estimated lives as follows:
+Schedule
+of Estimated Useful Lives of Property and Equipment
+Machinery
+& equipment
+10
+years
+Automobile
+4
+years
+Office
+equipment
+3
+years
+Lease
+ASC
+Topic 842, “Leases” requires recognition of leases on the balance sheets as right-of-use (“ROU”) assets
+and lease liabilities. ROU assets represent the Company’s right to use underlying assets for the lease terms and lease liabilities
+represent the Company’s obligation to make lease payments arising from the leases. Operating lease ROU assets and operating lease
+liabilities are recognized based on the present value and future minimum lease payments over the lease term at commencement date. The
+Company’s future minimum lease payments used to determine the Company’s lease liabilities mainly include minimum lease rent
+payments. Leases with a lease term of 12 months or less at inception are not recorded on the Company’s balance sheet and are expensed
+on a straight-line basis over the lease term in the Company’s statement of operations. As most of the Company’s leases do
+not provide an implicit rate, the Company uses its estimated incremental borrowing rate based on the information available at commencement
+date in determining the present value of lease payments. The Company’s incremental borrowing rate is a hypothetical rate based
+on its understanding of what its credit rating would be.
+Stock-Based
+Compensation
+The
+Company accounts for stock-based compensation in accordance with ASC 718 Compensation - Stock Compensation (“ASC 718”). ASC
+718 addresses all forms of share-based payment (“SBP”) awards including shares issued under employee stock purchase plans
+and stock incentive shares. Under ASC 718 awards result in a cost that is measured at fair value on the awards’ grant date, based
+on the estimated number of awards that are expected to vest and will result in a charge to operations.
+Loss
+per Share
+Basic
+earnings (loss) per share are computed by dividing income available to common shareholders by the weighted-average number of common shares
+available. Diluted earnings (loss) per share is computed similar to basic earnings per share except that the denominator is increased
+to include the number of additional common shares that would have been outstanding if the potential common shares had been issued and
+if the additional common shares were dilutive. The Company’s diluted loss per share is the same as the basic loss per share for
+the years ended December 31, 2024 and 2023, as there are no potential shares outstanding that would have a dilutive effect.
+Income
+Taxes
+Income
+tax expense is based on pretax financial accounting income. Deferred tax assets and liabilities are recognized for the expected tax consequences
+of temporary differences between the tax bases of assets and liabilities and their reported amounts. Valuation allowances are recorded
+to reduce deferred tax assets to the amount that will more likely than not be realized. The Company recorded a valuation allowance against
+its deferred tax assets as of December 31, 2024 and 2023.
+The
+Company accounts for uncertainty in income taxes using a two-step approach to recognizing and measuring uncertain tax positions. The
+first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more
+likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any.
+The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. The
+Company classifies the liability for unrecognized tax benefits as current to the extent that the Company anticipates payment (or receipt)
+of cash within one year. Interest and penalties related to uncertain tax positions are recognized in the provision for income taxes.
+F-8
+Note
+3 - Going Concern
+The
+accompanying financial statements have been prepared assuming the continuation of the Company as a going concern. The Company has not
+yet established an ongoing source of revenues sufficient to cover its operating costs and is dependent on debt and equity financing to
+fund its operations. Management of the Company is making efforts to raise additional funding until a registration statement relating
+to an equity funding facility is in effect. While management of the Company believes that it will be successful in its capital formation
+and planned operating activities, there can be no assurance that the Company will be able to raise additional equity capital or be successful
+in the development and commercialization of the products it develops or initiates collaboration agreements thereon. The accompanying
+financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of
+assets or the amounts and classification of liabilities that may result from the possible inability of the Company to continue as a going
+concern.
+Note
+4 - Property and Equipment
+Property
+and equipment consist of:
+Schedule
+of Property and Equipment
+December 31,
+December 31,
+2024
+2023
+Office Equipment
+$4,011
+$4,123
+Total
+4,011
+4,123
+Less: accumulated depreciation
+(3,454)
+(2,176)
+Property and equipment, net
+$557
+$1,947
+Note
+5 – Leases
+On
+April 10, 2024, Fengcuiyuan entered into an operating lease agreement to rent an office. The lease has an original term of 2 years expiring
+April 24, 2026.
+Balance
+sheet information related to the Company’s leases is presented below:
+Schedule
+of Balance Sheet Information Related to Company’s Leases
+December 31 2024
+Operating Leases
+Operating lease right-of-use assets
+$93,091
+Operating lease liabilities - current
+73,967
+Operating lease liability – non-current
+19,124
+Total operating lease liabilities
+$93,091
+The
+following provides details of the Company’s lease expenses:
+Schedule
+of Company’s Lease Expenses
+2024
+2023
+Year Ended December 31,
+2024
+2023
+Operating lease expense
+$58,535
+$-
+Other
+information related to leases is presented below:
+Schedule
+of Other Information Related to Leases
+Year Ended
+December 31, 2024
+Cash Paid For Amounts Included In Measurement of Liabilities:
+Operating cash flows from operating leases
+$58,535
+Weighted Average Remaining Lease Term:
+Operating leases
+1.32 years
+Weighted Average Discount Rate:
+Operating leases
+5.6%
+Maturities
+of lease liabilities were as follows:
+Schedule
+of Maturities of Lease Liabilities
+For the 12 months ending December 31:
+2025
+$76,939
+2026
+19,235
+Total lease payments
+96,174
+Less: imputed interest
+(3,083)
+Total lease liabilities
+93,091
+Less: current portion
+(73,967)
+Lease liabilities – non-current portion
+$19,124
+F-9
+Note
+6 – Related party transaction
+During
+the year ended December 31, 2024, the Company’s current majority shareholder advanced $37,609 to the Company as working capital.
+As of December 31, 2024 and 2023, the Company owed its current majority shareholder of $251,889 including $64,103 for acquisition of
+Hongyuan HK, and $150,175, respectively. The advances are non-interest bearing and are due on demand.
+Note
+7 – Common stock
+At
+December 31, 2024, the Company is authorized to issue 2,000,000,000 shares of $0.001 par value common stock.
+As
+of December 31, 2024, a total of 74,640,766 shares of common stock with par value $0.001 remain outstanding.
+Note
+8 – Preferred stock
+As
+of December 31, 2024, a total of 5,000,000 shares of Series A-1 preferred stock with par value $0.001 remain outstanding.
+NOTE
+9 – Income Taxes
+The
+Company is subject to taxation in the United States (USA) and its subsidiaries were incorporated in China and are governed by the Income
+Tax Law of China.
+Deferred
+taxes represent the net tax effects of the temporary differences between the carrying amounts of assets and liabilities for financial
+reporting purposes. Temporary differences result primarily from the recording of tax benefits of net operating loss carry forwards.
+As
+of December 31, 2024, the Company has an insufficient history to support the likelihood of ultimate realization of the benefit associated
+with the deferred tax asset. Accordingly, a valuation allowance has been established for the full amount of the net deferred tax asset.
+The
+provision for income taxes consists of the following:
+SCHEDULE
+OF PROVISION FOR INCOME TAXES
+2024
+2023
+Year Ended December 31,
+2024
+2023
+Current:
+USA
+$-
+$-
+China
+307
+-
+Deferred:
+USA
+-
+-
+China
+-
+-
+Provision for income taxes
+$307
+$-
+F-10
+The
+Company’s effective income tax rate differs from the amount computed by applying the federal statutory income tax rate to loss
+before income taxes for the years ended December 31, 2024, and 2023 as follows:
+SCHEDULE
+OF EFFECTIVE INCOME TAX RATE RECONCILIATION
+2024
+2023
+Year Ended December 31,
+2024
+2023
+Income tax benefit at federal statutory rate (21%)
+(20,187)
+(32,437)
+Difference in foreign income tax rates
+12,308
+24,096
+Change in valuation allowance
+8,187
+8,341
+Provision for income taxes
+307
+-
+The
+components of deferred taxes consist of the following at December 31, 2024 and 2023:
+SCHEDULE
+OF DEFERRED TAX ASSETS AND LIABILITIES
+December 31,
+2024
+December 31,
+2023
+Net operating loss carryforwards
+$20,465,740
+$20,457,553
+Less: valuation allowance
+(20,465,740)
+(20,457,553)
+Net deferred tax assets
+$-
+$-
+Uncertain
+Tax Positions
+Interest
+associated with unrecognized tax benefits is classified as income tax, and penalties are classified as selling, general, and administrative
+expenses in the statements of operations. As of December 31, 2023, and 2024, the Company had no unrecognized tax benefits and related
+interest and penalty expenses. Currently, the Company is not subject to examination by major tax jurisdictions.
+Note
+10 – Subsequent Event
+In
+June 2025, we changed our business model. Rongcheng relinquished its 55% ownership in Xuchang, but will still fund the opening of stores
+operated by Xuchang. The investment funds for stores will be recovered as loans in the future from the stores’ profits.
+F-11

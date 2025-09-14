@@ -1,0 +1,1427 @@
+false
+2025
+FY
+0001949864
+0001949864
+2024-05-01
+2025-04-30
+0001949864
+2025-04-30
+0001949864
+2025-07-23
+0001949864
+2024-04-30
+0001949864
+2023-05-01
+2024-04-30
+0001949864
+us-gaap:CommonStockMember
+2023-04-30
+0001949864
+us-gaap:AdditionalPaidInCapitalMember
+2023-04-30
+0001949864
+us-gaap:RetainedEarningsMember
+2023-04-30
+0001949864
+2023-04-30
+0001949864
+us-gaap:CommonStockMember
+2024-04-30
+0001949864
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-30
+0001949864
+us-gaap:RetainedEarningsMember
+2024-04-30
+0001949864
+us-gaap:CommonStockMember
+2023-05-01
+2024-04-30
+0001949864
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-01
+2024-04-30
+0001949864
+us-gaap:RetainedEarningsMember
+2023-05-01
+2024-04-30
+0001949864
+us-gaap:CommonStockMember
+2024-05-01
+2025-04-30
+0001949864
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-01
+2025-04-30
+0001949864
+us-gaap:RetainedEarningsMember
+2024-05-01
+2025-04-30
+0001949864
+us-gaap:CommonStockMember
+2025-04-30
+0001949864
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-30
+0001949864
+us-gaap:RetainedEarningsMember
+2025-04-30
+0001949864
+2025-06-04
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+[X] Annual Report pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+For the fiscal year ended April 30, 2025
+or
+[ ] Transition Report pursuant to Section 13
+or 15(d) of the Securities Exchange Act of 1934
+For the transition period from __________ to __________
+Commission file number 333-268561
+MAG MAGNA CORP
+(Exact name of registrant as specified in its
+charter)
+Wyoming
+98-1626237
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+Room 2318, Anxiaowo Apartment, Huaqiang Square,
+Fuhai Sub-District, Bao’an District,
+Shenzhen City, Guangdong Province, China, 518000
+(Address of principal executive offices, including Zip Code)
+Registrant’s telephone number, including area code: +86 17823500944
+325 W Washington St Ste 2877, San Diego, CA 92103
+(Former address, if changed since last report)
+Securities registered under Section 12(b) of the Exchange Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+None
+N/a
+N/a
+Securities registered under Section 12(g) of the Exchange Act:
+None
+(Title of Class)
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ]      No [X]
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes [ ]       No [X]
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+Yes [X]       No [ ]
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+Yes [ ]       No [X]
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment
+to this Form 10-K.
+Yes [ ]       No [X]
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large
+accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company”
+in Rule 12b-2 of the Exchange Act:
+Large accelerated filer
+[   ]
+Accelerated filer
+[   ]
+Non-accelerated filer
+[X]
+Smaller reporting company
+[X]
+(Do not check if a smaller reporting company)
+Emerging growth company
+[X]
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 7(a)(2)(B) of the Securities Act. [ ]
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. [ ]
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. [ ]
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes [ ]       No [X]
+As
+of April 30, 2025, the last business day of the registrant’s most recently completed fiscal year, the aggregate market value of
+the registrant’s common stock held by non-affiliates of the registrant was $0.
+State the number of shares outstanding of each of
+the issuer's classes of common equity, as of the latest practicable date: 5,829,047 common shares issued and outstanding as of July
+23, 2025.
+TABLE OF CONTENTS
+Page
+PART I
+Item 1.
+Business.
+4
+Item 1A.
+Risk Factors.
+5
+Item 1B.
+Unresolved Staff Comments.
+5
+Item 1C.
+Cybersecurity.
+5
+Item 2.
+Properties.
+5
+Item 3.
+Legal Proceedings.
+5
+Item 4.
+Mine Safety Disclosures.
+5
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+6
+Item 6.
+[Reserved]
+6
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+6
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk.
+9
+Item 8.
+Financial Statements and Supplementary Data.
+9
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+25
+Item 9A.
+Controls and Procedures.
+25
+Item 9B.
+Other Information.
+26
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+26
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance.
+26
+Item 11.
+Executive Compensation.
+28
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+28
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence.
+29
+Item 14.
+Principal Accounting Fees and Services.
+29
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules.
+30
+Item 16.
+Form 10–K Summary.
+30
+Signatures
+31
+3
+PART I
+Item 1. Business.
+Mag Magna Corp is a company that was incorporated
+on September 20, 2021. The Company's primary focus lies in assisting and consulting businesses engaged in poultry farming. The corporation's
+purpose is to introduce and promote alternative methods of raising chickens without the use of antibiotics. The Company has developed
+formulas for feed additives using natural ingredients and advanced technologies. The Company aims to share its expertise with other firms
+by promoting alternative approaches to chicken farming that prioritize sustainability.
+The Company provides consulting expertise in the following
+areas:
+Poultry farming optimization, including data analysis, planning, and environmental impact.
+Optimization of bird feeding processes.
+Transitioning to antibiotic-free practices.
+IT product integration, covering software, strategic decision consulting, software acquisitions,
+and integration.
+Disease prevention and management.
+Egg production and quality improvement.
+Implementing sustainable practices in poultry farming, such as waste management, renewable
+energy integration, and resource sustainability.
+Poultry genetics and breeding strategies.
+Financial management of poultry farming, including budgeting, financial analysis, insurance,
+and risk management.
+To access our consultancy services, users are required
+to purchase a subscription plan based on the topics selected via our website (https://magmagna.com/). Available consultancy sets include
+single-topic consultations and packages of 3, 5, or 7 topics. Subscriptions must comply with our Terms of Service, and refunds are not
+provided.
+Mag Magna Corp has partnered with Ipax LLC (“Ipax”),
+a Wyoming company. Under a Patent License and Assignment Agreement signed on November 15, 2022, Ipax provided the company with the formula
+and advisory services.
+On October 23, 2023, the
+Company received the notice of effectiveness from the Securities Exchange Commission. This event is expected to have a positive impact
+on the Company's financial condition and results of operations.
+On February 27, 2024, the Company entered into Application
+Programming Interface (“API”) Development Agreement to develop the Poultry Wellness Guide API to facilitate the management
+and monitoring of poultry health and well-being. Since June 2024, Mag Magna Corp has introduced the Poultry Wellness Guide API on website
+and began selling Subscription Plans for API services. The Poultry Wellness Guide API is an AI-powered tool designed to assist in diagnosing
+and managing chicken diseases based on breed and symptoms, offering expert recommendations for prevention and treatment. The service covers
+a variety of 12 common chicken breeds. It provides users with instant access to a comprehensive database that includes detailed information
+on symptoms, potential causes, and effective management strategies for each breed-specific condition. To access Poultry Wellness Guide
+API, a subscription purchase is required. The appropriate Subscription Plan for API service determined based on the amount of requests
+per month. Subscription plans are detailed and available
+for review on our website (https://magmagna.com/). On our website, users can try the Free Trial version (3 requests per day). Subscriptions
+must comply with our Terms of Service, and refunds are not provided.
+4
+Employees
+As of April 30, 2025, there were two members of the
+board, Oleg Bilinski, Director, President, Chief Executive Officer (“CEO”), Treasurer,
+and Secretary, and Tomasz Anczok, Director.
+Offices
+Our business
+office is located at Room 2318, Anxiaowo Apartment, Huaqiang Square, Fuhai Sub-District, Bao’an District, Shenzhen City, Guangdong
+Province, China, 518000. Our telephone number is +86 17823500944.
+Item 1A.  Risk Factors.
+Not applicable for smaller reporting companies.
+Item 1B. Unresolved Staff Comments.
+Not applicable for smaller reporting companies.
+Item 1C. Cybersecurity.
+The Company is subject to various laws and rules issued
+by multiple government agencies concerning the safeguarding and maintaining the confidentiality of its security, customer, and business
+information. We are committed to protecting the confidentiality, integrity, and availability of our information systems and data.
+The Board of Directors maintains oversight of our
+cybersecurity risks. The Company receives regular updates from management regarding cybersecurity program, including risk assessments,
+incident response capabilities, and the effectiveness of controls. Management is responsible for assessing and managing our material cybersecurity
+risks, as well as for the development and implementation of our cybersecurity policies, procedures, and controls, and are responsible
+for reporting on the program's status and any material cybersecurity incidents to the Board of Directors.
+As of the date of this report, we are not aware of
+any risks from cybersecurity threats, including as a result of any previous cybersecurity incidents, that have materially affected or
+are reasonably likely to materially affect us, including our business strategy, results of operations, or financial condition.
+Item 2.  Properties.
+We do not own any real estate or other properties.
+Item 3.  Legal Proceedings.
+We know of no legal proceedings to which we are a party or to which any
+of our property is the subject which are pending, threatened or contemplated or any unsatisfied judgments against us.
+Item 4.  Mine Safety Disclosures.
+Not applicable.
+5
+PART II
+Item 5. Market for Registrant’s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information
+The Company's
+common stock is quoted on the OTCQB Market under the trading symbol "MGNC".
+Number of Holders
+As of April 30, 2025, the 5,829,047 issued and outstanding
+shares of common stock were held by a total of 51 shareholder of record.
+Dividends
+We have never declared or paid, and do not anticipate
+declaring or paying, in the foreseeable future, any cash dividends on our capital stock. We currently intend to retain all available funds
+and any future earnings to support our operations and finance the growth and development of our business. Any future determination related
+to our dividend policy will be made at the discretion of our board of directors and will depend upon, among other factors, our results
+of operations, financial condition, capital requirements, contractual restrictions, business prospects and other factors our board of
+directors may deem relevant.
+Recent Sales of Unregistered Securities
+The company has 75,000,000, $0.001 par value shares
+of common stock authorized.
+During the year ended April 30, 2024, the company
+issued 1,329,047 shares of common stock for cash proceeds of $33,226 at $0.025 per share.
+There were 5,829,047 and 5,829,047 shares of common
+stock issued and outstanding as of April 30, 2025 and 2024, respectively.
+Other Stockholder Matters
+None.
+Item 6. [Reserved]
+Item 7. Management's Discussion and Analysis of
+Financial Condition and Results of Operations.
+Statements made in this Form 10-K that are not historical
+or current facts are "forward-looking statements" made pursuant to the safe harbor provisions of Section 27A of the Securities
+Act of 1933 (the “Act”) and Section 21E of the Securities Exchange Act of 1934. These statements often can be identified by
+the use of terms such as “may”, “will”, “expect”, “believe”, “anticipate”,
+“estimate”, “approximate” or “continue”, or the negative thereof. We intend that such forward-looking
+statements be subject to the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking
+statements, which speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur
+in the future. However, forward-looking statements are subject to risks, uncertainties and important factors beyond our
+6
+control that could cause actual results and events
+to differ materially from historical results of operations and events and those presently anticipated or projected. We disclaim any obligation
+subsequently to revise any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect
+the occurrence of anticipated or unanticipated events.
+RESULTS OF OPERATIONS
+Year ended April 30, 2025 compared to April
+30, 2024
+Revenues
+During the years ended April 30, 2025 and 2024, we
+have generated total revenue of $49,905 and $5,600, respectively. For the year ended April 30, 2025, the revenue was received from the
+sale of consulting services and API requests. For the year ended April 30, 2024, the revenue was received from the sale of consulting
+services.
+The reason for the increase in sales for the year
+ended April 30, 2025 compared to the year ended April 30, 2024 was that the company began selling its services in October 2023.
+Operating Expenses
+Total operating expenses for the year ended April
+30, 2025 were $102,161 compared to $56,475 for the year ended April 30, 2024. Expenses increased in the year ended April 30, 2025 primarily
+due to the consulting services, marketing services, SEO services, professional fees and server expense. Professional fees primarily increased
+due to legal and audit fees. Server expense increased due to the fact that the server was rented in February 2024.
+Other Income (Expenses)
+Total other income for the years ended April 30, 2025
+and 2024 was $2 and $22, respectively. The other income included interest income.
+Net Losses
+The net loss for the year ended April 30, 2025, was
+$52,254, compared to $50,853 for the year ended April 30, 2024, due to the factors discussed above.
+Liquidity and Capital Resources
+As of April 30, 2025, our total assets were $144,297,
+which comprised of prepaid expenses of $25,975, and intangible assets of $118,322. Our total liabilities were $227,595, which comprised
+accounts payable of $396, deferred income of $5,272 and a Loan Payable due to our former director of $221,927.
+As of April 30, 2024, our total assets were $86,772,
+which comprised of prepaid expenses of $73,600, and intangible assets of $13,172. Our total liabilities were $117,816, which comprised
+accounts payable of $12,447 and a Loan Payable due to our former director of $105,369.
+Stockholders’ deficit has increased from $31,044
+as of April 30, 2024 to $83,298 as of April 30, 2025.
+7
+The company has accumulated a deficit of $121,024
+as of April 30, 2025, compared to $68,770 as of April 30, 2024, and further losses are anticipated in the development of its business.
+During the year ended April 30, 2025, the Company
+used $61,558 of cash in operating activities due to its net loss of $52,254, amortization expense of $15,950, increase in prepaid expenses
+of $18,475, decrease in accounts payable of $12,051 and increase in deferred income of $5,272.
+During the year ended April 30, 2025, the Company
+used $55,000 of cash in investing activities due to an increase in intangible assets.
+Net cash flows provided by financing activities for
+the year ended April 30, 2025, were $116,558 due to net proceeds from the related party loan.
+During the year ended April 30, 2024, the company
+used $107,971 of cash in operating activities due to its net loss of $50,853, amortization expense of $4,034, increase in prepaid expenses
+of $73,600 and increase in accounts payable of $12,448.
+We had no cash flows used in or provided by investing activities for the
+year ended April 30, 2024.
+Net cash flows provided by financing activities for
+the year ended April 30, 2024, were $107,971 due to net proceeds from the related party loan ($74,745) and share
+issuance ($33,226).
+Critical Accounting Policies and Significant Judgments
+and Estimates
+Use of Estimates
+The preparation of financial statements in conformity
+with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+Revenue Recognition
+The Company recognizes revenue in accordance with
+Accounting Standards Codification (“ASC”) 606, “Revenue from Contracts with Customers”. The core principle of
+ASC 606 is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects
+the consideration to which the entity expects to be entitled in exchange for those goods or services.
+An entity recognizes revenue in accordance with that
+core principle by applying the following steps: Step 1: Identify the contract with the customer. Step 2: Identify the performance obligations
+in the contract. Step 3: Determine the transaction price. Step 4. Allocate the transaction price. Step 5: Recognize revenue when (or as)
+the entity satisfies a performance obligation.
+The Company generates revenue primarily from two sources:
+(1) providing Poultry Farming Consultancy services, and (2) sales of subscription plans for its API service.
+(1) The revenue for our Poultry Farming Consultancy
+is acknowledged at a specific moment when the consulting services are completed and delivered in accordance with contractual terms. The
+company assumes no responsibility for any inability to fulfill obligations arising from circumstances beyond reasonable control. Our liability
+is restricted to the cumulative sum of payments made by the customer for services specified in the invoice. We may request deposits from
+clients before delivering services upon order placement. If deposits are obtained
+8
+before providing services, the consultancy acknowledges
+deferred revenue until the service delivery is completed. Payment is typically received prior to the delivery of materials. During the
+year ended April 30, 2025, we have generated revenue from the providing of our Poultry Farming Consultancy services in the amount
+of $23,726. The services were provided by the Company’s CEO.
+(2) The Subscription Plan for API service is provided
+on the basis of the amount of requests per month. The service covers a variety of 12 common chicken breeds. It provides users with an
+access to a comprehensive database that includes detailed information on symptoms, potential causes, and effective management strategies
+for each breed-specific condition. To access Poultry Wellness Guide API, a subscription purchase is required. Subscriptions must comply
+with our Terms of Service. Subscription revenue for the API service is recognized ratably over the subscription period. Subscription payments
+are received in advance of the service period. Such advance payments are recorded as deferred income upon receipt and are recognized as
+revenue on a straight-line basis over the subscription period the service is provided, reflecting the transfer of control and continuous
+delivery of the service to the customer. During the year ended April 30, 2025, we have generated revenue from the sale of API requests
+in the amount of $26,179.
+Off-Balance Sheet Arrangements
+As of April 30, 2025, we did not have any off-balance
+sheet arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, changes
+in financial condition, revenues or expenses, results of operations liquidity, capital expenditures or capital resources.
+Limited Operating History and Need for Additional
+Capital
+There is no historical financial information about
+us upon which to base an evaluation of our performance. We are in start-up stage operations and have generated limited revenues. Our business
+is subject to risks inherent in the establishment of a new business enterprise, including limited capital resources and possible cost
+overruns due to price and cost increases in services and products.
+We have no assurance that future financing will be
+available to us on acceptable terms. If financing is not available on satisfactory terms, we may be unable to continue, develop or expand
+our operations. Equity financing could result in additional dilution to existing shareholders.
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk.
+Not applicable for smaller reporting companies.
+Item 8. Financial Statements and Supplementary
+Data.
+9
+INDEX TO AUDITED FINANCIAL STATEMENTS
+MAG MAGNA CORP
+Page
+Report of Independent Registered Public Accounting Firm (id: 6258)
+11-12
+Balance Sheets as of April 30, 2025 and 2024
+13
+Statements of Operations for the years ended April 30, 2025 and 2024
+14
+Statements of Changes in Stockholders’ Equity (Deficit) for the years ended April 30, 2025 and 2024
+15
+Statements of Cash Flows for the years ended April 30, 2025 and 2024
+16
+Notes to the Financial Statements
+17
+10
+Report of Independent Registered Public Accounting
+Firm
+Board of Directors and Shareholders
+Mag Magna Corp
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets of Mag Magna Corp as of
+April 30, 2025 and 2024, and the related statements of operations, changes in stockholders’ equity (deficit), and cash flows for
+the years then ended and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of Mag Magna Corp as of April 30, 2025 and 2024, and the results
+of its operations and its cash flows for each of the two years in the period ended April 30, 2025, in conformity with accounting principles
+generally accepted in the United States of America.
+Going Concern
+The accompanying financial statements have been prepared assuming that
+the entity will continue as a going concern. As discussed in Note 2 to the financial statements, the entity has an accumulated deficit
+and uses net cash for their operating activities and operates at a net loss, all of which raise substantial doubt about its ability to
+continue as a going concern. Management's plans in regard to these matters are also described in Note 2. The financial statements do not
+include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility of the entity’s
+management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting
+firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent
+with respect to Mag Magna Corp in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities
+and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. Mag Magna Corp is not required to have, nor were we engaged to perform, an audit
+of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control
+over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control over financial
+reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+11
+Critical Audit Matters
+Critical audit matters are matters arising from the current period audit
+of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts
+or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+We determined that there are no critical audit matters.
+/s/ Mac Accounting Group & CPAs, LLP
+We have served as Mag Magna Corp's auditor since 2024.
+Midvale, Utah
+July 23, 2025
+12
+MAG MAGNA CORP
+BALANCE SHEETS
+As of April 30, 2025 and 2024
+As of April 30, 2025
+As of April 30, 2024
+ASSETS
+Current Assets
+Prepaid Expense
+$
+25,975
+$
+73,600
+Total Current Assets
+25,975
+73,600
+Other Assets
+Intangible Assets, net
+118,322
+13,172
+Total Other Assets
+118,322
+13,172
+TOTAL ASSETS
+$
+144,297
+$
+86,772
+LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+Liabilities
+Current Liabilities
+Accounts Payable
+$
+396
+$
+12,447
+Deferred Income
+5,272
+-
+Loan Payable – Related Party
+221,927
+105,369
+Total Current Liabilities
+227,595
+117,816
+Total Liabilities
+227,595
+117,816
+Stockholders’ Equity (Deficit)
+Common stock, $0.001 par value, 75,000,000 shares authorized,
+5,829,047 and 5,829,047 shares issued and outstanding at April 30, 2025 and 2024, respectively
+5,829
+5,829
+Additional Paid-in Capital
+31,897
+31,897
+Accumulated Deficit
+(121,024)
+(68,770)
+Total Stockholders’ Equity (Deficit)
+(83,298)
+(31,044)
+TOTAL LIABILITIES & STOCKHOLDERS’ EQUITY (DEFICIT)
+$
+144,297
+$
+86,772
+The accompanying notes are an integral part
+of these financial statements.
+13
+MAG MAGNA CORP
+STATEMENTS OF OPERATIONS
+For the years ended April 30, 2025 and 2024
+Year ended
+April 30, 2025
+Year ended
+April 30, 2024
+Revenues:
+Consulting services
+$
+23,726
+$
+5,600
+API requests
+26,179
+-
+TOTAL REVENUE
+49,905
+5,600
+OPERATING EXPENSES
+General and administrative expenses
+102,161
+56,475
+TOTAL OPERATING EXPENSES
+102,161
+56,475
+INCOME (LOSS) FROM OPERATIONS
+(52,256)
+(50,875)
+OTHER INCOME (EXPENSE)
+Interest income
+2
+22
+TOTAL OTHER INCOME (EXPENSE)
+2
+22
+NET INCOME (LOSS)
+$
+(52,254)
+$
+(50,853)
+NET INCOME (LOSS) PER SHARE
+$
+(0.01)
+$
+(0.01)
+WEIGHTED AVERAGE NUMBER OF SHARES
+OUTSTANDING: BASIC AND DILUTED
+5,829,047
+4,883,855
+The accompanying notes are an integral part
+of these financial statements.
+14
+MAG MAGNA CORP
+STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+(DEFICIT)
+For the years ended April 30, 2025 and 2024
+Common Stock
+Additional Paid-in Capital
+Accumulated Deficit
+Total Stockholders’ Equity (Deficit)
+Shares
+Amount
+Balance at April 30, 2023
+4,500,000
+$
+4,500
+$
+-
+$
+(17,917)
+$
+(13,417)
+Sales of common stock at $0.025 per share
+1,329,047
+1,329
+31,897
+-
+33,226
+Net loss
+-
+-
+-
+(50,853
+(50,853)
+Balance at April 30, 2024
+5,829,047
+$
+5,829
+$
+31,897
+$
+(68,770)
+$
+(31,044)
+Net loss
+-
+-
+-
+(52,254)
+$
+(52,254)
+Balance at April 30, 2025
+5,829,047
+$
+5,829
+$
+31,897
+$
+(121,024)
+$
+(83,298)
+The accompanying notes are an integral part
+of these financial statements.
+15
+MAG MAGNA CORP
+STATEMENTS OF CASH FLOWS
+For the years ended April 30, 2025 and 2024
+Year ended
+April 30, 2025
+Year ended
+April 30, 2024
+OPERATING ACTIVITIES:
+Net income (loss)
+$
+(52,254)
+$
+(50,853)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Amortization expense
+15,950
+4,034
+Changes in operating assets and liabilities:
+Prepaid expense
+(18,475)
+(73,600)
+Accounts payable
+(12,051)
+12,448
+Deferred income
+5,272
+-
+NET CASH USED IN OPERATING ACTIVITIES
+(61,558)
+(107,971)
+INVESTING ACTIVITIES:
+Intangible Assets
+(55,000)
+-
+NET CASH USED IN INVESTING ACTIVITIES
+(55,000)
+-
+FINANCING ACTIVITIES:
+Proceeds from loan payable – related party
+170,707
+126,348
+Repayments to loan payable – related party
+(54,149)
+(51,603)
+Proceeds from share issuance
+-
+33,226
+NET CASH PROVIDED BY FINANCING ACTIVITIES
+116,558
+107,971
+Net increase (decrease) in cash
+-
+-
+Cash at beginning of period
+-
+-
+Cash at end of period
+$
+-
+$
+-
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash payments for:
+Interest paid
+$
+-
+$
+-
+Income taxes paid
+$
+-
+$
+-
+Non-cash investing and financing activities:
+Reclassification of Prepaid Expense to Intangible Assets
+$
+66,100
+$
+9,000
+The accompanying notes are an integral part
+of these financial statements.
+16
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+1. THE COMPANY AND BASIS OF PRESENTATION
+Mag Magna Corp (“the Company”) was incorporated
+under the laws of the State of Wyoming, U.S. on September 20, 2021 (Incorporation). The Company's primary focus lies in assisting and
+consulting businesses engaged in poultry farming. The corporation's purpose is to introduce and promote alternative methods of raising
+chickens without the use of antibiotics.
+The Company has elected April 30th as its fiscal year-end.
+2. GOING CONCERN
+Our financial statements
+have been prepared on a going concern basis, which assumes that we will be able to realize our assets and discharge our liabilities and
+commitments in the normal course of business for the foreseeable future. We have an accumulated deficit of $121,024 as
+of April 30, 2025, had a net loss of $52,254, and used net cash of $61,558 in
+operating activities for the year ended April 30, 2025. These factors raise substantial doubt about our ability to continue as a going
+concern. Our ability to continue as a going concern is dependent upon generating profitable operations in the future and/or to obtain
+the necessary financing to meet our obligations and repay our liabilities arising from normal business operations when they come due.
+Our management intends to finance operating costs over the next twelve months with loans from related parties and public issuance of common
+stock. While we believe that we will be successful in obtaining the necessary financing and generating revenue to fund our operations,
+meet regulatory requirements, and achieve commercial goals, there are no assurances that such additional funding will be achieved and
+that we will succeed in our future operations.
+3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The Company uses the accrual basis of accounting and
+accounting principles. The financial statements of the Company have been prepared in accordance with generally accepted accounting principles
+in the United States of America and are presented in US dollars. The Financial Statements and related disclosures have been prepared pursuant
+to the rules and regulations of the Securities and Exchange Commission (“SEC”).
+Revenue
+The Company recognizes revenue in accordance with
+Accounting Standards Codification (“ASC”) 606, “Revenue from Contracts with Customers”. The core principle of
+ASC 606 is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects
+the consideration to which the entity expects to be entitled in exchange for those goods or services.
+An entity recognizes revenue in accordance with that
+core principle by applying the following steps: Step 1: Identify the contract with the customer. Step 2: Identify the performance obligations
+in the contract. Step 3: Determine the transaction price. Step 4. Allocate the transaction price. Step 5: Recognize revenue when (or as)
+the entity satisfies a performance obligation.
+17
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+The Company generates revenue primarily from two sources:
+(1) providing Poultry Farming Consultancy services, and (2) sales of subscription plans for its API service.
+(1) The revenue for our Poultry Farming Consultancy
+is acknowledged at a specific moment when the consulting services are completed and delivered in accordance with contractual terms. The
+Company assumes no responsibility for any inability to fulfill obligations arising from circumstances beyond reasonable control. We may
+request deposits from clients before delivering services upon order placement. If deposits are obtained before providing services, the
+Company acknowledges deferred revenue until the service delivery is completed. Payment is typically received prior to the service delivery.
+During the year ended April 30, 2025 and 2024, we have generated revenue from the providing of our Poultry Farming Consultancy services
+in the amount of $23,726 and $5,600, respectively. The deferred income related to the providing Poultry Farming Consultancy services was
+$0 as of April 30, 2025 and 2024. The services were provided by the Company’s CEO.
+(2) The Subscription Plan for API service is provided
+on the basis of the amount of requests per month. The service covers a variety of 12 common chicken breeds. It provides users with an
+access to a comprehensive database that includes detailed information on symptoms, potential causes, and effective management strategies
+for each breed-specific condition. To access Poultry Wellness Guide API, a subscription purchase is required. Subscriptions must comply
+with our Terms of Service. Subscription revenue for the API service is recognized ratably over the subscription period. Subscription payments
+are received in advance of the service period. Such advance payments are recorded as deferred income upon receipt and are recognized as
+revenue on a straight-line basis over the subscription period the service is provided, reflecting the transfer of control and continuous
+delivery of the service to the customer. During the year ended April 30, 2025 and 2024, we have generated revenue from the sale of
+API requests in the amount of $26,179 and $0, respectively. The deferred income related to the sales of subscription plans for the API
+service was $5,272 and $0 as of April 30, 2025 and 2024.
+Use of Estimates
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Receivables
+Receivables are carried at net realizable value, representing
+the outstanding balance less an allowance for doubtful accounts based on a review of all outstanding amounts. Management determines the
+allowance for doubtful accounts by regularly evaluating individual receivables, and receivables are written off when deemed uncollectible.
+Recoveries of receivables previously written off are recorded when received. We had an allowance for doubtful accounts of $0 as of April
+30, 2025 and 2024.
+Advertising
+The Company recognizes advertising costs in accordance
+with ASC 720-35, Advertising Costs (“ASC 720-35”), which requires that all advertising costs be expensed as incurred. Advertising
+expense amounted to approximately $10,150 and $0 for the years ended April 30, 2025 and 2024, respectively. Advertising costs, which have
+been paid for but that have not been received, were $7,250 and $0 as of April 30, 2025 and 2024.
+18
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+Foreign Currency
+The Company’s functional and reporting currency
+is the U.S. dollar. Transactions may occur in foreign currencies, and management has adopted ASC 830, “Foreign Currency Translation Matters”.
+Monetary assets and liabilities denominated in foreign currencies are translated using the exchange rate prevailing at the balance sheet
+date. Non-monetary assets and liabilities denominated in foreign currencies are translated at rates of exchange in effect at the
+date of the transaction. Average monthly rates are used to translate revenues and expenses. Gains and losses arising on translation
+or settlement of foreign currency-denominated transactions or balances are included in the statement.
+Intangible Asset
+The Company accounts for its intangible assets in
+accordance with ASC Subtopic 350-40, “Internal-Use Software-Computer Software Developed or Obtained for Internal Use”, and
+ASC Subtopic 360-10, “Accounting for the Impairment or Disposal of Long-Lived Assets”. ASC Subtopic 350-40 requires assets
+to be recorded at the cost to develop the asset and requires an intangible asset to be amortized over its useful life and for the useful
+life to be evaluated every reporting period to determine whether events or circumstances warrant a revision to the remaining period of
+amortization. If the estimate of useful life is changed the remaining carrying amount of the intangible asset is amortized prospectively
+over the revised remaining useful life.
+Intangible assets
+were made up of the following at each balance sheet date:
+Estimated Useful Life (years)
+April 30, 2025
+April 30, 2024
+API
+3
+$
+121,100
+$
+-
+Website
+3
+9,400
+9,400
+Software
+5
+9,000
+9,000
+139,500
+18,400
+Accumulated amortization
+(21,178
+)
+(5,228
+)
+Net book value
+$
+118,322
+$
+13,172
+During year
+ended April 30, 2025 and 2024, we recognized $15,950 and $4,034 worth of amortization expense, respectively.
+The Company
+expects to recognize amortization expense for the capitalized website development and software costs of future years as follows:
+For the fiscal year ending:
+Amortization Expense
+April 30, 2026
+$27,960
+April 30, 2027
+$26,020
+April 30, 2028
+$26,020
+April 30, 2029
+$25,120
+April 30, 2030
+$13,202
+19
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+Impairment of Long-Lived Assets
+The Company continually monitors events and changes
+in circumstances that could indicate carrying amounts of long-lived assets may not be recoverable. When such events or changes in circumstances
+are present, the Company assesses the recoverability of long-lived assets by determining whether the carrying value of such assets will
+be recovered through undiscounted expected future cash flows. If the total of the future cash flows is less than the carrying amount of
+those assets, the Company recognizes an impairment loss based on the excess of the carrying amount over the fair value of the assets.
+Assets to be disposed of are reported at the lower of the carrying amount or the fair value less costs to sell.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments
+with remaining maturities at the date of purchase of three months or less to be cash equivalents.
+Fair Value of Financial Instruments
+ASC 820 “Fair Value Measurements and Disclosures”
+establishes a three-tier fair value hierarchy, which prioritizes the inputs in measuring fair value. The hierarchy prioritizes the inputs
+into three levels based on the extent to which inputs used in measuring fair value are observable in the market.
+These tiers include:
+Level 1: defined as observable inputs such as quoted
+prices in active markets;
+Level 2: defined as inputs other than quoted prices
+in active markets that are either directly or indirectly observable; and
+Level 3: defined as unobservable inputs in which little
+or no market data exists, therefore requiring an entity to develop its own assumptions.
+Financial instruments consist of the Company’s
+current assets, accounts payable and amounts due to a related party. The recorded values of all financial instruments approximate their
+current fair values because of their nature and respective relatively short maturity dates or durations.
+Basic and Diluted Loss Per Share
+The Company computes earnings (loss) per share in
+accordance with ASC 260-10-45 “Earnings per Share”, which requires the presentation of both basic and diluted earnings per
+share on the face of the statement of operations. Basic earnings (loss) per share is computed by dividing net earnings (loss) available
+to common stockholders by the weighted average number of outstanding common shares during the period. Diluted earnings (loss) per share
+gives effect to all dilutive potential common shares outstanding during the period. Dilutive earnings (loss) per share excludes all potential
+common shares if their effect is anti-dilutive. The Company has no potential dilutive instruments, and therefore, basic and diluted earnings
+(loss) per share are equal.
+Income Taxes
+The Company accounts for income taxes under the asset
+and liability method, whereby deferred tax assets and liabilities are determined based on the difference between the financial statement
+and tax bases of assets and liabilities using the enacted tax rates in effect for the year in which the differences are expected to affect
+taxable income. A valuation allowance is established when necessary to reduce deferred tax assets to the amounts expected to be realized.
+20
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+Financial Statement Reclassification
+Certain account balances from prior periods have been
+reclassified in these condensed financial statements to conform to current period classifications.
+Accounting Standards Adopted in Fiscal 2025
+In November 2023, the Financial Standards Accounting
+Board (FASB) issued ASU 2023-07 “Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures” which expanded
+annual and interim disclosure requirements for reportable segments, primarily through enhanced disclosures about significant segment expenses.
+The amendments do not change how segments are determined or aggregated, or how thresholds are applied to determine reportable segments.
+We adopted ASU 2023-07 during the year ended April 30, 2025. See Note 4 "Operating Segments" in the accompanying notes to the
+financial statements for further detail.
+No other recently issued guidance adopted in Fiscal
+2025 had a material impact on our financial statements upon adoption or is expected to have a material impact in future periods.
+NOTE 4 – OPERATING SEGMENTS
+The Company operates as a single operating segment,
+focusing on the introduction and promotion of alternative methods of raising chickens without the use of antibiotics.
+The accounting policies of the operating segment are
+the same as those described in the summary of significant accounting policies. The Company’s chief operating decision maker (“CODM”)
+is the Chief Executive Officer. The CODM assesses performance for the segment and decides how to allocate resources based on net income
+(loss) that is reported on the income statement. The measure of segment assets is reported on the balance sheet as total assets.
+5. RELATED PARTY TRANSACTIONS
+As of April 30, 2025, the former director of the Company,
+Oleg Bilinski, advanced $221,927 to the Company. During the year ended April 30, 2025, Oleg Bilinski advanced to the Company $170,707
+for the Company's operating expenses and $54,149 was repaid to the former Director. During the year ended April 30, 2024, Oleg Bilinski
+advanced to the Company $126,348 for the Company's operating expenses and $51,603 was repaid to the former Director. This loan is for
+up to $250,000, unsecured, interest-free, with no fixed payment term, for working capital purposes. The note is non-interest bearing and
+is due on demand.
+6. STOCKHOLDERS’ EQUITY
+Upon formation, the total number of shares of all
+classes of stock which the Company is authorized to issue is Seventy-Five Million (75,000,000) shares of Common Stock, par value of $0.001
+per share.
+On November 26, 2021 the Company issued 4,500,000
+shares of its common stock at $0.001 per share to the former director of the Company, Oleg Bilinski, for total proceeds of $4,500.
+During year
+ended April 30, 2024 the Company issued 1,329,047 shares of common stock for cash proceeds of $33,226 at $0.025 per share.
+21
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+There were 5,829,047 shares of common stock issued
+and outstanding as of April 30, 2025 and 2024.
+7. COMMITMENTS AND CONTINGENCIES
+During the normal course of business, the Company
+may be exposed to litigation. When the Company becomes aware of potential litigation, it evaluates the merits of the case in accordance
+with Financial Accounting Standards Board (“FASB”) ASC 450-20-50, “Contingencies”. The Company evaluates
+its exposure to the matter, possible legal or settlement strategies and the likelihood of an unfavorable outcome. If the Company determines
+that an unfavorable outcome is probable and can be reasonably estimated, it establishes the necessary accruals. As of April 30, 2025,
+the Company is not aware of any contingent liabilities that should be reflected in the consolidated financial statements.
+8. INCOME TAXES
+The Company has no tax position at April 30, 2025
+for which the ultimate deductibility is highly certain but for which there is uncertainty about the timing of such deductibility. The
+Company recognizes interest accrued related to unrecognized tax benefits in interest expense and penalties in operating expenses. No such
+interest or penalties were recognized during the periods presented. The Company had no accruals for interest and penalties at April 30,
+2025. The Company’s utilization of any net operating loss carryforward may be unlikely as a result of its intended activities.
+The valuation allowance at April 30, 2025 was $25,415.
+The net change in valuation allowance from April 30, 2024 to April 30, 2025 was $10,973. In assessing the realizability of deferred tax
+assets, management considers whether it is more likely than not that some portion or all of the deferred income tax assets will not be
+realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the
+periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred income tax liabilities,
+projected future taxable income, and tax planning strategies in making this assessment.
+Based on consideration of these items, management
+has determined that enough uncertainty exists relative to the realization of the deferred income tax asset balances to warrant the application
+of a full valuation allowance as of April 30, 2025 and 2024. All tax years since inception remain open for examination by taxing authorities
+of US Federal and state of Wyoming.
+The components of the Company’s deferred tax
+asset computed at the federal statutory rate of 21% is as follows:
+April 30,
+2025
+April 30,
+2024
+Net operating loss carryforward
+$
+121,024
+68,770
+Effective tax rate
+21%
+21%
+Deferred tax asset
+25,415
+14,442
+Less: valuation allowance
+(25,415)
+(14,442)
+Net deferred asset
+$
+-
+$
+-
+22
+MAG MAGNA CORP
+NOTES TO THE FINANCIAL STATEMENTS
+April 30, 2025 and 2024
+The income tax provision differs from the amount of
+income tax determined by applying the statutory income tax rates to pretax income from continuing operations for the year ended April
+30, 2025 due to the following:
+April 30,
+2025
+April 30,
+2024
+Book loss
+$
+10,973
+$
+10,679
+Less: valuation allowance
+(10,973)
+(10,679)
+$
+-
+$
+-
+Due to the change in ownership provisions of the Tax
+Reform Act of 1986, net operating loss carry forwards of approximately $121,024 as of April 30, 2025, for federal income tax reporting
+purposes are subject to annual limitations. Should a change in ownership occur, net operating loss carry forwards may be limited as to
+use in future years.
+9. SUBSEQUENT EVENTS
+In accordance with ASC 855, “Subsequent Events”,
+the Company has analyzed its operations subsequent to April 30, 2025, and has determined that it does not have any material subsequent
+events to disclose in these financial statements other than the event listed below.
+Subsequent to April 30, 2025, the Company’s
+former CEO, Oleg Bilinski, advanced an additional approximately $14,351 on behalf of the Company. These funds were advanced under the
+Loan Payable – Related Party – See Note 5. In addition, on June 4, 2025, the former President and CEO, Oleg Bilinski, forgave
+his loan to the Company totaling $236,278. As a result, as of the filing date of this 10-K, the Company's loan balance to the former President
+and CEO was $0.
+On June 4, 2025, there occurred a change in control
+of Mag Magna Corp, a Wyoming corporation (the “Company”). On such date, pursuant to a stock purchase agreement (the “Change-in-Control
+Agreement”), Wang Gang acquired 4,500,000 shares of the Company’s common stock (the “Control Shares”) from Oleg
+Bilinski. The Control Shares represent approximately 77.20% of the outstanding shares of the Company’s common stock and constitute
+voting control of the Company. The total consideration paid by Mr. Wang for the Control Shares was $564,380.50 in cash. Additionally,
+effective June 4, 2025, Mr. Wang acquired an additional 142,372 shares of the Company’s common stock from 18 Company shareholders
+for a total of $17,846.50 in cash, pursuant to separate stock purchase agreements.
+In conjunction with the Change-in-Control Agreements,
+on June 4, 2025, Oleg Bilinki resigned as President, Chief Executive Officer, Treasurer, Secretary and Director of the Company, Tomasz
+Anczok resigned as a Director of the Company and Wang Gang was appointed as the Sole Director, President, Chief Executive Officer, Treasurer
+and Secretary of the Company.
+Certain information regarding the background of Mr.
+Wang is set forth below.
+Wang Gang, 36, has, since 2024, served as Manager
+at Yilong Energy Holding Co., Ltd., where his duties include market expansion initiatives in the energy sector, analysis of industry trends
+and competitor strategies, coordinating with technical and sales teams and negotiating contracts with key suppliers. From 2021 to 2024,
+Mr. Wang served as a
+23
+Director of Shenzhen Evergreen Retail Group, where
+his duties included business development, formulating and implementing strategic plans to expand the company's market presence in the
+retail industry. From 2015 to 2020, he was Store Manager at a SunnyMart Convenience Store, where he managed day-to-day operations of a
+24-hour convenience store. From 2011 to 2015, he was a Sales Representative of Shenzhen Star Trading Co., Ltd., where his duties included
+promoting consumer electronics products (e.g., mobile accessories, smart home, devices) in Shenzhen’s retail market, while developing
+relationships with 50+ local retailers. Mr. Wang earned a Bachelor of Business Administration from Shenzhen Polytechnic, Nanshan, Shenzhen,
+Guangdong, China. Until such time as the Company’s level of operations increases, Mr. Wang will devote not less than 20 hours per
+week on the business of the Company.
+24
+Item 9. Changes in and Disagreements With Accountants
+on Accounting and Financial Disclosure.
+None
+Item 9A. Controls and Procedures.
+Management’s Report on Internal Controls
+over Financial Disclosure Controls and Procedures
+Management is responsible for establishing and maintaining
+adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company’s internal control over
+financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the supervision and with the participation
+of management, including the Chief Executive Officer and Chief Financial Officer at the time, the Company conducted an evaluation of the
+effectiveness of the Company’s internal control over financial reporting as of April 30, 2025, using the criteria established in
+“Internal Control - Integrated Framework” issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”)
+in 2013.
+A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of
+the effectiveness of internal control over financial reporting as of April 30, 2025, the Company determined that there were control deficiencies
+that constituted material weaknesses, as described below.
+1.The Company does not have an adequate internal control structure or adequate oversight over financial
+reporting – The Company has only one member of management whom is also the Company’s sole director, therefore the Company
+lacks adequate segregation of duties. Further, the Company currently has no Audit Committee. While not being legally obligated to have
+an audit committee, it is management’s view that such a committee, including a financial expert member, is an utmost important entity
+level control over the Company’s financial statement. Currently the Board of Directors acts in the capacity of the Audit Committee,
+and does not include a member that is considered to be independent of management to provide the necessary oversight over management’s
+activities. Lastly, due to the minimal operations and small size of the Company we have not employed individuals that have the necessary
+accounting knowledge and expertise to ensure accurate financial reporting under US GAAP.
+2.The Company lacks appropriate information technology controls - As of April 30, 2025, the Company retains
+copies of all financial data and material agreements; however, there is no formal procedure or evidence of normal backup of the Company’s
+data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors.
+Accordingly, the Company concluded that these control
+deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will not
+be prevented or detected on a timely basis by the company’s internal controls.
+As a result of the material weaknesses described above,
+management has concluded that the Company did not maintain effective internal control over financial reporting as of April 30, 2025, based
+on criteria established in Internal Control- Integrated Framework issued by COSO in 2013.
+25
+System of Internal Control over Financial Reporting
+Our management is responsible for establishing and
+maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that is
+designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded,
+processed, summarized and reported, within the time periods specified in the Commission’s rules and forms. Disclosure controls and
+procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer
+in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s management, including
+its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions, as appropriate
+to allow timely decisions regarding required disclosure.
+-On April 30, 2025, under the supervision and with
+the participation of our management at the time, an evaluation was conducted of the effectiveness of the design and operation of our disclosure
+controls and procedures as of April 30, 2025. Based on that evaluation, our management concluded that our disclosure controls and procedures
+were not effective as of such date to ensure that information required to be disclosed in the reports that we file or submit under the
+Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms.
+Changes in Internal Control over Financial Reporting
+There was no change in the Company’s internal
+control over financial reporting during the annual period covered by this report that has materially affected, or is reasonably likely
+to materially affect, the Company’s internal control over financial reporting.
+Item 9B. Other Information.
+None.
+Item 9C. Disclosure Regarding Foreign Jurisdictions
+that Prevent Inspections.
+None.
+PART III
+Item 10. Directors, Executive Officers and Corporate
+Governance.
+DIRECTORS, EXECUTIVE OFFICERS, PROMOTER AND CONTROL PERSONS
+The name, age and titles of our executive officer and director is as follows:
+Name and Address of
+Executive Officer and/or Director
+Age
+Position
+Wang Gang
+Room 2318, Anxiaowo
+Apartment, Huaqiang Square,
+Fuhai Sub-District,
+Bao’an District, Shenzhen City,
+Guangdong Province,
+China, 518000
+36
+Director, President, Chief Executive Officer, Treasurer and Secretary
+26
+Wang Gang has,
+since 2024, served as Manager at Yilong Energy Holding Co., Ltd., where his duties include market expansion initiatives in the energy
+sector, analysis of industry trends and competitor strategies, coordinating with technical and sales teams and negotiating contracts with
+key suppliers. From 2021 to 2024, Mr. Wang served as a Director of Shenzhen Evergreen Retail Group, where his duties included business
+development, formulating and implementing strategic plans to expand the company's market presence in the retail industry. From 2015 to
+2020, he was Store Manager at a SunnyMart Convenience Store, where he managed day-to-day operations of a 24-hour convenience store. From
+2011 to 2015, he was a Sales Representative of Shenzhen Star Trading Co., Ltd., where his duties included promoting consumer electronics
+products (e.g., mobile accessories, smart home, devices) in Shenzhen’s retail market, while developing relationships with 50+ local
+retailers. Mr. Wang earned a Bachelor of Business Administration from Shenzhen Polytechnic, Nanshan, Shenzhen, Guangdong, China. Until
+such time as the Company’s level of operations increases, Mr. Wang will devote not less than 20 hours per week on the business of
+the Company.
+As of the date
+of this report, Wang Gang holds 4,642,772 shares of common stock which represents 79.65% of shares outstanding.
+During the past ten years our Director, President,
+Chief Executive Officer, Treasurer and Secretary, Mr. Wang has not been the subject to any of the following events:
+Any bankruptcy petition filed by or against any business of which they were a general partner
+or executive officer either at the time of the bankruptcy or within two years prior to that time.
+Any conviction in a criminal proceeding or being subject to a pending criminal proceeding.
+An order, judgment, or decree, not subsequently reversed, suspended or vacated, or any court
+of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting Mr. Wang’s involvement
+in any type of business, securities or banking activities.
+Found by a court of competent jurisdiction (in a civil action), the Securities and Exchange
+Commission or the Commodity Future Trading Commission to have violated a federal or state securities or commodities law, and the judgment
+has not been reversed, suspended or vacated.
+Were the subject of any order, judgment or decree, not subsequently reversed, suspended or
+vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right to engage in any
+activity described in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity;
+Were found by a court of competent jurisdiction in a civil action or by the Commission to have
+violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently
+reversed, suspended, or vacated;
+Were the subject of, or a party to, any Federal or State judicial or administrative order,
+judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of:
+i. Any Federal or
+State securities or commodities law or regulation; or
+ii. Any law or regulation
+respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of
+disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or
+iii. Any law or regulation
+prohibiting mail or wire fraud or fraud in connection with any business entity.
+Term of Office
+Our Directors are appointed to hold office until the
+next annual meeting of our stockholders or until their respective successor is elected and qualified, or until they resign or are removed
+in accordance with the provisions of the Wyoming Revised Statutes. Our officers are appointed by our Board of Directors and hold office
+until removed by the Board or until their resignation.
+27
+Director Independence
+Our Board of Directors is currently composed of one
+member, Wang Gang. Wang Gang does not qualify as independent. Our board of directors has not made a subjective determination as to
+each director that no relationships exist which, in the opinion of our board of directors, would interfere with the exercise of independent
+judgment in carrying out the responsibilities of a director Had our Board of Directors made these determinations, our board of directors
+would have reviewed and discussed information provided by the directors and us with regard to each director’s business and personal
+activities and relationships as they may relate to us and our management.
+Item 11. Executive Compensation.
+The following table sets forth certain information
+about compensation paid, earned or accrued for services by our Executive Officer for the fiscal years ended April 30, 2025 and 2024:
+Summary Compensation Table
+Name and Principal Position
+Year
+Salary ($)
+Bonus ($)
+Stock Awards   ($)
+Option Awards ($)
+Non-Equity Incentive Plan Compensation ($)
+All Other Compensation ($)
+Total ($)
+Wang Gang,
+President, Director, Treasurer and Secretary
+2025
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+2024
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+Oleg Bilinski,
+Former President
+2025
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+2024
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+There are no current employment agreements between the Company and its
+officer.
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters.
+The following table sets forth certain information
+relating to the beneficial ownership of our common stock as of July 23, 2025, by:
+● each person, or group of affiliated
+persons, known by us to beneficially own more than five percent of the outstanding shares of our common stock;
+● each of our directors;
+● each of our named executive
+officers; and
+● all directors and executive
+officers as a group.
+28
+Title of Class
+Name and Address of Beneficial Owner
+Amount and Nature of Beneficial Ownership
+Percentage
+Common Stock
+Wang Gang
+Room 2318, Anxiaowo
+Apartment, Huaqiang Square,
+Fuhai Sub-District,
+Bao’an District, Shenzhen City,
+Guangdong Province,
+China, 518000
+4,642,772 shares
+79.65%
+Beneficial ownership is determined in accordance with
+the rules of the SEC which generally attribute beneficial ownership of securities to persons who possess sole or shared voting power and/or
+investment power with respect to those securities. Unless otherwise indicated, voting and investment power are exercised solely by the
+person named above or shared with members of such person’s household. This includes any shares such person has the right to acquire
+within 60 days.
+Percent of class is calculated on the basis of the
+number of fully diluted shares outstanding as of July 23, 2025 (5,829,047).
+Effective June 4, 2025, there occurred a change in
+control of Mag Magna Corp, a Wyoming corporation. On such date, pursuant to a stock purchase agreement (the “Change-in-Control
+Agreement”), Wang Gang acquired 4,500,000 shares of the Company’s common stock (the “Control Shares”) from
+Oleg Bilinski. The Control Shares represent approximately 77.20% of the outstanding shares of the Company’s common stock and constitute
+voting control of the Company. The total consideration paid by Mr. Wang for the Control Shares was $564,380.50 in cash. Additionally,
+effective June 4, 2025, Mr. Wang acquired an additional 142,772 shares of the Company’s common stock from 18 Company shareholders
+for a total of $17,846.50 in cash, pursuant to separate stock purchase agreements.
+Item 13. Certain Relationships and Related Transactions,
+and Director Independence.
+On November 26, 2021, we issued a total of 4,500,000
+shares of Common stock to Oleg Bilinski, our former president, treasurer, secretary and director in consideration of $4,500.
+Further, effective December 2, 2021, Mr. Bilinski
+formally agreed to advance funds to the Company to loan the Company the principal sum of $60,000 for business development under a Loan
+Agreement. On March 11, 2024, Mr. Bilinski formally entered into an Amendment to the Loan Agreement, increasing the loan amount to $120,000
+for business purposes. The loan amount was increased to $160,000 pursuant to an amendment dated September 16, 2024, to $220,000 under
+a subsequent amendment dated March 21, 2025, and to $250,000 under a subsequent amendment dated April 1, 2025.
+There are no promoters of the Company, and have been
+none, as defined in Item 404(c)(1)(i) of Regulation S-K, other than Mag Magna Corp director.
+Item 14. Principal Accounting Fees and Services.
+The following is a summary of the fees billed to
+us by our former independent auditors (BF Borgers CPA PC) and current independent auditors (Mac Accounting Group & CPAs LLP) for
+professional services rendered related to the fiscal years ended April 30, 2025 and 2024:
+2025
+2024
+Audit Fees
+$
+27,511
+$
+19,250
+Audit Related Fees
+-
+-
+Tax Fees
+-
+-
+All Other Fees
+-
+-
+Total
+$
+27,511
+$
+19,250
+Fees for all services were pre-approved by the Board of Directors.
+29
+Audit Fees. Consists of fees billed for professional
+services rendered for the audit of our financial statements and review of the interim financial statements included in quarterly reports
+and services in connection with registration statement filings and statutory and regulatory filings or engagements.
+Audit-Related Fees. Consists of fees billed
+for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and
+are not reported under “Audit Fees.”
+Tax Fees. Consists of fees billed for professional
+services for tax compliance, tax advice, and tax planning.
+All Other Fees. Consists of fees for products
+and services other than the services reported above.
+PART IV
+Item 15. Exhibits and Financial Statement Schedules.
+Exhibit No.
+Description
+19
+Insider Trading Policy
+31.1
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a).
+32.1
+Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002.
+Item 16. Form 10-K Summary.
+As permitted, the registrant has elected not to supply
+a summary of information required by Form 10-K.
+30
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+MAG MAGNA CORP
+Date: July 23, 2025
+By:
+s/ Wang Gang
+Wang Gang, Chief Executive Officer/Director
+(Principle Executive Officer)
+s/ Wang Gang
+Wang Gang, Chief Financial Officer/Chief Accounting Officer/Director (Principle Financial Officer)
+31

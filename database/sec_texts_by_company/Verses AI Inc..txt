@@ -1,0 +1,177 @@
+NT 10-K
+1
+formnt10-k.htm
+NT 10-K
+UNITED STATES
+SECURITIES AND EXCHANGE
+COMMISSION
+SEC FILE NUMBER
+000-56692
+Washington, D.C. 20549
+CUSIP NUMBER
+92539Q604
+FORM
+12b-25
+NOTIFICATION
+OF LATE FILING
+Commission
+file number
+(Check one):
+☒ Form 10-K ☐ Form
+20-F ☐ Form 11-K ☐ Form 10-Q ☐ Form 10-D ☐ Form N-SAR ☐ Form N-CSR
+For Period Ended:
+March 31, 2025
+☐ Transition Report on
+Form 10-K
+☐ Transition Report on
+Form 20-F
+☐ Transition Report on
+Form 11-K
+☐ Transition Report on
+Form 10-Q
+For the Transition Period Ended:
+_______________________________________________________
+Read
+Instruction (on back page) Before Preparing Form. Please Print or Type.
+Nothing
+in this Form shall be construed to imply that the Commission has verified any information contained herein.
+If
+the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates:
+PART
+I — REGISTRANT INFORMATION
+Verses
+AI Inc.
+Full
+Name of Registrant
+N/A
+Former
+Name if Applicable
+2121
+Avenue of the Stars, 8th Floor
+Address of Principal Executive Office (Street and Number)
+Los
+Angeles, California, 90067
+City,
+State and Zip Code
+SEC 1344 (05-06)
+Persons
+who are to respond to the collection of information contained in this form are not required to respond unless the form displays a
+currently valid OMB control number.
+PART
+II — RULES 12b-25(b) AND (c)
+If
+the subject report could not be filed without unreasonable effort or expense and the registrant seeks relief pursuant to Rule 12b-25(b),
+the following should be completed. (Check box if appropriate)
+☒
+(a)
+The reason described in reasonable
+detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+☒
+(b)
+The subject annual report,
+semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-CEN or Form N-CSR, or portion thereof, will be filed
+on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report or transition report on
+Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the fifth calendar day following
+the prescribed due date; and
+(c)
+The accountant’s statement
+or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART
+III — NARRATIVE
+State
+below in reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-CEN, N-CSR, or the transition report or portion thereof, could not
+be filed within the prescribed time period.
+Verses
+AI Inc. (the “Company”) is unable, without unreasonable effort or expense, to file its Annual Report on Form 10-K for the
+year ended March 31, 2025 (the “2025 Form 10-K”) within the prescribed time period as result of the Company having limited
+internal resources and no previous reporting experience filing reports under the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). Since prior April 1, 2025, the Company qualified as a “foreign private issuer” as defined under Rule 3b-4 under
+the Exchange Act, the 2025 Form 10-K is the first Annual Report on Form 10-K to be filed by the Company, and consequently the Company’s
+internal team will require more time to complete the necessary disclosures (and supporting materials) required to be included in the
+2025 Form 10-K, including, but not limited to, the information required to be disclosed under Part III of Form 10-K, since the Company
+does not intend to file a definitive proxy statement within 120 days of its fiscal year ended March 31, 2025. The Company expects to
+file the 2025 Form 10-K within the 15-day extension period (the “Extension Period”) afforded by Rule 12b-25 under the Exchange.
+Forward-Looking
+Statement
+This
+Form 12b-25 contains forward-looking statements within the meaning of applicable United States securities laws. These forward looking
+statements include: (i) statements regarding the Company’s expectation to file the 2025 Form 10-K within the Extension Period,
+and (ii) statements regarding the Company’s financial results for the year ended March 31, 2025. Forward-looking statements are
+based on management’s current expectations or beliefs about the Company’s future plans, expectations and objectives. These
+forward-looking statements are not historical facts and are subject to risks and uncertainties that could cause the actual results to
+differ materially from those projected in these forward-looking statements. Readers of this Form 12b-25 are cautioned not to place undue
+reliance on forward-looking statements contained herein, which speak only as of the date of this Form 12b-25.
+(Attach
+extra Sheets if Needed)
+-2-
+PART
+IV — OTHER INFORMATION
+(1)
+Name and telephone number
+of person to contact in regard to this notification
+James
+Christodoulou
+(310)
+988-1944
+(Name)
+(Area
+Code)
+(Telephone
+Number)
+(2)
+Have all other periodic reports
+required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment Company Act of 1940 during
+the preceding 12 months or for such shorter period that the registrant was required to file such report(s) been filed? If answer
+is no, identify report(s).
+Yes ☒ No ☐
+(3)
+Is it anticipated that any
+significant change in results of operations from the corresponding period for the last fiscal year will be reflected by the earnings
+statements to be included in the subject report or portion thereof?
+Yes ☒ No ☐
+If
+so, attach an explanation of the anticipated change, both narratively and quantitatively,
+and, if appropriate, state the reasons why a reasonable estimate of the results cannot be
+made.
+See
+Exhibit A attached to this Form 12b-25.
+-3-
+Verses
+AI Inc.
+(Name
+of Registrant as Specified in Charter)
+has
+caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Date
+June 30, 2025
+By
+/s/
+James Christodoulou
+James Christodoulou
+Chief Financial Officer
+ATTENTION
+Intentional
+misstatements or omissions of fact constitute Federal Criminal Violations (See 18 U.S.C. 1001).
+-4-
+Exhibit
+A
+To
+Form
+12b-25
+Part
+IV, Item (3)
+Based
+on information that is available at this time, the Company’s net revenue for the year ended March 31, 2025 is expected to be approximately
+$(476,691) compared to net revenue of $267,561 for the year ended March 31, 2024, and the Company’s total expenses and net loss
+are expected to be approximately $42,516,033 and $42,992,724, respectively, for the year ended March 31, 2025, compared to total expenses
+and net loss of $52,361,220 and $52,093,659, respectively, for the year ended March 31, 2024. The Company’s net loss attributable
+to Class A Subordinate Voting shareholders is expected to be $5.49 per share for the year ended March 31, 2025 compared to a net loss
+attributable to Class A Subordinate Voting shareholders of $9.44 per share for the year ended March 31, 2024. The Company also expects
+to have $4,816,906 in cash and restricted cash, $6,183,082 in current assets and $6,376,575 in total assets as at March 31, 2025 compared
+to $892,727 in cash and restricted cash, $3,495,111 in current assets and $3,827,306 in total assets as at March 31, 2024. Further, the
+Company expects to have current liabilities of $15,106,292, total liabilities of $15,245,331 and a shareholders’ deficiency of
+$8,868,756 as at March 31, 2025, compared to $15,362,514 in current liabilities, $15,503,418 in total liabilities and $11,676,112 in
+shareholders’ deficiency as of March 31, 2024. The Company cautions that the foregoing estimates as at and for the year ended March
+31, 2025 are preliminary and subject to change, possibly materially, following the completion and review of the Company’s financial
+statements.
+-5-

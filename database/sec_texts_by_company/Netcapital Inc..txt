@@ -1,0 +1,200 @@
+NT 10-K
+1
+formnt10-k.htm
+NT 10-K
+SEC
+FILE NUMBER
+001-41443
+CUSIP
+NUMBER
+64113L202
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+12b-25
+NOTIFICATION
+OF LATE FILING
+Commission
+file number
+(Check
+one):
+☒
+Form 10-K ☐ Form 20-F ☐ Form 11-K ☐ Form 10-Q ☐ Form 10-D ☐
+Form N-SAR
+☐
+Form N-CSR
+For
+Period Ended:
+April
+30, 2025
+☐
+Transition Report on Form 10-K
+☐
+Transition Report on Form 20-F
+☐
+Transition Report on Form 11-K
+☐
+Transition Report on Form 10-Q
+☐
+Transition Report on Form N-SAR
+For
+the Transition Period Ended:
+Read
+Instruction (on back page) Before Preparing Form. Please Print or Type.
+Nothing
+in this form shall be construed to imply that the Commission has verified any information contained herein.
+If
+the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates:
+PART
+I — REGISTRANT INFORMATION
+Netcapital
+Inc.
+Full
+Name of Registrant
+N/A
+Former
+Name if Applicable
+1
+Lincoln Street
+Address of Principal Executive Office (Street and Number)
+Boston,
+Massachusetts 02111
+City,
+State and Zip Code
+PART
+II — RULES 12b-25(b) AND (c)
+If
+the subject report could not be filed without unreasonable effort or expense and the registrant seeks relief pursuant to Rule 12b-25(b),
+the following should be completed. (Check box if appropriate)
+(a)
+The
+reason described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+☒
+(b)
+The
+subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-SAR or Form N-CSR, or portion
+thereof, will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report
+or transition report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the
+fifth calendar day following the prescribed due date; and
+(c)
+The
+accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART
+III — NARRATIVE
+State
+below in reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR, or the transition report or portion thereof, could not
+be filed within the prescribed time period.
+Netcapital
+Inc. (the “Company”) is unable to file its Annual Report on Form 10-K for the year ended April 30, 2025 (the “2025
+Form 10-K”) within the prescribed time period because the Company required additional time to prepare and complete the audit of
+its annual financial statements for the year ended April 30, 2025 to be filed with the 2025 Form 10-K. The Company expects to file the
+2025 Form 10-K within the 15-day extension period (the “Extension Period”) afforded by Rule 12b-25 under the Securities Exchange
+Act of 1934, as amended.
+Forward-Looking
+Statement
+This
+Form 12b-25 contains forward-looking statements within the meaning of applicable United States securities laws. These forward looking
+statements include: (i) statements regarding the Company’s expectation to not file the 2025 Form 10-K within the Extension Period,
+and (ii) statements regarding the Company’s financial results for the year ended April 30, 2025. Forward-looking statements are
+based on management’s current expectations or beliefs about the Company’s future plans, expectations and objectives. These
+forward-looking statements are not historical facts and are subject to risks and uncertainties that could cause the actual results to
+differ materially from those projected in these forward-looking statements. These risks include, but are not limited to, adjustments
+resulting from the completion by the Company’s auditor of their review of the 2025 Form 10-K. Readers of this Form 12b-25 are cautioned
+not to place undue reliance on forward-looking statements contained herein, which speak only as of the date of this Form 12b-25.
+(Attach
+extra Sheets if Needed)
+SEC
+1344 (05-06)
+Persons
+who are to respond to the collection of information contained in this form are not required to respond unless the form displays a
+currently valid OMB control number.
+PART
+IV — OTHER INFORMATION
+(1)
+Name
+and telephone number of person to contact in regard to this notification
+Martin
+Kay
+781
+925-1700
+(Name)
+(Area
+Code)
+(Telephone
+Number)
+(2)
+Have
+all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment
+Company Act of 1940 during the preceding 12 months or for such shorter period that the registrant was required to file such report(s)
+been filed? If answer is no, identify report(s).
+Yes
+☒ No ☐
+(3)
+Is
+it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be
+reflected by the earnings statements to be included in the subject report or portion thereof?
+Yes
+☒ No ☐
+If
+so, attach an explanation of the anticipated change, both narratively and quantitatively,
+and, if appropriate, state the reasons why a reasonable estimate of the results cannot be
+made.
+See
+Exhibit A attached to this Form 12b-25.
+-2-
+Netcapital
+Inc..
+(Name
+of Registrant as Specified in Charter)
+has
+caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Date
+July
+29, 2025
+By
+/s/
+Martin Kay
+Martin
+Kay
+Chief
+Financial Officer
+ATTENTION
+Intentional
+misstatements or omissions of fact constitute Federal Criminal Violations (See 18 U.S.C. 1001).
+-3-
+Exhibit
+A
+To
+Form
+12b-25
+Part
+IV, Item (3)
+Based
+on information that is available at this time, the Company’s total revenues for the year ended April 30, 2025 are expected to be
+approximately $869,460 as compared to total revenues of $4,951,435 for the year ended April 30, 2024. The decrease in revenues is attributable
+to decreased revenues from consulting services for equity securities, which recorded a decrease in fees of $3,440,000 to $0
+in the year ended April 30, 2025 as compared to $3,440,000 in the year ended April 30, 2024, The Company’s costs of revenues
+decreased by $67,716 or 63%, to $40,344 in the year ended April 30, 2025 from $108,060 in the year ended April 30, 2024. The decrease
+is attributable to the 82% decrease in revenues in the year ended April 30, 2025, as compared to the year ended April 30, 2024. Consulting
+expenses decreased by $295,262, or 48%, to $314,947 for the year ended April 30, 2025 from $610,209 reported in year ended April 30,
+2025. The Company decreased its use of individual independent contractors in fiscal 2025. Consulting expenses are payments for services
+rendered by non-employees. Marketing expense decreased by $296,072, or approximately 89%, to $37,699 for the year ended April 30, 2025,
+as compared to $333,771 in the year ended April 30, 2024. The decrease was primarily due to limited cash resources. General and administrative
+expenses increased by $1,796,981 or 52%, to $5,224,007 for the year ended April 30, 2025, as compared to $3,427,026 for the year ended
+April 30, 2025. The primary increase in expenses is attributable to professional fees, which includes costs of attorneys, proxy solicitation,
+and investor relations. The Company recognized an unrealized loss in the value of our equity securities of $2,696,135 in the year ended
+April 30, 2024, as compared to an unrealized gain of $18,050 in the value of our equity securities in the year ended April 30, 2025.
+The loss in the year ended April 30, 2024 was attributable to a decrease in value to $0.16 per share from $1.00 per share for 3,209,685
+shares of common stock that we own of KingsCrowd, Inc. The gain in the year ended April 30, 2025 resulted primarily from an increase
+in value of our KingsCrowd securities to $0.18 per share, less an unrealized loss of $46,143 in the value of our shares in Netcapital
+Systems. We recorded an impairment expense of $19,475,556 and $1,048,430 in the years ended April 30, 2025 and 2024, respectively. During
+the fiscal year ended April 30, 2025, the Company evaluated its equity investments in multiple issuers for impairment in accordance with
+ASC 321-10-35-3. The Company determined that the fair value of several investments had declined below their carrying amounts and that
+the declines were other-than-temporary. These conclusions were based on qualitative indicators including the resignation of key personnel,
+discontinuation of business operations, termination of fundraising efforts, and other adverse developments. As a result, twelve equity
+investments were written-off, creating an impairment expense of $19,475,556. The Company cautions that the estimation of the amounts
+set forth above are preliminary and subject to change, possibly materially, following the completion and audit of the Company’s
+financial statements.
+-4-

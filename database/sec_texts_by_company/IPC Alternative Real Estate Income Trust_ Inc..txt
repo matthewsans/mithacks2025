@@ -1,0 +1,3002 @@
+10-K/A
+0001959961FYTrueUS0001959961us-gaap:ComprehensiveIncomeMember2023-06-122023-12-310001959961ck0001959961:O2025Q12DividendsMemberus-gaap:SubsequentEventMember2025-02-272025-02-270001959961ck0001959961:OperatingPartnershipMember2024-01-012024-12-310001959961ck0001959961:CommonClassTMemberus-gaap:SubsequentEventMember2025-02-272025-02-270001959961ck0001959961:ClassTOperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:AdvisorMemberck0001959961:ClassTOpUnitsClassSOpUnitsClassDOpUnitsAndClassIOpUnitsMember2024-01-012024-12-310001959961ck0001959961:CommonClassIMember2023-06-122023-12-310001959961us-gaap:CommonStockMemberck0001959961:CommonClassIMember2023-12-310001959961ck0001959961:ClassIOperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:ClassIOperatingPartnershipUnitsMember2023-06-122023-12-310001959961ck0001959961:ClassTClassSClassDSharesMemberck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMember2023-09-282023-09-280001959961ck0001959961:CommonClassTMember2025-03-180001959961us-gaap:ComprehensiveIncomeMember2023-06-110001959961ck0001959961:CommonClassDMember2023-12-010001959961us-gaap:RetainedEarningsMember2024-12-310001959961us-gaap:SubsequentEventMember2025-01-012025-03-190001959961ck0001959961:CommonClassSMember2023-12-0100019599612023-12-012023-12-0100019599612023-08-222023-08-220001959961ck0001959961:ThirdAmendedAndRestatedLimitedPartnershipAgreementMemberck0001959961:IpcReitSpecialLimitedPartnerLpMemberus-gaap:CapitalUnitClassAMember2024-06-272024-06-270001959961ck0001959961:IpcAlternativeRealEstateOperatingPartnershipLpMemberck0001959961:MedicalOutpatientBuildingMember2024-12-310001959961ck0001959961:CommonClassTMember2023-12-310001959961ck0001959961:ClassDOperatingPartnershipUnitsMember2024-01-012024-12-310001959961ck0001959961:ShareRepurchasePlanMember2023-06-122023-12-310001959961us-gaap:CommonStockMemberck0001959961:CommonClassIMember2024-12-310001959961us-gaap:RestrictedStockMemberck0001959961:CommonClassIMember2023-06-122023-12-310001959961us-gaap:RetainedEarningsMember2024-01-012024-12-310001959961us-gaap:AdditionalPaidInCapitalMember2023-06-122023-12-310001959961us-gaap:RetainedEarningsMember2023-12-310001959961ck0001959961:CommonClassIMember2024-12-310001959961ck0001959961:ClassIOperatingPartnershipUnitsMember2023-12-310001959961us-gaap:ComprehensiveIncomeMember2023-12-310001959961ck0001959961:CommonClassIMemberus-gaap:SubsequentEventMember2025-02-272025-02-270001959961ck0001959961:CommonClassSMember2023-12-310001959961us-gaap:RestrictedStockMember2024-12-3100019599612024-12-310001959961us-gaap:RetainedEarningsMember2023-06-110001959961us-gaap:PreferredStockMember2024-12-310001959961ck0001959961:ShareRepurchasePlanMemberck0001959961:CommonClassDMember2024-01-012024-12-310001959961ck0001959961:CommonClassIMember2023-08-102023-08-100001959961ck0001959961:CommonClassTMemberck0001959961:ShareRepurchasePlanMember2024-01-012024-12-310001959961ck0001959961:CommonClassIMember2023-12-310001959961ck0001959961:CommonClassDMemberus-gaap:SubsequentEventMember2025-01-012025-03-190001959961us-gaap:RestrictedStockMemberck0001959961:CommonClassIMember2024-01-012024-12-310001959961ck0001959961:CommonClassTMember2023-12-010001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMemberck0001959961:ClassDShareMember2023-09-282023-09-280001959961ck0001959961:CommonClassIMember2025-03-180001959961ck0001959961:ClassIShareMemberck0001959961:SponsorAndAffiliatesMember2024-12-310001959961srt:MaximumMember2023-09-282023-09-280001959961ck0001959961:OperatingPartnershipMember2023-01-012023-12-310001959961ck0001959961:CommonClassDMemberus-gaap:SubsequentEventMember2025-02-272025-02-2700019599612023-12-310001959961ck0001959961:ClassDOperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:CommonClassIMember2023-10-022023-10-020001959961us-gaap:CommonStockMemberck0001959961:CommonClassIMember2023-06-122023-12-310001959961us-gaap:RestrictedStockMemberck0001959961:ClassIOperatingPartnershipUnitsMember2023-06-122023-12-310001959961us-gaap:CommonClassAMember2025-03-1800019599612023-06-120001959961ck0001959961:ShareRepurchasePlanMember2024-01-012024-12-310001959961ck0001959961:CommonClassIMemberus-gaap:SubsequentEventMember2025-01-302025-01-300001959961ck0001959961:ClassTOperatingPartnershipUnitsMember2024-01-012024-12-310001959961ck0001959961:CommonClassIMember2024-03-192024-03-190001959961ck0001959961:O2025Q11DividendsMemberus-gaap:SubsequentEventMember2025-01-302025-01-3000019599612023-01-012023-12-310001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMemberck0001959961:ClassIShareMember2023-09-282023-09-280001959961ck0001959961:ThirdAmendedAndRestatedLimitedPartnershipAgreementMemberck0001959961:OpUnitHoldersMemberus-gaap:CapitalUnitClassAMember2024-06-272024-06-270001959961ck0001959961:IpcAlternativeRealEstateOperatingPartnershipLpMember2023-08-212023-12-310001959961ck0001959961:ClassIOperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:ThirdAmendedAndRestatedLimitedPartnershipAgreementMemberck0001959961:ClassTOpUnitsClassSOpUnitsClassDOpUnitsAndClassIOpUnitsMemberck0001959961:OpUnitHoldersMember2024-06-272024-06-270001959961us-gaap:AdditionalPaidInCapitalMember2023-12-310001959961ck0001959961:CommonClassIMemberus-gaap:SubsequentEventMember2025-01-012025-03-190001959961us-gaap:CommonStockMemberck0001959961:CommonClassIMember2023-06-110001959961ck0001959961:PrimaryOfferingMembersrt:MaximumMember2023-09-282023-09-280001959961ck0001959961:OperatingPartnershipMember2024-12-310001959961us-gaap:RestrictedStockMember2024-01-012024-12-310001959961ck0001959961:CommonClassIMember2023-12-0100019599612024-01-012024-12-310001959961us-gaap:RestrictedStockMember2023-06-122023-12-310001959961us-gaap:AdditionalPaidInCapitalMember2024-01-012024-12-310001959961ck0001959961:CommonClassTMember2024-12-310001959961ck0001959961:CommonClassTMember2024-01-012024-12-310001959961ck0001959961:IpcAlternativeRealEstateOperatingPartnershipLpMember2024-01-012024-12-310001959961ck0001959961:CommonClassSMemberck0001959961:ShareRepurchasePlanMember2024-01-012024-12-310001959961ck0001959961:OperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:CommonClassSMember2024-12-310001959961us-gaap:CommonStockMemberck0001959961:CommonClassIMember2024-01-012024-12-310001959961ck0001959961:CommonClassTMemberus-gaap:SubsequentEventMember2025-01-302025-01-300001959961ck0001959961:IpcAlternativeRealEstateOperatingPartnershipLpMember2023-12-310001959961ck0001959961:ShareRepurchasePlanMemberck0001959961:CommonClassIMember2024-01-012024-12-310001959961ck0001959961:ClassIOperatingPartnershipUnitsMember2023-12-310001959961us-gaap:CommonStockMember2023-06-122023-12-310001959961ck0001959961:OperatingPartnershipMember2023-12-310001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMember2023-12-310001959961us-gaap:CommonClassAMember2023-12-310001959961us-gaap:AdditionalPaidInCapitalMember2024-12-310001959961us-gaap:CommonStockMember2024-12-310001959961us-gaap:CommonClassAMember2024-12-3100019599612023-06-122023-12-310001959961ck0001959961:ClassDOperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:SelfStoragePropertiesMemberck0001959961:IpcAlternativeRealEstateOperatingPartnershipLpMember2024-12-310001959961ck0001959961:CommonClassTMemberus-gaap:SubsequentEventMember2025-01-012025-03-190001959961us-gaap:RestrictedStockMember2023-12-310001959961us-gaap:AdditionalPaidInCapitalMember2023-06-110001959961ck0001959961:IpcReitSpecialLimitedPartnerLpMemberus-gaap:CapitalUnitClassAMember2024-01-012024-12-310001959961ck0001959961:CommonClassDMemberus-gaap:SubsequentEventMember2025-01-302025-01-300001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMemberck0001959961:ClassTShareMembersrt:MaximumMember2023-09-282023-09-280001959961ck0001959961:ClassIShareMemberck0001959961:SponsorAndAffiliatesMember2023-12-310001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMembersrt:MaximumMemberck0001959961:ClassDShareMember2023-09-282023-09-280001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMemberck0001959961:ClassSShareMember2023-09-282023-09-2800019599612023-06-110001959961ck0001959961:ClassIOperatingPartnershipUnitsMember2024-01-012024-12-310001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMember2024-12-310001959961ck0001959961:IpcReitSpecialLimitedPartnerLpMemberck0001959961:ThirdAmendedAndRestatedLimitedPartnershipAgreementMemberck0001959961:ClassTOpUnitsClassSOpUnitsClassDOpUnitsAndClassIOpUnitsMember2024-06-272024-06-270001959961ck0001959961:CommonClassIMember2023-08-220001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMemberck0001959961:ClassSShareMembersrt:MaximumMember2023-09-282023-09-280001959961ck0001959961:AdvisorMemberus-gaap:CapitalUnitClassAMember2024-01-012024-12-310001959961ck0001959961:IpcReitSpecialLimitedPartnerLpMemberck0001959961:ClassTOpUnitsClassSOpUnitsClassDOpUnitsAndClassIOpUnitsMember2024-01-012024-12-310001959961ck0001959961:CommonClassDMember2025-03-180001959961us-gaap:ComprehensiveIncomeMember2024-12-310001959961ck0001959961:CommonClassSMember2025-03-180001959961us-gaap:RetainedEarningsMember2023-06-122023-12-310001959961ck0001959961:ClassTOperatingPartnershipUnitsMember2024-12-310001959961ck0001959961:CommonClassIMember2024-08-012024-08-010001959961ck0001959961:CommonClassIMember2024-01-012024-12-310001959961ck0001959961:DealerManagerMemberck0001959961:DealerManagerAgreementMemberck0001959961:ClassTShareMember2023-09-282023-09-280001959961ck0001959961:CommonClassDMember2023-12-310001959961ck0001959961:CommonClassDMember2024-12-310001959961ck0001959961:IpcAlternativeRealEstateOperatingPartnershipLpMember2024-12-310001959961us-gaap:ComprehensiveIncomeMember2024-01-012024-12-310001959961ck0001959961:CommonClassDMember2024-01-012024-12-31ck0001959961:Statexbrli:pureck0001959961:Bedutr:sqftxbrli:sharesiso4217:USDxbrli:sharesck0001959961:Employeeck0001959961:Propertyiso4217:USD
+aUNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549  FORM 10-K/AAmendment No. 1 ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE FISCAL YEAR ENDED DECEMBER 31, 2024☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM
+TO COMMISSION FILE NUMBER: 333-272750 IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.(Exact name of registrant as specified in its charter)
+Maryland
+87-1302380
+(State or other jurisdiction ofincorporation or organization)
+(I.R.S. EmployerIdentification No.)
+2901 Butterfield Road, Oak Brook, Illinois
+60523
+(Address of principal executive offices)
+(Zip Code)
+630-218-8000(Registrant’s telephone number, including area code)Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+TradingSymbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Securities registered pursuant to Section 12(g) of the Act:None Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+o No xIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes
+o No xIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes x No
+o Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes x No
+oIndicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+o
+Accelerated filer
+o
+Non-accelerated filer
+x
+Smaller reporting company
+x
+Emerging growth company
+x
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. xIndicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. oIf securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. oIndicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). oIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+o No
+xThere is no established public market for the registrant’s shares of common stock. As of March 18, 2025, the registrant has the following shares of common stock outstanding: 41,317 shares of Class T common stock, 0 shares of Class S common stock, 5,190 shares of Class D common stock, 214,995 shares of Class I common stock and 0 shares of Class A common stock. Auditor Name: PricewaterhouseCoopers LLP	Auditor Location: Chicago, IL 	Auditor Firm ID: 238
+EXPLANATORY NOTEThis Amendment No. 1 on Form 10-K/A (this “Amendment”) amends the Annual Report on Form 10-K of IPC Alternative Real Estate Income Trust, Inc. (the “Company”) for the fiscal year ended December 31, 2024, as filed with the Securities and Exchange Commission (the “SEC”) on March 19, 2025 (the “Original Filing”). This Amendment is being filed solely to provide a corrected version of PricewaterhouseCoopers LLP’s (“PwC”) report on the financial statements of the Company that includes a statement PwC inadvertently omitted from the previously filed version that confirms PwC did not audit the Company’s internal control over financial reporting. In accordance with rules adopted by the SEC, the Company is not required to have an audit of its internal control over financial reporting. These changes do not in any way change the conclusions expressed by PwC in the original report, or any other disclosure included in the Original Filing.This Amendment consists solely of the preceding cover page, this explanatory note, Part II, Item 8. “Financial Statements and Supplementary Data,” in its entirety, Part IV. Item 15. “Exhibits and Financial Statement Schedules,” in its entirety, the signature page, and new certifications.As required by Rule 12b-15 under the Securities Exchange Act of 1934, as amended, this Amendment includes new certifications required by Sections 302 and 906 of the Sarbanes-Oxley Act of 2002, as amended, from the Company’s principal executive officer and principal financial officer, dated as of the filing date of this Amendment.This Amendment speaks as of the date of the Original Filing, does not reflect events that may have occurred after the date of the Original Filing and does not modify or update in any way the disclosures made in the Original Filing, except as described above. This Amendment should be read in conjunction with the Original Filing and with the Company’s subsequent filings with the SEC.
+1
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.TABLE OF CONTENTS
+Page
+Part II
+Item 8.
+Financial Statements and Supplementary Data
+3
+Part IV
+Item 15.
+Exhibits and Financial Statement Schedules
+3
+Signatures
+6
+2
+Item 8.	Financial Statements and Supplementary DataOur financial statements and the accompanying notes to our financial statements are included under Item 15 of this Annual Report on Form 10-K/A. Part IVItem 15.	Exhibits and Financial Statement Schedules(a)List of documents filed as part of this report:(1)Financial Statements:The financial statements of the Company are contained herein on pages 9 - 22 of this Annual Report on Form 10-K/A.The consolidated financial statements of the Operating Partnership are contained herein on pages 25 - 54 of this Annual Report on Form 10-K/A.(2)Financial Statement Schedules:Schedules for which provision is made in the applicable accounting regulations of the SEC are not required under the related instructions or are not applicable to the Company or the Operating Partnership, and therefore have been omitted.(3)Exhibits:The list of exhibits filed as part of this Annual Report is set forth on the Exhibit Index attached hereto.
+3
+EXHIBIT INDEX
+Exhibit No.
+Description
+1.1
+Dealer Manager Agreement (incorporated by reference to Exhibit 1.1 to the Company’s Quarterly Report on Form 10-Q, as filed by the Company with the Securities and Exchange Commission on November 14, 2023)
+1.2
+Form of Participating Broker-Dealer Agreement (incorporated by reference to Exhibit 1.2 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed June 16, 2023)
+1.3
+Form of Selected RIA Agreement (incorporated by reference to Exhibit 1.3 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed June 16, 2023)
+3.1
+Articles of Amendment and Restatement (incorporated by reference to Exhibit 3.1 to the Company’s Registration Statement on Form S-11 (File. No. 333-272750) filed September 22, 2023)
+3.2
+Amended and Restated Bylaws (incorporated by reference to Exhibit 3.2 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+4.1
+Distribution Reinvestment Plan (incorporated by reference to Appendix A to the prospectus included in the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+4.2
+Share Repurchase Plan (incorporated by reference to Exhibit 4.2 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+4.3
+Net Asset Value Calculation and Valuation Guidelines (incorporated by reference to Exhibit 4.3 to the Company’s Annual Report on Form 10-K for the year ended December 31, 2023 filed March 20, 2024)
+10.1
+Advisory Agreement dated August 24, 2023, by and among IPC Alternative Real Estate Income Trust, Inc., IPC Alternative Real Estate Operating Partnership, LP and IPC Alternative Real Estate Advisor, LLC (incorporated by reference to Exhibit 10.1 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+10.2
+Third Amended and Restated IPC Alternative Real Estate Operating Partnership, LP Partnership Agreement dated June 27, 2024 (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed August 14, 2024)
+10.3
+Form of Indemnification Agreement (incorporated by reference to Exhibit 10.4 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed June 16, 2023)
+10.4
+Trademark License Agreement, dated June 12, 2023, by and between IPC Alternative Real Estate Income Trust, Inc. and The Inland Real Estate Group, LLC (incorporated by reference to Exhibit 10.3 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed June 16, 2023)
+10.5
+Independent Director Compensation Plan (incorporated by reference to Exhibit 10.6 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+10.6
+Form of Restricted Stock Award Agreement (incorporated by reference to Exhibit 10.7 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+10.7
+Revolving Credit Facility Loan Agreement, dated October 27, 2023, by and between IPC Alternative Real Estate Operating Partnership, LP and Inland Private Capital Corporation (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed October 30, 2023)
+10.8
+Revolving Promissory Note, dated October 27, 2023, by IPC Alternative Real Estate Operating Partnership, LP (incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed October 30, 2023)
+10.9
+Dealer Manager Agreement, dated February 13, 2024, by and among IPC Alternative Real Estate Operating Partnership, LP, IPC Alternative Real Estate Income Trust, Inc. (for purposes of Section 4(a)) and Inland Securities Corporation (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed February 15, 2024)
+10.10
+Form of Selected Dealer Agreement to be entered into by Inland Securities Corporation (incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed February 15, 2024)
+10.11
+Form of Selected RIA Agreement to be entered into by Inland Securities Corporation (incorporated by reference to Exhibit 10.3 to the Company’s Current Report on Form 8-K filed February 15, 2024)
+10.12
+Purchase Obligation Agreement, dated February 13, 2024, by and among IPC Alternative Real Estate Operating Partnership, LP and Self-Storage Portfolio V Exchange, L.L.C., in its capacity as signatory trustee of Self-Storage
+4
+Portfolio V DST, Self-Storage Portfolio V DST, AL Self-Storage DST, and GA Self-Storage DST, and Inland Private Capital Corporation as a joinder party (incorporated by reference to Exhibit 10.4 to the Company’s Current Report on Form 8-K filed February 15, 2024)
+10.13
+Form of Property Management Agreement (incorporated by reference to Exhibit 10.8 to the Company’s Registration Statement on Form S-11 (File No. 333-272750) filed September 22, 2023)
+10.14
+Form of Placement Agent Agreement for DST Program (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed August 14, 2024)
+10.15
+Form of Option Agreement (incorporated by reference to Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed August 14, 2024)
+10.16
+Form of Tax Protection Agreement (incorporated by reference to Exhibit 10.4 to the Company’s Quarterly Report on Form 10-Q filed August 14, 2024)
+10.17
+Indemnification Agreement by and between Inland Private Capital Corporation, the Company and IPC Alternative Real Estate Operating Partnership, LP, dated June 27, 2024 (incorporated by reference to Exhibit 10.5 to the Company’s Quarterly Report on Form 10-Q filed August 14, 2024)
+10.18
+Modification to Loan Documents Agreement, dated November 26, 2024, by and between IPC Alternative Real Estate Operating Partnership, LP and Inland Private Capital Corporation (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed December 3, 2024)
+19.1
+IPC Alternative Real Estate Income Trust, Inc. Insider Trading Policy (incorporated by reference to Exhibit 19.1 to the Company’s Annual Report on Form 10-K filed on March 19, 2025)
+21.1
+Subsidiaries of the Registrant (incorporated by reference to Exhibit 21.1 to the Company’s Annual Report on Form 10-K filed on March 19, 2025)
+31.1*
+Certification by Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification by Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1*
+Certification by Principal Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2*
+Certification by Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS**
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document.
+101.SCH**
+Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Documents
+104**
+Inline XBRL Taxonomy Extension Schema Document
+* Filed as part of this Annual Report on Form 10-K/A.
+** Previously submitted with the Company’s Annual Report on Form 10-K filed on March 19, 2025.
+5
+SIGNATURESPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Annual Report on Form 10-K/A to be signed on its behalf by the undersigned thereunto duly authorized.
+IPC Alternative Real Estate Income Trust, Inc.
+By:
+/s/ Jerry Kyriazis
+Name:
+Jerry Kyriazis
+Chief Financial Officer(principal financial officer and principal accounting officer)
+Date:
+August 22, 2025
+6
+INDEX TO FINANCIAL STATEMENTS
+Page
+IPC Alternative Real Estate Income Trust, Inc.
+Report of Independent Registered Public Accounting Firm
+8
+Financial Statements:
+Balance Sheets as of December 31, 2024 and 2023
+9
+Statements of Operations and Comprehensive Loss for the year ended December 31, 2024 and for the period from June 12, 2023 (date of initial capitalization) through December 31, 2023
+10
+Statements of Equity for the year ended December 31, 2024 and for the period from June 12, 2023 (date of initial capitalization) through December 31, 2023
+11
+Statements of Cash Flows for the year ended December 31, 2024 and for the period from June 12, 2023 (date of initial capitalization) through December 31, 2023
+12
+Notes to Financial Statements
+13
+IPC Alternative Real Estate Operating Partnership, LP (formerly known as IPC Alternative Assets Operating Partnership, LP)
+Report of Independent Registered Public Accounting Firm
+24
+Financial Statements:
+Consolidated Balance Sheets as of December 31, 2024 and 2023
+25
+Consolidated Statements of Operations and Comprehensive Income (Loss) for the years ended December 31, 2024, 2023 and 2022
+26
+Consolidated Statements of Partners’ Capital for the years ended December 31, 2024, 2023 and 2022
+27
+Consolidated Statements of Cash Flows for the years ended December 31, 2024, 2023 and 2022
+28
+Notes to Consolidated Financial Statements
+30
+7
+Report of Independent Registered Public Accounting Firm  To the Board of Directors and stockholders of IPC Alternative Real Estate Income Trust, Inc.  Opinion on the Financial StatementsWe have audited the accompanying balance sheets of IPC Alternative Real Estate Income Trust, Inc. (the “Company”) as of December 31, 2024 and 2023, and the related statements of operations and comprehensive loss, of equity, and of cash flows for the year ended December 31, 2024 and the period from June 12, 2023 (date of initial capitalization) through December 31, 2023, including the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its operations and its cash flows for the year ended December 31, 2024 and the period from June 12, 2023 (date of initial capitalization) through December 31, 2023 in conformity with accounting principles generally accepted in the United States of America.Basis for OpinionThese financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.We conducted our audits of these financial statements in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion.Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion./s/ PricewaterhouseCoopers LLPChicago, IllinoisMarch 19, 2025 We have served as the Company’s auditor since 2023.
+8
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.BALANCE SHEETS(Dollar amounts in thousands, except per share amounts)
+December 31, 2024
+December 31, 2023
+ASSETS
+Assets:
+Investment in Operating Partnership
+$
+4,678
+$
+2,651
+Distributions receivable from Operating Partnership
+19
+10
+Receivable from Operating Partnership
+32
+—
+Total assets
+$
+4,729
+$
+2,661
+LIABILITIES AND EQUITY
+Liabilities:
+Distributions payable
+$
+19
+$
+10
+Due to related party
+32
+—
+Total liabilities
+51
+10
+Commitments and contingencies (Note 8)
+Equity:
+Preferred stock, $0.01 par value per share, 100,000,000 shares authorized, 0 shares issued and      outstanding as of December 31, 2024 and 2023
+—
+—
+Common stock, Class T shares, $0.01 par value per share, 500,000,000 shares authorized,      21,175 and 0 shares issued and outstanding as of December 31, 2024 and 2023, respectively
+—
+—
+Common stock, Class S shares, $0.01 par value per share, 500,000,000 shares authorized,      0 shares issued and outstanding as of December 31, 2024 and 2023
+—
+—
+Common stock, Class D shares, $0.01 par value per share, 500,000,000 shares authorized,      2,266 and 0 shares issued and outstanding as of December 31, 2024 and      2023, respectively
+—
+—
+Common stock, Class I shares, $0.01 par value per share, 500,000,000 shares authorized,      190,266 and 108,569 shares issued and outstanding as of December 31, 2024 and      2023, respectively
+2
+1
+Common stock, Class A shares, $0.01 par value per share, 100,000,000 shares authorized,      0 shares issued and outstanding as of December 31, 2024 and 2023
+—
+—
+Additional paid-in capital
+5,242
+2,722
+Accumulated deficit
+(464
+)
+(29
+)
+Accumulated other comprehensive loss
+(102
+)
+(43
+)
+Total equity
+4,678
+2,651
+Total liabilities and equity
+$
+4,729
+$
+2,661
+See accompanying notes to financial statements.
+9
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS(Dollar amounts in thousands, except per share amounts)
+For the year ended December 31, 2024
+For the period from June 12, 2023 (date of initial capitalization) through December 31, 2023
+Other Income (Expenses):
+Loss from equity method investment in Operating Partnership
+$
+(287
+)
+$
+(16
+)
+Net loss
+$
+(287
+)
+$
+(16
+)
+Net loss per common share, basic and diluted (1)
+$
+(2.11
+)
+$
+(0.70
+)
+Weighted average number of common shares outstanding, basic and diluted (1)
+136,210
+23,215
+Comprehensive income (loss):
+Net loss
+$
+(287
+)
+$
+(16
+)
+Comprehensive loss from Operating Partnership
+(59
+)
+(43
+)
+Comprehensive loss
+$
+(346
+)
+$
+(59
+)
+(1) The information for the period from June 12, 2023 (date of initial capitalization) through December 31, 2023 has been retroactively restated to reflect the stock split effected in the form of a stock dividend. See Note 4 for further information.See accompanying notes to financial statements.
+10
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.STATEMENTS OF EQUITY(Dollar amounts in thousands)
+Par value
+Preferred Stock
+Common Stock(1)
+Common StockClass T
+Common StockClass S
+Common StockClass D
+Common StockClass I(1)
+Common StockClass A
+AdditionalPaid-inCapital
+Accumulated Deficit
+Accumulated Other Comprehensive Loss
+Total Equity
+Balance at June 12, 2023 (date of initial capitalization)
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+Proceeds from issuance of common stock
+—
+—
+—
+—
+—
+1
+—
+2,699
+—
+—
+2,700
+Common stock distributions declared
+—
+—
+—
+—
+—
+—
+—
+—
+(13
+)
+—
+(13
+)
+Equity-based compensation
+—
+—
+—
+—
+—
+—
+—
+23
+—
+—
+23
+Net loss
+—
+—
+—
+—
+—
+—
+—
+—
+(16
+)
+—
+(16
+)
+Comprehensive loss from Operating Partnership
+—
+—
+—
+—
+—
+—
+—
+—
+—
+(43
+)
+(43
+)
+Balance at December 31, 2023
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+1
+$
+—
+$
+2,722
+$
+(29
+)
+$
+(43
+)
+$
+2,651
+Proceeds from issuance of common stock
+—
+—
+—
+—
+—
+1
+—
+2,420
+—
+—
+2,421
+Offering costs
+—
+—
+—
+—
+—
+—
+—
+(51
+)
+—
+—
+(51
+)
+Proceeds from distribution reinvestment plan
+—
+—
+—
+—
+—
+—
+—
+8
+—
+—
+8
+Common stock distributions declared
+—
+—
+—
+—
+—
+—
+—
+—
+(148
+)
+—
+(148
+)
+Equity-based compensation
+—
+—
+—
+—
+—
+—
+—
+143
+—
+—
+143
+Net loss
+—
+—
+—
+—
+—
+—
+—
+—
+(287
+)
+—
+(287
+)
+Comprehensive loss from Operating Partnership
+—
+—
+—
+—
+—
+—
+—
+—
+—
+(59
+)
+(59
+)
+Balance at December 31, 2024
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+2
+$
+—
+$
+5,242
+$
+(464
+)
+$
+(102
+)
+$
+4,678
+(1) Refer to Note 4 regarding the conversion of common stock and stock split effected in the form of a stock dividend for Class I shares.See accompanying notes to financial statements.
+11
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.STATEMENTS OF CASH FLOWS(Dollar amounts in thousands)
+For the year ended December 31, 2024
+For the period from June 12, 2023 (date of initial capitalization) through December 31, 2023
+Cash flows from operating activities:
+Net loss
+$
+(287
+)
+$
+(16
+)
+Adjustments to reconcile net loss to net cash provided by operating    activities:
+Loss from equity method investment in Operating Partnership
+287
+16
+Net cash flows provided by operating activities
+—
+—
+Cash flows from investing activities:
+Investment in Operating Partnership
+(2,412
+)
+(2,700
+)
+Distributions from investment in Operating Partnership
+139
+3
+Due from Operating Partnership
+1
+—
+Net cash flows used in investing activities
+(2,272
+)
+(2,697
+)
+Cash flows from financing activities:
+Proceeds from issuance of common stock
+2,404
+2,700
+Proceeds from distribution reinvestment plan
+8
+—
+Payment of offering costs
+(1
+)
+Distributions paid to common stockholders
+(139
+)
+(3
+)
+Net cash flows provided by financing activities
+2,272
+2,697
+Net change in cash and cash equivalents
+—
+—
+Cash and cash equivalents, at beginning of the period
+—
+—
+Cash and cash equivalents, at end of the period
+$
+—
+$
+—
+Supplemental schedule of non-cash investing and financing activities:
+Distributions payable
+$
+19
+$
+10
+Equity-based compensation - Restricted stock issued and investment in Operating Partnership
+$
+143
+$
+23
+Accrued distribution fee due to related party
+$
+32
+$
+—
+See accompanying notes to financial statements.
+12
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)NOTE 1 – ORGANIZATIONIPC Alternative Real Estate Income Trust, Inc. (the “Company”) was incorporated on June 12, 2023 as a Maryland corporation and intends to elect and qualify to be treated as a real estate investment trust (“REIT”) for U.S. federal income tax purposes for the taxable year ended December 31, 2024. Until that time, the Company will be subject to taxation at regular corporate rates under the Internal Revenue Code of 1986, as amended (the “Internal Revenue Code”). The Company was originally formed on June 17, 2021 as a Delaware limited liability company named Inland Private Capital Alternative Assets Fund, LLC and converted to a Maryland corporation on June 12, 2023. The Company is the sole general partner of IPC Alternative Real Estate Operating Partnership, LP, a Delaware limited partnership (the “Operating Partnership”) (originally formed under the name IPC Alternative Assets Operating Partnership, LP). The Company has no employees.The Company is externally managed by IPC Alternative Real Estate Advisor, LLC (the “Advisor”), a Delaware limited liability company, an affiliate of Inland Real Estate Investment Corporation, a Delaware corporation (“IREIC”), pursuant to an advisory agreement dated August 24, 2023 among the Company, the Operating Partnership and the Advisor (the “Advisory Agreement”). Prior to the effective date of the Advisory Agreement, the Company had been externally managed pursuant to a Business Management Agreement (the “Business Management Agreement”) assigned to IPC Alternative Real Estate Advisor, LLC by IPC Alternative Assets Business Manager, LLC, an affiliate of Inland Private Capital Corporation, a Delaware corporation (“IPC”), effective as of October 1, 2022. There were no updates to the terms of the Business Management Agreement as a result of the assignment. On August 24, 2023, the Business Management Agreement was terminated and replaced by the Advisory Agreement, which is effective from August 1, 2023.The Company conducts substantially all of its business and owns, indirectly, substantially all of its assets through the Operating Partnership. The Company, through the Operating Partnership, will invest in stabilized, income-generating commercial real estate across alternative property types, with a non-exclusive focus on self-storage facilities, student housing properties and healthcare-related properties. Healthcare-related assets may include medical outpatient buildings, ambulatory surgery centers, senior living communities and life science and laboratory facilities. The Company, through the Operating Partnership, may also invest in value-add or other development projects in these asset classes, potentially through a variety of ownership structures including but not limited to direct ownership, joint ventures, co-investment opportunities, preferred equity positions and others.On September 28, 2023, the Company’s Registration Statement on Form S-11 (File No. 333-272750) with respect to the Company’s public offering was declared effective by the Securities and Exchange Commission (“SEC”). The Company has registered an offering of up to $1,250,000 in shares of common stock with the SEC, consisting of up to $1,000,000 in shares in its primary offering and up to $250,000 in shares pursuant to its distribution reinvestment plan (the “Offering”). The Company is offering to sell any combination of four classes of shares of its common stock: Class T shares, Class S shares, Class D shares and Class I shares, with a dollar value up to the maximum offering amount. The share classes have different upfront selling commissions and dealer manager fees, and different ongoing distribution fees. The purchase price per share for each class of common stock will vary and will generally equal the Company’s prior month’s net asset value (“NAV”) per share, as determined monthly, plus applicable upfront selling commissions and dealer manager fees.When the Company receives proceeds from the Offering, the Company contributes such proceeds to the Operating Partnership and receives Operating Partnership units (“OP Units”) that correspond to the classes of the shares sold. The Company accounts for the units acquired in the Operating Partnership as an equity method investment during any period that the Company’s investment in the Operating Partnership is not considered significant to the Operating Partnership and expects to consolidate the Operating Partnership at such time that the Company’s investment in the Operating Partnership is considered significant to the Operating Partnership, and thereafter present the results of operations on a consolidated basis.On December 1, 2023, the Company issued and sold 99,634 shares of its Class I common stock (no Class T, Class S or Class D shares were issued or sold as of such date) in the Offering and the escrow agent released net proceeds of approximately $2,500 to the Company as payment for such shares.As of December 31, 2024, the Company holds 21,175 Class T OP Units, 2,266 Class D OP Units and 190,266 Class I OP Units in the Operating Partnership accounted for as an equity method investment. See Note 3 - “Investment in Operating Partnership” for further information.
+13
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIESBasis of PresentationThe accompanying financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and require management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods. Actual results could differ from those estimates.Equity Method AccountingThe Company accounts for an investment under equity method of accounting when the requirements for consolidation are not met and the Company has significant influence over the operations of the entity. Investments under equity method of accounting are initially recorded at cost and subsequently adjusted for the Company’s pro-rata share of net income, contributions, redemptions and distributions. The Company’s investments in unconsolidated entities are periodically assessed for impairment and an impairment loss is recorded when the fair value of the investment falls below the carrying value and such decline is determined to be other-than-temporary.Distributions received from equity method investments are classified in the statement of cash flows as either operating or investing activities based on the cumulative earnings approach. Under the cumulative earnings approach, the Company compares distributions received to cumulative equity method earnings since inception. Any distributions received up to the amount of cumulative equity earnings are considered a return on investment and classified in operating activities. Any excess distributions are considered a return of investment and classified in investing activities.Cash and Cash EquivalentsThe Company considers all demand deposits, money market accounts and all short-term investments with a maturity of three months or less, at the date of purchase, to be cash equivalents. The account balance may exceed the Federal Deposit Insurance Corporation (“FDIC”) insurance coverage and, as a result, there could be a concentration of credit risk related to amounts on deposit in excess of FDIC insurance coverage. The Company believes that the risk will not be significant, as the Company seeks to mitigate this risk by depositing funds only with major financial institutions.Income TaxesThe Company intends to make an election to be taxed as a real estate investment trust (“REIT”) under Sections 856 through 860 of the Internal Revenue Code commencing with its taxable year ended December 31, 2024. Until that time, the Company will be subject to taxation at regular corporate rates under the Internal Revenue Code. If the Company qualifies for taxation as a REIT, the Company generally will not be subject to federal income tax on taxable income that is distributed to stockholders. A REIT is subject to a number of organizational and operational requirements, including a requirement that it currently distributes at least 90% of its REIT taxable income (subject to certain adjustments and excluding any net capital gain) to its stockholders. The Company will monitor the business and transactions that may potentially impact its REIT status. If the Company fails to qualify as a REIT in any taxable year, without the benefit of certain statutory relief provisions, the Company will be subject to tax as a “C corporation.” Even if the Company qualifies for taxation as a REIT, the Company may be subject to certain state and local taxes on its income, property or net worth and federal income and excise taxes. Any taxable REIT subsidiaries generally will be subject to federal income tax applicable to “C corporations.”The Company had no uncertain tax positions as of December 31, 2024 or 2023. The Company expects no significant increases or decreases in uncertain tax positions due to changes in tax positions within one year of December 31, 2024. The Company had no interest or penalties relating to income taxes recognized on the statements of operations and comprehensive loss for the year ended December 31, 2024 or for the period from June 12, 2023 (date of initial capitalization) through December 31, 2023. As of December 31, 2024, returns for the calendar year 2023 remain subject to examination by U.S. and various state and local tax jurisdictions.Organization and Offering ExpensesThe Operating Partnership is responsible for all the organization and offering expenses, other than upfront selling commissions, dealer manager fees and distribution fees, for the Operating Partnership as well as the Company. Upfront selling commissions, dealer manager fees and distribution fees will begin to be paid once the Company receives purchase orders for the minimum offering amount. When
+14
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+recorded by the Operating Partnership, organization expenses will be expensed as incurred, and offering expenses will be charged to equity as incurred.Equity-Based CompensationIn accordance with the Company’s Independent Director Compensation Plan (the “DCP”), restricted shares are issued to independent directors as compensation. Because the compensation expense for the restricted shares is recognized at the Operating Partnership, the Operating Partnership issues an equivalent number of units to the Company. The Company recognizes the issuance of such units as an investment in Operating Partnership. The Operating Partnership recognizes expense related to the fair value of equity-based compensation awards as an operating expense in its statement of operations and comprehensive loss. The Operating Partnership recognizes expense based on the fair value at the grant date on a straight-line basis over the vesting period representing the requisite service period. See Note 7 – “Equity-Based Compensation” for further information.Accounting Pronouncements Recently AdoptedIn November 2023, the Financial Accounting Standards Board (the “FASB”) issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which requires a public entity to disclose significant segment expenses and other segment items, on an annual and interim basis, and to provide in interim periods all disclosures that are currently required annually regarding a reportable segment’s profit or loss and assets. ASU 2023-07 is effective for fiscal years beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024, early adoption was permitted. The amendments should be applied retrospectively to all periods presented in the financial statements, unless it is impracticable. The adoption did not have any impact on the Company’s financial statements.Accounting Pronouncements Recently Issued but Not Yet EffectiveIn December 2023, FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. ASU 2023-09 improves the transparency of income tax disclosures related to rate reconciliation and income taxes. ASU 2023-07 is effective for annual periods beginning after December 15, 2024. Early adoption is permitted for annual financial statements that have not yet been issued or made available for issuance. The amendments should be applied prospectively, however retrospective application is permitted. The Company is currently evaluating the impact of ASU 2023-09 on the Company’s financial statements.In November 2024, the FASB issued ASU 2024-03, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. ASU 2024-03 requires disclosures in the notes to the financial statements on specified information about certain costs and expenses that are included on the face of the income statement for each interim and annual reporting period. ASU 2024-03 is effective for annual reporting periods beginning after December 15, 2026 and interim periods within annual reporting periods beginning after December 15, 2027, with early adoption permitted, and may be applied either prospectively or retrospectively. The Company is currently evaluating the impact of ASU 2024-03 on the Company’s financial statements.NOTE 3 – INVESTMENT IN OPERATING PARTNERSHIPDuring the year ended December 31, 2024, the Company contributed $2,555, which includes $143 for the issuance of Class I OP Units corresponding to the restricted share grants, to the Operating Partnership and received 21,175 Class T OP Units, 2,266 Class D OP Units and 81,698 Class I OP Units. During the period from June 12, 2023 (date of initial capitalization) through December 31, 2023, the Company contributed $2,723, which includes $23 for the issuance of Class I OP Units corresponding to the restricted share grants, to the Operating Partnership and received 108,569 Class I OP Units. In determining whether the Company has a controlling financial interest in the Operating Partnership, the Company considered whether the Operating Partnership is a variable interest entity and whether the Company is the primary beneficiary. Even though the Company has the power to direct the most significant activities impacting the economic performance of the Operating Partnership, the Company lacks the obligation to absorb losses or the right to receive benefits of the Operating Partnership that could potentially be significant to the Operating Partnership. As such, the Company’s investment in the Operating Partnership is accounted for using the equity method of accounting. Management evaluates reconsideration events as they occur. Reconsideration events include, among other criteria, changes in the capital balances of the Operating Partnership.
+15
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+As of December 31, 2024, the Operating Partnership owned 30 medical outpatient properties totaling 746,601 square feet (unaudited), four self-storage properties totaling 250,755 square feet (unaudited) and one student housing property with 406 student housing beds (unaudited). The properties owned as of December 31, 2024 are located in 12 states. As of December 31, 2023, the Operating Partnership owned 30 medical outpatient properties totaling 746,601 square feet (unaudited) and one student housing property with 406 student housing beds (unaudited). The properties owned as of December 31, 2023 are located in 10 states. The Operating Partnership has no employees.The Company’s investment in the Operating Partnership as of December 31, 2024 was as follows:
+Carrying Amount
+Ownership Percentage (1)
+December 31, 2024 (2)
+Class T OP Units
+0.4
+%
+$
+469
+Class D OP Units
+0.0
+%
+50
+Class I OP Units
+3.3
+%
+4,159
+Total
+3.7
+%
+$
+4,678
+(1)Represents OP Units held by the Company as a percentage of total OP Units outstanding at the Operating Partnership. As of December 31, 2024, the Operating Partnership had issued Class A OP Units, Class T OP Units, Class D OP Units and Class I OP Units, and 82.9% of the Class T OP Units, 100% of the Class D OP Units and 67.5% of the Class I OP Units were held by the Company.(2)Excludes $98 of basis difference. The basis difference originated from the difference between the contributions the Company made for its ownership interest in the Operating Partnership, which were based on fair value, and the book value of the Company’s share of the underlying total partners’ capital of the Operating Partnership. The Company accretes the basis difference on a straight-line basis consistent with the lives of the underlying assets. The accretion of the basis difference was $5 for the year ended December 31, 2024 and is included within loss from equity method investment in Operating Partnership in the accompanying statements of operations and comprehensive loss.The Company’s investment in the Operating Partnership as of December 31, 2023 was as follows:
+Carrying Amount
+Ownership Percentage (1)
+December 31, 2023 (2)
+Class I OP Units
+1.9
+%
+$
+2,651
+(1)Represents Class I OP Units held by the Company as a percentage of total OP Units outstanding at the Operating Partnership. As of December 31, 2023, the Operating Partnership had issued Class A OP Units and Class I OP Units, and 100% of the Class I OP Units were held by the Company.(2)Excludes $189 of basis difference. The basis difference originated from the difference between the contributions the Company made for its ownership interest in the Operating Partnership, which were based on fair value, and the book value of the Company’s share of the underlying total partners’ capital of the Operating Partnership. The Company accretes the basis difference on a straight-line basis consistent with the lives of the underlying assets. The accretion of the basis difference was $1 for the period from June 12, 2023 (date of initial capitalization) through December 31, 2023, and is included within loss from equity method investment in Operating Partnership in the accompanying statements of operations and comprehensive loss.Profits and losses of the Operating Partnership are allocated to its unitholders in proportion to their ownership of the OP Units. The Company’s share of the Operating Partnership’s loss for the year ended December 31, 2024 and from August 21, 2023, which is the date of the Company’s initial contribution to the Operating Partnership, through December 31, 2023 was as follows:
+Year Ended December 31, 2024
+Period EndedDecember 31, 2023
+IPC Alternative Real Estate Operating Partnership, LP
+$
+(287
+)
+(16
+)
+The amounts reflected in the following tables reflect the financial information of the Operating Partnership.
+16
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+The following table provides the summarized balance sheet of the Operating Partnership as of December 31, 2024 and 2023:
+December 31, 2024
+December 31, 2023
+Total assets
+$
+452,955
+$
+431,796
+Total liabilities
+$
+320,238
+$
+276,429
+Total partners’ capital
+$
+132,717
+$
+155,367
+The following table provides the summarized income statement of the Operating Partnership for the years ended December 31, 2024 and 2023:
+Year Ended December 31,
+2024
+2023
+Total revenues
+$
+33,650
+$
+30,021
+Net loss
+$
+(11,711
+)
+$
+(7,324
+)
+NOTE 4 – EQUITYAs of December 31, 2024, the Company is authorized to issue a total of 2,200,000,000 shares of capital stock. Of the total shares of stock authorized, 2,100,000,000 shares are classified as common stock with a par value of $0.01 per share, 500,000,000 of which are classified as Class T shares, 500,000,000 of which are classified as Class S shares, 500,000,000 of which are classified as Class D shares, 500,000,000 of which are classified as Class I shares and 100,000,000 of which are classified as Class A shares, and 100,000,000 shares are classified as preferred stock with a par value of $0.01 per share.On June 12, 2023, the Company was capitalized with a $200 investment by IREIC, as the sponsor, in exchange for 200 shares of the Company’s common stock. On August 10, 2023, the Company filed Articles of Amendment and Restatement with the State Department of Taxation and Assessments of Maryland amending and restating its charter and converting each share of its issued and outstanding common stock to one issued and outstanding share of Class I common stock. On August 22, 2023, the Company effected a stock split in the form of a stock dividend of 39 shares for each of its issued and outstanding shares of common stock resulting in 8,000 Class I shares issued and outstanding.On December 1, 2023, the Company issued and sold 99,634 shares of its Class I common stock (no Class T, Class S or Class D shares were issued or sold as of such date) in the Offering and the escrow agent released net proceeds of approximately $2,500 to the Company as payment for such shares.The Company is not offering Class A shares in the Offering, and the Company had no Class A shares outstanding as of December 31, 2024. However, pursuant to the Operating Partnership’s partnership agreement, after holding OP Units for at least two years (or such shorter period as consented to by the Company), OP Unit holders have the right to require the Operating Partnership to redeem all or a portion of such OP Units for, at the Company’s discretion, cash or common stock. If the Company were to issue shares in exchange for Class A OP Units, the Company would expect to issue Class A shares with economic features that mirror those of Class A OP Units, including class-specific allocations for the management fee to the Company’s Advisor and the performance participation allocation to IPC REIT Special Limited Partner, LP (the “Special Limited Partner”). See Note 6 – “Transactions with Related Parties” for further information.Distribution Reinvestment PlanThe Company has adopted a distribution reinvestment plan (“DRP”) whereby stockholders (other than Alabama, Arkansas, California, Idaho, Kansas, Kentucky, Maine, Maryland, Massachusetts, Nebraska, New Jersey, North Carolina, Ohio, Oregon, Vermont and Washington investors and clients of certain participating broker-dealers that do not permit automatic enrollment in the DRP) will have their cash distributions automatically reinvested in additional shares of the Company’s common stock unless they elect to receive their distributions in cash. Alabama, Arkansas, California, Idaho, Kansas, Kentucky, Maine, Maryland, Massachusetts, Nebraska, New Jersey, North Carolina, Ohio, Oregon, Vermont and Washington investors and clients of certain participating broker-dealers that do not permit automatic enrollment in the DRP will automatically receive their distributions in cash unless they elect to have their cash distributions reinvested in additional shares of the Company’s common stock. The purchase price for shares purchased under the DRP will be equal to the transaction price for such shares at the time the distribution is payable, which will generally be equal to the Company’s prior month’s NAV per share for that share class. Stockholders will not pay upfront selling commissions or dealer manager fees when purchasing shares under the DRP; however, all outstanding Class T, Class S and Class D shares, including those purchased
+17
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+under the DRP, will be subject to ongoing distribution fees. The distribution fees with respect to shares of the Company’s Class T shares, Class S shares and Class D shares are calculated based on the Company’s NAV for those shares and may reduce the NAV or, alternatively, the distributions payable with respect to shares of each such class, including shares issued in respect of distributions on such shares under the DRP.There were $8 of distributions reinvested through the DRP during the year ended December 31, 2024. There were no distributions reinvested through the DRP during the period June 12, 2023 (date of initial capitalization) through December 31, 2023.Share Repurchase PlanThe Company has adopted a share repurchase plan (“SRP”), whereby on a monthly basis, stockholders may request that the Company repurchase all or any portion of their shares. The Company may choose to repurchase all, some or none of the shares that have been requested to be repurchased at the end of any particular month, in its discretion, subject to any limitations in the SRP. The total amount of aggregate repurchases of Class T, Class S, Class D, and Class I shares will be limited to 2% of the aggregate NAV per month and 5% of the aggregate NAV per calendar quarter. Shares would be repurchased at a price equal to the transaction price on the applicable repurchase date, subject to any early repurchase deduction. Shares that have not been outstanding for at least one year would be repurchased at 95% of the transaction price. In the event that the Company, in its sole discretion, elects to issue Class A shares to holders of OP Units seeking redemption, the Company expects to amend the SRP to address the repurchase of Class A shares on the same terms that are applicable to the Class T, Class S, Class D and Class I shares. Due to the illiquid nature of investments in real estate, the Company may not have sufficient liquid resources to fund repurchase requests and has established limitations on the amount of funds the Company may use for repurchases during any calendar month and quarter. Further, the board of directors of the Company may modify or suspend the SRP if in its reasonable judgment it deems such action to be in the Company’s best interest.There were no repurchases through the SRP during the year ended December 31, 2024. There were no repurchases through the SRP during the period June 12, 2023 (date of initial capitalization) through December 31, 2023.Share Activity for Common Stock and Preferred StockThe following tables detail the change in the Company’s outstanding shares of all classes of common and preferred stock:
+For the year ended December 31, 2024
+Preferred Stock
+Common StockClass T
+Common StockClass S
+Common StockClass D
+Common StockClass I
+Common StockClass A
+Beginning balance
+—
+—
+—
+—
+108,569
+—
+Issuance of shares
+—
+21,154
+—
+2,266
+75,639
+—
+Distribution reinvestment
+—
+21
+—
+—
+336
+—
+Issuance of restricted shares (Note 7)
+—
+—
+—
+—
+5,722
+—
+Ending balance
+—
+21,175
+—
+2,266
+190,266
+—
+For the period from June 12, 2023 (date of initial capitalization)through December 31, 2023
+Preferred Stock
+Common Stock
+Common StockClass T
+Common StockClass S
+Common StockClass D
+Common StockClass I
+Common StockClass A
+Beginning balance
+—
+—
+—
+—
+—
+—
+—
+Issuance of shares
+—
+200
+—
+—
+—
+99,634
+—
+Conversion of shares
+—
+(200
+)
+—
+—
+—
+200
+—
+Stock split
+—
+—
+—
+—
+—
+7,800
+—
+Issuance of restricted shares (Note 7)
+—
+—
+—
+—
+—
+935
+—
+Ending balance
+—
+—
+—
+—
+—
+108,569
+—
+18
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+DistributionsThe table below presents the aggregate gross and net distributions declared per share for each applicable class of common stock during the year ended December 31, 2024. The gross distribution was reduced each month for Class T shares and Class D shares of the Company’s common stock for applicable class-specific distribution fees to arrive at a lower net distribution amount paid to such class. For a description of the distribution fees applicable to Class D, Class S and Class T shares of the Company’s common stock, please see “Note 6 - Transactions with Related Parties” below. As of December 31, 2024, the Company had not issued any shares of Class S common stock. The table excludes distributions for any month for a class of shares of common stock when there were no shares of that class outstanding on the applicable record date.
+Class T Shares
+Class D Shares
+Class I Shares
+Aggregate gross distributions declared per share
+$
+0.7080
+$
+0.0885
+$
+1.0620
+Distribution fee per share
+0.1388
+0.0051
+N/A
+Net distributions declared per share
+$
+0.5692
+$
+0.0834
+$
+1.0620
+The table below presents the aggregate distributions declared per share for each applicable class of common stock during the period from June 12, 2023 (date of initial capitalization) through December 31, 2023. As of December 31, 2023, the Company had not issued any shares of Class D, Class S or Class T common stock. The table excludes distributions for any month for a class of shares of common stock when there were no shares of that class outstanding on the applicable record date.
+Class I Shares
+Aggregate distributions declared per share
+$
+0.4425
+For federal income tax purposes, REIT distributions may consist of ordinary dividend income, qualified dividend income, non-taxable return of capital, capital gains or a combination thereof. Distributions to the extent of the Company’s current and accumulated earnings and profits for federal income tax purposes are taxable to the recipient as either ordinary income or, if so declared by the Company, qualified dividend income or capital gains dividends. Distributions in excess of these earnings and profits (calculated for income tax purposes) constitute a non-taxable return of capital rather than ordinary dividend income or a capital gain divided and reduce the recipient’s tax basis in the shares to the extent thereof. Distributions in excess of earnings and profits that reduce a recipient’s tax basis in the shares have the effect of deferring taxation of the amount of the distribution until the sale of the stockholder’s shares. If the recipient’s tax basis is reduced to zero, distributions in excess of the aforementioned earnings and profits (calculated for income tax purposes) constitute taxable gain.The following table outlines the tax character of distributions on shares of the Company’s common stock paid in 2024 as a percentage of total distribution:
+2024
+Ordinary income
+—
+Capital gain
+—
+Return of capital
+100
+%
+NOTE 5 – EARNINGS PER SHAREBasic earnings per share (“EPS”) is computed by dividing net income (loss) by the weighted average number of common shares outstanding for the period (the “common shares”). Diluted EPS is computed by dividing net income by the common shares plus common share equivalents (“Diluted EPS”). The Company’s common share equivalents are unvested restricted shares. The Company excludes antidilutive restricted shares from the calculation of weighted-average shares for Diluted EPS. As a result of a net loss for both the year ended December 31, 2024 and the period from June 12, 2023 (date of initial capitalization) through December 31, 2023, no additional shares related to restricted shares were included in the computation of Diluted EPS.
+19
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+NOTE 6 – TRANSACTIONS WITH RELATED PARTIESPursuant to the Advisory Agreement between the Company, the Operating Partnership and the Advisor, the Advisor is responsible for sourcing, evaluating and monitoring the Company’s and the Operating Partnership's investment opportunities and making decisions related to the acquisition, management, financing and disposition of the Company’s and the Operating Partnership’s assets, in accordance with the Company’s investment objectives, guidelines, policies and limitations, subject to oversight by the Company’s board of directors.The Company or the Operating Partnership pay all of their costs and expenses directly or reimburse the Advisor or its affiliates for costs and expenses of the Advisor and its affiliates incurred on behalf of the Company. In addition, the Operating Partnership will reimburse the Company for all administrative expenses incurred by the Company on behalf of the Operating Partnership.Certain affiliates of the Company, including the Advisor, will receive fees and compensation in connection with the Offering and ongoing management of the assets of the Company and the Operating Partnership. As compensation for its services provided pursuant to the Advisory Agreement, the Company or the Operating Partnership pays the Advisor a management fee equal to (i) 1.25% of aggregate NAV of the Operating Partnership attributable to outstanding Class T OP Units, Class S OP Units, Class D OP Units and Class I OP Units of the Operating Partnership and (ii) 0.50% of the aggregate NAV of the Operating Partnership attributable to outstanding Class A OP Units, in each case per annum payable monthly in arrears. The management fee may be paid, at the Advisor’s election, in cash, Class I shares of the Company or Class I OP Units of the Operating Partnership.The Special Limited Partner holds a performance participation interest in the Operating Partnership that entitles the Special Limited Partner to receive an allocation of “Total Return” and “Class A Total Return.” “Total Return” is defined as distributions paid or accrued on OP Units (excluding Class A OP Units) plus the change in the NAV of such OP Units (excluding Class A OP Units), adjusted for subscriptions and repurchases. Under the Third Amended and Restated Limited Partnership Agreement of the Operating Partnership, dated June 27, 2024 (as may be amended or restated from time to time, the “Amended and Restated Limited Partnership Agreement”), the annual Total Return will be allocated solely to the Special Limited Partner only after the Class T OP Unit, Class S OP Unit, Class D OP Unit and Class I OP Unit holders have received a total return of 5% (after recouping any loss carryforward amount) and such allocation will continue until the allocation between the Special Limited Partner and all other such OP Unit holders is equal to 12.5% and 87.5%, respectively. Thereafter, the Special Limited Partner will receive an allocation of 12.5% of the annual Total Return. “Class A Total Return” is defined as distributions paid or accrued on Class A OP Units plus the change in the NAV of such Class A OP Units, adjusted for subscriptions and repurchases. Under the Amended and Restated Limited Partnership Agreement, the annual Class A Total Return will be allocated solely to the Special Limited Partner only after the Class A OP Unit holders have received a total return of 5% (after recouping any loss carryforward amount) and such allocation will continue until the allocation between the Special Limited Partner and all other unit holders is equal to 12.5% and 87.5%, respectively. Thereafter, the Special Limited Partner will receive an allocation of 12.5% of the annual Class A Total Return. The performance participation allocations are subject to a loss carryforward which initially equaled zero and is cumulatively increased by the absolute value of any negative annual Total Return or Class A Total Return (as applicable) and decreased by any positive annual Total Return or Class A Total Return (as applicable), provided that the loss carryforward amount shall at no time be less than zero and provided further that the calculation of the loss carryforward amount will exclude the Total Return or Class A Total Return (as applicable) related to any OP Units redeemed during the year, which are subject to the performance participation allocation upon redemption. Such allocations to the Special Limited Partner will accrue monthly and will be paid annually in cash or Class I OP Units at the election of the Special Limited Partner. The performance participation allocations are a class-specific accrual.The Company and the Operating Partnership may retain certain of the Advisor’s affiliates, from time to time, for services relating to the Company’s and the Operating Partnership’s investments or their operations, which may include accounting and audit services, account management services, corporate secretarial services, data management services, directorship services, information technology services, finance/budget services, human resources, judicial processes, legal services, operational services, risk management services, tax services, treasury services, loan management services, construction management services, property management services, leasing services, loan origination services, debt servicing, brokerage services, transaction support services (which may consist of assembling relevant information with respect to investment acquisitions and dispositions, conducting financial and market analyses, coordinating closing and post-closing procedures, coordinating of design and development works, coordinating with brokers, lawyers, accountants and other advisors, assisting with due diligence, site visits and other services), transaction consulting services and other similar operational matters. Any fees paid to the Advisor’s affiliates for any such services will not reduce the management fee payable to the Advisor or the performance participation allocations.In addition, Inland Securities Corporation (the “Dealer Manager”) serves as the dealer manager for the Offering. The Dealer Manager is a registered broker-dealer affiliated with the Advisor. The Company entered into an agreement dated September 28, 2023 (the “Dealer Manager Agreement”) with the Dealer Manager in connection with the Offering. The Company’s obligations under the Dealer Manager
+20
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+Agreement to pay the distribution fees with respect to the Class T, Class S and Class D shares distributed in the Offering will survive until such shares are no longer outstanding (including such shares that have been converted into Class I shares).The Dealer Manager is entitled to receive upfront selling commissions of up to 3.0%, and upfront dealer manager fees of 0.5%, of the transaction price of each Class T share sold in the primary offering; however such amounts may vary at certain participating broker-dealers provided that the sum will not exceed 3.5% of the transaction price. The Dealer Manager is entitled to receive upfront selling commissions of up to 3.5% of the transaction price of each Class S share sold in the primary offering. The Dealer Manager may be entitled to receive upfront selling commissions of up to 1.5% of the transaction price of each Class D share sold in the primary offering. The Dealer Manager anticipates that all or a portion of the upfront selling commissions and dealer manager fees will be retained by, or reallowed (paid) to, participating broker-dealers. No upfront selling commissions or dealer manager fees are paid with respect to purchases of Class I shares or shares of any class sold pursuant to the DRP. The Dealer Manager will also receive selling commissions over time as distribution fees of 0.85%, 0.85% and 0.25% per annum of the aggregate NAV of the Company’s outstanding Class T, Class S and Class D shares, respectively. The Company will cease paying the distribution fee with respect to any Class T share, Class S share or Class D share sold in the primary offering at the end of the month in which the total upfront selling commissions, dealer manager fees and distribution fees paid with respect to such share would equal or exceed, in the aggregate, 8.75% (or a lower limit as set forth in the applicable agreement between the Dealer Manager and a participating broker-dealer at the time such shares were issued) of the gross proceeds from the sale of such shares and purchased in a primary offering (i.e., an offering other than a distribution reinvestment plan). The Company will accrue the cost of the distribution fee as an offering cost at the time each Class T, Class S and Class D share is sold during the primary offering. There will not be a distribution fee with respect to Class I shares. The Dealer Manager will reallow (pay) all or a portion of the distribution fees to participating broker-dealers and servicing broker-dealers, and will waive distribution fees to the Company to the extent a broker-dealer is not eligible to receive them.As of December 31, 2024 and 2023, $32 and $0 of distribution fees payable to the Dealer Manager and the corresponding receivable from the Operating Partnership have been reflected as due to related party and receivable from Operating Partnership, respectively, on the accompanying balance sheets.Related Party Share OwnershipAs of both December 31, 2024 and 2023, IREIC and its affiliates held 107,634 Class I shares in the Company.NOTE 7 – EQUITY-BASED COMPENSATIONThe table below summarizes total stock grants made at each grant date as of December 31, 2024.
+Grant Date
+Class of common stock granted
+Total number of shares granted
+Grant Date Fair Value Per Share
+Total Fair Value of Grant
+Vesting Date
+10/2/2023
+Class I
+935
+$
+24.89
+$
+23
+10/2/2024
+3/19/2024
+Class I
+2,387
+$
+25.01
+$
+60
+3/19/2025
+8/1/2024
+Class I
+3,335
+$
+24.89
+$
+83
+8/1/2025
+Under the DCP, restricted shares generally vest over a one-year period from the date of the grant, subject to the specific terms of the grant. Restricted shares are included in common stock outstanding on the date of grant. Compensation expense, which is equal to the grant-date value of the restricted shares, is amortized by the Operating Partnership over the vesting period representing the requisite service period. The total fair value at the vesting date for restricted shares that vested during the year ended December 31, 2024 was $22. There were no restricted shares that vested during the period from June 12, 2023 (date of initial capitalization) through December 31, 2023.
+21
+IPC ALTERNATIVE REAL ESTATE INCOME TRUST, INC.NOTES TO FINANCIAL STATEMENTS(Dollar amounts in thousands, except share data and per share amounts)
+A summary of the status of the restricted shares granted under the DCP is presented below:
+RestrictedShares
+Outstanding at June 12, 2023
+—
+Granted (at grant date fair value of $24.89 per share)
+935
+Vested
+—
+Outstanding at December 31, 2023
+935
+Granted (at weighted average grant date fair value of $24.94 per share)
+5,722
+Vested
+(935
+)
+Outstanding at December 31, 2024
+5,722
+NOTE 8 – COMMITMENTS AND CONTINGENCIESThe Company may be subject, from time to time, to various legal proceedings and claims that arise in the ordinary course of business. As of December 31, 2024 and 2023, the Company was not subject to any material litigation or aware of any pending or threatened material litigation.NOTE 9 – SUBSEQUENT EVENTSIn connection with the preparation of its financial statements, the Company has evaluated events that occurred through the issuance of these financial statements to determine whether any of these events required disclosure in the financial statements.Share IssuancesSubsequent to December 31, 2024, the Company issued and sold in the Offering (i) 20,068 shares of Class T common stock, 2,881 shares of Class D common stock and 24,396 shares of Class I common stock in the primary offering for total proceeds of $1,163 and (ii) 74 shares of Class T common stock, 43 shares of Class D common stock and 332 shares of Class I common stock pursuant to the DRP for a total value of $11.DistributionsOn January 30, 2025, the Company announced that the board of directors authorized a distribution to stockholders of record as of January 31, 2025, that the Company paid on or about February 5, 2025, for each class of its common stock in the amount per share set forth below:
+GrossDistribution
+Distribution Fee
+NetDistribution
+Class T Common Stock
+$
+0.1042
+$
+0.0175
+$
+0.0867
+Class D Common Stock
+$
+0.1042
+$
+0.0052
+$
+0.0990
+Class I Common Stock
+$
+0.1042
+N/A
+$
+0.1042
+On February 27, 2025, the Company announced that the board of directors authorized a distribution to stockholders of record as of February 28, 2025, that the Company paid on or about March 5, 2025, for each class of its common stock in the amount per share set forth below:
+GrossDistribution
+Distribution Fee
+NetDistribution
+Class T Common Stock
+$
+0.1042
+$
+0.0158
+$
+0.0884
+Class D Common Stock
+$
+0.1042
+$
+0.0047
+$
+0.0995
+Class I Common Stock
+$
+0.1042
+N/A
+$
+0.1042
+22
+Financial Statements of the Operating PartnershipWe account for the units acquired in the Operating Partnership as an equity method investment during any period our investment in the Operating Partnership is not considered significant to the Operating Partnership and will consolidate the Operating Partnership at such time our investment in the Operating Partnership is considered significant to the Operating Partnership (based on generally accepted accounting principles), and thereafter present the results of operations on a consolidated basis. We expect to invest our capital and all our Offering proceeds in the Operating Partnership and hold no other assets other than Operating Partnership units. We therefore expect to eventually consolidate the Operating Partnership. As such, we have included audited consolidated financial statements of the Operating Partnership as of December 31, 2024 and 2023 and for the years ended December 31, 2024, 2023 and 2022, as we believe these financial statements would be meaningful to investors, and subsequent invested capital will be significant to us.
+23
+Report of Independent Registered Public Accounting Firm  To the General Partner and unitholders of IPC Alternative Real Estate Operating Partnership, LP  Opinion on the Financial StatementsWe have audited the accompanying consolidated balance sheets of IPC Alternative Real Estate Operating Partnership, LP (formerly known as IPC Alternative Assets Operating Partnership, LP) and its subsidiaries (the “Company”) as of December 31, 2024 and 2023, and the related consolidated statements of operations and comprehensive income (loss), of partners’ capital and of cash flows for each of the three years in the period ended December 31, 2024, including the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2024 in conformity with accounting principles generally accepted in the United States of America.Basis for OpinionThese consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.We conducted our audits of these consolidated financial statements in accordance with the standards of the PCAOB and in accordance with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion./s/ PricewaterhouseCoopers LLPChicago, IllinoisMarch 19, 2025 We have served as the Company’s auditor since 2022.
+24
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)CONSOLIDATED BALANCE SHEETS(Dollar amounts in thousands)
+December 31, 2024
+December 31, 2023
+ASSETS
+Assets:
+Investment properties held and used:
+Land
+$
+56,953
+$
+47,068
+Building and other improvements
+381,450
+349,665
+Total
+438,403
+396,733
+Less: accumulated depreciation
+(41,542
+)
+(27,857
+)
+Net investment properties held and used
+396,861
+368,876
+Cash and cash equivalents
+7,825
+6,695
+Restricted cash
+349
+270
+Accounts and rent receivable
+5,030
+4,098
+Acquired lease intangible assets, net
+30,394
+34,318
+Finance lease right-of-use asset, net
+2,047
+2,101
+Operating lease right-of-use assets, net
+3,371
+3,409
+Due from related parties (Note 10)
+—
+166
+Other assets
+7,078
+11,863
+Total assets
+$
+452,955
+$
+431,796
+LIABILITIES AND PARTNERS’ CAPITAL
+Liabilities:
+Mortgage loans payable, net
+$
+269,859
+$
+235,437
+Credit facility payable (Note 10)
+10,000
+—
+Accounts payable and accrued expenses
+2,543
+2,907
+Finance lease liability
+2,850
+2,812
+Operating lease liability
+1,746
+1,731
+Distributions payable
+510
+518
+Redemptions payable
+1,665
+205
+Acquired lease intangible liabilities, net
+29,029
+30,742
+Due to related parties (Note 10)
+251
+337
+Other liabilities
+1,785
+1,740
+Total liabilities
+320,238
+276,429
+Commitments and contingencies (Note 9)
+Partners’ Capital:
+General Partner
+—
+—
+Limited Partners
+126,805
+146,709
+Accumulated other comprehensive income
+5,912
+8,658
+Total partners’ capital
+132,717
+155,367
+Total liabilities and partners’ capital
+$
+452,955
+$
+431,796
+See accompanying notes to consolidated financial statements.
+25
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)(Dollar amounts in thousands)For the years ended December 31, 2024, 2023 and 2022
+2024
+2023
+2022
+Revenues:
+Rental revenue
+$
+33,406
+$
+29,913
+$
+25,356
+Other property revenue
+244
+108
+17
+Total revenues
+33,650
+30,021
+25,373
+Expenses:
+Property operating expenses
+5,112
+3,724
+2,038
+Real estate tax expense
+1,485
+1,380
+896
+General and administrative expenses
+4,419
+2,286
+722
+Advisor management fee (Note 10)
+759
+900
+930
+Depreciation and amortization
+19,219
+17,516
+15,540
+Total expenses
+30,994
+25,806
+20,126
+Other Income (Expense):
+Interest expense
+(14,577
+)
+(11,577
+)
+(8,552
+)
+Interest and other income
+210
+38
+327
+Net loss
+$
+(11,711
+)
+$
+(7,324
+)
+$
+(2,978
+)
+Comprehensive income (loss):
+Net loss
+$
+(11,711
+)
+$
+(7,324
+)
+$
+(2,978
+)
+Unrealized gain on derivatives
+3,620
+2,199
+13,137
+Reclassification adjustment for amounts included in net loss
+(6,366
+)
+(6,601
+)
+(1,123
+)
+Comprehensive (loss) income
+$
+(14,457
+)
+$
+(11,726
+)
+$
+9,036
+See accompanying notes to consolidated financial statements.
+26
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)CONSOLIDATED STATEMENTS OF PARTNERS’ CAPITAL(Dollar amounts in thousands)For the years ended December 31, 2024, 2023 and 2022
+Consolidated Statements of Partners’ Capital
+General Partner’s Capital
+Limited Partners’ Capital
+AccumulatedOther ComprehensiveIncome
+TotalPartners’ Capital
+Balance at December 31, 2021
+$
+—
+$
+180,964
+$
+1,046
+$
+182,010
+Distributions
+—
+(12,131
+)
+—
+(12,131
+)
+Unrealized gain on derivatives
+—
+—
+13,137
+13,137
+Reclassification adjustment for amounts    included in net loss
+—
+—
+(1,123
+)
+(1,123
+)
+Net loss
+—
+(2,978
+)
+—
+(2,978
+)
+Balance at December 31, 2022
+$
+—
+$
+165,855
+$
+13,060
+$
+178,915
+Contributions
+—
+2,710
+—
+2,710
+Redemptions of Class A OP Units
+—
+(1,623
+)
+—
+(1,623
+)
+Distributions
+—
+(9,097
+)
+—
+(9,097
+)
+Equity-based compensation
+—
+6
+—
+6
+Offering costs
+—
+(3,818
+)
+—
+(3,818
+)
+Unrealized gain on derivatives
+—
+—
+2,199
+2,199
+Reclassification adjustment for amounts    included in net loss
+—
+—
+(6,601
+)
+(6,601
+)
+Net loss
+—
+(7,324
+)
+—
+(7,324
+)
+Balance at December 31, 2023
+$
+—
+$
+146,709
+$
+8,658
+$
+155,367
+Contributions
+—
+4,815
+—
+4,815
+Redemptions of Class A OP Units
+—
+(6,242
+)
+—
+(6,242
+)
+Distributions
+—
+(6,188
+)
+—
+(6,188
+)
+Equity-based compensation
+—
+102
+—
+102
+Offering costs
+—
+(680
+)
+—
+(680
+)
+Unrealized gain on derivatives
+—
+—
+3,620
+3,620
+Reclassification adjustment for amounts    included in net loss
+—
+—
+(6,366
+)
+(6,366
+)
+Net loss
+—
+(11,711
+)
+—
+(11,711
+)
+Balance at December 31, 2024
+$
+—
+$
+126,805
+$
+5,912
+$
+132,717
+See accompanying notes to consolidated financial statements.
+27
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)CONSOLIDATED STATEMENTS OF CASH FLOWS(Dollar amounts in thousands)For the years ended December 31, 2024, 2023 and 2022
+2024
+2023
+2022
+Cash flows from operating activities:
+Net loss
+$
+(11,711
+)
+$
+(7,324
+)
+$
+(2,978
+)
+Adjustments to reconcile net loss to net cash provided by operating    activities:
+Depreciation and amortization
+19,219
+17,516
+15,540
+Amortization of debt issuance costs and premium/discount
+1,708
+1,665
+1,341
+Amortization of acquired above- and below-market leases, net
+(1,389
+)
+(1,389
+)
+(1,389
+)
+Amortization of equity-based compensation
+102
+6
+—
+Amortization of finance lease right-of-use asset
+54
+55
+58
+Amortization of operating lease right-of-use assets
+38
+39
+39
+Realized gain on termination of interest rate swaps
+(185
+)
+—
+—
+Straight-line income
+(964
+)
+(1,293
+)
+(1,674
+)
+Changes in assets and liabilities:
+Accounts and rent receivable
+32
+104
+(179
+)
+Due from related parties
+166
+(166
+)
+1,110
+Other assets
+(157
+)
+(388
+)
+44
+Accounts payable and accrued expenses
+(405
+)
+569
+(71
+)
+Due to related parties
+(122
+)
+(280
+)
+(414
+)
+Operating lease liability
+15
+18
+20
+Other liabilities
+2,088
+1,219
+(358
+)
+Net cash flows provided by operating activities
+8,489
+10,351
+11,089
+Cash flows from investing activities:
+Cash used to purchase investment properties
+(22,642
+)
+—
+(15,709
+)
+Related party loan receivable
+—
+—
+20,000
+Capital expenditures and tenant improvements
+(718
+)
+(1,007
+)
+(492
+)
+Other investing activities
+25
+(45
+)
+—
+Net cash flows (used in) provided by investing activities
+(23,335
+)
+(1,052
+)
+3,799
+Cash flows from financing activities:
+Contributions
+2,412
+2,710
+—
+Proceeds from mortgage loans
+34,122
+—
+—
+Payment of mortgage loans
+(17,735
+)
+(262
+)
+—
+Proceeds from credit facility
+19,000
+—
+—
+Payment of credit facility
+(9,000
+)
+—
+—
+Redemptions of Class A OP Units
+(4,782
+)
+(1,418
+)
+—
+Payment of offering costs
+(644
+)
+(3,467
+)
+(172
+)
+Distributions paid
+(6,196
+)
+(9,590
+)
+(12,131
+)
+Cash paid for interest rate caps
+—
+(965
+)
+(1,650
+)
+Acquired interest rate swaps
+(1,004
+)
+—
+—
+Early termination of interest rate swaps
+1,189
+—
+—
+Payment of debt issuance costs
+(1,307
+)
+—
+(236
+)
+Net cash flows provided by (used in) financing activities
+16,055
+(12,992
+)
+(14,189
+)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+1,209
+(3,693
+)
+699
+Cash, cash equivalents and restricted cash, at beginning of the period
+6,965
+10,658
+9,959
+Cash, cash equivalents and restricted cash, at end of the period
+$
+8,174
+$
+6,965
+$
+10,658
+See accompanying notes to consolidated financial statements.
+28
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)(Dollar amounts in thousands)For the years ended December 31, 2024, 2023 and 2022
+Supplemental disclosure of cash flow information:
+2024
+2023
+2022
+Cash paid for interest
+$
+10,816
+$
+8,931
+$
+6,754
+Supplemental schedule of non-cash investing and financing   activities:
+Distributions payable
+$
+510
+$
+518
+$
+1,011
+Redemptions payable
+$
+1,665
+$
+205
+$
+—
+Accrued capital expenditures
+$
+62
+$
+—
+$
+—
+Issuance of Class I OP Units for restricted share grants (Note 11)
+$
+143
+$
+—
+$
+—
+In conjunction with the purchase of investment properties, the Operating    Partnership acquired assets and assumed liabilities as follows:
+Land
+$
+9,885
+$
+—
+$
+4,914
+Building and improvements
+31,006
+—
+32,217
+Acquired in-place lease intangibles
+1,934
+—
+1,311
+Assumed mortgage loans
+(17,634
+)
+—
+(22,000
+)
+Discount on assumed mortgage loan
+—
+—
+669
+Other assumed liabilities, net
+(145
+)
+—
+(1,402
+)
+Total consideration to purchase investment properties
+25,046
+—
+15,709
+Issuance of Class I OP Units as consideration for the acquisition of real estate
+(2,294
+)
+—
+—
+Issuance of Class T OP Units as consideration for the acquisition of real estate
+(110
+)
+—
+—
+Cash used to purchase investment properties
+$
+22,642
+$
+—
+$
+15,709
+See accompanying notes to consolidated financial statements.
+29
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS(Dollar amounts in thousands)NOTE 1 – ORGANIZATIONIPC Alternative Real Estate Operating Partnership, LP (formerly known as IPC Alternative Assets Operating Partnership, LP) (the “Operating Partnership”), a Delaware limited partnership, was formed on June 21, 2021 and commenced operations on September 2, 2021. On June 12, 2023, the Operating Partnership changed its name from IPC Alternative Assets Operating Partnership, LP to IPC Alternative Real Estate Operating Partnership, LP. IPC Alternative Real Estate Income Trust, Inc. (the “General Partner”), formerly known as Inland Private Capital Alternative Assets Fund, LLC, is the sole general partner of the Operating Partnership. The General Partner converted to a Maryland corporation effective June 12, 2023. As of December 31, 2024, the Operating Partnership owned 30 medical outpatient properties totaling 746,601 square feet (unaudited), four self-storage properties totaling 250,755 square feet (unaudited) and one student housing property with 406 student housing beds (unaudited). The properties are located in 12 states. The Operating Partnership has no employees.The Operating Partnership is externally managed by IPC Alternative Real Estate Advisor, LLC, a Delaware limited liability company, an affiliate of Inland Real Estate Investment Corporation, a Delaware corporation (“IREIC”), pursuant to an advisory agreement dated August 24, 2023 among the Operating Partnership, the General Partner and IPC Alternative Real Estate Advisor, LLC (the “Advisory Agreement”). Prior to the effective date of the Advisory Agreement, the Operating Partnership had been externally managed pursuant to a Business Management Agreement (the “Business Management Agreement”) assigned to IPC Alternative Real Estate Advisor, LLC by IPC Alternative Assets Business Manager, LLC, an affiliate of Inland Private Capital Corporation, a Delaware corporation (“IPC”), effective as of October 1, 2022. There were no updates to the terms of the Business Management Agreement as a result of the assignment. On August 24, 2023, the Business Management Agreement was terminated and replaced by the Advisory Agreement. IPC Alternative Assets Business Manager, LLC, until September 30, 2022, and IPC Alternative Real Estate Advisor, LLC, effective October 1, 2022, are referred to herein as the “Advisor.”Pursuant to the Advisory Agreement, the Advisor is responsible for sourcing, evaluating and monitoring the General Partner’s and the Operating Partnership’s investment opportunities and making decisions related to the acquisition, management, financing and disposition of the General Partner’s and Operating Partnership’s assets, in accordance with the General Partner’s investment objectives, guidelines, policies and limitations, subject to oversight by the General Partner’s board of directors.On September 28, 2023, the General Partner’s registration statement (the “Registration Statement”) on Form S-11 to register up to $1,250,000 in shares of common stock under a blind pool offering was declared effective by the Securities and Exchange Commission (the “SEC”). The General Partner will contribute the proceeds from the offering to the Operating Partnership. The General Partner intends to elect and qualify to be treated as a real estate investment trust (“REIT”) for U.S. federal income tax purposes for the taxable year ended December 31, 2024. Until that time, the General Partner will be subject to taxation at regular corporate rates under the Internal Revenue Code of 1986, as amended. As of December 31, 2024, the Operating Partnership had 5,809,423 Operating Partnership Units (“OP Units”) outstanding, comprised of 25,556 Class T OP Units, 2,266 Class D OP Units, 5,499,623 Class A OP Units and 281,978 Class I OP Units. The General Partner held 21,175 of the Class T OP Units, 2,266 of the Class D OP Units and 190,266 of the Class I OP Units, representing a total 3.7% interest in the Operating Partnership as of December 31, 2024. The Operating Partnership and the General Partner anticipate that the contribution of offering proceeds from the General Partner to the Operating Partnership will ultimately result in consolidation of the Operating Partnership by the General Partner.The Operating Partnership has invested and intends to invest, through anticipated follow-on investment activity, in stabilized, income-generating commercial real estate across alternative property types, with a non-exclusive focus on self-storage facilities, student housing properties and healthcare-related properties. Healthcare-related assets may include medical outpatient buildings, ambulatory surgery centers, senior living communities and life science and laboratory facilities. The Operating Partnership may also invest in value-add or other development projects in these asset classes, potentially through a variety of ownership structures including but not limited to direct ownership, joint ventures, co-investment opportunities, preferred equity positions and others.
+30
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIESBasis of PresentationThe consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and require management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting periods. Actual results could differ from those estimates. Information with respect to square footage and occupancy is unaudited.AcquisitionsUpon acquisition of real estate investment properties, the total purchase price of each property that is accounted for as an asset acquisition is allocated based on the relative fair value of the tangible and intangible assets acquired and liabilities assumed based on Level 3 inputs, such as comparable sales values, discount rates, capitalization rates, revenue and expense growth rates and lease-up assumptions. The acquisition date is the date on which control of the real estate investment property is obtained and transaction costs are capitalized.Assets and liabilities acquired typically include land, building and site improvements and identified intangible assets and liabilities, consisting of the value of above-market and below-market leases and the value of in-place leases. The portion of the purchase price allocated to above-market lease values is included in acquired lease intangible assets, net and is amortized on a straight-line basis over the term of the related lease as a reduction to rental revenue. The portion allocated to below-market lease values is included in acquired intangible liabilities, net and is amortized as an increase to rental revenue over the term of the lease including any bargain renewal periods included in the measurement. The portion of the purchase price allocated to acquired in-place lease value is included in acquired lease intangible assets, net and is amortized on a straight-line basis over the acquired leases’ weighted average remaining term. The amortization of acquired in-place lease value is included in depreciation and amortization in the consolidated statements of operations and comprehensive income (loss). Subsequent to the acquisition, if a tenant modifies its lease, the unamortized portion of identified intangibles are assessed to determine whether their useful lives need to be amended (generally accelerated).The fair value of the tangible assets consisting of land and buildings is determined by valuing the property as if it were vacant, and the “as-if-vacant” value is then allocated to land and buildings. If debt is assumed in an acquisition, the fair value of assumed debt is calculated based on the net present value of the mortgage payments using interest rates for debt with similar terms and maturities. Differences between the fair value and the stated value is recorded as a discount or premium and amortized over the remaining term using the effective interest method.Impairment of Long-Lived AssetsCarrying values of long-lived assets are assessed whenever events or changes in circumstances indicate that the carrying amount may not be fully recoverable. Recoverability is assessed by comparison of the carrying amount of the asset to the estimated future undiscounted cash flows based on current market conditions, as well as intent with respect to holding or disposing of the asset. If the recoverability assessment indicates that the carrying value of the long-lived asset is not recoverable on an undiscounted cash flow basis, an impairment charge is recognized for the amount by which the carrying value exceeds the current estimated fair value. Fair value is determined through various valuation techniques, including discounted cash flow models and quoted market values.Projected cash flows in an impairment assessment are based on management’s intent and judgment. Long-lived assets expected to be held long-term are assessed on estimated future cash flows during the estimated hold period which may include estimates for operating income and termination value. Long-lived assets expected to be sold are assessed on the asset’s fair value less estimated cost to sell.The use of projected future cash flows is based on assumptions that are consistent with the Operating Partnership’s estimates of future expectations and the strategic plan used to manage the underlying business. However, assumptions and estimates about future cash flows are complex and subjective, including comparable sales values, discount rates, capitalization rates, and market rental rates. Changes in economic and operating conditions that occur subsequent to the impairment analysis could impact these assumptions and result in future impairment charges of long-lived assets.For the years ended December 31, 2024, 2023 and 2022, there were no impairment charges.
+31
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Cash and Cash EquivalentsThe Operating Partnership considers all demand deposits, money market accounts and all short-term investments with a maturity of three months or less, at the date of purchase, to be cash equivalents. The account balance may exceed the Federal Deposit Insurance Corporation (“FDIC”) insurance coverage and, as a result, there could be a concentration of credit risk related to amounts on deposit in excess of FDIC insurance coverage. The Operating Partnership believes that the risk will not be significant, as the Operating Partnership seeks to mitigate this risk by depositing funds only with major financial institutions.Restricted CashAmounts included in restricted cash represent those required to be set aside by lenders for real estate taxes, insurance, capital expenditures and tenant improvements on the Operating Partnership’s existing properties. These amounts also include post close escrows for tenant improvements, leasing commissions, master lease, tenant security deposits, general repairs and maintenance, and are classified as restricted cash on the Operating Partnership’s consolidated balance sheets.The following table provides a reconciliation of cash, cash equivalents and restricted cash reported on the Operating Partnership’s consolidated balance sheets to such amounts shown on the Operating Partnership’s consolidated statements of cash flows:
+December 31,
+2024
+2023
+Cash and cash equivalents
+$
+7,825
+$
+6,695
+Restricted cash
+349
+270
+Total cash, cash equivalents, and restricted cash
+$
+8,174
+$
+6,965
+Accounts and Rents ReceivableConsideration of the collectability of receivables includes certain factors that require judgment, including amounts outstanding and payment history of the tenant. Billed and accrued charges are considered in the evaluation of the collectability of a tenant’s receivable balance. For tenants where collectability of accounts receivable is not reasonably assured, revenue is recorded on a cash basis.Investment PropertiesReal estate properties held and used are recorded at cost less accumulated depreciation. Real estate properties held for sale are recorded at the lesser of their carrying value or fair value less selling costs. Improvement and betterment costs are capitalized, and ordinary repairs and maintenance are expensed as incurred.Real estate properties are classified as held for sale when the management concludes that a sale is likely. Criteria that may be considered in this determination include obtaining a signed purchase and sale agreement, the completion or waiving of due diligence by the seller, and the receipt of non-refundable earnest money from the seller.Cost capitalization and the estimate of useful lives require judgment and include significant estimates that can and do change. Depreciation expense is computed using the straight-line method. Estimated useful lives of assets, by class of asset, are generally as follows:
+Building and other improvements
+30 years
+Site improvements
+5-15 years
+Furniture, fixtures and equipment
+5-15 years
+Tenant improvements
+Shorter of the life of the asset or the term of the related lease
+Leasing fees
+Term of the related lease
+Depreciation expense was $13,685, $12,763 and $11,354 for the years ended December 31, 2024, 2023 and 2022, respectively.Debt Issuance CostsDebt issuance costs are amortized as a component of interest expense. These costs are reported as a direct deduction to the Operating Partnership’s outstanding mortgage loans payable.
+32
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Offering CostsOffering costs include, but are not limited to, legal, accounting, printing and mailing fees, filing fees and certain personnel costs of the Advisor and affiliates of the Operating Partnership attributable to the preparation of the Registration Statement and registration and qualification of the General Partner’s common stock under federal and state laws.Fair Value MeasurementsThe Operating Partnership has estimated fair value using available market information and valuation methodologies the Operating Partnership believes to be appropriate for these purposes. Considerable judgment and a high degree of subjectivity are involved in developing these estimates and, accordingly, they are not necessarily indicative of amounts that would be realized upon disposition.The Operating Partnership defines fair value based on the price that it believes would be received upon sale of an asset or the exit price that would be paid to transfer a liability in an orderly transaction between market participants at the measurement date. The Operating Partnership establishes a fair value hierarchy that prioritizes observable and unobservable inputs used to measure fair value. The fair value hierarchy consists of three broad levels, which are described below:
+Level 1 —
+Quoted prices in active markets for identical assets or liabilities that the entity has the ability to access.
+Level 2 —
+Observable inputs, other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets; quoted prices for identical or similar assets and liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data.
+Level 3 —
+Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets and liabilities. This includes certain pricing models, discounted cash flow methodologies and similar techniques that use significant unobservable inputs.
+The Operating Partnership’s cash equivalents, accounts receivable and payables and accrued expenses all approximate fair value due to the short term nature of these financial instruments. The Operating Partnership’s financial instruments measured on a recurring basis include derivative interest rate instruments. See Note 12 – “Fair Value Measurements” for further information.DerivativesThe Operating Partnership uses derivative instruments, such as interest rate swaps and interest rate caps, primarily to manage exposure to interest rate risks inherent in variable rate debt. The Operating Partnership may also enter into interest rate floor contracts, futures or forward contracts and options. The Operating Partnership’s interest rate swaps involve the receipt of variable-rate amounts from a counterparty in exchange for the Operating Partnership making fixed-rate payments over the life of the agreements without exchange of the underlying notional amount. The Operating Partnership’s interest rate caps involve the receipt of variable-rate amounts from a counterparty to the extent the cap index rate exceeds the strike rate specified in the respective interest rate cap agreement.The Operating Partnership records each derivative instrument either as an asset or a liability measured at its fair value at each reporting period. The Operating Partnership does not use derivatives for trading or speculative purposes and currently does not have any derivatives that are not designated as hedging instruments under the accounting requirements for derivatives and hedging. When hedge accounting is applied, the change in the fair value of derivatives designated and that qualify as cash flow hedges is (i) recorded in accumulated other comprehensive income (loss) and (ii) subsequently reclassified into earnings in the period in which the hedged forecasted transactions affect earnings. If specific hedge accounting criteria are not met, changes in the Operating Partnership’s derivative instruments’ fair value are recognized as an adjustment to net income.The Operating Partnership has elected to apply the hedge accounting expedients in FASB ASU 2020-04, Reference Rate Reform (Topic 848) related to probability and the assessments of the effectiveness for future LIBOR-indexed cash flows to assume that the index upon which future hedged transactions will be based matches the index on the corresponding derivatives. Application of these expedients preserves the presentation of derivatives consistent with past presentation.The Operating Partnership has elected to not offset derivative assets and liabilities in its consolidated balance sheets, even when an enforceable master netting agreement is in place that provides the Operating Partnership, in the event of counterparty default, the right to offset a counterparty’s rights and obligations. Derivative instruments are recorded as a component of either other assets or other liabilities on the Operating Partnership’s consolidated balance sheets at fair value.
+33
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Revenue RecognitionRental revenue is recognized based on a number of factors, including the initial determination that the contract is or contains a lease. Generally, all of the Operating Partnership’s contracts are, or contain leases, and therefore revenue is recognized on the lease commencement date when the leased asset has been made available for use by the lessee. At the commencement of a new lease, including new leases that arise from amendments, the Operating Partnership assesses the terms and conditions of the lease to determine the appropriate lease classification under ASC 842. Generally, leases with tenants are accounted for as operating leases.The determination of who is the owner of the tenant improvements determines the nature of the leased asset. If the Operating Partnership is the owner of the tenant improvements, then the tenant improvements are capitalized and depreciated over the lesser of the life of the lease or the useful life of the tenant improvement. If the Operating Partnership concludes it is not the owner of the tenant improvements (the lessee is the owner), then the tenant improvement allowances funded by the Operating Partnership under the lease are treated as lease incentives which reduce revenue recognized over the term of the lease. The Operating Partnership considers a number of different factors to evaluate whether it or the lessee is the owner of the tenant improvements for accounting purposes.Rental revenue is recognized on a straight-line basis over the term of each lease. The difference between rental revenue earned on a straight-line basis and the cash rent due under the provisions of the lease agreements is recorded as deferred rent receivable and is included as a component of accounts and rent receivable on the consolidated balance sheets.Reimbursements from tenants for recoverable expenses such as real estate tax, utilities and other operating expenses are accrued as revenue in the period the applicable expenses are incurred. Certain assumptions and judgments are made by management in estimating the reimbursements at the end of each reporting period. Management does not expect the actual results to materially differ from the estimated reimbursement. Management made the election for these reimbursements, which are non-lease components, to be combined with rental revenue.Lease termination income is recorded if there is a signed termination agreement, all of the conditions of the agreement have been met and amounts due are considered collectible. Such termination fees are recognized on a straight-line basis over the remaining lease term in rental revenue.As a lessor, the recognition of contingent rental revenue, such as percentage rent, is deferred until the specified target that triggered the contingent rental revenue is achieved.Ground LeasesThe Operating Partnership is the lessee under long-term ground leases classified as operating or financing leases. The Operating Partnership makes significant assumptions and judgments when determining the discount rate for the lease to calculate the present value of the lease payments. As the rate implicit in the lease is not readily determinable, the Operating Partnership estimates the incremental borrowing rate (“IBR”) that it would need to pay to borrow, on a collateralized basis, in a similar economic environment, over a similar lease term. The Operating Partnership utilizes a market-based approach to estimate the IBR for each individual lease.The present value of lease payments calculated using the IBR is recorded as a lease liability and a corresponding right-of-use asset. When an acquired property is subject to a ground lease, above- and below-market terms on such ground leases are recorded as a component of the right-of-use asset.Income TaxesThe Operating Partnership is not subject to federal income taxes as it is treated as a flow-through entity for U.S. federal income tax purposes. The allocable share of the Operating Partnership’s income and loss is reported on the Operating Partnership’s partners’ respective tax returns. Further, the Operating Partnership holds its interest in the investment properties through LLCs or similar entities. Generally, an LLC is treated as either a partnership or a disregarded entity for U.S. federal income tax purposes. As a result, LLCs are generally not subject to federal income taxes as the respective members/partners are taxed on their allocable share of the entity’s taxable income. Therefore, no provision or liability for federal income taxes has been included in the accompanying consolidated financial statements.The Operating Partnership may elect to treat certain of its corporate subsidiaries as taxable REIT subsidiaries (“TRSs”). In general, a TRS may perform additional services for the Operating Partnership’s tenants and generally may engage in any real estate or non-real
+34
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+estate-related business. A TRS is subject to federal, state and local corporate income tax, as applicable. The Operating Partnership will account for applicable income taxes by utilizing the asset and liability method. As such, the Operating Partnership will record deferred tax assets and liabilities for the future tax consequences resulting from the difference between the carrying value of existing assets and liabilities and their respective tax basis. A valuation allowance for deferred tax assets will be provided if the Operating Partnership believes all or some portion of the deferred tax asset may not be realized. During the years ended December 31, 2023 and 2022, the Operating Partnership did not conduct any operations through a TRS.The Operating Partnership had no uncertain tax positions as of December 31, 2024, 2023 or 2022. The Operating Partnership expects no significant increases or decreases in uncertain tax positions due to changes in tax positions within one year of December 31, 2024. The Operating Partnership had no interest or penalties relating to income taxes recognized on the consolidated statements of operations and comprehensive income (loss) for the years ended December 31, 2024, 2023 or 2022. As of December 31, 2024, returns for the calendar years 2021, 2022 and 2023 remain subject to examination by U.S. and various state and local tax jurisdictions.Equity-Based CompensationIn accordance with the General Partner’s Independent Director Compensation Plan (“DCP”), restricted shares are issued by the General Partner to its independent directors as compensation. Because the compensation expense for the restricted shares is recognized at the Operating Partnership, the Operating Partnership issues an equivalent number of units to the General Partner. The Operating Partnership recognizes expense related to the fair value of equity-based compensation awards as an operating expense in its consolidated statement of operations and comprehensive income (loss). The Operating Partnership recognizes expense based on the fair value at the grant date on a straight-line basis over the vesting period representing the requisite service period. See Note 11 – “Equity-Based Compensation” for further information.Accounting Pronouncements Recently AdoptedIn November 2023, the Financial Accounting Standards Board (the “FASB”) issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which requires a public entity to disclose significant segment expenses and other segment items, on an annual and interim basis, and to provide in interim periods all disclosures that are currently required annually regarding a reportable segment’s profit or loss and assets. ASU 2023-07 is effective for fiscal years beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024, early adoption was permitted. The amendments should be applied retrospectively to all periods presented in the financial statements, unless it is impracticable. The Operating Partnership has adopted ASU 2023-07 and updated its disclosures. See Note 13 - “Segment Reporting” for further information. The adoption did not have any impact on the Operating Partnership’s financial position, results of operations, or cash flows.Accounting Pronouncements Recently Issued but Not Yet EffectiveIn December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. ASU 2023-09 improves the transparency of income tax disclosures related to rate reconciliation and income taxes. ASU 2023-07 is effective for annual periods beginning after December 15, 2024. Early adoption is permitted for annual financial statements that have not yet been issued or made available for issuance. The amendments should be applied prospectively, however retrospective application is permitted. The Operating Partnership is currently evaluating the impact of ASU 2023-09 on the Operating Partnership’s consolidated financial statements.In November 2024, the FASB issued ASU 2024-03, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. ASU 2024-03 requires disclosures in the notes to the financial statements on specified information about certain costs and expenses that are included on the face of the income statement for each interim and annual reporting period. ASU 2024-03 is effective for annual reporting periods beginning after December 15, 2026 and interim periods within annual reporting periods beginning after December 15, 2027, with early adoption permitted, and may be applied either prospectively or retrospectively. The Operating Partnership is currently evaluating the impact of ASU 2024-03 on the Operating Partnership’s consolidated financial statements.
+35
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+NOTE 3 – ACQUISITIONS2024 AcquisitionsOn April 5, 2024, the Operating Partnership acquired four self-storage properties (the “Storage V Properties”) from an affiliate of IREIC, for a total purchase price of $43,869, including $17,634 of assumed loans (the “First Merchants Mortgage Loans”) and corresponding swaps of $1,004 from First Merchants Bank. The purchase price was determined based on appraisal performed by an independent third party appraiser. See Note 5 – “Debt and Derivative Instruments” for further information on the First Merchants Mortgage Loans.As part of the consideration, the Operating Partnership issued 4,381 Class T OP Units and 91,711 Class I OP Units. After holding the OP Units received in the acquisition for two years, the holders of such OP Units have the right to require the Operating Partnership to redeem all or a portion of the OP Units in exchange for shares of the General Partner’s common stock or cash, as determined by the General Partner in its sole discretion.The following table provides further details of the properties acquired during the year ended December 31, 2024:
+DateAcquired
+Property Name
+Location
+Property Type
+Square Footage (unaudited)
+PurchasePrice
+April 5, 2024
+Druid Hills Road
+Decatur, GA
+Self-Storage
+37,650
+$
+5,603
+April 5, 2024
+Cobb Parkway
+Marietta, GA
+Self-Storage
+59,250
+8,220
+April 5, 2024
+Thorington Road
+Montgomery, AL
+Self-Storage
+41,990
+9,461
+April 5, 2024
+Vaughn Road
+Montgomery, AL
+Self-Storage
+111,865
+19,581
+250,755
+$
+42,865
+The above acquisition was accounted for as an asset acquisition. For the year ended December 31, 2024, the Operating Partnership incurred $246 of total acquisition costs, which are capitalized in the accompanying consolidated balance sheet. These costs include third party due diligence costs such as appraisals, environmental studies and legal fees.The following table presents certain additional information regarding the Operating Partnership’s acquisition during the year ended December 31, 2024. The amounts recognized for major assets acquired and liabilities assumed as of the acquisition date are as follows:
+Year EndedDecember 31, 2024
+Land
+$
+9,885
+Building and improvements
+31,006
+Acquired in place lease intangibles
+1,934
+Assumed mortgage loans
+(17,634
+)
+Other assumed liabilities, net
+(145
+)
+Total consideration to purchase investment properties
+25,046
+Issuance of Class I OP Units as consideration for the acquisition of real estate
+(2,294
+)
+Issuance of Class T OP Units as consideration for the acquisition of real estate
+(110
+)
+Cash used to purchase investment properties
+$
+22,642
+In connection with the acquisition of the Storage V Properties, the General Partner and the Operating Partnership provided to those investors that elected to receive OP Units in connection with the transaction the opportunity to enter into a tax protection agreement. Pursuant to this agreement, the General Partner and the Operating Partnership agreed as follows: (a) during the five-year period starting on April 5, 2024, the Operating Partnership will not dispose of the storage properties in a taxable transaction, other than in certain enumerated situations and will indemnify such limited partners for taxes arising to them in the event of a breach of such agreement by the Operating Partnership; and (b) during the 10-year period starting on April 5, 2024, the Operating Partnership will provide such limited partners with opportunities to ensure that they are allocated sufficient liabilities (including, as applicable, through a guarantee by such holders of indebtedness of the Operating Partnership) to prevent gain from being recognized to them as a result of any deemed distributions that would otherwise arise from a decrease in their share of liabilities of the Operating Partnership. The Operating Partnership has not recorded a liability pursuant to the agreement, as it intends to hold these properties for the long term.2023 AcquisitionsThe Operating Partnership did not acquire any properties during the year ended December 31, 2023.
+36
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+2022 AcquisitionsOn December 1, 2022, the Operating Partnership acquired City Lofts on Laclede Student Housing (“University Lofts”) in St. Louis, MO, from an affiliate of the Operating Partnership, for a purchase price of $39,100, including the assumed loan of $22,000, which is the original principal amount of the loan (the “Parkway UL Mortgage Loan”), from Parkway Bank and Trust Company (“Parkway”) in connection with the acquisition. The purchase price was determined based on appraisal performed by an independent third party appraiser. See Note 5 – “Debt and Derivative Instruments” for further information on the Parkway UL Mortgage Loan.The following table provides further details of the property acquired during the year ended December 31, 2022:
+DateAcquired
+Property Name
+Location
+Primary University Served
+Property Type
+Number of Beds
+PurchasePrice
+December 1, 2022
+University Lofts
+St. Louis, MO
+Saint Louis University
+Student Housing
+406
+$
+39,100
+The above acquisition was accounted for as an asset acquisition. For the year ended December 31, 2022, the Operating Partnership incurred $11 of total acquisition costs, which are capitalized in the accompanying consolidated balance sheet. These costs include third party due diligence costs such as appraisals, environmental studies and legal fees. The following table presents certain additional information regarding the Operating Partnership’s acquisition during the year ended December 31, 2022. The amounts recognized for major assets acquired and liabilities assumed as of the acquisition date are as follows:
+Year EndedDecember 31, 2022
+Land
+$
+4,914
+Building and improvements
+32,217
+Acquired in place lease intangibles
+1,311
+Assumed mortgage loan
+(22,000
+)
+Discount on assumed mortgage loan
+669
+Other assumed liabilities, net
+(1,402
+)
+Cash used to purchase investment property
+$
+15,709
+NOTE 4 – ACQUIRED INTANGIBLE ASSETS AND LIABILITIESThe following table summarizes the Operating Partnership’s identified intangible assets and liabilities as of December 31, 2024 and 2023:
+December 31, 2024
+December 31, 2023
+Intangible assets:
+Acquired in-place lease value
+$
+44,066
+$
+42,132
+Acquired above-market lease value
+3,204
+3,204
+Accumulated amortization
+(16,876
+)
+(11,018
+)
+Acquired lease intangible assets, net
+$
+30,394
+$
+34,318
+Intangible liabilities:
+Acquired below-market lease value
+$
+(34,740
+)
+$
+(34,740
+)
+Accumulated amortization
+5,711
+3,998
+Acquired lease intangible liabilities, net
+$
+(29,029
+)
+$
+(30,742
+)
+The weighted average amortization period for the acquired in-place lease intangibles of the properties acquired during the year ended December 31, 2024 was 0.5 years.The portion of the purchase price allocated to acquired above-market lease value and acquired below-market lease value is amortized on a straight-line basis over the term of the related lease as an adjustment to rental revenue. For below-market lease values, the
+37
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+amortization period includes any renewal periods with below-market fixed rate renewals. The portion of the purchase price allocated to acquired in-place lease value is amortized on a straight-line basis over the acquired leases’ weighted average remaining term.The following table summarizes the Operating Partnership’s ground lease intangibles as of December 31, 2024 and 2023:
+December 31, 2024
+December 31, 2023
+Acquired below-market ground lease intangibles, operating leases
+$
+1,813
+$
+1,813
+Accumulated amortization
+(60
+)
+(42
+)
+Acquired below-market ground lease intangibles, net
+$
+1,753
+$
+1,771
+Acquired above-market ground lease intangibles, finance lease
+$
+(500
+)
+$
+(500
+)
+Accumulated amortization
+23
+17
+Acquired above-market ground lease intangibles, net
+$
+(477
+)
+$
+(483
+)
+Acquired below-market ground lease intangibles, net are included within operating lease right-of-use assets, net and acquired above-market ground lease intangibles, net are included within finance lease right-of-use asset, net in the consolidated balance sheets. The portion of the purchase price allocated to above- and below-market ground lease intangibles is amortized on a straight-line basis over the term of the related lease as an adjustment to property operating expenses.Amortization pertaining to acquired in-place lease value, above-/below-market ground leases and, above-/below-market lease values is summarized below:
+2024
+2023
+2022
+Amortization recorded as amortization expense:
+Acquired in-place lease value
+$
+5,534
+$
+4,753
+$
+4,186
+Amortization recorded as a (reduction) increase to property operating    expenses:
+Above-market ground lease, finance lease
+$
+(6
+)
+$
+(6
+)
+$
+(6
+)
+Below-market ground leases, operating leases
+18
+18
+18
+Net property operating expense increase
+$
+12
+$
+12
+$
+12
+Amortization recorded as a (reduction) increase to rental   revenue:
+Acquired above-market leases
+$
+324
+$
+324
+$
+324
+Acquired below-market leases
+(1,713
+)
+(1,713
+)
+(1,713
+)
+Net rental revenue increase
+$
+(1,389
+)
+$
+(1,389
+)
+$
+(1,389
+)
+Estimated amortization of the respective intangible lease assets and liabilities as of December 31, 2024 for each of the five succeeding years and thereafter is as follows:
+AcquiredIn-PlaceLeases
+Above-MarketLeases
+Below-MarketLeases
+Above- Market GroundLease
+Below- Market GroundLeases
+2025
+$
+3,599
+$
+324
+$
+(1,713
+)
+$
+(6
+)
+$
+18
+2026
+3,599
+324
+(1,713
+)
+(6
+)
+18
+2027
+3,599
+324
+(1,713
+)
+(6
+)
+18
+2028
+3,418
+316
+(1,713
+)
+(6
+)
+18
+2029
+3,205
+302
+(1,713
+)
+(6
+)
+18
+Thereafter
+10,851
+533
+(20,464
+)
+(447
+)
+1,663
+Total
+$
+28,271
+$
+2,123
+$
+(29,029
+)
+$
+(477
+)
+$
+1,753
+38
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+NOTE 5 – DEBT AND DERIVATIVE INSTRUMENTSAs of December 31, 2024 and 2023, the Operating Partnership had the following mortgage loans payable:
+December 31, 2024
+December 31, 2023
+Type of Debt
+PrincipalAmount
+InterestRate
+PrincipalAmount
+InterestRate
+CONA Mortgage Loan (maturity date September 28, 2026)
+Variable rate with swap agreements
+$
+26,500
+3.03
+%
+$
+26,500
+3.03
+%
+Variable rate with cap agreements
+68,439
+4.10
+%
+68,439
+4.10
+%
+BMO Mortgage Loan (maturity date September 30, 2026)
+Variable rate with swap agreements
+61,500
+2.97
+%
+61,500
+2.97
+%
+Variable rate with cap agreements
+61,155
+3.85
+%
+61,155
+3.85
+%
+Parkway UL Mortgage Loan (maturity date March 28, 2026)
+27,759
+5.80
+%
+21,738
+3.80
+%
+Parkway Storage V Mortgage Loan (maturity date April 25, 2026)
+28,000
+5.80
+%
+—
+Total debt before discount and debt issuance costs including impact of interest rate swaps/caps
+273,353
+239,332
+Less: Unamortized discount on assumed mortgage loan
+(166
+)
+(287
+)
+Less: Unamortized debt issuance costs
+(3,328
+)
+(3,608
+)
+Total mortgage loans payable, net
+$
+269,859
+$
+235,437
+The Operating Partnership’s indebtedness bore interest at a weighted average interest rate of 4.03% and 3.60% per annum as of December 31, 2024 and 2023, respectively, which includes the effects of interest rate swaps and interest rate caps. The Operating Partnership estimates the fair value of its total debt by discounting the future cash flows of each instrument at rates currently offered for similar debt instruments of comparable maturities by the Operating Partnership’s lenders using Level 3 inputs. The carrying value of the Operating Partnership’s debt excluding the discount on assumed mortgage loan and unamortized debt issuance costs was $273,353 and $239,332 as of December 31, 2024 and 2023, respectively, and its estimated fair value was $272,877 and $237,887 as of December 31, 2024 and 2023, respectively.The discount on assumed mortgage loan is amortized over the remaining term of the underlying debt as a reduction to the interest expense.As of December 31, 2024, scheduled principal payments and maturities of the Operating Partnership’s debt were as follows:
+December 31, 2024
+Scheduled Principal Payments and Maturities by Year:
+ScheduledPrincipalPayments
+Maturities of MortgageLoans
+Total
+2025
+$
+—
+$
+—
+$
+—
+2026
+—
+273,353
+273,353
+2027
+—
+—
+—
+2028
+—
+—
+—
+2029
+—
+—
+—
+Thereafter
+—
+—
+—
+Total
+$
+—
+$
+273,353
+$
+273,353
+Mortgage Loans PayableCONA Mortgage LoanOn September 29, 2021, the Operating Partnership entered into a loan agreement (the “CONA Loan Agreement”) with Capital One, National Association, individually and as administrative agent, and other lenders from time to time parties to the CONA Loan Agreement (the “CONA Mortgage Loan”). Pursuant to the CONA Loan Agreement, the aggregate total maximum commitments under the CONA Mortgage Loan are $105,891.
+39
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+The CONA Mortgage Loan is collateralized by all the respective real and personal property owned by the Operating Partnership under the CONA Loan Agreement.As of December 31, 2024, the Operating Partnership had $94,939 outstanding under the CONA Mortgage Loan. Advances made under the CONA Mortgage Loan are interest only. Advances made under the CONA Mortgage Loan accrue interest at (i) the applicable one-month term secured overnight financing rate (“Term SOFR”) plus (ii) 2.10%. The CONA Mortgage Loan matures on September 28, 2026, and the Operating Partnership has the option to extend the maturity date for two additional twelve month periods subject to the payment of certain fees and expenses and certain other conditions.IPC had guaranteed (1) any losses that the administrative agent and lenders may incur as a result of the occurrence of certain bad acts of the Operating Partnership and (2) the repayment of the CONA Mortgage Loan upon the occurrence of certain other significant events, including bankruptcy. Additionally, the Operating Partnership and IPC have agreed to indemnify the lenders against certain environmental liabilities. Effective October 31, 2023, the CONA Mortgage Loan was amended to, among other things, (a) substitute IREIC, the General Partner’s sponsor, as the guarantor of recourse obligations and to release IPC as guarantor for all guaranteed obligations from and after such date and (b) join IREIC as an additional indemnitor under the environmental indemnity agreement.The CONA Mortgage Loan requires compliance with certain covenants, including a minimum project yield requirement and a guarantor's net worth requirement. It also contains customary default provisions including the failure to comply with the Operating Partnership's covenants and the failure to pay when amounts outstanding under the CONA Mortgage Loan become due. As of December 31, 2024, the Operating Partnership was in compliance with all financial covenants related to the CONA Mortgage Loan.BMO Mortgage LoanOn September 30, 2021, the Operating Partnership entered into a loan agreement (the “BMO Loan Agreement”) with BMO Harris Bank N.A. (“BMO”), individually and as administrative agent, and other lenders from time to time parties to the BMO Loan Agreement (the “BMO Mortgage Loan”).The BMO Mortgage Loan is collateralized by all the respective properties, rights, interests, and privileges from time to time subject to the liens granted to BMO for the benefit of the lenders, or any security trustee therefor, by the collateral documents.As of December 31, 2024, the Operating Partnership had $122,655 outstanding under the BMO Mortgage Loan. Advances made under the BMO Mortgage Loan are interest only. Advances made under the BMO Mortgage Loan accrue interest at (i) the applicable Term SOFR plus (ii) 2.10%. The BMO Mortgage Loan matures on September 30, 2026, and the Operating Partnership has the option to extend the maturity date for two additional twelve month periods subject to the payment of an extension fee, certain costs and expenses and certain other conditions.IPC has guaranteed (1) any losses that the administrative agent and lenders may incur as a result of the occurrence of certain bad acts of the Operating Partnership and (2) the repayment of the BMO Mortgage Loan upon the occurrence of certain other significant events, including bankruptcy. Additionally, the Operating Partnership and IPC have agreed to indemnify the lenders against certain environmental liabilities.The BMO Mortgage Loan requires compliance with certain covenants, including a minimum debt yield requirement, a distribution limitation, a limitation on the use of leverage and restrictions on indebtedness. It also contains customary default provisions including the failure to comply with the Operating Partnership’s covenants and the failure to pay when amounts outstanding under the BMO Mortgage Loan become due. As of December 31, 2024, the Operating Partnership was in compliance with all financial covenants related to the BMO Mortgage Loan.Parkway UL Mortgage LoanOn December 1, 2022, the Operating Partnership assumed the Parkway UL Mortgage Loan in the amount of $22,000, which was the original principal amount, from Parkway in connection with the acquisition of University Lofts. On March 28, 2024, the Operating Partnership entered into an amendment that increased the principal amount of the Parkway UL Mortgage Loan to $27,759.As of December 31, 2024, the Operating Partnership had $27,759 outstanding under the Parkway UL Mortgage Loan. The Parkway UL Mortgage Loan bore interest at a fixed rate equal to 3.60% per annum until April 25, 2023 and at a fixed rate equal to 3.80% per annum thereafter. The Parkway UL Mortgage Loan required interest-only payments through April 26, 2023 and monthly payments of principal
+40
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+and interest thereafter. The initial maturity date of the Parkway UL Mortgage Loan was October 26, 2024. As extended pursuant to the amendment to the Parkway UL Mortgage Loan, the maturity date of the Parkway UL Mortgage Loan is March 28, 2026, and the Operating Partnership has the option to extend the maturity date for an additional three-year period subject to the payment of an extension fee, certain costs and expenses and certain other conditions. Pursuant to the amendment, the Parkway UL Mortgage Loan bears interest at a fixed rate equal to 5.80% per annum until March 28, 2026. Upon extension, the interest rate will be equal to the lesser of (a) 6.25% or (b) the 3-year U.S. Treasury Rate in effect on March 28, 2026 plus 2.00%. Beginning on April 28, 2024, the Parkway UL Mortgage Loan requires interest-only payments until the maturity date, at which point the outstanding principal and interest are due.The Parkway UL Mortgage Loan contains customary default provisions including the failure to pay when amounts outstanding under the Parkway UL Mortgage Loan become due. The Parkway UL Mortgage Loan is collateralized by the underlying property.First Merchants Mortgage LoansOn April 5, 2024, the Operating Partnership assumed the First Merchants Mortgage Loans in the amount of $17,634 and the corresponding swaps from First Merchants Bank in connection with the acquisition of the Storage V Properties. On April 26, 2024, the Operating Partnership used the proceeds of the Parkway Storage V Mortgage Loan (defined below), to repay the assumed loans with First Merchants Bank. On April 26, 2024, the Operating Partnership also settled the corresponding swaps with First Merchants Bank.Parkway Storage V Mortgage LoanOn April 26, 2024, the Operating Partnership entered into a loan agreement with Parkway for an aggregate principal amount of $28,000 (the “Parkway Storage V Mortgage Loan”). As of December 31, 2024, the Operating Partnership had $28,000 outstanding under the Parkway Storage V Mortgage Loan. The Parkway Storage V Mortgage Loan bears interest at a rate equal to 5.80% per annum. The Parkway Storage V Mortgage Loan requires interest-only payments until the maturity date, at which point the outstanding principal and interest are due. The maturity date of the Parkway Storage V Mortgage Loan is April 25, 2026, and the Operating Partnership has the option to extend the maturity date for an additional three-year period subject to the payment of an extension fee, certain costs and expenses and certain other conditions. Upon extension, the interest rate will be equal to the lesser of (a) 6.25% or (b) the 3-year U.S. Treasury Rate in effect on April 25, 2026 plus 2.00%.The Parkway Storage V Mortgage Loan contains customary default provisions including the failure to pay when amounts outstanding under the Parkway Storage V Mortgage Loan become due. The Parkway Storage V Mortgage Loan is collateralized by the Storage V Properties.Interest Rate Swap and Cap AgreementsThe Operating Partnership entered into interest rate swaps to fix a portion of its floating SOFR-based debt under variable rate loans to a fixed rate to manage its risk exposure to interest rate fluctuations. The Operating Partnership will generally match the maturity of the underlying variable rate debt with the maturity date on the interest rate swaps. See Note 12 – “Fair Value Measurements” for further information.The Operating Partnership entered into interest rate caps to protect the Operating Partnership against adverse fluctuations in interest rates by reducing its exposure to variability in cash flows on a portion of the Operating Partnership’s floating-rate debt. The Operating Partnership will generally match the maturity of the underlying variable rate debt with the maturity date on the interest rate caps. See Note 12 – “Fair Value Measurements” for further information.All of the Operating Partnership’s interest rate swap and cap contracts are accounted for as cash flow hedges for accounting purposes.
+41
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+The following table summarizes the Operating Partnership’s interest rate swap and cap contracts outstanding as of December 31, 2024:
+DateEntered
+EffectiveDate
+MaturityDate
+Receive Floating Rate Index (a)
+Pay FixedRate / Strike Price
+NotionalAmount
+Fair Value atDecember 31,2024(b)
+Assets
+Interest rate swap agreements
+CONA Mortgage Loan swap
+August 11, 2022
+August 1, 2022
+September 28, 2026
+1-month Term SOFR
+0.93
+%
+$
+26,500
+$
+1,388
+BMO Mortgage Loan swap
+August 12, 2022
+August 1, 2022
+September 30, 2026
+1-month Term SOFR
+0.87
+%
+61,500
+3,301
+CONA Mortgage Loan swap
+March 9, 2023
+January 2, 2025
+September 28, 2026
+1-month Term SOFR
+3.48
+%
+26,500
+242
+Interest rate cap agreements
+BMO Mortgage Loan cap
+December 12, 2022
+December 1, 2022
+December 30, 2025
+1-month Term SOFR
+1.75
+%
+61,155
+1,418
+CONA Mortgage Loan cap
+February 9, 2023
+February 1, 2023
+January 2, 2025
+1-month Term SOFR
+2.00
+%
+68,439
+5
+$
+244,094
+$
+6,354
+(a)As of December 31, 2024, the 1-month Term SOFR was 4.33%.(b)The fair value of interest rate swap agreements and interest rate cap agreements is included within other assets in the consolidated balance sheet.The following table summarizes the Operating Partnership’s interest rate swap and cap contracts outstanding as of December 31, 2023:
+DateEntered
+EffectiveDate
+MaturityDate
+Receive Floating Rate Index (a)
+Pay FixedRate / Strike Price
+NotionalAmount
+Fair Value atDecember 31,2023(b)
+Assets
+Interest rate swap agreements
+CONA Mortgage Loan swap
+August 11, 2022
+August 1, 2022
+September 28, 2026
+1-month Term SOFR
+0.93
+%
+$
+26,500
+$
+1,942
+BMO Mortgage Loan swap
+August 12, 2022
+August 1, 2022
+September 30, 2026
+1-month Term SOFR
+0.87
+%
+61,500
+4,647
+Interest rate cap agreements
+BMO Mortgage Loan cap
+December 12, 2022
+December 1, 2022
+December 30, 2025
+1-month Term SOFR
+1.75
+%
+61,155
+2,793
+CONA Mortgage Loan cap
+February 9, 2023
+February 1, 2023
+January 2, 2025
+1-month Term SOFR
+2.00
+%
+68,439
+1,814
+$
+217,594
+$
+11,196
+Liabilities
+Interest rate swap agreements
+CONA Mortgage Loan swap
+March 9, 2023
+January 2, 2025
+September 28, 2026
+1-month Term SOFR
+3.48
+%
+26,500
+(116
+)
+$
+26,500
+$
+(116
+)
+(a)As of December 31, 2023, the 1-month Term SOFR was 5.35%.(b)The fair value of interest rate swap agreements and interest rate cap agreements is included within other assets and other liabilities in the consolidated balance sheet.
+42
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+The table below presents the effect of the Operating Partnership’s derivative financial instruments on the consolidated statements of operations and comprehensive income (loss) for the years ended December 31, 2024, 2023 and 2022.
+Year Ended December 31,
+Derivatives in Cash Flow Hedging Relationships:
+2024
+2023
+2022
+Effective portion of derivatives
+$
+3,620
+$
+2,199
+$
+13,137
+Reclassification adjustment for amounts included in net income or loss (effective portion)
+$
+(6,366
+)
+$
+(6,601
+)
+$
+(1,123
+)
+The total amount of interest expense presented on the consolidated statements of operations and comprehensive income (loss) was $14,577, $11,577 and $8,552 for the years ended December 31, 2024, 2023 and 2022, respectively. The location of the net gain or loss reclassified into income from accumulated other comprehensive income is reported in interest expense on the consolidated statements of operations and comprehensive income (loss). The amount that is expected to be reclassified from accumulated other comprehensive income into income in the next 12 months is $3,564.NOTE 6 – EQUITYThe Operating Partnership’s capital includes general and limited partnership interests in the Operating Partnership referred to as General Partner’s capital and Limited Partners’ capital, respectively, in the accompanying consolidated statements of partners’ capital. The General Partner and the Limited Partners are collectively referred to as Partners. Partnership interests in the Operating Partnership, other than the Special Limited Partner (as defined in Note 10) interest and General Partner interest, are currently divided into five classes of units: (a) Class T OP Units; (b) Class S OP Units; (c) Class D OP Units; (d) Class I OP Units; and (e) Class A OP Units. In general, the Class T OP Units, Class S OP Units, Class D OP Units and Class I OP Units issued to the General Partner are intended to correspond on a one-for-one basis with the General Partner’s Class T shares, Class S shares, Class D shares and Class I shares. Similarly, Class A OP Units issued to the General Partner are intended to correspond on a one-for-one basis with the General Partner’s Class A shares if the General Partner issues Class A shares in connection with a Class A OP Unit redemption request. When the General Partner receives proceeds from the sale of shares of its common stock, the General Partner contributes such proceeds to the Operating Partnership and receives OP Units that correspond to the classes of the shares sold in the offering. Additionally, the Operating Partnership may issue any of these classes of OP Units to its Limited Partners. See Note 10 – “Transactions with Related Parties” for further information on management fees and performance participation allocation for each of the classes of OP Units.Effective July 31, 2023, in contemplation of the Registration Statement as discussed in Note 1, the Operating Partnership effected a unit split for each OP Unit resulting in 5,815,959 Class A OP Units outstanding.As of December 31, 2024, there were 21,175 Class T OP Units, 2,266 Class D OP Units and 190,266 Class I OP Units issued to the General Partner. As of December 31, 2023, there were 108,569 Class I OP Units issued to the General Partner. As of both December 31, 2024 and 2023, there were no General Partner interests issued to the General Partner.Pursuant to the Amended and Restated Limited Partnership Agreement, OP unitholders may request redemption of all or a portion of their units after holding those units for at least two years (or such shorter period as consented to by the General Partner in its sole discretion). The General Partner has discretion to accept or reject redemption requests and whether accepted redemptions will be redeemed for cash or shares in the General Partner. During the year ended December 31, 2024, certain Class A OP unitholders requested redemption of their units as shown in the tables below, all of which the General Partner accepted and agreed to redeem for cash. As of December 31, 2024, $1,665 in redemptions payable are reflected on the consolidated balance sheet.
+43
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Unit ActivityThe following tables detail the change in the Operating Partnership’s units for the years ended December 31, 2024, 2023 and 2022:
+Year ended December 31, 2024
+General Partner Interests
+Limited Partner Interests
+Class A OP Units
+Class T OP Units(1)
+Class D OP Units(1)
+Class I OP Units(1)
+Beginning balance
+—
+5,751,638
+—
+—
+108,569
+Issuance of units
+—
+—
+25,556
+2,266
+167,687
+Issuance of units for restricted share grants (Note 11)
+—
+—
+—
+—
+5,722
+Redemptions
+—
+(252,015
+)
+—
+—
+—
+Ending balance
+—
+5,499,623
+25,556
+2,266
+281,978
+Year ended December 31, 2023
+General Partner Interests
+Limited Partner Interests
+Class A OP Units
+Class I OP Units(2)
+Beginning balance
+—
+373,033
+—
+Effect of unit split
+—
+5,442,926
+—
+Issuance of units
+—
+—
+107,634
+Issuance of units for restricted share grants (Note 11)
+—
+—
+935
+Redemptions
+—
+(64,321
+)
+—
+Ending balance
+—
+5,751,638
+108,569
+Year ended December 31, 2022
+General Partner Interests
+Limited Partner Interests
+Class A OP Units
+Beginning balance
+—
+373,033
+Ending balance
+—
+373,033
+(1) As of December 31, 2024, 82.9% of the Class T OP Units, 100% of the Class D OP Units and 67.5% of the Class I OP Units were held by the General Partner.(2) As of December 31, 2023, 100% of the Class I OP Units were held by the General Partner.NOTE 7 – DISTRIBUTIONSPartners are entitled, based on their respective partnership interests, to monthly cash distributions payable by the Operating Partnership. The General Partner, in its sole discretion, determines the timing and amount of any distributions to the Partners. Such cash flow, if available, will be distributed on a monthly basis.The table below presents the distributions paid and accrued to Partners for the years ended December 31, 2024, 2023 and 2022.
+December 31,
+2024
+2023
+2022
+Distributions paid
+$
+6,196
+$
+9,590
+$
+12,131
+Distributions accrued
+$
+6,188
+$
+9,097
+$
+12,131
+44
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+NOTE 8 – LEASESRental Revenue as a LessorThe Operating Partnership leases its 30 medical outpatient properties, four self-storage properties and one student housing property under long-term and short-term operating leases. The remaining lease terms for the Operating Partnership’s medical outpatient leases, as of December 31, 2024, range from 3.2 years to 13.2 years. The leases for self-storage units generally are on a month-to-month basis. The lease terms for the Operating Partnership’s student housing leases generally approximate one year.Medical outpatient leases require the tenant to pay fixed base rent paid monthly in advance, and to reimburse the Operating Partnership for the tenant’s pro rata share of certain operating expenses including real estate taxes, special assessments, insurance, utilities, common area maintenance, management fees, and certain building repairs paid by the Operating Partnership and recoverable under the terms of the lease. Under these leases, the Operating Partnership pays all expenses and is reimbursed by the tenant for the tenant’s pro rata share of recoverable expenses paid. Self-storage units are leased to individual tenants under lease agreements, which generally are on a month-to-month basis. Student housing properties are typically leased by the bed on an individual lease liability basis and require the tenant to pay fixed base rent paid monthly in advance, and to reimburse the Operating Partnership for certain costs, primarily the tenant’s share of utilities expenses, incurred by the Operating Partnership. Under leases where all expenses are paid by the Operating Partnership, subject to reimbursement by the tenant, the expenses are included within property operating expenses. As per ASC 842, reimbursements for common area maintenance are considered non-lease components that are permitted to be combined with rental revenue. The combined lease component and reimbursements for insurance and taxes are reported as rental revenue on the consolidated statements of operations and comprehensive income (loss).Certain other tenants are subject to net leases which provide that the tenant is responsible for fixed base rent as well as all costs and expenses associated with occupancy. Under net leases where all expenses are paid directly by the tenant rather than the landlord, such expenses are not included on the consolidated statements of operations and comprehensive income (loss).Rental revenue related to the Operating Partnership’s operating leases is comprised of the following:
+Year Ended December 31,
+2024
+2023
+2022
+Rental revenue - fixed payments
+$
+29,231
+$
+25,836
+$
+21,796
+Rental revenue - variable payments (a)
+2,786
+2,688
+2,171
+Amortization of acquired above- and below-market leases, net
+1,389
+1,389
+1,389
+Rental revenue
+$
+33,406
+$
+29,913
+$
+25,356
+(a)Primarily includes tenant recovery income for real estate taxes, common area maintenance and insurance.The table below presents future base rent payments, excluding variable lease payments, to be received under the Operating Partnership’s operating leases as of December 31, 2024 for the years indicated, assuming no early terminations or expiring leases are renewed. Leases for the self-storage properties and the student housing property are generally 12 months or less and are therefore excluded from the table below.
+LeasePayments
+2025
+$
+20,314
+2026
+20,657
+2027
+21,172
+2028
+20,316
+2029
+19,427
+Thereafter
+52,600
+Total
+$
+154,486
+45
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Concentration of Credit RiskRevenue ConcentrationThe table below shows the Operating Partnership’s revenue concentration from tenants as a percentage of the Operating Partnership’s total revenues for the years ended December 31, 2024, 2023 and 2022:
+Year Ended December 31,
+Tenant
+2024
+2023
+2022
+Ironwood Physicians, P.C.
+16
+%
+18
+%
+21
+%
+Memorial Hermann Health System
+11
+%
+12
+%
+14
+%
+Geographic ConcentrationAs of both December 31, 2024 and 2023, Arizona, Texas and Connecticut represented approximately 27%, 26% and 15%, respectively, of the Operating Partnership’s total rentable square feet of medical outpatient properties.As of December 31, 2024, Alabama and Georgia represented approximately 61% and 39%, respectively, of the Operating Partnership’s total rentable square feet of self-storage properties.Lease Expense as a LesseeThe Operating Partnership is a lessee under three ground leases.Phoenix Property Ground LeaseThe Phoenix property ground lease, which commenced on July 7, 1993 and extends through July 6, 2092, was assumed as part of a property purchased by Arizona Healthcare DST (“Arizona DST”) on June 6, 2018. When Arizona DST assumed the lease, Arizona DST considered the lease terms and lease classification and accounted for the ground lease as an operating lease with an established lease term and payment schedule. As of June 6, 2018, Arizona DST recorded an operating lease liability of $1,516 and an operating lease right-of-use asset of $2,168 on its balance sheet. The operating lease liability was based on the present value of the ground lease’s future lease payments using an interest rate of 5.08% which the Arizona DST considered reasonable and within the range of the Arizona DST’s incremental borrowing rate. The operating lease right-of-use asset included acquired below-market ground lease intangibles of $652.On September 2, 2021, the date of the roll-up transaction whereby the Operating Partnership acquired 30 medical outpatient properties from eight separate programs sponsored by an affiliate of the General Partner’s sponsor (the “Roll-up Transaction”), the Operating Partnership reconsidered the lease terms and lease classification and accounted for the ground lease as an operating lease with an established lease term and payment schedule. As of September 2, 2021, the Operating Partnership recorded an operating lease liability of $1,687 and an operating lease right-of-use asset of $2,395 on its consolidated balance sheet. The operating lease liability was based on the present value of the ground lease’s future lease payments using an interest rate of 4.75% which the Operating Partnership considers reasonable and within the range of the Operating Partnership’s incremental borrowing rate. The operating lease right-of-use asset included acquired below-market ground lease intangibles of $708.The remaining lease term for the Phoenix property ground lease is 68 years as of December 31, 2024.Jordan Valley Medical Center Ground LeaseThe Jordan Valley Medical Center ground lease, which commenced on October 8, 2015 and extends through October 7, 2114 with three 15-year renewal options (which the Operating Partnership assumes will be exercised), was assumed as part of a property purchased by Healthcare Portfolio II DST (“Healthcare II DST”) on January 23, 2017. When Healthcare II DST assumed the lease, Healthcare II DST considered the lease terms and lease classification and accounted for the ground lease as an operating lease. The entire rent for the ground lease has been paid before the lease was assumed. Therefore no lease liability has been recorded in the financial statements. As of January 23, 2017, Healthcare DST II recorded an operating lease right-of-use asset of $630, which represents the acquired below-market ground lease intangibles.On September 2, 2021, the date of the Roll-up Transaction, the Operating Partnership reconsidered the lease terms and lease classification and recorded an operating lease right-of-use asset of $1,105, which represents the acquired below-market ground lease intangibles.
+46
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+The remaining lease term, including extensions, for the Jordan Valley Medical Center ground lease is 135 years as of December 31, 2024.Saint Elizabeth Medical Center Ground LeaseThe Saint Elizabeth Medical Center ground lease, which commenced on January 17, 2017 and extends through December 31, 2077 with two 15-year renewal options (which the Operating Partnership assumed will be exercised), was assumed as part of a property purchased by Healthcare Portfolio VII DST (“Healthcare VII DST”) on December 20, 2018. When Healthcare VII DST assumed the lease, Healthcare VII DST considered the lease terms and lease classification and accounted for the ground lease as a finance lease with an established lease term and payment schedule. As of December 20, 2018, Healthcare VII DST recorded a finance lease liability of $2,554 and a finance lease right-of-use asset of $2,086 on its balance sheet. The finance lease liability was based on the present value of the ground lease’s future lease payments using an interest rate of 5.21% which the Healthcare VII DST considered reasonable and within the range of the Healthcare VII DST’s incremental borrowing rate. The finance lease right-of-use asset was recorded net of the acquired above-market ground lease intangibles of $468.On September 2, 2021, the date of the Roll-up Transaction, the Operating Partnership reconsidered the lease terms and lease classification and accounted for the ground lease as a finance lease with an established lease term and payment schedule. As of September 2, 2021, the Operating Partnership recorded a finance lease liability of $2,730 and a finance lease right-of-use asset of $2,230 on its consolidated balance sheet. The finance lease liability was based on the present value of the ground lease’s future lease payments using an interest rate of 5.06% which the Operating Partnership considers reasonable and within the range of the Operating Partnership’s incremental borrowing rate. The finance lease right-of-use asset was recorded net of the acquired above-market ground lease intangibles of $500.The remaining lease term, including extensions, for the Saint Elizabeth Medical Center ground lease is 83 years as of December 31, 2024.For the years ended December 31, 2024, 2023 and 2022, total rent expense was $317, $318 and $317, respectively, recorded in property operating expenses on the consolidated statements of operations and comprehensive income (loss).The table below shows the cash paid for amounts included in the measurement of lease liabilities for the years ended December 31, 2024, 2023 and 2022:
+Year Ended December 31,
+2024
+2023
+2022
+Operating cash flows - operating leases
+$
+67
+$
+65
+$
+61
+Operating cash flows - finance leases
+$
+105
+$
+105
+$
+105
+For the years ended December 31, 2024, 2023 and 2022, total finance lease cost was comprised as follows:
+Year Ended December 31,
+2024
+2023
+2022
+Amortization of finance lease right-of-use asset
+$
+54
+$
+56
+$
+58
+Interest on finance lease liability
+143
+141
+139
+Total finance lease cost
+$
+197
+$
+197
+$
+197
+The table below shows the Operating Partnership’s finance lease right-of-use asset, net of amortization as of December 31, 2024 and 2023:
+December 31, 2024
+December 31, 2023
+Finance lease right-of-use asset, gross
+$
+2,230
+$
+2,230
+Accumulated amortization
+(183
+)
+(129
+)
+Finance lease right-of-use asset, net of amortization
+$
+2,047
+$
+2,101
+47
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Lease payments for the ground leases as of December 31, 2024 for each of the five succeeding years and thereafter is as follows:
+Operating
+Finance
+2025
+$
+67
+$
+105
+2026
+67
+105
+2027
+67
+121
+2028
+70
+121
+2029
+73
+121
+Thereafter
+6,684
+16,582
+Total undiscounted lease payments
+$
+7,028
+$
+17,155
+Less: Amount representing interest
+(5,282
+)
+(14,305
+)
+Present value of lease liability
+$
+1,746
+$
+2,850
+NOTE 9 – COMMITMENTS AND CONTINGENCIESThe Operating Partnership may be subject, from time to time, to various legal proceedings and claims that arise in the ordinary course of business. As of both December 31, 2024 and 2023, the Operating Partnership was not subject to any material litigation or aware of any pending or threatened material litigation.While the Operating Partnership currently has no intent to sell any of its properties, if the Operating Partnership were to sell properties in Texas, it has the potential to trigger Texas franchise tax for the Operating Partnership. The amount of tax, if any, will depend on several factors and any future sales of Texas properties meeting the requirements of the Internal Revenue Code Section 1031 (like-kind exchanges), which are non-taxable, would result in no franchise tax being incurred. The Operating Partnership has not recorded a tax liability for Texas franchise tax as it is considered contingent upon events not currently expected to occur.The Operating Partnership entered into tax protection agreements with certain partners that contributed property interests to the Operating Partnership. Such agreements indemnify the contributing partners from incurring any tax consequences triggered by a taxable sale of properties and expire between September 2028 and April 2029. The Operating Partnership has not recorded any tax liabilities in connection with tax protection agreements as they are considered contingent upon events that are not currently expected to occur.NOTE 10 – TRANSACTIONS WITH RELATED PARTIESThe following table summarizes the related party transactions for the years ended December 31, 2024, 2023 and 2022. Certain compensation and fees payable to the Advisor for services provided to the Operating Partnership are limited to maximum amounts.
+Year ended December 31,
+Unpaid amounts as of December 31,
+2024
+2023
+2022
+2024
+2023
+General and administrative reimbursements
+(a)
+$
+1,014
+$
+710
+$
+65
+$
+56
+$
+130
+Loan costs
+(b)
+$
+6
+$
+—
+$
+—
+$
+—
+$
+—
+Acquisition related costs
+$
+25
+$
+10
+$
+—
+$
+—
+$
+10
+Interest expense
+(c)
+$
+335
+$
+—
+$
+—
+$
+37
+$
+—
+Offering costs
+(d)
+$
+82
+$
+207
+$
+53
+$
+45
+$
+10
+Property management fees
+$
+641
+$
+557
+$
+532
+$
+15
+$
+4
+Property operating expenses
+360
+37
+43
+24
+—
+Construction management fees
+10
+58
+—
+10
+—
+Total property management related costs
+(e)
+$
+1,011
+$
+652
+$
+575
+$
+49
+$
+4
+Advisor management fee
+(f)
+$
+759
+$
+900
+$
+930
+$
+64
+$
+183
+(a)The Advisor and its related parties are entitled to reimbursement for certain general and administrative expenses incurred by the Advisor or its related parties relating to the Operating Partnership’s administration. Such costs are included in general and
+48
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+administrative expenses in the consolidated statements of operations and comprehensive income (loss). Unpaid amounts are included in due to related parties on the consolidated balance sheets.(b)The Advisor and its related parties are entitled to reimbursement for certain legal costs and financing fees related to securing financing for the Operating Partnership. Such costs are capitalized as debt issuance costs on the consolidated balance sheets and amortized into interest expense on the consolidated statements of operations and comprehensive income (loss) over the term of the related financing. Unpaid amounts are included in due to related parties on the consolidated balance sheets.(c)The Operating Partnership incurs interest expense on the amounts drawn under the Credit Facility (as defined below) with IPC. See “Related Party Line of Credit” below for further information on the Credit Facility.(d)The Operating Partnership pays offering costs to certain related parties, for the Operating Partnership as well as the General Partner, attributable to the preparation of the Registration Statement and registration and qualification of the General Partner’s common stock under federal and state laws. Unpaid amounts are included in due to related parties on the consolidated balance sheets.Unpaid amounts include accrued distribution fees payable to Inland Securities Corporation (the “Dealer Manager”). In connection with the acquisition of the Storage V Properties, on February 13, 2024, the Operating Partnership, the General Partner and the Dealer Manager entered into a dealer manager agreement (the “DST Dealer Manager Agreement”) under which the OP Units were sold through the Dealer Manager to the investors electing to receive OP Units. Under the DST Dealer Manager Agreement, the Operating Partnership will pay the Dealer Manager (a) a distribution fee with respect to outstanding Class T OP Units sold pursuant to the DST Dealer Manager Agreement that is paid monthly in an amount equal to 0.85% per annum of the aggregate NAV (as determined in accordance with the General Partner’s valuation guidelines) of such outstanding Class T OP Units; (b) a distribution fee with respect to outstanding Class S OP Units sold pursuant to the DST Dealer Manager Agreement that is paid monthly in an amount equal to 0.85% per annum of the aggregate NAV of such outstanding Class S OP Units; and (c) a distribution fee with respect to outstanding Class D OP Units sold pursuant to the DST Dealer Manager Agreement that is paid monthly in an amount equal to 0.25% per annum of the aggregate NAV of such outstanding Class D units. The Operating Partnership will not pay a distribution fee with respect to Class I OP Units sold pursuant to the DST Dealer Manager Agreement. The Operating Partnership will cease paying the distribution fee with respect to any Class T, Class S or Class D OP Unit held in a unitholder’s account upon the occurrence of certain events. The Operating Partnership accrues the full cost of the distribution fee as an offering cost at the time the Company sells Class T, Class S, and Class D OP Units. The Dealer Manager does not retain any of these fees, all of which are retained by, or reallowed (paid) to, participating broker-dealers and servicing broker-dealers for ongoing stockholder services performed by such broker-dealers.(e)For each property that is managed by Inland Commercial Real Estate Services LLC (“Inland Commercial”), the Operating Partnership pays a monthly property management fee of up to 1.9% of the gross income from any single-tenant, net-leased property, 5.0% of the base rent for one of the properties, and up to 3.9% of the gross income from any other property type. Inland Commercial may, in its sole discretion, waive fees with respect to a particular property. For each property that is managed directly by Inland Commercial or its affiliates, the Operating Partnership pays Inland Commercial a separate leasing fee, if applicable. Further, in the event that the Operating Partnership engages Inland Commercial to provide construction management services for a property, the Operating Partnership pays a separate construction management fee. Leasing fees are included in deferred costs, net and construction management fees are included in building and other improvements in the consolidated balance sheets. The Operating Partnership also reimburses Inland Commercial and its affiliates for property-level expenses that they pay or incur on the Operating Partnership’s behalf, including the salaries, bonuses and benefits of persons performing services for Inland Commercial and its affiliates except for the salaries, bonuses and benefits of persons who also serve as an executive officer of Inland Commercial or the Operating Partnership.For the properties managed by Inland Devon Self Storage Holdings LLC (“Devon”), an affiliate of IREIC, the Operating Partnership pays Devon a monthly management fee in an amount equivalent to the greater 5.0% of the “gross revenue,” as defined in the agreement, generated on an aggregate basis from the property during the preceding calendar month or $3 on an aggregate basis, whichever is greater. If Devon supervises any capital improvement project for the property owner, the Operating Partnership will also pay Devon a development supervision fee, in an amount equal to 10% of the cost of the project if the project is completed by Devon or in an amount equal to 7% if the project is completed by a third party. Additionally, Devon will issue the Operating Partnership a monthly credit equal to any monthly administrative fee collected by Devon in connection with the insurance premiums collected at the property.
+49
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+Property management fees and reimbursable expenses are included in property operating expenses in the consolidated statements of operations and comprehensive income (loss). Unpaid amounts are included in due to related parties on the consolidated balance sheets.(f)Prior to August 1, 2023, the Operating Partnership paid the Advisor an annual business management fee equal to 0.25% of its “initial partnership assets”, which was payable monthly in an amount equal to 0.0208% of its initial partnership assets as of the last day of the immediately preceding month. “Initial partnership assets” means, for any period, the average of the aggregate book value of the assets of the Operating Partnership, including all intangibles and goodwill, invested, directly or indirectly, in equity interest in, and loans secured by, real estate assets, and all consolidated and unconsolidated joint ventures or other partnerships, before non-cash charges such as depreciation, amortization, impairments and bad debt reserves, computed by taking the average of these values at the end of each month during the relevant calendar quarter. On August 24, 2023, the Business Management Agreement was terminated and the General Partner, the Operating Partnership and the Advisor entered into the Advisory Agreement, effective beginning August 1, 2023. Per the Advisory Agreement, the Operating Partnership or the General Partner will pay the Advisor a management fee equal to (i) 1.25% of aggregate net asset value (“NAV”) of the Operating Partnership attributable to outstanding Class T OP Units, Class S OP Units, Class D OP Units and Class I OP Units of the Operating Partnership and (ii) 0.50% of the aggregate NAV of the Operating Partnership attributable to outstanding Class A OP Units, in each case per annum payable monthly in arrears. The management fee may be paid, at the Advisor’s election, in cash, Class I shares of the General Partner or Class I OP Units of the Operating Partnership. The business management fee and the management fee are included within Advisor management fee in the consolidated statements of operations and comprehensive income (loss). Unpaid amounts are included in due to related parties on the consolidated balance sheets.Performance Participation AllocationThe Operating Partnership is governed by the Third Amended and Restated Limited Partnership Agreement of the Operating Partnership, dated June 27, 2024 (as may be amended or restated from time to time, the “Amended and Restated Limited Partnership Agreement”).On August 24, 2023 the General Partner admitted IPC REIT Special Limited Partner, LP (the “Special Limited Partner”), an affiliate, as a limited partner of the Operating Partnership and the Special Limited Partner contributed $10 for a performance participation interest in the Operating Partnership. The Special Limited Partner’s performance participation interest in the Operating Partnership entitles the Special Limited Partner to receive an allocation of “Total Return” and “Class A Total Return.” “Total Return” is defined as distributions paid or accrued on OP Units (excluding Class A OP Units) plus the change in the NAV of such OP Units (excluding Class A OP Units), adjusted for subscriptions and repurchases. Under the Amended and Restated Limited Partnership Agreement, the annual Total Return will be allocated solely to the Special Limited Partner only after the Class T OP Unit, Class S OP Unit, Class D OP Unit and Class I OP Unit holders have received a total return of 5% (after recouping any loss carryforward amount) and such allocation will continue until the allocation between the Special Limited Partner and all other such OP Unit holders is equal to 12.5% and 87.5%, respectively. Thereafter, the Special Limited Partner will receive an allocation of 12.5% of the annual Total Return. “Class A Total Return” is defined as distributions paid or accrued on Class A OP Units plus the change in the NAV of such Class A OP Units, adjusted for subscriptions and repurchases. Under the Amended and Restated Limited Partnership Agreement, the annual Class A Total Return will be allocated solely to the Special Limited Partner only after the Class A OP Unit holders have received a total return of 5% (after recouping any loss carryforward amount) and such allocation will continue until the allocation between the Special Limited Partner and all other unit holders is equal to 12.5% and 87.5%, respectively. Thereafter, the Special Limited Partner will receive an allocation of 12.5% of the annual Class A Total Return. The performance participation allocations are subject to a loss carryforward which initially equaled zero and is cumulatively increased by the absolute value of any negative annual Total Return or Class A Total Return (as applicable) and decreased by any positive annual Total Return or Class A Total Return (as applicable), provided that the loss carryforward amount shall at no time be less than zero and provided further that the calculation of the loss carryforward amount will exclude the Total Return or Class A Total Return (as applicable) related to any OP Units redeemed during the year, which are subject to the performance participation allocation upon redemption. As of December 31, 2024, there was no loss carryforward. As of both December 31, 2024 and 2023, the Special Limited Partner had not accrued a performance participation allocation.Related Party Line of CreditOn October 27, 2023, the Operating Partnership entered into a revolving credit facility loan agreement (the “Credit Agreement”) and a revolving promissory note (the “Promissory Note, and together with the credit agreement, the “Credit Facility”) with IPC, as lender.The Credit Facility provides for loan advances in an aggregate amount not to exceed $22,500, with an original maturity date of November 30, 2024 (as may be amended, modified, extended or renewed, but not accelerated, in IPC’s sole discretion) or the date IPC declares obligations under the Credit Facility, or the obligations become, due and payable after the occurrence of an event of default (the “Loan”). On November 26, 2024, the Operating Partnership and IPC entered into an amendment to extend the maturity date of the Credit Facility
+50
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+to November 30, 2025. The daily balance of the Loan under the Credit Facility bears interest at a rate of 4.25% per annum, however in connection with the occurrence and continuance of certain events of default (and at IPC’s option for all other events of default), the interest rate will increase to 9.25% per annum. The Operating Partnership has the right to prepay all or any part of the Loan at any time upon five days’ notice to IPC. The Credit Facility acts in the manner of a revolving credit facility wherein prepayments from the Operating Partnership shall be available for funding future advances to the Operating Partnership.As of December 31, 2024, the Operating Partnership had an outstanding balance of $10,000 on the Credit Facility. As of December 31, 2023, the Operating Partnership had not made any drawings on the Credit Facility.Related Party LoanOn December 15, 2021, IPC borrowed $20,000 from the Operating Partnership under a promissory note agreement (the “Note”) that consisted of a revolving credit facility to borrow up to $20,000. The Note bore an interest rate of 8.00% per annum, payable monthly, in arrears, commencing on January 1, 2022 and on the first day of each month thereafter. The principal amount of the loan was payable, along with all accrued and unpaid interest, on March 14, 2022, the maturity date of the Note, at which point the loan was repaid in full. Interest income of $324 on the Note for the year ended December 31, 2022, is included within interest and other income in the consolidated statement of operations and comprehensive income (loss).Class A OP Units held by AffiliatesAs of both December 31, 2024 and December 31, 2023, 75,484 Class A OP Units, which represents 1.37% and 1.31%, respectively, of the total Class A OP Units, were held by IPC and its affiliates.Due from Related PartiesAs of December 31, 2024 and 2023, $0 and $166, respectively, of cash due from an affiliate is included in due from related parties in the consolidated balance sheets.AcquisitionsOn April 5, 2024, the Operating Partnership acquired the Storage V Properties from an affiliate of the Operating Partnership. On December 1, 2022, the Operating Partnership acquired University Lofts from an affiliate of the Operating Partnership. See Note 3 - Acquisitions for further information. DST ProgramOn June 27, 2024, IPC launched the DST Program, through which it expects to sponsor a series of private placements exempt from registration pursuant to Rule 506(b) of Regulation D under the Securities Act of beneficial interests in specific DSTs owning one or more real properties. The DST Program is designed for, but not limited to, prospective investors seeking to defer the recognition of gain on the sale of other real property under Section 1031 of the Internal Revenue Code. In connection with the DST Program, the Operating Partnership, each DST, and each DST investor will enter into an option agreement pursuant to which the Operating Partnership will be granted the option (the “FMV Option”), but not the obligation, exercisable in the Operating Partnership’s sole and absolute discretion, to require such DST investor to exchange his, her or its DST interest for Class T OP Units, Class S OP Units, Class D OP Units, Class I OP Units, or, in limited circumstances at the discretion of the Operating Partnership, cash, which option may be exercised during the three, three-month periods that begin on the 24-month, 36-month and 48-month anniversary of the final closing of the sale of DST interests pursuant to each private placement.In connection with each private placement, each DST, the Company, the Operating Partnership and the Dealer Manager will enter into a placement agent agreement pursuant to which the Dealer Manager, as placement agent, will offer and sell beneficial interest in the applicable DST. The General Partner and the Operating Partnership are only party to such placement agent agreement for the limited purpose of paying the distribution fees that may be payable to the Dealer Manager in connection with an exercise of the FMV Option. As part of the DST Program, the General Partner and the Operating Partnership will offer to those DST investors that receive OP Units the opportunity to enter into a tax protection agreement.In connection with the DST Program, IPC, the General Partner and the Operating Partnership entered into a letter agreement (the “IPC Indemnification Agreement”) on June 27, 2024 pursuant to which parties provide mutual indemnification obligations with respect to the private placements sponsored by IPC. Under the IPC Indemnification Agreement, the General Partner and the Operating Partnership have agreed to indemnify IPC, its officer and directors, and each person, if any, who controls IPC within the meaning of the Securities Act, against any and all Loss (as defined in the IPC Indemnification Agreement) caused by or based on: (i) any untrue statement or
+51
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+alleged untrue statement of a material fact relating to the General Partner or the Operating Partnership which was furnished or approved by the General Partner or the Operating Partnership specifically for inclusion in, and actually contained in the offering materials related to the private placements but specifically excluding any tax consequences related to the OP Units (collectively, the “General Partner Information”) and (ii) the omission or alleged omission therefrom of a material fact regarding the General Partner or the Operating Partnership required to be stated in the General Partner Information (excluding any tax consequences related to the OP Units) or necessary to make the statements in the General Partner Information, in light of the circumstances under which they were made, not misleading.Other assetsAs of December 31, 2024 and 2023, other assets includes $12 and $0, respectively, of prepaid expenses to Devon.NOTE 11 – EQUITY-BASED COMPENSATION As a result of the restricted share grants by the General Partner to its independent directors, the Operating Partnership issued 2,387, 3,335 and 935 Class I OP units to the General Partner on March 19, 2024, August 1, 2024 and October 2, 2023, respectively. Compensation expense associated with such units is recognized by the Operating Partnership over a one-year period from the date of the grant. Compensation expense associated with such units issued to the General Partner was $102 and $6 for the years ended December 31, 2024 and 2023, respectively. As of December 31, 2024, the General Partner had $58 of unrecognized compensation expense related to such units, in the aggregate. The weighted average remaining period that unrecognized compensation expense related to such units will be recognized is 0.5 years.NOTE 12 – FAIR VALUE MEASUREMENTSThe Operating Partnership has estimated the fair value of its financial and non-financial instruments using available market information and valuation methodologies the Operating Partnership believes to be appropriate for these purposes.Recurring Fair Value MeasurementsFor assets and liabilities measured at fair value on a recurring basis the table below presents the fair value of the Operating Partnership’s cash flow hedges as well as their classification on the consolidated balance sheets as of December 31, 2024 and 2023.
+Fair Value
+Level 1
+Level 2
+Level 3
+Total
+December 31, 2024
+Interest rate swap agreements - Other assets
+$
+—
+$
+4,931
+$
+—
+$
+4,931
+Interest rate cap agreements - Other assets
+$
+—
+$
+1,423
+$
+—
+$
+1,423
+December 31, 2023
+Interest rate swap agreements - Other assets
+$
+—
+$
+6,589
+$
+—
+$
+6,589
+Interest rate cap agreements - Other assets
+$
+—
+$
+4,607
+$
+—
+$
+4,607
+Interest rate swap agreements - Other liabilities
+$
+—
+$
+(116
+)
+$
+—
+$
+(116
+)
+The fair value of derivative instruments was estimated based on data observed in the forward yield curve which is widely observed in the marketplace. The Operating Partnership also incorporates credit valuation adjustments to appropriately reflect both its own nonperformance risk and the counterparty’s nonperformance risk in the fair value measurements which utilize Level 3 inputs, such as estimates of current credit spreads. The Operating Partnership has determined that the credit valuation adjustments are not significant to the overall valuation of its derivative interest rate swap and interest rate cap agreements and therefore has classified these in Level 2 of the hierarchy.NOTE 13 – SEGMENT REPORTINGAs of December 31, 2024, the Operating Partnership operates in three reportable segments: Healthcare, Self-Storage and Education. During the second quarter of 2023, the Operating Partnership retitled the Student Housing segment to Education. The Operating Partnership assesses performance and makes operational decisions based on the performance of each segment individually. Factors used to determine the Operating Partnership’s reportable segments include the physical and economic characteristics of the properties and the related operating activities. The accounting policies of the segments are the same as those described in the summary of significant
+52
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+accounting policies for the Operating Partnership. The chief operating decision maker (“CODM”) relies on segment net operating income to make decisions about allocating resources and assessing segment performance. Segment net operating income is the key performance metric that captures the unique operating characteristics of each segment. The Operating Partnership defines segment net operating income as total revenues less property operating expenses and real estate tax expense attributable to the segment. The significant segment expenses provided to the CODM are property operating expenses and the real estate tax expense, which are both disclosed in the tables below. The Operating Partnership’s CODM is the Chief Executive Officer of the General Partner.Prior to the acquisition of Storage V Properties on April 5, 2024, the Operating Partnership managed its operations in two reportable segments: Healthcare and Education. Prior to the acquisition of University Lofts on December 1, 2022, the Operating Partnership managed its operations on an aggregated, single segment basis for purposes of assessing performance and making operational decisions and, accordingly, had only one reporting and operating segment.The following table details the total assets by reportable segment as of December 31, 2024 and 2023:
+December 31,
+2024
+2023
+Healthcare
+$
+369,939
+$
+388,543
+Self-Storage
+40,188
+—
+Education
+34,705
+36,042
+Corporate and other
+8,123
+7,211
+Total assets
+$
+452,955
+$
+431,796
+The following table details the financial results by reportable segment for the year ended December 31, 2024:
+Healthcare
+Self-Storage
+Education
+Total
+Revenues:
+Rental revenue
+$
+25,742
+$
+2,568
+$
+5,096
+$
+33,406
+Other property revenue
+121
+123
+—
+244
+Total revenues
+25,863
+2,691
+5,096
+33,650
+Expenses:
+Property operating expenses
+2,220
+897
+1,995
+5,112
+Real estate tax expense
+881
+226
+378
+1,485
+Total expenses
+3,101
+1,123
+2,373
+6,597
+Segment net operating income
+$
+22,762
+$
+1,568
+$
+2,723
+$
+27,053
+Depreciation and amortization
+$
+(14,942
+)
+$
+(2,827
+)
+$
+(1,450
+)
+$
+(19,219
+)
+General and administrative expenses
+$
+(4,419
+)
+Advisor management fee
+(759
+)
+Interest expense
+(14,577
+)
+Interest and other income
+210
+Net loss
+$
+(11,711
+)
+53
+IPC ALTERNATIVE REAL ESTATE OPERATING PARTNERSHIP, LP(FORMERLY KNOWN AS IPC ALTERNATIVE ASSETS OPERATING PARTNERSHIP, LP)NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollar amounts in thousands)
+The following table details the financial results by reportable segment for the year ended December 31, 2023:
+Healthcare
+Education
+Total
+Revenues:
+Rental revenue
+$
+25,312
+$
+4,601
+$
+29,913
+Other property revenue
+108
+—
+108
+Total revenues
+25,420
+4,601
+30,021
+Expenses:
+Property operating expenses
+1,925
+1,799
+3,724
+Real estate tax expense
+1,018
+362
+1,380
+Total expenses
+2,943
+2,161
+5,104
+Segment net operating income
+$
+22,477
+$
+2,440
+$
+24,917
+Depreciation and amortization
+$
+(14,927
+)
+$
+(2,589
+)
+$
+(17,516
+)
+General and administrative expenses
+$
+(2,286
+)
+Advisor management fee
+(900
+)
+Interest expense
+(11,577
+)
+Interest and other income
+38
+Net loss
+$
+(7,324
+)
+The following table details the financial results by reportable segment for the year ended December 31, 2022:
+Healthcare
+Education
+Total
+Revenues:
+Rental revenue
+$
+24,961
+$
+395
+$
+25,356
+Other property revenue
+17
+—
+17
+Total revenues
+24,978
+395
+25,373
+Expenses:
+Property operating expenses
+1,920
+118
+2,038
+Real estate tax expense
+864
+32
+896
+Total expenses
+2,784
+150
+2,934
+Segment net operating income
+$
+22,194
+$
+245
+$
+22,439
+Depreciation and amortization
+$
+(15,189
+)
+$
+(351
+)
+$
+(15,540
+)
+General and administrative expenses
+$
+(722
+)
+Advisor management fee
+(930
+)
+Interest expense
+(8,552
+)
+Interest and other income
+327
+Net loss
+$
+(2,978
+)
+NOTE 14 – SUBSEQUENT EVENTSIn connection with the preparation of its financial statements, the Operating Partnership has evaluated events that occurred through March 19, 2025, which is the date of issuance of these financial statements, to determine whether any of these events required disclosure in the financial statements.There were no reportable subsequent events or transactions.
+54

@@ -1,0 +1,3574 @@
+TRANS AMERICAN AQUACULTURE, INC. Form 10-K
+false
+2024
+FY
+0001990446
+0001990446
+2024-01-01
+2024-12-31
+0001990446
+2024-06-30
+0001990446
+2025-07-15
+0001990446
+2023-01-01
+2023-12-31
+0001990446
+2024-10-01
+2024-12-31
+0001990446
+2024-12-31
+0001990446
+2023-12-31
+0001990446
+2022-12-31
+0001990446
+us-gaap:SeriesAPreferredStockMember
+2024-12-31
+0001990446
+us-gaap:SeriesAPreferredStockMember
+2023-12-31
+0001990446
+us-gaap:SeriesAPreferredStockMember
+2022-12-31
+0001990446
+us-gaap:SeriesBPreferredStockMember
+2024-12-31
+0001990446
+us-gaap:SeriesBPreferredStockMember
+2023-12-31
+0001990446
+us-gaap:SeriesBPreferredStockMember
+2022-12-31
+0001990446
+us-gaap:SeriesCPreferredStockMember
+2024-12-31
+0001990446
+us-gaap:SeriesCPreferredStockMember
+2023-12-31
+0001990446
+us-gaap:SeriesCPreferredStockMember
+2022-12-31
+0001990446
+us-gaap:SeriesDPreferredStockMember
+2024-12-31
+0001990446
+us-gaap:SeriesDPreferredStockMember
+2023-12-31
+0001990446
+us-gaap:SeriesDPreferredStockMember
+2022-12-31
+0001990446
+2022-01-01
+2022-12-31
+0001990446
+2021-01-01
+2021-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2020-12-31
+0001990446
+us-gaap:CommonStockMember
+2020-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2020-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2020-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2020-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2020-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2020-12-31
+0001990446
+2020-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2021-12-31
+0001990446
+us-gaap:CommonStockMember
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2021-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001990446
+2021-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2022-12-31
+0001990446
+us-gaap:CommonStockMember
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2022-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2023-12-31
+0001990446
+us-gaap:CommonStockMember
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2023-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2021-01-01
+2021-12-31
+0001990446
+us-gaap:CommonStockMember
+2021-01-01
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2021-01-01
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2021-01-01
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2021-01-01
+2021-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2021-01-01
+2021-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2021-01-01
+2021-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2022-01-01
+2022-12-31
+0001990446
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2022-01-01
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2022-01-01
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2022-01-01
+2022-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2022-01-01
+2022-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2022-01-01
+2022-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2023-01-01
+2023-12-31
+0001990446
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2023-01-01
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2023-01-01
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2023-01-01
+2023-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2023-01-01
+2023-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2024-01-01
+2024-12-31
+0001990446
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2024-01-01
+2024-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0001990446
+us-gaap:CapitalUnitsMember
+2024-12-31
+0001990446
+us-gaap:CommonStockMember
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesAMember
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesBMember
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesCMember
+2024-12-31
+0001990446
+GRPS:PreferredStockSeriesDMember
+2024-12-31
+0001990446
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001990446
+2022-08-28
+0001990446
+us-gaap:SeriesAPreferredStockMember
+GRPS:MrGouldingMember
+2022-08-27
+2022-08-28
+0001990446
+us-gaap:CommonStockMember
+GRPS:MrGouldingMember
+2022-08-27
+2022-08-28
+0001990446
+us-gaap:LandImprovementsMember
+2024-12-31
+0001990446
+us-gaap:BuildingAndBuildingImprovementsMember
+2024-12-31
+0001990446
+GRPS:FarmEquipmentMember
+srt:MinimumMember
+2024-12-31
+0001990446
+srt:MaximumMember
+GRPS:FarmEquipmentMember
+2024-12-31
+0001990446
+us-gaap:VehiclesMember
+2024-12-31
+0001990446
+2020-01-01
+2020-12-31
+0001990446
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+GRPS:TwoCustomerMember
+2024-01-01
+2024-12-31
+0001990446
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+GRPS:OneCustomerMember
+2023-01-01
+2023-12-31
+0001990446
+GRPS:AccountsReceivableFactoringAgreementMember
+2023-12-11
+0001990446
+GRPS:AccountsReceivableFactoringAgreementMember
+2023-12-10
+2023-12-11
+0001990446
+GRPS:AccountsReceivableFactoringAgreementMember
+2024-02-07
+0001990446
+GRPS:AccountsReceivableFactoringAgreementMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:AccountsReceivableFactoringAgreementMember
+2023-01-01
+2023-12-31
+0001990446
+GRPS:BroodstockAnimalsMember
+2024-12-31
+0001990446
+GRPS:BroodstockAnimalsMember
+2023-12-31
+0001990446
+GRPS:BroodstockAnimalsMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:ShrimpMember
+2024-12-31
+0001990446
+GRPS:ShrimpMember
+2023-12-31
+0001990446
+GRPS:ShrimpMember
+2022-12-31
+0001990446
+GRPS:BroodstockMember
+2024-12-31
+0001990446
+GRPS:BroodstockMember
+2023-12-31
+0001990446
+GRPS:BroodstockMember
+2022-12-31
+0001990446
+GRPS:BroodstockRestockingMember
+2024-12-31
+0001990446
+GRPS:BroodstockRestockingMember
+2023-12-31
+0001990446
+GRPS:BroodstockRestockingMember
+2022-12-31
+0001990446
+us-gaap:VehiclesMember
+2023-12-31
+0001990446
+us-gaap:VehiclesMember
+2022-12-31
+0001990446
+us-gaap:BuildingImprovementsMember
+2024-12-31
+0001990446
+us-gaap:BuildingImprovementsMember
+2023-12-31
+0001990446
+us-gaap:BuildingImprovementsMember
+2022-12-31
+0001990446
+GRPS:FarmEquipmentMember
+2024-12-31
+0001990446
+GRPS:FarmEquipmentMember
+2023-12-31
+0001990446
+GRPS:FarmEquipmentMember
+2022-12-31
+0001990446
+us-gaap:OtherMachineryAndEquipmentMember
+2024-12-31
+0001990446
+us-gaap:OtherMachineryAndEquipmentMember
+2023-12-31
+0001990446
+us-gaap:OtherMachineryAndEquipmentMember
+2022-12-31
+0001990446
+GRPS:NoteToFormerOwnerOfFarmPropertyMember
+2024-12-31
+0001990446
+GRPS:NoteToFormerOwnerOfFarmPropertyMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:PromissoryNoteMember
+2024-12-31
+0001990446
+GRPS:PromissoryNoteMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:PromissoryNote1Member
+2024-12-31
+0001990446
+GRPS:PromissoryNote1Member
+2024-01-01
+2024-12-31
+0001990446
+GRPS:SecuredNoteMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:NoteToBankInterestMember
+2024-12-31
+0001990446
+GRPS:NoteToBankInterestMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:UnsecuredPromissoryNoteMember
+2024-02-29
+0001990446
+GRPS:UnsecuredPromissoryNoteMember
+2024-02-01
+2024-02-29
+0001990446
+GRPS:SecuredPromissoryNoteMember
+2024-05-31
+0001990446
+GRPS:SecuredPromissoryNoteMember
+2024-05-01
+2024-05-31
+0001990446
+GRPS:FarmPropertyNoteMember
+2024-03-31
+0001990446
+GRPS:FarmPropertyNoteMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:FarmPropertyNoteMember
+2024-09-29
+2024-09-30
+0001990446
+GRPS:UnsecuredPromissoryNoteMember
+2024-08-31
+0001990446
+GRPS:UnsecuredPromissoryNoteMember
+2024-08-01
+2024-08-31
+0001990446
+2024-08-31
+0001990446
+GRPS:NoteToFormerOwnerOfFarmPropertyMember
+2023-12-31
+0001990446
+GRPS:PromissoryNoteMember
+2023-12-31
+0001990446
+GRPS:PromissoryNote1Member
+2023-12-31
+0001990446
+GRPS:SecuredNoteMember
+2024-12-31
+0001990446
+GRPS:SecuredNoteMember
+2023-12-31
+0001990446
+GRPS:NoteToBankInterestMember
+2023-12-31
+0001990446
+GRPS:ShareholdersMember
+2024-12-31
+0001990446
+GRPS:ShareholdersMember
+srt:MinimumMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:ShareholdersMember
+srt:MaximumMember
+2024-01-01
+2024-12-31
+0001990446
+GRPS:ShareholdersMember
+2023-12-31
+0001990446
+2024-02-27
+0001990446
+2024-02-26
+2024-02-27
+0001990446
+2024-05-29
+0001990446
+2024-05-28
+2024-05-29
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-01-19
+2023-01-20
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-01-20
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+2023-01-20
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-04-17
+2023-04-18
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-04-18
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+2023-04-18
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-05-21
+2023-05-22
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-05-22
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+2023-05-22
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-07-05
+2023-07-06
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-07-06
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+2023-07-06
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-09-25
+2023-09-26
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+2023-09-26
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+GRPS:Tranche1Member
+2023-09-25
+2023-09-26
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+2023-09-26
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesDPreferredStockMember
+GRPS:Tranche2Member
+2023-10-11
+2023-10-12
+0001990446
+GRPS:SecuritiesPurchaseAgreementMember
+2023-10-12
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+GRPS:Integer
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2024
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission file number: 000-56640
+TRANS AMERICAN AQUACULTURE, INC.
+(Exact Name of Registrant as Specified in its Charter)
+Colorado
+02-0685828
+(State of other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1022 Shadyside Lane, Dallas, TX
+75223
+(Address of Principal Executive Offices)
+(Zip Code)
+(972) 358-6037
+(Registrant’s Telephone Number, including Area
+Code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+N/A
+N/A
+N/A
+Securities registered pursuant to Section 12(g) of the Act: Common Stock,
+par value $0.000001 per share
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes  o No ☒
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act.   Yes  o No
+☒
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12
+months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes ☐ No ☒
+Indicate by check mark whether the registrant has
+submitted electronically, every Interactive Data File pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such
+shorter period that the registrant was required to submit such files).
+Yes
+☐ No ☒
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See
+the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company”, and
+“emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one)
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has
+filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
+under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its
+audit report. ☐
+If securities are registered
+pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing
+reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether
+any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the
+registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a
+shell company, as defined in Rule 12b-2 of the Exchange Act.  Yes  ☐
+No ☒
+The aggregate market value of the voting and non-voting
+stock held by non-affiliates of the registrant as of the last business day of the registrants most recently completed second fiscal quarter,
+based on the price at which the common equity was last sold on the OTC Markets on June 30, 2024 was approximately $2,355,126. For purposes
+of this computation only, all officers, directors and 10% or greater stockholders of the registrant are deemed to be “affiliates.”
+The number of shares of the registrant’s
+common stock, $0.000001 par value per share, outstanding as of July 15, 2025, was 1,805,926,955.
+TABLE OF CONTENTS
+PART I
+ITEM 1.
+BUSINESS
+1
+ITEM 1A.
+RISK FACTORS
+9
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS
+9
+ITEM 1C.
+CYBERSECURITY
+9
+ITEM 2.
+PROPERTIES
+10
+ITEM 3.
+LEGAL PROCEEDINGS
+10
+ITEM 4.
+MINE SAFETY DISCLOSURES
+10
+PART II
+ITEM 5.
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+11
+ITEM 6.
+[RESERVED]
+13
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+13
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+18
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+18
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+18
+ITEM 9A.
+CONTROLS AND PROCEDURES
+18
+ITEM 9B.
+OTHER INFORMATION
+19
+ITEM 9C.
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+19
+PART III
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+20
+ITEM 11.
+EXECUTIVE COMPENSATION
+22
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+24
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+25
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+25
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+26
+ITEM 16.
+FORM 10-K SUMMARY
+27
+SIGNATURES
+28
+i
+FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K (the “Form
+10-K”) for Trans American Aquaculture, Inc., a Colorado corporation (the “Company”), and the exhibits attached
+hereto contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such
+forward looking statements concern the Company’s anticipated results and developments in the Company’s operations in future
+periods, planned development of the Company’s technology, plans related to its business and other matters that may occur in the
+future. These statements relate to analyses and other information that are based on forecasts of future results, estimates of amounts
+not yet determinable and assumptions of management. Such forward-looking statements include, among others, those statements including
+the words “expects”, “anticipates”, “intends”, “believes” and similar language. Our actual
+results may differ significantly from those projected in the forward-looking statements. Factors that might cause or contribute to such
+differences include, but are not limited to, those discussed in the section “Risk Factors.” We undertake no obligation to
+publicly release any revisions to the forward-looking statements or reflect events or circumstances after the date of this report.
+Although we believe that the expectations reflected
+in these forward-looking statements are based on reasonable assumptions, there are a number of risks and uncertainties that could cause
+actual results to differ materially from such forward-looking statements. These factors include are described further under the sections
+titled “Risk Factors,” and “Management’s Discussion and Analysis.” Should one or more of these
+risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated,
+believed, estimated or expected. We caution readers not to place undue reliance on any such forward-looking statements, which speak only
+as of the date made. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances
+after the date of such statements or to reflect the occurrence of anticipated or unanticipated events.
+We qualify all the forward-looking statements contained
+in this Form 10-K by the foregoing cautionary statements.
+ii
+PART I
+ITEM 1.
+BUSINESS
+As used in this Form 10-K, the terms “we,”
+“us,” “our,” and the “Company” refer to Trans American Aquaculture, Inc., a Colorado corporation.
+Organization
+Trans American Aquaculture, Inc.
+Trans American Aquaculture, Inc. was originally incorporated
+in the State of Delaware on September 18, 2006 as “Omega Environmental, Inc.” After several name changes, the entity was redomiciled
+in Colorado on July 25, 2018 as “XYZ Hemp Inc.” After several name changes, the Company filed Articles of Amendment on October
+23, 2022 changing the name to “Gold River Productions, Inc.” On August 9, 2023, the Company filed Articles of Amendment changing
+the name to “Trans American Aquaculture, Inc.”
+Our principal executive offices are located at 1022
+Shady Side Lane, Dallas, TX 75223 and our phone number is (972) 358-6037.
+Trans American Aquaculture, LLC
+Trans American Aquaculture, LLC (“TAA”)
+was organized in the State of Texas on April 4, 2017. TAA was founded by Luis Arturo Granda Roman, Cesar Granda, and Adam Thomas.
+Change of Control
+On August 28, 2022, the Company entered into a Stock
+Purchase Agreement by, between, and among Adam Thomas and Richard Goulding (the “SPA”) pursuant to which Mr. Goulding
+sold to Mr. Thomas 9,078,000 shares of Series A Preferred Stock (retaining 640,000 shares of Series A Preferred Stock) and 5,000 shares
+of the Series B Preferred Stock (together, with the shares of Series A Preferred Stock acquired, the “Acquired Shares”)
+for $5,000. In addition to the cash payment, Mr. Thomas agreed to the following covenants:
+·
+take reasonable steps to cause to occur, within seven days of closing, the reverse merger or acquisition by the Company, of TAA;
+·
+form the Series C Preferred Stock of the Company to be issued in the reverse acquisition which will include a provision limiting conversion or transfer for a minimum of 12 months from issuance;
+·
+cancel and withdraw the Company’s Series A Preferred Stock;
+·
+refrain from transferring the Company’s Series B Preferred Stock and the Series A Preferred Stock prior to the cancelation of the Series A Preferred Stock for 12 months;
+·
+at closing, increase the authorized shares of common stock of the Company to 3,000,000,000;
+·
+immediately prior to closing, Mr. Goulding will convert his remaining, unacquired, 640,000 shares of Series A Preferred Stock into 64,000,000 shares of Common Stock of the Company;
+1
+·
+take reasonable steps to cause the similar conversion of the other outstanding shares of the Company’s Series A Preferred Stock, by the holders thereof;
+·
+enter into the Assumption Agreement (as defined below);
+·
+issue an aggregate of 15,248,503 shares of previously-earned Common Stock of the Company to the following individuals:
+o
+Scott Fetterman (748,503 shares);
+o
+Stephen Swinson (4,000,000 shares);
+o
+John Patrick Love (4,000,000 shares);
+o
+John Ohlin (1,500,000 shares); and
+o
+David Eckert (5,000,000 shares).
+In addition, each of the parties to the SPA covenanted
+that, within nine months of closing, to reasonably cooperate in the process of forming a new company to be formed by Mr. Goulding (“Newco”)
+and issuing not less than 35% of the shares of Newco, calculated fully diluted, pro rata, to the shareholders of the Company (including
+those holding in street name, through DTCC) as then existed, to once again attempt to become a separate public company (the “Makeup”
+or the “Makeup Company”), without dilution to the shareholders of the Company, by issuance of shares of the Newco to
+the existing shareholders of the Company. All parties to the SPA agreed to reasonably cooperate and work jointly, including providing
+all documentation when necessary, and upon request, to enable the Makeup Company to file with FINRA and the SEC in accordance with the
+reasonable desires of Mr. Goulding. The costs of the Makeup are to be borne by the Newco. Until the Makeup, the Makeup Company will operate
+as a separate entity, with Mr. Goulding maintaining operational autonomy and checkbook control under his sole control and authority, without
+interference by Mr. Thomas. There is no assurance that the Makeup Company will be formed or that the Company’s shareholders as then
+existed at the time of the closing of the SPA will receive shares of Newco.
+The closing of the SPA took place on August 28, 2022.
+At the time of the closing, Mr. Goulding was Chairman and Chief Executive Officer of the Company and Mr. Thomas had no affiliation with
+the Company or Mr. Goulding.
+As of the date hereof, the Makeup has yet to occur
+and the parties are contemplating an amendment to the SPA; however, no terms have been agreed.
+On August 29 2022, pursuant to the SPA, the Company
+entered into an Assignment of Rights and Assumption of Liabilities Agreement with Mr. Goulding (the “Assumption Agreement”)
+pursuant to which the Company sold, assigned, transferred, conveyed, and delivered to Mr. Goulding all of the Assets (as defined in the
+Assumption Agreement) and Liabilities (as defined in the Assumption Agreement) and any rights or obligations in the Assets and Liabilities
+to which the Company was entitled or obligated.
+Reverse Acquisition
+On September 13, 2022, the Company entered into the
+Definitive Equity Exchange Agreement with TAA, the members of TAA, and Adam Thomas, the managing member of TAA and controlling shareholder
+of the Company (the “Exchange Agreement”), pursuant to which the Company issued to the members of TAA, on a pro-rata
+basis, 100,000 shares of the Company’s Series C Preferred Stock, representing 85% of the Company’s fully-diluted outstanding
+shares of common stock, on an as-converted basis. The members of TAA relinquished all of their ownership interests of TAA to the Company.
+The Exchange Agreement went effective on September
+13, 2022 and, at that time, TAA became a wholly owned subsidiary of the Company.
+2
+Bankruptcy
+On
+December 13, 2024, due to a note holder recording a deed in lieu foreclosure, on December 2nd, 2024, TAA filed for Chapter 11 bankruptcy
+protection under the United States Bankruptcy Code, in the United States Bankruptcy Court for the Southern District of Texas (Case # 24-10217).
+TAA voluntarily filed for Chapter 11 Bankruptcy to protect the assets of the company (shrimp
+broodstock and key property, plant, and equipment) due to threats being made by the former farm note holder (Kings Aqua Farm LLC) in which
+TAA operated on. On December 2, 2024, Kings Aqua Farm LLC filed a Deed in Lieu (“DIL”) of Foreclosure due to non-payment
+by Trans American Aquaculture. The land was conveyed back to Kings Aqua Farm because of the DIL filing. Over the next two weeks, various
+threats were made by Kings Aqua Farm on the assets of TAA, which are paramount to the survival and future of the company. To protect those
+key assets and any future business, TAA elected to file a voluntary Chapter 11 Bankruptcy.
+The bankruptcy
+plan is currently being finalized between TAA management, its board of directors, and legal counsel. The plan confirmation hearing is
+scheduled for August 18, 2025, at which time, we will present the re-organization plan for the company.
+Currently,
+there are no production operations being conducted at the farm. We are solely maintaining the broodstock as plans to exit bankruptcy are
+finalized.
+Our Business
+We provide extra-large farm-raised Pacific white shrimp,
+100% free of antibiotics and hormones, to the U.S. domestic seafood market. Grown on an 1,880 acre farm located in Rio Hondo, Texas, our
+shrimp are meticulously raised in line with industry best practices according to the Best Aquaculture Practices (BAP) farm guidelines1
+using only authentic, sustainable practices. We believe our practices are “authentic” and “sustainable” because
+we do not discharge our water into the local environment thus there is no ecological impact to the surrounding areas. We use only the
+top-quality ingredients in our feed to ensure our animals are getting a proper and healthy diet. We never use antibiotics or chemicals,
+and we have proper working and living conditions for our workers, which have been approved by Texas Parks and Wildlife.
+We believe our products are superior due to the following:
+·
+Our feed ingredients are sourced 100% from products from the U.S., which are rigorously inspected and tested and must meet USDA standards. Foreign competitors are under the administrative oversight of their local governments.
+·
+We are transparent in our production process meaning we are willing and able to provide all ingredients, treatments, and processes utilized to cultivate our shrimp.
+·
+Our products are eco-friendly in that our farm does not discharge into the environment. Our system is 100% closed and has zero impact to the local ecosystem and mangroves.
+·
+Our products are safe in that they are 100% chemical and antibiotic free. Currently, less than 1% of imported shrimp is tested for antibiotics and toxins.2
+In addition to the quality of the products, what sets
+our shrimp apart from any other domestic shrimp is the clean, sweet taste to our shrimp. We believe this to be a byproduct of the natural
+environment along with our tried-and-true methods that provide a unique combination unlike anywhere else due to the soil content, mineral
+content, brackish water, and climate, which we believe are unique to any circumstance in North America and possibly the world.
+_____________________________
+1
+https://www.bapcertification.org/Downloadables/pdf/BAP%20-%20BAP%20Farm%20Standard%20-%20Issue%203.1%20-%2007-February-2023.pdf
+2
+https://shrimpalliance.com/category/trade/antibiotics/#:~:text=Since%20shrimp%20is%20America's%20most,directed%20to%20the%20U.S.%20market.
+3
+We have and will continue to utilize strong genetic
+linage broodstock for cultivation of our own post larvae in our onsite maturation and hatchery. We believe that these facilities allow
+us to continually develop animals with increasing growth rates, lower mortality, and stronger disease resistance, which are all instrumental
+to increasing bottom line profits.
+We believe that our onsite maturation and hatchery
+facilities give us a distinct advantage on all other farms in Texas because no other farm in Texas develops their own lines of Broodstock
+in the manner that we do. This is due to our facilities and ability to support year-round sustainment of Broodstocks. There are other
+maturation and hatchery facilities but none in a combined facility in the manner that we have. In addition to being able to provide two
+full harvests, our team is the only one in the U.S. that has been capable of producing shrimp of greater than 28 grams on a large-scale
+consistent basis as we have both historically and currently done. We believe that this gives us a product that is unique worldwide, “a
+jumbo, farm raised shrimp that is 100% a product of the United States.”
+We believe our animals have “strong genetic
+lineage” because our animals have a proven track record of disease resistance and to be disease free. In addition to that, our growth
+rates and tolerance for colder temperature water is superior to the current competitors in the U.S.
+Our Products
+We produce premium quality, sustainably raised, farmed
+shrimp for sale to markets, distributors, and restaurants. Our main product is Pacific White Leg Shrimp Head-on and Headless/Shell-on,
+which is favored by high-end markets, ethnic stores, and businesses in addition to American, Mexican, European, and Asian customers. Vannamei
+(species of shrimp we develop) is the most widely farm raised shrimp in the world, accounting for 80% of all farm raised shrimp in the
+world.3
+We aim to produce, market, and sell Pacific White
+Leg farm-raised shrimp for sale to markets, businesses, and restaurants. We also sell broodstock for sale to foreign producers of shrimp.
+Head-on and Headless/Shell-on shrimp are the most
+common forms of shrimp sold throughout the world. The typical size is 18 grams, which translates to 31/35 count. This count means that
+there are 31-35 individual shrimp per pound. We focus on producing shrimp that are more than 28 grams, resulting in a 21/25 count. Our
+reason for focusing on this size is the lack of supply in the market and the premium selling price due to the scarcity. Many global producers
+are reluctant to sell shrimp at this size due to the complexity of the grow out once the shrimp reach a certain size. This is where we
+believe our competitive advantage comes in with our experience in growing “jumbo” shrimp.
+Broodstock are a group of mature shrimps that are
+used for breeding purposes. These are essentially the “alphas” of the group having grown to the largest sizes, resisted various
+strains of potential diseases, and adverse climate conditions. The males and females are then bred to produce larvae that are genetically
+superior than previous lines. The process continues over and over until a superior genetic line is achieved. The product cycle for post-larvae
+(PL) is 21 days, so new PLs can be sold every 21 days. The entire five-month process (as shown in the diagram below) is as follows:
+·
+Spawning to the hatching tanks – two days;
+·
+Larvae rearing tanks – one month; and
+·
+Grow out process – four months.
+This
+translates into us being able to produce two meaningful large harvests. We start the process in January, then end in November.
+Broodstock take longer to develop but we believe that this process is worth the wait as, in time, a superior shrimp is more consistently
+produced.
+_____________________________
+3
+https://www.worldwildlife.org/industries/farmed-shrimp
+4
+Our business is seasonal. We grow shrimp in outdoor,
+open-air ponds which are subject to weather conditions. Our process starts in January where we mate the broomstick to produce nauplii,
+this is the first larval stage of the shrimp. The mating and collection of the eggs takes roughly one month. After that, the nauplii are
+transferred into our larviculture building, where they grow for roughly 21 days into post larvae. At this point they start to resemble
+the shrimp that is seen in our final product. Post the 21-day larviculture stage, the shrimp move into nurserys where they are grown for
+another 14-21 days in order to increase their robustness prior to stocking in the open-air ponds. Roughly 2.5 months into the process,
+they are ready for stocking in the open-air ponds, which brings the process to middle of March, which is when we start to stock the grow
+out ponds. The shrimp take on average 95 days to reach harvest size (27 grams) which brings the process to the middle of June when we
+begin our harvest. We will conclude the harvest by June 30th, let the ponds settle for two weeks then restock all the ponds
+by mid-July, early August first for an end of October/early November second harvest. The larviculture cycle for the second stocking and
+harvest begins in May, following the timeline given above for the larval and post larval stages, gives us the second stocking of the grow
+our ponds in mid-July to early August.
+Our revenue recognition cycles will be June &
+July for the first harvest, and October and November for the second.
+A secondary source of revenue that the company is
+exploring is the exportation of broodstock. We believe this presents a significant opportunity to increase revenue in off cycle times
+from the normal shrimp harvests. We have received approval from the Coastal Aquaculture Authority of India as a preferred broodstock importer.
+We plan to invest funding into this area and are working with an approved exporter to fulfil orders for broodstock.
+Sourcing
+The main source of our nauplii (the first development
+stage of shrimp) will be at our hatchery and maturation operation. We believe that it will be important to develop and maintain our own
+genetic linage to ensure differentiation and genetic variability to grow stronger, healthier shrimp. Since the post-larvae development
+stage is a relatively short on (21 days), it will allow us to quickly develop genetically superior shrimp.
+Sales and Distribution
+Historically we have sold our products directly to
+the companies that are processing the shrimp. They then take this shrimp and sell it to big box retailers. Our plan for this year is no
+different and we had multiple offers for our shrimp, ultimately settling on one with the best growth probability. We generate revenue
+by selling shrimp. Our plan as we expand our production capacity is to work directly with big box retailers such as supermarkets. To manage
+our exposure, we solicit multiple offers for our shrimp. At our current capacity, it is more efficient for us to sell to one buyer; however,
+in the future we will look to expand that, as needed.
+Recent trends in the shrimp
+industry, including that, according to preliminary 2023 data from the National Marine Fisheries Service, shrimp prices have dropped as
+much as 44% since 2022.4 Our business, prospects, revenues,
+profitability, and future growth are highly dependent upon the prices of and demand for shrimp. Our ability to borrow and to obtain additional
+capital on attractive terms is also substantially dependent upon shrimp prices. These prices have been and are likely to continue to be
+extremely volatile for seasonal, cyclical, and other reasons. Any substantial or extended decline in the price of shrimp will have a material
+adverse effect on our financing capacity and our prospects for commencing and sustaining any economic commercial production. In addition,
+increased availability of imported shrimp can affect our business by lowering commodity prices. This could reduce the value of inventories,
+held both by us and by our customers, and cause many of our customers to reduce their orders for new products until they can dispose of
+their higher-cost inventories.
+_____________________________
+4 https://civileats.com/2023/06/20/cheap-imports-leave-us-shrimpers-struggling-to-compete/#:~:text=The%20U.S.%20Food
+%20and%20Drug,before%20entering%20the%20U.S.%20market
+5
+Shrimp Life Cycle
+6
+Our Markets
+United States
+The United States is the second largest import market
+and second largest consumer market for shrimp in the world having consumed 1.6B lbs. of shrimp in 2021.5
+The majority of imported and consumed shrimp is of smaller variety (<22 grams). We focus on growing larger shrimp (28+ grams) as there
+is strong demand for large, sustainably produced shrimp but limited quantities as we believe some of our competitors focus on intensive
+methods that produce smaller shrimp. Our focus will be to sell to retailers first and niche markets second, where the pricing makes economic
+sense.
+Worldwide
+The total global value for shrimp trade in 2022 was
+$24B USD.6 The total global production of farm raised shrimp
+in 2022 was slightly over 4.0 MMT or 8.8 billion pounds. In the last decade, to keep up with global demand, production of farm raised
+shrimp has grown 60% and now accounts for more than 54% of all global shrimp produced for food.
+The demand and production of farm raised shrimp is
+at an all-time high with annual production growth estimated to be 6.72% CARG (compounded annual growth rate) through 2028.7
+Global growth rates had stagnated during the COVID Pandemic, however in the U.S., imports grew by 7.4% YoY, with global consumption rates
+increasing by 14% by late 2021. Post COVID production output increased significantly for Ecuador, which is now on par with India in terms
+of total production volume, resulting in a total global supply in line with demand, which had impacted global prices negatively. The demand
+for shrimp continues to rise and, more importantly, the demand for premium quality product should impact prices positively going forward
+as demand starts to again outpace supply.8
+The world's largest consumer markets for shrimp are
+(in order): China, the U.S., and the EU+UK, with China consuming roughly 24% (1.8 MMT) of all produced shrimp. The U.S. and EU account
+for roughly 10% each. Japan, being the 4th largest consumer of shrimp, prefers larger, higher quality head on shrimp, but per capita
+consumption is very dependent on the value of the Yen.9
+Recent developments around the use of antibiotics
+in Indian grown shrimp by the EU, could significantly impact the exports by Indian countries. Indian shrimp imports account for almost
+40% of total imports for both the EU and the U.S. While the U.S. has not expressed the same concern as the EU, the Food and Drug Administration
+(the “FDA”) does follow closely the decisions of the EU on seafood imports. Any reduction in importation of Indian
+shrimp to either the EU or U.S. will have dramatic effects on regional prices.10
+Pacific Vannemei is the leading species of farm raised
+shrimp and is the preferred shrimp in China, the U.S., and the EU.11
+Head on/shell on (“HOSO”) are preferred in both China and the EU.
+_____________________________
+5
+https://research.rabobank.com/far/en/documents/124852_Rabobank_Global-Seafood-Trade_Sharma-Nikolik_Oct2022.pdf
+6
+https://www.prnewswire.com/news-releases/global-shrimp-market-report-2023-sector-to-reach-69-35-billion-by-2028-at-a-6-7-cagr-301835697.html
+7
+https://siamcanadian.com/us-shrimp-imports-see-second-straightmonth-of-y-o-y-volume-value-declines-undercurrentnews/
+8
+https://www.globalseafood.org/advocate/with-growing-demand-for-sustainably-farmed-seafood-oman-tests-the-waters-with-shrimp-farming-in-the-desert/
+9
+https://www.fao.org/in-action/globefish/market-reports/resource-detail/en/c/1650814/
+10
+https://www.globalseafood.org/advocate/eu-antibiotics-india-shrimp/
+11 https://www.globalseafood.org/advocate/annual-farmed-shrimp-production-survey-a-slight-decrease-in-production-reduction-in-2023-with-hopes-for-
+renewed-growth-in-2024/
+7
+Major Producers: (According to Food & Agriculture
+Organization of the United Nations): China, Thailand, Indonesia, Brazil, Ecuador, Mexico, Venezuela, Honduras, Guatemala, Nicaragua, Belize,
+Viet Nam, Malaysia, Taiwan P.C., Pacific Islands, Peru, Colombia, Costa Rica, Panama, El Salvador, the United States of America, India,
+Philippines, Cambodia, Suriname, Saint Kitts, Jamaica, Cuba, Dominican Republic, Bahamas.
+Imports: Shrimp demand improved in the U.S.,
+supported by lower import prices. Demand was slightly higher among all European markets in early 2021, which was up from 2020.12
+Target Markets and Segmentation
+We plan to focus exclusively on the U.S. domestic
+market at this time.
+Marketing
+We understand the immediate needs to establish our
+brand and position. We also recognize the limitations of our competition in this space (lack of promotion, no or improper use of social
+media, etc.). This allows us to develop appropriate strategies and clear goals both long and short term.
+Strategic Relationships: We look to develop
+strategic partnerships for its Broodstock and future shrimp for consumption products.
+Investment: We will seek to invest time and
+money into promotional efforts that will help us reach our goals.
+Differentiation: We believe that we have a
+top-tier quality product, responsible and sustainable means of production, and the ability to quickly increase our scale to meet demand.
+These are all attractive features to our buyers and their customers.
+Competition
+We face competition from various importers of shrimp
+to the U.S. including Chicken of the Sea, Order, Aqua Star Importers, Eastern Fish Co., Mseafood Corporation. Locally, we face competition
+from Bower’s Shrimp Farm located in Collegeport, Texas.
+Intellectual Property
+Besides our company name and website (www.transamaqua.com)
+and trade secrets, we don’t own any material intellectual property.
+Suppliers
+We do not rely on a single supplier and have multiple
+options for almost all our required inputs.
+_____________________________
+12 https://siamcanadian.com/us-shrimp-imports-see-second-straightmonth-of-y-o-y-volume-value-declines-undercurrentnews/
+8
+Government Regulation
+Our farm and operations require approval from the
+Texas Parks and Wildlife Department (“TPWD”) to stock and harvest our ponds. The permission requires an animal health
+testing to confirm no presences of disease. We have obtained permission from the TPWD. We are technically considered a mariculture facility
+and thus exempt from requiring a water intake permit from the Arroyo Colorado River. Other than the permission from the TPWD, there are
+no licenses or permits needed to operate our business other than our business license from the State of Texas.
+The plants that process shrimp are subject to the
+rules and regulations of the U.S. Food and Drug Administration.13
+As a domestic aquaculture producer, we are not considered a Processor and as such are not subject to any specific rules or regulations
+governed by the Food & Drug Administration. We focus only on the production of the shrimp, we do not own or operate any processing
+plants.
+Properties
+We maintain a 0.25 acre parcel of land boarding the
+Arroyo Colorado River in Arroyo City, Texas.
+Our principal executive offices are located at 1022
+Shadyside Lane, Dallas, Texas 75223. Our CEO allows us to use this address free of charge.
+Employees
+As of July 15, 2025, we had four full-time employees and no part-time
+employees.
+ITEM 1A.
+RISK FACTORS
+Not required for “smaller reporting companies.”
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS
+None.
+ITEM 1C.
+CYBERSECURITY
+For purposes of this section:
+“Cybersecurity incident” means
+an unauthorized occurrence, or a series of related unauthorized occurrences, on or conducted through our information systems that jeopardizes
+the confidentiality, integrity, or availability of our information systems or any information residing therein.
+“Cybersecurity threat” means
+any potential unauthorized occurrence on or conducted through our information systems that may result in adverse effects on the confidentiality,
+integrity, or availability of our information systems or any information residing therein.
+“Information systems” means
+electronic information resources, owned or used by us, including physical or virtual infrastructure controlled by such information resources,
+or components thereof, organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of our information
+to maintain or support our operations.
+_____________________________
+13 https://www.fda.gov/food/guidance-documents-regulatory-information-topic-food-and-dietary-supplements/seafood-guidance-documents-regulatory-information
+9
+Risk Management and
+Strategy
+We monitor our websites and
+online accounts frequently to manage risks associated with cyber-security risks. Our website is monitored by a third party to check if
+the website or email server is secure. Our webmaster informs us of any issues that may arise in the cyber sector. We are prepared to inform
+all parties necessary if any breach of cyber-security were to happen. We have never had this problem and so we have never had to inform
+consultants, auditors, or other third parties.
+We have never had a breach
+of cyber-security at any point in our past. The risk to us of cybersecurity threats is in data storage of customer questions and emails.
+A breach of customers data could negatively materially affect our public trust and could result in loss of customers and revenue.
+Governance
+Our board of directors has
+no specific processes for monitoring cybersecurity within the Company. There is no subcommittee specifically for monitoring cybersecurity
+in the company.
+Our management monitors our
+websites and online accounts frequently to manage risks associated with cyber-security risks. Our management has more than 20 years of
+experience working in the technology industry, which enables it to identify cybersecurity risks associated with the Company. Our management
+communicates with our board on matters of cybersecurity but, has not had to inform them of any breaches thus far.
+ITEM 2.
+PROPERTIES
+We maintain a 0.25 acre parcel of land boarding the
+Arroyo Colorado River in Arroyo City, Texas.
+Our principal executive offices are located at 1022
+Shadyside Lane, Dallas, TX 75223. Our CEO allows us to use this address free of charge.
+ITEM 3.
+LEGAL PROCEEDINGS
+On
+December 13, 2024, due to a note holder recording a deed in lieu foreclosure, on December 2nd, 2024, TAA filed for Chapter 11
+bankruptcy protection under the United States Bankruptcy Code, in the United States Bankruptcy Court for the Southern District of
+Texas (Case # 24-10217). TAA voluntarily filed for Chapter 11 Bankruptcy to protect the
+assets of the company (shrimp broodstock and key property, plant, and equipment) due to threats being made by the former farm note
+holder (Kings Aqua Farm LLC) in which TAA operated on. On December 2, 2024, Kings Aqua Farm LLC filed a Deed in Lieu
+(“DIL”) of Foreclosure due to non-payment by Trans American Aquaculture. The land was conveyed back to Kings Aqua
+Farm because of the DIL filing. Over the next two weeks, various threats were made by Kings Aqua Farm on the assets of TAA, which
+are paramount to the survival and future of the company. To protect those key assets and any future business, TAA elected to file a
+voluntary Chapter 11 Bankruptcy.
+The bankruptcy
+plan is currently being finalized between TAA management, its board of directors, and legal counsel. The plan confirmation hearing is
+scheduled for August 18, 2025, at which time, we will present the re-organization plan for the company.
+Currently,
+there are no production operations being conducted at the farm. We are solely maintaining the broodstock as plans to exit bankruptcy are
+finalized.
+From time to time, we may become involved in litigation
+relating to claims arising out of our operations in the normal course of business. We are not currently involved in any pending legal
+proceeding or litigation and, to the best of our knowledge, no governmental authority is contemplating any proceeding to which we are
+a party or to which any of our properties is subject, which would reasonably be likely to have a material adverse effect on our business,
+financial condition and operating results.
+ITEM 4.
+MINE SAFETY DISCLOSURES
+Not applicable.
+10
+PART II
+ITEM 5.
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+Our Common Stock is currently quoted on the OTC Markets,
+which is sponsored by OTC Markets Group, Inc. The OTC Markets is a network of security dealers who buy and sell stock. The dealers are
+connected by a computer network that provides information on current “bids” and “asks,” as well as volume information.
+Our shares are quoted on the OTC Markets under the symbol “GRPS.”
+The table below sets forth for the periods indicated
+the quarterly high and low bid prices as reported by OTC Markets. Limited trading volume has occurred during these periods. These quotations
+reflect inter-dealer prices, without retail mark-up, mark-down, or commission and may not necessarily represent actual transactions.
+2025:
+High
+Low
+First Quarter
+$0.0004
+$0.0001
+Second Quarter
+$0.0002
+$0.0001
+2024:
+High
+Low
+First Quarter
+$0.0050
+$0.0021
+Second Quarter
+$0.0040
+$0.0012
+Third Quarter
+$0.0021
+$0.0007
+Fourth Quarter
+$0.0013
+$0.0002
+2023:
+High
+Low
+First Quarter
+$0.0060
+$0.0025
+Second Quarter
+$0.0053
+$0.0024
+Third Quarter
+$0.0048
+$0.0028
+Fourth Quarter
+$0.0042
+$0.0016
+Our common stock is considered to be penny stock under
+rules promulgated by the SEC. Under these rules, broker-dealers participating in transactions in these securities must first deliver a
+risk disclosure document which describes risks associated with these stocks, broker-dealers’ duties, customers’ rights and
+remedies, market and other information, and make suitability determinations approving the customers for these stock transactions based
+on financial situation, investment experience and objectives. Broker-dealers must also disclose these restrictions in writing, provide
+monthly account statements to customers, and obtain specific written consent of each customer. With these restrictions, the likely effect
+of designation as a penny stock is to decrease the willingness of broker-dealers to make a market for the stock, to decrease the liquidity
+of the stock and increase the transaction cost of sales and purchases of these stocks compared to other securities.
+Approximate Number of Equity Security Holders
+As of July 15, 2025, there were approximately 3,818
+stockholders of record. Because shares of our Common Stock are held by depositaries, brokers and other nominees, the number of beneficial
+holders of our shares is substantially larger than the number of stockholders of record.
+11
+Dividends
+Besides dividends owed to the holder of the Series
+D Preferred Stock, we have not declared or paid a cash dividend to our stockholders since we were organized and does not intend to pay
+dividends in the foreseeable future. Our board of directors presently intends to retain any earnings to finance our operations and does
+not expect to authorize cash dividends in the foreseeable future. Any payment of cash dividends in the future will depend upon our earnings,
+capital requirements and other factors.
+Section 15(g) of the Securities Exchange Act of 1934
+Our shares are covered by section 15(g) of the Exchange
+Act that imposes additional sales practice requirements on broker/dealers who sell such securities to persons other than established customers
+and accredited investors (generally institutions with assets in excess of $5,000,000 or individuals with net worth more than $1,000,000
+or annual income exceeding $200,000, or $300,000 jointly with their spouses). For transactions covered by the Rule, the broker/dealer
+must make a special suitability determination for the purchase and have received the purchaser's written agreement to the transaction
+prior to the sale. Consequently, the Rule may affect the ability of broker/dealers to sell our securities and may affect your ability
+to sell your shares in the secondary market.
+Section 15(g) also imposes additional sales practice
+requirements on broker/dealers who sell penny securities. These rules require a one-page summary of certain essential items. The items
+include the risk of investing in penny stocks in both public offerings and secondary marketing; terms important to in understanding of
+the function of the penny stock market, such as bid and offer quotes, a dealers spread and broker/dealer compensation; the broker/dealer
+compensation, the broker/dealers’ duties to its customers, including the disclosures required by any other penny stock disclosure
+rules; the customers’ rights and remedies in cases of fraud in penny stock transactions; and, the FINRA’s toll free telephone
+number and the central number of the North American Securities Administrators Association, for information on the disciplinary history
+of broker/dealers and their associated persons.
+Penny Stock
+Our stock is considered a penny stock. The SEC has
+adopted rules that regulate broker-dealer practices in transactions in penny stocks. Penny stocks are generally equity securities with
+a market price of less than $5.00, other than securities registered on certain national securities exchanges or quoted on the NASDAQ system,
+provided that current price and volume information with respect to transactions in such securities is provided by the exchange or system.
+The penny stock rules require a broker-dealer, prior to a transaction in a penny stock, to deliver a standardized risk disclosure document
+prepared by the SEC, that: (a) contains a description of the nature and level of risk in the market for penny stocks in both public offerings
+and secondary trading; (b) contains a description of the broker’s or dealer’s duties to the customer and of the rights and
+remedies available to the customer with respect to a violation of such duties or other requirements of the securities laws; (c) contains
+a brief, clear, narrative description of a dealer market, including bid and ask prices for penny stocks and the significance of the spread
+between the bid and ask price; (d) contains a toll-free telephone number for inquiries on disciplinary actions; (e) defines significant
+terms in the disclosure document or in the conduct of trading in penny stocks; and (f) contains such other information and is in such
+form, including language, type size and format, as the SEC shall require by rule or regulation.
+The broker-dealer also must provide, prior to effecting
+any transaction in a penny stock, the customer with: (a) bid and offer quotations for the penny stock; (b) the compensation of the broker-dealer
+and its salesperson in the transaction; (c) the number of shares to which such bid and ask prices apply, or other comparable information
+relating to the depth and liquidity of the market for such stock; and (d) a monthly account statement showing the market value of each
+penny stock held in the customer’s account. In addition, the penny stock rules require that prior to a transaction in a penny stock
+not otherwise exempt from those rules, the broker-dealer must make a special written determination that the penny stock is a suitable
+investment for the purchaser and receive the purchaser’s written acknowledgment of the receipt of a risk disclosure statement, a
+written agreement as to transactions involving penny stocks, and a signed and dated copy of a written suitability statement.
+These disclosure requirements may have the effect
+of reducing the trading activity for our Common Stock. Therefore, stockholders may have difficulty selling our securities.
+12
+Share Repurchases
+During the quarter ended December 31, 2024, there
+were no purchases made by or on behalf of the issuer or any “affiliated purchaser,” as defined in § 240.10b-18(a)(3)
+of Regulation S-K of shares or other units of any class of our equity securities that are registered by us pursuant to section 12 of the
+Exchange Act.
+Equity Compensation Plan Information
+As of December 31, 2024, the Company had no securities
+authorized for issuance under equity compensation plans either approved or not approved by the Company’s shareholders.
+ITEM 6.
+[RESERVED]
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This Management’s Discussion and Analysis
+of Financial Condition and Results of Operations contain certain forward-looking statements. Historical results may not indicate future
+performance. Our forward-looking statements reflect our current views about future events; are based on assumptions and are subject to
+known and unknown risks and uncertainties that could cause actual results to differ materially from those contemplated by these statements.
+We undertake no obligation to publicly update or revise any forward-looking statements, including any changes that might result from any
+facts, events, or circumstances after the date hereof that may bear upon forward-looking statements. Furthermore, we cannot guarantee
+future results, events, levels of activity, performance, or achievements.
+Critical Accounting Policies
+The following discussions are based upon our financial
+statements and accompanying notes, which have been prepared in accordance with GAAP Financial Measures of the United States.
+The preparation of these financial statements requires
+management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses,
+and related disclosures of contingencies. We continually evaluate the accounting policies and estimates used to prepare the financial
+statements. We base our estimates on historical experiences and assumptions believed to be reasonable under current facts and circumstances.
+Actual amounts and results could differ from these estimates made by management.
+Accounting for Our Shrimp Inventory
+Our inventory of shrimp is divided into shrimp held
+for sale and broodstock shrimp. Broodstock are shrimp that are used for breeding purposes; selected for their genetic, disease-free and
+size attributes they can be more valuable than shrimp held for sale. We collect broodstock from the biomass just before the harvest and
+segregate them from the shrimp that will be harvested and sold. Broodstock, because of their higher value, may be sold to other shrimp
+farmers in the United States and overseas. We also keep a number of broodstock for our own restocking purposes. So, during the year, our
+inventory can consist of shrimp held for sale, broodstock held for sale and broodstock used for restocking purposes.
+Shrimp farming is a seasonal business. On a calendar
+year basis, we typically use the broodstock to breed our larvae shrimp during the first quarter so that by spring the shrimp are held
+in large post-larvae tanks for development. Later, in early summer, the shrimp are transferred to ponds where they complete the grow out
+process over the next five to nine months. This can vary if we have more than one cycle of shrimp. Grow out may begin in the second in
+the second quarter, with a second cycle grow out beginning in early summer. The first harvest cycle can occur in early fall with the second
+harvest cycle occurring in November or December. During 2023, we had one cycle and harvest occurred in early November 2023. During 2024,
+we have not stocked, nor have we had a harvest; however, we are in process of larval development for broodstock sales, genetics families
+and line continuation.
+13
+Our shrimp inventory is valued at lower of cost or
+the net realizable value on a first-in, first-out basis.
+The inventory on December 31, 2024 consists of live
+broodstock animals. Included in this amount are costs and charges directly and indirectly incurred in bringing shrimp inventory to its
+existing condition and location as noted in FASB ASC 330-10-30.
+At December 31, 2024, the broodstock shrimp for the
+2024 harvest had been identified and segregated from consumable shrimp in outdoor ponds to indoor tanks. The table below summarizes inventory
+at December 31, 2024 and 2023.
+2024
+2023
+Held for Sale
+Shrimp
+$–
+$187,006
+Broodstock
+210,000
+4,025
+Total Held for Sale
+210,000
+191,031
+Broodstock - Restocking
+20,830
+56,362
+Total inventory
+$230,830
+$247,393
+At December 31, 2024, approximately 4,415 animals
+of broodstock will be used to populate our next harvest in 2025. The cost of the broodstock was reclassified to broodstock held for restocking
+on a pro rata basis of cost per pound of the total biomass of shrimp held for sale. Subsequent costs will be allocated in accordance with
+ASC 330-10-30.
+Business Overview
+Founded in 2017, we are a leading aquaculture company
+that provides premium quality, farm-raised pacific white shrimp, 100% free of antibiotics and hormones, to the U.S. domestic seafood market.
+We believe we are a leading aquaculture company due to Best Aquaculture Practices (“BAP”) guidelines,14
+considering the rarity of the standards in the U.S. Although we are not currently in full compliance with BAP guidelines, we are working
+towards full compliance. At the moment, we adhere to BAP guidelines as part of our operating and production model. Grown at our 1,880-acre
+farm located in Rio Hondo, Texas, on the largest scale aquaculture farm in the U.S., our shrimp are meticulously raised to exceed in line
+with industry best practices according to BAP guidelines15
+using only authentic, sustainable practices. Within our controlled facility, each harvest is responsibly raised and cultivated onsite
+with minimal ecological footprint, promising our customers a superior product developed from the highest standard of care.
+We have and will continue to utilize superior genetic
+linage broodstock for cultivation of own post larvae in our onsite genetics, maturation and hatchery facilities. These facilities allow
+us to continually develop animals with increasing growth rates, lower mortality, and stronger disease resistance. We began formal production
+runs in 2018 and to date have produced almost one million lbs. of shrimp for consumption.
+_____________________________
+14 https://www.bapcertification.org/Downloadables/pdf/BAP%20-%20BAP%20Farm%20Standard%20-%20Issue%203.1%20-%2007-February-2023.pdf
+15 https://www.bapcertification.org/Downloadables/pdf/BAP%20-%20BAP%20Farm%20Standard%20-%20Issue%203.1%20-%2007-February-2023.pdf
+14
+Recent trends in the shrimp industry, including that,
+according to preliminary 2023 data from the National Marine Fisheries Service, shrimp prices have dropped as much as 44% since 2022.16
+Our business, prospects, revenues, profitability, and future growth are highly dependent upon the prices of and demand for shrimp. Our
+ability to borrow and to obtain additional capital on attractive terms is also substantially dependent upon shrimp prices. These prices
+have been and are likely to continue to be extremely volatile for seasonal, cyclical, and other reasons. Any substantial or extended decline
+in the price of shrimp will have a material adverse effect on our financing capacity and our prospects for commencing and sustaining any
+economic commercial production. In addition, increased availability of imported shrimp can affect our business by lowering commodity prices.
+This could reduce the value of inventories, held both by us and by our customers, and cause many of our customers to reduce their orders
+for new products until they can dispose of their higher-cost inventories.
+Going Concern Uncertainty
+As shown in the accompanying financial statements,
+during the year ended December 31, 2024, we reported a net loss of $2,808,894. As of December 31, 2024, our current liabilities exceeded
+its current assets by $3,351,602. As of December 31, 2024, we had $0 of cash. As shown in the accompanying financial statements, during
+the year ended December 31, 2023, we reported a net loss of $1,894,993. As of December 31, 2023, our current liabilities exceeded its
+current assets by $3,478,423. As of December 31, 2023, we had $6,600 of cash.
+We will require additional funding to finance the
+growth of our operations and achieve our strategic objectives. These factors, as relative to capital raising activities, create doubt
+as to our ability to continue as a going concern. We are seeking to raise additional capital and are targeting strategic partners to accelerate
+the sales and marketing of our products and begin generating revenues. Our ability to continue as a going concern is dependent upon the
+success of future capital offerings or alternative financing arrangements, expansion of our operations and generating sales. The accompanying
+financial statements do not include any adjustments that might be necessary should we be unable to continue as a going concern. Management
+is actively pursuing additional sources of financing sufficient to generate enough cash flow to fund its operations; however, management
+cannot make any assurances that such financing will be secured.
+Results of Operations for the Years Ended December
+31, 2024 and 2023
+Revenues
+For the year ended December 31, 2024, total revenues
+were $331,645 compared to $101,574 for the same period in 2023, an increase of $213,571 or 227%. This increase primarily consisted of
+increases in the production of shrimp for consumption sales. In 2024, the Company focused efforts primarily on the development of genetic
+lines and did not produce a meaningful harvest. What shrimp revenue we did have was a result of inventory. In future periods, our focus
+will be on developing genetic lines, selling broodstock and producing shrimp at the appropriate time.
+Cost of Goods Sold and Gross Profit
+For the year ended December 31, 2024, cost of goods
+sold were $321,615 compared to $661,591 for the same period in 2023, a decrease of $339,976 or 51%. This decrease was primarily a result
+of streamlining of shrimp production and focused smaller harvest totals.
+The gross profit for the year ended December 31, 2024
+was $10,030 for an operating loss margin of 3% compared to a gross loss of $560,018 for the same period in 2023, producing an operating
+loss margin of -551%, due to significantly reduced shrimp production.
+_____________________________
+16 https://civileats.com/2023/06/20/cheap-imports-leave-us-shrimpers-struggling-to-compete/#:~:text=The%20U.S.%20Food%20and%20Drug,
+before%20entering%20the%20U.S.%20market
+15
+Operating Expenses
+General and administrative expenses for year ended
+December 31, 2024 decreased by $18,534, or 2%, to $846,234 from $864,768 for the year ended December 31, 2023. The decrease is due primarily
+to a reduction non-cash compensation for consultants with a slight increase in legal and professional fees to $218,194 due to legal and
+accounting fees.
+Other Income (Expense)
+For the year ended December 31, 2024, we had interest
+expenses of $477,964 compared to interest expenses of $490,053 for the same period in 2023, a decrease in interest expense of $12,089.
+This decrease in interest expense was due primarily to lower financing charges on a credit card account.
+Net Income (Loss)
+As a result of the above, we reported a net loss of
+$2,808,894 for the year ended December 31, 2024 compared to a net loss of $1,894,993 for the year ended December 31, 2023. The main reason
+for the increased loss is the expense recognition for the difference in the asset value to the debt owed on the property
+Liquidity and Capital Resources
+As of December 31, 2024, we had a cash balance of
+$0, compared to cash balance of $6,600 as of December 31, 2023. We currently do not have sufficient cash to fund our operations for the
+next 12 months and we will require working capital to complete development and production, testing and marketing of our products and to
+pay for ongoing operating expenses. We anticipate adding management positions for corporate development and the corresponding operations
+of the Company, but this will not occur prior to obtaining additional capital. Currently, competitively priced loans from banks or other
+lending sources for lines of credit or similar short-term borrowings are not available to us. We have been able to raise working capital
+to fund operations through the issuances of convertible preferred stock to GHS, factoring our receivables, and borrowing funds from employees
+of the Company. As of December 31, 2024, our current liabilities exceeded our current assets by $3,351,602 as compared to 2023 when current
+liabilities exceeded current assts by $3,478,423, a decrease of $126,821.
+On December 2, 2024, Kings Aqua Farm LLC filed a Deed
+in Lieu (“DIL”) of Foreclosure due to non-payment by Trans American Aquaculture. The land was conveyed back to Kings
+Aqua Farm because of the DIL filing. Over the next two weeks, various threats were made by Kings Aqua Farm on the assets of TAA, which
+are paramount to the survival and future of the company. To protect those key assets and any future business, TAA elected to file a voluntary
+Chapter 11 Bankruptcy.
+The Company is also a party to an SBA Loan through
+a bank in the original amount of $150,000 bearing interest at 3.75% per annum, due in 2050, yielding a monthly payment amount of $719.
+Liquidity is also affected by notes to our shareholders.
+At December 31, 2024, shareholders have loaned the Company approximately $1,646,636 which notes accrue interest at ranging from 12.0%
+to 18% per annum and were due July 1, 2024. No additional extensions have been completed as of yet, and the note are in default, however,
+to date, no one has called them due.
+16
+Cash Flows from Operating Activities
+During the year ended December 31, 2024, net cash
+used in operating activities was $2,996,776, an increase usage of $1,888,864 resulting largely from $2,808,894 in net operating loss and
+a decrease in accrued interest expense of 379,956 in connection with the Deed in Lieu of Foreclosure and resulting settlement of the debt
+and recognition of the expense.
+By comparison, during the year ended December 31,
+2023, net cash used in operating activities was $1,107,912, an increase usage of $602,009 resulting largely from $1,894,993 in net operating
+loss and an increase of $85,833 in inventory due to a build in preparation for our annual harvest, offset by an increases in accounts
+payable and accrued expenses of $387,549 in connection with our harvest preparation and accrued interest expense of $342,395 due mainly
+to falling into arrears on the note payable covering our farm property and increased interest expense on notes payable to shareholders,
+and an increase of $100,000 in common stock issued for consulting services.
+Cash Flows from Investing Activities
+During the year ended December 31, 2024, we had $6,717,292
+net cash used in investing activities. During the year ended December 31, 2023, we had $15,132 net cash used in investing activities.
+The difference was in removal of the farm note and land improvements related to the Deed in Lieu of Foreclosure.
+Cash Flows from Financing Activities
+During the year ended December 31, 2024, net cash
+provided by financing activities was $4,774,987 which was mainly comprised of which was mainly comprised of debt extinguishment of the
+farm note due to the deed in Lieu of Foreclosure. During the year ended December 31, 2023, net cash provided by financing activities was
+$1,129,644 which was mainly comprised of purchases of Series D Preferred Stock of $1,028,000 by GHS, additional borrowings from our shareholders
+of $255,227, offset by $103,266 of payments to shareholder noteholders.
+Factors That May Affect Future Results
+Management’s Discussion and Analysis contains
+information based on management’s beliefs and forward-looking statements that involve several risks, uncertainties, and assumptions.
+There can be no assurance that actual results will not differ materially from the forward-looking statements as a result of various factors,
+including but not limited to, our ability to obtain the equity/debt funding or borrowings necessary to produce, market and launch our
+products, our ability to successfully serially produce and market our products; our success establishing and maintaining production lines;
+the acceptance of our products by customers; our continued ability to pay operating costs; our ability to meet demand for our products;
+the amount and nature of competition from our competitors; the effects of technological changes on products and product demand; and our
+ability to successfully adapt to market forces and technological demands of our customers.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future material effect on our consolidated financial condition, changes in financial
+condition, revenues or expenses, results of operations, liquidity capital expenditures or capital resources.
+Recent Accounting Pronouncements
+We have provided a discussion of recent accounting
+pronouncements in NOTE 2 to the Audited Annual Consolidated Financial Statements for 2024.
+17
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not applicable.
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The financial statements of the Company are included
+beginning on page F-1 immediately following the signature page to this Form 10-K.
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+ITEM 9A.
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+We have established disclosure controls and procedures
+that are designed to ensure that information required to be disclosed in reports filed or submitted under the Securities Exchange Act
+of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized and reported within the time periods specified
+in the rules and forms of the SEC and, as such, is accumulated and communicated to our Chief Executive Officer who also serves as our
+Chief Financial Officer, Adam Thomas, who serves as our principal executive officer and principal financial officer, as appropriate, to
+allow timely decisions regarding required disclosure. Mr. Thomas has evaluated the effectiveness of our disclosure controls and procedures,
+as defined in Rule 13a-15(e) of the Exchange Act, as of December 31, 2024. Based on his evaluation, Mr. Thomas concluded that, due to
+a material weakness in our internal control over financial reporting as described below, our disclosure controls and procedures were not
+effective as of December 31, 2024. In light of the material weakness in internal control over financial reporting, we completed substantive
+procedures, including validating the completeness and accuracy of the underlying data used for accounting prior to filing this Form 10-K.
+These additional procedures have allowed us to conclude
+that, notwithstanding the material weakness in our internal control over financial reporting, the consolidated financial statements included
+in this Form 10-K fairly present, in all material respects, our financial position, results of operations and cash flows for the periods
+presented in conformity with accounting principles generally accepted in the United States of America.
+Internal Control Over Financial Reporting
+Our management is responsible for establishing and
+maintaining adequate internal controls over financial reporting for the Company. Due to limited resources, management conducted an evaluation
+of internal controls based on criteria established in 2013 Internal Control - Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission (“COSO”). The results of this evaluation determined that our internal control
+over financial reporting was ineffective as of December 31, 2024, due to material weaknesses. A material weakness in internal control
+over financial reporting is defined as a deficiency, or a combination of deficiencies, in internal control over financial reporting, such
+that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented
+or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control over financial
+reporting that is less severe than a material weakness, yet important enough to merit attention by those responsible for oversight of
+our financial reporting.
+18
+Management’s assessment identified the following
+material weaknesses in internal control over financial reporting:
+·
+We do not have a functioning audit committee.
+·
+We have not achieved the desired level of documentation of our internal controls and procedures. This documentation will be strengthened through utilizing a third-party consulting firm to assist management with its internal control documentation and further help to limit the possibility of any lapse in controls occurring.
+·
+We have not achieved the desired level of corporate governance to ensure that our accounting for all of our contractual and other agreements is in accordance with all of the relevant terms and conditions.
+As a result of the material weaknesses in internal
+control over financial reporting described above, our management has concluded that, as of December 31, 2024, our internal control over
+financial reporting was not effective based on the criteria in Internal Control - Integrated Framework issued by the COSO.
+We will continue to follow the standards for the Public
+Company Accounting Oversight Board (United States) for internal control over financial reporting to include procedures that:
+·
+Pertain to the maintenance of records in reasonable detail accurately that fairly reflect the transactions and dispositions of our assets;
+·
+Provide reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations of management and the Board of Directors; and
+·
+Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on the financial statements.
+Despite the material weaknesses in financial reporting
+noted above, we believe that our financial statements included in this report fairly present our financial position, results of operations
+and cash flows as of and for the years presented in all material respects.
+Changes in Internal Controls
+There were no changes in our internal control over
+financial reporting that occurred during the quarter ended December 31, 2024 that have materially affected, or are reasonably likely to
+materially affect, our internal control over financial reporting.
+We have taken limited steps to meet our Sarbanes-Oxley
+(SOX) Section 404 compliance requirements and implement procedures to assure financial reports are prepared in accordance with generally
+accepted accounting principles (GAAP) and therefore fairly represent the results and condition of the Company. We are not materially compliant
+with the Section 404 requirements due to economic constraints.
+ITEM 9B.
+OTHER INFORMATION
+During the quarter ended
+December 31, 2024, no director or officer adopted or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement,
+as each term is defined in Item 408(a) of Regulation S-K.
+ITEM 9C.
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Not applicable to the Company.
+19
+PART III
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Executive Officers and Directors
+The following table sets forth the name, age, and position of each executive
+officer and director of the Company:
+Director's Name
+Age
+Position
+Adam Thomas
+43
+Chief Executive Officer, Chief Financial Officer, and Director
+Luis Fernando Granda Arias
+66
+Chief Operating Officer
+Luis Arturo Granda Roman
+45
+Director
+Bolivar Prieto Torres
+44
+Director
+Malcolm McNeill
+78
+Director
+Malcolm Ashley
+66
+Director
+Adam Thomas, CEO, CFO, and Director. Mr. Thomas
+has served as Chief Executive Officer, Chief Financial Officer, and Director of the Company since August 2022 and as Chief Executive Officer
+of TAA since April 2016. Mr. Thomas holds a bachelor’s degree in aviation management from Bowling Green State University and holds
+an MBA from Capital University. He has over fifteen years’ experience in operations, strategy, and financial operations. Mr. Thomas
+is highly qualified and experienced in managing budgets, P&L, and strategic growth. Prior to his involvement with TAA, Mr. Thomas
+was a Vice President at JPMorgan Chase where he led various operational and strategy groups both domestic and international. This experience
+led him to a Head of Corporate Strategy role at a legal and financial consulting firm where he led multiple successful mergers & acquisitions
+that grew annual revenue from $30M to 100M. Mr. Thomas is not, and has not been during the past five years, the director of any other
+public companies.
+Luis Fernando Granda Arias, COO. Mr. Arias
+has served as Chief Operating Officer since June 12, 2023. Mr. Arias brings almost 40 years of experience in operating shrimp farms and
+hatcheries. In the early 1980’s, he was one of the first individuals to successfully cause broodstock prawns to spawn in artificial
+conditions inside a hatchery. In addition, Mr. Arias has successfully commissioned and operated profitably over 10 shrimp farms in Ecuador
+ranging in size from less than 100 acres to over 3,000 acres. He brings decades of wisdom and expertise to our operation. Mr. Arias is
+not, and has not been during the past five years, the director of any other public companies.
+Luis Arturo Granda Roman, Director. Mr. Roman
+has served as Director of the Company since February 2023. Mr. Roman is one of the founders of TAA. He has been involved in aquaculture
+his entire 38 years but, professionally, for the last 20 years. Mr. Roman is a second-generation shrimp farmer and his father, Luis Fernando
+Granda Arias serves our COO. Mr. Roman has designed, commissioned, and operated three hatcheries, producing 180MM post-larvae/month, where
+he has successfully improved quality and survival rates. He has also commissioned and managed a 3700-acre shrimp farm in Ecuador. In addition
+to his aquaculture operations background, he was instrumental in the design and development of a large feed manufacturing facility in
+southern Ecuador. Mr. Roman has an undergraduate degree in Mariculture from Texas A&M, Galveston, and a Master in Aquaculture
+from National Center of Aquaculture and Marine, Ecuador. Mr. Roman is not, and has not been during the past five years, the director of
+any other public companies.
+20
+Bolivar Prieto Torres, Director. Mr. Torres
+has served as Director of the Company since February 2023. Mr. Prieto Torres is the President of Excellaqua, S.A., one of the largest
+and most successful shrimp hatcheries in Ecuador. Mr. Torres has held numerous executive level positions within the aquaculture industry.
+His direct experience related to shrimp cultivation, shrimp production, shrimp processing, as well as international shrimp trade brings
+invaluable experience to the company’s board of directors. Mr. Torres holds a degree in Agricultural Engineering from the Litoral
+Polytechnic School of Mechanical Engineering and Production Sciences in Guayaquil, Ecuador. Mr. Torres is not, and has not been during
+the past five years, the director of any other public companies.
+Malcolm McNeill, Director. Mr. McNeill has
+served as Director of the Company since February 2023. Mr. McNeill’s background is in accounting and finance. He worked with Price
+Waterhouse & Co. and has served as a financial executive or consultant to companies in the energy sector, including upstream oil and
+gas, interstate pipeline, independent power, biofuel development and private equity. Since August 2022 he has served with Global Energy
+Mentors, a group of experienced professionals advising start-up companies in the energy sector; from December 2018 to November 2021, he
+served as a contract CFO for Falcon Seaboard Diversified, Inc. an upstream oil and gas company; and from January 2016 to September 2018,
+he served as a contract CFO for Nearshore Natural Gas LLC, a developer of independent power in the Republic of Chad. Mr. McNeill is a
+certified public accountant and was the Audit Committee Chair on the Board through December 31, 2023. Mr. McNeill is not, and has not
+been during the past five years, the director of any other public companies.
+Malcolm Ashley, Director. Mr. Ashley has served
+as Director of the Company since 2024. Mr. Ashley is an economist and systems engineer trained at Yale University (B.A. Economics /Political
+Science ‘81) and the Georgia Institute of Technology (M.Sc Economics ‘94) with over 25 years of applied expertise in facilitating
+sustainable and strategic regional, local, economic development, through research, development planning, business development and recruitment.
+His professional background includes research for the U.S. Forest Service; U.S. Department of Housing and Urban Development; U.S. Environmental
+Protection Agency (EPA) Region IV; U.S. Department of Treasury, Community Development Financial Institution Program (CDFI); U.S. Department
+of Agriculture (USDA); and the Georgia Board of Regents, University System of Georgia. He has held academic instructional positions for
+Economics & Entrepreneurship, University of Hartford; Georgia Institute of Technology, and Atlanta Metropolitan State College; and
+consultant, Kennesaw State University, for Emergency Preparedness & Risk Management.
+Legal Proceedings
+During the past ten years there have been no events
+under any bankruptcy act, no criminal proceedings and no judgments, injunctions, orders or decrees material to the evaluation of the ability
+and integrity of any of our directors or executive officers, and none of these persons has been involved in any judicial or administrative
+proceedings resulting from involvement in mail or wire fraud or fraud in connection with any business entity, any judicial or administrative
+proceedings based on violations of federal or state securities, commodities, banking or insurance laws or regulations, or any disciplinary
+sanctions or orders imposed by a stock, commodities or derivatives exchange or other self-regulatory organization.
+Family Relationships
+Mr. Roman and Arias are father and son. Mr. Thomas
+is related to Messrs. Arias and Roman through marriage (Mr. Thomas’ wife is Mr. Arias’ niece and Mr. Roman’s first cousin.
+Besides that, there are no family relationships between any of our directors and executive officers.
+Committees
+We currently do not have a functioning audit committee.
+Our board of directors has not yet established a compensation committee or a nominating and corporate governance committee.
+21
+Compliance with Section 16(a) of the Securities Exchange Act of 1934
+Under U.S. securities laws, directors, certain officers
+and persons holding more than 10% of our common stock must report their initial ownership of our common stock and any changes in their
+ownership to the SEC. The SEC has designated specific due dates for these reports and we must identify in this Form 10-K those people
+who did not file these reports when due. Based solely on our review of copies of the reports filed with the SEC, none of the reporting
+requirements for fiscal year 2024 were complied with by each person who at any time during the 2024 fiscal year was a director or an executive
+officer or held more than 10% of our common stock.
+Code of Ethics
+We have not adopted a formal, written code of ethics
+due to a small number of members of management. We plan to adopt a Code of Ethics during the fiscal year ending December 31, 2025.
+ITEM 11.
+EXECUTIVE COMPENSATION
+Summary Compensation for Named Executive Officers
+The following table sets
+forth information concerning the annual compensation awarded to, earned by, or paid to the following named executive officers for all
+services rendered in all capacities to our company and its subsidiaries for the years ended December 31, 2024 and 2023.
+Summary Compensation Table
+Name and principal position
+Year
+Salary ($)
+Total ($)
+Adam Thomas, CEO, CFO, Director
+2024
+169,900 (1)
+169,900
+2023
+126,750 (1)
+126,750
+________________________
+(1)
+Accrued and unpaid.
+We currently have not entered into an employment agreement
+with Mr. Thomas; however, effective June 12, 2023, our board of directors approved the following compensation for Mr. Thomas:
+·
+effective April 1, 2023, Mr. Thomas will receive an annual base salary of $169,000 for his service as Chief Executive Officer;
+·
+Mr. Thomas will be eligible to receive incentive compensation of up to $41,000 in the form of cash and stock, at Mr. Thomas’ election; and
+·
+Mr. Thomas is eligible to receive employment benefits as generally provided by our policies and benefit plans for employees.
+Summary Compensation for Directors
+During the year ended December 31, 2024, the award
+of $43,000 of Common Stock was earned by each of our directors; however, the shares have yet to be issued.
+22
+Effective June 12, 2023, our board of directors approved
+the following compensation for non-management directors:
+·
+annual retainer of $43,000 for board membership, inclusive of all Board meeting and committee meeting attendance fees;
+·
+annual retainer for service on the Audit Committee of $10,000;
+·
+annual retainer for service as the Chairperson of any committee established by the board, other than the Audit Committee, of $5,000; and
+·
+reimbursement for reasonable out-of-pocket expenses actually incurred in connection with participation and/or attendance of board and committee meetings.
+The annual retainer fees for non-management director
+and committee Chairpersons will be paid in one annual payment at the end of each fiscal year. Newly appointed directors and/or committee
+Chairpersons will be paid on a pro rata basis in relation to time served during their first calendar quarter of service. Subject to approval
+of the Board of Directors, a non-management director may receive payment of the annual retainer in restricted shares of common stock of
+the Company, which will vest at the rate of 1/3 per year over a period of three years after the date of such grant.
+Insider Trading Policy
+Due to limited resources and the small number of our
+management, we do not have an insider trading policy.
+Policies and Practices Related to the Timing
+of Grants of Certain Equity Awards
+It is management’s duty to approve ordinary
+course annual equity grants during a scheduled meeting held each year. At this meeting, management is to approve each named executive
+officer’s annual equity award, if any. At this time, we do not currently anticipate granting stock options to any of our named executive
+officers. We do not schedule our equity grants in anticipation of the release of material, non-public information, nor do we time the
+release of material nonpublic information based on equity grant dates.
+Equity Awards
+As of December 31, 2024, there were no outstanding
+equity awards.
+23
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+Principal Shareholders
+The table below sets forth information as to our directors,
+named executive officers, and executive officers and each person owning of record or was known by the Company to own beneficially shares
+of stock greater than 5% of the 1,815,111,098 (1,805,926,955 common plus 9,184,143 preferred) shares as of July 15, 2025. The table includes
+preferred stock that is convertible into common stock and information as to the ownership of the Company's Stock by each of its directors,
+named executive officers, and executive officers and by the directors and executive officers as a group. There were no stock options outstanding
+as of July 15, 2025. Except as otherwise indicated, all shares are owned directly, and the persons named in the table have sole voting
+and investment power with respect to shares shown as beneficially owned by them. The address for each of our directors, named executive
+officers, and executive officers is 1022 Shady Side Lane, Dallas, TX 75223.
+Name and Position
+Shares of
+Common
+Stock Owned
+Shares of Series C Preferred Stock Owned(1)
+Amount and
+Nature of
+Beneficial
+Ownership(2)
+Percentage of Beneficial Ownership of Series C Preferred
+Adam Thomas, CEO, CFO and Director
+0
+11,610
+0
+9.87%
+Luis Fernando Granda Arias, COO
+0
+0
+0
+–
+Luis Arturo Granda Roman, Director
+0
+18,062
+0
+15.35%
+Bolivar Prieto Torres, Director
+0
+9,033
+0
+7.68%
+Malcolm McNeill, Director
+0
+0
+0
+–
+Malcolm Ashley, Director
+0
+0
+0
+–
+Total named executive officers, executive officers, and directors (six persons)
+0
+38,705
+0
+–
+> 5% Beneficial Stockholders:
+Cesar Granda
+5129 Bellerive Bend Dr.
+College Station, TX 77845
+0
+10,642
+0
+9.05%
+Rafael Verduga
+Puerto Lucia
+Bloque F department 3W
+Salinas, Santa Elena - Ecuador
+0
+18,166
+0
+15.44%
+Jorge Bravo
+Jose Maria Pena 415-35 y
+Venezuela,
+Loja, Ecuador
+Ec110101
+0
+14,417
+0
+12.25%
+*Less than 1%
+(1)
+The shares of Series C Preferred Stock are not convertible until 12
+months after issuance. The shares of Series C Preferred Stock are convertible into 85% of the fully diluted issued and outstanding
+shares of Common Stock.
+(2)
+Under Rule 13d-3 of the Exchange Act, a beneficial owner of a security
+includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has
+or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which
+includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more
+than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are
+deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option)
+within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount
+of shares outstanding is deemed to include the number of shares beneficially owned by such person (and only such person) by reason
+of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in the above table does not
+necessarily reflect the person’s actual ownership or voting power with respect to the number of shares of common stock actually
+outstanding on the date of this Form 10-K.
+24
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+Certain Relationships and Related Transactions
+Except as disclosed below, for transactions with our
+executive officers and directors, please see the disclosure under “EXECUTIVE COMPENSATION” above.
+As of December 31 2024, shareholders
+have loaned the Company approximately $1,646,636 in notes which accrue interest ranging from 12% and 18% per annual period. Maturities
+between April 1, 2024, and July 1, 2024. Accrued interest related to these notes totaled $562,062 and $414,624 as of December 31, 2024,
+and December 31, 2023, respectively.
+Director Independence
+We are not currently subject to listing requirements
+of any national securities exchange or inter-dealer quotation system which has requirements that most of the board of directors be “independent”
+and, as a result, we are not at this time required to have our Board of Directors comprised of a majority of “independent directors.”
+We currently have not established any committees of
+the Board of Directors. Our Board of Directors may designate from among its members an executive committee and one or more other committees
+in the future. We do not have a nominating committee or a nominating committee charter. Further, we do not have a policy regarding the
+consideration of any director candidates recommended by security holders. To date, other than as described above, no security holders
+have made any such recommendations. The entire Board of Directors performs all functions that would otherwise be performed by committees.
+Given the present size of our board it is not practical for us to have committees. If we are able to grow our business and increase our
+operations, we intend to expand the size of our board and allocate responsibilities accordingly.
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+Audit Fees. Consists of fees billed for professional
+services rendered for the audits of our financial statements, reviews of our interim financial statements included in quarterly reports,
+services performed in connection with filings with the SEC, and related other services that were provided by Burton
+McCumber & Longoria, L.L.P. (“BML”), our former independent registered public accounting firm, in connection
+with statutory and regulatory filings or engagements.
+The following is a summary of the fees incurred by
+the Company to BLM for professional services rendered for the years ended December 31, 2024 and 2023, respectively.
+Service
+2024
+2023
+Audit Fees
+$70,000
+$110,340
+Audit-Related Fees
+–
+–
+Total
+$70,000
+$110,340
+Tax Fees. Consists of fees billed for professional
+services for tax compliance, tax advice and tax planning. These services include assistance regarding federal, state and local tax compliance
+and consultation in connection with various transactions. There were no tax fees incurred by the Company for the years ended December
+31, 2024 and 2023.
+25
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+Exhibits
+The following exhibits are included with this Form
+10-K:
+Exhibit
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed
+Herewith
+2.1
+Certificate of Conversion from a Delaware Corporation to a Non-Delaware Entity dated May 12, 2023
+S-1
+333-274059
+2.1
+8/18/23
+2.2
+Definitive Equity Exchange Agreement dated September 13, 2022 with TAA, the members of TAA, and Adam Thomas
+S-1
+333-274059
+2.2
+8/18/23
+3.1
+Amended and Restated Articles of Incorporation filed September 12, 2022
+S-1
+333-274059
+3.1
+8/18/23
+3.2
+Articles of Amendment filed October 23, 2022
+S-1
+333-274059
+3.2
+8/18/23
+3.3
+Articles of Amendment filed January 20, 2023
+S-1
+333-274059
+3.3
+8/18/23
+3.4
+Articles of Amendment filed May 21, 2023
+S-1
+333-274059
+3.4
+8/18/23
+3.5
+Articles of Amendment filed June 5, 2023
+S-1
+333-274059
+3.5
+8/18/23
+3.6
+Articles of Amendment filed June 8, 2023
+S-1
+333-274059
+3.6
+8/18/23
+3.7
+Articles of Amendment filed July 6, 2023
+S-1
+333-274059
+3.7
+8/18/23
+3.8
+Articles of Amendment filed August 9, 2023
+S-1
+333-274059
+3.8
+8/18/23
+3.9
+Articles of Amendment filed August 9, 2023
+S-1
+333-274059
+3.9
+8/18/23
+3.10
+Articles of Amendment filed September 26, 2023
+S-1/A
+333-274059
+3.10
+10/5/23
+3.11
+Articles of Amendment filed October 22, 2023
+S-1/A
+333-274059
+3.11
+12/7/23
+3.12
+Bylaws
+S-1
+333-274059
+3.10
+8/18/23
+4.1
+Secured Promissory Note Issued to King's Aqua Farm, LLC by TAA on June 15, 2017
+S-1
+333-274059
+4.1
+8/18/23
+4.2
+Addendum to Secured Promissory Note Issued to King’s Aqua Farm, LLC by TAA June 15, 2017
+S-1
+333-274059
+4.2
+8/18/23
+4.3
+Deed of Trust and Security Agreement dated June 15, 2017
+S-1
+333-274059
+4.3
+8/18/23
+4.4
+Unsecured Promissory Note Issued by TAA to Excellaqua, S.A. on October 1, 2021
+S-1
+333-274059
+4.4
+8/18/23
+4.5
+Unsecured Promissory Note Issued by TAA to Luis Arturo Granda Roman on October 1, 2021
+S-1
+333-274059
+4.5
+8/18/23
+4.6
+Unsecured Promissory Note Issued by TAA to Adam Thomas on October 1, 2021
+S-1
+333-274059
+4.6
+8/18/23
+4.7
+Secured Promissory Note issued to IG Holdings, Inc. and Iron Rings Holdings, LLC in the principal amount of $350,000
+10-Q
+000-56640
+4.1
+8/19/24
+10.1
+Stock Purchase Agreement dated August 28, 2022 with Adam Thomas and Richard Goulding
+S-1
+333-274059
+10.1
+8/18/23
+10.2
+Assignment of Rights and Assumption of Liabilities Agreement dated August 29 2022 with Richard Goulding
+S-1
+333-274059
+10.2
+8/18/23
+10.3
+Equity Financing Agreement with GHS dated January 20, 2023
+S-1
+333-274059
+10.3
+8/18/23
+10.4
+Registration Rights Agreement with GHS dated January 20, 2023
+S-1
+333-274059
+10.4
+8/18/23
+10.5
+Amended Securities Purchase Agreement dated April 18, 2023 with GHS
+S-1
+333-274059
+10.5
+8/18/23
+10.6
+Securities Purchase Agreement dated May 22, 2023 with GHS
+S-1
+333-274059
+10.6
+8/18/23
+26
+10.7
+Securities Purchase Agreement dated July 5, 2023 with GHS
+S-1
+333-274059
+10.7
+8/18/23
+10.8
+Securities Purchase Agreement dated September 26, 2023 with GHS
+S-1/A
+333-274059
+10.8
+10/5/23
+10.9
+Common Stock Purchase Warrant issued January 20, 2023 to GHS
+S-1
+333-274059
+10.8
+8/18/23
+10.10
+Common Stock Purchase Warrant issued April 18, 2023 to GHS
+S-1
+333-274059
+10.9
+8/18/23
+10.11
+Common Stock Purchase Warrant issued May 22, 2023 to GHS
+S-1
+333-274059
+10.10
+8/18/23
+10.12
+Common Stock Purchase Warrant issued July 5, 2023 to GHS
+S-1
+333-274059
+10.11
+8/18/23
+10.13
+Common Stock Purchase Warrant issued September 26, 2023 to GHS
+S-1/A
+333-274059
+10.13
+10/5/23
+10.14
+Letter Agreement dated November 15, 2022 with ICON Capital Group, LLC
+S-1
+333-274059
+10.12
+8/18/23
+10.15
+Letter Agreement dated November 15, 2022 with ICON Capital Group, LLC (Preferred and Warrants)
+S-1
+333-274059
+10.13
+8/18/23
+10.16
+Security Agreement dated May 16, 2024 with IG Holdings, Inc. and Iron Rings Holdings, LLC
+10-Q
+000-56640
+10.1
+8/19/24
+10.17
+Warrant Agreement with Honor Enterprise Funding, LLC
+10-Q
+000-56640
+10.2
+8/19/24
+10.18
+Forbearance and Modification Agreement dated May 31, 2024 with Kings Aqua Farm, LLC
+10-Q
+000-56640
+10.3
+8/19/24
+10.16
+Securities Purchase Agreement with GHS dated March 28, 2025
+X
+10.17
+Common Stock Purchase Warrant issued March 28, 2025 to GHS
+X
+21.1
+List of Subsidiaries
+S-1
+333-274059
+21.1
+8/18/23
+31.1
+Rule 13a-14(a) Certification by Principal Executive Officer
+X
+31.2
+Rule 13a-14(a) Certification by Principal Financial and Accounting Officer
+X
+32.1*
+Section 1350 Certification of Principal Executive Officer and Principal Financial and Accounting Officer
+X
+101.INS
+Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted in Inline XBRL, and included in exhibit 101).
+* Furnished not filed.
+ITEM 16.
+FORM 10-K SUMMARY
+None.
+27
+SIGNATURES
+Pursuant to the requirements of section 13 or 15(d)
+of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+TRANS AMERICAN AQUACULTURE, INC.
+By:
+/s/ Adam Thomas
+Adam Thomas
+Chief Executive Officer and Chief Financial Officer (Principal Executive Officer and Principal Financial and Accounting Officer)
+Date:
+July 17, 2025
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, as amended, this report has been signed below by the following persons on behalf of the Registrant and in the capacities
+indicated on this 17 day of July 2025.
+By:
+/s/ Adam Thomas
+Adam Thomas, Director, Chief Executive Officer and Chief Financial Officer (Principal Executive Officer and Principal Financial and Accounting Officer)
+By:
+/s/ Luis Arturo Granda Roman
+Luis Arturo Granda Roman, Director
+By:
+/s/ Bolivar Prieto Torres
+Bolivar Prieto Torres, Director
+By:
+/s/ Malcolm McNeill
+Malcolm McNeill, Director
+By:
+/s/ Malcolm Ashley
+Malcolm Ashley, Director
+28
+TRANS AMERICAN AQUACULTURE, INC.
+Index to Financial Statements
+As of December 31, 2024 and 2023
+and for the Years Ended December 31, 2024 and 2023
+(Audited)
+Report of Independent Registered Public Accounting Firm
+for the Year Ended December 31, 2024 (PCAOB ID 6993)
+F-1
+Report of Independent Registered Public Accounting Firm for
+the Year Ended December 31, 2023 (PCAOB ID 384)
+F-2
+Consolidated Balance Sheets
+F-4
+Consolidated Statements of Operations
+F-5
+Consolidated Statements of Changes in Stockholders’ Deficit
+F-6
+Consolidated Statements of Cash Flows
+F-7
+Notes to the Consolidated Financial Statements
+F-8
+29
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+To the shareholders and the board of directors
+of
+Trans American Aquaculture, Inc.
+(formerly Gold River Production, Inc)
+Opinion on the Financial Statements
+We have audited the accompanying consolidated
+balance sheets of Trans American Aquaculture, Inc. as of December 31, 2024, and the related consolidated statements of operations, stockholders’
+equity, and cash flows for the year ended December 31, 2024, and the related notes (collectively referred to as the “financial statements”).
+In our opinion, the consolidated financial statements present fairly, in all material respects, the consolidated financial position of
+the Company as of December 31, 2024, and the results of its operations and its cash flows for the year ended December 31, 2024, in conformity
+with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying consolidated financial statements
+have been prepared assuming the Company will continue as a going concern as disclosed in Note 11 to the financial statement, the Company
+incurred a net loss of $(2,808,894) and an accumulated deficit of $(5,675,567). The continuation of the Company as a going
+concern is dependent upon ability to raise additional capital and implement its business plan. Management believes the existing shareholders
+or external fund providers will provide the additional cash to meet the Company’s obligations as they become due.
+These factors raise substantial doubt about the
+Company ability to continue as a going concern. These financial statements do not include any adjustments that might result from the outcome
+of the uncertainty.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our
+audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from
+the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and
+that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. Communication of critical audit matters does not alter in any way our opinion on the financial statements
+taken as a whole and we are not, by communicating the critical audit matters, providing separate opinions on the critical audit matter
+or on the accounts or disclosures to which they relate.
+F-1
+Going Concern Uncertainty
+– See also Going Concern Uncertainty explanatory paragraph above:
+As described in Note
+11 to the consolidated financial statements, the Company has operating losses. Furthermore, the company has not generated sufficient revenue
+to cover its operating expenses since the inception of business. The ability of the Company to continue as a going concern is dependent
+upon ability to raise additional capital and implement its business plan as well as continuing to develop its brood stock in order to
+fulfil recently signed contracts These conditions raise substantial doubt about the Company’s ability to continue as a going concern.
+The procedures performed to address the matter
+included.
+(i)We inquired of executive officers, and key members of management, of the Company regarding factors that
+would have an impact on the Company’s ability to continue as a going concern,
+(ii)We evaluated management’s plan for addressing the adverse effects of the conditions identified,
+including assessing the reasonableness of forecasted information and underlying assumptions by comparing to actual results of prior periods
+and actual results achieved to date, and utilizing our knowledge of the entity, its business and management in considering liquidity needs
+and the Company’s ability to generate sufficient cash flow,
+(iii)We assessed the possibility of raising additional debt or credit,
+(iv)We evaluated the completeness and accuracy of disclosures in the financial statements.
+/S/ Boladale Lawal
+Boladale Lawal & CO (PCAOB ID 6993)
+We have served as the Company’s auditor
+since 2025
+Lagos, Nigeria
+July 17, 2025
+F-2
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+To the Board of Directors and
+Stockholders of Trans American Aquaculture, Inc.
+(formerly Gold River Productions, Inc.)
+Opinion
+We have audited the accompanying consolidated balance
+sheets of Trans American Aquaculture, Inc. (formerly Gold River Productions, Inc.) and Subsidiary (“the Company”), a Colorado
+Corporation, as of December 31, 2023 and 2022 and related consolidated statements of operations, stockholders’ equity and cash flows
+for each of the three years in the period ended December 31, 2023, and related notes to the consolidated financial statements (collectively
+referred to as the consolidated financial statements). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of December 31, 2023 and 2021 and the results of its operations and its cash flows for each of
+the three years in the period ended December 31, 2023, in conformity with accounting principles generally accepted in the United States
+of America.
+Substantial Doubt about the Company’s Ability to Continue as a
+Going Concern
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As discussed in Note 11 to the consolidated financial statements,
+the Company is a development stage company because its principal operations have commenced, but there has been no significant revenue
+therefrom which raises substantial doubt about its ability to continue as a going concern. In addition, the Company’s current liabilities
+exceed its current assets by $3,478,423 and has an accumulated deficit of $2,866,673 and is highly dependent on external financing to
+continue operations. Management's plans in regard to these matters are also described in Note 10. The consolidated financial statements
+do not include any adjustments that might result from the outcome of this uncertainty. See Critical Audit Matters section of this report.
+Basis for Opinion
+These consolidated financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements
+based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+a reasonable basis for our opinion.
+F-3
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+Critical Audit Matters
+The critical audit matters communicated below are
+matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated
+to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter
+in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+As discussed in Note 11 to the consolidated financial
+statements, the Company is a development stage company because its principal operations have commenced, but there has been no significant
+revenue therefrom which raises substantial doubt about its ability to continue as a going concern.
+In addition, the Company’s current liabilities
+exceed its current assets by $3,478,423 and has an accumulated deficit of $2,866,673 and is highly dependent on external financing to
+continue operations. The Company is in the process of raising additional capital to support the completion of the developmental stage
+activities and ramp up ongoing full shrimp harvest cycles and establish its customer base.
+The Company's activities are subject to significant
+risks and uncertainties, including failing to secure additional funding to operationalize the Company's current technology. Accordingly,
+the Company's ability to continue as a going concern is highly dependent on its ability to raise additional capital and implement its
+business plan as well as continuing to develop its brood stock in order to realize revenue. See Substantial Doubt about the Company’s
+Ability to Continue as a Going Concern section of this report.
+We have served as the Company’s auditor since 2021.
+/s/ Burton, McCumber & Longoria, LLP
+Brownsville, Texas
+July 2, 2024
+F-4
+Trans American Aquaculture, Inc.
+(Formerly Gold River Productions, Inc.)
+Consolidated Balance Sheets
+December 31,
+December 31,
+December 31,
+2024
+2023
+2022
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+$–
+$6,600
+$–
+Other receivable
+26,480
+–
+46,038
+Inventory
+230,830
+247,393
+161,560
+TOTAL CURRENT ASSETS
+257,310
+253,993
+207,598
+PROPERTY AND EQUIPMENT
+1,237,992
+7,935,824
+7,920,692
+Less accumulated depreciation
+(547,287)
+(527,827)
+(457,920)
+NET PROPERTY AND EQUIPMENT
+690,705
+7,407,997
+7,462,772
+TOTAL ASSETS
+$948,015
+$7,661,990
+$7,670,370
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+Bank overdraft
+$1,000
+$–
+$288
+Accounts payable
+530,776
+403,731
+223,476
+Accrued interest expense
+114,568
+789,265
+446,870
+Other accrued expenses
+753,870
+345,825
+138,532
+Income tax payable
+–
+–
+46,038
+Related parties notes
+1,646,636
+1,667,985
+1,516,025
+Current portion of notes payable
+562,063
+525,609
+326,716
+TOTAL CURRENT LIABILITIES
+3,608,912
+3,732,416
+2,697,945
+LONG-TERM LIABILITIES
+Notes payable, net of current portion
+561,087
+4,332,293
+4,581,215
+Deferred tax liability, net
+–
+–
+26,937
+TOTAL LONG-TERM LIABILITIES
+561,087
+4,332,293
+4,608,152
+STOCKHOLDERS' (DEFICIT) EQUITY
+Common stock, $.000001 par value, 6,000,000,000 shares authorized, 1,645,238,430 and 1,645,238,430 shares issued and outstanding
+–
+20
+–
+Preferred Stock, Series A, .000001 par value 9,078,000 and 9,078,000 shares authorized, 9,078,000 issued and outstanding
+–
+–
+–
+Preferred Stock, Series B, .000001 par value 5,000 and 5,000 shares authorized, 5,000 issued and outstanding
+–
+–
+–
+Preferred Stock, Series C, $.000001 par value, 100,000 and 100,000 shares authorized, 100,000 issued and outstanding and outstanding
+–
+–
+–
+Preferred Stock, Series D, .000001 par value, 1,295 shares authorized, 0 and 1,076 issued and outstanding
+–
+–
+–
+Additional paid in capital - common stock
+99,980
+99,980
+–
+Additional paid in capital - preferred stock (Series C)
+1,317,467
+1,287,091
+1,287,091
+Additional paid in capital - preferred stock (Series D)
+1,036,135
+1,076,863
+–
+Accumulated deficit
+(5,675,567)
+(2,866,673)
+(922,817)
+TOTAL STOCKHOLDERS' (DEFICIT) EQUITY
+(3,221,985)
+(402,719)
+364,274
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+$948,015
+$7,661,990
+$7,670,370
+The
+accompanying notes are an integral part of these financial statements.
+F-5
+Trans American Aquaculture, Inc.
+(Formerly Gold River Productions, Inc.)
+Consolidated Statements of Operations
+For the year ended
+December 31,
+2024
+2023
+2022
+2021
+REVENUES
+Sales and service
+$331,645
+$101,574
+$49,001
+$316,112
+COST OF REVENUES
+Cost of revenues
+321,615
+661,591
+287,132
+973,418
+GROSS MARGIN
+10,030
+(560,018)
+(238,131)
+(657,306)
+GENERAL AND ADMINISTRATIVE EXPENSES
+846,234
+864,768
+148,609
+232,425
+OTHER INCOME (EXPENSE)
+Other income
+90,667
+1,750
+1,745
+32,447
+Other expense
+(1,585,392)
+(8,841)
+(25,440)
+–
+Interest expense
+(477,964)
+(490,053)
+(485,446)
+(544,544)
+TOTAL OTHER INCOME (EXPENSE)
+(1,972,690)
+(497,144)
+(509,141)
+(512,097)
+NET INCOME (LOSS) BEFORE TAXES
+(2,808,894)
+(1,921,930)
+(895,881)
+(1,401,828)
+INCOME TAX (EXPENSE) BENEFIT
+–
+26,937
+(26,937)
+–
+NET INCOME (LOSS)
+$(2,808,894)
+$(1,894,993)
+$(922,817)
+$(1,401,828)
+Basic and Diluted Net loss per common share
+(0.001555)
+(0.001271)
+(0.000713)
+–
+Weighted average common shares outstanding - basic
+1,805,926,955
+1,452,215,968
+1,294,840,264
+–
+The accompanying notes are an integral part
+of these financial statements.
+F-6
+Trans American Aquaculture, Inc.
+(Formerly Gold River Productions, Inc.)
+Consolidated Statements of Stockholders' Equity
+For the years ended December 31, 2024 and 2023
+Members’
+Common Stock
+Preferred Stock,
+Series A
+Preferred Stock, Series B
+Preferred Stock,
+Series C
+Preferred Stock, Series D
+Accumulated
+Capital
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Deficit
+Total
+Balance January 1, 2021
+$544,830
+–
+$–
+–
+$–
+–
+$–
+–
+$–
+–
+$–
+$–
+$544,830
+Member contributions
+1,633,953
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1,633,953
+Net loss
+(1,401,828)
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+(1,401,828)
+Balance December 31, 2021
+$776,955
+1,248,901,842
+–
+9,718,000
+–
+5,000
+–
+–
+–
+–
+$–
+$–
+$776,955
+Member Contributions
+510,136
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+510,136
+Reverse Acquisition
+(1,287,091)
+15,248,503
+–
+–
+–
+–
+–
+100,000
+1,287,091
+–
+–
+–
+–
+Preferred Series A Conversion
+–
+64,000,000
+–
+(640,000)
+–
+–
+–
+–
+–
+–
+–
+–
+–
+New shares issued
+–
+104,505,183
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Net loss
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+(922,817)
+(922,817)
+Balance December 31, 2022
+$–
+1,432,655,528
+$–
+9,078,000
+$–
+5,000
+$–
+100,000
+$1,287,091
+–
+$–
+$(922,817)
+$364,274
+Issuance of common shares
+–
+20,000,000
+100,000
+–
+–
+–
+–
+–
+–
+–
+–
+–
+100,000
+Issuance of preferred shares
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1,028
+1,028,000
+–
+1,028,000
+Stock Dividends
+–
+–
+–
+–
+–
+–
+–
+–
+–
+48
+48,863
+(48,863)
+–
+Net loss
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+(1,894,993)
+(1,894,993)
+Balance December 31, 2023
+$–
+1,452,655,528
+$100,000
+9,078,000
+$–
+5,000
+$–
+100,000
+$1,287,091
+1,076
+$1,076,863
+$(2,866,673)
+$(402,719)
+Issuance of common shares
+–
+353,271,427
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Issuance of preferred shares
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Stock Dividends
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Net loss
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+(2,808,894)
+(2,808,894)
+Balance December 31, 2024
+$–
+1,805,926,955
+$100,000
+9,078,000
+$–
+5,000
+$–
+100,000
+$1,287,091
+1,076
+$1,076,863
+$(5,675,567)
+$(3,221,985)
+The accompanying notes are an integral part
+of these financial statements.
+F-7
+Trans American Aquaculture, Inc.
+(Formerly Gold River Productions, Inc.)
+Consolidated Statements of Cash Flows
+For year ended
+December 31,
+2024
+2023
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss
+$(2,808,894)
+$(1,894,993)
+$(922,817)
+$(1,401,828)
+Noncash items included in net loss:
+Depreciation expense
+19,460
+69,907
+85,949
+98,889
+Common stock issued for professional services
+–
+100,000
+–
+–
+(Increase) decrease in:
+Other receivable
+(26,480)
+46,038
+(46,038)
+–
+Inventory
+16,563
+(85,833)
+(112,924)
+(48,636)
+Deferred taxes
+–
+(26,937)
+26,937
+–
+Other assets
+40,043
+–
+–
+17,024
+Increase (decrease) in:
+Accounts payable and other accrued expenses
+142,488
+387,549
+33,685
+70,060
+Income tax payable
+–
+(46,038)
+46,038
+–
+Accrued interest expense
+(379,956)
+342,395
+383,267
+–
+CASH USED IN OPERATING ACTIVITIES
+(2,996,776)
+(1,107,912)
+(505,903)
+(1,264,491)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Cash paid for the purchase of fixed assets
+6,717,292
+(15,132)
+–
+(4,159)
+CASH USED IN INVESTING ACTIVITIES
+6,717,292
+(15,132)
+–
+(4,159)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Payment of bank overdraft
+–
+(288)
+(3,876)
+–
+Bank overdraft
+1,000
+–
+288
+1,134
+Proceeds from shareholder notes payable
+30,376
+255,227
+112,975
+816,560
+Payments on shareholder notes payable
+(4,182,293)
+(103,266)
+(16,469)
+–
+Payments on notes payable
+(1,913)
+(50,029)
+(97,151)
+(144,753)
+Proceeds from notes payable
+413,000
+–
+–
+–
+Contributions
+12,715
+–
+510,136
+595,709
+Stock Dividends
+–
+–
+–
+–
+Issuance of Preferred Shares
+–
+1,028,000
+–
+–
+CASH PROVIDED BY FINANCING ACTIVITIES
+(3,727,115)
+1,129,644
+505,903
+1,268,650
+NET INCREASE (DECREASE)
+(6,599)
+6,600
+–
+–
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD
+6,600
+–
+–
+–
+CASH AND CASH EQUIVALENTS AT END OF PERIOD
+$–
+$6,600
+$–
+$–
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid for interest
+$–
+$22,518
+$85,463
+$239,810
+Cash paid for income taxes
+$–
+$–
+$–
+$–
+NON-CASH
+Preferred series D stock dividends
+$–
+$48,863
+$–
+$–
+Common stock issued for services rendered
+$–
+$100,000
+$–
+$–
+Capitalization of related party member notes to members' capital
+$–
+$–
+$–
+$1,038,243
+The accompanying notes are an integral part
+of these financial statements.
+F-8
+Trans
+American Aquaculture, Inc.
+(Formerly
+Gold River Productions, Inc.)
+Notes
+to the Consolidated Financial Statements
+NOTE 1 – BUSINESS ORGANIZATION
+Business Organization
+Trans American Aquaculture,
+Inc. formerly Gold River Productions, Inc. (GRP), (“the Company”) was incorporated in the State of Delaware on September 18,
+2006, as Polythene Metro Corp before being acquired by Gold River Productions,
+Inc. on January 25, 2007.
+The Company was re-incorporated in the State of Colorado in July 2018. In February 2023, pursuant
+to shareholder and Board approval, the Company changed its name to Trans American Aquaculture, Inc., reflective of its new management
+and operations, and applied to the Financial Industry Regulatory Authority (“FINRA”) to change its ticker symbol from GRPS
+to TAAQ.
+On August 28, 2022, Richard Goulding,
+executive and selling party of Gold River Productions, Inc. and Adam Thomas, purchaser, executed a Stock Purchase Agreement (“SPA”).
+Under the terms of the SPA, Mr.  Goulding, agreed to sell to Adam Thomas, CEO of TAA, 9,078,000 shares of the Company’s Series
+A Preferred Stock, and to retain 640,000 shares for later conversion to the Company’s common stock.  Each share of Series A
+Preferred Stock is convertible into 100 shares of the Company’s common stock.  In addition, Mr. Thomas agreed to purchase all
+the Company’s outstanding shares of Series B Preferred Stock from Mr. Goulding for a cash payment of $5,000.
+In further consideration for
+the sale of the shares of Series A and Series B Preferred Stock, Mr. Goulding agreed to:
+1.Increase the authorized shares of the Company’s common stock to three billion (3,000,000,000) shares;
+2.Convert his retained 640,000 shares of Series A Preferred Stock, to 64,000,000 shares of common stock;
+3.Issue to various former employees and consultants of the Company an aggregate amount of 15,248,503 shares
+of the Company’s common stock; and
+4.Complete the assignment of assets and assumption of liabilities as they existed
+immediately prior to the closing of the stock purchase agreement on August 29, 2022.
+Following the purchase of
+the shares of Class A and Class B Preferred Stock, Mr. Thomas and TAA agreed to:
+1.To have the Company issue shares of a Class C Preferred Stock to the former members of TAA, such shares
+to be convertible into 85% of the Company’s common stock, but limited as to this conversion for a minimum of 12 months from the
+date of issuance; and
+2.To cancel and withdraw the shares of Series A Preferred Stock.
+On August 29, 2022, Gold
+River Productions, Inc. and Goulding executed an Assignment of Rights and Assumption of Liabilities Agreement whereby Gold River Productions,
+Inc. assigned all of its assets and liabilities to Mr. Richard Goulding (Mr. Goulding), Chairman of the Board and CEO of GRP, resulting
+in GRP becoming a public shell company without any assets or liabilities and became the accounting acquiree.
+F-9
+On September 13, 2022,
+Gold River Productions, Inc. and Trans American Aquaculture, LLC (“TAA”) executed a Definitive Equity Exchange Agreement
+in a transaction accounted for as a reverse acquisition, whereby TAA became the accounting acquiror. TAA operates a
+large land-based shrimp farming and technology company located in South Texas. The Company produces premium quality, farm-raised white
+shrimp, 100% free of antibiotics and hormones, and cultivated using safe and sustainable practices. Its principal markets consist of
+seafood distributors, restaurants, and grocery store chains in the United States. Using decades of experience in the shrimp aquaculture
+industry, products are grown with our superior technology and our proprietary genetics which results in a superior fresh product always
+grown in the United States.
+NOTE 2 - SIGNIFICANT ACCOUNTING POLICIES
+Basis of Accounting
+The accompanying consolidated
+financial statements include the accounts of Trans American Aquaculture, Inc and its wholly owned subsidiary Trans American Aquaculture,
+LLC, a Texas Limited Liability Company. All significant intercompany balances and transactions have been eliminated in consolidation.
+The accompanying financial statements have been prepared on the accrual basis of accounting.
+Cash and Cash Equivalents
+For purposes of the statement of cash
+flows, the Company considers all highly liquid debt instruments with an original maturity of three months or less to be cash equivalents.
+Inventory
+Inventory is valued at lower of cost
+or the net realizable value on a first-in, first-out basis. Depending on the development and growth stage of shrimp, the Company’s
+inventory is comprised of 1) broodstock held for restocking the next harvest cycle, 2) broodstock held for sale, and shrimp held for sale.
+The Company evaluates realization of shrimp based on market prices at the end of each period.
+Property and Equipment
+Property and equipment are stated at cost. Maintenance
+and repairs are expensed while expenditures for renewals which prolong the lives of the assets are capitalized. When items are disposed
+of, the cost and accumulated depreciation are eliminated from the accounts and any net gain or loss is included in the consolidated statement
+of income.
+For financial reporting purposes, depreciation of
+property and equipment is provided for by using the straight-line method based on the estimated service lives of the property as follows:
+Schedule of estimated service lives of the
+property
+Land improvements
+40 years
+Buildings and structures
+40 years
+Farm equipment
+10 – 20 years
+Autos and trucks
+10 years
+The Company reviews long-lived assets for impairment
+whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. If it is determined
+that an asset has been impaired, the amount of the impairment is charged to operations. No impairments were recognized for the periods
+ended December 31, 2024 and 2023.
+F-10
+Income Taxes
+The Company uses an asset and liability
+approach to financial accounting and reporting for income taxes. The difference between the financial statement and tax basis of assets
+and liabilities is determined annually.
+Deferred income tax assets and liabilities
+are computed for those differences that have future tax consequences using the currently enacted tax laws and rates that apply to the
+periods in which they are expected to affect taxable income. Valuation allowances are established, if necessary, to reduce the deferred
+tax asset to the amount that will more likely than not be realized. Income tax expense is the current tax payable or refundable for the
+period, plus or minus the net change in the deferred tax assets and liabilities.
+The Company's income tax returns are
+subject to examination by the appropriate tax jurisdictions. As of December 31, 2024, the Company needs to file federal and state income
+tax returns for 2020, 2021, 2022 and 2023. During 2020, the Company had taxable income primarily as a result of a short-term capital gain
+of $445,500 on the sale of a joint venture interest. This resulted in taxable income of $155,200 and an unremitted federal income tax
+liability of $33,180. With accrued penalties and interest, the total due the IRS is approximately $58,300. All liabilities, including
+federal taxes, were indemnified by Goulding as part of the transaction and accordingly a receivable due from the previous owner of the
+Company has been recorded and netted against the tax obligation. The Company intends to file its 2020 federal tax return and pay the tax
+due, plus penalties in interest once it has sufficient cash to do so.
+Use of Estimates
+The preparation of the consolidated financial statements
+in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and
+assumptions that affect certain reported amounts and disclosures. Accordingly, actual results could differ from those estimates.
+Revenue Recognition
+The Company recognizes revenues according to the Financial
+Accounting Standard Board (“FASB”) Accounting Standard Codification (“ASC 606”) and Accounting Standard Update
+ASU 2014-09 “Revenues from Contracts with Customers.” Under the ASC 606, revenues is recognized when the customer obtains
+control of promised goods or services in amounts that reflect the consideration which the entity expected to receive in exchange of goods
+and service. The Company does not collect sales, value-add and other taxes collected on behalf of third parties. To determine revenue
+recognition, the Company performs the following five steps: (1) identify the contract with customer; (2) identify the performance obligations
+in contract; (3) determine the transaction price; (4) allocate the transaction price to the performance obligation in the contract; and
+(5) recognize revenues when (or as) the entity satisfies a performance obligation.
+The Company recognizes revenue as a single performance
+obligation when it transfers its products to customers, being when the goods are shipped and transfers to a buyer and when performance
+obligation under contracted sales are completed.
+Advertising and Promotion
+All costs associated with advertising
+and promoting the Company's goods and services are expensed in the year incurred.
+F-11
+Concentrations of Credit Risk
+The Company's financial instruments
+that are exposed to credit risk consist primarily of temporary cash investments and accounts receivable.
+The Company maintains its cash balances at a large
+financial institution. At times such balances may exceed federally insured limits. The Company has not experienced any losses in an account.
+The Company believes it is not exposed to any significant credit risk on cash and had no balances in excess of the $250,000 FDIC limit
+for the year ended December 31, 2024.
+For the year ending December 31, 2024
+and 2023, two and one customer accounted for 100% of total revenues earned.
+The Company’s sole source of
+expected future revenue consists of the sale of a single live product which requires substantial care.  Production risks such as
+weather, disease and other factors could affect the Company’s ability to realize revenue from its inventory stock.
+Subsequent Events
+In preparing these consolidated financial
+statements, the Company has evaluated events and transactions for potential recognition or disclosure through July 15, 2025, the date
+the consolidated financial statements were issued.
+Net Loss Per Share
+Basic net loss per share is calculated
+by dividing the net loss available to common stockholders by the weighted-average number of common shares outstanding during the period.
+Diluted net loss per share is calculated by using the weighted-average number of common shares outstanding during the period increased
+to include the number of additional shares of common stock that would have been outstanding if the dilutive potential shares of common
+stock had been issued. The dilutive effect of the Company is reflected in diluted net loss per share by application of the treasury stock
+method. The dilutive securities are excluded from the computation of diluted net loss per share when net loss is recorded for the period
+as their effect would be anti-dilutive.
+NOTE 3 – ACCOUNTS RECEIVABLE
+On
+December 11, 2023, the Company entered into an accounts receivable factoring agreement in the amount of $750,000.  The agreement
+calls for 80% with recourse financing on eligible receivables. The amount received for the factored receivables on February 7, 2024, totaled
+$135,847, of which $25,764 remains outstanding after factoring fees at December 31, 2024 and $0 at December 31, 2023.
+NOTE 4 – INVENTORY
+The inventory at December 31, 2024,
+consists of shrimp in the larvae stage of development held for sale, broodstock held for sale, and broodstock held for restocking. Included
+in this amount is the broodstock cost basis reclassified to shrimp held for sale as those costs are applicable expenditures and charges
+directly and indirectly incurred in bringing shrimp inventory to its existing condition and location as noted in FASB ASC 330-10-30. Although,
+these animals will eventually come to end of life, their costs are considered part of the necessary costs to birthing and raising shrimp
+held for sale.
+Just prior to harvest, the Company
+segregates and retains selected premium shrimp to become broodstock for the following shrimp harvest cycle. Upon identification and segregation,
+the selected animals are transferred from outdoor ponds to specialized indoor tanks. These tanks are highly regulated with respect to
+temperature, lighting and salinity levels. Costs allocated to broodstock animals at December 31, 2024 and December 31, 2023 totaled $20,830
+and $60,388, respectively.
+F-12
+The Company recorded inventory write-down of $148,429
+related to the dead of broodstock in its aquaculture operations. The number of broodstock held went down from 15,400 to 4,415 in the year
+ended December 31, 2024. The write-down is included in the cost of revenues in the consolidated statement of operations.
+Total inventory is as follows at:
+Schedule of inventory
+2024
+2023
+2022
+Held for Sale
+Shrimp
+$–
+$187,006
+$–
+Broodstock
+210,000
+4,025
+–
+Total Held for Sale
+210,000
+191,031
+–
+Broodstock - Restocking
+20,830
+56,362
+161,560
+Total inventory
+$230,830
+$247,393
+$161,560
+NOTE 5 – PROPERTY AND EQUIPMENT
+As of December 31, 2024, and December
+31, 2023, the Company had the following property and equipment:
+Schedule of
+property and equipment
+December 31,
+December 31,
+December 31,
+2024
+2023
+2022
+Autos and trucks
+$9,179
+$66,845
+$66,845
+Building and improvements
+668,289
+656,389
+656,389
+Farm equipment
+348,949
+440,281
+425,149
+Other equipment
+85,332
+646,066
+646,066
+1,111,750
+1,809,581
+1,794,449
+Less: accumulated depreciation
+(547,287)
+(527,827)
+(457,920)
+564,463
+1,281,754
+1,336,529
+Land
+126,243
+6,126,243
+6,126,243
+Net property and equipment
+$690,705
+$7,407,997
+$7,462,772
+Depreciation
+expense for the year ended December 31, 2024 and 2023, totaled approximately $52,291
+and $55,585. The
+amount of depreciation expense in cost of goods sold or inventory totaled $0
+and $52,626
+for the years ended December 31, 2024 and 2023.
+F-13
+NOTE 6 –NOTES PAYABLE
+Notes payable as of December 31, 2024
+and December 31, 2023, consisted of the following:
+Schedule of notes payable
+December 31,
+December 31,
+2024
+2023
+Note to an entity by the former owner of farm property, interest at 6.00%, due in monthly installments of $38,687 including interest, secured by real property, due in 2039
+$–
+$4,707,902
+Promissory Note to 1800 Diagonal, a commercial lender, with a one-time interest of 13%, due in four installments beginning August 30, 2024, and a due in total by November 30, 2024, Original Discount 18,600
+52,253
+–
+Promissory Note to 1800 Diagonal, a commercial lender, with a one-time interest of 13%, due in four installments beginning August 30, 2024, and a due in total by November 30, 2024, Original Discount 18,600
+67,400
+–
+Secured Note to Arcadia Funding, LLC , a commercial Lender, accrued fixed interest at the rate of $12,500/ month, secured by real property, due December 16, 2024
+350,000
+–
+Note to a bank, interest at 3.75%, due in monthly installments of $719.02 including interest, secured by real property, due in 2050
+146,875
+150,000
+616,528
+4,857,902
+Less Current Portion
+(562,063)
+(525,609)
+Net Long-Term Debt
+$54,465
+$4,332,293
+The estimated notes payable maturities as of December 31,
+2024 are as follows:
+Schedule of estimated notes payable maturities
+December 31, 2024
+$562,063
+December 31, 2025
+–
+December 31, 2026
+–
+December 31, 2027
+–
+December 31, 2028
+–
+Thereafter
+–
+Total notes payable
+$562,063
+In
+February 2024, the Company signed an unsecured promissory note with a lender for $111,600, bearing one-time interest at the rate of 13%,
+and maturing on four dates beginning on August 2024 and ending on November 2024. The proceeds of this note were issued with an original
+issue discount of $18,600, yielding net proceeds of $93,000. Upon full maturity, the Company will have paid a total of $126,108 of principal
+and interest on this note.
+F-14
+In May 2024, the Company signed a
+Secured Promissory Note with a lender for $350,000 bearing fixed interest at the rate of $12,500 per month with maturity date December
+2024. The Secured Promissory Note requires monthly interest payments only commencing in June 2024. Principal amount along any accrued
+but unpaid interest should be paid at maturity date. The note is secured by property owned by the Company and trustee by Travis L. Bence
+or John R. Bailey.
+At March 31, 2024, the Company was in default on the
+farm property note for $4,707,902 due to failure to remit timely monthly payments. On May 31, 2024, the Company entered into a Forbearance
+and Modification Agreement with the lender. Under the agreement, the lender agreed that it would not exercise or enforce its rights or
+remedies against the Company to which it would be entitled under the terms of the Real Estate Lien Note dated June 15, 2017 in the original
+principal amount of $5,600,000, and the Deed of Trust executed by the Company as grantor in favor of Jizhong Wang, as trustee, for the
+benefit of the lender by occurrence of the failure by the Company to pay principal and interest installments from May 1, 2022, through
+May 31, 2024 before August 6, 2024. The forbearance was conditioned on the obligation of the Company to pay the lender $77,375, which
+was paid and applied to the principal and interest. At September 30, 2024, the Company is in default for $4,845,024 including principal
+and interest due to failure to remit timely monthly payments. On October 25, 2024, the Company signed a Deed in Lieu of where the lender
+agrees to forbear from exercising its rights to foreclosure take position of the property secured by the loan on or prior to November
+30, 2024.
+On December 13, 2024, due to a note holder recording
+a deed in lieu foreclosure, on December 2nd, 2024, TAA filed for Chapter 11 bankruptcy protection under the United States Bankruptcy Code,
+in the United States Bankruptcy Court for the Southern District of Texas (Case # 24-10217). TAA voluntarily filed for Chapter 11 Bankruptcy
+to protect the assets of the company (shrimp broodstock and key property, plant, and equipment) due to threats being made by the former
+farm note holder (Kings Aqua Farm LLC) in which TAA operated on. On December 2, 2024, Kings Aqua Farm LLC filed a Deed in Lieu (“DIL”)
+of Foreclosure due to non-payment by Trans American Aquaculture. The land was conveyed back to Kings Aqua Farm because of the DIL filing
+and as such the total debt was extinguished. Over the next two weeks, various threats were made by Kings Aqua Farm on the assets of TAA,
+which are paramount to the survival and future of the company. To protect those key assets and any future business, TAA elected to file
+a voluntary Chapter 11 Bankruptcy.
+The bankruptcy plan is currently being finalized between
+TAA management, its board of directors, and legal counsel. The plan confirmation hearing is scheduled for August 18, 2025, at which time,
+we will present the re-organization plan for the company.
+In
+August 2024, the Company signed an unsecured promissory note with a lender for $82,800 bearing one-time interest at the rate of 13%, and
+maturing on four dates beginning in February 2025 and ending on May 2025. The proceeds of this note were issued with an original issue
+discount of $13,800 and loan cost $6,000, yielding net proceeds of $63,000. Upon full maturity, the Company will have paid a total of
+$93,564 of principal and interest on this note.
+NOTE 7 – RELATED PARTY NOTES PAYABLE
+As of December 31 2024, shareholders
+have loaned the Company approximately $1,646,636 in notes which accrue interest ranging from 12% and 18% per annual period. Maturities
+between April 1, 2024, and July 1, 2024. Accrued interest related to these notes totaled $562,063 and $414,624 as of December 31, 2024,
+and December 31, 2023, respectively.
+F-15
+NOTE 8 – INCOME TAX
+Income taxes are accounted for under the asset and
+liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between
+the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating
+loss and tax credit carry forwards.
+Deferred tax assets and liabilities are measured using
+enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be covered or
+settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes
+the enactment date. An allowance has been recorded as of December 31, 2024 due to uncertainty of the realization of deferred tax asset
+in future periods.
+Current tax is the expected tax payable or receivable
+on the taxable income or loss for the year, using tax rates enacted or substantively enacted by the end of the reporting period, and any
+adjustment to tax payable in respect of previous years.
+In accordance with FASB Interpretation
+No. 48, Accounting for Uncertainty in Income Taxes, included in ASC Topic 740, Income Taxes, the Company recognizes the effect of income
+tax positions only if those positions are more likely than not of being sustained. Recognized income tax positions are measured at the
+largest amount that is greater than 50% likely of being realized. Changes in recognition or measurement are reflected in the period in
+which the change in judgment occurs. There were no uncertain tax positions that required recognition by the Company. As of the date of
+these consolidated financial statements, the Company’s federal and various state tax returns will generally remain open for the
+last three years.
+The Company’s provision
+for income taxes attributable to income before income taxes for the periods ended December 31, 2024 and December 31, 2023, consisted of
+the following:
+Schedule of provision for income taxes
+December 31,
+December 31,
+December 31,
+2024
+2023
+2022
+Deferred tax assets related to:
+NOL Carryover
+$589,868
+$403,605
+$59,323
+Deferred tax liability related to:
+Property and equipment
+(18,050)
+(8,715)
+(86,260)
+Deferred tax assets, gross
+571,818
+394,890
+(26,937)
+Less: allowance
+(394,890)
+(394,890)
+–
+Net deferred tax asset (liability)
+$176,928
+$–
+$(26,937)
+Current expense
+Federal
+$–
+$–
+$–
+State
+–
+–
+–
+$–
+$–
+$–
+Deferred income tax expense (benefit)
+$–
+$(26,937)
+$26,937
+F-16
+NOTE 9 – EQUITY FINANCING AND SECURITIES PURCHASE
+AGREEMENT
+Equity
+Financing Agreement
+On January
+20, 2023, the Company entered into an Equity Financing Agreement (“the EFA”) and Registration Rights Agreement (the “Registration
+Rights Agreement”) with GHS Investments, LLC, pursuant to which GHS agreed to purchase up to $10,000,000 in shares of the Company
+common stock, from time to time over the course of 24 months after effectiveness of a registration statement on Form S-1 of the underlying
+shares of the Company’s common stock.
+The EFA grants
+the Company the right, to direct GHS to purchase shares of the Company’s common stock on any business day (a “Put”),
+provided that at least ten trading days (as defined in the EFA) have passed since the closing of the most recent Put. The purchase price
+of the shares of common stock contained in a Put shall be 80% of the lowest traded price of the Company common stock during the ten consecutive
+Trading Days
+preceding the date of the Put notice. In the event The Company up lists to Nasdaq or an equivalent national exchange, the purchase price
+will be 90%. No Put will be made in an amount less than $10,000 or greater than $500,000 and any single drawdown may not exceed 200% of
+the average daily trading dollar volume of the Company’s common stock during the ten trading days preceding the Put. In no event
+is the Company entitled to make a Put or is GHS entitled to purchase and own cumulative shares greater than 4.99% of the Company’s
+shares of common stock outstanding on such date.
+The EFA will
+terminate upon any of the following events: when GHS has purchased an aggregate of $10,000,000 in the common stock of the Company pursuant
+to the EFA; or on the date that is 24 months from the date of the EFA.
+Actual sales
+of shares of common stock to GHS under the EFA will depend on a variety of factors, including, the number of public shares the Company
+has available for trading on the open market (excluding closely held and restricted stock), market conditions, the trading price of the
+common stock, the number of
+shares outstanding,
+and the Company’s determinations as to the appropriate sources of funding for the Company and its operations. The net proceeds under
+the EFA to the Company will depend on the frequency and prices at which the Company sells shares of stock to GHS.
+The
+Registration Rights Agreement provides that the Company shall (i) use its best efforts to file with the SEC the Registration
+Statement within 60 calendar days of the date of the Registration Rights Agreement; and (ii) have the Registration Statement
+declared effective by the SEC within 60 calendar days after the date the Registration Statement is filed with the SEC, but in no
+event more than calendar 120 days after the Registration Statement is filed.
+The Company
+will use the proceeds from the Puts for general corporate and working capital purposes and acquisitions or assets, businesses, or operations
+or for purposes the Board of Directors deems to be in the best interests of the Company.
+On February
+27, 2024, the Company put 4,615,277 shares of common stock to GHS at a purchase price of $0.00224 under the EFA for net proceeds of $2,106.
+On May 29,
+2024, the Company put 11,683,300 shares of common stock to GHS at the purchase price of $.0012 under EFA for a net proceeds of $12,715.
+Securities Purchase Agreement
+On January
+20, 2023, The Company entered into a Securities Purchase Agreement with GHS (the “GHS SPA”) pursuant to which 250 shares of
+Series D Preferred Stock for $250,000 were sold to GHS at a price per share of $1,000. In addition, pursuant to the GHS SPA, the Company
+issued to GHS warrants to purchase 46,296,296 shares of common stock exercisable at $0.005175 per share and terminating on January 20,
+2028.
+F-17
+On April 18, 2023, the Company
+entered into an Amended Securities Purchase Agreement with GHS (the “Amended SPA”) pursuant to which the Company sold to
+GHS 102 shares of Series D Preferred Stock for $102,000 ($1,000 for each share of Series D Preferred Stock). In addition, pursuant
+to the Amended SPA, the Company issued to GHS warrants to purchase 20,606,061 shares of Common Stock exercisable at $0.00391 per
+share and terminating on January 20, 2028.
+On May 22,
+2023, the Company entered into an Amended Securities Purchase Agreement with GHS (the “Amended SPA”) pursuant to which the
+Company sold to GHS 184 shares of Series D Preferred Stock for $184,000 ($1,000 for each share of Series D Preferred Stock). In addition,
+pursuant to the Amended SPA, the Company issued to GHS warrants to purchase 42,666,667 shares of Common Stock exercisable at $0.00345
+per share and terminating on January 20, 2028.
+On July 6,
+2023, the Company entered into an Amended Securities Purchase Agreement with GHS (the “Amended SPA”) pursuant to which the
+Company sold to GHS 96 shares of Series D Preferred Stock for $96,000 ($1,000 for each share of Series D Preferred Stock). In addition,
+pursuant to the Amended SPA, the Company issued to GHS warrants to purchase 19,047,620 shares of Common Stock exercisable at $0.004025
+per share and terminating on January 20, 2028.
+On September
+26, 2023, the Company entered into a Securities Purchase Agreement with GHS (the “September 2023 SPA”) pursuant to which the
+Company agreed to sell GHS 151 shares of Series D
+Preferred
+Stock for $146,000 ($1,000 for each share of Series D Preferred Stock and five commitment shares). At the initial closing, GHS purchased
+76 shares ($1,000 per share of Series D Preferred Stock) and within 25 calendar days from the initial closing, GHS agreed to purchase
+70 shares of Series D Preferred Stock. In addition, pursuant to the September 2023 SPA, the Company issued to GHS warrants to purchase
+14,901,961 shares of Common Stock exercisable at $0.003795 per share and terminating on September 26, 2028. On October 12, 2023, GHS purchased
+the remaining 70 shares of Series D Preferred Stock under the September 2023 SPA. In addition, pursuant to the September 2023 SPA, the
+Company issued to GHS warrants to purchase 14,705,883 shares of Common Stock exercisable at $0.003795 per share and terminating on October
+12, 2028.
+NOTE 10 – LITIGATION
+From time to time the Company is involved
+in lawsuits against the Company involving general liability or various contractual matters.  In the opinion of the Company’s
+management, the potential claims against the Company not covered by insurance resulting from such litigation will not materially affect
+the financial position of the Company.
+NOTE 11 – GOING CONCERN
+The Company follows FASB ASU 2014-10 – Development
+Stage Entities because its principal operations have commenced, but there has been no significant revenue therefrom. To date, the Company's
+activities since inception have consisted principally of acquiring property, equipment, and other operating assets, raising capital, starting
+up production, recruiting and training personnel and raising capital.
+The Company's ability to continue
+as a going concern is dependent on its ability to raise additional capital and implement its business plan as well as continuing to develop
+its brood stock in order to fulfill recently signed contracts. The financial statements do not include any adjustments that might be necessary
+if the business plan cannot be implemented or if additional capital cannot be raised, either of which could result in the Company not
+being able to continue as a going concern.
+The Company is in the process of raising additional
+capital to support the completion of the developmental stage activities and ramp up ongoing full shrimp harvest cycles and establish its
+customer base. Therefore, the Company's activities are subject to significant risks and uncertainties, including failing to secure additional
+funding to operationalize the Company's current technology.
+NOTE 12 – KEY EVENTS
+Due to the Deed in Lieu (DIL) filed by the note
+holder Kings Aqua Farm, LLC on the real property of the farm land on December 2, 2024, the company has written off the corresponding farm
+asset along with the debt and accrued interest. As part of the DIL, the company is no longer responsible for the amount due and owed under
+the note and as such has written off the balances and taken the loss.
+F-18

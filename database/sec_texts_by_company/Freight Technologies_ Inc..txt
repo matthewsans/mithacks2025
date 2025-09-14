@@ -1,0 +1,1014 @@
+true
+FY
+0001687542
+0001687542
+2024-01-01
+2024-12-31
+0001687542
+2024-06-28
+0001687542
+2025-03-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+10-K/A
+(Amendment
+No. 1)
+(Mark
+One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the fiscal year ended: December 31, 2024
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from ____________ to _____________
+Commission
+File No. 001-38172
+FREIGHT
+TECHNOLOGIES, INC.
+(Exact
+name of registrant as specified in its charter)
+British Virgin Islands
+47-5429768
+(State
+or other jurisdiction
+of incorporation or organization)
+(I.R.S.
+Employer
+Identification No.)
+2001
+Timberloch Place, Suite 500
+The
+Woodlands, TX
+77380
+(Address
+of principal executive offices)
+(Zip
+Code)
+(773)
+905-5076
+(Registrant’s
+telephone number, including area code)
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+Ordinary
+Shares, no par value
+FRGT
+The
+Nasdaq Stock Market LLC
+Securities
+registered pursuant to Section 12(g) of the Act: None
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes ☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large
+accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated
+filer ☒
+Smaller
+reporting company ☒
+Emerging
+growth company ☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act by the registered public accounting firm
+that prepared or issued its audit report. ☐
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+As
+of June 28, 2024 (the last business day of the registrant’s most recently completed second fiscal quarter), the aggregate market
+value of the registrant’s shares of ordinary share, no par value per share (“ordinary shares”), held by non-affiliates
+(based upon the closing price of such shares as reported on The Nasdaq Stock Market LLC) was $5,105,717. Ordinary shares held by each
+executive officer and director and by each person who owned more than 10% of the outstanding shares of Ordinary Share have been excluded
+from the calculation in that such persons may be deemed to be affiliates of the registrant. This determination of affiliate status is
+not necessarily a conclusive determination for other purposes.
+As
+of March 31, 2025, there were a total of 2,265,074 shares of the registrant’s Ordinary Share with no par value outstanding and
+2,265,074 shares of the registrant’s Ordinary Share outstanding.
+DOCUMENTS
+INCORPORATED BY REFERENCE
+None.
+Freight
+Technologies, Inc.
+Annual
+Report on Form 10-KA
+Year
+Ended December 31, 2024
+TABLE
+OF CONTENTS
+PART II
+Item
+7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+1
+Item
+9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+8
+Item
+9A.
+Controls and Procedures.
+9
+PART III
+Item
+13.
+Certain Relationships and Related Transactions, and Director Independence.
+11
+Item
+14.
+Principal Accountant Fees and Services.
+12
+PART IV
+Item
+15.
+Exhibit and Financial Statement Schedules.
+13
+Signatures
+14
+i
+EXPLANATORY
+NOTE
+Freight
+Technologies, Inc. (the “Company”) filed its Annual Report on Form 10-K for the fiscal year ended December 31, 2024 (the
+“Original Filing”) with the Securities and Exchange Commission (the “SEC”) on April 14, 2025. The purpose of
+Amendment No. 1 on Form 10-K/A (this “Amendment”) is to include additional information throughout that has been requested
+to be included pursuant to SEC comment letters, dated June 5, 2025 and July 24, 2025. Additionally, we have made adjustments to Item
+7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations, Item 9 - Changes in and Disagreements
+with Accountants on Accounting and Financial Disclosure, Item 9A - Controls and Procedures and Item 14 - Principal Accountant Fees and
+Services.
+Also
+as disclosed in the Current Report on Form 8-K, filed by the Company with the SEC on April 30, 2025 that the board of directors (the
+“Board”) of the Company appointed Andres Gonzalez as Chairman of the Nominating Committee of the Board and a member of the
+Compensation Committee of the Board (the “Compensation Committee”), and Leilei Nie as a member of both the Audit Committee
+of the Board and the Compensation Committee, the Company also made adjustments to Item 13 - Certain Relationships and Related Transactions,
+and Director Independence.
+This
+Amendment is being filed solely to reflect the above adjustments. No other changes were made to the Original Filing. Further, no attempt
+has been made in this Amendment to modify or update the other disclosures presented in the Original Filing. This Amendment does not reflect
+events occurring after the date of the Original Filing or modify or update those disclosures that may be affected by subsequent events.
+Accordingly, this Amendment should be read in conjunction with the Original Filing and the registrant’s other filings with the
+SEC.
+ii
+PART
+II
+ITEM
+7.
+MANAGEMENT’S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+The
+following discussion and analysis summarizes the significant factors affecting our operating results, financial condition, liquidity
+and cash flows as of and for the periods presented below. The following discussion and analysis should be read in conjunction with our
+financial statements and the related notes thereto included elsewhere in this Annual Report. The discussion contains forward-looking
+statements that are based on the beliefs of management, as well as assumptions made by, and information currently available to, management.
+Actual results could differ materially from those discussed in or implied by forward-looking statements as a result of various factors,
+including those discussed below and elsewhere in this Annual Report, particularly in the sections titled Item 1A. “Risk
+Factors” and “Cautionary Note Regarding Forward-Looking Statements.”
+Select
+Financial Data
+The
+following table presents the selected consolidated financial information for our Company. All numbers are presented in United States
+Dollars. The selected consolidated statements of comprehensive income data for the years ended December 31, 2024, and 2023, and the consolidated
+balance sheets data as of December 31, 2024, and 2023, have been derived from our audited consolidated financial statements and are consistent
+with numbers reported in our prior annual filings.
+Our
+historical results do not necessarily indicate results expected for any future periods. The selected consolidated financial data should
+be read in conjunction with, and are qualified in their entirety by reference to, our audited consolidated financial statements and related
+notes and “Item 5. Operating and Financial Review and Prospects” below. Our audited consolidated financial statements are
+prepared and presented in accordance with U.S. GAAP.
+Year Ended
+Year Ended
+(US$)
+December 31, 2024
+December 31, 2023
+Revenue
+$13,728,922
+$17,060,753
+Cost and expenses
+Cost of revenue
+12,389,520
+15,709,673
+Compensation and employee benefits
+5,349,764
+5,963,713
+General and administrative
+1,983,901
+3,163,639
+Sales and marketing
+65,574
+80,328
+Depreciation and amortization
+430,414
+404,598
+Total Cost and expenses
+20,219,173
+25,321,951
+Operating Loss
+(6,490,251)
+(8,261,198)
+Other income and (expenses)
+Interest income
+1,770
+8,880
+Interest expense
+(675,628)
+(816,819)
+Other income
+-
+342
+Other expense
+-
+(499,259)
+Gain from extinguishment of debt
+1,607,766
+-
+Change in fair value of convertible note
+22,602
+345,396
+Total other expense
+956,510
+(961,460)
+Loss before income taxes
+(5,533,741)
+(9,222,658)
+Income tax expense
+67,486
+104,948
+Net loss
+(5,601,227)
+(9,327,606)
+Foreign currency translation
+(1,740,552)
+452,917
+Comprehensive loss
+(7,341,779)
+(8,874,689)
+Weighted average number of shares, basic and diluted*
+912,837
+47,867
+Loss per share, basic and diluted
+$(6.41)
+$(194.87)
+*
+- The number of shares outstanding was adjusted retroactively for all periods presented to reflect the 10-to-1 reverse stock split change
+which was effected on March 24, 2023, the 10-to-1 reverse split which was effected on February 5, 2024, and the 25-to-1 reverse split
+which was effected on September 25, 2024.
+Warrants
+to purchase ordinary shares are not included in the diluted loss per share calculations when their effect is antidilutive.
+1
+BALANCE
+SHEET
+Year Ended December 31, 2024
+Year Ended December 31, 2023
+Current assets
+$5,049,546
+$9,153,089
+Total assets
+5,690,245
+10,037,312
+Current liabilities
+6,345,005
+7,167,889
+Long term liabilities
+-
+242,442
+Share capital
+308
+2,427,518
+Total stockholders’ equity (deficit)
+$(654,760)
+$2,626,981
+Revenues
+Fr8Tech’s
+revenues decreased to $13.7 million for the year ended December 31, 2024 from $17.1 million for the year ended December 31, 2023, a reduction
+of $3.3 million and 19.5% on year-over-year basis. The year-over-year decrease was primarily driven by: (1) our continued efforts to
+focus on higher margin customers and lanes in the spot market which impacted overall volume across the platform; (2) reduced spot market
+and dedicated service activity in the third quarter 2023 due to customer specific circumstances; and, (3) an approximate 3.5% decline
+in the Mexican peso relative to the US dollar year-over-year, which reduced the US dollar amount of Mexican peso based revenue on a comparative
+basis. Our spot market revenue declined 36% to $8.6 million in 2024, partially offset by a 42% increase in our Fr8Fleet revenue to $5.1
+million and to a lesser extent the launch of Waavely, our ocean container freight brokerage service.
+Year Ended
+December 31,
+Revenue
+2024
+2023
+Change
+% Change
+Freight Transportation Brokerage
+$8,635,201
+$13,474,282
+$(4,839,081)
+-35.9%
+Dedicated Capacity
+5,093,721
+3,586,471
+$1,507,250
+42.0%
+Total
+$13,728,922
+$17,060,753
+$(3,331,831)
+-19.5%
+Year Ended
+December 31,
+Volume
+2024
+2023
+Change
+% Change
+Brokerage Shipments
+4,780
+6,886
+(2,106)
+-30.6%
+Dedicated Capacity Truck Days
+15,139
+9,045
+6,094
+67.4%
+The
+Freight Transportation Brokerage service line experienced a 31% decline in the number of shipments; 35% lower for US domestic, 24% lower
+in Mexico domestic, and a 36% lower for cross-border shipments.
+2
+The
+Dedicated Capacity service line experienced a 67% increase in the number of truck days made available to our Fr8Fleet customers. One
+truck day means a standard 53’ dry-van trailer and truck being available to serve the customer for one full working day. The increase
+in truck days exceeded the increase in revenue, primarily due to the Company providing significantly more local, short-haul capacity
+in 2024 for its primary Fr8Fleet customer, Kimberly Clark de Mexico (KCM), which is provided at a lower daily rate than longer haul capacity.
+Fr8Tech’s
+revenues decreased to $17.1 million for the year ended December 31, 2023 from $25.9 million for the year ended December 31, 2022, a reduction
+of $8.8 million and 34.1% on year-over-year basis. The year-over-year decrease was primarily driven by: (1) our decision to limit activity
+with low-margin, but high-volume customers; (2) the loss of one customer due to non-recurring issue with a particular Carrier; and, (3)
+reduced spot market activity across several accounts driven by challenges in securing sufficient carrier capacity in the first half of
+2023 and US market rates that were significantly lower than in 2022. This was partially offset by a 67% increase in our Fr8Fleet revenue
+and the addition of more than 30 new customers in our spot market FTL and LTL businesses.
+Costs
+of Revenue
+The
+Company’s cost of revenue for both freight brokerage and dedicated services is entirely comprised of the costs our carriers incur
+and invoice us to perform the service. In the case of freight brokerage services, this reflects their total costs for hauling the customers
+freight from origin to destination. In the case of dedicated capacity services, this reflects having the trucks available to haul freight
+for the customer and costs related to any freight movements. For both services, these costs include any accessorial charges carriers
+may incur such as loading or unloading, drayage, stoppage, fuel surcharges, border-crossing, packing materials, etc.
+Fr8Tech’s
+cost of revenue decreased to $12.4 million for the year ended December 31, 2024 from $15.7 million for the year ended December 31, 2023,
+a reduction of $3.3 million and 21.1% on a year-over-year basis. Year-over-year cost of revenue decreased primarily due to the decline
+in revenue. The improved contribution from lower cost of revenue was primarily due to change in product mix, variation in specific customer
+and carrier rates on certain lanes and in the traffic mix itself over the year. The Fr8Fleet business, which grew 42% in 2024, improved
+its contribution primarily due to providing additional capacity for Kimberly Clark de Mexico and expanding service to several additional
+large enterprise end-customers.
+Fr8Tech’s
+cost of revenue decreased to $15.7 million for the year ended December 31, 2023 from $23.6 million for the year ended December 31, 2022,
+a reduction of $7.9 million and 33.5% on a year-over-year basis. This year-over-year decrease moved in similar fashion and magnitude
+with our revenue, with some differences due to varying margins in the traffic and in the traffic mix itself from quarter-to-quarter and
+year-to-year. The contribution improved in 2023 primarily due to product mix. The Fr8Fleet business, which grew 67% in 2023, incurred
+a slightly lower contribution than our spot market services due to higher initial service costs to develop that offering over the year.
+Compensation
+and Employee Benefits
+Fr8Tech’s
+compensation and employee benefits expenses were $5.3 million for the year ended December 31, 2024 compared to $6.0 million for the year
+ended December 31, 2023, which was a $0.6 million or 10.3% decrease on a year-over-year basis. The decrease was primarily due lower executive
+compensation and bonuses, lower stock based compensation, and a weaker Mexican peso relative to the US dollar, partially offset by some
+additional hiring. Total employees and FTE contractors, who are included in our compensation costs, at December 31, 2024 and 2023 were
+100 and 89, respectively. The increase in the number of employees in 2024 was primarily within sales, technology and operations.
+In
+January and February 2025, the Company undertook a cost cutting initiative to optimize resources for operational performance and shifting
+sales focus to emphasize sales of the Company’s TMS software offering, Fleet Rocket, and to lower ongoing operating expenses. The
+Company reduced its workforce by approximately 20%. As a result of these measures, the Company anticipates that its compensation and
+employee benefit expenses will be lower in 2025 than in 2024.
+3
+Fr8Tech’s
+compensation and employee benefits expenses were $6.0 million for the year ended December 31, 2023 compared to $5.0 million for the year
+ended December 31, 2022, which was a $1.0 million or 20.2% increase on a year-over-year basis. The increase was primarily due to stock
+compensation costs related to new grants issued during 2022 and 2023 and hiring new employees in dedicated services, business intelligence
+and carrier procurement. As noted above, the total number of employees and FTE contractors was 89 at December 31, 2023, at which time
+the company was making several personnel changes, mostly on the sales team.
+General
+and Administrative
+General
+and administrative expenses were $2.0 million for the year ended December 31, 2024 compared to $3.2 million for the year ended December
+31, 2023, which was a decrease of $1.2 million or 37.7%, primarily due to a favorable change in the exchange valuation of working capital
+balances and to a lesser extent lower outside legal expenses and insurance costs, partially offset by higher spend on software, audit
+services, and recruiting.
+General
+and administrative expenses were $3.2 million for the year ended December 31, 2023 compared to $3.6 million for the year ended December
+31, 2022, which was a decrease of $0.4 million or 11.2%, primarily due to lower outside legal counsel and public company costs.
+Sales
+and Marketing
+Sales
+and marketing expenses were $66 thousand for the year ended December 31, 2024 compared to $80 thousand for the year ended December 31,
+2023, which was a decrease of $14 thousand or 17.5%. The decrease in sales and marketing expenses in 2024 was primarily to lower direct
+advertising expenses, which is focused on online industry media and platforms. We continue to use direct and online advertising and social
+media platforms for promotion and attracting new Shippers and Carriers to our Platform. We expect these costs to increase modestly to
+support growth of our business across our brands and new software offering.
+Sales
+and marketing expenses were $80 thousand for the year ended December 31, 2023 compared to $557 thousand for the year ended December 31,
+2022, which was a decrease of $477 thousand or 85.6%. The decrease in marketing expenses in 2023 was mostly due to a strategic alliance
+during 2022 with a US-based counterparty that was working with us to originate and manage US domestic business and that was paid for
+with the issuance of Ordinary shares in 2022.
+Depreciation
+and Amortization
+Depreciation
+and amortization expenses represent the amortization of previously capitalized software development costs, as appropriate, and depreciation
+expenses related to Fr8App’s fixed assets. This expense increased $25 thousand to $430 thousand for the year ended December 31,
+2024, from $405 thousand for the year ended December 31, 2023. The increase was primarily due to additional software development of Fr8Tech
+platform in 2023 and 2024, as well as software development efforts in 2024 to build Fleet Rocket, our TMS software platform that was
+launched in February 2025.
+Depreciation
+and amortization increased to $405 thousand for the year ended December 31, 2023, from $243 thousand for the year ended December 31,
+2022, an increase of $161 thousand or 66.7% on a year-over-year basis, due to the completion of the application development stage of
+Fr8Tech platform which resulted in an increase of capitalized software amortization.
+Other
+income and expenses
+Interest
+expense for the year ended December 31, 2024 decreased to $674 thousand from $808 thousand for the year ended December 31, 2023, or by
+$134 thousand primarily due lower interest incurred on the convertible note that was issued in 2023, partially offset by higher interest
+expense incurred on the company’s revolving credit facility and promissory notes issued in 2024.
+4
+During
+the year ended December 31, 2024, other income and expense included a gain of $1.6 million from the extinguishment of the convertible
+notes issued in 2023 and the promissory notes issued in 2024, as well as a gain of $22 thousand from a change in fair value of convertible
+note.
+Components of gain from debt extinguishment ($)
+Principal of Promissory Term Notes
+$875,000
+Promissory Note Accrued Interest
+30,822
+Book Value of Convertible Note
+219,840
+Convertible Note Accrued Interest
+482,104
+Total
+$1,607,766
+There
+were no other related considerations or contingencies. The debt cancellation agreement did not require the Company to issue any additional
+ordinary shares, preferred shares or warrants to either entity.
+Interest
+expenses for the year ended December 31, 2023 decreased to $808 thousand from $907 thousand for the year ended December 31, 2022 due
+to a debt discount amortization for the year ended December 31, 2022, which was higher than interest expenses incurred in 2023 related
+to the convertible note that was issued in 2023.
+During
+the year ended December 31, 2023, other income and expense also included expensing the fair value of warrants issued as an inducement
+for convertible note conversion and as an additional consideration for an increase in convertible note funding, in the total amount of
+$499 and a gain of $345 from a change in fair value of convertible note. The convertible note issued during 2023 and warrants and related
+accounting treatment are more fully described in Notes 11 and 15, respectively, of our consolidated financial statements.
+Net
+Loss
+Fr8Tech’s
+net loss for the year ended December 31, 2024 decreased to $5.6 million from $9.3 million for the year ended December 31, 2023 or by
+$3.7 million or 40% on a year-over-year basis, as a result of the items described above.
+Fr8Tech’s
+net loss for the year ended December 31, 2023 increased to $9.3 million from $8.2 million for the year ended December 31, 2022 or by
+$1.1 million or 13.9% on a year-over-year basis, as a result of the items described above.
+Liquidity
+and Financial Position
+Fr8Tech
+has historically met its cash needs through a combination of cash flows from operating activities, term loans, promissory notes, bonds,
+convertible notes, private placement offerings and sales of equity. Fr8Tech’s cash requirements are generally for operating activities
+and debt repayments. Fr8Tech funded its early operations with a combination of debt and equity and we continue to work to position the
+Company to operate on a go-forward basis with a minimal amount of long-term debt and other borrowings. On January 3, 2023, Fr8Tech closed
+on a $6.6 million convertible note facility with a private investor, which was increased to $9.9 million in April 2023. The convertible
+note was mostly converted to equity during 2023. The balance of the convertible note of $219 thousand as of June 30, 2024, was extinguished
+in September 2024. The Company entered into a $750 thousand 1-year term note purchase agreement with Freight Opportunities, LLC on March
+11, 2024, and an additional term note for $125 thousand with Freight Opportunities, LLC on June 4, 2024. Both promissory notes were also
+extinguished in September 2024.
+Our
+combined accounts receivable and unbilled receivable balance of $4.1 million at December 31, 2024, declined by declined by $2.3 million
+or 35.9% from $6.3 million at December 31, 2023, which was primarily due to lower revenue and collections to reduce our outstanding AR
+balance over the year.
+Fr8Tech’s
+accounts payable, short-term borrowings and accrued expenses decreased by $867 thousand or 12.5% on a year-over-year comparative basis
+to $6.1 million, due mostly to lower accrued expenses on lower costs of revenue and accounts payable. At December 31, 2024, Fr8Tech has
+an accumulated net capital deficient of -$33 thousand, and net working capital of -$1.2 million.
+5
+In
+March 2019, we secured a revolving line of credit that is used to assist with managing our working capital needs. The maximum principal
+amount that may be drawn under the line of credit was increased since then to $5 million, which remains in place. As of December 31,
+2024 and 2023 the amount drawn under this facility was $3.3 million $2.8 million, respectively. We continue to incur short-term debt
+with this facility, which is collateralized by our accounts receivable, and we expect to maintain this debt facility to support ongoing
+operations.
+As
+shown in the accompanying consolidated financial statements as of December 31, 2024, we had an accumulated deficit of approximately $44.9
+million, short-term debt of $3.3 million, unrestricted cash of approximately $0.2 million and a working capital of approximately -$1.3
+million. In addition, for the years ended December 31, 2024 and 2023, we reported operating losses and negative cash flows from operations.
+Most
+of cash resources of the Company fund operating activities. Through December 31, 2024, we have financed our operations primarily with
+the proceeds from the sale and issuance of our ordinary and preferred shares, convertible promissory notes, promissory notes and debt.
+If
+we are unable to raise additional capital moving forward, our ability to operate in the normal course and continue to invest in our business
+may be materially and adversely impacted and we may be forced to scale back operations or divest some or all of our assets.
+As
+a result of the above, in connection with our assessment of going concern considerations in accordance with FASB Accounting Standards
+Update (“ASU”) 2014-15, “Disclosures of Uncertainties about an Entity’s Ability to Continue as a Going Concern,”
+management has determined that our liquidity condition raises substantial doubt about our ability to continue as a going concern through
+twelve months from the date these consolidated financial statements are available to be issued. These consolidated financial statements
+do not include any adjustments relating to the recovery of the recorded assets or the classification of the liabilities that might be
+necessary should we be unable to continue as a going concern.
+Cash
+flows
+Comparison
+of the Years ended December 31, 2024, and December 31, 2023
+The
+following table summarizes our sources and uses of cash for the years ended December 31, 2024, and December 31, 2023.
+(US$)
+Year Ended December 31, 2024
+Year Ended December 31, 2023
+Net cash used in operating activities
+(4,206,168)
+(5,790,684)
+Net cash used in investing activities
+(345,723)
+(363,369)
+Net cash provided by financing activities
+4,242,023
+6,800,722
+Net effect of exchange rates on cash
+(1,046,205)
+(99,564)
+Net increase / (decrease) in cash and cash equivalents
+(309,868)
+646,669
+Cash
+flows used in Operating Activities
+Net
+cash used in operating activities represent the cash receipts and disbursements related to our activities other than investing and financing
+activities. We expect cash provided by operating activities to be our primary use of funds for the foreseeable future as the Company
+continues to fund its growing operations
+Net
+cash flows used in operating activities is derived by adjusting our net loss for:
+●
+non-cash
+operating items such as depreciation and amortization, stock-based compensation and other non-cash income or expenses;
+●
+changes
+in operating assets and liabilities reflect timing differences between the receipt and payment of cash associated with transactions
+and when they are recognized in results of operations as well as any gains from extinguishment of debt or changes in value of preferred
+stock.
+6
+For
+the year ended December 31, 2024, net cash used in operating activities was $4.2 million which consisted of a net loss of $5.6 million
+adjusted for non-cash charges of -$0.2 million and net positive changes in our net operating assets and liabilities of $1.6 million.
+The non-cash charges primarily consisted of gain on extinguishment of debt of -$1.6 million and a change in the fair value of convertible
+note of $23 thousand, offset by share-based compensation costs of $1.0 million and depreciation and amortization of $0.4 million. The
+change in our net operating assets and liabilities was primarily due to net decreases in accounts receivable and unbilled receivables
+of $1.5 million, prepaid assets and deposits of $0.4 million, and income and VAT tax balances $0.2 million, partially offset by a decrease
+of accounts payable and accrued expenses of $0.5 million. The changes in our accounts receivable and accounts payable balances are primarily
+the result of the overall decrease in business activities and higher collections relative to the prior year.
+For
+the year ended December 31, 2023, net cash used in operating activities was $5.8 million which consisted of a net loss of $9.3 million,
+adjusted for non-cash charges of $1.8 million and net changes in our net operating assets and liabilities amounting to $1.7 million.
+The non-cash charges primarily consisted of share-based compensation costs of $1.2 million, interest accruals on convertible notes of
+$0.4 million, depreciation and amortization of $0.4 million, and conversion inducement expense of $0.1 million, partially offset by a
+change in fair value of convertible note of $0.3 million. The change in our net operating assets and liabilities was primarily due to
+net decreases in accounts receivable and unbilled receivables of $1.1 million, prepaid assets and deposits of $0.3 million, and accounts
+payable of $0.2 million, partially offset by an increase of accrued expenses and income tax payable of $0.5 million. The changes in our
+accounts payable and accounts receivable balances are primarily the result of the overall decrease in business activities relative to
+the prior year.
+Cash
+flows used in Investing Activities
+For
+the year ended December 31, 2024, net cash used in investing activities was $346 thousand, mostly for software development efforts for
+additional functionalities and capabilities of the Fr8App platform and related offerings, as well as building out Fleet Rocket.
+For
+the year ended December 31, 2023, net cash used in investing activities was $336 thousand, mostly for software development efforts for
+additional functionalities and capabilities of the Fr8App platform and related offerings.
+Cash
+flows provided by Financing Activities
+For
+the year ended December 31, 2024, net cash provided by financing activities was $4.2 million. The cash flow provided was from proceeds
+from the issuance of ordinary equity through our ATM program for $3.1 million, promissory notes of $0.9 million, and net borrowing revolving
+credit facility $0.5 million, partially offset by repayment of insurance financing for $0.2 million.
+For
+the year ended December 31, 2023, net cash provided by financing activities was $6.8 million. The cash flow provided was primarily from
+net proceeds from the issuance of convertible note of $7.7 million, partially offset by a net repayment on borrowing facilities of $0.5
+million, and repayment of insurance financing of $0.3 million.
+Research
+and development, patents and licenses
+The
+first commercial version of Fr8Tech’s products was launched in 2017. Fr8Tech continued its product development efforts throughout
+2018, by adding initial business intelligence and analytics to supplement its basic products in 2019 and offered its revised products
+package with active freight brokerage support and customer service by year-end 2019. The second generation of Fr8Tech products were brought
+to market during the second quarter of 2020 and consisted of the online portal, mobile application, TMS functionality, and Fr8App’s
+platform supplemented with freight brokerage support and customer service integrations. In 2022, the Company began offering to the Mexican
+domestic market dedicated capacity under the Fr8Fleet brand and in 2023 LTL services under the Fr8Now brand, both powered and managed
+by the Fr8App platform and bringing much of the same capabilities and intelligence to both services.
+7
+The
+Company has continued to bring additional functionality and enhancements to its core Fr8App platform over the past several years, as
+well as launch new technology-based offerings, including Fr8Radar, Waavely, and most recently Fleet Rocket, the TMS software solution
+launched in February 2025.
+Fr8Tech’s
+principal assets consist of its software, in which it invests continuously through development work by employees and externally contracted
+parties. Fr8Tech invested more than $0.3 million per year in software during the years ended December 31, 2024 and 2023. Fr8Tech expects
+to continue investing in its software in line with the expansion of its product offerings.
+On
+January 7, 2021, Fr8App filed a trademark application with the U.S. Patent and Trademark Office for the Fr8Technologies design mark.
+Fr8App currently does not hold any patents or own any registered trademarks. Fr8App believes that the success of its business depends
+on the quality of its proprietary software solutions, technology, processes, and domain expertise. While it considers its intellectual
+property rights to be valuable, Fr8App believes that its competitive position depends primarily on its ability to increase and eventually
+to maintain a leadership position by developing innovative proprietary solutions, technology, information, processes, insights and business
+intelligence to satisfy both Shippers and Carriers’ needs through its Platform.
+ITEM
+9.
+CHANGES
+IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+UHY
+LLP (“UHY”) audited our consolidated financial statements for the year ended December 31, 2023 and 2022. On July 4, 2024,
+UHY was dismissed as our independent registered public accounting firm. The audit reports of UHY on the Company’s financial statements
+as of and for the fiscal years ended December 31, 2023 and 2022 contained no adverse opinion or disclaimer of opinion and were not qualified
+or modified as to uncertainty, audit scope or accounting principles. UHY did not provide an audit report on our financial statements
+for any period subsequent to December 31, 2023. UHY has not provided any audit services to the Company subsequent to July 4, 2024.
+During
+the Company’s two most recent fiscal years ended December 31, 2023 and 2022, and for the subsequent interim period through July
+4, 2024, (i) there were no “disagreements” between us and UHY (as that term is defined in Item 304(a)(1)(iv) of Regulation
+S-K promulgated by the SEC (“Regulation S-K”) and the related instructions to this item) on any matter of accounting principles
+or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction
+of UHY, would have caused them to make reference to the subject matter of the disagreements in connection with their report on the financial
+statements for such period, and (ii) there were no “reportable events” as such term is defined in Item 304(a)(1)(v) of Regulation
+S-K, other than as described below.
+We
+provided UHY with a copy of the foregoing disclosures and requested UHY to furnish us with a letter addressed to the SEC stating whether
+or not UHY agrees with the above disclosures. A copy of UHY’s letter is filed as Exhibit 16.1 to this report.
+On
+August 22, 2024, we engaged Marcum LLP (“Marcum”) as our new independent registered public accounting firm. During the Company’s
+two most recent fiscal years ended December 31, 2023 and 2022, and for the subsequent interim period through the date hereof prior to
+the engagement of Marcum, neither the Company nor anyone on its behalf consulted Marcum regarding any of the matters described in Items
+304(a)(2)(i) or 304(a)(2)(ii) of Regulation S-K.
+On
+January 7, 2025, Marcum was dismissed as our independent registered public accounting firm. Marcum has not reported on the Company’s
+consolidated financial statements for any interim or annual period. Marcum has not provided any audit services to the Company subsequent
+to July 7, 2025.
+During
+the Company’s fiscal year ended December 31, 2024, and for the subsequent interim period through January 7, 2025, (i) there were
+no “disagreements” between us and Marcum (as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related
+instructions to this item) on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or
+procedure, which disagreements, if not resolved to the satisfaction of Marcum, would have caused them to make reference to the subject
+matter of the disagreements in connection with their report on the financial statements for such period, and (ii) there were no “reportable
+events” as such term is defined in Item 304(a)(1)(v) of Regulation S-K, other than as described below.
+8
+We
+provided Marcum with a copy of the foregoing disclosures and requested Marcum to furnish us with a letter addressed to the SEC stating
+whether or not Marcum agrees with the above disclosures. A copy of Marcum’s letter is filed as Exhibit 16.2 to this report.
+On
+January 6, 2025, we engaged TAAD LLP (“TAAD”) as our new independent registered public accounting firm. During the Company’s
+two most recent fiscal years ended December 31, 2024 and 2023, and for the subsequent interim period through the date hereof prior to
+the engagement of TAAD, neither the Company nor anyone on its behalf consulted TAAD regarding any of the matters described in Items 304(a)(2)(i)
+or 304(a)(2)(ii) of Regulation S-K.
+ITEM
+9A.
+CONTROLS
+AND PROCEDURES.
+Evaluation
+of Disclosure Controls and Procedures
+Our
+management, with the participation of our Chief Executive Officer and Chief Financial Officer, have evaluated our disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) prior to the filing of this Annual Report. Based
+on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of the end of the period covered by this
+Annual Report, our disclosure controls and procedures were, in design and operation, effective at a reasonable assurance level.
+Management’s
+Annual Report on Internal Control over Financial Reporting
+The
+Company’s internal control over financials reporting includes those policies and procedures that:
+●
+Pertain
+to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets;
+●
+Provide
+reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+U.S. GAAP, and that our receipts and expenditures are being made only in accordance with authorizations of our management and our
+directors; and
+●
+Provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that
+could have a material effect on the financial statements.
+A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is
+a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected
+on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control over financial reporting
+that is less severe than a material weakness, yet important enough to merit attention by those responsible for oversight of the company’s
+financial reporting.
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions
+or because the degree of compliance with policies or procedures may deteriorate. Under the supervision and with the participation of
+our management, including our CEO and CFO, we conducted an assessment of the effectiveness of our internal control over financial reporting
+as of December 31, 2024.
+The
+assessment was based on criteria established in the framework Internal Control - Integrated Framework (2013), issued by the Committee
+of Sponsoring Organizations of the Treadway Commission (COSO). Based on this assessment, management determined that, as of December 31,
+2024, we did not maintain effective internal control over financial reporting due to the existence of the following significant deficiency
+and material weakness:
+●
+Lack
+of a functional internal audit department or personnel that monitors the consistencies of the preventive internal control procedures
+and, as a result, the Company may not be able to discover the existence of problems and prevent the problematic behavior in internal
+controls; and
+●
+For
+revenue related to dedicated capacity for the year ended December 31, 2024, invoice and fulfilment reconciliations with the customer
+and general ledger entries related to dedicated service invoices and adjustments thereto were not always completed in a timely manner
+for internal reporting purposes.
+9
+Remediation
+Since
+becoming a publicly-trade public, management has continuously worked to improve the Company’s internal controls. Our management
+has carried out and is continuing to undertake the following actions to remediate the material weakness and deficiency described above:
+●
+Engaged
+an external SOX 404 implementation firm in 2023 to assist in improving the Company’s controls, which included a deep-dive assessment
+of all policies and procedures and targeted actions to mitigate all weaknesses and deficiencies and bring all our internal controls
+compliant with SOX 404;
+●
+Strengthen
+designated roles and/or certain employees for ongoing maintenance of internal control policies and procedures, including enforcing
+existing policies, maintaining evidence of task and requirement completion, and updated process documentation, guidelines and communications
+to employees as necessary;
+●
+Continue
+ongoing training initiatives to ensure daily activities and practices of all employees are in alignment with our internal controls
+and US GAAP and compliant with established policies and procedures;
+●
+Hire
+finance professionals with strong SOX and internal control backgrounds; and
+●
+Implement
+system enhancements and new applications that are aligned with our focus on creating strong internal controls, as well as complete
+and accurate financial information.
+Over
+the past year, management made significant progress with identifying, documenting, implementing and testing many controls to address
+previously identified material weaknesses and significant deficiencies. The effect cover core Company processes including: order-to-cash,
+procure-to-pay, hire-to-retire, information technology general controls, record-to-report, taxes, treasury & cash management, and
+corporate governance. The Company is continuing to review, test and updated its controls to ensure they remain effective.
+However,
+we cannot provide any assurance that these remediation efforts are and will be successful or that our internal control over financial
+reporting will be effective as a result of these efforts. In addition, as we continue to evaluate and work to improve our internal controls
+over financial reporting related to the identified material weakness, management may determine to take additional measures to address
+control deficiencies or determine to modify the remediation plan described above.
+Changes
+in Internal Control over Financial Reporting
+Management
+is committed to improving the internal controls over financial reporting and will undertake consistent improvements or enhancements on
+an ongoing basis. Except as described above, there were no changes in our internal controls over financial reporting during our twelve
+months ended December 31, 2024 that have materially affected, or are reasonably likely to material affect, our internal control over
+financial reporting.
+Inherent
+Limitation on the Effectiveness of Internal Control
+The
+effectiveness of any system of internal control over financial reporting, including ours, is subject to inherent limitations, including
+the exercise of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate
+misconduct completely. Accordingly, any system of internal control over financial reporting, including ours, no matter how well designed
+and operated, can only provide reasonable, not absolute assurances. In addition, projections of any evaluation of effectiveness to future
+periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate. We intend to continue to monitor and upgrade our internal controls as necessary or appropriate
+for our business but cannot assure you that such improvements will be sufficient to provide us with effective internal control over financial
+reporting.
+10
+PART
+III
+ITEM
+13.
+CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+Transactions
+with Related Persons
+The
+following includes a summary of transactions since the beginning of our 2023 fiscal year, or any currently proposed transaction, in which
+we were or are to be a participant and the amount involved exceeded or exceeds the lesser of $120,000 or 1% of the average of our total
+assets at year-end for the last two completed fiscal years, and in which any related person had or will have a direct or indirect material
+interest (other than compensation described under Item 11 “Executive Compensation” above). We believe the terms obtained
+or consideration that we paid or received, as applicable, in connection with the transactions described below were comparable to terms
+available or the amounts that would be paid or received, as applicable, in arm’s-length transactions.
+Promoters
+and Certain Control Persons
+Each
+of Mr. Javier Selgas, Chief Executive Officer and Director, Mr. Donald Quinby, Chief Financial Officer, Ms. Luisa Irene Lopez Reyes,
+Chief Operating Officer and Paul Freudenthaler, Secretary, may be deemed a “promoter” as defined by Rule 405 of the Securities
+Act. For information regarding compensation, including items of value, that have been provided or that may be provided to these individuals,
+please refer to “Executive Compensation” above.
+Director
+Independence
+Independent
+Directors
+Nasdaq’s
+rules generally require that a majority of an issuer’s board of directors consist of independent directors. Our board of directors
+consists of seven directors, four of whom are independent within the meaning of Nasdaq’s rules.
+Committees
+of the Board of Directors
+Audit
+Committee
+Nicholas
+H. Adler, Leilei Nie and Marc Urbach, each of whom has been determined by the board of directors to satisfy the “independence”
+requirements of Rule 10A-3 under the Exchange Act and Nasdaq’s rules, serve on the Audit Committee, with Mr. Marc Urbach serving
+as the chairman. Our board has determined that Mr. Marc Urbach qualifies as an “audit committee financial expert” as defined
+by Item 407(d)(5) of Regulation S-K promulgated by the SEC. The Audit Committee oversees our accounting and financial reporting processes
+and the audits of the financial statements of the Company.
+Compensation
+Committee
+Nicholas
+H. Adler, Andres Gonzalez, and Marc Urbach, each of whom satisfies the “independence” requirements of Rule 10C-1 under the
+Exchange Act and Nasdaq’s rules, serve on the Compensation Committee, with Mr. Adler serving as the chairman. The members of the
+Compensation Committee are also “non-employee directors” within the meaning of Section 16 of the Exchange Act. The Compensation
+Committee assists the board in reviewing and approving the compensation structure, including all forms of compensation, relating to our
+directors and executive officers.
+Nominating
+Committee
+Nicholas
+H. Adler, Andres Gonzalez, and Leilei Nie, each of whom satisfies the “independence” requirements of Nasdaq’s rules,
+serve on our Nominating Committee, with Andres Gonzalez serving as the chairman. The Nominating Committee assists the board of directors
+in selecting individuals qualified to become our directors and in determining the composition of the board and its committees.
+11
+ITEM
+14.
+PRINCIPAL
+ACCOUNTANT FEES AND SERVICES.
+Independent
+Auditors’ Fees
+The
+aggregate fees billed to the Company by the Company’s principal accountant for the indicated services for each of the last two
+fiscal years were as follows:
+Year Ended
+December 31,
+2024
+2023
+Audit Fees
+$418,200
+$256,250
+Audit-Related Fees
+—
+—
+Tax Fees
+—
+—
+All Other Fees
+111,750
+—
+Total
+$529,950
+$256,250
+As
+used in the table above, the following terms have the meanings set forth below.
+Audit
+Fees
+Audit
+fees consist of aggregate fees billed for each of the last two fiscal years for professional services performed by the Company’s
+principal accountant for the audit of the financial statements included in our Annual Reports on Form 10-Q and review of the financial
+statements included in our Quarterly Reports on Form 10-Q, reviews of registration statements and issuances of consents, and services
+that are normally provided in connection with statutory and regulatory filings or engagements.
+Audit-Related
+Fees
+Audit-related
+fees consist of aggregate fees billed for each of the last two fiscal years for assurance and related services performed by the Company’s
+principal accountant that are reasonably related to the performance of the audit or review of our financial statements and are not reported
+under the paragraph captioned “Audit Fees” above. We did not engage our principal accountant to provide assurance or related
+services during the last two fiscal years.
+Tax
+Fees
+Tax
+fees consist of aggregate fees billed for each of the last two fiscal years for professional services performed by the Company’s
+principal accountant with respect to tax compliance, tax advice, tax consulting and tax planning. We did not engage our principal accountant
+to provide tax compliance, tax advice or tax planning services during the last two fiscal years.
+All
+Other Fees
+All
+other fees consist of aggregate fees billed for each of the last two fiscal years for products and services provided by the Company’s
+prior principal accountant, UHY LLP, for services other than those reported under the headings “Audit Fees,” “Audit-Related
+Fees” and “Tax Fees” above. Such services included consent to reference prior period results as audited
+by their firm in our 2024 financial statements and a comfort letter for referencing our 2023 financial statements as audited by their
+firm for the Form 424B5 - Prospectus filed on May 23, 2024 for our ATM offering.
+Pre-Approval
+Policies and Procedures
+The
+Audit Committee has reviewed and approved all fees earned in 2024 and 2023 by the Company’s principal accountant, and actively
+monitored the relationship between audit and non-audit services provided. The Audit Committee has concluded that the fees earned by the
+principal accountant were consistent with the maintenance of the principal accountant’s independence in the conduct of its auditing
+functions.
+The
+Company’s principal accountant did not provide, and the Audit Committee did not approve, any services that would have been described
+under “—Audit-Related Fees”, or “—Tax Fees” or “—All Other Fees”
+above for either of the last two fiscal years.
+The
+Audit Committee annually considers the provision of audit services. The Audit Committee must pre-approve all services provided and fees
+earned by the Company’s principal accountant. The Audit Committee has established pre-approval policies and procedures that are
+detailed as to the particular service, that require that the Audit committee be informed of each service, and that do not include delegation
+of the Audit Committee’s responsibilities under the Exchange Act to management. The pre-approval policies and procedures provide
+only for defined audit services and, if any, specified audit-related fees, tax services, and other services, and may impose specific
+dollar value limits for the fees for pre-approved services. The Audit Committee also considers on a case-by-case basis specific engagements
+that are not otherwise pre-approved under the pre-approval policies and procedures or that materially exceed pre-approved fee amounts.
+On an interim basis, any proposed engagement that does not fit within the definition of a pre-approved service may be presented to a
+designated member of the Audit Committee for approval and to the full Audit Committee at its next regular meeting.
+The
+percentage of hours expended on the Company’s principal accountant’s engagement to audit the Company’s financial statements
+for the most recent fiscal year that were attributed to work performed by persons other than the principal accountant’s full-time,
+permanent employees was not greater than 50%.
+12
+PART
+IV
+ITEM
+15.
+EXHIBIT
+AND FINANCIAL STATEMENT SCHEDULES.
+(b)
+Exhibits:
+Exhibit
+Number
+Description
+16.1
+Letter from UHY, dated July 8, 2024. (incorporated by reference to Exhibit 10.1 to the Form 6-K filed on July 10, 2024)
+16.2
+Letter from Marcum, dated January 9, 2025. (incorporated by reference to Exhibit 10.1 to the Form 8-K filed on January 10, 2025)
+31.1
+Certification by Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification by Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification by Principal Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification by Principal Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+XBRL
+Instance Document.
+101.SCH
+XBRL
+Taxonomy Extension Schema Document.
+101.CAL
+XBRL
+Taxonomy Extension Calculation Linkbase Document.
+101.DEF
+XBRL
+Taxonomy Extension Definition Linkbase Document.
+101.LAB
+XBRL
+Taxonomy Extension Label Linkbase Document.
+101.PRE
+XBRL
+Taxonomy Extension Presentation Linkbase Document.
+13
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+Date:
+August 21, 2025
+FREIGHT
+TECHNOLOGIES, INC.
+/s/
+Javier Selgas
+Name:
+Javier
+Selgas
+Title:
+Chief
+Executive Officer
+(Principal
+Executive Officer)
+/s/
+Donald Quinby
+Name:
+Donald
+Quinby
+Title:
+Chief
+Financial Officer
+(Principal
+Financial and Accounting Officer)
+14

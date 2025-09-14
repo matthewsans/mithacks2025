@@ -1,0 +1,2446 @@
+10-K/A
+trueFYtrue00010211620001021162us-gaap:CommonStockMember2024-04-012025-03-3100010211622025-07-1500010211622024-04-012025-03-3100010211622024-09-300001021162tgi:PurchaseRightsMember2024-04-012025-03-31xbrli:sharesiso4217:USD
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549FORM 10-K/A(Mark One)☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934For the fiscal year ended March 31, 2025or☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934For the transition period from
+to Commission File No. 1-12235Triumph Group, Inc.(Exact name of registrant as specified in its charter)
+Delaware
+51-0347963
+(State or other jurisdiction ofincorporation or organization)
+(I.R.S. EmployerIdentification Number)
+555 E Lancaster Avenue, Suite 400, Radnor, Pennsylvania 19087(Address of principal executive offices, including zip code)Registrant's telephone number, including area code: (610) 251-1000Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $.001 per share
+TGI
+New York Stock Exchange
+Purchase rights
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: NoneIndicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒
+No
+☐Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934. Yes
+☐ No ☒Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒
+No
+☐Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒
+No
+☐Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Securities Exchange Act of 1934. (Check one)
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes
+☐
+No
+☒As of September 30, 2024, the aggregate market value of the shares of Common Stock held by non-affiliates of the Registrant was approximately $977 million. Such aggregate market value was computed by reference to the closing price of the Common Stock as reported on the New York Stock Exchange on September 30, 2024. For purposes of making this calculation only, the Registrant has defined affiliates as including all directors and executive officers.The number of outstanding shares of the Registrant's Common Stock, par value $.001 per share, on July 15, 2025, was 77,786,859. Documents Incorporated by ReferenceNone
+Explanatory Note This Form 10-K/A is being filed as an amendment (the "Amendment") to the Annual Report on Form 10-K filed by Triumph Group, Inc. (the "Company") with the Securities and Exchange Commission (the "SEC") on May 28, 2025 (the "Original Filing").
+This Amendment is being filed to include the information required by Items 10 through 14 of Part III of Form 10-K. We previously omitted this information from our Original Filing in reliance on General Instruction G(3) to Form 10-K, which permits the information in the above-referenced items to be incorporated in the Original Filing by reference to our definitive proxy statement if such statement is filed no later than 120 days after our fiscal year-end.
+We are filing this Amendment to provide the information required in Part III of Form 10-K because we may not file a definitive proxy statement containing that information within 120 days after the end of the fiscal year covered by our Original Filing. This Amendment amends and restates in their entirety Items 10, 11, 12, 13 and 14 of Part III of our Original Filing.
+The cover page of our Original Filing is also amended to delete the reference to the incorporation by reference of portions of our definitive proxy statement into Part III of the Original Filing.
+In addition, as required by Rule 12b-15 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), Item 15 of Part IV of the Original Filing is hereby amended solely to include, as Exhibits 31.3 and 31.4, new certifications by the Company’s Principal Executive Officer and Principal Financial Officer pursuant to Rule 13a-14(a) under the Exchange Act. Except as described above, this Amendment does not amend any other information set forth in the Original Filing, and the Company has not updated disclosures included therein to reflect any subsequent events.
+Accordingly, this Amendment should be read in conjunction with our Original Filing and with our filings with the SEC subsequent to the Original Filing.
+Table of Contents Triumph Group, Inc.Index to Form 10-K/A
+Item No.
+Page
+PART III
+4
+Item 10.
+Directors, Executive Officers, and Corporate Governance
+4
+Item 11.
+Executive Compensation
+10
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+30
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+32
+Item 14.
+Principal Accountant Fees and Services
+33
+PART IV
+34
+Item 15.
+Exhibits, Financial Statement Schedules
+34
+Item 16.
+Form 10-K Summary
+38
+PART IIIItem 10.
+Directors, Executive Officers and Corporate Governance Executive OfficersInformation regarding our executive officers is set forth under "Item 1. Executive Officers" of the Original Filing.Board of DirectorsThe Board of Directors of the Company (the “Board” or the “Board of Directors”) currently consists of nine directors: Patrick E. Allen, Mark C. Cherry, Daniel J. Crowley, Cynthia M. Egnotovich, Daniel P. Garton, Barbara W. Humpton, Neal J. Keating, Courtney R. Mather, and Colleen C. Repplier.The Company and Vision One Management Partners ("Vision One") entered into a cooperation agreement on May 31, 2023, as amended on May 1, 2024 (the “Cooperation Agreement”).
+Pursuant to the Cooperation Agreement, Courtney R. Mather, CEO and CIO of Vision One, serves on our Board.
+The Cooperation Agreement also provides that Julio C. Acero, Investment Analyst of Vision One, serves as a non-voting observer on the Board.The table below lists the name of each director on the Board.
+All directors were elected at the Company's 2024 annual meeting of stockholders for a term ending at the next annual meeting of stockholders and when each such director’s successor is duly elected and qualified.
+Directors
+Age
+Year FirstElected a Director
+Patrick E. Allen
+60
+2023
+Mark C. Cherry
+55
+2024
+Daniel J. Crowley
+62
+2016
+Cynthia M. Egnotovich
+68
+2022
+Daniel P. Garton
+68
+2018
+Barbara W. Humpton
+64
+2019
+Neal J. Keating
+69
+2022
+Courtney R. Mather
+48
+2023
+Colleen C. Repplier
+64
+2019
+The principal occupations of each director and the experience, qualifications, attributes or skills that led to the conclusion that such individual should serve as a director are as follows: Patrick E. Allen Chief Financial Officer, Collins Aerospace (Retired) 60 years old Director since: 2023IndependentBiographical Information  Patrick E. Allen has been a director of Triumph since 2023.
+He served as the Chief Financial Officer for Collins Aerospace, a division of Raytheon Technologies, from 2018 until 2020.
+He had previously served as the Chief Financial Officer for Rockwell Collins from 2015 through 2018, having taken on roles of increasing responsibility at Rockwell Collins since he joined the company in 1998.
+Mr. Allen has served as a director of Alliant Energy Corporation since 2013 and Austal USA until March of 2024.
+He received his B.S. in Finance from The Pennsylvania State University.Experience Mr. Allen's long track record of leading finance and treasury functions in the aerospace industry greatly benefits the Company, along with his extensive expertise in capital markets, accounting, and SEC financial reporting.
+In addition, he adds strong knowledge of the Company's customers and suppliers to the Board.
+4
+Mark C. Cherry Chief Executive Officer, Align Precision55 years old Director since: 2024 IndependentBiographical Information Mark C. Cherry has been a director of Triumph since 2024.
+He has served as the Chief Executive Officer of Align Precision since December 2022.
+Mr. Cherry previously worked at Boeing, serving as Vice President and General Manager of Vertical Lift from April 2021 to December 2022 and Vice President and General Manager of Phantom Works from November 2017 to April 2021.
+From September 2012 to November 2017, he was President and Chief Operating Officer at Aurora Flight Sciences.
+He previously held roles at Sikorsky Aircraft, Teradyne, and the Boston Consulting Group. Experience Mr. Cherry provides the Board with the benefit of more than 20 years of experience in the defense, aerospace, manufacturing, and technology sectors.
+His understanding of the industry and customer expectations and requirements, as well as commercial strategy and product and business optimization, helps to inform the Company's business strategies.  Daniel J. Crowley Chairman, President and Chief Executive Officer, Triumph Group, Inc. 62 years old Director since: 2016 Biographical Information Daniel J. Crowley has been a director of Triumph since 2016.
+Mr. Crowley has served as Triumph’s President and Chief Executive Officer since January 4, 2016.
+In November 2020, Mr. Crowley became Chairman of the Board.
+Mr. Crowley served as a corporate Vice President and President of Integrated Defense Systems at Raytheon Company from 2013 until 2015, and as President of Network Centric Systems at Raytheon Company from 2010 until 2013.
+Prior to joining Raytheon Company, Mr. Crowley served as Chief Operating Officer of Lockheed Martin Aeronautics after holding a series of increasingly responsible assignments across its space, electronics, and aeronautics sectors.
+Mr. Crowley has served on the Board of Directors of Knowles Corporation since July 2022.
+He is a member of the Chief Executives for Corporate Purpose (CECP) and the National Association of Corporate Directors.Experience Mr. Crowley brings to the Board over 40 years of operational, strategic, and governance experience during which he has held senior leadership roles in multi-site engineering, manufacturing, and service businesses.
+He led the development, production, and deployment of some of the largest and most complex aerospace and defense products in support of a global customer base, generating significant shareholder value in multiple settings.
+He provides the Board with detailed information about Triumph’s businesses and communicates management’s perspective on important matters to the Board.  Cynthia M. EgnotovichPresident, Customer Service, UTC Aerospace Systems, United Technologies Corporation (Retired)68 years old Director since: 2022 IndependentBiographical Information Cynthia M. Egnotovich joined the board of Triumph in September 2022 following a search conducted by the Nominating, Governance, and Sustainability Committee.
+Ms. Egnotovich is the former President, Customer Service, UTC Aerospace Systems of United Technologies Corporation, a position she held from July 2012 to November 2013 at which time she retired.
+She previously served as Segment President, Nacelles and Interior Systems, for Goodrich Corporation from 2007 to 2012.
+Goodrich was combined with Hamilton Sundstrand to create the UTC Aerospace Systems business unit.
+Ms. Egnotovich joined Goodrich in 1986 in finance
+5
+before moving into general management and serving in leadership roles of increasing significance, including Segment President of Engine Systems, Segment President of Electronic Systems and Segment President of Engine & Safety Systems.
+She is an experienced director, currently serving on the Board of Directors of Hexcel Corporation since January 2015.
+She also previously served as Chair and member of the Board of Directors of Welbilt, Inc. from 2016 to July 2022, when it was acquired, and as a member of the Board of Directors of Manitowoc Corporation from 2008 until 2016. Experience Ms. Egnotovich offers the Board the benefit of her extensive manufacturing and aerospace industry knowledge, including her understanding of the Company's customers and product and service offerings.
+She also contributes her significance governance experience to the Board. Daniel P. Garton Chief Executive Officer and President, American Eagle, American Airlines (Retired)68 years old Director since: 2018 IndependentBiographical Information Daniel P. Garton has been a director of Triumph since February 2018.
+Mr. Garton is the former Chief Executive Officer and President of American Eagle Holding Corporation, a wholly owned subsidiary of American Airlines, a position he held from June 2010 until December 2014, at which time he retired.
+He previously served as Executive Vice President and Chief Marketing Officer for American Airlines, and Senior Vice President and Chief Financial Officer of Continental Airlines.
+He also served as a director of Liberty Property Trust until its acquisition by Prologis, Inc. in February 2020.
+In addition, he served as a director of Republic Airways Holdings Inc. from 2014 to 2017. Experience The Company benefits from Mr. Garton’s diverse functional leadership experiences during his career of over 30 years in the airline industry in key management and financial positions.
+In addition, he brings extensive experience working with many of the aerospace customers Triumph serves, including Boeing, Airbus, Bombardier and Embraer and with Tier 2 major component and engine suppliers, and aftermarket service providers. Barbara W. Humpton Chair and Chief Executive Officer, Siemens USA 64 years old Director since: 2019 IndependentBiographical Information Barbara W. Humpton has been a director of Triumph since September 2019.
+Ms. Humpton is the Chair and Chief Executive Officer of Siemens USA where she leads strategy, operations and services for the largest subsidiary of Siemens AG, one of the world’s largest producers of energy-efficient, resource-saving technologies.
+Ms. Humpton joined Siemens in 2011 and held roles of increasing responsibility in the Siemens Government Technologies business, ultimately being named President and CEO of the business.
+Prior to joining Siemens, Ms. Humpton was a Vice President at Booz Allen Hamilton where she was responsible for program performance and new business development for technology consulting with the Department of Justice and Department of Homeland Security.
+Earlier, Ms. Humpton served as Vice President at Lockheed Martin with responsibility for Biometrics Programs, Border and Transportation Security and Critical Infrastructure Protection.
+Ms. Humpton also serves as a director of the Federal Reserve Bank of Richmond and is a member of the Chief Executives for Corporate Purpose (CECP).
+6
+Experience  Ms. Humpton’s experience in managing large and complex manufacturing businesses is of significant benefit to the Company, as is her global industry experience.
+She also brings to the Board significant leadership skills that are used to serve the Company’s interests.
+7
+Neal J. Keating Chairman and Chief Executive Officer, Kaman Corporation (Retired)69 years old Director since: 2022IndependentBiographical Information Neal J. Keating joined the Triumph Board of Directors in April 2022.
+Mr. Keating served as Chief Executive Officer and Chairman of the Board of Kaman Corporation from January 2008 until his retirement in April 2021.
+Prior to Kaman, Mr. Keating served as Chief Operating Officer at Hughes Supply, a $5.4 billion industrial distributor, as Chief Executive Officer of GKN Aerospace, a $1 billion aerospace subsidiary of GKN, Plc, serving also as Executive Director on the Board of Directors of GKN Plc and as a member of the Board of Directors of Agusta-Westland Helicopter.
+From 1978 to 2002, he served in increasingly senior positions at Rockwell International with his final role as Executive Vice President and Chief Operating Officer of Rockwell Collins, Commercial Systems.
+Mr. Keating serves on the Board of Directors for Hubbell, Inc. and previously served on the Board of Barnes Group Inc., and Form Technologies until 2025.
+He is also a Trustee of Embry- Riddle Aeronautical University and a member of the Board of Directors for Avon Old Farms School. Experience Mr. Keating's broad-based management experience, strong corporate governance background, and deep expertise in the aerospace and defense industry make him a valuable member of the Board.
+He also has a strong understanding of the Company's customers and suppliers.  Courtney R. Mather Chief Executive Officer and Chief Investment Officer, Vision One Management Partners, LP 48 years old Director since: 2023IndependentBiographical Information  Courtney R. Mather has been a director of Triumph since 2023.
+Since January 1, 2022, he has been the Chief Executive Officer and Chief Investment Officer of Vision One Management Partners, LP.
+Mr. Mather formerly served as a Portfolio Manager and Managing Director of Icahn Capital from April 2014 to March 2020.
+Mr. Mather was at Goldman Sachs & Co. from 1998 to 2012, where he served most recently as Managing Director of private credit trading and investing, where he identified and analyzed investment opportunities for both Goldman Sachs and clients.
+Mr. Mather has served as a director of The Chemours Company since 2025 and of Caesars Entertainment Corporation since March 2019.
+Mr. Mather previously served on the boards of Cheniere Energy, Inc., Conduent Incorporated, Freeport-McMoRan Inc., Herc Holdings Inc., Newell Brands, Inc., Federal-Mogul Holdings Corporation, Viskase Companies, Inc., American Railcar Industries, Inc., CVR Refining, LP, and CVR Energy, Inc.
+Mr. Mather holds the Chartered Alternative Investment Analyst, Chartered Financial Analyst and Certified Financial Risk Manager designations.ExperienceMr. Mather has a detailed knowledge of accounting and financial analysis, corporate strategy, risk governance, company capitalization structures and the capital markets.
+Additionally, Mr. Mather’s experience on public company boards in a variety of industries provides him with a broad understanding of the responsibilities of public company boards, governance matters and public relations issues applicable to public companies.
+8
+Colleen C. RepplierVice President and General Manager of Johnson Controls (Retired)64 years old Director since: 2019IndependentBiographical Information Colleen C. Repplier has been a director of Triumph since August 2019.
+Ms. Repplier retired in June 2018 as Vice President and General Manager of Johnson Controls (“JCI”), where she was responsible for a $4.5 billion global portfolio of HVAC businesses with 20,000 employees.
+She had previously been with Tyco International since 2007, holding the title of President of the fire protection products strategic business unit during that time and joined JCI in 2016 as a result of JCI’s purchase of Tyco.
+Prior to Tyco, Ms. Repplier held senior leadership positions at The Home Depot from 2005 to 2007.
+Prior to 2005, Ms. Repplier spent 20 years in the energy industry, holding engineering and marketing roles with Westinghouse Electric Company and Bechtel Corporation as well as progressing through commercial and general management assignments at General Electric.
+She has served as a director of Kimball Electronics since November 2014.
+She also served as a director of SKF Group from March 2018 until March 2023.Experience Ms. Repplier’s broad experience leading global industrial businesses is of significant value to the Company.
+Her engineering background and experience in operations, six-sigma methodologies, commercial strategy, and product and business optimization provide strong insights into improvement opportunities for the Company. In addition, her board experiences with Kimball Electronics and SKF Group greatly benefits the Company. Code of Business ConductOur Board has adopted a Code of Business Conduct that applies to each of our employees, officers and directors, including, but not limited to, our Chairman, President and Chief Executive Officer, Chief Financial Officer and Controller (principal accounting officer). The Code of Business Conduct is reviewed at least annually by the Nominating, Governance, and Sustainability Committee (the “Governance Committee”) and amended as the Board deems appropriate upon the recommendation of the Governance Committee.
+A copy of the Code of Business Conduct is posted on our website at www.triumphgroup.com under “Investor Relations—Corporate Governance” and is available in print to any stockholder upon request. Audit Committee and Audit Committee Financial ExpertThe Audit Committee of the Board of Directors (the "Audit Committee") consists of four independent directors and operates under a written charter adopted by the Board and reviewed by the Audit Committee and the Board.
+The Audit Committee consists of Mr. Allen, Ms. Egnotovich, Mr. Garton (Chair), and Mr. Mather.
+All Audit Committee members are financially literate.
+In addition, the Board has determined that each of Mr. Allen and Mr. Garton is an “audit committee financial expert” as defined under the rules of the SEC and that each member of the Audit Committee is independent as independence for audit committee members is defined in the listing standards of the New York Stock Exchange.Insider Trading PolicyWe have adopted an insider trading policy that governs purchases, sales, and/or other dispositions of the Company's securities by directors, officers and employees, that is reasonably designed to promote compliance with insider trading laws, rules and regulations, and any listing standards applicable to the Company.
+A copy of our insider trading policy is filed as Exhibit 19.1 to our Annual Report on Form 10-K for the year ended March 31, 2025.
+In addition, with regard to the Company’s trading in its own securities, it is the Company’s policy to comply with the federal securities laws and applicable listing standards.
+9
+Item 11.
+Executive CompensationCompensation Committee The Compensation Committee, currently consisting of Mr. Allen, Mr. Cherry, Ms. Humpton (Chair), and Ms. Repplier, met nine times during fiscal year 2025, and also acted 4 times by unanimous written consent.
+The Compensation Committee periodically reviews and evaluates the compensation of our officers and other members of senior management, administers the incentive plans under which the executive officers receive their compensation, establishes guidelines for compensation of other personnel, and oversees our management development and succession plans.
+The Compensation Committee also assists management in overseeing the Company's human capital programs. The Compensation Committee determines the compensation of the Chairman, President and Chief Executive Officer.
+The Compensation Committee also reviews and approves the compensation proposed by the Chairman, President and Chief Executive Officer to be awarded to Triumph’s other executive officers, as well as certain key senior officers of each of Triumph’s operating companies and divisions.
+The Chairman, President and Chief Executive Officer generally attends Compensation Committee meetings but does not attend executive sessions or any discussion of his own compensation.
+The Compensation Committee also considers the results of the most recent stockholder advisory vote on executive compensation in determining executive compensation.
+The Compensation Committee may delegate any of its responsibilities to one or more subcommittees consisting solely of one or more members of the Compensation Committee as it may deem appropriate, provided, that the Compensation Committee does not delegate any power or authority required by law, regulation, or listing standard to be exercised by the Compensation Committee as a whole.As further described in the CD&A, for fiscal year 2025, the Compensation Committee engaged a compensation consultant, Pay Governance LLC (“Pay Governance”), whose selection and fees were recommended and approved by the Compensation Committee, to assist the Compensation Committee and the Chairman, President and Chief Executive Officer in modifying the Company's peer group, reviewing select officer pay recommendations, providing recommendations for fiscal year 2025’s long-term incentive plan design, and assisting with the preparation of the CD&A.
+Pay Governance provided the Compensation Committee with specific recommendations on the compensation for Mr. Crowley and input on the compensation for the other named executive officers.As further described in the CD&A, in fiscal year 2025, the Company adopted a mandatory recoupment policy providing for clawback of incentive compensation in a manner consistent with the Dodd-Frank Act.
+In addition, the Company continues to maintain its discretionary recoupment policy.Compensation Committee Interlocks and Insider ParticipationNone of the members of the Compensation Committee is an officer or employee of the Company or any of its subsidiaries, nor were any of them an officer or employee of the Company or any of our subsidiaries during the fiscal year ended March 31, 2025. None of our executive officers served as a member of the compensation committee of another entity, one of whose executive officers served as one of our directors.Compensation Committee ReportThe Compensation Committee has reviewed and discussed the CD&A required by Item 402(b) of Regulation S-K with management and, based on such review and discussions, the Compensation Committee recommended to the Board that the CD&A be included in this Form 10-K/A.  Compensation CommitteeBarbara W. Humpton (Chair)Patrick E. AllenMark C. CherryColleen C. Repplier This report of the Compensation Committee shall not be deemed incorporated by reference by any general statement incorporating by reference this Form 10-K/A or any filing under the Securities Act or under the Exchange Act, except to the extent that Triumph specifically incorporates this information by reference, and shall not otherwise be deemed filed under the Securities Act and the Exchange Act and shall not be deemed soliciting material.
+10
+Director CompensationIn fiscal year 2025, each of the independent directors received a cash retainer in the amount of $85,000. Mr. Keating received a Lead Independent Director fee of $25,000.
+In addition, the Chair of the Audit Committee received a chair fee of $15,000, the Chair of the Compensation Committee received a chair fee of $12,500, the Chair of the Finance Committee received a chair fee of $10,000, and the Chair of the Governance Committee received a chair fee of $10,000.
+Each independent director also received an equity award in the form of restricted stock units with a grant date value of $140,000.
+The following table summarizes compensation we paid to non-employee directors for their service during fiscal year 2025 under the non-employee director compensation program.
+Name
+Fees Earnedor Paid inCash ($)(1)
+Stock Awards($)(2)
+Total ($)
+Patrick Allen
+$
+85,000
+$
+140,000
+$
+225,000
+Paul Bourgon
+30,027
+—
+30,027
+Mark C. Cherry
+54,973
+140,000
+194,973
+Cynthia M. Egnotovich
+95,000
+140,000
+235,000
+Daniel P. Garton
+100,000
+140,000
+240,000
+Barbara W. Humpton
+97,500
+140,000
+237,500
+Neal Keating
+110,000
+140,000
+250,000
+Courtney Mather
+63,750
+140,000
+203,750
+Colleen C. Repplier
+95,000
+140,000
+235,000
+(1)Mr. Bourgon's prorated fees were for his service on the Board from April 1, 2024 to August 8, 2024.
+Mr. Cherry's fees were prorated for his service on the Board beginning on August 8, 2024.
+Ms. Egnotovich's fees include a fee for her service as a Chair of the Nominating, Governance and Sustainability Committee throughout fiscal year 2025.
+Mr. Garton's fees include a fee for his service as Chair of the Audit Committee throughout fiscal year 2025.
+Ms. Humpton's fees include a fee for her service as Chair of the Human Capital and Compensation Committee throughout fiscal year 2025.
+Mr. Keating's fees include a fee for his services as Lead Independent Director throughout fiscal year 2025.
+Mr. Mather's fees include fees for the first three quarters of fiscal year 2025 and his fees for the fourth quarter of fiscal year 2025 were deferred until his separation from the Board pursuant to the terms of the Directors' Deferred Compensation Plan.
+Ms. Repplier's fees include a fee for her service as Chair of the Finance and Strategy Committee throughout fiscal year 2025.  (2)On August 8, 2024, each of Mr. Allen, Mr. Cherry, Ms. Egnotovich, Mr. Garton, Ms. Humpton, Mr. Keating, Mr. Mather, and Ms. Repplier received 10,324 restricted stock units, each unit representing the contingent right to receive one share of common stock.
+The closing price on the date of such grant was $13.56.
+Forfeiture restrictions lapse on the restricted stock units on August 8, 2025, unless earlier terminated or accelerated in accordance with the 2016 Directors’ Equity Compensation Plan, as amended (the "2016 Directors' Plan").
+Calculations are based on the closing price on the date of grant.
+As of March 31, 2025, each of Mr. Allen, Mr. Cherry, Ms. Egnotovich, Mr. Garton, Ms. Humpton, Mr. Keating, Mr. Mather, and Ms. Repplier held 10,324 outstanding and unvested restricted stock units. Compensation Discussion and Analysis IntroductionThis Compensation Discussion and Analysis (“CD&A”) provides detailed information about the compensation program for the Company’s named executive officers (“NEOs”).
+For our fiscal year 2025, which ended March 31, 2025 (“fiscal year 2025”), our NEOs are listed in the table below.
+Named Executive Officers
+Title
+Daniel J. Crowley
+Chairman, President and Chief Executive Officer (“CEO”)
+James F. McCabe
+Senior Vice President and Chief Financial Officer
+Jennifer H. Allen
+Senior Vice President, Chief Administrative Officer, General Counsel, and Secretary
+Thomas A. Quigley, III
+Vice President, Investor Relations, Mergers and Acquisitions, and Treasurer
+Kai W. Kasiguran
+Vice President and Controller
+For purposes of the CD&A, the terms “Committee” and “Compensation Committee” refer to the Human Capital and Compensation Committee of the Board.
+11
+The Process for Setting CompensationObjectives of Executive Compensation ProgramOur executive compensation program is intended to achieve several business objectives:•to provide fair and competitive compensation based on market data and driven primarily by performance-based targets;•to help us recruit and retain executives with the talent required to successfully manage and grow our business;•to enhance a long-term commitment to Triumph’s success by providing elements of compensation that align executives’ interests with those of our stockholders over multiple years;•to provide compensation that recognizes individual contributions as well as overall business results; and•to avoid or minimize the risks of incentivizing management behavior that is inconsistent with the interests of our stockholders. Determining Executive Compensation: Process and RolesThe following parties are responsible for the development and oversight of our executive compensation program for our NEOs:Compensation CommitteeThe Committee operates under a written charter approved by the Board and reviewed by the Committee annually.
+The charter provides that the Committee is accountable for:
+evaluating, adjusting, and approving executive compensation plans, policies and programs; considering matters relating to management evaluation, development and succession; and recommending individuals for appointment as officers.In structuring each element of compensation and the executive compensation package, the Committee strives to create incentives for management in accordance with the interests of our stockholders to drive long-term growth in the Company’s equity value.
+For fiscal year 2025, the Committee determined CEO compensation and the CEO recommended compensation for the other NEOs. The Committee then considered and approved compensation for the CEO and the other NEOs, taking into consideration the compensation factors described in this CD&A.Independent Compensation Consultant to the CommitteeThe Committee has the authority under its charter to retain independent consultants or advisors to assist it in gathering information and making decisions.
+The Committee has sought the advice of compensation consultants in the past to assist in developing appropriate incentives and in minimizing the risk that incentives will encourage inappropriate executive decisions and actions.
+Since August 2018, the Committee has retained Pay Governance, a nationally recognized independent executive compensation consultant, to provide advice on executive compensation matters.During fiscal year 2025, Pay Governance:
+(1) reviewed the Company’s peer group to provide recommendations to better align the size and business fit of the companies we use as a comparison; (2) analyzed the competitive levels of each element of compensation (i.e., base salary, target annual incentive, and long-term incentive) and total compensation for the NEOs relative to our peer group and industry standards; (3) aided in developing and implementing the fiscal year 2025 annual and long-term incentive plan designs; (4) assisted in the preparation of this CD&A; and (5) provided advice on a number of other executive compensation and related governance matters. In addition, Pay Governance attended and participated in Committee meetings, met with the Committee in executive sessions without our executive officers or other members of management present, met individually with the Committee Chair, and reviewed and commented on management’s presentations used to engage in conversations with the Committee.The Committee has analyzed whether the work of Pay Governance has raised any conflict of interest and has concluded that its work, including the individuals providing consulting services to the Committee, has not created any conflict of interest. The Committee also considered and confirmed the independence of legal advisors it retained during fiscal year 2025.ManagementManagement supports the Committee by making recommendations and providing analyses with respect to competitive pay practices and pay ranges, compensation and benefit plans, incentive goal setting, policies and procedures related to equity awards, perquisites, and general compensation and benefits philosophy.
+Senior human resources and legal executives attend Committee meetings to provide perspective and expertise relevant to the meeting agenda.
+Members of management do not recommend, determine, or participate in Committee discussions related to their individual compensation arrangements.
+The CEO provides executive compensation recommendations for his direct reports, including the other NEOs.
+These recommendations are based on analysis and guidance provided by the compensation consultant on behalf of the Committee and the CEO’s assessment of individual specific factors, including performance against key performance indicators.
+12
+Use of Market Data and Competitive Market Positioning
+Competitive AssessmentThe Committee reviews the Company’s performance and authorizes the salaries, incentive opportunities, and equity grants for the NEOs annually.
+As context for these decisions, the Committee reviews compensation practices and pay levels for the peer group of comparable companies as well as competitive survey data.The Peer Group and BenchmarkingThe Committee maintains a group of companies similar in size and industry in order to gauge marketplace compensation levels, program design, and practices.
+The Committee approved the fiscal year 2025 peer group of companies contained in the table below who have been selected based on the following criteria:•Industry (Aerospace & Defense and adjacent industries in which Triumph may compete for talent, economic capital or potential customers);•Comparability in size (as defined through revenue, market capitalization, and assets);•General business fit; and•Business complexity and scope of operations.The peer group companies are reviewed annually to confirm continued alignment with the selection criteria.
+The peer group used to determine fiscal year 2025 pay levels included the following 18 companies:
+Peer Group for Fiscal Year 2025
+AAR Corp.
+Ducommun Incorporated
+Materion Systems, Inc.
+Albany International Corporation
+Enpro, Inc.
+Mercury Systems, Inc
+Astronics Corporation
+ESCO Technologies Inc.
+Moog Inc.
+Barnes Group Inc.
+Hexcel Corporation
+Standex International Corporation
+Crane Co.
+Kaman Corporation
+TriMas Corporation
+Curtiss-Wright Corporation
+Kratos Defense & Security Solutions, Inc.
+Woodward, Inc.
+General Industry Survey DataTo supplement the peer group data, we also used the Willis Towers Watson General Industry Executive Compensation Survey Report to ensure that the Company’s compensation practices reflect broader industry practices and to match positions not available through the peer review analysis.
+We reviewed specific parts of the database that provided compensation from companies with comparable size and scope to Triumph.Executive Compensation Program Details Current Program OverviewThe following practices and policies ensure sound corporate governance and alignment of interests between stockholders and executives.
+13
+What We Do ✓ Pay for performance – A significant percentage of the total direct compensation package was at-risk and connected to performance objectives, including RSUs since their value depends on the stock price of the Company.✓ Establish rigorous performance goals – Pre-established goals for our performance-based incentive plans are carefully developed and calibrated through a rigorous process that involves the Board. ✓ Maintain stock ownership guidelines – We maintain stock ownership guidelines to further align our executives’ interests with those of our stockholders.
+Stock ownership guidelines are 6 times base salary for the CEO and 1 to 3 times base salary for other executive officers.✓ Use double-triggers for severance and vesting provisions – We require both a qualified change in control and qualifying termination of employment (“double trigger”) for the payment of cash severance and the acceleration of outstanding equity awards in the event of a change in control of the Company. ✓ Designate a Lead Independent Director – Designation of a Lead Independent Director ensures appropriate oversight of management. ✓ Engage an independent compensation consultant – The Committee engages an independent consultant to advise on executive compensation program design, practices, and related governance. Other than providing non-employee director compensation advice to the Governance Committee, the consultant does not provide any other services to the Company.✓ Clawback policy – We require recoupment of incentive awards in the event of a restatement of our financial statements as required by the SEC and NYSE listing standards for executive officers.
+In addition, the Company continues to maintain its discretionary recoupment policy that applies to all employees in the event of fraud or misconduct that leads to a financial adjustment irrespective of whether a restatement is required.  What We Don’t Do × No stock option grants with an exercise price less than the fair market value on the date of grant. × No excise tax gross ups are provided on a change in control termination. × No repricing or exchanging of stock options or other equity awards without stockholder approval. × No hedging of Company securities by directors or executive officers and pledging of Company securities is restricted. × No excessive perquisites.  Our compensation strategy is to assign a major portion of total executive compensation at risk in the form of annual incentives and long-term stock-based compensation programs.
+This principle is demonstrated by our performance-oriented AIP and our long-term incentive structure, which includes the use of RSUs (weighted at 30%) and PSUs (weighted at 70%). Each of these components is described separately below.In making decisions about compensation, the Committee closely reviews each separate component, as well as the full compensation package provided to each executive officer, including the NEOs. Pay MixThe actual annual incentive payout and payout on PSUs vary year-to-year with the Company’s performance. At target, the Committee intends for a large portion of our executives’ compensation to be performance-based and delivered through equity awards to help align the interests of our executives with those of our stockholders. Changes in Target Pay Levels For fiscal year 2025, the Committee approved targeted increases to compensation in recognition of individual performance for Mr. McCabe, Ms. Allen, and Mr. Kasiguran.
+Additionally, the Committee approved a lump sum merit payment for Mr. Quigley.
+14
+Executive Compensation Program OverviewSince the executive compensation program received strong support (94% of vote in favor) during the 2024 annual stockholders meeting, the Company used a plan for fiscal year 2025 compensation elements that closely resembled the structure of the fiscal year 2024 plan.Base Salaries We initially set base salary for each NEO by evaluating the responsibilities of the position and the experience of the individual. In doing so, we consider the compensation marketplace for executive talent.
+We determine annual salary adjustments by evaluating the performance of the Company and of each NEO, considering changes in responsibilities.
+For fiscal year 2025, the Committee approved merit increases for Mr. McCabe, Ms. Allen, and Mr. Kasiguran to better align with the market.
+The Committee also approved a lump sum merit payment for Mr. Quigley to reflect his strong performance. Annual Incentive CompensationIn accordance with the annual cash bonus plan, the Committee establishes target incentive awards as a percentage of salary for each NEO.
+The incentive opportunities are meant to provide our executives with the potential for a target or maximum level reward only if our pre-established performance objectives are met or exceeded.
+Each NEO has the opportunity to earn up to 200% of target if challenging maximum goals are achieved and zero payout if minimum threshold goals are not reached. Performance goals for fiscal year 2025 were based on EBITDAP, free cash flow, and strategic measures as shown below.  Fiscal Year 2025 AIP Structure, Metrics and Weightings   The annual cash bonus award target percentages were established by the Committee for Mr. Crowley.
+The CEO provides the Committee with recommendations for the other NEOs, and based on the recommendations of the CEO, the Committee considers and approves such officers’ compensation.
+These target bonus amounts consider each executive’s compensation level and individual performance results.
+They are meant to balance fixed compensation and compensation at risk, taking into consideration the position’s significance and the executive’s record of performance against Company objectives were as follows.As with base salary increases, the Committee carefully considered the results of the competitive benchmarking in setting target opportunities for fiscal year 2025 for the NEOs.
+Fiscal Year 2025 AIP Performance Achievements and Payouts In fiscal year 2025, for the AIP, the Committee established threshold, target, and maximum performance goals for Adjusted EBITDAP ("AIP Adjusted EBITDAP") and free cash flow ("AIP Free Cash Flow") (as depicted below).
+Fiscal year 2025 goals for AIP Adjusted EBITDAP and AIP Free Cash Flow were set to align with the operating plan approved by the Board.
+Payouts for actual AIP Adjusted EBITDAP and AIP Free Cash Flow results are determined using linear interpolation among the Threshold, Target, and Maximum levels described below.
+AIP AdjustedEBITDAP (in millions)
+AIP Free CashFlow
+Achievement
+$215
+$33
+Threshold
+$180
+$10
+Target
+$193
+$25
+Maximum
+$221
+$50
+15
+The Company achieved $215 million in non-GAAP AIP Adjusted EBITDAP.
+This outcome was applied when determining the NEOs’ bonus payouts.
+The Company also achieved AIP Free Cash Flow of $33 million in part through disciplined expense management during the fiscal year, as well as improved business conditions during the fiscal year.Performance levels for both metrics reflect adjustments consistent with the performance goals determination under the 2018 Executive Cash Incentive Compensation Plan, including adjustments to EBITDAP that result in a difference to reported operating income under GAAP.
+See Appendix A for a reconciliation of income (loss) from continuing operations (a GAAP metric) to Adjusted EBITDAP and AIP Adjusted EBITDAP (non-GAAP metrics) and cash flow provided by (used in) operations (a GAAP metric) to free cash flow and AIP free cash flow (non-GAAP metrics).
+Strategic Objective
+Results
+Achievement
+Achieve Sustainability Metrics (5.0% weighting)
+Combined annual and sustainability report was completed, including data download and establishment of sustainability goals, which were incorporated into the Company's performance management process.
+6.0%(interpolated between target and maximum)
+Improve Inventory Turns (5.0% weighting)
+Inventory turns achieved below threshold of March 31, 2025.
+0.0% (below threshold)
+Reduce Quality Notice of Escapes (5.0% weighting)
+Notice of Escapes achieved above maximum.
+10.0%
+Achieve Growth Initiatives (5.0% weighting)
+Reportable backlog less past due achieved above threshold as of March 31, 2025.
+4.1% (interpolated between threshold and target)
+Based on achievement of strategic goals at 133% of target and achievement levels against financial performance metrics, a payout of 145% of target was earned for the fiscal year.
+Financial Results ($MM)
+Annual Cash Bonus Payout
+Performance Measures
+AdjustedTarget
+Actual
+Achievement(Payout Factor)
+MetricWeight
+WeightedTotal
+AIP Adjusted EBITDAP (1)
+$193
+$215
+179.0%
+40%
+71.6%
+AIP Free Cash Flow (1)
+$25
+$33
+133.0%
+40%
+53.2%
+Strategic Goals
+100.0%
+20%
+20.0%
+TOTAL
+145%
+(1)Represents a non-GAAP metric.
+See Appendix A for a reconciliation of consolidated income (loss) from continuing operations (GAAP) to AIP Adjusted EBITDAP (non-GAAP) and consolidated cash flow provided by (used in) operations (GAAP) to AIP Free Cash Flow (non-GAAP).   Cash awards paid to our NEOs under the fiscal year 2025 AIP were as follows:
+NEOs
+Fiscal Year 2025Incentive AdjustedCalculated Payout
+Fiscal Year 2025Payout as a % ofTarget Bonus(1)
+Daniel J. Crowley
+$
+1,943,906
+181.0%
+James F. McCabe
+$
+1,138,500
+200.0%
+Jennifer H. Allen
+$
+763,876
+200.0%
+Thomas A. Quigley, III
+$
+382,278
+189.0%
+Kai W. Kasiguran
+$
+215,795
+174.0%
+(1)
+For Mr. Crowley, the payout was subject to an individual performance modifier of 125% in recognition of the significant operational improvements made by the Company in fiscal year 2025, resulting in a payout at 181% of target.
+For Mr. McCabe, the payout was subject to an individual performance modifier of 140% in light of his impact in improving the Company’s financial performance in fiscal year 2025, resulting in a payout at 200% of target.
+For Ms. Allen, the payout was subject to an individual performance modifier of 140% due to her impact in advancing the announced sale of the Company, resulting in a payout at 200% of target.
+For Mr. Quigley, the payout was subject to an individual performance modifier of 130% due to his impact in advancing the announced
+16
+sale of the Company, resulting in a payout at 189% of target.
+For Mr. Kasiguran, the payout was subject to an individual performance modifier of 120% in recognition of his role in completing accounting activities associated with the divestiture of the Company’s aftermarket product support business and his support for the announced sale of the Company, resulting in a payout of 174% of target.Long-Term Incentive Compensation  LTI compensation consists of grants of time vesting and performance-based equity awards, represents a significant proportion of executive compensation at Triumph and is designed to align management’s interests with that of our stockholders.
+The Committee determines the size of any grant made to our CEO and approves the amounts of the grants made to the other NEOs based upon the CEO’s recommendations. Annual grants of LTI compensation are typically made in the spring following the Committee’s meeting held in conjunction with the first meeting of our Board in the fiscal year.
+The grant values are based on the closing price of the stock on the date of grant and the number of stock units subject to the award.   Fiscal Year 2025 Annual Long-Term Incentive Compensation Awards    RSUs granted in fiscal year 2025 vest ratably over three years and represent 30% of each executive's LTI value.
+PSUs granted in fiscal year 2025 vest at the end of the three-year period and represent 70% of each executive's LTI value.
+At the end of the three-year period, the base PSU payout amount is calculated using 20% weighting on EBITDAP % of Sales in fiscal year 2025, 20% weighting on EBITDAP % of Sales in fiscal year 2026, 20% weighting on EBITDAP % of Sales in fiscal year 2027, and 40% weighting on Compound EBITDAP Growth Rate over the three-year period of fiscal year 2025 through fiscal year 2027.
+See Appendix A for a reconciliation of GAAP and adjusted, non-GAAP EBITDAP, and a description of the adjustments to non-GAAP free cash flow.To ensure alignment between executive payouts and stockholder returns, the base PSU calculation is then subject to a modification based on Triumph's absolute total shareholder return ("TSR").
+If the compound annual growth rate ("CAGR") of our TSR over the three-year period is less than 18.50%, the base PSU payout will be multiplied by 0.40, if the CAGR over the three-year period is 18.50% or higher but less than 24.70%, the base PSU payout will be multiplied by 1.00, if the CAGR over the three-year period is 24.70% or higher but less than 30.80%, the base PSU payout will be multiplied by 1.25, and if the CAGR over the three-year period is 30.80% or higher, the base PSU calculation will be multiplied by 1.50. The Committee sets the target LTI opportunities for our NEOs on an annual basis.
+The Committee puts greater weight on the long-term incentive opportunity to focus management on the overall sustained performance of the Company. Fiscal Year 2025 Long-Term Incentive Compensation Awards In June of 2022, the Committee granted LTI awards that included grants of PSUs for the performance period fiscal years 2023 through 2025.
+Payouts were calculated based on performance versus two financial metrics and an absolute TSR modifier as illustrated in the table below.
+The Committee approved a payout under this plan of 86% of target representing above target performance (111.6% of target) under the financial metrics adjusted down by 77% due to absolute stock price performance over the
+17
+three-year period.
+The EBITDAP Margin performance described below includes Adjusted EBITDAP and margin from the Company's aftermarket product support business divested in March of 2024.   Deferred Compensation We offer all our executives the opportunity to defer all or any part of their bonus for any year, to be paid out after termination.
+We believe that our deferred compensation practice is consistent with competitive practices in our industry.
+In fiscal year 2025, none of our NEOs participated in the Company’s deferred compensation arrangements. Perquisites We provide certain of our NEOs with other benefits, reflected in the “All Other Compensation” column in the Summary Compensation Table below. We believe additional benefits are reasonable, competitive, and consistent with Triumph’s overall executive compensation program.
+The costs of these benefits constitute only a small percentage of each executive’s total compensation. Included among the benefits are personal use of the Company plane (valued based on the incremental cost to Triumph for fuel, landing fees and other variable costs of operating the airplane, but not including fixed costs that do not change based on usage, such as pilots’ salaries, depreciation of the purchase cost of the aircraft and the cost of general maintenance), and reimbursement of fees for financial planning services.
+See “All Other Compensation” in the Summary Compensation Table of this Form 10-K/A for a description of the value of the perquisites paid to the NEOs in fiscal year 2025.  Compensation Results: Payouts Reflect Corporate PerformanceThe Committee considers a mix of cash and equity awards over both the short-term and long-term as a critical balance in emphasizing Triumph’s commitment to performance alignment.
+This strong pay-for-performance alignment is clearly reflected in amounts earned by our NEOs based on the achievement of metrics established by the Committee under the AIP and LTI plans.The following table illustrates how our performance has affected the actual and interim payouts of our AIP and LTI incentives based on our closing stock price of $25.34 on March 31, 2025, the final trading day of our fiscal year.
+Based on our actual and interim performance versus goals, the total realizable compensation for our CEO over the past three fiscal years is 177% of target, when including base salary earned over the period.The average annual AIP payout over the last three fiscal years for our CEO is 139% of target. RSUs granted over the three-year period have a realizable value of 203% of grant value.
+Annual PSUs granted over the three-year period have a realizable value of 209% of grant value (interim performance for fiscal year 2024-fiscal year 2026 is trending at 138% of target and interim performance for fiscal year 2025-fiscal year 2027 is trending at 114% of target).
+18
+Three-Year (Fiscal Year 2023 – Fiscal Year 2025) Aggregate CEO Compensation (in millions) The realizable value of our incentives are as follows:
+Realizable Value as a % of Target
+Chief Executive Officer – Mr. Crowley
+FY23
+FY24
+FY25
+Annual Cash Incentive (1)
+130%
+107%
+181%
+Annual Restricted Stock Units (RSUs) (2)
+189%
+238%
+181%
+Annual Performance Share Units (PSUs) (3)
+137%
+297%
+201%
+(1)
+Annual cash incentive indicates the percentage of the target award earned under our AIP.
+(2)
+Annual RSUs indicates the market value on March 31, 2025 of the shares (vested and unvested) underlying the RSUs as a percentage of the market value on the grant date.
+(3)
+Annual PSUs indicates the market value on March 31, 2025 of the shares (vested and unvested) underlying the PSUs as a percentage of the grant date fair value based on actual performance for competed performance periods and target performance for incomplete performance periods.
+19
+Other Compensation Matters Employment Agreements and Severance Benefits On February 19, 2019, the Compensation Committee approved the Triumph Group, Inc. Executive Change in Control Severance Plan, applicable in the event of a termination of employment without cause or for good reason that occurs within the period beginning six (6) months prior to and ending twenty-four (24) months after a change in control, and the Triumph Group, Inc. General Severance Plan, applicable in the event of a termination of employment without cause or for good reason unrelated to a change in control.
+Further information about the severance plans and the benefits payable thereunder can be found below. In November of 2020, the Company entered into a new employment agreement with Mr. Crowley and in May of 2023, the Company entered into employment agreements with Mr. McCabe, Ms. Allen, Mr. Quigley, and Mr. Kasiguran.
+Further information about these agreements can be found below.
+Pursuant to their respective employment agreements, our NEOs are eligible to receive severance payments and benefits under the Triumph Group, Inc. General Severance Plan and the Triumph Group, Inc. Executive Change in Control Severance Plan, as applicable. Retention AgreementsOn November 11, 2024, our Human Capital and Compensation Committee authorized entry into retention agreements with Mr. McCabe, Ms. Allen, Mr. Quigley, and Mr. Kasiguran pursuant to which the executives are eligible to receive a retention bonus equal to 1.0 times their annual base salary.
+Further information about these agreements can be found below.Management Stock Ownership GuidelinesTo further align the interests of its senior executives with the interests of the stockholders, the Company has adopted stock ownership guidelines for its senior executives.
+These guidelines establish an expectation that each senior executive will meet the minimum level of Company stock ownership applicable to such senior executive.
+The ownership target is expressed as a multiple of base salary.
+There are four (4) tiers within senior management covered by the guidelines.
+For the CEO, the multiple is six (6). For the Chief Financial Officer, the multiple is three (3).
+For other senior vice presidents, the multiple is two (2) and for vice presidents and operating company presidents, the multiple is one (1).
+In addition, the guidelines impose an expectation that 50% of common stock acquired at the time of earning and vesting, and/or lapse of forfeiture restrictions for restricted share and restricted stock unit awards under the Company’s equity incentive plans, on an after-tax basis, will be held by the executive until such time as the foregoing minimum thresholds are satisfied.
+For purposes of the guidelines, the following categories of equity count toward satisfaction of the thresholds included in the guidelines:
+shares owned outright by an individual (including any shares owned by an immediate family member of such individual or trust established by such individual) and unvested time-based restricted stock units.
+Unvested or unearned performance share units do not count toward satisfaction of the thresholds included in the guidelines.
+A review is conducted by our Governance Committee to assess compliance with the guidelines.
+As of March 31, 2025, all of our NEOs met their applicable ownership guidelines except Mr. Kasiguran, who is newer to his role.Anti-Hedging and Pledging Policy We believe that the issuance of incentive and compensatory equity awards to our officers and directors, including non-employee directors, along with our stock ownership guidelines, helps to align the interests of such officers and directors with our stockholders.
+As part of our insider trading policy, we prohibit any officers and directors from engaging in hedging activities with respect to any owned shares or outstanding equity awards.
+The policy also discourages pledges of any Company securities by officers and directors and requires Company notice and approval.
+None of our officers and directors pledged any shares of Company stock during fiscal year 2025.
+20
+Executive Compensation Tables ► Summary Compensation Table The following table summarizes the total compensation paid to our NEOs for each of the last three fiscal years ended March 31, 2025.
+Name and Principal Position
+FiscalYear
+Salary($) (1)
+Bonus($) (5)
+StockAwards($) (2)
+OptionAwards($)
+Non-equityIncentivePlanCompensation($) (3)
+All OtherCompensation($) (4)
+Total ($)
+Daniel J. Crowley
+2025
+975,000
+—
+3,412,504
+—
+1,943,906
+64,111
+6,395,522
+Chairman, President and Chief
+2024
+975,000
+—
+3,412,503
+—
+1,147,575
+70,979
+5,606,057
+Executive Officer
+2023
+975,000
+—
+3,510,001
+—
+1,394,250
+49,021
+5,928,272
+James F. McCabe
+2025
+562,587
+—
+1,024,650
+—
+1,138,500
+45,015
+2,770,752
+Senior Vice President
+2024
+550,000
+—
+935,001
+—
+676,775
+31,614
+2,193,390
+and Chief Financial Officer
+2023
+550,000
+—
+990,003
+—
+715,000
+42,391
+2,297,394
+Jennifer H. Allen
+2025
+500,856
+—
+738,410
+—
+763,876
+25,469
+2,028,611
+Chief Administrative Officer
+2024
+485,000
+—
+703,251
+—
+486,516
+14,004
+1,688,771
+General Counsel and Secretary
+2023
+480,962
+—
+751,755
+—
+472,875
+19,737
+1,725,328
+Thomas A. Quigley, III
+2025
+338,000
+10,000
+202,808
+—
+382,278
+17,355
+950,441
+Vice President
+2024
+338,000
+—
+202,798
+—
+216,996
+16,680
+774,474
+Investor Relations, M&A, and Treasurer
+2023
+322,619
+—
+215,351
+—
+253,451
+15,993
+807,414
+Kai W. Kasiguran
+2025
+271,931
+—
+137,801
+—
+215,795
+17,103
+642,630
+Vice President and
+2024
+263,269
+—
+132,500
+—
+113,420
+16,559
+525,748
+Controller
+2023
+223,618
+—
+29,324
+—
+106,870
+14,597
+374,409
+(1)Reflects salary earned during the fiscal year.(2)The “Stock Awards” column reflects, for each fiscal year, the grant date fair value for: (a) all annual RSUs granted to the NEOs under the 2018 Plan; and (b) all annual performance share units, or PSUs, awarded to the NEOs under the 2018 Plan represented at target for each fiscal year.
+If the maximum level of performance had been assumed, the grant date fair value of the PSUs would have been (i) $14,957,904 for Mr. Crowley, (ii) $4,303,039 for Mr. McCabe, (iii) $3,162,793 for Ms. Allen, (iv) $888,940 for Mr. Quigley, and (v) $592,882 for Mr. Kasiguran.
+These amounts are determined in accordance with Accounting Standards Codification 718 without regard to any estimate of forfeiture for service-based vesting.
+The assumptions used in calculating the fair market value are set forth in Note 16, “Stock Compensation Plans” contained in the Notes to the Consolidated Financial Statements in the Company’s Annual Report on Form 10-K, for the fiscal year ended March 31, 2025.
+For more information, see the discussion of these awards in the CD&A of this Form 10-K/A.
+The awards made in fiscal year 2025 were:
+Named Executive Officer
+Type of Award
+No. ofUnderlyingShares
+Value ($)
+Daniel J. Crowley
+RSUs
+73,230
+1,023,755
+PSUs (a)
+170,869
+2,457,096
+James F. McCabe
+RSUs
+21,988
+307,392
+PSUs (a)
+51,306
+737,780
+Jennifer H. Allen
+RSUs
+15,846
+221,527
+PSUs (a)
+36,973
+531,672
+Thomas A. Quigley, III
+RSUs
+4,352
+60,841
+PSUs (a)
+10,155
+146,029
+Kai W. Kasiguran
+RSUs
+2,957
+41,339
+PSUs (a)
+6,900
+99,222
+(a)Represents number of PSUs for the awards made in fiscal year 2025.
+The PSUs will be earned and paid out only (i) upon achievement, if any, of the established performance goals or (ii) upon a change in control of the Company if (a) the surviving entity does not assume or substitute the PSUs or (b) the surviving entity assumes or substitutes the PSUs but the awardee's employment is terminated without cause or the awardee resigns for good reason within two years after the effective date of the change in control.. (3)Represents bonuses earned for the fiscal year identified under Triumph’s AIP. For a discussion of the fiscal year 2025 AIP payouts, please see the CD&A above.  (4)For all of the NEOs, for fiscal year 2025, All Other Compensation includes (i) income imputed to the NEO under Triumph’s group term life insurancepolicy ($7,524 for Mr. Crowley, $3,564 for Mr. McCabe, $966 for Ms. Allen, $630 for Mr. Quigley, and $378 for Mr. Kasiguran), (ii) wellness credit available under Triumph’s health plan ($1,200) with the exception of Mr. Crowley ($600), (iii) financial planning services for Mr. Crowley ($15,760), for
+Mr. McCabe ($12,605), and for Ms. Allen ($12,349),
+and (iv) 401k company match ($15,525 for Mr. Crowley, $15,525, for Mr. McCabe, $10,954, for Ms. Allen, $15,525, for Mr. Quigley, and $15,525 for Mr. Kasiguran), For Mr. Crowley, for fiscal year 2025, All Other Compensation also includes personal use of Triumph’s airplane ($24,702). For Mr. McCabe, for fiscal year 2025, All Other Compensation also includes personal use of Triumph's airplane ($12,121).
+21
+Named Executive Officer
+Personal Use of Aircraft
+Wellness Credit
+Financial Planning
+401K Match
+Group Term Life
+Daniel J. Crowley
+$
+24,702
+$
+600
+$
+15,760
+$
+15,525
+$
+7,524
+James F. McCabe
+$
+12,121
+$
+1,200
+$
+12,605
+$
+15,525
+$
+3,564
+Jennifer H. Allen
+$
+1,200
+$
+12,349
+$
+10,954
+$
+966
+Thomas A. Quigley, III
+$
+1,200
+$
+15,525
+$
+630
+Kai W. Kasiguran
+$
+1,200
+$
+15,525
+$
+378
+(5)Represents a lump sum merit payment paid to Mr. Quigley during fiscal year 2025.   ► Grants of Plan-Based Awards The following table lists, for each of the NEOs, information about plan-based awards granted during fiscal year 2025.
+Estimated Possible PayoutsUnder Non-Equity Incentive PlanAwards ($) (1)
+Estimated Future PayoutsUnder Equity Incentive PlanAwards:
+Number of Shares
+All OtherStockAwards:Number ofShares of
+All OtherOptionAwards:Number ofSecurities
+Grant DateFair Valueof Stockand
+Name
+Grant Date
+Threshold($)
+Target($)
+Maximum($)
+Threshold(#)
+Target(#)
+Maximum(#)
+Stocksor Units(#) (2)
+UnderlyingOptions(#)
+OptionAwards($) (3)
+Daniel J. Crowley
+5/24/2024
+$536,250
+$1,072,500
+$2,145,000
+—
+—
+—
+—
+—
+—
+5/24/2024
+—
+—
+—
+85,435
+170,869
+512,607
+—
+—
+$2,457,096
+5/24/2024
+—
+—
+—
+—
+—
+—
+73,230
+—
+$1,023,755
+James F. McCabe
+5/24/2024
+$284,625
+$569,250
+$1,138,500
+—
+—
+—
+—
+—
+—
+5/24/2024
+—
+—
+—
+25,653
+51,306
+153,918
+—
+—
+$737,780
+5/24/2024
+—
+—
+—
+—
+—
+—
+21,988
+—
+$307,392
+11/25/2024 (4)
+569,250
+Jennifer H. Allen
+5/24/2024
+$190,969
+$381,938
+$763,875
+—
+—
+—
+—
+—
+—
+5/24/2024
+—
+—
+—
+18,487
+36,973
+110,919
+—
+—
+$531,672
+5/24/2024
+—
+—
+—
+—
+—
+—
+15,846
+—
+$221,527
+11/25/2024 (4)
+509,250
+Thomas A. Quigley, III
+5/24/2024
+$101,400
+$202,800
+$405,600
+—
+—
+—
+—
+—
+—
+5/24/2024
+—
+—
+—
+5,078
+10,155
+30,465
+—
+—
+$146,029
+5/24/2024
+—
+—
+—
+—
+—
+—
+4,352
+—
+$60,841
+11/25/2024 (4)
+338,000
+Kai W. Kasiguran
+5/24/2024
+$62,010
+$124,020
+$248,040
+—
+—
+—
+—
+—
+—
+5/24/2024
+—
+—
+—
+3,450
+6,900
+20,700
+—
+—
+$99,222
+5/24/2024
+—
+2,957
+$41,339
+11/25/2024 (4)
+—
+275,600
+—
+—
+—
+—
+—
+—
+$—
+(1)See the CD&A above for a discussion of these AIP payouts. (2)Represents RSUs. (3)These amounts are determined in accordance with Accounting Standards Codification 718 without regard to any estimate of forfeiture for service vesting.
+The assumptions used in calculating the fair market value are set forth in Note 16, “Stock Compensation Plans” contained in the Notes to the Consolidated Financial Statements in the Company’s Annual Report on Form 10-K, for the fiscal year ended March 31, 2025. (4)See CD&A above and Potential Payments upon Termination of Employment or Change of Control section below for discussion on these retention agreements. ► Option Exercises and Stock Vested The following table sets forth information concerning stock vested for each of the NEOs during the fiscal year ended March 31, 2025. No stock options were exercised during fiscal year 2025.
+Stock Awards
+Name
+Number ofShares Acquiredon Vesting (#)
+Value Realizedon Vesting($)
+(1)
+Daniel J. Crowley
+205,545
+$
+2,800,314
+James F. McCabe
+73,362
+$
+996,677
+Jennifer H. Allen
+53,515
+$
+727,334
+Thomas A. Quigley, III
+11,024
+$
+150,458
+Kai W. Kasiguran
+2,085
+$
+28,898
+(1)Value realized reflects (i) the closing price per share of our common stock on the vesting day or day prior to the vesting day if the vesting day occurs on a non-trading day, multiplied by (ii) the number of RSUs and/or PSUs that vested..
+22
+Outstanding Equity Awards at Fiscal Year-End The following table sets forth information concerning outstanding equity awards for each of the NEOs at March 31, 2025.
+Option Awards
+Stock Awards
+Name
+Number ofSecuritiesUnderlyingUnexercisedOptionsExercisable(#)
+Number ofSecuritiesUnderlyingUnexercisedOptionsUnexercisable(#)
+OptionExercisePrice($)
+OptionExpirationDate
+Number ofShares orUnits ofStock ThatHave NotVested(#) (1)
+MarketValue ofShares orUnits ofStock ThatHave NotVested($) (1)(2)
+EquityIncentivePlanAwards:Number ofUnearnedShares,Units orOtherRightsThat HaveNot Vested(#) (3)
+EquityIncentivePlanAwards:Market orPayoutValue ofUnearnedShares,Units orOtherRights NotVested($) (2)
+Daniel J. Crowley
+150,000
+—
+$
+30.86
+4/1/2026
+26,215
+(4)
+$
+664,288
+224,507
+(7)
+$
+5,689,007
+64,145
+(5)
+$
+1,625,434
+170,869
+(8)
+$
+4,329,820
+73,230
+(6)
+$
+1,855,648
+James F. McCabe
+—
+—
+—
+—
+7,395
+(4)
+$
+187,389
+61,513
+(7)
+$
+1,558,739
+17,576
+(5)
+$
+445,376
+51,306
+(8)
+$
+1,300,094
+21,988
+(6)
+$
+557,176
+Jennifer H. Allen
+—
+—
+—
+—
+5,615
+(4)
+$
+142,284
+46,266
+(7)
+$
+1,172,380
+13,220
+(5)
+$
+334,995
+36,973
+(8)
+$
+936,896
+15,846
+(6)
+$
+401,538
+Thomas A. Quigley III
+—
+—
+—
+—
+1,609
+(4)
+$
+40,772
+13,342
+(7)
+$
+338,086
+3,812
+(5)
+$
+96,596
+10,155
+(8)
+$
+257,328
+4,352
+(6)
+$
+110,280
+Kai W. Kasiguran
+—
+—
+—
+—
+292
+(4)
+$
+7,399
+8,717
+(7)
+$
+220,889
+2,491
+(5)
+$
+63,122
+6,900
+(8)
+$
+174,846
+2,957
+(6)
+$
+74,930
+260,743
+6,607,228
+630,548
+15,978,086
+(1)Represents RSUs granted in fiscal years 2023, 2024, and 2025. (2)Based on the closing price of the Company’s common stock on March 31, 2025 of $25.34 per share. (3)Represents PSUs granted in fiscal years 2024 and 2025. The PSUs are subject to three-year performance period and are valued at maximum.(4)Consists of RSUs that vest June 13, 2025, generally subject to continued service through the vesting date.(5)Consists of RSUs that vest April 27, 2025 and April 27, 2026, generally subject to continued service through the applicable vesting dates.(6)Consists of RSUs that vest May 24, 2025, May 24, 2026, and May 24, 2027, generally subject to continued service through the applicable vesting dates.(7)Consists of PSUs that will vest or be forfeited based on the attainment of the applicable three-year performance metrics ending on March 31, 2026.(8)Consists of PSUs that will vest or be forfeited based on the attainment of the applicable three-year performance metrics ending on March 31, 2027.
+23
+Nonqualified Deferred Compensation We offer all our executives the opportunity to defer all or any part of their bonus for any year.
+During the deferral period, the deferred amounts are credited interest at the 10-year U.S. Treasury rate plus 2%.
+The amount is payable following the executive’s termination of employment, in one to five annual increments, at the executive’s election, except that, if the executive dies, the aggregate balance deferred at the time of his or her death is payable to his or her beneficiaries.
+None of the NEOs participated in the deferral opportunity in fiscal year 2025.  Employment Agreements The Company has entered into an employment arrangement with each of the NEOs.Mr. Crowley’s Employment Agreement. Effective November 18, 2020, simultaneously with his appointment as Chairman of the Company, the Company entered into an employment agreement with Mr. Crowley.
+The employment agreement had a five-year term and memorialized the terms and conditions agreed upon between Mr. Crowley and the Company in connection with Mr. Crowley’s continued service to the Company.
+Mr. Crowley was eligible to participate in the Company’s annual short-term incentive bonus program, with a target bonus opportunity for fiscal year 2021 equal to 110% of base salary.
+The actual amount of the annual bonus was to be determined by the Compensation Committee based on plan design and personal achievement of pre-established performance goals.
+Mr. Crowley was eligible for an annual long-term incentive in a combination of time-based and performance-based restricted stock units with a target date grant value of 350% of base salary.
+Mr. Crowley also was eligible to participate in the Company’s employee benefit plans that are generally applicable to the Company’s senior executives.
+Mr. Crowley's base salary, target bonus, and long-term incentive target for fiscal year 2025, as approved by the Compensation Committee, are described in the CD&A section of this Form 10-K/A.The employment agreement also contains various restrictive covenants applicable to Mr. Crowley, including non-competition and employee and customer non-solicitation restrictions that apply for one year following a termination of Mr. Crowley’s employment for any reason. Mr. McCabe’s Employment Agreement. Effective May 30, 2023, the Company entered into an employment agreement with Mr. McCabe.
+The employment agreement had a three-year term and memorialized the terms and conditions agreed upon between Mr. McCabe and the Company in connection with Mr. McCabe’s continued service to the Company.
+Mr. McCabe was eligible to participate in the Company’s annual short-term incentive bonus program, with a target bonus opportunity for fiscal year 2024 equal to 100% of base salary. The actual amount of the annual bonus was to be determined by the Compensation Committee based on plan design and personal achievement of pre-established performance goals.
+Mr. McCabe was eligible for an annual long-term incentive in a combination of time-based and performance-based restricted stock units with a target date grant value of 170% of base salary.
+Mr. McCabe also was eligible to participate in the Company’s employee benefit plans that are generally applicable to the Company’s senior executives.
+Mr. McCabe's base salary, target bonus, and long-term incentive target for fiscal year 2025, as approved by the Compensation Committee, are described in the CD&A section of this Form 10-K/A. The employment agreement also contains various restrictive covenants applicable to Mr. McCabe, including non-competition and employee and customer non-solicitation restrictions that apply for one year following a termination of Mr. McCabe’s employment for any reason. Ms. Allen’s Employment Agreement. Effective May 30, 2023, the Company entered into an employment agreement with Ms. Allen.
+The employment agreement had a three-year term and memorialized the terms and conditions agreed upon between Ms. Allen and the Company in connection with Ms. Allen’s continued service to the Company.
+Ms. Allen was eligible to participate in the Company’s annual short-term incentive bonus program, with a target bonus opportunity for fiscal year 2024 equal to 75% of base salary. The actual amount of the annual bonus was to be determined by the Compensation Committee based on plan design and personal achievement of pre-established performance goals.
+Ms. Allen was eligible for an annual long-term incentive in a combination of time-based and performance-based restricted stock units with a target date grant value of 130% of base salary.
+Ms. Allen also was eligible to participate in the Company’s employee benefit plans that are generally applicable to the Company’s senior executives.
+Ms. Allen's base salary, target bonus, and long-term incentive target for fiscal year 2025, as approved by the Compensation Committee, are described in the CD&A section of this Form 10-K/A. The employment agreement also contains various restrictive covenants applicable to Ms. Allen, including non-competition and employee and customer non-solicitation restrictions that apply for one year following a termination of Ms. Allen’s employment for any reason. Mr. Quigley’s Employment Agreement.
+Effective May 30, 2023, the Company entered into an employment agreement with Mr. Quigley.
+The employment agreement had a three-year term and memorialized the terms and conditions agreed upon between Mr. Quigley and the Company in connection with Mr. Quigley’s continued service to the Company.
+Mr. Quigley was eligible to participate in the Company’s annual short-term incentive bonus program, with a target bonus opportunity for fiscal year 2024 equal to 60% of
+24
+base salary.
+The actual amount of the annual bonus was to be determined by the Compensation Committee based on plan design and personal achievement of pre-established performance goals.
+Mr. Quigley was eligible for an annual long-term incentive in a combination of time-based and performance-based restricted stock units with a target date grant value of 60% of base salary.
+Mr.
+Quigley also was eligible to participate in the Company’s employee benefit plans that are generally applicable to the Company’s senior executives.
+Mr. Quigley's base salary, target bonus, and long-term incentive target for fiscal year 2025, as approved by the Compensation Committee, are described in the CD&A section of this Form 10-K/A. The employment agreement also contains various restrictive covenants applicable to Mr. Quigley, including non-competition and employee and customer non-solicitation restrictions that apply for one year following a termination of Mr. Quigley's employment for any reason. Mr. Kasiguran’s Employment Agreement.
+Effective May 30, 2023, the Company entered into an employment agreement with Mr. Kasiguran.
+The employment agreement had a three-year term and memorialized the terms and conditions agreed upon between Mr. Kasiguran and the Company in connection with Mr. Kasiguran’s continued service to the Company.
+Mr. Kasiguran was eligible to participate in the Company’s annual short-term incentive bonus program, with a target bonus opportunity for fiscal year 2024 equal to 40% of base salary.
+The actual amount of the annual bonus was to be determined by the Compensation Committee based on plan design and personal achievement of pre-established performance goals.
+Mr. Kasiguran was eligible for an annual long-term incentive in a combination of time-based and performance-based restricted stock units with a target date grant value of 50% of base salary.
+Mr. Kasiguran also was eligible to participate in the Company’s employee benefit plans that are generally applicable to the Company’s senior executives.
+Mr. Kasiguran's base salary, target bonus, and long-term incentive target for fiscal year 2025, as approved by the Compensation Committee, are described in the CD&A section of this Form 10-K/A. The employment agreement also contains various restrictive covenants applicable to Mr. Kasiguran, including non-competition and employee and customer non-solicitation restrictions that apply for one year following a termination of Mr. Kasiguran's employment for any reason. Potential Payments upon Termination of Employment or Change of Control The information below describes and quantifies compensation that would become payable under existing arrangements in the event of termination of such NEO’s employment under several different circumstances.
+The amounts shown assume that such termination was effective as of March 31, 2025, and thus include amounts earned through such time and are estimates of the amounts that would be paid to the NEOs upon their termination.
+The actual amounts to be paid can only be determined at the time of such NEO’s separation from Triumph. Severance Plans On February 19, 2019, the Compensation Committee approved (i) the Triumph Group, Inc. Executive Change in Control Severance Plan (the “CIC Severance Plan”), which is applicable in the event of a termination of employment without “cause” or for “good reason” that occurs within the period beginning six (6) months prior to and ending twenty-four (24) months after a “change in control” (each term as defined in the CIC Severance Plan), and (ii) the Triumph Group, Inc. General Severance Plan (the “General Severance Plan,” and together with the CIC Severance Plan, the “Severance Plans”), which is applicable in the event a termination of employment without “cause” or for “good reason” (each term as defined in the General Severance Plan) that is unrelated to a change in control.
+The disclosures in this section of the Form 10-K/A related to termination of employment without cause or for good reason, with or without the occurrence of a change in control event, reflect payments that would be made under the Severance Plans if the termination event occurred on March 31, 2025.
+As described in the CD&A above, the Company entered into a new employment agreement with Mr. Crowley in November 2020, and the Company entered into employment agreements with Mr. McCabe, Ms. Allen, Mr. Quigley, and Mr. Kasiguran in May 2023.
+Pursuant to their respective employment agreements, the NEOs are eligible to receive severance payments and benefits under the Severance Plans, as applicable.The initial term of each of the Severance Plans is three years, with automatic one-year extensions thereafter unless terminated at least six months prior to expiration of the then-current term.
+For the CIC Severance Plan, the Company may not provide notice of termination of the CIC Severance Plan if the Company is a party to an agreement that, if consummated, would result in a change in control, as defined in the CIC Severance Plan. CIC Severance Plan The CIC Severance Plan is intended to encourage key management to remain with the Company, and to help avoid distractions and conflicts of interest in the event of a potential or actual change in control of the Company so that executives can focus on a fair and impartial review of the acquisition proposal and the maximization of stockholder value despite the risk of losing their employment.
+25
+For the NEOs, the change in control severance benefits include the following: •a lump sum payment of up to 2.0 times (3.0 times for the CEO) the sum of the executive’s annual base salary as of the date of termination plus the officer’s highest annual bonus, defined as the greater of (1) the average annual bonus over the three most recent fiscal years and (2) the current target bonus opportunity for the year in which the termination occurs; •a lump sum payment of the executive’s annual target bonus opportunity for the year in which the termination occurs, pro-rated for the portion of the fiscal year elapsing prior to the termination date, less any amount actually paid for that fiscal year; •a lump sum payment of the total amount that would have been paid through the applicable severance period (36 months for the CEO and 24 months for the other NEOs) that the executive would have received under any qualified plan as a company match if the executive had participated in such plan; •vesting of all unvested equity awards or equity awards subject to forfeiture restrictions, with performance-based awards vesting based on target performance;•an amount equal to the executive’s cost to participate in COBRA medical and dental continuation coverage for 24 months (36 months for the CEO); and •a reimbursement of up to $20,000 ($50,000 for the CEO) for outplacement services. The change in control benefits do not include any excise tax gross up payments.
+In addition, the change in control benefits have a “double trigger” such that the payment of a severance benefit may only be made if there is a change in control and the officer’s employment with the Company is terminated by the Company without cause or by the officer for good reason in the six months prior to a change in control or in the 24 months immediately following a change in control of the Company, each as defined in the CIC Severance Plan. General Severance Plan The General Severance Plan is intended to promote stability and provide consistent and fair treatment to our departing executives in circumstances which do not constitute cause for employment termination. For the NEOs, the general severance benefits include the following: •payments, in installments, of up to 1.0 times (2.0 times for the CEO) the sum of the officer’s annual base salary as of the date of termination plus the officer’s target bonus opportunity in the fiscal year in which a qualifying termination occurs; •a lump sum payment of the executive’s annual target bonus opportunity for the year in which the termination occurs, pro-rated for the portion of the fiscal year elapsing prior to the termination date, less any amount actually paid for that fiscal year; •vesting of all unvested equity awards or equity awards subject to forfeiture restrictions to the extent such awards were scheduled to vest in the 12 months immediately following the date of termination (18 months for the CEO), with performance-based awards vesting pro rata at target; •an amount equal to the executive’s cost to participate in COBRA medical and dental continuation coverage for 12 months (18 months for the CEO); and •outplacement services through an outplacement services provider contracted with the Company for 12 months (18 months for the CEO). Each NEO would be required to execute a general release of employment claims in order to receive benefits under the Severance Plans.
+The timing of payments under the Severance Plans would be made in accordance with all applicable law.
+Each NEO would be required to comply with any non-competition, non-solicitation, assignment of inventions and confidentiality provisions set forth in existing agreements or in the award notice provided to an executive eligible to receive benefits under the Severance Plans. A NEO who receives general severance benefits shall not be entitled to receive severance benefits under any other plan or agreement of any of its subsidiaries or affiliates (excluding the CIC Severance Plan).
+If a NEO becomes entitled to severance benefits under the General Severance Plan while receiving severance benefits under any other plan or agreement of the Company or any of its subsidiaries or affiliates, then the severance benefits under such other plan or agreement will cease and the severance benefits due to the NEO under the General Severance Plan will be reduced by such other severance benefits previously paid to the executive.
+If a NEO becomes entitled to severance benefits under the CIC Severance Plan while receiving severance benefits under any other plan or agreement of the Company or any of its subsidiaries or affiliates, including the General Severance Plan, then the severance benefits under such other plan or agreement will cease and the severance benefits due to the NEO under the CIC Severance Plan will be reduced by such other severance benefits previously paid to the executive. Retention Agreements
+26
+On November 11, 2024, our Compensation Committee authorized entry into retention agreements with Mr. McCabe, Ms. Allen, Mr. Quigley, and Mr. Kasiguran pursuant to which they will each be eligible for a retention bonus equal to 1.0 times their annual base salary (each, a “Retention Bonus”).
+Each executive’s Retention Bonus will vest and become payable 50% on the 9-month anniversary of the grant date and 50% on the 18-month anniversary of the grant date, subject to the executive’s continued employment with the Company through the applicable vesting date. Upon vesting, the Retention Bonuses may be settled in cash or in common stock of the Company, at the sole discretion of the Company.Treatment of Equity Awards upon Termination of EmploymentThe Company’s equity incentive plans, the 2013 Cash and Equity Incentive Plan, as amended (the “2013 Plan”), and the Amended and Restated 2018 Equity Incentive Plan (the “2018 Plan” and, with the 2013 Plan, the “Equity Plans”) provide for the following consequences for outstanding equity awards in the event of termination of employment as a result of death or
+disability of a NEO or termination of employment as a result of a voluntary severance incentive program, divestiture, or work force restructuring program.
+Under each of the Equity Plans, the Compensation Committee has the authority to alter the following impact in individual award agreements but has not done so with respect to any outstanding awards to the NEOs.
+The provisions of the Equity Plans with respect to treatment of outstanding equity awards upon a termination of employment without cause or for good reason, with or without a change in control, have been superseded by the more specific benefits set forth in the Severance Plans and described above. The 2013 Plan
+Termination Event
+Stock Options
+Service-based StockAwards and RSUs
+Performance-based StockAwards and PSUs
+Death
+Outstanding exercisable options are exercisable for the stated term of the options
+Outstanding awards are forfeited
+Outstanding awards are forfeited
+Disability or Retirement
+Outstanding exercisable options are exercisable for the stated term of the options
+Awards continue to vest until the end of the restricted period
+Awards continue to vest until the end of the performance period
+Voluntary SeveranceIncentive Program
+All outstanding options fully vest and will be exercisable for the stated term of the options
+All outstanding stock awards and RSUs accelerate and all forfeiture provisions lapse
+All outstanding stock awards and PSUs accelerate and vest as determined by the Compensation Committee
+Divestiture orWorkforceRestructuring
+The Compensation Committee may, in its discretion, vest some or all outstanding options, and such options will be exercisable for the stated term of the options
+The Compensation Committee may, in its discretion, accelerate the vesting of all or a portion of any outstanding stock award or RSU and provide that all forfeiture provisions lapse
+All outstanding stock awards and PSUs accelerate and vest as determined by the Compensation Committee
+The 2018 Plan
+27
+Termination Event
+Stock Options
+Service-based StockAwards and RSUs
+Performance-based StockAwards and PSUs
+Death
+Outstanding exercisable options are exercisable for one year after death
+Outstanding awards are forfeited
+Outstanding awards are forfeited
+Disability
+Outstanding exercisable options are exercisable for one year after termination of employment
+Awards that would have vested in one year accelerate and vest on termination of employment
+Awards with end of performance period within one year of termination of employment will continue to be subject to performance goals and be issued, if earned, at the end of the performance period
+Voluntary SeveranceIncentive Program
+With respect to no more than 5% of the shares available for awards under the 2018 Plan, awards will vest, and all outstanding options will be exercisable until the options expire
+All outstanding stock awards and RSUs accelerate and all forfeiture provisions lapse
+All outstanding stock awards and PSUs are forfeited
+Divestiture orWorkforceRestructuring *
+The Compensation Committee may, in its discretion, with respect to no more than 5% of the shares available for awards under the 2018 Plan, vest some or all outstanding options, and such options will be exercisable until the options expire
+The Compensation Committee may, in its discretion, with respect to no more than 5% of the shares available for awards under the 2018 Plan, accelerate the vesting of all or a portion of any outstanding stock award or RSU and provide that all forfeiture provisions lapse
+All outstanding stock awards and PSUs are forfeited
+*	All acceleration events are subject to the award’s compliance with the minimum vesting period of one year.  As described above, certain NEOs are entitled to severance and/or change in control benefits upon termination of employment without cause or for good reason.
+The table below sets forth the compensation that would become payable if such termination was effective March 31, 2025.
+None of the NEOs would have received any excise tax gross-up benefits if a change in control had occurred on March 31, 2025.
+The calculation of equity awards is based on the closing stock price of the Company’s common stock on March 31, 2025 of $25.34 per share.
+In addition to the below amounts, each NEO would be entitled to receive any accrued salary and the target annual incentive compensation for the year in which a termination occurred.
+28
+Cash
+Retention
+Stock
+Restricted
+Performance
+Other
+Executive
+Termination Scenario
+Severance
+Bonus
+Options
+Stock/Units
+Stock/Units
+Benefits
+Daniel J. Crowley
+Death
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Retirement
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Disability
+$
+0
+$
+0
+$
+0
+$
+2,095,542
+$
+5,235,945
+$
+0
+Voluntary Severance Program, Workforce Restructuring, or Divestiture
+$
+0
+$
+0
+$
+0
+$
+4,145,371
+$
+5,235,945
+$
+0
+Without Cause by Company or for Good Reason by Executive (Absent a Change in Control)
+$
+4,095,000
+$
+0
+$
+0
+$
+2,908,272
+$
+5,235,945
+$
+68,598
+Without Cause by Company or for Good Reason by Executive upon Change in Control
+$
+6,997,283
+$
+0
+$
+0
+$
+4,145,371
+$
+10,018,828
+$
+168,695
+James F. McCabe
+Death
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Retirement
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Disability
+$
+0
+$
+0
+$
+0
+$
+595,769
+$
+1,472,524
+$
+0
+Voluntary Severance Program, Workforce Restructuring, or Divestiture
+$
+0
+$
+0
+$
+0
+$
+1,189,941
+$
+1,472,524
+$
+0
+Termination Without Cause by Company or for Good Reason by Executive (Absent a Change in Control)
+$
+1,138,500
+$
+569,250
+$
+0
+$
+595,769
+$
+1,472,524
+$
+36,592
+Termination Without Cause by Company or for Good Reason by Executive upon Change in Control
+$
+2,589,583
+$
+569,250
+$
+0
+$
+1,189,941
+$
+2,858,833
+$
+94,184
+Jennifer H. Allen
+Death
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Retirement
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Disability
+$
+0
+$
+0
+$
+0
+$
+443,602
+$
+1,093,886
+$
+0
+Voluntary Severance Program, Workforce Restructuring, or Divestiture
+$
+0
+$
+0
+$
+0
+$
+878,817
+$
+1,093,886
+$
+0
+Termination Without Cause by Company or for Good Reason by Executive (Absent a Change in Control)
+$
+891,188
+$
+509,250
+$
+0
+$
+443,602
+$
+1,093,886
+$
+35,598
+Termination Without Cause by Company or for Good Reason by Executive upon Change in Control
+$
+1,970,529
+$
+509,250
+$
+0
+$
+878,817
+$
+2,109,276
+$
+92,196
+Thomas A. Quigley
+Death
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Retirement
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Disability
+$
+0
+$
+0
+$
+0
+$
+125,813
+$
+311,167
+$
+0
+Voluntary Severance Program, Workforce Restructuring, or Divestiture
+$
+0
+$
+0
+$
+0
+$
+247,648
+$
+311,167
+$
+0
+Termination Without Cause by Company or for Good Reason by Executive (Absent a Change in Control)
+$
+540,800
+$
+338,000
+$
+0
+$
+125,813
+$
+311,167
+$
+35,338
+Termination Without Cause by Company or for Good Reason by Executive upon Change in Control
+$
+1,129,245
+$
+338,000
+$
+0
+$
+247,648
+$
+595,414
+$
+91,676
+Kai Kasiguran
+Death
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Retirement
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Disability
+$
+0
+$
+0
+$
+0
+$
+63,907
+$
+205,541
+$
+0
+Voluntary Severance Program, Workforce Restructuring, or Divestiture
+$
+0
+$
+0
+$
+0
+$
+145,452
+$
+205,541
+$
+0
+Termination Without Cause by Company or for Good Reason by Executive (Absent a Change in Control)
+$
+399,620
+$
+275,600
+$
+0
+$
+63,907
+$
+205,541
+$
+34,624
+Termination Without Cause by Company or for Good Reason by Executive upon Change in Control
+$
+799,240
+$
+275,600
+$
+0
+$
+145,452
+$
+395,735
+$
+90,249
+CEO Pay Ratio  The following information about the relationship between the annual compensation of our employees (other than our CEO) and the compensation of Mr. Crowley, our President and CEO, is provided in compliance with the requirements of Item 402(u) of Regulation S-K.
+As of March 31, 2025, our total population consisted of 3,696 employees.
+To identify the median compensated employee, we used a Consistently Applied Compensation Measure (“CACM”) defined as the median of 2024 Federal Wages and 401(k) match, annualized for employees not with the Company for the full year.
+In fiscal year 2025, the annual total compensation of our median employee was $49,754 determined using the same methodology as for our CEO as reported in the Summary Compensation Table of this Form 10-K/A.
+Mr. Crowley’s total compensation for fiscal year 2025, as reported in the Summary Compensation Table was $6,395,522.
+The resulting estimated ratio of the annual total
+29
+compensation of Mr. Crowley to the median of the annual total compensation of all employees was 129 to 1.
+We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules.
+The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee’s annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their compensation practices.
+As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation practices, and may utilize different methodologies, exclusions, estimates, and assumptions in calculating their own pay ratios. Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters Equity Compensation Plan InformationThe following table summarizes certain information with respect to our compensation plans and individual compensation arrangements under which our equity have been authorized for issuance as of March 31, 2025:
+Plan category
+Number of securities to beissued upon exercise ofoutstanding options,warrants and rights(a)
+Weighted-average exerciseprice of outstandingoptions, warrantsand rights(b)
+Number of securitiesremaining available forfuture issuance underequity compensation plans(excluding securitiesreflected in column (a))(c)
+Equity compensation plans approved by   security holders (1)
+2,113,898
+30.86
+2,068,526
+Equity compensation plans not approved   by security holders
+—
+—
+—
+Total
+2,113,898
+2,068,526
+(1)Column (a) includes stock options, outstanding time-based RSUs, PSUs (at target) made under the 2016 Directors’ Plan, and the 2013 Equity and Cash Incentive Plan, and the 2018 Plan issued to non-employee directors under the Amended and Restated Directors’ Stock Incentive Plan, which expired in fiscal year 2017. Column (b) provides the weighted-average exercise price for outstanding stock options. The weighted-average grant date fair value of the outstanding RSUs is $13.71.  Security Ownership of Principal Stockholders and ManagementAs of June 15, 2025, the directors, named executive officers, all directors and executive officers as a group, and owners of more than 5% common stock in the table below, were known to us to be beneficial owners (as defined in regulations issued by the SEC) of the outstanding common stock as shown in the table below. A person is deemed to be the beneficial owner of securities that can be acquired by that person within 60 days from June 15, 2025 upon the exercise of options, warrants or other rights.
+Each beneficial owner’s percentage ownership is determined by assuming that options, warrants or other rights that are held by that person (but not those held by any other person) and that are exercisable within 60 days from June 15, 2025 have been exercised. Unless otherwise indicated, the address of each person identified is c/o 555 E. Lancaster Avenue, Suite 400, Radnor, Pennsylvania 19087. Unless otherwise noted, we believe that all persons named in the table have sole voting and dispositive power with respect to all shares of common stock beneficially owned by them. The percentage of total shares outstanding is based upon 77,749,436 outstanding shares of common stock as of June 15, 2025.
+30
+Name
+Number
+Percent of TotalShares Outstanding
+Daniel J. Crowley(1)
+1,192,562
+1.5
+%
+James F. McCabe(2)
+215,191
+*
+Jennifer H. Allen(3)
+87,104
+*
+Thomas A. Quigley(4)
+54,728
+*
+Kai W. Kasiguran(5)
+3,968
+*
+Patrick E. Allen(6)
+22,178
+*
+Mark C. Cherry(6)
+10,324
+*
+Cynthia M. Egnotovich(6)
+42,885
+*
+Daniel P. Garton(6)
+74,032
+*
+Barbara W. Humpton(6)
+62,114
+*
+Neal J. Keating(6)
+79,311
+*
+Courtney R. Mather(6)
+22,178
+*
+Colleen C. Repplier(6)
+63,945
+*
+BlackRock, Inc.(7)
+11,853,931
+15.3
+%
+The Vanguard Group(8)
+7,021,354
+9.0
+%
+The Goldman Sachs Group, Inc.(9)
+4,069,832
+5.2
+%
+All executive officers and directors as a group (13 persons)(10)
+1,930,520
+2.5
+%
+*
+Less than one percent.  (1)Consists of (a) 1,042,562 shares held directly by Mr. Crowley and (b) currently exercisable options to purchase 150,000 shares. Excludes the following:
+Award
+Grant Date
+32,073 RSUs
+April 27, 2023
+224,507 PSUs (at target)
+April 27, 2023
+48,820 RSUs
+May 24, 2024
+170,869 PSUs (at target)
+May 24, 2024
+135,149 RSUs
+April 24, 2025
+(2)Consists of (a) 215,191 shares held directly by Mr. McCabe. Excludes the following:
+Award
+Grant Date
+8,789 RSUs
+April 27, 2023
+61,513 PSUs (at target)
+April 27, 2023
+14,659 RSUs
+May 24, 2024
+51,306 PSUs (at target)
+May 24, 2024
+40,580 RSUs
+April 24, 2025
+(3)Consists of
+(a) 87,104 shares held directly by Ms. Allen.
+Excludes the following:
+Award
+Grant Date
+6,611 RSUs
+April 27, 2023
+46,266 PSUs (at target)
+April 27, 2023
+10,564 RSUs
+May 24, 2024
+36,973 PSUs (at target)
+May 24, 2024
+29,244 RSUs
+April 24, 2025
+(4)Consists of (a) 54,728 shares held directly by Mr. Quigley. Excludes the following:
+Award
+Grant Date
+31
+1,906 RSUs
+April 27, 2023
+13,342 PSUs (at target)
+April 27, 2023
+2,902 RSUs
+May 24, 2024
+10,155 PSUs (at target)
+May 24, 2024
+8,032 RSUs
+April 24, 2025
+(5)Consists of (a) 3,968 shares held directly by Mr. Kasiguran.
+Excludes the following:
+Award
+Grant Date
+1,246 RSUs
+April 27, 2023
+8,717 PSUs (at target)
+April 27, 2023
+1,972 RSUs
+May 24, 2024
+6,900 PSUs (at target)
+May 24, 2024
+5,457 RSUs
+April 24, 2025
+(6)For Mr. Allen, Mr. Cherry, Ms. Egnotovich, Mr. Garton, Ms. Humpton, Mr. Keating, Mr. Mather, and Ms. Repplier, the beneficial ownership disclosed includes 10,324 RSUs granted on August 8, 2024 under the 2016 Directors’ Plan.
+Mr. Mather is an officer of Vision One Management Partners, LP or one of its affiliates (collectively, "Vision One").
+Mr. Mather disclaims beneficial ownership of the 2,472,843 shares of common stock of the Company beneficially owned by Vision One.(7)Information is based on a Schedule 13G/A filed by BlackRock, Inc. with the SEC on November 8, 2024.
+The Schedule 13G/A reports that on September 30, 2024, BlackRock, Inc. had sole voting power over 11,676,373 shares, shared voting power over 0 shares, sole dispositive power over 11,853,931 shares and shared dispositive power over 0 shares.
+The address of BlackRock, Inc. is 50 Hudson Yards, New York, NY 10001. (8)Information is based on a Schedule 13G/A filed by The Vanguard Group with the SEC on February 13, 2024.
+The Schedule 13G/A reports that on December 29, 2023, The Vanguard Group had sole voting power over 0 shares, shared voting power over 44,666 shares, sole dispositive power over 6,909,752 shares and shared dispositive power over 111,602 shares.
+The address of The Vanguard Group is 100 Vanguard Boulevard, Malvern, PA 19355.(9)Information is based on a Schedule 13G/A filed by The Goldman Sachs Group, Inc. and Goldman Sachs & Co. LLC (together "Goldman") with the SEC on February 6, 2025. The Schedule 13G/A reports that on December 31, 2024, Goldman had sole voting power over 0 shares, shared voting power over 4,069,757.18, shares, sole dispositive power over 0 shares, and shared dispositive power over 4,069,787.18 shares.
+The address of Goldman is 200 West Street, New York, New York 10282.(10)This group includes all directors and current executive officers.
+Item 13.
+Certain Relationships and Related Transactions and Director IndependenceDirector Independence  The Board has determined that each of Mr. Allen, Mr. Cherry, Ms. Egnotovich, Mr. Garton, Ms. Humpton, Mr. Keating, Mr. Mather, and Ms. Repplier are, or were at the time of their service during the last completed fiscal year, independent based upon the standards of independence set forth in the listing standards of the New York Stock Exchange and in our Independence Standards for Directors, which are posted on our website at www.triumphgroup.com under “Investor Relations—Corporate Governance.”
+The Board also determined that Mr. Bourgon, who retired from the Board following the Company’s 2024 annual meeting of stockholders, was independent. The standing committees of the Board are the Audit Committee, the Human Capital and Compensation Committee (the “Compensation Committee”), the Nominating, Governance, and Sustainability Committee (the "Governance Committee"), and the Finance and Strategy Committee.
+All members of the Board's committees are independent, as independence for such committee members is defined in the listing standards of the New York Stock Exchange and in our Independence Standards for Directors, which are posted on our website at www.triumphgroup.com under “Investor Relations—Corporate Governance.” Review and Approval of Transactions with Related Persons Our written policy for the Review, Approval or Ratification of Transactions with Related Persons (the “Policy”), requires our Board of Directors, or a committee thereof, to approve or ratify any transaction in which the amount involved exceeds $120,000, the Company or one of its subsidiaries is a participant, and any “related person” (as such term is defined in Item 404 of Regulation S-K) has a direct or indirect material interest.
+The Policy and the Company’s Code of Business Conduct establish procedures for
+32
+reporting of potential related person transactions under the Policy and potential conflicts of interest.
+Our legal department determines whether reported transactions constitute a related person transaction requiring pre-approval.The Policy provides that the Board may delegate the review and approval of a related person transaction to the Audit Committee (or another standing or ad hoc committee) if it is impractical to wait until the next Board or committee meeting to review and, if appropriate, approve or ratify such related person transaction.
+Additionally, the chair of the Audit Committee may approve the transaction, provided that the chair reports such approval at the next regularly scheduled Board meeting.
+If the transaction at issue relates to a member of the Board, that Board member may not participate in the review of such transaction.
+In approving or ratifying any transaction, the Board, the Audit Committee, the Chair of the Audit Committee or any other committee designated by the Board, as applicable, must determine that the transaction is fair and reasonable to the Company.If the Board becomes aware of a related person transaction that was not pre-approved under the Policy, then the Board will review the matter and evaluate its options (including ratification, revision and termination of the transaction at issue). Related Person Transactions The Board is not aware of any transaction during fiscal year 2025, or any currently proposed transaction, in which Triumph or one of its subsidiaries was or is a participant, the amount involved exceeds $120,000, or in which any related person (as such term is defined in Item 404 of Regulation S-K) has or will have a direct or indirect material interest. Item 14.
+Principal Accountant Fees and Services Fees to Independent Registered Public Accounting Firm for Fiscal Years 2025 and 2024Audit-FeesEY’s fees associated with the annual audit of financial statements, the audit of internal control of financial reporting, the reviews of the Company’s quarterly reports on Form 10-Q, statutory audits, assistance with and review of documents filed with the SEC, issuance of consents and accounting consultations for the fiscal years ended March 31, 2025 and 2024 were $3.8 million and $3.7 million, respectively.Audit-Related Fees EY’s fees for the fiscal years ended March 31, 2025 and 2024, for assurance and related services that were reasonably related to the performance of the audits of our financial statements were $0.1 million and $0.1 million, respectively.
+For the fiscal years ended March 31, 2025 and 2024, these audit-related services were primarily related to defined benefit plan audits. In addition to the work described above, EY performed work in connection with a carve-out audit of the aftermarket product support business of the Company divested during fiscal year 2024.
+EY's fees for the carve-out audit in fiscal year 2024 were $1.6 million (and were reimbursed by the acquiror of the business). Tax Fees EY’s fees for the fiscal years ended March 31, 2025 and 2024, for tax compliance, tax advice and tax planning were $0.2 million and $0.2 million, respectively. These services consisted primarily of income tax compliance, international tax advisory services, and transfer pricing documentation services. All Other Fees EY did not perform any material professional services other than those described above in the fiscal years ended March 31, 2025 and 2024. Audit Committee Pre-Approval Policy The Audit Committee pre-approved the engagement of EY to render all of the audit and the permitted non-audit services described above.
+The Audit Committee has determined that EY’s rendering of all other non-audit services is compatible with maintaining auditor independence.
+The Audit Committee has delegated to its chair or, if he is unavailable, any other member of the Audit Committee, the right to pre-approve all audit services, between regularly scheduled meetings, subject to presentation to the full Audit Committee at its next meeting.
+33
+PART IVItem 15.
+Exhibits, Financial Statement Schedules(a) Financial Statements(1) The report of our Independent Registered Public Accounting Firm (PCAOB ID#42) and consolidated financial statements are included in Item 8 of our Original Filing. (2) Our financial statement schedule is included in Item 15(a)(2) of our Original Filing: (3) The following is a list of exhibits. Where so indicated, exhibits which were previously filed are incorporated by reference.
+ExhibitNumber
+Exhibit Description
+Incorporated by Reference to
+Form
+File No.
+Exhibit(s)
+Filing Date
+2.1
+Securities and Asset Purchase Agreement, dated as of December 21, 2023, by and among Triumph Group, Inc., Triumph Aftermarket Services Group, LLC, Triumph Group Acquisition Corp., Triumph Group Acquisition Holdings, Inc., The Triumph Group Operations, Inc. and AAR CORP^
+8-K
+001-12235
+2.1
+December 22, 2023
+2.2
+Agreement and Plan of Merger, dated as of February 2, 2025, by and among Triumph Group, Inc., Titan BW Acquisition Holdco Inc. and Titan BW Acquisition Merger Sub Inc.+
+8-K
+001-12235
+2.1
+February 3, 2025
+3.1
+Amended and Restated Certificate of Incorporation of Triumph Group, Inc.
+10-K
+001-12235
+3.1
+May 22, 2009
+3.2
+Certificate of Amendment of Amended and Restated Certificate of Incorporation of Triumph Group, Inc.
+8-K
+001-12235
+3.1
+July 20, 2012
+3.3
+Certificate of Amendment to the Amended and Restated Certificate of Incorporation of Triumph Group, Inc. dated July 21, 2023
+8-K
+001-12235
+3.1
+July 21, 2023
+3.4
+Form of Certificate of Designations, Preferences and Rights of Series B Junior Participating Preferred Stock
+8-K
+001-12235
+3.1
+March 13, 2019
+3.5
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of Triumph Group, Inc.
+8-K/A
+001-12235
+3.1
+August 5, 2019
+3.6
+The Company's amended and Restated By-Laws, dated February 2, 2025.
+8-K
+001-12235
+3.1
+February 3, 2025
+4.1
+Form of Certificate evidencing Common Stock of Triumph Group, Inc.
+8-K
+001-12235
+4.2
+March 13, 2019
+4.2
+Indenture, dated as of March 14, 2023, among Triumph Group, Inc., the subsidiary guarantors signatory thereto and U.S. Bank Trust Company, National Association, as trustee for the Notes.
+8-K
+001-12235
+4.1
+March 14, 2023
+4.3
+Form of 9.000% Senior Secured First Lien Notes due 2028 (included as Exhibit A to the Indenture filed as Exhibit 4.2).
+8-K
+001-12235
+4.1
+March 14, 2023
+4.4
+Tax Benefits Preservation Plan, dated as of March 13, 2019, between Triumph Group, Inc. and Computershare Trust Company, N.A.
+8-K
+001-12235
+4.1
+March 13, 2019
+4.5
+Description of Securities
+10-K
+001-12235
+4.8
+May 23, 2019
+4.6
+Amended and Restated Receivables Purchase Agreement, dated as of September 29, 2020, among Triumph Receivables, LLC, as seller, Triumph Group, Inc., as servicer, the various purchasers, LC participants and purchaser agents from time to time party thereto, PNC Bank, National Association, as administrator and as LC bank and PNC Capital Markets LLC, as structuring agent.
+8-K
+001-12235
+4.1
+October 5, 2020
+4.7
+Amended and Restated Purchase and Sale Agreement, dated as of September 29, 2020, among various entities listed therein, as the originators, Triumph Group, Inc.,
+8-K
+001-12235
+4.2
+October 5, 2020
+34
+ExhibitNumber
+Exhibit Description
+Incorporated by Reference to
+Form
+File No.
+Exhibit(s)
+Filing Date
+individually and as servicer and Triumph Receivables, LLC.
+4.8
+Amendment No. 14 to Blocked Account Agreement, effective as of November 5, 2021, between Triumph Receivables LLC, Triumph Group, Inc., and PNC Bank, National Association.
+10-Q
+001-12235
+10.1
+February 8, 2022
+4.9
+Twelfth Amended and Restated Purchaser Group Fee Letter, effective as of November 5, 2021, among Triumph Receivables, LLC, Triumph Group, Inc., the various purchasers and purchaser agents from time to time party thereto, PNC Capital Markets LLC, and PNC Bank, National Association.
+10-Q
+001-12235
+10.2
+February 8, 2022
+4.10
+Second Amended and Restated Performance Guaranty, effective as of November 5, 2021, by Triumph Group, Inc., in favor of PNC Bank, National Association.
+10-Q
+001-12235
+10.3
+February 8, 2022
+4.11
+First Amendment to Amended and Restated Purchase and Sale Agreement, effective as of November 5, 2021, among Triumph Group, Inc., Triumph Receivables, LLC, and each of the entities listed on the signature pages hereto as an Originator.
+10-Q
+001-12235
+10.4
+February 8, 2022
+4.12
+Second Amendment to Amended and Restated Receivables Purchase Agreement, effective as of November 5, 2021, among Triumph Group, Inc., Triumph Receivables, LLC, and PNC Bank, National Association.
+10-Q
+001-12235
+10.5
+February 8, 2022
+4.13
+Tax Benefits Preservation Plan, dated March 11, 2022 to be effective as of March 13, 2022, between Triumph Group, Inc. and Computershare Trust Company, N.A.
+8-K
+001-12235
+4.1
+March 11, 2022
+4.14
+Fourth Amendment to Amended and Restated Receivables Purchase Agreement, dated as of December 22, 2023, among Triumph Receivables, LLC, as seller, Triumph Group, Inc., as servicer, the various purchasers, LC participants and purchaser agents from time to time party thereto, and PNC Bank, National Association, as administrator and as LC bank.
+8-K
+001-12235
+4.1
+December 29, 2023
+4.15
+Second Amendment to Amended and Restated Purchase and Sale Agreement, dated as of December 22, 2023, among the various entities listed therein, as the originators, Triumph Group, Inc., individually and as servicer, and Triumph Receivables, LLC.
+8-K
+001-12235
+4.2
+December 29, 2023
+4.16
+Amendment No. 1, dated as of March 13, 2025, to the Tax Benefits Preservation Plan, dated March 11, 2022, effective as of March 13, 2022, by and between Triumph Group, Inc. and Computershare Trust Company, N.A., as rights agent.
+8-K
+001-12235
+4.1
+March 13, 2025
+10.1
+Triumph Group, Inc. 2004 Stock Incentive Plan*
+10-K
+001-12235
+10.3
+May 30, 2013
+10.2
+Form of Stock Award Agreement under the 2004 Stock Incentive Plan*
+10-K
+001-12235
+10.7
+May 22, 2009
+10.3
+Form of letter confirming Stock Award Agreement under the 2004 Stock Incentive Plan*
+10-K
+001-12235
+10.8
+May 22, 2009
+10.4
+Triumph Group, Inc. Supplemental Executive Retirement Plan effective January 1, 2003*
+10-K
+001-12235
+10.17
+June 12, 2003
+10.5
+Compensation for the non-employee members of the Board of Directors of Triumph Group, Inc.
+8-K
+001-12235
+10.1
+November 15, 2016
+10.6
+Triumph Group, Inc. Executive Incentive Plan, effective September 28, 2010 *
+10-Q
+001-12235
+10.1
+November 5, 2010
+35
+ExhibitNumber
+Exhibit Description
+Incorporated by Reference to
+Form
+File No.
+Exhibit(s)
+Filing Date
+10.7
+Form of letter informing Triumph Group, Inc. executives they are eligible to participate in the Company’s Long Term Incentive Plan *
+10-K
+001-12235
+10.22
+May 18, 2011
+10.8
+Form of letter informing Triumph Group, Inc. executives they have earned an award under the Company’s Long Term Incentive Plan and the amount of the award *
+10-K
+001-12235
+10.23
+May 18, 2011
+10.9
+Triumph Group, Inc. 2013 Equity and Cash Incentive Plan, as amended and restated as of June 7, 2017*
+8-K
+001-12235
+99.1
+June 12, 2017
+10.10
+Form of letter regarding eligibility to participate in the Triumph Group, Inc. Restricted Stock Plan*
+10-K
+001-12235
+10.24
+May 19, 2014
+10.11
+The First Amendment of the Triumph Group, Inc. Supplemental Executive Retirement Plan, effective as of May 1, 2015 *
+8-K
+001-12235
+10.1
+May 7, 2015
+10.12
+First Amendment to Triumph Group, Inc. 2013 Employee Stock Purchase Plan *
+10-Q
+001-12235
+10.1
+August 4, 2015
+10.13
+Employment Agreement between Triumph Group, Inc. and Daniel J. Crowley, dated as of April 1, 2016*
+8-K
+001-12235
+10.1
+April 7, 2016
+10.14
+Employment Agreement, by and between Triumph Group, Inc. and James F. McCabe dated as of May 30, 2023.*
+10-Q
+001-12235
+10.3
+November 12, 2024
+10.15
+Triumph Group, Inc. Directors' Deferred Compensation Plan, effective January 1, 2017
+8-K
+001-12235
+10.2
+November 15, 2016
+10.16
+Form of the 2016 Directors' Equity Compensation Plan, as amended
+10-K/A
+001-12235
+10.33
+May 26, 2017
+10.17
+Form of Restricted Stock Unit Agreement under the 2016 Directors' Equity Compensation Plan, as amended
+10-K/A
+001-12235
+10.34
+May 26, 2017
+10.18
+Triumph Group, Inc. Directors' Deferred Compensation Plan, effective January 1, 2017
+8-K
+001-12235
+10.2
+November 15, 2016
+10.19
+Twentieth Amendment to Receivables Purchase Agreement dated as of November 3, 2017
+8-K
+001-12235
+10.1
+November 7, 2017
+10.20
+Triumph Group, Inc. Amended and Restated 2018 Equity Incentive Plan, effective July 16, 2020*
+8-K
+001-12235
+10.1
+July 21, 2020
+10.21
+Form of Long-Term Incentive Award Letter under the 2018 Equity Incentive Plan*
+10-K
+001-12235
+10.32.2
+May 23, 2019
+10.22
+Triumph Group, Inc. 2018 Executive Cash Incentive Compensation Plan, effective April 1, 2018*
+8-K
+001-12235
+10.2
+June 4, 2018
+10.23
+Form of Short-Term Cash Incentive Award Letter under the 2018 Executive Cash Incentive Compensation Plan*
+10-K
+001-12235
+10.33.1
+May 23, 2019
+10.24
+Triumph Group, Inc. Executive General Severance Plan, effective February 19, 2019*
+10-K
+001-12235
+10.40
+May 23, 2019
+10.25
+Triumph Group, Inc. Executive Change in Control Severance Plan, effective February 19, 2019*
+10-K
+001-12235
+10.41
+May 23, 2019
+10.26
+Twenty-Fifth Amendment to the Receivables Purchase Agreement dated as of December 6, 2019 (Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed on December 9, 2019)
+8-K
+001-12235
+10.1
+December 9, 2019
+10.27
+Employment Agreement between Triumph Group, Inc. and Jennifer Allen, dated May 30, 2023*
+10-Q
+001-12235
+10.1
+November 12, 2024
+10.28
+Amendment No. 1 to Triumph Group, Inc. Executive Change In Control Severance Plan.*
+10-Q
+001-12235
+10.2
+August 5, 2020
+10.29
+Amendment No. 2 to Triumph Group, Inc. Executive Change In Control Severance Plan.*
+10-Q
+001-12235
+10.3
+August 5, 2020
+10.30
+Collateral Trust Agreement, dated August 17, 2020 among the Company, the subsidiary guarantors signatory thereto, Wilmington Trust, National Association, as collateral trustee, and U.S. Bank National Association, as trustee for the Notes.
+8-K
+001-12235
+10.2
+August 18, 2020
+36
+ExhibitNumber
+Exhibit Description
+Incorporated by Reference to
+Form
+File No.
+Exhibit(s)
+Filing Date
+10.31
+Employment Agreement between Triumph Group, Inc. and Daniel J. Crowley, dated as of November 17, 2020.*
+8-K
+001-12235
+10.1
+November 18, 2020
+10.32
+Equity Distribution Agreement, dated February 4, 2021, by and between Triumph Group, Inc. and Citigroup Global Markets Inc.
+8-K
+001-12235
+1.1
+February 4, 2021
+10.33
+Employment Agreement between Triumph Group, Inc. and Thomas Quigley dated as of May 30, 2023*
+10-Q
+001-12235
+10.4
+November 12, 2024
+10.34
+Employment Agreement between Triumph Group, Inc. and Kai Kasiguran dated as of May 30, 2023*
+10-Q
+001-12235
+10.2
+November 12, 2024
+10.35
+Cooperation Agreement, dated as of May 30, 2023, between Triumph Group, Inc. and Vision One Management Partners, LP^
+8-K
+001-12235
+10.1
+May 30, 2023
+10.36
+Amendment to Cooperation Agreement, dated as of May 1, 2024, between Triumph Group, Inc. and Vision One Management Partners, LP^
+8-K
+001-12235
+10.1
+May 1, 2024
+10.37
+Retention Agreement between Triumph Group, Inc. and James F. McCabe dated as of November 25, 2024*
+10-K
+001-12235
+10.37
+May 28, 2025
+10.38
+Retention Agreement between Triumph Group, Inc. and Jennifer Allen dated as of November 25, 2024*
+10-K
+001-12235
+10.38
+May 28, 2025
+10.39
+Retention Agreement between Triumph Group, Inc. and Thomas Quigley dated as of November 25, 2024*
+10-K
+001-12235
+10.39
+May 28, 2025
+10.40
+Retention Agreement between Triumph Group, Inc. and Kai Kasiguran dated as of November 25, 2024*
+10-K
+001-12235
+10.40
+May 28, 2025
+18.1
+Preferability Letter from Ernst & Young LLP, Independent Registered Public Accounting Firm, Regarding Change in Accounting Principle.
+10-Q
+001-12235
+18.1
+November 5, 2020
+19.1
+Insider Trading Policy
+10-K
+001-12235
+19.1
+May 28, 2025
+21.1
+Subsidiaries of Triumph Group, Inc.
+10-K
+001-12235
+21.1
+May 28, 2025
+22.1
+List of Subsidiary Guarantors and Issuers of Guaranteed Securities.
+10-K
+001-12235
+22.1
+May 28, 2025
+23.1
+Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm
+10-K
+001-12235
+23.1
+May 28, 2025
+31.1
+Principal Executive Officer Certification Required by Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as amended.
+10-K
+001-12235
+31.1
+May 28, 2025
+31.2
+Principal Financial Officer Certification Required by Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as amended.
+10-K
+001-12235
+31.2
+May 28, 2025
+31.3
+Principal Executive Officer Certification Required by Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as amended.
+#
+#
+#
+#
+31.4
+Principal Financial Officer Certification Required by Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as amended.
+#
+#
+#
+#
+32.1
+Principal Executive Officer and Principal Financial Officer Certification Required by Rule 13a-14(b) or Rule 15d-14(b) under the Securities Exchange Act of 1934, as amended, and 18 U.S.C. Section 1350.
+10-K
+001-12235
+32.1
+May 28, 2025
+97.1
+Clawback Policy.*
+10-K
+001-12235
+97.1
+May 28, 2025
+101
+The following financial information from Triumph Group, Inc.’s Annual Report on Form 10-K for the fiscal year ended March 31, 2025 formatted in iXBRL: (i) Consolidated Balance Sheets as of March 31, 2025 and 2024; (ii) Consolidated Statements of Operations for the fiscal years ended March 31, 2025, 2024, and 2023; (iii) Consolidated Statements of Stockholders’ Deficit for the fiscal years ended March 31, 2025, 2024, and 2023; (iv)
+10-K
+001-12235
+101
+May 28, 2025
+37
+ExhibitNumber
+Exhibit Description
+Incorporated by Reference to
+Form
+File No.
+Exhibit(s)
+Filing Date
+Consolidated Statements of Cash Flows for the fiscal years ended March 31, 2025, 2024, and 2023; (v) Consolidated Statements of Comprehensive Income (Loss) for the fiscal years ended March 31, 2025, 2024, and 2023; and (vi) Notes to the Consolidated Financial Statements
+104
+Cover Page Interactive Data File, formatted in iXBRL and contained in Exhibit 101.
+#
+#
+#
+#
+In accordance with Item 601(b)(4)(iii)(A) of Regulations S-K, copies of specific instruments defining the rights of holders of long-term debt of the Company or its subsidiaries are not filed herewith.
+Pursuant to this regulation, we hereby agree to furnish a copy of any such instrument to the SEC upon request* Indicates management contract or compensatory plan or arrangement^ Schedules (and similar attachments) have been omitted from this filing pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule will be furnished to the Securities and Exchange Commission upon request.+ Pursuant to Item 601(b)(2) of Regulation S-K, the schedules to the Merger Agreement (identified therein) have been omitted from this Report and will be furnished supplementally to the SEC upon request.# Filed herewith## Furnished herewithItem 16.
+Form 10-K SummaryThe Registrant has elected not to include a summary.
+38
+SIGNATURESPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed by the undersigned, thereunto duly authorized.
+TRIUMPH GROUP, INC.
+/s/ James F. McCabe, Jr.
+Dated:
+July 23, 2025
+By:
+James F. McCabe, Jr.Senior Vice President and Chief Financial Officer
+39
+Appendix A—Reconciliation of GAAP and Non‑GAAP Financial Measures As disclosed on the original Form 10-K filed on May 28, 2025, in fiscal year 2024, the results of our aftermarket product support business are now presented for the years ended March 31, 2025, 2024 and 2023, as discontinued operations.
+Additionally, in fiscal year 2025, 2024, and 2023, we adjusted our earnings before interest, taxes, depreciation and amortization and pension (EBITDAP) and free cash flow performance metrics in our AIP. The tables below provide a reconciliation from income (loss) from continuing operations and cash flow from operations (GAAP metrics) to EBITDAP and free cash flow (non‑GAAP metrics), respectively, and shows how the non-GAAP metrics were adjusted, as used in the determination of our AIP payouts.
+($ in millions)
+12 Fiscal Months EndedMarch 31, 2025
+Income from continuing operations (GAAP)
+$36
+Add back: Income tax expense
+6
+Add back: Interest expense and other
+88
+Add back: Debt extinguishment loss
+5
+Add back: Legal contingencies loss
+14
+Add back: Share-based compensation
+13
+Less: Amortization of acquired contract liability
+(3)
+Add back: Merger transaction costs
+12
+Add back: Depreciation & Amortization
+30
+Less: Non-service defined benefit income
+5
+Adjusted EBITDAP(1)
+206
+Add:
+Merger related retention expense
+4
+Add:
+Restructuring expense
+5
+AIP Adjusted EBITDAP - Achieved(1)
+$215
+($ in millions)
+12 Fiscal Months EndedMarch 31, 2025
+Cash flow from operations (GAAP)
+$38
+Capital expenditures
+(19)
+Free cash flow(1)
+19
+Add: Merger and divestiture adjustments
+10
+Add: Restructuring expense (cash)
+4
+AIP Free cash flow - Achieved(1)
+$33
+($ in millions)
+12 Fiscal Months EndedMarch 31, 2024
+Loss from continuing operations (GAAP)
+$(34)
+Add back: Income tax expense
+7
+Add back: Interest expense and other
+123
+Add back: Debt extinguishment loss
+2
+Less: Warrant remeasurement gain, net
+(9)
+Add back: Legal contingencies loss
+7
+Add back:
+Shareholder cooperation expenses
+2
+Add back: Loss on divestitures
+12
+Add back:
+Share-based compensation
+9
+Less: Amortization of acquired contract liability
+(3)
+Add back: Depreciation & Amortization
+30
+Less: Non-service defined benefit income
+(2)
+Adjusted EBITDAP(1)
+$144
+Add:
+Divestiture and restructuring adjustment
+6
+AIP Adjusted EBITDAP - Achieved(1)
+$150
+($ in millions)
+12 Fiscal Months EndedMarch 31, 2024
+Cash flow from operations (GAAP)
+$9
+Capital expenditures
+(21)
+Free cash flow(1)
+(12)
+Add back: Divestiture adjustment
+3
+Less:
+AIP Negative Discretion
+(3)
+AIP Free cash flow - Achieved(1)
+$(12)
+($ in millions)
+12 Fiscal Months EndedMarch 31, 2023
+40
+Income from continuing operations (GAAP)
+$72
+Add back: Income tax expense
+4
+Add back: Interest expense and other
+115
+Add back: Debt modification and extinguishment loss
+33
+Less: Warrant remeasurement gain, net
+(9)
+Add back: Pension related charges
+15
+Add back: Consideration payments to customer related to divestiture
+17
+Less: Gain on divestitures
+(102)
+Add back:
+Share-based compensation
+9
+Less: Amortization of acquired contract liability
+(3)
+Add back: Depreciation & Amortization
+33
+Less: Non-service defined benefit income
+(34)
+Adjusted EBITDAP(1)
+$150
+Less:
+AIP Negative Discretion
+(8)
+Add:
+Product Support Adjusted EBITDAP
+46
+AIP Adjusted EBITDAP - Achieved(1)(2)
+$188
+($ in millions)
+12 Fiscal Months EndedMarch 31, 2023
+Cash flow from operations (GAAP)
+$(52)
+Capital expenditures
+(21)
+Free cash flow(1)
+$(73)
+(1) This is a non-GAAP performance measure.(2)
+In fiscal year 2023, AIP Adjusted EBITDAP included the operating results of our aftermarket product support business.
+41

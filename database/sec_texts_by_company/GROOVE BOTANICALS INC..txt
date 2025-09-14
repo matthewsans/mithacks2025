@@ -1,0 +1,61 @@
+NT 10-K
+1
+form12b25dotcom_166.htm
+FORM 12B25: NT 10-K
+SEC Form 12b-25; production by EDGAR Filing Agent Online Workstation www.12b25.com
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWashington, DC 20549
+Form 12b-25
+NOTIFICATION OF LATE FILING
+SEC File Number: 000-23476
+CUSIP Number:
+☑  Form 10-K for Period Ended: 03-31-2025
+If the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates:
+PART I – REGISTRANT INFORMATIONGROOVE BOTANICALS INC.310 FOURTH AVENUE SOUTHSUITE 7000MINNEAPOLIS, MN
+55415
+Former Name if Applicable:
+PART II – RULES 12b-25(b) AND (c)
+If the subject report could not be filed without unreasonable effort or expense and the
+registrant seeks relief pursuant to Rule 12b-25(b), the following should be completed. (Check box if appropriate)
+☑
+(a)
+The reason described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense.
+(b)
+The subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-CEN or Form N-CSR, or portion thereof, will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report or transition report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the fifth calendar day following the prescribed due date; and
+(c)
+The accountant's statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART III – NARRATIVE
+State below in reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-CEN, N-CSR, or the transition report or
+portion thereof, could not be filed within the prescribed time period.
+Groove Botanicals Inc. is unable to file its Form 10-Q for the three and nine month periods ended December 31, 2024 in a timely manner without unreasonable effort or expense due to delays in completing the procedures relating to its quarter-end reporting process which includes additional closing processes for the prior comparative period as a result of the re-audit of March 2023 financial results which necessitates revised working papers and financial reporting for the comparative quarter ended December 31, 2023 for inclusion in the current quarter report.
+PART IV — OTHER INFORMATION
+(1)
+Name and telephone number of person to contact in regard to this notification.
+Kent Rodriquez
+612
+315-5068
+(Name)
+(Area Code)
+(Telephone Number)
+(2)
+Have all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934
+or Section 30 of the Investment Company Act of 1940 during the preceding 12 months or for such shorter
+period that the registrant was required to file such report(s) been filed? If answer is no, identify report(s).
+Yes ☑   No ☐
+(3)
+Is it anticipated that any significant change in results of operations from the corresponding period for
+the last fiscal year will be reflected by the earnings statements to be included in the subject report or portion thereof?
+Yes ☑   No ☐			If so, attach an explanation of the anticipated change, both narratively and quantitatively, and,
+if appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+The Company expects to report losses from operations for the year ended March 31, 2025 of approximately $145,000 as compared to losses from operations in the comparative fiscal year of $202,089.
+The substantial decline in reported losses is due to a reduction in consulting expenses from $78,300 reported as of March 31, 2024 to Nil in the year ended March 31, 2025 and a reduction in professional fees from $95,962 reported as of March 31, 2024 to approximately $57,000. The Company expects to report total net losses attributable to shareholders as of March 31, 2025 of approximately $364,000 as compared to $420,559 reported for the year ended March 31, 2024.
+GROOVE BOTANICALS INC.
+(Name of Registrant as Specified in Charter)
+has caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Date
+June 27, 2025
+By
+Kent Rodriquez
+Name
+Kent Rodriquez
+Title
+CEO

@@ -1,0 +1,3733 @@
+false
+FY
+0001538495
+0001538495
+2024-04-01
+2025-03-31
+0001538495
+2025-03-31
+0001538495
+2025-07-11
+0001538495
+2023-04-01
+2024-03-31
+0001538495
+2024-03-31
+0001538495
+us-gaap:CommonStockMember
+2024-03-31
+0001538495
+us-gaap:PreferredStockMember
+2024-03-31
+0001538495
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001538495
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001538495
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0001538495
+us-gaap:CommonStockMember
+2023-03-31
+0001538495
+us-gaap:PreferredStockMember
+2023-03-31
+0001538495
+us-gaap:AdditionalPaidInCapitalMember
+2023-03-31
+0001538495
+us-gaap:RetainedEarningsMember
+2023-03-31
+0001538495
+us-gaap:TreasuryStockCommonMember
+2023-03-31
+0001538495
+2023-03-31
+0001538495
+us-gaap:CommonStockMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:PreferredStockMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:RetainedEarningsMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:TreasuryStockCommonMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:CommonStockMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:PreferredStockMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:AdditionalPaidInCapitalMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:RetainedEarningsMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:TreasuryStockCommonMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:CommonStockMember
+2025-03-31
+0001538495
+us-gaap:PreferredStockMember
+2025-03-31
+0001538495
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001538495
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001538495
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001538495
+ETST:CustomerOneMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2024-04-01
+2025-03-31
+0001538495
+ETST:CustomerTwoMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2024-04-01
+2025-03-31
+0001538495
+ETST:CustomerThreeMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:CoreMember
+ETST:SaleOfPharmaceuticalProductsRxCompoundMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:CoreMember
+ETST:SaleOfPharmaceuticalProductsRxCompoundMember
+2023-04-01
+2024-03-31
+0001538495
+ETST:SaleOfPharmaceuticalProductsPeaksMember
+us-gaap:CoreMember
+2024-04-01
+2025-03-31
+0001538495
+ETST:SaleOfPharmaceuticalProductsPeaksMember
+us-gaap:CoreMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:CoreMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:CoreMember
+2023-04-01
+2024-03-31
+0001538495
+ETST:ShippingIncomeMember
+us-gaap:NonCoreMember
+2024-04-01
+2025-03-31
+0001538495
+ETST:ShippingIncomeMember
+us-gaap:NonCoreMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:NonCoreMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:NonCoreMember
+2023-04-01
+2024-03-31
+0001538495
+us-gaap:LandMember
+2025-03-31
+0001538495
+us-gaap:LandMember
+2024-03-31
+0001538495
+us-gaap:BuildingMember
+2025-03-31
+0001538495
+us-gaap:BuildingMember
+2024-03-31
+0001538495
+us-gaap:EquipmentMember
+2025-03-31
+0001538495
+us-gaap:EquipmentMember
+2024-03-31
+0001538495
+ETST:TelemedicinePropertyMember
+2025-03-31
+0001538495
+ETST:TelemedicinePropertyMember
+2024-03-31
+0001538495
+ETST:WebDomainMember
+2025-03-31
+0001538495
+ETST:WebDomainMember
+2024-03-31
+0001538495
+ETST:SoftwareMember
+2025-03-31
+0001538495
+ETST:SoftwareMember
+2024-03-31
+0001538495
+ETST:RxCompoundStorecomLLCandPeaksCurativeLLCMember
+2022-11-08
+0001538495
+srt:ScenarioForecastMember
+2025-04-01
+2026-03-31
+0001538495
+srt:ScenarioForecastMember
+2026-04-01
+2027-03-31
+0001538495
+ETST:CharlesSchwabMember
+2024-04-01
+2025-03-31
+0001538495
+ETST:CharlesSchwabMember
+2023-04-01
+2024-03-31
+0001538495
+ETST:MisterMedsMember
+2024-10-01
+2024-10-01
+0001538495
+ETST:AvenviLLCMember
+2024-10-01
+2024-10-01
+0001538495
+ETST:AvenviLLCAndMisterMedsLLCMember
+2024-04-01
+2025-03-31
+0001538495
+ETST:AvenviLLCAndMisterMedsLLCMember
+2024-10-01
+0001538495
+2024-12-30
+2024-12-30
+0001538495
+ETST:GiorgioRSaumatMember
+2024-12-30
+2024-12-30
+0001538495
+ETST:MarioGTabraueMember
+2024-12-30
+2024-12-30
+0001538495
+2024-10-01
+2024-10-01
+0001538495
+2024-10-01
+2025-01-31
+0001538495
+2024-10-01
+0001538495
+2024-04-01
+0001538495
+ETST:TwoThousandEighteenMember
+2025-03-31
+0001538495
+ETST:PreTwoThousandEighteenMember
+2025-03-31
+0001538495
+ETST:PostTwoThousandEighteenMember
+2025-03-31
+0001538495
+us-gaap:SubsequentEventMember
+ETST:LasVillasHealthCareLLCMember
+2025-04-01
+0001538495
+us-gaap:SubsequentEventMember
+ETST:LasVillasHealthCareLLCMember
+2025-04-01
+2025-04-01
+0001538495
+us-gaap:SubsequentEventMember
+ETST:DOConsultationsLLCMember
+2025-04-01
+0001538495
+ETST:MagnefuseLLCMember
+2024-04-01
+2025-03-31
+0001538495
+us-gaap:SubsequentEventMember
+ETST:MagnefuseLLCMember
+2025-04-01
+0001538495
+us-gaap:SubsequentEventMember
+ETST:MagnefuseLLCMember
+2025-04-01
+2025-04-01
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:sqft
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the fiscal year ended March 31, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission
+File No. 000-55000
+EARTH
+SCIENCE TECH, INC.
+(Exact
+name of registrant as specified in its charter)
+florida
+45-4267181
+(State
+or other jurisdiction of
+(I.R.S.
+Employer
+incorporation
+or organization)
+Identification
+No.)
+8950
+SW 74th CT
+Suite
+1401
+Miami,
+FL 33156, USA
+(Address
+of principal executive offices, zip code)
+(305)
+724-5684
+(Registrant’s
+telephone number, including area code)
+8950
+SW 74th CT
+Suite
+101
+Miami,
+FL 33156, USA
+(Former
+name, former address and former fiscal year, if changed since last report)
+Securities
+registered pursuant to Section 12(g) of the Act:
+Title
+of Each Class
+Trading
+Symbol
+Name
+of each exchange on which registered
+Common
+Stock $0.001 par value
+ETST
+Over
+the Counter Bulletin Board
+Securities
+registered pursuant to Section 12(b) of the Act: None
+Indicate
+by check mark if the registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act.
+Yes
+☐ No ☒
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes
+☒ No ☐
+Indicate
+by check mark whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant is a large, accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of “large, accelerated filer,” “accelerated filer” and “smaller reporting
+company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large,
+accelerated filer
+☐
+Accelerated
+filer
+☐
+Non-accelerated
+filer
+☐
+(Do
+not check if a smaller reporting company)
+Smaller
+reporting company
+☒
+Emerging
+Growth Company
+☐
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. ☒
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Exchange Act Rule 12b-2 of the Exchange Act):
+Yes
+☐ No ☒
+The
+aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the Registrant’s
+most recently completed fiscal year (March 31, 2025) was approximately $36,918,487.88
+APPLICABLE
+ONLY TO ISSUERS INVOLVED IN BANKRUPTCY
+PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS:
+Indicate
+by check mark whether the registrant has filed all documents and reports required to be filed by Sections 12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.
+Yes
+☐ No ☒
+The
+number of shares of Common Stock, $0.001 par value, outstanding on June 11th, 2025, was 294,297,607.
+APPLICABLE
+ONLY TO CORPORATE ISSUERS
+Audit
+Firm ID
+Auditor
+Name
+Auditor
+Location
+3523
+Stephano
+Slack, LLC.
+Wayne,
+PA
+TABLE
+OF CONTENTS
+PAGE
+PART I
+Item
+1.
+Business.
+4
+Item
+1A.
+Risk Factors.
+7
+Item
+1B.
+Unresolved Staff Comments.
+14
+Item
+1C.
+Cybersecurity.
+14
+Item
+2.
+Properties.
+14
+Item
+3.
+Legal Proceedings.
+14
+Item
+4.
+Mine Safety Disclosure.
+14
+PART II
+Item
+5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+15
+Item
+6.
+Selected Financial Data
+17
+Item
+7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+17
+Item
+7A.
+Quantitative and Qualitative Disclosures About Market Risk.
+23
+Item
+8.
+Financial Statements and Supplementary Data.
+23
+Item
+9A.
+Controls and Procedures.
+25
+Item
+9B.
+Other Information.
+26
+PART III
+Item
+10.
+Directors, Executive Officers and Corporate Governance.
+26
+Item
+11.
+Executive Compensation.
+29
+Item
+12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+30
+Item
+13.
+Certain Relationships and Related Transactions, and Director Independence.
+33
+Item
+14.
+Principal Accounting Fees and Services.
+34
+PART IV
+Item
+15.
+Exhibits, Financial Statement Schedules.
+35
+Item
+16.
+FORM 10-K Summary
+35
+SIGNATURES
+36
+2
+WHERE
+YOU CAN FIND MORE INFORMATION
+We
+file annual, quarterly, and current reports, proxy statements and other information required by the Securities Exchange Act of 1934,
+as amended (the “Exchange Act”), with the Securities and Exchange Commission (the “SEC”). You may read and copy
+any document we file with the SEC at the SEC’s public reference room located at 100 F Street, N.E., Washington, D.C. 20549, U.S.A.
+Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. Our SEC filings are also available to the
+public from the SEC’s internet site at http://www.sec.gov.
+On
+our Internet website, http://www.earthsciencetech.com, we post the following recent filings as soon as reasonably practicable after they
+are electronically filed with or furnished to the SEC: our annual reports on Form 10-K, our quarterly reports on Form 10-Q, our current
+reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act.
+When
+we use the terms “ETST,” “Company,” “we,” “our,” and “us,”
+we mean Earth Science Tech, Inc., a Florida corporation, and its consolidated subsidiaries, taken as a whole, as well as any predecessor
+entities, unless the context indicates otherwise.
+FORWARD
+LOOKING STATEMENTS
+This
+Annual Report on Form 10-K, the other reports, statements, and information that the Company has previously filed with or furnished to,
+or that we may subsequently file with or furnish to, the SEC, and public announcements that we have previously made or may subsequently
+make include, may include, or may incorporate by reference certain statements that may be deemed to be “forward-looking statements”
+within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, and that are intended to enjoy the protection
+of the safe harbor for forward-looking statements provided by that Act. To the extent that any statement made in this report contains
+information that is not historical, these statements are essentially forward-looking. Forward-looking statements can be identified using
+words such as “anticipate,” “estimate,” “plan,” “project,” “continuing,”
+“ongoing,” “expect,” “believe,” “intend,” “may,” “will,” “should,”
+“could,” and other words of similar meaning. These statements are subject to risks and uncertainties that cannot be predicted
+or quantified and, consequently, actual results may differ materially from those expressed or implied by such forward-looking statements.
+Such risks and uncertainties include, without limitation, marketability of our products; legal and regulatory risks associated with OTC
+Markets; our ability to raise additional capital to finance our activities; the future trading of our common stock; our ability to operate
+as a public company; our ability to protect our proprietary information; general economic and business conditions; the volatility of
+our operating results and financial condition; our ability to attract or retain qualified senior management personnel and research and
+development staff; and other risks detailed from time to time in our filings with the SEC, or otherwise.
+Information
+regarding market and industry statistics contained in this report is included based on information available to us that we believe is
+accurate. It is generally based on industry and other publications that are not produced for the purposes of securities offerings or
+economic analysis. Forecasts and other forward-looking information obtained from these sources are subject to the same qualifications
+and the additional uncertainties accompany any estimates of future market size, revenue and market acceptance of products and services.
+We do not undertake any obligation to publicly update any forward-looking statements. As a result, investors should not place undue reliance
+on these forward-looking statements.
+3
+PART
+I
+ITEM
+1. BUSINESS
+BUSINESS
+BACKGROUND AND OVERVIEW
+Earth
+Science Tech, Inc. (“ETST” or the “Company”) was incorporated under the laws of the State of Nevada on April
+23, 2010, and subsequently redomiciled to the State of Florida on June 27, 2022. As of November 8, 2022, ETST operates as a strategic
+holding company, focused on value creation through the acquisition, operational optimization, and management of its operating businesses.
+The Company’s current operations include compounding pharmaceuticals, telemedicine and real estate development through its wholly
+owned subsidiaries: RxCompoundStore.com, LLC (“RxCompound”), Peaks Curative, LLC (“Peaks”), Avenvi, LLC (“Avenvi”),
+Mister Meds, LLC (“Mister Meds”), and Earth Science Foundation, Inc. (“ESF”). Subsequent to the reporting period,
+the Company acquired 100% of Las Villas Health Care, Inc. (“Villas”), DOConsultations, LLC (“DOC”), and an 80%
+interest in MagneChef (“Magne”).
+RxCompound,
+based in Miami, Florida, is a fully licensed compounding pharmacy authorized to fulfill prescriptions in the following states and territories:
+Arizona, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Maine, Maryland, Minnesota, Missouri, Nevada, New Jersey, New
+York, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, Utah, Wisconsin and Puerto Rico. RxCompound is actively pursuing licensure
+in the remaining U.S. states.
+Peaks
+is a telemedicine referral platform offering asynchronous consultations for Peaks-branded compounded medications prepared at RxCompound
+and Mister Meds. The platform operates in states where either pharmacy is licensed. Through the development of its own healthcare provider
+network, MyOnlineConsultation.com, and ongoing licensure expansion for both pharmacies, Peaks aims to offer services nationwide. In addition,
+the company has recently expanded into the veterinary market through the acquisition of Zoolzy.com.
+Avenvi
+is a diversified real estate company engaged in development, asset management, and financing. With a growing portfolio of real estate
+holdings, Avenvi provides turnkey solutions from development to end-user financing. It also manages investment activities for ETST and
+oversees the Company’s ongoing $5 million share repurchase program.
+Mister
+Meds, acquired on October 1, 2024, is in Abilene, Texas. The pharmacy received full compounding licensure in March 2025. It operates
+out of a 5,000 sq. ft. facility owned by Avenvi and includes advanced sterile compounding capabilities with both positive and negative
+pressure environments, as well as hazardous drug handling. Mister Meds is currently applying for licensure in states not yet serviced
+by RxCompound.
+ESF,
+a 501(c)(3) nonprofit organization incorporated on February 11, 2019, is the charitable arm of ETST. ESF accepts grants and donations
+to assist individuals who need financial support for prescription costs at both RxCompound and Mister Meds.
+Villas
+is a brick-and-mortar healthcare facility dedicated to the Spanish speaking community. Our expert-led services include advanced sexual
+health treatments, and customized solutions to enhance physical performance. We combine compassionate, personalized care with clear,
+trustworthy education—empowering you to take control of your health with confidence.
+DOC
+was born with a passion to modernize the availability and delivery of home therapies. DOConsultations providers tailor a medication plan
+around your health and wellness goals and follow up with our patients to ensure results, while our partner pharmacies conveniently ship
+directly to your door.
+MagneChef
+is a direct-to-consumer retail brand. Utilizing its patents and intellectual properties, the company aims to develop new products that
+can be marketed and sold online. Currently, the company has developed products for cooking. MagneChef is in the process of expanding
+its product line for new offerings that incorporate its intellectual property.
+Current
+Operations
+CORPORATE
+STRATEGY
+The
+company is a holding company focused on value creation through the acquisition, operational optimization, and management of its operating
+businesses. The Company’s areas of focus include pharmaceutical compounding, telemedicine, real estate development, and direct
+to consumer products.
+The
+Company’s strategic approach centers on resource integration across its subsidiaries to create operational efficiencies. Through
+its subsidiaries RxCompound and Mister Meds, the Company operates licensed compounding pharmacies offering both sterile and non-sterile
+preparations. These services are supported by Peaks and DOC, which facilitate asynchronous telemedicine consultations and prescription
+generation across the Company’s operating footprint. As of the date of this filing, the Company is pursuing additional licensure
+to expand pharmacy and telehealth operations nationwide.
+4
+In
+parallel, the Company is engaged in the development and management of real estate assets through Avenvi. Avenvi’s operations provide
+infrastructure support to ETST’s pharmacies and facilitate real estate-related and other investment strategies, including the management
+of the Company’s share repurchase program. Additionally, Avenvi provides turnkey development and financing solutions to property
+buyers.
+The
+Company continues to diversify its holdings through strategic acquisitions. During the reporting period and subsequent thereto, the Company
+acquired 100% of Villas, which provides specialized wellness services including sexual health treatments tailored to the Spanish-speaking
+market, and 80% of Magne, a consumer brand focused on patented direct-to-consumer products. These acquisitions are intended to diversify
+ETST’s presence in targeted demographic and product segments.
+The
+Company’s nonprofit subsidiary, Earth Science Foundation, Inc. (“ESF”), supports access to prescription medications
+through donation-based programs that help subsidize prescription costs for qualifying patients.
+PRODUCT
+REGULATION
+The
+Company’s operations are subject to extensive federal, state, and local laws and regulations governing the compounding, distribution,
+and delivery of pharmaceutical products, as well as the provision of telemedicine services and sale of consumer goods.
+Pharmacy
+Regulation
+RxCompound
+and Mister Meds operate as licensed compounding pharmacies and are regulated by the state boards of pharmacy in each jurisdiction in
+which they are authorized to dispense medications. These pharmacies are also subject to applicable provisions of the Federal Food, Drug,
+and Cosmetic Act, including those governing drug compounding as outlined in Sections 503A. The pharmacies compound both sterile and non-sterile
+medications in accordance with the United States Pharmacopeia (USP) chapters <795>, <797>, and <800>, where applicable.
+Additional oversight may include inspections by state regulatory authorities and compliance with the Drug Enforcement Administration
+(DEA) for handling controlled substances, where applicable
+Telemedicine
+Regulation
+Peaks,
+Las Villas and DOConsultations operate as telemedicine platforms facilitating synchronous and asynchronous consultations between patients
+and licensed healthcare providers. These services are governed by applicable state telehealth laws, including licensure requirements
+for providers, prescribing regulations, patient consent protocols, and electronic privacy and security mandates under the Health Insurance
+Portability and Accountability Act (HIPAA). The Company actively monitors state-level regulatory developments to ensure continued compliance
+as it expands its network of providers and service coverage.
+Nonprofit
+Prescription Assistance
+Earth
+Science Foundation, Inc. (ESF) operates as a 501(c)(3) nonprofit organization and complies with IRS guidelines for charitable entities.
+ESF provides financial assistance for prescriptions filled at the Company’s affiliated pharmacies, and such assistance is provided
+in accordance with applicable anti-kickback and charitable contribution regulations.
+Consumer
+Product Regulation
+MagneChef-branded
+products are consumer goods subject to regulation by the Consumer Product Safety Commission (CPSC), as well as applicable product labeling,
+safety, and advertising requirements. The Company monitors relevant regulatory updates to ensure MagneChef-branded products continue
+to meet applicable safety standards, including those concerning heat resistance and material safety.
+The
+Company maintains internal compliance protocols and engages legal and regulatory consultants as needed to ensure adherence to applicable
+laws and industry standards across all subsidiaries and operating areas.
+5
+Marketing
+The
+Company’s marketing strategy is designed to support the growth of its pharmaceutical, telehealth, real estate, and consumer product
+operations. Marketing activities are conducted through a combination of digital advertising, strategic partnerships, professional referrals,
+and internal cross-brand promotion.
+Pharmacy
+and Telehealth Services
+Marketing
+for RxCompound, Mister Meds, Peaks, and DOConsultations target licensed healthcare providers, prospective patients, and affiliated businesses.
+These efforts include direct-to-consumer (DTC) outreach through digital channels such as search engine optimization (SEO), email marketing,
+and social media advertising. Additionally, the Company develops partnerships with fitness centers, wellness clinics, and medical offices
+to promote its compounded medications and asynchronous telehealth consultations.
+Real
+Estate Services
+Avenvi’s
+marketing initiatives are centered around its turnkey development services and financing capabilities. Marketing is conducted through
+industry relationships and project-specific campaigns designed to attract buyers for its properties.
+Consumer
+Products
+MagneChef
+products are marketed directly to consumers through online marketplaces, brand-specific e-commerce channels, and social media platforms.
+The Company employs influencers, video content, and paid media to promote product features and patented innovations. Marketing efforts
+highlight the safety, durability, and functional design of the products, with a focus on high-heat cooking, grilling, and professional
+kitchen use.
+The
+Company adheres to all applicable advertising regulations across its marketing channels, including those governing the promotion of health-related
+products and services. Marketing compliance is reviewed internally and through third-party consultants to reduce regulatory risk and
+ensure alignment with corporate messaging.
+COMPETITION
+The
+Company operates in multiple sectors and faces competition from a variety of companies, ranging from large, established organizations
+to smaller, specialized service providers.
+Compounding
+Pharmacies
+RxCompound
+and Mister Meds compete with other compounding pharmacies, including regional and national operators offering both sterile and non-sterile
+formulations. Competitive factors in this segment include licensure coverage, quality assurance standards, turnaround times, customer
+service, pricing, and the ability to produce customized formulations. The market is highly regulated, and compliance with USP <795>,
+<797>, and <800>, where applicable, standards are a key differentiator. The Company believes its growing licensure footprint,
+investment in advanced compounding infrastructure, and integration with affiliated telehealth platforms provide a competitive advantage.
+6
+Telemedicine
+Services
+Peaks
+and DOC operate in a rapidly evolving and highly competitive telehealth market. Key competitors include national telehealth platforms,
+vertically integrated pharmacy services, and digital health startups offering asynchronous or synchronous care. Competitive factors include
+platform accessibility, provider availability, regulatory compliance, pricing, and brand reputation. The Companies differentiate themselves
+by offering proprietary compounded medications.
+Real
+Estate Development and Investment
+Avenvi
+operates in the real estate development and investment sector, which is highly competitive and influenced by market cycles, interest
+rates, and geographic demand. Avenvi competes with local and national developers, institutional investors, and private equity firms.
+Competitive advantages include Avenvi’s ability to manage both project development and investment oversight in-house.
+Consumer
+Products
+MagneChef
+competes with established brands in the kitchen and grilling accessory market, including companies with significant brand recognition,
+marketing budgets, and retail distribution. The Company competes based on innovation, product safety, and durability. The MagneChef product
+line is distinguished by its patented magnetic release mechanism and high-heat protection features.
+Across
+all business segments, the Company’s ability to compete effectively depends on its continued investment in operational scalability,
+regulatory compliance, customer service, and innovation. The Company expects competitive pressures to intensify as regulatory frameworks
+evolve, and new market entrants emerge.
+EMPLOYEES
+As
+of March 31, 2025, the Company has 76 employees. None of our employees are represented by a union or covered by a collective bargaining
+agreement. We have not experienced any work stoppages, and we consider our relationship with our employees to be good.
+ITEM
+1A. RISK FACTORS
+A
+description of the risks and uncertainties associated with our business and ownership of our Class A common stock is set forth below.
+You should carefully consider the risks described below, as well as the other information in this Annual Report on Form 10-K, including
+our consolidated financial statements and the related notes and “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations.” The occurrence of any of the events or developments described below could materially and adversely
+affect our business, financial condition, results of operations, and growth prospects. In such an event, the market price of our Class
+A common stock could decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also
+impair our business operations. This Annual Report on Form 10-K also contains forward-looking statements that involve risks and uncertainties.
+Our actual results could differ materially from those anticipated in the forward-looking statements as a result of a number of factors,
+including the risks described below. See “Cautionary Note Regarding Forward-Looking Statements.”
+7
+Summary
+of Principal Risk Factors
+●
+Our
+results of operations, as well as our key metrics, may fluctuate on a quarterly and annual basis, which may result in our failing
+to meet the expectations of industry and securities analysts or our investors.
+●
+If
+we are unable to expand the scope of our offerings, including the number and type of products and services that we offer, the number
+and quality of healthcare providers serving our customers, and the number and types of conditions capable of being treated through
+our platform, our business, financial condition, and results of operations may be materially and adversely affected.
+●
+If
+we are unable to successfully market to new customers and retain existing customers, or if evolving privacy, healthcare, or other
+laws prevent or limit our marketing activities, our business, financial condition, and results of operations could be harmed.
+●
+We
+operate in highly competitive markets and face competition from large, well-established healthcare providers and more traditional
+retailers and pharmaceutical providers with significant resources, and, as a result, we may not be able to compete effectively.
+●
+Our
+brand is integral to our success. If we fail to effectively maintain, promote, and enhance our brand in a cost-effective manner,
+our business and competitive advantage may be harmed.
+●
+Our
+pharmacy business subjects us to additional healthcare laws and regulations beyond those we face with our telehealth business and
+increases the complexity and extent of our compliance and regulatory obligations.
+●
+If
+we fail to comply with applicable healthcare and other governmental regulations, we could face substantial penalties, in which case
+our business, financial condition, and results of operations could be adversely affected, and we may be required to restructure our
+operations.
+●
+Evolving
+government regulations and enforcement activities may require increased costs or adversely affect our results of operations.
+●
+Security
+breaches, loss of data, and other disruptions could compromise sensitive information related to our business or customers or prevent
+us from accessing critical information and expose us to liability, which could adversely affect our business and our reputation.
+●
+We
+may be subject to legal proceedings and litigation, including intellectual property disputes, which are costly to defend and could
+materially harm our business and results of operations.
+●
+We
+may require additional capital to support business growth, and this capital might not be available on acceptable terms, if at all.
+●
+Our
+Series B class Preferred stock structure has the effect of concentrating voting power with our Chief Executive Officer and Director,
+Giorgio R. Saumat, which limits an investor’s ability to influence the outcome of important transactions, including a change
+in control.
+●
+The
+market price of our common stock may be volatile.
+8
+Risks
+Related to Peaks, RxCompound, Mister Meds Business, DOC, and Villas
+Our
+limited operating history and evolving business model make it difficult to evaluate our current performance or predict our future results.
+Because we are a relatively young company with a developing business model, investors may have limited information on which to base an
+investment decision. As we continue to grow and expand into new markets and offerings, our prospects must be considered in light of the
+risks and uncertainties associated with a developing company in a rapidly evolving industry.
+If
+we are unable to expand the scope of our offerings, our business and financial results may suffer. Our ability to grow depends on expanding
+the number and types of products and services we offer, increasing the number and quality of healthcare providers on our platform, and
+broadening the range of treatable conditions. If we fail to do so, our ability to attract and retain customers, generate revenue, and
+compete effectively may be materially and adversely affected.
+Failure
+to attract and retain customers may materially harm our business. Our growth depends on acquiring and retaining customers through marketing
+efforts and platform engagement. If our marketing strategies fail to generate sufficient awareness or demand, or if changes in privacy,
+healthcare, or marketing regulations limit our outreach, our revenue and overall performance could be negatively impacted.
+Misuse
+or mismanagement of social media and influencer marketing may expose us to reputational and regulatory risk. While social media and celebrity
+influencers can enhance brand recognition, any misuse, inappropriate associations, or failure to comply with advertising regulations
+could lead to reputational damage, customer loss, and potential fines or penalties.
+Our
+brand is integral to our competitive position, and any deterioration in brand equity could harm our business. We rely heavily on brand
+strength to differentiate ourselves in the market. If we fail to effectively promote, protect, or maintain our brand, our reputation
+could suffer, negatively impacting customer acquisition, retention, and partnership opportunities.
+If
+our offerings fail to achieve or maintain market acceptance, our financial performance could be adversely affected. Failure to meet customer
+expectations or differentiate our services from competitors could result in slower growth, lower revenue, and reduce investor confidence.
+We
+operate in a nascent and rapidly evolving market that may be difficult to predict. Our core business model, particularly through Peaks,
+DOC, and Villas, operates in emerging areas of telehealth and wellness. The competitive landscape is dynamic and includes risks related
+to regulatory changes, industry consolidation, and shifts in consumer behavior, all of which may affect demand forecasting and business
+planning.
+Technological
+innovations and alternative solutions may reduce demand for our services. Advancements in digital health, diagnostics, or pharmaceutical
+therapies could render our offerings less attractive or obsolete, affecting customer retention and revenue.
+We
+face competition from larger, better-capitalized companies. Many of our competitors include large healthcare systems, retail pharmacies,
+and pharmaceutical manufacturers with greater brand recognition, operational scale, and financial resources, which may limit our ability
+to compete effectively.
+9
+The
+conduct of affiliated healthcare providers may expose us to liability and reputational harm. Our reputation and legal standing may be
+affected by the actions of healthcare professionals affiliated with Peaks, DOC, Villas, RxCompound, or Mister Meds. Any unethical or
+noncompliant conduct may result in legal exposure or loss of trust in our platform.
+Poor
+customer support may damage our reputation and financial performance. A failure to provide effective support to patients and providers
+may lead to dissatisfaction, complaints, and erosion of customer loyalty, which could impair our competitive position and revenue.
+Acquisitions
+and strategic investments could fail to deliver expected benefits and may introduce additional risks. We may pursue acquisitions or strategic
+partnerships to accelerate growth, but such transactions carry risks related to integration, unforeseen liabilities, operational disruption,
+and dilution to existing shareholders.
+Macroeconomic
+conditions may negatively affect demand for our services. Economic downturns, inflation, or disruptions in the healthcare or real estate
+markets may reduce consumer spending or investor confidence, thereby impacting our financial performance.
+Our
+mobile experience is critical to user engagement and retention. A significant portion of users interact with our platform via mobile
+devices. Any issues with mobile functionality, performance, or compatibility may impair our ability to retain and grow our customer base.
+We
+rely on uninterrupted internet and mobile network access to operate our platform. Any outages or interruptions in internet or cellular
+connectivity could disrupt service availability, reduce customer satisfaction, and harm our reputation. Failures, delays, or breaches
+by these vendors may impair our ability to provide services, fulfill prescriptions, or maintain operational continuity.
+Supply
+chain disruptions could affect product availability and customer satisfaction. Delays or shortages in the supply of pharmaceutical ingredients,
+packaging, or delivery services could affect our ability to meet demand and damage our brand.
+Pharmacy
+operations are subject to complex healthcare regulations and heightened compliance risk. RxCompound and Mister Meds must adhere to a
+wide array of state and federal pharmacy regulations, including those beyond telehealth services. Noncompliance could result in fines,
+license suspensions, or legal action.
+We
+rely on third-party payment processors and must comply with evolving payment regulations. Any failure in payment processing systems or
+regulatory compliance could interrupt transactions, harm user experience, and reduce revenue.
+Inaccurate
+or ineffective pricing strategies could hinder our competitiveness. If our pricing does not reflect market dynamics or customer expectations,
+we may face reduced demand, margin compression, or lost opportunities for partnership growth.
+Our
+business depends on the leadership team’s continuity and expertise. The loss of key executives or inability to recruit
+experienced leadership could impair our ability to execute on strategy and manage daily operations effectively.
+Our
+growth relies on attracting and retaining skilled employees. An inability to hire or retain qualified personnel may constrain our innovation
+capacity, operational execution, and scalability.
+We
+rely on centralized inventory locations for order fulfillment. Our inventory is currently housed at RxCompound’s
+facility in Miami, Florida and Mister Meds’ facility in Abilene, Texas. A disruption, natural disaster, or facility damage at either
+site could materially impair our ability to fulfill orders and meet customer expectations.
+10
+Risks
+Related to Avenvi Business
+Market
+volatility could affect asset values and returns. Avenvi’s real estate assets are influenced by macroeconomic factors
+such as inflation, interest rates, and regional market conditions. A downturn could lead to reduced valuations, delayed projects, and
+lower development returns.
+Development
+projects carry execution and cost risks. Delays, cost overruns, zoning or environmental issues, and changing market demand may affect
+the success and profitability of Avenvi’s development projects.
+Limited
+access to financing could constrain Avenvi’s growth. Avenvi’s ability to pursue and complete
+development projects depends on access to capital and credit. Rising interest rates or unfavorable lending terms may limit its ability
+to fund future activities.
+Avenvi’s
+performance is closely tied to ETST’s strategic direction. As Avenvi manages investments for Earth Science Tech,
+Inc., changes in ETST’s strategic priorities or liquidity—such as decisions surrounding the $5 million share
+repurchase program—may affect Avenvi’s operations and outcomes.
+Regulatory
+compliance burdens may increase costs or delay projects. Avenvi’s operations are subject to various zoning, disclosure,
+tax, and environmental regulations. Changes in these laws may increase compliance costs or restrict development opportunities.
+Shifts
+in demand may affect project success. Changes in real estate demand—particularly due to economic trends or remote work—may
+reduce demand for Avenvi’s residential or commercial developments.
+Reputational
+risks may result from underperformance or mismanagement. Failure to meet development expectations or mismanagement of capital—especially
+in relation to ETST’s resources—may result in reputational damage or increased scrutiny from shareholders and
+regulators.
+Risks
+Related to MagneChef Consumer
+We
+may be unable to protect our intellectual property rights, including those associated with Magne. The Magne product line depends on patented
+technologies and trademarked branding. Failure to enforce or maintain these rights may result in loss of exclusivity, brand dilution,
+or increased competition.
+Product
+liability or safety issues related to Magne could result in reputational harm or legal exposure. If any Magne product is found to be
+defective, unsafe, or misused, we may face product recalls, regulatory inquiries, litigation, or consumer dissatisfaction that adversely
+impacts sales and brand equity.
+Magne
+operates in a competitive consumer goods market with limited barriers to entry. Larger companies with established distribution, pricing
+power, or marketing budgets may limit our ability to gain or maintain market share.
+Shifts
+in consumer behavior may impact demand for Magne products. Changes in household spending patterns, cooking trends, or consumer preferences
+could reduce demand and impact overall product performance.
+Risks
+Related to Governmental Regulation
+We
+are subject to extensive, complex, and evolving government regulations. Our operations—particularly those involving RxCompound,
+Mister Meds, Peaks, DOC, and Villas—are subject to a broad range of federal, state, and local regulations governing healthcare,
+pharmacy operations, telemedicine, and patient privacy. Failure to comply with these regulations could result in substantial penalties,
+operational restrictions, or reputational harm. Regulatory requirements may change without notice, potentially requiring significant
+expenditures to ensure compliance.
+Noncompliance
+with federal or state healthcare laws could result in civil or criminal penalties. If any of our business practices are found to violate
+anti-kickback statutes, false claims laws, HIPAA, or other healthcare-related laws, we could face fines, exclusion from federal healthcare
+programs, or other enforcement actions that materially affect our operations.
+11
+Changes
+in healthcare policy and reimbursement structures could impact our business model. Modifications to federal or state healthcare programs,
+insurance coverage mandates, or telehealth reimbursement policies may affect customer access, demand for our services, or the financial
+viability of our offerings.
+Our
+pharmacy operations are subject to heightened regulatory scrutiny. RxCompound and Mister Meds must comply with numerous state pharmacy
+board regulations, DEA requirements for controlled substances, and FDA rules for compounded medications. Any violation—whether
+intentional or inadvertent—could result in license suspension, fines, or criminal investigation.
+Evolving
+telemedicine regulations create compliance uncertainty. As telehealth laws continue to evolve across jurisdictions, we must adapt to
+inconsistent requirements around prescribing, physician licensure, patient consent, and recordkeeping. Failure to keep pace with these
+changes may limit our geographic reach or lead to regulatory violations.
+Privacy
+and data protection laws may impose additional burdens on our business. We are subject to HIPAA and other federal and state privacy laws
+governing the collection, storage, and transmission of personal health information. Breaches or noncompliance may result in fines, litigation,
+and loss of customer trust.
+Future
+regulatory developments may increase compliance costs or restrict operations. Emerging policies—such as new FDA oversight of compounded
+drugs, increased scrutiny of health tech platforms, or restrictions on influencer marketing in healthcare—could materially affect
+how we conduct business.
+Risks
+Related to Intellectual Property and Legal Proceedings
+We
+may be unable to adequately protect our intellectual property rights. Our success depends in part on our ability to protect proprietary
+technologies, trademarks, trade secrets, and other intellectual property associated with our brands, including Magne. If we fail to adequately
+secure or enforce our rights, we may lose competitive advantages, experience brand dilution, or face increased competition.
+Third
+parties may infringe on our intellectual property or challenge its validity. Unauthorized use or misappropriation of our intellectual
+property could harm our reputation and market position. In some cases, we may be forced to initiate costly and time-consuming legal proceedings
+to protect our rights or defend against infringement claims.
+We
+may be subject to claims alleging intellectual property infringement. As we expand our offerings, there is a risk that third parties
+may allege that our technologies, branding, or marketing strategies infringe on their intellectual property rights. Even if such claims
+lack merit, they could lead to litigation, financial liabilities, or reputational damage.
+Litigation
+or regulatory investigations could materially impact our operations. We may be involved in legal proceedings or regulatory actions in
+the normal course of business, including those related to employment practices, patient care, privacy violations, product liability,
+or contractual disputes. Any such proceedings could result in substantial costs, diversion of management attention, or adverse judgments.
+We
+may not be adequately insured against certain legal risks. While we maintain liability and business insurance, coverage may be unavailable
+or insufficient for certain types of intellectual property claims, regulatory actions, or class-action lawsuits. This may result in out-of-pocket
+expenses that adversely affect our financial position.
+Settlement
+obligations or adverse rulings could affect financial results. If we are required to settle a legal claim or if a court issues a judgment
+against us, we could face significant financial liabilities or operational restrictions, which may materially affect our business and
+results of operations.
+12
+Risks
+Related to the Company, Results of Operations, and Additional Capital Requirements
+The
+Company has a history of net losses, anticipates increasing expenses in the future, and may not be able to maintain profitability.
+The
+Company’s results of operations, as well as our key metrics, may fluctuate on a quarterly and annual basis, which may result in
+failure to meet the expectations of industry and securities analysts or its investors.
+Peaks
+relies significantly on revenue from customers purchasing subscription-based prescription products and services and may not be successful
+in expanding its offerings.
+The
+requirements of being a public company have strained and may continue to strain the Company’s resources, divert management’s
+attention, and may result in litigation.
+The
+Company may require additional capital to support business growth, and this capital might not be available on acceptable terms, if at
+all.
+If
+the Company’s estimates or judgments relating to its significant accounting policies prove to be incorrect, the results of operations
+could be adversely affected.
+Adverse
+tax laws or regulations could be enacted, or existing laws could be applied to the Company or to customers, which could subject us to
+additional tax liability and related interest and penalties, increase the costs of the Company’s offerings, and adversely impact
+our business.
+Certain
+U.S. state tax authorities may assert the Company has a state nexus and seek to impose state and local income taxes which could harm
+the results of operations.
+Risks
+Related to Ownership of the Company Securities
+Trading
+in our common stock on the Pink Exchange has been subject to wide fluctuations.
+Our
+common stock is currently quoted only on the OTC Pink Marketplace, which may have an unfavorable impact on our stock price and liquidity.
+The
+regulation of penny stocks by SEC and FINRA may discourage the tradability of our securities.
+Florida
+law, our Articles of Incorporation, and our by-laws provide for the indemnification of our officers and directors at our expense, and
+correspondingly limits their liability, which may result in a major cost to us and hurt the interests of our shareholders because corporate
+resources may be expended for the benefit of officers and/or directors.
+We
+do not intend to pay cash dividends on any investment in the shares of stock of our Company and any gain on an investment in our Company
+will need to come through an increase in our stock’s price, which may never happen.
+Because
+our securities are subject to penny stock rules, you may have difficulty reselling your shares.
+Our
+common stock market prices may be volatile, which substantially increases the risk that investors may not be able to sell their Securities
+at or above the price that was paid for the security.
+Because
+we may issue additional shares of our common stock, investment in our company could be subject to substantial dilution.
+FINRA
+sales practice requirements may also limit a stockholder’s ability to buy and sell our stock.
+The
+issuance of shares to enter acquisitions may have a significant dilutive effect.
+13
+ITEM
+1B. UNRESOLVED STAFF COMMENTS
+None.
+ITEM
+1C. CYBERSECURITY
+ETST
+recognizes the growing importance of cybersecurity. The company employs a dedicated IT infrastructure department led by Chris Rose. The
+IT department assumes the primary responsibility for overseeing our cybersecurity risk exposure across the entire organization. This
+includes evaluating, assessing, and enhancing cybersecurity practices.
+Initial
+Risk Assessment
+Our
+CTO conducts regular IT and Security risk assessments. This involves employee sit-alongs, inventorying all tech systems and assets, and
+reviewing existing practices, procedures, and policies. The findings are meticulously cataloged. Action plans are developed and addressed
+in priority ranked order. These assessments are updated quarterly, addressing new and outstanding risks and remediation plans.
+Third-Party
+Engagement
+To
+expedite security policy changes, active threat monitoring, infrastructure enhancements, device management, and endpoint security, the
+company engages additional third-party IT consultants.
+ITEM
+2. PROPERTY AND EQUIPMENT
+The
+Company’s Subsidiaries RxCompound and Mister Meds use a variety of pharmaceutical compounding equipment in its operations.
+Most of the equipment used by the Company is owned outright by the Company, but the Company does lease certain equipment. The leases
+for such equipment contain terms that are customary in the industry in which the Company operates. On March 31, 2025, the Company
+had approximately $1,384,110 in property and equipment net.
+ITEM
+3. LEGAL PROCEEDINGS
+From
+time to time, in the ordinary course of business, we may become involved in legal proceedings seeking monetary damages or other remedies.
+The ultimate outcome and potential liability, if any, arising from such matters cannot be predicted. As of the date hereof, there are
+no pending or, to our knowledge, threatened legal actions against us, our officers, or directors in their official capacities, or involving
+our properties, that, in the opinion of management, are likely to have a material adverse effect on our financial condition, results
+of operations, or cash flows.
+ITEM
+4. MINE SAFETY DISCLOSURE
+Not
+applicable.
+14
+PART
+II
+ITEM
+5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+Our
+common stock is currently quoted on the OTC Pink Market under the symbol “ETST.” Our common stock has been quoted on the
+OTC Pink Market since October 6, 2021, under the symbol “ETST”. Because we are quoted on the OTC Pink Market, our securities
+may be less liquid, receive less coverage by security analysts and news media, and generate lower prices than might otherwise be obtained
+if they were listed on a national securities exchange.
+The
+following table sets forth the high and low bid quotations for our common stock as reported in the Pink for the periods indicated.
+Fiscal Year Ending March 31st, 2025
+Low
+High
+First Quarter – reported June 30, 2024
+$0.24
+$0.279
+Second Quarter – reported September 30, 2024
+$0.14
+$0.1799
+Third Quarter – reported December 31, 2024
+$0.1134
+$0.129
+Fourth Quarter – reported March 31, 2025
+$0.0115
+$0.13
+Fiscal Year Ending March 31st, 2024
+Low
+High
+First Quarter – reported June 30, 2023
+$0.0497
+$0.0497
+Second Quarter – reported September 30, 2023
+$0.051
+$0.066
+Third Quarter – reported December 31, 2023
+$0.051
+$0.0699
+Fourth Quarter – reported March 31, 2024
+$0.066
+$0.067
+HOLDERS
+As
+of March 31, 2025, there were 209 beneficial holders of the Company’s common stock.
+DIVIDENDS
+We
+have not paid any dividends on our common stock since our inception.
+The
+declaration of any future cash dividends is at the discretion of our board of directors and depends upon our earnings, if any, our capital
+requirements and financial position, our general economic conditions, and other pertinent conditions.
+UNREGISTERED
+SALES OF SECURITIES
+The
+Company did not sell any equity securities during the fiscal year ended March 31, 2025.
+EQUITY
+COMPENSATION PLAN INFORMATION
+The
+Company currently does not have an equity compensation plan in place.
+COMMON
+STOCK
+The
+holders of our common stock are entitled to one vote per share on all matters submitted to a vote of our stockholders. The holders of
+the common stock have the sole right to vote, except as otherwise provided by law, by our articles of incorporation, or in a statement
+by our board of directors in a Preferred Stock Designation.
+In
+addition, such holders are entitled to receive ratably such dividends, if any, as may be declared from time to time by our board of directors
+out of legally available funds, subject to the payment of preferential dividends or other restrictions on dividends contained in any
+Preferred Stock Designation, including, without limitation, the Preferred Stock Designation establishing a series of preferred stock
+described above. In the event of the dissolution, liquidation or winding up of Earth Science Tech, Inc., the holders of our common stock
+are entitled to share ratably in all assets remaining after payment of all our liabilities, subject to the preferential distribution
+rights granted to the holders of any series of our preferred stock in any Preferred Stock Designation, including, without limitation,
+the Preferred Stock Designation establishing a series of our preferred stock described above.
+15
+The
+holders of the common stock do not have cumulative voting rights or preemptive rights to acquire or subscribe for additional, unissued
+or treasury shares in accordance with the laws of the State of Florida. Accordingly, excluding any voting rights granted to any series
+of our preferred stock, the holders of more than 50 percent of the issued and outstanding shares of the common stock voting for the election
+of directors can elect all of the directors if they choose to do so, and in such event, the holders of the remaining shares of the common
+stock voting for the election of the directors will be unable to elect any person or persons to the board of directors. All outstanding
+shares of the common stock are fully paid and non-assessable.
+The
+laws of the State of Florida provide that the affirmative vote of a majority of the holders of the outstanding shares of our common stock
+and any series of our preferred stock entitled to vote thereon is required to authorize any amendment to our articles of incorporation,
+any merger or consolidation of Earth Science Tech, Inc. with any corporation, or any liquidation or disposition of any substantial assets
+of Earth Science Tech, Inc.
+PREFERRED
+STOCK
+On
+April 21, 2022, the Company’s Board of Directors adopted articles of incorporation in the state of Nevada authorizing, without
+further vote or action by the stockholders, the creation, out of the unissued shares of the Company’s preferred stock, $0.001 par
+value Series B Preferred Stock. The Board of Directors is authorized to establish, from the authorized and unissued shares of Preferred
+Stock, one or more classes or series of shares, to designate each such class and series, and fix the rights and preferences of each such
+class of Preferred Stock; which class or series shall have such voting powers, such preferences, relative, participating, optional or
+other special rights, and such qualifications, limitations or restrictions as shall be stated and expressed in the resolution or resolutions
+providing for the issuance of such class or series of Preferred Stock as may be adopted from time to time by the Board of Directors prior
+to the issuance of any shares thereof. The articles of incorporation and designation authorize the issuance of 1,000,000 shares of Preferred
+Stock, of which 1,000,000 shares have been designated as Series B Preferred Stock, of which 1,000,000 shares of Series B are issued and
+outstanding as of March 31, 2025. Each issued and outstanding share of Series B Preferred Stock shall be entitled to the number of votes
+equal to the result of: (i) 1.5 multiplied by the addition sum of: (A) the number of shares of Common Stock issued and outstanding at
+the time of such vote; and (B) the number of votes in the aggregate of any outstanding shares of any class of preferred stock of the
+Corporation (other than the Series B Preferred Stock), if any, at the time of such vote; with such sum divided by (ii) the total number
+of shares of Series B Preferred Stock issued and outstanding at the time of such vote, at each meeting of shareholders of the Corporation
+with respect to any and all matters presented to the shareholders of the Corporation for their action or consideration, including the
+election of directors. Holders of Series B Preferred Stock shall vote together with the holders of Common Shares (and any other outstanding
+class of preferred stock of the Corporation (other than the Series B Preferred Stock), if any.
+WARRANTS
+The
+Company does not currently have any warrants issued or outstanding.
+ISSUER
+REPURCHASES OF EQUITY SECURITIES
+During
+the twelve months ended March 31, 2025, the Company repurchased 14,583,916 shares of its common stock for $1,465,837.70, in private transactions
+through Stock Purchase Agreements with certain shareholders. On June 26, 2024, the Company repurchased 914,108 shares from an investor
+at $0.1734 per share in cash. On July 10, 2024, the Company repurchased a total of 17,000 shares from two investors at $0.28 per share
+in cash. On July 30, 2024, the Company repurchased 1,500,000 shares from an investor at $0.13 per share in cash. On August 6, 2024, the
+Company repurchased 2,500,000 shares from an investor at $0.105 per share in cash. On August 26, 2024, the Company repurchased 70,000
+shares from an investor at $0.105 per share in cash. On September 18, 2024, the Company repurchased 549,061 shares from an investor at
+$0.21 per share in cash. On October 3, 2024, the Company repurchased 500,000 shares from an investor at $0.11 per share in cash. On October
+28, 2024, the Company repurchased 115,385 shares from an investor at $0.105 per share in cash. On November 15, 2024, the Company repurchased
+355,967 shares from an investor at $0.1685 per share in cash. On January 10, 2025, the Company repurchased 2,500,000 shares from an investor
+at $0.06 per share in cash. These shares were cancelled. On January 13, 2025, the Company repurchased 1,500,000 shares from an investor
+at $0.06 per share in cash. On January 15, 2025, the Company repurchased 666,667 shares from an investor at $0.06 per share in cash.
+On January 15, 2025, the Company repurchased 333,334 shares from an investor at $0.06 per share in cash. These shares were cancelled.
+On January 15, 2025, the Company repurchased 266,667 shares from an investor at $0.06 per share in cash. On March 17, 2025, the Company
+repurchased 2,000,000 shares from an investor at $0.05 per share in cash. These shares were cancelled.
+16
+ISSUER
+CANCELLATION OF EQUITY SECURITIES
+During
+the twelve months ended March 31, 2025, the Company cancelled 50,000 shares of its common stock through a Board Consent because the shares
+were not intended for use or benefit by the Company.
+OPTIONS
+The
+Company has not granted any options since its inception.
+TRANSFER
+AGENT
+The
+Company’s transfer agent is Continental Stock Transfer & Trust, Co., 1 State Street, 30th Floor, New York, NY 10004.
+ITEM
+6. SELECTED FINANCIAL DATA
+Not
+applicable to a “smaller reporting company” as defined in Item 10(f)(1) of SEC Regulation S-K.
+ITEM
+7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The
+following discussion of our financial condition and results of operations for the years ended March 31, 2025, and March 31, 2024, should
+be read in conjunction with our consolidated financial statements and the notes to those statements that are included elsewhere in this
+Annual Report on Form 10-K. Our discussion includes forward-looking statements based upon current expectations that involve risks and
+uncertainties, such as our plans, objectives, expectations, and intentions. Actual results and the timing of events could differ materially
+from those anticipated in these forward-looking statements due to several factors. We use words such as “anticipate,” “estimate,”
+“plan,” “project,” “continuing,” “ongoing,” “expect,” “believe,”
+“intend,” “may,” “will,” “should,” “could,” and similar expressions to identify
+forward-looking statements.
+OVERVIEW
+The
+Company’s current operations include compounding pharmaceuticals, telemedicine and real estate development through its wholly owned
+subsidiaries: RxCompoundStore.com, LLC (“RxCompound”), Peaks Curative, LLC (“Peaks”), Avenvi, LLC (“Avenvi”),
+Mister Meds, LLC (“Mister Meds”), and Earth Science Foundation, Inc. (“ESF”). Subsequent to the reporting period,
+the Company acquired 100% of Las Villas Health Care, Inc. (“Villas”), DOConsultations, LLC (“DOC”), and an 80%
+interest in MagneChef (“Magne”).
+RxCompound,
+based in Miami, Florida, is a fully licensed compounding pharmacy authorized to fulfill prescriptions in the following states and territories:
+Arizona, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Maine, Maryland, Minnesota, Missouri, Nevada, New Jersey, New
+York, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, Utah, Wisconsin and Puerto Rico. RxCompound is actively pursuing licensure
+in the remaining U.S. states.
+Peaks
+is a telemedicine referral platform offering asynchronous consultations for Peaks-branded compounded medications prepared at RxCompound
+and Mister Meds. The platform operates in states where either pharmacy is licensed. Through the development of its own healthcare provider
+network, MyOnlineConsultation.com, and ongoing licensure expansion for both pharmacies, Peaks aims to offer services nationwide.
+17
+Avenvi
+is a diversified real estate company engaged in development, asset management, and financing. With a growing portfolio of real estate
+holdings, Avenvi provides turnkey solutions from development to end-user financing. It also manages investment activities for ETST and
+oversees the Company’s ongoing $5 million share repurchase program.
+Mister
+Meds, acquired on October 1, 2024, is in Abilene, Texas. The pharmacy received full compounding licensure in March 2025. It operates
+out of a 5,000 sq. ft. facility owned by Avenvi and includes advanced sterile compounding capabilities with both positive and negative
+pressure environments, as well as hazardous drug handling. Mister Meds is currently applying for licensure in states not yet serviced
+by RxCompound.
+ESF,
+a 501(c)(3) nonprofit organization incorporated on February 11, 2019, is the charitable arm of ETST. ESF accepts grants and donations
+to assist individuals who need financial support for prescription costs at both RxCompound and Mister Meds.
+Villas
+is a brick-and-mortar healthcare facility dedicated to the Spanish speaking community. Our expert-led services include advanced sexual
+health treatments, and customized solutions to enhance physical performance. We combine compassionate, personalized care with clear,
+trustworthy education — empowering you to take control of your health with confidence.
+DOC
+was born with a passion to modernize the availability and delivery of home therapies. DOConsultations providers tailor a medication plan
+around your health and wellness goals and follow up with our patients to ensure results, while our partner pharmacies conveniently ship
+directly to your door.
+MagneChef
+is a direct-to-consumer retail brand. Utilizing its patents and intellectual properties, the company aims to develop new products that
+can be marketed and sold online. Currently, the company has developed products for cooking. MagneChef is in the process of expanding
+its product line for new offerings that incorporate its intellectual property.
+RESULTS
+OF OPERATIONS
+The
+following tables set forth summarized cost of revenue information for the year ended March 31, 2025, and for the year ended March 31,
+2024, respectively.
+For the Year Ending March 31,
+2025
+2024
+$ Change
+% Change
+Revenue
+$33,117,624
+$11,953,635
+$21,163,989
+177%
+Cost of goods sold
+8,817,488
+4,124,139
+4,692,349
+114%
+Gross Profit
+24,300,136
+7,828,496
+16,471,640
+210%
+We
+had product sales of $33,117,624 and a gross profit of $24,300,136, representing a gross margin of 73% for the year ended March 31, 2025,
+compared with product sales of $11,953,635 and a gross profit of $7,828,496 representing a gross margin of 65% in year end March 31,
+2024. The revenue increase in the year ended on March 31, 2025, compared with the year ended on March 31, 2024, is primarily due to an
+increase in the demand for compounded medications.
+The
+Gross Margin increase is driven by the Company’s subsidiaries’ increased buying power, which provides the ability to negotiate
+better prices on raw active ingredient products.
+18
+For
+the year ended March 31, 2025, the Company had a net income of approximately $3,272,000 compared to a net income from continuing operations
+of approximately $812,000 for the year ended March 31, 2024.
+OPERATING
+EXPENSES
+For years ended March 31,
+2025
+2024
+$ Change
+% Change
+Salaries Expense
+14,115,643
+4,358,917
+9,756,726
+224%
+Office/General and Administrative Expenses
+4,154,838
+166,976
+3,987,862
+2388%
+Bank Charges
+1,066,577
+422,970
+643,607
+152%
+Advertising & marketing
+836,860
+25,283
+811,577
+3214%
+Legal & Professional Fees
+305,932
+1,774,182
+(1,468,250)
+83%
+Insurance
+180,281
+5,363
+174,918
+3262%
+Depreciation and Amortization
+151,655
+149,749
+1,906
+1%
+Utilities
+40,392
+15,368
+25,024
+163%
+Rent expense
+-
+10,797
+(10,797)
+(100)%
+Miscellaneous
+-
+6,542
+(6,542)
+(100)%
+Total operating expenses
+20,852,178
+$6,936,147
+$13,916,031
+67%
+Other income/expenses
+Dividend Income
+9,123
+-
+9,123
+100%
+Interest earned
+17
+-
+17
+100%
+Net realized gain on sale of investments
+300,162
+-
+300,162
+100%
+Unrealized Gain/Loss of fair value changes of investments
+(365,661)
+-
+(365,661)
+(100)%
+Interest Expenses
+(21,189)
+(67,207)
+(46,018)
+(68)%
+Net Income before taxes
+3,370,410
+825,142
+2,545,268
+308%
+Income Taxes
+116,776
+13,003
+103,773
+798%
+Net Income(Loss)
+$3,253,635
+$812,139
+$2,559,040
+312%
+19
+Salaries
+expense increased from $4,358,917 for the year ended March 31, 2024, to $14,115,643 for the year ended March 31, 2025. The company has
+experienced significant growth and therefore the need to increase employee count to support operations and administration.
+Selling,
+general and administrative expenses increased from $166,976 to $4,154,976, this increase was necessary and anticipated as the company
+experienced exponential growth.
+Marketing
+expenses totaled $836,860 for the twelve months ended March 31, 2025, an increase of $811,577 from $25,283 for the twelve months ended
+March 31, 2024. This increase is primarily related to the Company promoting online sales through social media marketing and search engines.
+Bank
+charges were $1,066,577, this is related to merchant fees, associated with the increase in sales.
+Legal
+and professional fees totaled $305,932 for the twelve months ended March 31, 2025, a decrease of $1,468,250 from $1,774,182 for the prior
+period ended March 31, 2024. The decrease in legal and professional fees is due to reclassification of territory managers fees to the
+category of selling, general and administrative.
+We
+are a smaller reporting company, as defined by 17 CFR § 229.10(f)(1). We do not consider the impact of inflation and changing prices
+as having a material effect on our net sales and revenues and on income from our operations for the previous two years or on continuing
+operations going forward.
+INTEREST
+EXPENSE
+Interest
+expenses decreased to $21,189 in the Fiscal Year Ending March 31, 2025, compared with $67,207 in Fiscal Year Ending March 31, 2024.
+INCOME
+TAX
+Estimated
+taxes were calculated using the 2025 federal tax rate of 21%. We account for income taxes under the asset and liability method, which
+requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included
+in the financial statements. Under this method, we determine deferred tax assets and liabilities based on the differences between the
+financial statement and tax bases of assets and liabilities by using enacted tax rates in effect for the year in which the differences
+are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period
+that includes the enactment date.
+NON-GAAP
+FINANCIAL MEASURES
+We
+use Adjusted EBITDA internally to evaluate our performance and make financial and operational decisions that are presented in a manner
+that adjusts from their equivalent GAAP measures or that supplements the information provided by our GAAP measures. Adjusted EBITDA is
+defined by us as EBITDA (net income (loss) plus depreciation expense, amortization expense, interest and income tax expense, minus income
+tax benefit), further adjusted to exclude certain non-cash expenses and other adjustments as set forth below. We use Adjusted EBITDA
+because we believe it clearly highlights trends in our business that may not otherwise be apparent when relying solely on GAAP financial
+measures, since Adjusted EBITDA eliminates from our results specific financial items that have less bearing on our core operating performance.
+20
+We
+use Adjusted EBITDA in communicating certain aspects of our results and performance, including in this Annual Report, and believe that
+Adjusted EBITDA, when viewed in conjunction with our GAAP results and the accompanying reconciliation, can provide investors with greater
+transparency and a greater understanding of factors affecting our financial condition and results of operations than GAAP measures alone.
+In addition, we believe the presentation of Adjusted EBITDA is useful to investors in making period-to-period comparison of results because
+the adjustments to GAAP are not reflective of our core business performance.
+Adjusted
+EBITDA is not presented in accordance with, or as an alternative to, GAAP financial measures and may be different from non-GAAP measures
+used by other companies. We encourage investors to review the GAAP financial measures included in this Annual Report, including our consolidated
+financial statements, to aid in their analysis and understanding of our performance and in making comparisons.
+BALANCE
+SHEETS & CASH FLOWS STATEMENTS
+As of March 31,
+2025
+2024
+ASSETS:
+Current Assets
+Cash
+$1,473,228
+$697,721
+Accounts Receivable
+129,064
+235,423
+Equity Investments at fair value
+645,438
+9,352
+Inventory
+503,938
+315,738
+Deposits
+338,108
+9,352
+Prepaid Expenses
+20,730
+—
+Total Current Assets
+3,110,505
+1,258,234
+Non-Current Assets
+Property and Equipment, net
+1,384,110
+135,352
+Right of use asset, net
+172,429
+156,517
+Intangible assets, net
+96,885
+28,441
+Goodwill
+2,302,792
+2,302,792
+TOTAL ASSETS
+$7,066,721
+$3,881,336
+LIABILITIES AND EQUITY:
+Liabilities
+Accounts Payable
+$492,352
+$530,724
+Accrued Expenses and other payables
+2,322,022
+854,719
+Current portion of loans & obligations
+30,592
+30,592
+Short-term business loans
+179,488
+—
+Current portion of operating lease obligations
+121,851
+70,487
+Total Current Liabilities
+3,146,305
+1,486,522
+Long-Term Liabilities
+Lease Liability
+37,878
+84,950
+Loans and Obligations
+31,427
+60,559
+Total Long-Term Liabilities
+69,305
+145,509
+Total Liabilities
+3,215,610
+1,632,031
+Stockholders’ Equity
+Preferred stock, par value $0.001 per share, 1,000,000 shares authorized; 1,000,000 and 1,000,000 shares issued and outstanding as of March 31, 2025, and March 31, 2024, respectively
+1,000
+1,000
+Common stock, par value $0.001 per share, 350,000,000 shares authorized; 295,347,903 and 309,981,819 shares issued and outstanding as of March 31, 2025, and March 31, 2024, respectively
+295,348
+309,982
+Additional Paid in Capital
+31,480,143
+31,593,399
+Accumulated Deficit
+(27,738,975)
+(29,655,076)
+Treasury Stock
+(186,404)
+—
+Total Equity
+3,851,111
+2,249,305
+TOTAL LIABILITIES AND EQUITY
+$7,066,721
+$3,881,336
+A
+summary of our changes in cash flows & Statement of Financial Position for the years ended March 31, 2025, and 2024, is provided
+below:
+The
+Company had $1,473,228 in Cash as of March 31, 2025, compared to $697,721 as of March 31, 2024.
+21
+The
+Company had $503,938 inventory and $129,064 in accounts receivable as of March 31, 2025, compared to $315,738 and $235,423 as of March
+31, 2024.
+Equity
+investments are reported at fair value, totaling $645,438.
+The
+Company made two deposits on future acquisitions of Magnefuse, LLC, Las Villas Health Care, LLC and Doconsultation, LLC, in the amount
+of $280,000, and additionally the Company has prepaid its insurance for the year.
+As
+of March 31, 2025, the Company made an additional purchase of equipment of approximately $1,200,000, to expand its operations.
+The
+Company had $492,352 in Accounts Payable as of March 31, 2025, compared to $530,724 as of March 31, 2024.
+Accrued
+expenses and other payables include approximately $1,800,000 in officer compensation, $150,000 payroll, $97,000 merchant accrual, $68,000
+in credit card debt payable and approximately $88,000 income tax payable. Total current liabilities increased from $1,486,522 to $3,146,305.
+Long
+term liabilities decreased from $145,509 to $69,305.
+The
+Company had a Stockholders Equity of $3,851,111as of March 31, 2025, compared to $2,249,305 of Stockholders Equity as of March 31, 2024.
+This improvement is primarily due to net income of $3,253,635.
+STATEMENT
+OF CASH FLOWS
+For the Years Ending March 31,
+2025
+2024
+Net cash provided by operating activities
+$4,372,390
+$1,206,241
+Net cash used in investing activities
+(1,881,350)
+(26,520)
+Net cash used in financing activities
+(1,715,533)
+(517,886)
+Net increase (decrease) in cash and cash equivalents
+775,507
+661,835
+Cash and cash equivalents at beginning of the period
+697,721
+35,756
+Cash and cash equivalents at end of the period
+$1,473,228
+$697,721
+CASH
+FLOWS FROM OPERATING ACTIVITIES
+The
+Company’s net cash provided by operating activities was $4,372,390 for the twelve months ending March 31, 2025, and $1,206,241
+for the twelve months ending March 31, 2024.
+CASH
+FLOWS FROM INVESTING ACTIVITIES
+During
+the twelve months ending March 31, 2025, and March 31, 2024, the Company used $1,881,350 in investing activities and $26,520, respectively.
+CASH
+FLOWS FROM FINANCING ACTIVITIES
+Net
+Cash used in financial activities during the twelve months ended March 31, 2025, was $1,715,533, primarily due to the repurchase of the
+Company’s stock.
+During
+the Fiscal Year ending March 31, 2025, the Company repurchased $1,465,891 of its common stock, 14,633,916 shares were cancelled, and
+1,045,296 were held in treasury as of March 31, 2025.
+22
+FUTURE
+FINANCING
+The
+company does not anticipate needing any future financing.
+STOCK
+BASED COMPENSATION
+The
+Company did not issue any stock-based compensation during the fiscal year ended March 31, 2025.
+RECENT
+ACCOUNTING PRONOUNCEMENTS
+The
+company has assessed the impact of recent pronouncements on the preparation of Consolidated Financial Statements and their impact has
+been disclosed in note 2.
+OFF-
+BALANCE SHEET ARRANGEMENTS
+None.
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+Not
+applicable to a “smaller reporting company” as defined in Item 10(f)(1) of Regulation S-K.
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The
+financial statements required by this item are set forth at the pages indicated in Part IV, Item 15(a)(1) of this Annual Report.
+23
+EARTH SCIENCE
+TECH, INC. AND SUBSIDIARIES
+Table
+of Contents
+Report of Independent Registered Public Accounting Firm
+F-1
+Consolidated Balance Sheets as of March 31, 2025, and March 31, 2024
+F-3
+Consolidated Statements of Operations for the Years Ended March 31, 2025, and March 31, 2024
+F-4
+Consolidated Statements of Changes in Shareholders’ Equity for the Years ended March 31, 2025, and 2024
+F-5
+Consolidated Statements of Cash Flows for the Years Ended March 31, 2025, and March 31, 2024
+F-6
+Notes for the Consolidated Financial Statements
+F-7
+24
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To
+the Board of Directors and
+Stockholders
+of Earth Science Tech, Inc.
+Opinion
+on the Financial Statements
+We
+have audited the accompanying consolidated balance sheet of Earth Science Tech, Inc. and its Subsidiaries (the Company) as of March 31,
+2025, and the related consolidated statements of operations, stockholders’ equity, and cash flows for the year ended March 31,
+2025, and the related consolidated notes (collectively referred to as the financial statements). In our opinion, the consolidated financial
+statements present fairly, in all material respects, the financial position of the Company as of March 31, 2025 and the results of its
+operations and its cash flows for year ended March 31, 2025, in conformity with accounting principles generally accepted in the United
+States of America.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Critical
+Audit Matters
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+We
+did not identify any critical audit matters that need to be communicated.
+/s/
+Stephano Slack LLC (PCAOB ID # 003523)
+We
+have served as the Company’s auditor since 2025.
+Wayne,
+Pennsylvania
+June
+26, 2025
+F-1
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To
+the Board of Directors and
+Stockholders
+of Earth Science Tech, Inc.
+Opinion
+on the Financial Statements
+We
+have audited the accompanying consolidated balance sheet of Earth Science Tech, Inc. and its Subsidiaries (the Company) as of March 31,
+2024, and the related consolidated statements of operations, stockholders’ equity, and cash flows for the year ended March 31,
+2024, and the related consolidated notes (collectively referred to as the financial statements). In our opinion, the consolidated financial
+statements present fairly, in all material respects, the financial position of the Company as of March 31, 2024 and the results of its
+operations and its cash flows for year ended March 31, 2024, in conformity with accounting principles generally accepted in the United
+States of America.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Critical
+Audit Matters
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+We
+did not identify any critical audit matters that need to be communicated.
+(PCAOB
+ID 5036)
+We
+have served as the Company’s auditor since 2024.
+Margate,
+Florida
+June
+28, 2024
+ASSURANCE
+DIMENSIONS, LLC
+also
+d/b/a McNAMARA and ASSOCIATES, LLC
+TAMPA
+BAY: 4920 W Cypress Street, Suite 102 | Tampa, FL 33607 | Office: 813.443.5048 | Fax: 813.443.5053
+JACKSONVILLE:
+4720 Salisbury Road, Suite 223 | Jacksonville, FL 32256 | Office: 888.410.2323 | Fax: 813.443.5053
+ORLANDO:
+1800 Pembrook Drive, Suite 300 | Orlando, FL 32810 | Office: 888.410.2323 | Fax: 813.443.5053
+SOUTH
+FLORIDA: 2000 Banks Road, Suite 218 | Margate, FL 33063 | Office: 754.800.3400 | Fax: 813.443.5053
+www.assurancedimensions.com
+“Assurance
+Dimensions” is the brand name under which Assurance Dimensions, LLC including its subsidiary McNamara and Associates, LLC (referred
+together as “AD LLC”) and AD Advisors, LLC (“AD Advisors”), provide professional services. AD LLC and AD Advisors
+practice as an alternative practice structure in accordance with the AICPA Code of Professional Conduct and applicable laws, regulations,
+and professional standards. AD LLC is a licensed independent CPA firm that provides attest services to its clients, and AD Advisors provide
+tax and business consulting services to their clients. AD Advisors, and its subsidiary entities are not licensed CPA firms.
+F-2
+EARTH
+SCIENCE TECH, INC. AND SUBSIDIARIES
+CONSOLIDATED
+BALANCE SHEETS
+AS
+OF MARCH 31, 2025, AND 2024
+2025
+2024
+As of March 31,
+2025
+2024
+ASSETS:
+Current Assets
+Cash
+$1,473,228
+$697,721
+Accounts Receivable
+129,064
+235,423
+Equity Investments at fair value
+645,438
+—
+Inventory
+503,938
+315,738
+Deposits
+338,108
+9,352
+Prepaid Expenses
+20,730
+—
+Total Current Assets
+3,110,505
+1,258,234
+Non-Current Assets
+Property and Equipment
+1,384,110
+135,352
+Right of use asset, net
+172,429
+156,517
+Intangible assets, net
+96,885
+28,441
+Goodwill
+2,302,792
+2,302,792
+TOTAL ASSETS
+$7,066,721
+$3,881,336
+LIABILITIES AND STOCKHOLDERS’ EQUITY:
+Liabilities
+Accounts Payable
+$492,352
+$530,724
+Accrued Expenses and other payables
+2,322,022
+854,719
+Current portion of loans & obligations
+30,592
+30,592
+Short-term business loans
+179,488
+—
+Current portion of operating lease obligations
+121,851
+70,487
+Total Current Liabilities
+3,146,305
+1,486,522
+Long-Term Liabilities
+Lease Liability
+37,878
+84,950
+Loans and Obligations
+31,427
+60,559
+Total Long-Term Liabilities
+69,305
+145,509
+Total Liabilities
+3,215,610
+1,632,031
+Commitment and Contingencies (Note 12)
+-
+-
+Stockholders’ Equity
+Preferred stock, par value $0.001 per share, 1,000,000 shares authorized; 1,000,000 shares issued and
+outstanding as of March 31, 2025 and, 2024
+1,000
+1,000
+Common stock, par value $0.001 per share, 350,000,000 shares authorized; 295,347,903 and 309,981,819 shares issued and 294,302,607 and 309,981,819 shares outstanding as of March 31, 2025, and March 31, 2024, respectively
+295,348
+309,982
+Additional Paid in Capital
+31,480,143
+31,593,399
+Accumulated Deficit
+(27,738,975)
+(29,655,076)
+Treasury Stock, at cost (1,045,296 Shares)
+(186,404)
+—
+Total Equity
+3,851,111
+2,249,305
+TOTAL LIABILITIES AND EQUITY
+$7,066,721
+$3,881,336
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-3
+EARTH
+SCIENCE TECH, INC. AND SUBSIDIARIES
+CONSOLIDATED
+STATEMENTS OF OPERATIONS
+FOR
+YEARS ENDED MARCH 31, 2025, AND 2024
+2025
+2024
+Revenue
+$33,117,624
+$11,953,635
+Cost of Goods Sold
+8,817,488
+4,125,139
+Gross Profit
+24,300,136
+7,828,496
+Expenses
+Salaries Expense
+14,115,643
+4,358,917
+Selling general and administrative expenses
+4,154,838
+166,976
+Bank charges
+1,066,577
+422,970
+Advertising & marketing
+836,860
+25,283
+Legal and professional fees
+305,932
+1,774,182
+Insurance
+180,281
+5,363
+Depreciation and amortization
+151,655
+149,749
+Utilities
+40,392
+15,368
+Rent expense
+—
+10,797
+Miscellaneous
+—
+6,542
+Total Expenses
+$20,852,178
+$6,936,147
+Other income (expense)
+Dividend income
+9,123
+—
+Interest earned
+17
+—
+Net realized gain on sale of investments
+300,162
+—
+Unrealized Gain (Loss) on fair value changes of investments
+(365,661)
+—
+Interest Expense
+(21,189)
+(67,207)
+Net Income before taxes
+3,370,410
+825,142
+Income Taxes
+116,776
+13,003
+Net Income
+$3,253,635
+$812,139
+Earnings per common share-Basic and Diluted
+$0.011
+$0.003
+Weighted average number of shares outstanding- Basic and Diluted
+303,521,458
+309,687,386
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-4
+EARTH
+SCIENCE TECH, INC. AND SUBSIDIARIES
+CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS’ EQUITY
+FOR
+YEARS ENDING MARCH 31, 2025, AND 2024
+Description
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Stock
+Total
+Common Stock
+Preferred Stock
+Additional paid in
+Accumulated
+Treasury
+Description
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Stock
+Total
+Balance at March 31, 2024
+309,981,819
+$309,982
+1,000,000
+$1,000
+$31,593,399
+$(29,655,076)
+-
+$2,249,305
+Repurchase of common stock
+(14,633,916)
+(14,635)
+-
+-
+(113,256)
+(1,337,534)
+-
+(1,465,425)
+Treasury Stock
+-
+-
+-
+-
+-
+-
+(186,404)
+(186,404)
+Net Income
+-
+-
+-
+-
+3,253,635
+-
+3,253,635
+Balance at March 31, 2025
+295,347,903
+$295,347
+1,000,000
+$1,000
+$31,480,143
+$(27,738,975)
+$(186,404)
+$3,851,111
+Common Stock
+Preferred Stock
+Additional paid in
+Accumulated
+Treasury
+Description
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Stock
+Total
+Balance at March 31, 2023
+282,611,083
+$282,612
+1,000,000
+$1,000
+$31,303,138
+$(30,467,215)
+-
+$1,119,535
+Balance
+282,611,083
+$282,612
+1,000,000
+$1,000
+$31,303,138
+$(30,467,215)
+-
+$1,119,535
+Common stock issued for cash
+18,864,423
+18,864
+-
+-
+91,467
+-
+-
+110,331
+Stock-based compensation
+300,000
+300
+-
+-
+-
+-
+-
+300
+Repurchase of common stock
+(5,200,000)
+(5,200)
+-
+-
+(172,800)
+-
+-
+(178,000)
+Common stock issued for conversion of debt
+13,406,313
+13,406
+-
+-
+371,594
+-
+-
+385,000
+Net Income
+-
+-
+-
+-
+-
+812,139
+-
+812,139
+Balance at March 31, 2024
+309,981,819
+$309,982
+1,000,000
+1,000
+$31,593,399
+$(29,655,076)
+-
+$2,249,305
+Balance
+309,981,819
+$309,982
+1,000,000
+1,000
+$31,593,399
+$(29,655,076)
+-
+$2,249,305
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-5
+EARTH
+SCIENCE TECH, INC. AND SUBSIDIARIES
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS
+FOR
+YEARS ENDED MARCH 31, 2025, AND 2024
+2025
+2024
+Cash flows from operating activities:
+Net Income
+$3,253,635
+$812,139
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+151,654
+149,749
+Stock based compensation
+—
+300
+Unrealized loss on investments
+365,661
+—
+Realized gain on sale of investments
+(300,162)
+—
+Changes in operating assets and liabilities, net of acquisition:
+Accounts receivable
+106,359
+(235,423)
+Deposits
+(328,756)
+(9,352)
+Prepaid expenses and other current assets
+(20,729)
+—
+Inventory
+(188,200)
+(305,478)
+Other current liabilities
+Lease liability, net
+(96,003)
+(73,870)
+Accounts payable and accrued expenses
+1,428,932
+868,176
+Net cash provided by operating activities
+4,372,390
+1,206,241
+Cash flows from investing activities:
+Purchases of property and equipment and intangibles
+(753,165)
+(26,520)
+Purchase of investments
+(4,312,675)
+—
+Sale of investments
+3,601,738
+—
+Cash used for assets acquisition, net of cash acquired
+(417,248)
+Net cash used in investing activities
+(1,881,350)
+(26,520)
+Cash flows from financing activities:
+Proceeds from issuance of common stock
+—
+110,331
+Payments on loans and obligations
+(429,131)
+(450,217)
+Proceeds from loan payable
+179,488
+—
+Repurchase of common stock
+(1,465,890)
+(178,000)
+Net Cash used in financing activities
+(1,715,533)
+(517,886)
+Net increase in cash and cash equivalents
+775,507
+661,835
+Cash and cash equivalents at beginning of the year
+697,721
+35,756
+Cash and cash equivalents at end of the year
+$1,473,228
+$697,721
+Supplemental Disclosure of Cash Flow Information:
+Cash paid for interest
+$21,189
+$67,207
+Cash paid for income taxes
+$28,319
+$-
+Non-Cash Transactions
+-
+-
+Initial recognition of right of use asset
+$100,294
+$-
+Common stock issued on conversion of notes payable
+$-
+$385,000
+The
+accompanying notes are an integral part of these consolidated financial statements.
+F-6
+NOTE
+1- ORGANIZATION AND NATURE OF OPERATIONS
+Earth
+Science Tech, Inc. (“ETST” ) was incorporated under the laws of the State of Nevada on April 23, 2010, and subsequently redomiciled
+to the State of Florida on June 27, 2022. As of November 8, 2022, ETST operates as a holding company focused on acquisitions in the health
+and wellness sector.
+The
+Company’s current operations include compounding pharmaceuticals, telemedicine and real estate development through its wholly owned
+subsidiaries: RxCompoundStore.com, LLC (“RxCompound”), Peaks Curative, LLC (“Peaks”), Avenvi, LLC (“Avenvi”),
+Mister Meds, LLC (“Mister Meds”), and Earth Science Foundation, Inc. (“ESF”). Subsequent to the reporting period,
+the Company acquired 100% of Las Villas Health Care, Inc. (“Villas”), DOConsultations, LLC (“DOC”), and an 80%
+interest in MagneChef (“Magne”).
+RxCompound,
+based in Miami, Florida, is a fully licensed compounding pharmacy authorized to fulfill prescriptions in the following states and territories:
+Arizona, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Maine, Maryland, Minnesota, Missouri, Nevada, New Jersey, New
+York, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, Utah, Wisconsin and Puerto Rico. RxCompound is actively pursuing licensure
+in the remaining U.S. states.
+Peaks
+is a telemedicine referral platform offering asynchronous consultations for Peaks-branded compounded medications prepared at RxCompound
+and Mister Meds pharmacies. The platform operates in states where either of these two pharmacies are licensed. Through the development
+of its own healthcare provider network, MyOnlineConsultation.com, and ongoing licensure expansion for both pharmacies, Peaks aims to
+offer services nationwide. In addition, the company has recently expanded into the veterinary market through the acquisition of Zoolzy.com.
+Avenvi
+is a diversified real estate company engaged in development, asset management, and financing. With a growing portfolio of real estate
+holdings, Avenvi provides turnkey solutions from development to end-user financing. It also manages investment activities for ETST and
+oversees the Company’s ongoing $5 million share repurchase program.
+Mister
+Meds, acquired on October 1, 2024, is in Abilene, Texas. The pharmacy received full compounding licensure in March 2025. It operates
+out of a 5,000 sq. ft. facility owned by Avenvi and includes advanced sterile compounding capabilities with both positive and negative
+pressure environments, as well as hazardous drug handling. Mister Meds is currently applying for licensure in states not yet serviced
+by RxCompound.
+ESF,
+a 501(c)(3) nonprofit organization incorporated on February 11, 2019, is the charitable arm of ETST. ESF accepts grants and donations
+to assist individuals who need financial support for prescription costs at both RxCompound and Mister Meds. This organization is
+not part of the financial statements.
+Villas
+is a brick-and-mortar healthcare facility dedicated to the Spanish speaking community. Villas’ expert-led services include advanced
+sexual health treatments, and customized solutions to enhance physical performance. Villas combines compassionate, personalized care
+with clear, trustworthy education.
+DOC
+was founded with a mission to modernize the availability and delivery of home-based therapies. DOC provides consultation to develop personalized
+a medication plans tailored to each customer’s health and wellness goals.
+MagneChef
+is a direct-to-consumer retail brand. Utilizing its patents and intellectual properties, the company aims to develop new products that
+can be marketed and sold online. Currently, the company has developed products for cooking. MagneChef is in the process of expanding
+its product line for new offerings that incorporate its intellectual property.
+NOTE
+2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis
+of presentation
+The
+accompanying consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United
+States of America (“US GAAP”) and pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”).
+F-7
+Principles
+of consolidation
+The
+accompanying consolidated financial statements include all the accounts of the Earth Science Tech, Inc. and its wholly owned subsidiaries
+RxCompoundstore, Peaks, Avenvi, and Mister Meds (collectively, the “Company”). All intercompany transactions have been eliminated
+during consolidation.
+Use
+of estimates and assumptions
+The
+preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during
+the reporting period. The areas requiring significant estimates are impairment of goodwill, provision for taxation, useful life of depreciable
+assets, useful life of intangible assets, contingencies, and going concern assessment. The estimates and underlying assumptions are reviewed
+on an ongoing basis. Actual results could differ from those estimates.
+Impairment
+of Long-Lived Assets
+The
+Company evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an
+asset may not be recoverable. Recoverability is assessed based on the estimated undiscounted cash flows expected to result from the use
+and eventual disposition of the assets. If the carrying amount exceeds the asset’s fair value, an impairment loss is recognized
+in the amount of the excess. No impairment losses were recognized for the years ended March 31, 2025 and 2024.
+Cash
+and cash equivalents.
+Cash
+and cash equivalents include all highly liquid debt instruments with original maturities of three months or less, As of March 31, 2025,
+the Company’scash balance exceeded federally insured limits by approximately $607,620. The Company maintains its cash with high-credit-quality
+financial institutions and has not experienced any losses in such accounts. Management believes the Company is not exposed to significant
+credit risk with respect to these balances.
+Accounts
+Receivable.
+Accounts
+receivable are carried at their contractual amounts, less an estimated allowance for credit losses. Management estimates the allowance
+for credit losses using a loss-rate approach based on historical loss information, adjusted for management’s expectations about
+current and future economic conditions, as the basis to determine expected credit losses. Management exercises significant judgment in
+determining expected credit losses. Key inputs include macroeconomic factors, industry trends, the creditworthiness of counterparties,
+historical experience, the financial conditions of the customers, and the amount and age of past due accounts. Management believes that
+the composition of receivables at year-end is consistent with historical conditions as credit terms and practices and the client base
+has not changed significantly. Receivables are considered past due if full payment is not received by the contractual due date. Past
+due accounts are generally written off against the allowance for credit losses only after all collection attempts have been exhausted.
+As of March 31, 2025 and 2024, the Company had not recorded an allowance for credit losses, as management determined that no reserve
+was necessary based on its assessment of the collectability of outstanding balances and the credit quality of its customers.
+Revenue
+recognition
+In
+accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) 606,
+Revenue from Contracts with Customers, the Company recognizes revenue when it satisfies performance obligations, by transferring promised
+goods or services to customers, in an amount that reflects the consideration to which the Company expects to be entitled in exchange
+for fulfilling those performance obligations. Revenue for product sales is recognized at point of sale or upon shipment, depending on
+the terms of the arrangement.. There are no contract assets or contract liabilities and therefore no unsatisfied performance obligations.
+F-8
+Equity
+Investments at fair value
+The
+Company accounts for its equity securities in accordance with ASC 321, Investments – Equity Securities, as amended by ASU 2016-01,
+Recognition and Measurement of Financial Assets and Financial Liabilities. Equity securities with readily determinable fair values are
+measured at fair value, with changes in fair value recognized in earnings in the period in which they occur.
+The
+following summarizes the aggregate cost and fair value of the Company’s equity securities as of March 31, 2025 and 2024:
+SCHEDULE OF EQUITY INVESTMENTS
+2025
+2024
+Cost Basis
+$1,011,099
+-
+Unrealized gain/(loss)
+(365,661)
+-
+Equity securities - Fair value
+$645,438
+-
+Disaggregated
+Revenue
+In
+accordance with ASC 606, the Company disaggregates revenue from contracts with customers by category — core and non-core - as it
+believes it best depicts how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors.
+The
+Company’s disaggregated revenue by category is as follows:
+SCHEDULE OF DISAGGREGATED REVENUE
+2025
+2024
+For the Years Ending March 31,
+2025
+2024
+Core:
+Sale of Pharmaceutical products – RxCompound
+$29,492,724
+$11,924,804
+Sale of Pharmaceutical products –Peaks
+534,649
+28,831
+Total core revenue, net
+$30,027,373
+$11,953,635
+Non-Core:
+Shipping Income
+$3,090,251
+$-
+Total revenue, net
+$33,117,624
+$11,953,635
+During
+the years ended March 31, 2025 and 2024, the Company had a net realized gain on sales of investments of $300,162 and $0, and dividend
+income of $9,123 and $0. These amounts are not included in revenue from contracts with customers and are classified separately in
+other income.
+As
+of March 31, 2025, the Company had three significant customers, accounting for approximately 7%, 10% and 9% of revenue. Total accounts
+receivable balances for these three customers were as follows:
+SCHEDULE
+OF ACCOUNTS RECEIVABLE
+2025
+2024
+For the Years Ending March 31,
+2025
+2024
+Accounts Receivables
+$129,064
+$235,423
+F-9
+Inventory
+Inventory
+is stated at the lower of cost or market. Cost is determined using the first-in, first-out (FIFO) method. Inventory consists primarily
+of finished goods.
+The
+Company evaluates inventory for excess and obsolescence based on factors such as current inventory levels, estimated product life cycles,
+historical and forecasted customer demand, and input from the product development team. When necessary, a reserve is recorded to reduce
+the carrying value of inventory to its estimated net realizable value. These estimates and assumptions are reviewed at least annually
+and updated as needed based on the Company’s business plans and market conditions.
+Cost
+of Goods Sold
+Components
+of cost of goods sold include product costs, consumables, shipping costs to customers and any inventory adjustments.
+Shipping
+and Handling
+Costs
+incurred by the Company for shipping and handling are included in costs of goods sold.
+Income
+taxes
+The
+Company accounts for income taxes under ASC 740, Income Taxes. Under ASC 740, deferred tax assets and liabilities are recognized for
+the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities
+and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable
+income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period, which includes the enactment date. Deferred tax assets are
+reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion of or all the deferred
+tax assets will not be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on
+the date of enactment.
+Earnings
+per share
+The
+Company follows ASC 260 to account for earnings per share. Basic earnings per common share calculations are determined by dividing net
+results from operations by the weighted average number of shares of common stock outstanding during the reporting period. Diluted earnings
+per share reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted.
+Diluted earnings per share is calculated using the weighted average number of common shares outstanding during the period, adjusted for
+the dilutive effect of common stock equivalents, if any, using the treasury stock method.
+For
+the years ended March 31, 2025 and 2024, basic and diluted earnings per share are the same because the Company had no potentially dilutive
+securities outstanding during those periods.
+F-10
+Goodwill
+Goodwill
+represents the excess of the aggregate purchase price over the fair value of the net assets acquired in a purchase business combination.
+Goodwill is reviewed for impairment on an annual basis, or more frequently if events or changes in circumstances indicate that the carrying
+amount of goodwill may be impaired. In conducting its annual impairment test, the Company first reviews qualitative factors to determine
+whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount. If factors indicate that
+the fair value of the reporting unit is less than its carrying amount, the Company performs a quantitative assessment, and the fair value
+of the reporting unit is determined by analyzing the expected present value of future cash flows. If the carrying value of the reporting
+unit continues to exceed its fair value, the fair value of the reporting unit’s goodwill is calculated and an impairment loss equal
+to the excess is recorded.
+Stock
+Based Compensation
+The
+Company applies the fair value method of ASC 718, Compensation-Stock Compensation, in accounting for its stock-based compensation. These
+standards state that compensation cost is measured at the grant date based on the fair value of the award and is recognized over the
+service period, which is usually the vesting period, if any. The Company uses the Black-Scholes option pricing model to determine the
+fair value of its stock, stock option and warrant issuance. The determination of the fair value of stock-based payment awards on the
+date of grant using an option-pricing model is affected by the Company’s stock price, as well as assumptions regarding a few complex
+and subjective variables. These variables include the Company’s expected stock price, volatility over the term of the awards, actual
+employee exercise behaviors, risk-free interest rate and expected dividends. No stock-based commitments were outstanding as of March
+31, 2025, and 2024.
+Fair
+Value
+FASB
+ASC 820, Fair Value Measurements and Disclosures (“ASC 820”) establishes a framework for all fair value measurements
+and expands disclosures related to fair value measurement and developments. ASC 820 defines fair value as the price that would be received
+to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. ASC 820
+requires that assets and liabilities measured at fair value are classified and disclosed in one of the following three categories:
+Level
+1 — Quoted market prices for identical assets or liabilities in active markets or observable inputs,
+Level
+2 — Significant other observable inputs that can be corroborated by observable market data; and
+Level
+3 — Significant unobservable inputs that cannot be corroborated by observable market data.
+The
+carrying amounts of the Company’s financial instruments, such as cash, accounts receivable, accounts payable and other liabilities,
+approximate fair value because of the short-term nature of these items.
+As
+of March 31, 2025, all of the Company’s investments were classified as Level 1 and were measured at fair value using quoted market
+prices in active markets.
+The
+fair value of the Company’s debt approximates its carrying value as of March 31, 2025 and 2024. Factors that the Company considered
+when estimating the fair value of its debt included market conditions, liquidity levels in the private placement market, variability
+in pricing from multiple lenders and terms of debt.
+Property
+and equipment
+Property
+and equipment are stated at cost. Expenditures for maintenance and repairs are charged to earnings as incurred; additions, renewals and
+betterments are capitalized. When property and equipment are retired or otherwise disposed of, the related cost and accumulated depreciation
+are removed from the respective accounts, and any gain or loss is included in operations. Depreciation on property and equipment is charged
+using a straight-line method over the estimated useful life of 5 years.
+F-11
+Recently
+issued accounting pronouncements
+In
+June 2016, the FASB issued ASU No. 2016-13, Financial Instruments – Credit Losses (Topic 326), Measurement of Credit Losses on
+Financial Instruments, as modified by FASB ASU No. 2019-10 and other subsequently issued related ASUs. The amendments in this Update
+affect loans, debt securities, trade receivables, and any other financial assets that have the contractual right to receive cash. The
+ASU requires an entity to recognize expected credit losses rather than incurred losses for financial assets. The amendments in this Update
+are effective for fiscal years beginning after December 15, 2022, including interim periods within those fiscal years. The Company adopted
+this new guidance effective January 1, 2023 utilizing the modified retrospective transition method. The adoption of this standard did
+not have a material impact on the Company’s consolidated financial statements, but did change how the allowance for credit losses
+is determined.
+In
+November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which requires
+public entities to disclose significant segment expenses and other segment items on an interim and annual basis and provide in interim
+periods all disclosures about a reportable segment’s profit or loss and assets that are currently required annually. The ASU does
+not change how a public entity identifies its operating segments, aggregates them, or applies the quantitative threshold to determine
+its reportable segments. The new disclosure requirements are also applicable to entities that account and report as a single operating
+segment entity. ASU 2023-07 is effective for fiscal years beginning after December 15, 2023, and for interim periods within fiscal years
+beginning after December 15, 2024. The Company adopted the guidance for the annual reporting period ended December 31, 2024. There was
+no impact on the Company’s reportable segments identified.
+Intangible
+assets
+Intangible
+assets consist of the Peaks telemedicine platform, the Holding Company’s web domains, and Mister Meds LLC’s software and
+domain. These intangible assets are considered to have finite useful lives and are amortized on a straight-line basis over an estimated
+useful life of five years.
+The
+Company reviews intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount may not
+be recoverable. If such indicators exist, the Company compares the carrying amount of the asset to the expected undiscounted future cash
+flows. An impairment loss is recognized if the carrying amount exceeds the asset’s fair value. No impairment losses were recognized
+for the years ended March 31, 2025 and 2024.
+NOTE
+3- INVENTORY
+As
+of March 31, 2025, and March 31, 2024, the inventory reserves were not material.
+SCHEDULE
+OF INVENTORIES
+2025
+2024
+As of March 31,
+2025
+2024
+Raw materials
+$411,810
+$266,776
+Finished goods
+92,128
+48,962
+Inventory
+$503,938
+$315,738
+F-12
+NOTE
+4 – PROPERTY AND EQUIPMENT, NET
+SCHEDULE OF PROPERTY AND EQUIPMENT
+2025
+2024
+As of March 31,
+2025
+2024
+Land
+$281,209
+$-
+Building
+329,647
+-
+Equipment
+860,736
+176,602
+Property and Equipment, cost
+860,736
+176,602
+Less: Accumulated depreciation
+(87,482)
+(41,250)
+Property and Equipment, Net
+$1,384,110
+$135,352
+Depreciation
+expense for the years ended March 31, 2025, and March 31, 2024, were $43,998 and $34,381 respectively.
+NOTE
+5- LEASES
+The
+Company treats a contract as a lease when the contract conveys the right to use a physically distinct asset for a period in exchange
+for consideration, or the Company directs the use of the asset and obtains substantially all the economic benefits of the asset. These
+leases are recorded as right-of-use (“ROU”) assets and lease obligation liabilities for leases with terms greater than 12
+months. ROU assets represent the Company’s right to use an underlying asset for the entirety of the lease term. Lease liabilities
+represent the Company’s obligation to make payments over the life of the lease. A ROU asset and a lease liability are recognized
+at commencement of the lease based on the present value of the lease payments over the life of the lease. Initial direct costs are included
+as part of the ROU asset upon commencement of the lease. Since the interest rate implicit in a lease is generally not readily determinable
+for the operating leases, the Company uses an incremental borrowing rate to determine the present value of the lease payments. The incremental
+borrowing rate represents the rate of interest the Company would have to pay to borrow on a collateralized basis over a similar lease
+term to obtain an asset of similar value.
+The
+Company reviews the impairment of ROU assets consistent with the approach applied to the Company’s other long-lived assets, assessing
+recoverability when events or changes in circumstances indicate the carrying value may not be recoverable. The Company elected the practical
+expedient to exclude short-term leases (leases with original terms of 12 months or less) from ROU asset and lease liability accounts.
+The Company has elected not to apply the other transition practical expedients available under ASC 842.
+The
+Company’s leases are classified as operating leases. Lease expense for operating leases is recognized on a straight-line basis
+over the lease term.
+F-13
+Supplemental
+balance sheet information related to leases were as follows:
+SCHEDULE
+OF SUPPLEMENTAL BALANCE SHEET INFORMATION RELATED TO LEASES
+2025
+2024
+As of March 31,
+2025
+2024
+Assets
+Right of use asset, net
+$172,429
+$156,517
+Operating lease liabilities
+Current
+121,851
+70,487
+Non-current
+37,878
+84,950
+Total Lease Liabilities
+$159,729
+$155,437
+The
+components of lease cost were as follows:
+SCHEDULE OF LEASE COST
+2025
+2024
+For the Years Ending March 31,
+2025
+2024
+Operating lease cost
+$90,650
+$108,533
+Variable lease cost
+7,784
+5,595
+Sublease income
+-
+-
+Total lease cost
+$98,434
+$114,128
+Lease
+term and discount rate were as follows:
+SCHEDULE LEASE TERM AND DISCOUNT RATE
+For the Years Ending March 31,
+2025
+2024
+Weighted average remaining lease term - Operating leases
+1.5 years
+2.25 years
+Weighted average discount rate - Operating leases
+3%
+3%
+The
+following table presents the future minimum lease payments under non-cancelable operating leases as of March 31, 2025:
+SCHEDULE
+OF MATURITY UNDISCOUNTED MINIMUM LEASE PAYMENTS
+Year ended March 31
+Operating Leases
+2026
+$125,072
+2027
+38,317
+Total
+163,389
+Less: imputed interest
+3,660
+Present value of lease payment
+$159,729
+F-14
+NOTE
+6 - INTANGIBLE ASSETS
+Intangible
+assets consisted of the following:
+SCHEDULE OF INTANGIBLE ASSETS
+2025
+2024
+As of March 31,
+2025
+2024
+Telemedicine Platform
+$17,806
+$17,806
+Web Domain
+41,386
+19,323
+Software
+56,334
+-
+Gross Balance
+56,334
+-
+Accumulated Amortization
+(18,641)
+(8,688)
+Net Balance
+96,885
+28,441
+Amortization expense
+$9,953
+$6,835
+NOTE
+7- GOODWILL
+Goodwill
+was recorded in connection with the acquisition of RxCompoundStore.com, LLC and Peaks. On November 08, 2022, the Company acquired 100%
+of the outstanding equity interest of RxCompoundStore.com, LLC and Peaks Curative, LLC in exchange for shares, and recognized Goodwill
+as part of the purchase price allocation.
+NOTE
+8- ACCRUED EXPENSES AND OTHER PAYABLES
+Accrued
+expenses and other payables consisted of the following:
+SCHEDULE OF ACCRUED EXPENSES AND OTHER PAYABLES
+2025
+2024
+As of March 31,
+2025
+2024
+Officer compensation
+1,812,680
+666,883
+Merchant fees
+97,965
+68,891
+Payroll accrual
+254,364
+68,488
+Credit card payable
+68,586
+37,456
+Income-tax payable
+88,427
+13,001
+Total Accrued Expenses
+$2,322,022
+$854,719
+F-15
+NOTE
+9 – DEBT
+Loans
+and Obligations consists of an equipment loan bearing interest at 5.28% per annum and matures March 12, 2027. Scheduled principal payments
+are as follows: $31,010 due during the year ended March 31, 2026 and $31,009 due during year ended March 31, 2027. Interest expense for
+the years ended March 31, 2025 and 2024 was $3,274 and $4,125.
+Short
+term business loan represents a margin loan from Charles Schwab bearing interest of 11.075% per annum. The loan is repaid from the proceeds
+of stock and option salesTotal interest expense for the years ending March 31, 2025 and 2024 was $9,969and $_0..
+NOTE
+10 – ACQUISITION AND RELATED TRANSACTIONS
+Mister
+Meds was acquired for a total consideration of $54,220 on October 1, 2024, and Avenvi, LLC was acquired for total consideration of $1,058,788
+and the assumption of a $400,000 short-term loan, which was fully paid before March 31, 2025. The Company followed the guidelines under
+ASC 805, Business Combinations. The transaction was accounted for as an asset acquisition. No goodwill was recognized from the transactions
+since the fair value of the assets was the purchase price for both entities.
+Mister
+Meds was in the construction process at the end of March 31, 2025. The company is projected to begin operations in the second quarter
+of 2025. The pharmacy will feature a state-of-the-art sterile room, equipped with both positive and negative pressure capabilities, as
+well as hazardous compounding facilities. It will operate from a 5,000 sq. ft. facility owned by Avenvi LLC, a related party. Additionally,
+Mister Meds plans to apply for state licenses in markets where RxCompoundStore.com is not yet licensed.
+Assets
+acquired from Avenvi LLC and Mister Meds.
+SCHEDULE
+OF ASSETS ACQUIRED CONSIDERATION BETWEEN THE TWO ENTITIES
+Cash
+$295,760
+Investments
+186,824
+Property and equipment
+600,951
+Intangibles assets
+29,473
+Total assets acquired
+$1,113,008
+Purchase price
+$1,113,008
+NOTE
+11 – COMMITMENTS AND CONTINGENCIES
+Commitments
+and contingencies
+The
+Company accounts for contingencies in accordance with ASC 450, Contingencies. A liability is recorded when it is probable that a loss
+has been incurred and the amount can be reasonably estimated. If a loss is reasonably possible but not probable, or if the amount cannot
+be estimated, the nature of the contingency and an estimate of the possible loss, if determinable, is disclosed. Remote contingencies
+are generally not disclosed unless related to guarantees.
+F-16
+Legal
+Matters:
+From
+time to time, the Company may be involved in legal proceedings arising in the ordinary course of business. As of March 31, 2025, there
+were no pending or threatened legal actions that, in management’s opinion, are expected to have a material adverse effect on the
+Company’s financial position, results of operations, or cash flows.
+Employment
+and Consulting Agreements:
+On
+December 30, 2024, the Company adopted a new compensatory arrangement for its executive officers, which superseded the prior plan. Under
+this arrangement, Giorgio R. Saumat, the Company’s CEO and Chairman of the Board, shall receive a monthly salary of $200,000.00
+during the term of this agreement. In addition to the monthly salary and in lieu of stock compensation (which the Company does not offer)
+the Executive is entitled to quarterly performance bonuses equal to 10% of the Company’s revenue for the preceding quarter. These
+bonuses are contingent on the Company’s assets increasing quarter over quarter by at least 5% . Mario G. Tabraue, the Company’s
+COO and a member of the Board of Directors, shall receive a monthly salary of $150,000.00 during the term of this agreement. In addition
+to the monthly salary and in lieu of stock compensation (which the Company does not offer) the Executive is entitled to quarterly performance
+bonuses equal to 7%of the Company’s revenue for the preceding quarter. These bonuses are contingent on the Company’s assets
+increasing quarter by at least 5%. These arrangements are for 24 months beginning on January 1, 2025.
+NOTE
+12 – EQUITY
+Common
+stock:
+The
+Company has authorized 350,000,000 shares
+of $.001 par
+value common stock. As of March 31, 2025, and March 31, 2024, the Company had 295,347,903
+and 309,981,819
+shares, respectively, of common stock issued and 294,302,607
+and 309,981,819
+outstanding.
+During
+the fiscal year ended March 31, 2025, the Company did not issue any stock.
+During
+the Fiscal Year ended March 31, 2025, the Company repurchased $1,465,425 of its common stock, 14,633,916 shares were cancelled, and 1,045,296
+were held in treasury as of March 31, 2025.
+NOTE
+13 – RELATED PARTY TRANSACTIONS
+The
+Company follows the guidance of ASC 850, Related Party Disclosures, in identifying and disclosing transactions with related parties.
+Parties
+are considered to be related if one party has the ability to control or exercise significant influence over the other party in making
+financial and operating decisions. Transactions with related parties have been disclosed in debt, acquisition, and officer’s compensation
+notes.
+The
+Company pays compensation for Giorgio R. Saumat and Mario Tabraue to their respective solely owned LLCs, Point96 Consulting, LLC and
+Tabraue Consulting, LLC. These entities are considered related parties under ASC 850 due to their ownership and control relationships
+with the individuals providing services to the Company.
+On
+October 1, 2024, the Company completed the acquisition of Avenvi, a Florida limited liability company, for $1,058,700. The payment structure
+included an upfront payment of $258,780 at closing, followed by subsequent monthly payments of $200,000, which were paid over four months
+through January 2025. The acquisition encompasses approximately four acres of vacant residential real estate intended for development,
+one commercial property comprising nearly half an acre featuring a standalone building with 25,000 square feet, and cash or cash equivalents
+held by Avenvi. Giorgio R. Saumat, who currently serves as the Company’s CEO and the Chairman of Board, is the seller in this transaction.
+The transaction was reviewed and approved by the Board of Directors to ensure that the terms were no less favorable to the Company than
+those that could be obtained from unaffiliated third parties.
+F-17
+On
+October 1, 2024, the Company completed the acquisition of Mister Meds, a Texas limited liability company, for $54,200. Mario G.
+Tabraue, who currently serves as the Company’s COO and is a Director of the Board, is the seller in this transaction. The
+transaction was reviewed and approved by the Board of Directors to ensure that the terms were no less favorable to the Company than
+those that could be obtained from unaffiliated third parties.
+NOTE
+14 – INCOME TAXES
+The
+components of the provision for income taxes for the years ended March 31, 2025 and 2024 are as follows:
+SCHEDULE OF COMPONENTS OF
+PROVISION FOR INCOME TAXES
+Components of Provision for Income Taxes
+2025
+2024
+Current
+Federal
+$85,581
+$7,830
+State
+31,195
+5,173
+Total Current Provision
+116,776
+13,003
+Deferred
+Federal
+(458,686)
+(203,122)
+State
+(120,132)
+(53,199)
+Total Deferred Provision (Benefit)
+(578,818)
+(256,321)
+Change in Valuation allowance
+578,818
+256,321
+Total provision for Income Taxes
+116,776
+13,003
+The
+components of deferred tax assets and liabilities on March 31, 2025, and 2024, are approximately as follows:
+SCHEDULE OF COMPONENTS OF
+DEFERRED TAX ASSETS AND LIABILITIES
+2025
+2024
+Year ending March, 31
+2025
+2024
+Deferred Tax assets:
+Net Operating loss carry forwards
+$1,446,256
+$1,234,852
+Goodwill
+$523,069
+$225,415
+Depreciation
+$33,700
+30,906
+Other
+$66,966
+-
+Valuation allowance
+$(2,069,991)
+$(1,491,173)
+Net deferred tax asset
+$0
+$0
+A
+reconciliation of the U.S. statutory federal income tax rate to the Company’s effective tax rate for the years ended March 31,
+2025 and 2024 are as follows:
+SCHEDULE
+OF INCOME TAX EXPENSE RATES
+2025
+2024
+Federal statutory income tax rate
+21.0%
+21.0%
+State taxes, net of federal benefit
+4.35%
+5.5%
+Change in Valuation Allowance
+(17.17)%
+(24.9)%
+Net effective tax rate
+8.18%
+1.6%
+ASC
+740 contains a two-step approach to recognizing and measuring uncertain tax positions. This first step is to evaluate the tax position
+for recognition by determining if the weight of available evidence indicates it is more likely than not that the position will be sustained
+on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the
+largest amount which is more than 50% likely to be realized upon ultimate settlement. The Company considers many factors when evaluating
+and estimating its tax positions and tax benefits, which may require periodic adjustments, and which may not accurately anticipate actual
+outcomes.
+F-18
+The
+Company recognizes a tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained
+on examination by taxing authorities, based on the technical merits of the position. The tax benefits recognized in the consolidated
+financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized
+upon ultimate settlement. As of March 31, 2025, the Company has not recorded any unrecognized tax benefits.
+The
+Company’s policy is to record interest and penalties associated with unrecognized tax benefits as interest expense and operating
+expenses, respectively. As of April 1, 2024, the Company had $0 unrecognized tax benefits and $0 charges during fiscal 2025,
+and accordingly, the Company did not recognize any interest or penalties during fiscal 2025 related to unrecognized tax benefits. There
+is $0 accrual for uncertain tax positions as of March 31, 2025.
+As
+of March 31, 2025, the Company had a net operating loss carryforward (“NOL”) for federal and state income tax purposes of
+approximately $5,457,000. Of this amount, $5,336,541 is from pre-2018 and $120,459 from post 2018. NOLs generated pre-2018 can be carried
+forward for 20 years and post-2018 NOLs do not expire, but are limited to offset up to 80% of taxable income in any future period.
+Internal
+Revenue Code Section 382 (“Section 382”) imposes limitations on the availability of a company’s net operating losses
+after certain ownership changes occur. Section 382 limitation is based upon certain conclusions pertaining to the dates of ownership
+changes and the value of the Company on the dates of the ownership changes. It was determined that an ownership change occurred in October
+2013, and March 2014. The amount of the Company’s net operating losses incurred prior to the ownership changes is limited based
+on the value of the Company on the date of the ownership change. Management has not determined the amount of net operating losses generated
+prior to the ownership change available to offset taxable income after the ownership change.
+NOTE
+15 – SEGMENT REPORTING
+The
+Company operates as a single reportable segment, as the Chief Operating Decision Maker (“CODM”), the Chief Executive Officer
+(“CEO”), evaluates the business on a consolidated basis and does not receive discrete financial information for multiple
+business units.
+Measure
+of Segment Profit or Loss
+The
+CODM assesses the Company’s financial performance based on operating income, which aligns with the amount reported in the statement
+of operations.
+SCHEDULE
+OF FINANCIAL PERFORMANCE BASED ON OPERATING INCOME
+2025
+2024
+Revenue
+$33,117,624
+$11,953,635
+Cost of Goods Sold
+8,817,488
+4,125,139
+Gross Profit
+24,300,136
+7,828,496
+Expenses
+Salaries Expense
+14,115,643
+4,358,917
+Selling general and administrative expenses
+4,154,838
+166,976
+Bank charges
+1,066,577
+422,970
+Advertising & marketing
+836,860
+25,283
+Legal and professional fees
+305,932
+1,774,182
+Insurance
+180,281
+5,363
+Depreciation and amortization
+151,655
+149,749
+Utilities
+40,392
+15,368
+Rent expense
+—
+10,797
+Miscellaneous
+—
+6,542
+Total Expenses
+$20,852,178
+$6,936,147
+Other income (expense)
+Dividend income
+9,123
+—
+Interest earned
+17
+—
+Net realized gain on sale of investments
+300,162
+—
+Unrealized Gain (Loss) on fair value changes of investments
+(365,661)
+—
+Interest Expense
+(21,189)
+(67,207)
+Net Income before taxes
+3,370,410
+825,142
+Income Taxes
+116,776
+13,003
+Net Income
+$3,253,635
+$812,139
+NOTE
+16 – SUBSEQUENT EVENT
+On
+April 1st, 2025, the Company acquired 100% of Las Villas Health Care, LLC and DOConsultations, LLC, for a total consideration
+of $200,000 cash. The Company acquired $63,980 of furniture and fixtures from Las Villas Health Care, LLC and $10,884 from DOConsultations,
+LLC with the remaining consideration of $125,136 recognized as goodwill.
+On
+April 1st, 2025, the Company acquired 80% of Magnefuse, LLC, for a total consideration of $240,500 cash. The Company acquired
+the following assets:
+SCHEDULE
+OF ASSETS ACQUIRED CONSIDERATION
+Asset
+Amount
+Cash
+$8,727
+Inventory
+33,396
+Property and Equipment
+6,161
+Intangibles
+58,774
+Goodwill
+133,442
+Total
+240,500
+The
+Company evaluated the transactions and performed a significance test, the acquisitions do not meet the criteria to be considered significant.
+F-19
+ITEM
+9A. CONTROLS AND PROCEDURES
+EVALUATION
+OF DISCLOSURE CONTROLS & PROCEDURES
+Disclosure
+Controls and Procedures
+Disclosure
+controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our
+reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified
+in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed
+to ensure that information required to be disclosed in company reports filed or submitted under the Exchange Act is accumulated and communicated
+to management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure.
+We
+do not expect that our disclosure controls and procedures will prevent all errors and all instances of fraud. Disclosure controls and
+procedures, no matter how well conceived and operated, can provide only reasonable assurance of achieving the desired control objectives.
+Further, the design of disclosure controls and procedures must reflect the fact that there are resource constraints, and the benefits
+must be considered relative to their costs. The design of disclosure controls and procedures also is based partly on certain assumptions
+about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under
+all potential future conditions.
+The
+Company’s management, including the Chief Executive Officer and Chief Financial Officer have reviewed and evaluated the effectiveness
+of the Company’s design and operations of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) promulgated
+under the Exchange Act) as of the end of the period covered by this annual Report on Form 10-K/A. Based on that review and evaluation,
+the Chief Executive Officer and Chief Financial Officer have concluded that as of the end of the period covered by this Annual report,
+the Company’s disclosure controls and procedures were effective as of March 31, 2025.
+Management’s
+Annual Report on Internal Control Over Financial Reporting
+Our
+disclosure controls and procedures contain components of our internal controls over financial reporting. Our management is responsible
+for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is defined
+in Rule 13a-15(f) or 15d-15(f) promulgated under the Exchange Act as a process designed by, or under the supervision of, the Company’s
+principal executive and financial officer and effected by the Company’s board of directors, management and other personnel, to
+provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles and includes those policies and procedures that:
+Pertain
+to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets
+of the Company.
+Provide
+reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally
+accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations
+of management and directors of the Company; and
+Provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s
+assets that could have a material effect on the financial statements.
+The
+Company’s management assessed the effectiveness of the Company’s internal control over financial reporting as of the Evaluation
+Date. In making this assessment, the Company’s management used the criteria set forth by the Committee of Sponsoring Organizations
+of the Treadway Commission (“COSO”) Internal Control-Integrated Framework (2013). The COSO framework is based upon five integrated
+components of control: control environment, risk assessment, control activities, information and communications and ongoing monitoring.
+25
+Based
+on an evaluation under the supervision and with the participation of the Company’s management, including the Chief Executive Officer
+and Chief Financial Officer, Company management has concluded that the Company’s internal control over financial reporting as defined
+in Rules 13a-15(f) and 15d-15(f) under the Exchange Act were ineffective as of the Evaluation Date based on the number of adjustments
+from the audit. The Company will continue to improve its internal controls, to ensure that information required to be disclosed by the
+Company in reports that it files or submits under the Exchange Act is (i) recorded, processed, summarized and reported within the time
+periods specified in the Securities and Exchange Commission rules and forms and (ii) accumulated and communicated to the Company’s
+management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding
+required disclosure.
+ITEM
+9B. OTHER INFORMATION
+None
+PART
+III
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE (Restated)
+The
+Company does not, at present, have any employees other than the current officers and directors. We have not entered into any employment
+agreements, as we currently do not have any employees other than the current officers and directors.
+Directors
+and Executive Officers
+Name
+Principal Occupation
+Age
+Director or Officer Since
+Giorgio R. Saumat
+CEO & Chairman of the Board
+46
+2022
+Mario G. Tabraue
+COO & Board of Director
+46
+2021
+Ernesto Flores
+CFO, Board of Director, Audit & Compensation Committee member
+40
+2024
+Christopher Rose
+Chief Technology Officer (CTO)
+47
+2024
+Victoria Losada
+Secretary, Board of Director, & Compensation Committee member
+29
+2024
+Jeff P.H. Cazeau
+Independent Director & Audit Committee member
+58
+2023
+Yovan Sanchez
+Board of Director
+44
+2023
+Emiliano Curia
+Independent Director, Audit & Compensation Committee member
+46
+2023
+There
+are no other people nominated or chosen to become directors or executive officers, nor do we have any employees other than above-mentioned
+officers and directors.
+Our
+directors hold office until the next annual meeting of shareholders and the election and qualification of their successors. Directors
+receive two thousand dollars per Board of Directors meeting attended for serving on the Board of Directors, in addition to the reimbursement
+of reasonable expenses incurred in attending meetings if any. Officers are appointed by the board of directors and serve at the discretion
+of the board.
+Officer
+and Director Background:
+Giorgio
+R. Saumat -CEO, Director, & Chairman
+Mr.
+Saumat is an investor and entrepreneur with over 20 years of experience investing, operating, and consulting for private businesses and
+investors. Having graduated from Rutgers University in 2001 with an undergraduate degree in Economics and Political Science, he co-founded
+CASAU Group as a private equity group specializing in real estate. In 2009 he opened and invested in multiple locations of restaurants
+in the greater Miami Area, which he sold in 2013. He then founded POINT96 Consulting to assist private businesses and accredited investors
+in realizing their personal and/or organizational objectives through unique strategic planning.
+26
+Mario
+G. Tabraue - President & Director
+Mr.
+Tabraue worked from 1997 until 2002 assisting with real estate transactions as well as first- and third-party insurance claims at the
+law firm of Moises Kaba III. During this time, he also free-lanced, creating websites and working with businesses by creating and implementing
+new processes in accounting and with digital technologies. From 2002 until 2009, Mr. Tabraue worked for Eller-ITO Stevedoring Company
+at the Port of Miami where he served in operations and logistics, first with simple vessel operations, and, as he demonstrated his skills,
+advanced to complex operations and finally management of full vessel planning and operations. From 2009 until 2013, Mr. Tabraue worked
+for Ceres Marine Terminals as an operations manager, where he was given ever increasing responsibilities until, among his duties, were
+negotiating contract issues with union labor officials and contract negotiations with companies such as Royal Caribbean, Mediterranean
+Shipping Lines, Hapag-Lloyd and others. In 2013 through 2014 he began working with Zoological Wildlife Foundation, a business founded
+by his family in 2008. At the Foundation he restructured operations, tour packages, the accounting systems, and fully automated their
+booking system through the company’s website. Ultimately all internal procedures were automated and made paperless. In 2014 Mr.
+Tabraue was recruited back to Eller-ITO where he returned as Marine Manager and has advanced to the position of Special Projects Manager.
+In 2019, he began work for JCR Medical Equipment, serving as the head of finance. In 2020 Mr. Tabraue purchased RxCompoundStore.com with
+the vision of starting a telemedicine platform to expand the company’s reach and to compete in the online market.
+Jeff
+P.H. Cazeau - Independent Director
+Mr.
+Cazeau is an attorney whose practice areas have included Government Contracts, Lobbying and Municipal Law. Mr. Cazeau currently serves
+as the City Attorney for the City of North Miami. Prior to becoming City Attorney, Mr. Cazeau assisted clients in obtaining and keeping
+contracts with federal, state, and local government entities. Mr. Cazeau is experienced in assisting small, minority, and women owned
+businesses in obtaining various socio-economic certifications such as Disadvantaged Business Enterprise (DBE); Airport Concessions Disadvantaged
+Business Enterprise (ACDBE) certifications and SBA 8(a). Before attending law school, Mr. Cazeau served nine years as a commissioned
+officer in the United States Navy. During his naval career he held several positions, including Anti-Submarine Warfare Officer, Legal
+Officer, and Navigator aboard USS ELLIOT (DD 967), and Politico-Military Affairs Officer at United States Southern Command (SOUTHCOM).
+Ernesto
+Flores - CFO
+Mr.
+Flores is an accomplished financial professional with over a decade of experience and a strong educational background. He holds a Bachelor
+of Science degree in Accounting from Florida National University and a Master of Science degree in Taxation from Nova Southeastern University.
+Throughout his career, Mr. Flores has held significant roles in both large corporations and mid-sized organizations, demonstrating adaptability
+and leadership. At St. George Logistics, he served as Divisional Controller, overseeing financial operations and ensuring regulatory
+compliance. His four-year tenure at Curated Investments, LLC as Financial Controller highlighted his ability to manage financial functions
+effectively and drive strategic initiatives. Mr. Flores possesses a diverse skill set, including preparing companies for growth, implementing
+systems integration, maintaining controllership, managing risk, optimizing inventory control, overseeing P&L management, establishing
+internal controls, facilitating financial reporting, conducting audits, and driving process improvements.
+Christopher
+Rose CTO
+Chris
+Rose is a dynamic and innovative leader with a diverse background in technology, entrepreneurship, and strategic leadership. In his former
+leadership role at a Fortune 100 company, Chris established and managed an enterprise-wide automation factory. That factory, comprised
+of a diverse team across the US, UK, and India, achieved significant milestones, including twenty million dollars in annual transactional
+cost reduction and the automation of over hundreds business processes.
+Chris
+has always had an entrepreneurial spirit. He brings his passion for, and successful experience with, leading startups to ETST, where
+he employs technology to achieve tangible business outcomes, predominantly driving operational efficiency and cost savings.
+Chris
+is known for his hands-on approach, collaborative leadership style, and commitment to developing high-performing teams. A Miami native,
+Chris is also an adventurer who enjoys freediving, spearfishing, and boating, and who carries with him an unwavering optimism. With twenty
+plus years of technology leadership and exploration behind him, he is uniquely poised to make a significant impact as ETST’s Chief
+Technology Officer.
+27
+Victoria
+Losada -Secretary & Director
+Victoria
+Losada has been working in healthcare since 2018. She is a dedicated professional and has been leveraging her extensive experience and
+expertise to enhance the operations and efficiency at RxCompoundStore.com, LLC. since August of 2022. In 2023, Victoria was selected
+as Secretary and Treasurer of Earth Science Tech. She brought her practical insights and leadership experience to help guide the strategic
+direction and governance of the company. Her diverse professional background and commitment to excellence make her a valued asset in
+shaping innovative solutions and policies within Earth Science Tech as well as all its current and future subsidiaries.
+Yovan
+Sanchez - Director
+Mr.
+Sanchez is a seasoned firefighter/paramedic and a driven entrepreneur. With more than two decades of dedicated service in the firefighting
+and paramedic field, he has been a stalwart in his community. In addition to his public service, Yovan is also a real estate owner and
+manager in South Florida. In 2011, he took the initiative to establish Hot Box Incubators Corp. Yovan’s commitment to community
+development extends to supporting youth programs, culminating in the creation of Miami Springs Jiu Jitsu in 2022. Furthermore, he possesses
+over 20 years of valuable experience in the boat and yacht industry, specializing in identifying opportunities and harnessing them to
+his advantage. His extensive network of connections across various industries bolsters his ability to make the most of these opportunities.
+Emiliano
+Curia- Director
+Dr.
+Curia is a physical medicine and rehabilitation physician with expertise in musculoskeletal disorders and neurorehabilitation after injuries
+or illness. He completed his residency at Jackson Memorial Hospital and Larkin Community Hospital, where he also served as Chief Resident.
+Prior to residency he served as medical research director for multiple pharmaceutical clinical trials and orthopedic technology development
+and implementation. He participated in multiple community outreach programs and developed quality improvement protocols for underserved
+populations in Miami Dade county. Dr Curia currently treats patients with musculoskeletal disorders, athletes, and amputees.
+Committees
+of The Board of Directors
+The
+Company is managed under the direction of Giorgio R. Saumat, Mario G. Tabraue, Jeff P.H. Cazeau, Yovan Sanchez, Emiliano Curia, Ernesto
+Flores, and Victoria Losada.
+The
+Company’s Audit Committee and Compensation Committee each consist of three members of the Board of Directors, two of whom are independent
+directors.
+Officer’s
+and Director’s Involvement in Legal Proceedings
+No
+executive Officer or Director of the Company has been convicted of any criminal proceeding (excluding traffic violations) or is the subject
+of a criminal proceeding that is currently pending. No executive Officer or Director of the Company is the subject of any pending legal
+proceedings. No Executive Officer or Director of the Company is involved in any bankruptcy petition by or against any business in which
+they are a general partner or executive officer currently or within two years of any involvement as a general partner, executive officer,
+or Director of any business.
+28
+ITEM
+11. EXECUTIVE COMPENSATION
+On
+September 29, 2023, the Company adopted a new compensatory arrangement for its executive officers, which superseded the prior plan. Under
+this arrangement, Giorgio R. Saumat, the Company’s CEO and Chairman of the Board, was entitled to receive twenty-one percent of
+the Company’s monthly revenue. Mario G. Tabraue, the Company’s COO and a member of the Board of Directors, was entitled to
+receive ten and one-half percent of the Company’s monthly revenue. This arrangement commenced on October 1, 2023, for a twelve-month
+term. Compensation was payable on the first day of each month based on the revenue generated in the preceding month, provided the Company
+increased its cash position on a quarter-over-quarter basis. In the event the Company failed to increase its cash position in a given
+quarter, the arrangement was subject to renegotiation, and no payments would be made at the beginning of the subsequent quarter. On August
+15, 2024, the Board of Directors approved new twelve-month employment agreements for both the CEO and the COO, effective October 1, 2024.
+Pursuant to these agreements, the CEO was entitled to receive eighteen percent of the Company’s monthly cash receipts, while the
+COO was entitled to receive twelve percent. As with the prior arrangement, payments were contingent upon the Company achieving a quarter-over-quarter
+increase in net profit. If net profit did not increase for a given quarter, the agreements would require renegotiation, and no payments
+would be made at the beginning of the following quarter. On December 30, 2024, the CEO and COO entered into an amendment to their respective
+employment agreements, which was approved by the Board of Directors and became effective January 1, 2025. Under the amended terms, the
+CEO receives a fixed monthly salary of two hundred thousand dollars, and the COO receives a fixed monthly salary of one hundred fifty
+thousand dollars. In addition to their base salaries, and in lieu of any stock-based compensation, both officers are eligible to receive
+quarterly performance bonuses, provided the Company’s total assets increase by at least five percent on a quarter-over-quarter
+basis. If this performance threshold is met, the CEO is entitled to a bonus equal to ten percent of the Company’s revenue for the
+preceding quarter, and the COO is entitled to a bonus equal to seven percent of the Company’s revenue for the same period. Additionally,
+in their capacities as members of the Board of Directors, the CEO and COO are entitled to receive four thousand dollars for each Board
+meeting attended.
+On
+March 4, 2024, the Company’s Board of Directors appointed Ernesto L. Flores as Chief Financial Officer, succeeding Gabrielle Schuster.
+Mr. Flores receives an annual base salary of one hundred sixty thousand dollars, paid on a biweekly basis. He is eligible for milestone-based
+bonuses, as well as a year-end discretionary bonus determined by the Company’s Chief Executive Officer. On December 26, 2024, Mr.
+Flores was elected to the Company’s Board of Directors and appointed as a member of the Audit and Compensation Committees. In this
+capacity, he is entitled to receive compensation of four thousand dollars for each Board meeting attended. On March 11, 2025, the Board
+of Directors and the Compensation Committee approved the continuation of Mr. Flores’s compensation arrangement and added performance-based
+bonuses, with amounts to be determined at the sole discretion of the Chief Executive Officer.
+On
+April 16, 2024, the Company’s Board of Directors appointed Christopher Rose as the Company’s Chief Technology Officer (“CTO”).
+Mr. Rose will receive an annual base salary of two hundred seventy thousand dollars, payable on a biweekly basis. In addition, he will
+be eligible to receive milestone-based bonuses and may be considered for a discretionary year-end bonus, as determined by the Company’s
+Chief Executive Officer. On March 11, 2025, the Board of Directors and the Compensation Committee approved the continuation of Mr. Rose’s
+compensation arrangement and added performance-based bonuses, the amounts of which will be determined at the sole discretion of the Chief
+Executive Officer.
+Victoria
+Losada, the Company’s Secretary elected in late 2023, receives compensation of five hundred dollars for each Board meeting attended
+in her capacity as Secretary. On December 26, 2024, Ms. Losada was also elected as a member of the Company’s Board of Directors
+and appointed as a member of the Compensation Committee, entitling her to an additional four thousand dollars for each Board meeting
+attended in that role.
+POTENTIAL
+PAYMENTS UPON TERMINATION OR CHANGE-IN-CONTROL
+SEC
+regulations state that we must disclose information regarding agreements, plans or arrangements that provide for payments or benefits
+to our executive officers in connection with any termination of employment or change in control of the Company. Such payments are set
+forth above in the section entitled “Executive Compensation.”
+OUTSTANDING
+EQUITY AWARDS AT FISCAL YEAR END
+None.
+OPTION/SAR
+GRANTS IN THE LAST FISCAL YEAR
+None.
+29
+CONSULTING
+AGREEMENTS WITH OFFICERS AND DIRECTORS
+None.
+DIRECTOR
+COMPENSATION
+In
+2024, the Company began compensating each of its members of the Board of Directors four thousand dollars per Board of Directors meeting
+attended during their term.
+INDEMNIFICATION
+OF DIRECTORS AND OFFICERS
+The
+Company’s officers and directors are indemnified as provided by the Florida Statutes and the Company’s bylaws.
+The
+Company’s bylaws provide that it will advance to any person who was or is a party or is threatened to be made a party to any threatened,
+pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative, by reason of the fact that
+he is or was a director or officer of the Company, or is or was serving at the request of Earth Science Tech as a director or executive
+officer of another company, partnership, joint venture, trust or other enterprise, prior to the final disposition of the proceeding,
+promptly following request therefore, all expenses incurred by any director or officer in connection with such proceeding upon receipt
+of an undertaking by or on behalf of such person to repay said amounts if it should be determined ultimately that such person is not
+entitled to be indemnified under the bylaws or otherwise.
+There
+are no annuity, pension or retirement benefits proposed to be paid to officers, directors, or employees of the corporation in the event
+of retirement at normal retirement date pursuant to any presently existing plan provided or contributed to by Company.
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+As
+of March 31, 2025, we had outstanding 295,347,903 shares of common stock. Each share of common stock is currently entitled to one vote
+on all matters put to a vote of our stockholders. The following table sets forth the number of common shares, and percentage of outstanding
+common shares, beneficially owned as of the date hereof by:
+●
+each
+person known by us to be the beneficial owner of more than five percent of our outstanding common stock;
+●
+each
+of our current directors;
+●
+each
+our current executive officers and any other persons identified as a “named executive” in the Summary Compensation Table
+above; and
+●
+all
+our current executive officers and directors as a group.
+30
+Beneficial
+ownership is determined in accordance with the rules of the SEC and includes general voting power and/or investment power with respect
+to securities. Shares of common stock issuable upon exercise of options or warrants that are currently exercisable or exercisable within
+60 days of the record date, and shares of common stock issuable upon conversion of other securities currently convertible or convertible
+within 60 days, are deemed outstanding for computing the beneficial ownership percentage of the person holding such securities but are
+not deemed outstanding for computing the beneficial ownership percentage of any other person. Under the applicable SEC rules, each person’s
+beneficial ownership is calculated by dividing the total number of shares with respect to which they possess beneficial ownership by
+the total number of outstanding shares. In any case where an individual has beneficial ownership over securities that are not outstanding
+but are issuable upon the exercise of options or warrants or similar rights within the next 60 days, that same number of shares is added
+to the denominator in the calculation described above. Because the calculation of each person’s beneficial ownership set forth
+in the “Percentage Beneficially Owned” column of the table may include shares that are not presently outstanding, the total
+sum of the percentages set forth in such a column may exceed 100%. Unless otherwise indicated, the address of each of the following persons
+is 8950 SW 74th CT Suite 1401, Miami, FL 33156, USA, and, based upon information available or furnished to us, each such person
+has sole voting and investment power with respect to the shares set forth opposite his, her or its name.
+Beneficial Owner
+(1)
+Common Stock
+Series B Preferred Stock
+Number of Shares Beneficially Owned
+(2)
+Percent
+(3)
+5% Stockholders:
+Jose Rodriguez (4)
+16,000,000
+16,000,000
+5.42%
+Mario A. Portela
+20,500,000
+20,500,000
+6.94%
+Dr. Issa El-Cheikh
+23,000,000
+23,000,000
+7.79%
+Named Executive Officers and Directors:
+Giorgio R. Saumat – CEO, Secretary and Chairman of the Board (5)
+122,780,127
+1,000,000
+122,780,127
+41.57%
+Mario G. Tabraue - COO & Board of Director (6)
+12,422,023
+12,422,023
+4.21%
+Ernesto L. Flores - CFO, Board of Director, Audit and Compensation Committee member (7)
+94,978
+94,978
+0.03%
+Christopher Rose - CTO (8)
+85,151
+85,151
+0.03%
+Victoria Losada - Treasurer, Board of Director, and Compensation Committee member(9)
+1,051,001
+1,051,001
+0.36%
+Yovan Sanchez - Board of Director (10)
+1,606,151
+1,606,151
+0.54%
+Jeff P.H. Cazeau - Independent Director, Audit and Compensation Committee member (11)
+318,860
+318,860
+0.11%
+Emiliano Curia, MD - Independent Director and Audit Committee member (12)
+5,000
+5,000
+0.00%
+All executive officers and directors as a group (8 persons)
+138,363,291
+46.85%
+(1)
+Except
+as otherwise indicated, the people named in this table have sole voting and investment power with respect to all shares of common
+stock shown as beneficially owned by them, subject to community property laws where applicable and to the information contained in
+the footnotes to this table.
+31
+(2)
+Under
+SEC rules, a person is deemed to be the beneficial owner of shares that can be acquired by such a person within 60 days upon the
+exercise of options or the settlement of other equity awards.
+(3)
+Calculated
+on the basis of 295,347,903 shares of common stock outstanding as of March 31, 2025, plus any additional shares of common stock that
+a stockholder has the right to acquire within 60 days after March 31, 2025. Further, the positions listed are as of the date of this
+Registration Statement.
+(4)
+Since
+the last reported fiscal year end, Jose Rodriguez sold and gifted a total of 4,500,000 shares of the Company’s common stock
+through private transactions.
+(5)
+Since
+the last reported fiscal year end, Giorgio R. Saumat increased his ownership position by acquiring a total of 3,077,720 shares of
+the Company’s common stock through open market purchases, at prices ranging from $0.0625 to $0.27 per share. All such acquisitions
+were disclosed by Mr. Saumat in Form 4 filings, in accordance with SEC regulations.
+(6)
+Since
+the last reported fiscal year end, Mario G. Tabraue increased his ownership position by acquiring a total of 170,000 shares of the
+Company’s common stock through open market purchases, at prices ranging from $0.15 to $0.249 per share. All such acquisitions
+were disclosed by Mr. Tabraue in Form 4 filings, in accordance with SEC regulations.
+(7)
+Ernesto
+L. Flores has served as the Company’s CFO since March 2024. During the current year-end reporting period, Mr. Flores acquired
+94,978 shares of the Company’s common stock through open market purchases at prices ranging from $0.20 to $0.23 per share.
+All such acquisitions were disclosed by Mr. Flores in Form 4 filings, in compliance with SEC regulations.
+(8)
+Christopher
+Rose has served as the Company’s CTO since April 2024. During the current year-end reporting period, Mr. Rose acquired 85,151
+shares of the Company’s common stock through open market purchases at prices ranging from $0.15 to $0.22 per share. All such
+acquisitions were disclosed by Mr. Rose in Form 4 filings in compliance with SEC regulations.
+32
+(9)
+Victoria
+Losada has served as the Company’s Secretary since late 2023. In early 2023, Ms. Losada privately purchased 1,000,001 shares
+of the Company’s common stock directly from the Company. During the current year-end reporting period, she acquired an additional
+51,000 shares of common stock through open market purchases at prices ranging from $0.20 to $0.23 per share. All such acquisitions
+were disclosed by Ms. Losada in Form 4 filings, in compliance with SEC regulations.
+(10)
+Since
+the last reported fiscal year end, Yovan Sanchez increased his ownership position by acquiring a total of 956,151 shares of the Company’s
+common stock through open market purchases, at prices ranging from $0.059 to $0.18 per share. All such acquisitions were disclosed
+by Mr. Sanchez in Form 4 filings, in accordance with SEC regulations.
+(11)
+Jeff
+P.H. Cazeau has served as the Independent Director since February 2023. During the current year-end reporting period, Mr. Cazeau
+acquired 318,860 shares of the Company’s common stock through open market purchases at prices ranging from $0.12 to $0.22 per
+share. All such acquisitions were disclosed by Mr. Cazeau in Form 4 filings in compliance with SEC regulations.
+(12)
+Emiliano
+Curia MD has served as the Company’s Independent Director since late 2023. During the current year-end reporting period, Mr.
+Curia acquired 5,000 shares of the Company’s common stock through open market purchases at $0.18 per share. His acquisition
+was disclosed by Mr. Curia in a Form 3 filing in compliance with SEC regulations.
+Rule
+13d-3 under the Securities Exchange Act of 1934 governs the determination of beneficial ownership of securities. That rule provides that
+a beneficial owner of a security includes any person who directly or indirectly has or shares voting power and/or investment power with
+respect to such security. Rule 13d-3 also provides that a beneficial owner of a security includes any person who has the right to acquire
+beneficial ownership of such security within sixty days, including through the exercise of any option, warrant or conversion of a security.
+Any securities not outstanding which are subject to such options, warrants or conversion privileges are deemed to be outstanding for
+the purpose of computing the percentage of outstanding securities of the class owned by such person. Those securities are not deemed
+to be outstanding for the purpose of computing the percentage of the class owned by any other person.
+There
+were no grants of stock options since inception to March 31, 2025. We do not have any long-term incentive plans that provide compensation
+intended to serve as an incentive for performance.
+The
+Board of Directors of the Company has not adopted a stock option plan. The company has no plans to adopt one but may choose to do so
+in the future. If such a plan is adopted, this may be administered by the board, or a committee appointed by the board (the “Committee”).
+The Committee would have the power to modify, extend, or renew outstanding options and to authorize the grant of new options in substitution
+therefor, provided that any such action may not impair any rights under any option previously granted. The Company may develop an incentive-based
+stock option plan for its officers and directors and may reserve up to 10% of its outstanding shares of common stock for that purpose.
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+None.
+EQUITY
+ISSUANCES TO OFFICERS AND DIRECTORS
+None.
+33
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+During
+the fiscal year ended March 31, 2025, we incurred approximately $60,000 in audit and audit related fees to our principal independent
+accountants for professional services rendered in connection with the audit of financial statements for the year ended March 31, 2025.
+Stephano
+Slack, LLC is the Company’s principal auditing firm for the fiscal year ending March 31, 2025, which billed the Company $60,000
+for audit services during the year. The Company’s Board of Directors has considered whether the provisions of audit services are
+compatible with maintaining Assurance Dimensions LLC’ independence. The engagement of our independent registered public accounting
+firm was approved by our Board of Directors prior to the start of the audit of our consolidated financial statements for the year ended
+March 31, 2025.
+Assurance
+Dimensions Certified Public Accountants & Associates was the audit firm that performed audit services for the fiscal year ended March
+31, 2024.
+The
+following table represents aggregate fees billed to the Company for the Fiscal Years ended March 31, 2025, and 2024.
+Services
+2025
+2024
+Audit fees
+$60,000
+$65,000
+Audit related fees
+-
+-
+Tax fees
+7,500
+7,500
+All other fees
+-
+-
+Total fees
+$67,500
+$72,500
+34
+PART
+IV
+ITEM
+15. EXHIBITS
+The
+following exhibits are incorporated into this Form 10-K Annual Report:
+Exhibit
+Incorporated
+by Reference
+Filed
+or Furnished
+Number
+Exhibit
+Description
+Form
+Exhibit
+Filing
+Date
+Herewith
+31.1
+Certification of Chief Executive Officer Pursuant to Exchange Act Rule 13a-14(a) As adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+31.2
+Certification of Chief Executive Officer Pursuant to Exchange Act Rule 13a-14(a) As adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+32.1
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+32.2
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+101.INS
+Inline
+XBRL Instance Document
+X
+101.SCH
+Inline
+XBRL Taxonomy Extension Schema
+X
+101.CAL
+Inline
+XBRL Taxonomy Extension Calculation Linkbase
+X
+101.DEF
+Inline
+XBRL Taxonomy Extension Definition Linkbase
+X
+101.LAB
+Inline
+XBRL Taxonomy Extension Label Linkbase
+X
+101.PRE
+Inline
+XBRL Taxonomy Extension Presentation Linkbase
+X
+104
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+X
+ITEM
+16. FORM 10-K SUMMARY
+None.
+35
+SIGNATURES
+Pursuant
+to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+EARTH
+SCIENCE TECH, INC.
+Dated:
+June 26, 2025
+By:
+/s/
+Giorgio R. Saumat
+Giorgio
+R. Saumat
+Its:
+CEO
+and Director
+36
