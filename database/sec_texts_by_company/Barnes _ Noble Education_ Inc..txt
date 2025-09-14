@@ -1,0 +1,111 @@
+NT 10-K
+1
+d46777dnt10k.htm
+NT 10-K
+NT 10-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 12b-25
+NOTIFICATION OF LATE FILING
+(Check one):
+☒ Form 10-K  ☐ Form 20-F  ☐ Form 11-K  ☐ Form 10-Q
+☐ Form 10-D  ☐ Form N-CEN
+☐ Form N-CSR
+For Period Ended: May 3, 2025
+☐ Transition Report on Form 10-K
+☐ Transition Report on Form 20-F
+☐ Transition Report on Form 11-K
+☐ Transition Report on Form 10-Q
+For the Transition Period Ended:
+Nothing in this form shall be construed to imply that the Commission has verified any information contained herein.
+If the notification relates to a portion of the filing checked above, identify the item(s) to which the notification relates:
+PART I — REGISTRANT INFORMATION
+BARNES & NOBLE EDUCATION, INC.
+(Full Name of Registrant)
+N/A
+(Former Name if Applicable)
+120 Mountain View Blvd.
+(Address of Principal Executive Office (Street and Number))
+Basking Ridge, NJ 07920
+(City, State and Zip Code)
+PART
+II — RULES 12b-25(b) AND (c)
+If the subject report could not be filed without unreasonable effort or
+expense and the registrant seeks relief pursuant to Rule 12b-25(b), the following should be completed. (Check box if appropriate)
+☒
+(a)
+The reasons described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+(b)
+The subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-CEN or Form N-CSR, or portion thereof, will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report or transition
+report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the fifth calendar day following the prescribed due date;
+and
+(c)
+The accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART III — NARRATIVE
+State below in reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-CEN, N-CSR, or the transition
+report or portion thereof, could not be filed within the prescribed time period.
+Barnes & Noble Education, Inc. (the “Company”) is
+unable to file its Annual Report on Form 10-K for the year ended May 3, 2025 (the “Form 10-K”) within the prescribed time period, without unreasonable
+effort or expense. Certain information regarding the recording of cost of digital sales was brought to the attention of management in July 2025, which promptly informed the Audit Committee (the “Committee”) of the Board of Directors of the
+Company, that caused the Committee to commence an internal investigation with the assistance of outside counsel and advisors.
+The investigation is
+ongoing and all parties are working diligently to complete the investigation. However, based on initial findings, which could change as the investigation is in its early stages, management believes that the Company may have a potential overstatement
+of up to $23.0 million in the aggregate to its accounts receivable balance as of its May 3, 2025 fiscal year-end, which the Company believes is the cumulative net impact of overstatements and
+understatements to its cost of sales during the fiscal years 2024 and 2025, impacting results of operations in those periods. Based on the Committee’s investigation to date, the Company believes that these potential impacts may have resulted
+from the actions of a payment processing employee, who has been suspended pending the results of the Committee’s investigation. The Company has not reached a conclusion whether any restatement of previously issued financial statements will be
+required as a result of the investigation. In addition, certain other financial reporting process matters require resolution in addition to any impact from the conclusion of the ongoing investigation, as such, management is unable to complete the
+Company’s financial reporting process and preparation of its financial statements for the fiscal year ended May 3, 2025.
+Management is also
+assessing the effect of this matter on the Company’s internal control over financial reporting and its disclosure controls and procedures. The Company expects to report at least one material weakness related to the appropriate review and
+approval of manual journal entries following the completion of the ongoing investigation. As a result of the expected material weakness(es), the Company believes that its internal control over financial reporting was not effective, and its
+disclosure controls and procedures were not effective, as of May 3, 2025 and as of April 27, 2024, the respective end dates of each of its fiscal years 2024 and 2025.
+The Company does not expect the investigation to impact total sales, which increased by $40.5 million in fiscal year 2025 to $1.61 billion
+(unaudited), nor BNC First Day total revenue, which increased by $119.9 million in fiscal year 2025, or 25.3%, to $593.8 million (unaudited) compared to $473.9 million during the prior year period. The investigation will not impact
+the Company’s fiscal 2025 year-end cash and cash equivalents and total debt. As a result, the Company expects to report total net debt (defined as total debt, less cash and cash equivalents) of
+$94.0 million (unaudited) as of the end of fiscal year 2025, which was a decrease of $91.8 million from the Company’s total net debt of $185.8 million as of the end of fiscal year 2024. In addition, the Company expects to be in
+compliance with its financial covenants under its credit agreement as of fiscal 2025 year-end.
+The Company
+currently expects to file the Form 10-K within the 15-day extension period prescribed by Rule 12b-25 under
+the Securities Exchange Act of 1934, as amended, however the ability to file within the extension period will depend on the progress of and ultimate conclusion of the investigation.
+PART IV — OTHER INFORMATION
+(1)
+Name and telephone number of person to contact in regard to this notification
+Jason Snagusky
+(908)
+991-2665
+(Name)
+(Area Code)
+(Telephone Number)
+(2)
+Have all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment Company Act of 1940 during the preceding 12 months or for such
+shorter period that the registrant was required to file such report(s) been filed? If answer is no, identify report(s). Yes ☒ No ☐
+(3)
+Is it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be reflected by the earnings statements to be included in the subject report or
+portion thereof? Yes ☐ No ☒
+If so, attach an explanation of the anticipated change, both narratively and quantitatively, and, if appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+Cautionary Note Regarding Forward-Looking Statements:
+Forward-Looking Statements: This Form 12b-25 contains “forward-looking” statements within the meaning
+of federal securities laws. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The Company advises caution in reliance on forward-looking statements. Forward-looking statements
+include, without limitation: statements related to the ongoing internal investigation, including timing, amounts and expected outcome; expected financial results for fiscal 2025; and the Company’s plans, objectives and intentions. These
+statements involve known and unknown risks, uncertainties and other factors that may cause actual results to differ materially from those implied by the forward-looking statement, including without limitation: the discovery of additional information
+relevant to the internal investigation; the conclusions of the Committee (and the timing of the conclusions) concerning matters relating to the investigation; the timing of the review by, and the conclusions of, the Company’s independent
+registered public accounting firm regarding the investigation and the Company’s financial statements; the risk that the completion and filing of the Form 10-K will take longer than expected; and the risk
+that the Company will be unable to file the Form 10-K within the extension period of 15 calendar days provided under Rule 12b-25. See also other risks that are
+described in “Risk Factors” in the Company’s filings with the Securities and Exchange Commission (the “SEC”), including its Annual Report on Form 10-K filed with the SEC for the fiscal
+year ended April 27, 2024, and any subsequent reports filed with the SEC. All forward-looking statements in this Form 12b-25 are based on information available to the Company as of the date of this
+filing. The Company expressly disclaims any obligation to update or alter its forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable law.
+BARNES & NOBLE EDUCATION, INC.
+(Name of Registrant as Specified in Charter)
+has
+caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: July 18, 2025
+By:
+/s/ Jason Snagusky
+Jason Snagusky
+Chief Financial Officer
+INSTRUCTION: The form may be signed by an executive officer of the registrant or by any other duly authorized representative.
+The name and title of the person signing the form shall be typed or printed beneath the signature. If the statement is signed on behalf of the registrant by an authorized representative (other than an executive officer), evidence of the
+representative’s authority to sign on behalf of the registrant shall be filed with the form.
+ATTENTION
+Intentional misstatements or omissions of fact constitute Federal Criminal Violations (See 18 U.S.C. 1001).

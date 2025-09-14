@@ -1,0 +1,3327 @@
+false
+FY
+0001122020
+0001122020
+2024-04-01
+2025-03-31
+0001122020
+2024-09-30
+0001122020
+2025-06-30
+0001122020
+2025-03-31
+0001122020
+2024-03-31
+0001122020
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CommonStockMember
+2023-03-31
+0001122020
+us-gaap:AdditionalPaidInCapitalMember
+2023-03-31
+0001122020
+us-gaap:RetainedEarningsMember
+2023-03-31
+0001122020
+2023-03-31
+0001122020
+us-gaap:CommonStockMember
+2024-03-31
+0001122020
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001122020
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001122020
+us-gaap:CommonStockMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:AdditionalPaidInCapitalMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:RetainedEarningsMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CommonStockMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:RetainedEarningsMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CommonStockMember
+2025-03-31
+0001122020
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001122020
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerBMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerBMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerBMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerBMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerCMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerCMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerCMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerCMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerDMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerDMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerDMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerDMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerEMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerEMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerEMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerEMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAOneMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAOneMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAOneMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerAOneMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerFMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerFMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerFMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerFMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerGMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerGMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerGMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerGMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerHMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerHMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerHMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerHMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerIMember
+us-gaap:SalesRevenueNetMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerIMember
+us-gaap:AccountsReceivableMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerIMember
+us-gaap:SalesRevenueNetMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:CustomerConcentrationRiskMember
+PCSV:CustomerIMember
+us-gaap:AccountsReceivableMember
+2023-04-01
+2024-03-31
+0001122020
+us-gaap:TaxYear2023Member
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:TaxYear2022Member
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:TaxYear2021Member
+2024-04-01
+2025-03-31
+0001122020
+PCSV:JuneFifteenTwoThousandTwentyFourMember
+2024-04-01
+2025-03-31
+0001122020
+PCSV:JuneFifteenTwoThousandTwentyFourMember
+2025-03-31
+0001122020
+PCSV:SeptemberTwentyFourTwoThousandTwentyFourMember
+2024-04-01
+2025-03-31
+0001122020
+PCSV:SeptemberTwentyFourTwoThousandTwentyFourMember
+2025-03-31
+0001122020
+PCSV:NovemberNineteenTwoThousandTwentyFourMember
+2024-04-01
+2025-03-31
+0001122020
+PCSV:NovemberNineteenTwoThousandTwentyFourMember
+2025-03-31
+0001122020
+PCSV:FebruarySevenTwoThousandTwentyFiveMember
+2024-04-01
+2025-03-31
+0001122020
+PCSV:FebruarySevenTwoThousandTwentyFiveMember
+2025-03-31
+0001122020
+srt:WarehouseMember
+2024-10-01
+0001122020
+2024-10-01
+2024-10-01
+0001122020
+srt:WarehouseMember
+2024-04-01
+2025-03-31
+0001122020
+srt:WarehouseMember
+2025-03-31
+0001122020
+PCSV:OfficeMember
+2024-10-21
+0001122020
+PCSV:OfficeMember
+2024-10-21
+2024-10-21
+0001122020
+PCSV:OfficeMember
+2024-04-01
+2025-03-31
+0001122020
+PCSV:OfficeMember
+2025-03-31
+0001122020
+us-gaap:EquipmentMember
+2023-11-03
+0001122020
+us-gaap:EquipmentMember
+2024-04-01
+2025-03-31
+0001122020
+us-gaap:EquipmentMember
+2023-04-01
+2024-03-31
+0001122020
+2022-04-01
+2023-03-31
+0001122020
+us-gaap:SubsequentEventMember
+2025-05-21
+2025-05-21
+0001122020
+us-gaap:SubsequentEventMember
+2025-05-21
+0001122020
+us-gaap:SubsequentEventMember
+2025-04-10
+2025-04-10
+0001122020
+us-gaap:SubsequentEventMember
+2025-05-23
+2025-05-23
+0001122020
+us-gaap:SubsequentEventMember
+2025-05-23
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+utr:sqft
+xbrli:pure
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the fiscal year ended March 31, 2025
+☐
+TRANSITION REPORT UNDER SECTION 13 OF 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from ___________ to ____________
+Commission
+file number: 000-49990
+PCS
+Edventures!, Inc.
+(Exact
+name of Registrant as specified in its charter)
+Idaho
+82-0475383
+(State
+or other jurisdiction of
+Incorporation
+or organization)
+(I.R.S.
+Employer
+Identification
+No.)
+941
+S. Industry Way Meridian, ID
+83642
+(Address
+of principal executive offices)
+(Zip
+code)
+Registrant’s
+telephone number, including area code: (208) 343-3110
+Securities
+registered under Section 12(b) of the Exchange Act: None.
+Securities
+registered pursuant to Section 12(g) of the Exchange Act:
+Common
+Stock - No Par Value
+Indicate
+by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate
+by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes
+☐ No ☒.
+Indicate
+by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during
+the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate
+by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant
+was required to submit and post such files). Yes ☒ No ☐
+Indicate
+by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company.
+Large
+accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated
+filer ☐
+Smaller
+reporting company ☒
+Emerging growth company ☐
+If
+an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate
+by check mark whether the Registrant has filed a report on the attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7362)b)) by the registered
+public accounting firm that prepared or issued its audit report. ☐
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based
+compensation received by any of the Registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate
+by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act.) Yes
+☐ No ☒
+On
+September 30, 2024, the last business day of the Registrant’s completed second quarter, the aggregate market value of the Registrant’s
+common stock held by non-affiliates of the Registrant was $15,357,736, based upon 63,990,148 shares of common stock of the Registrant
+being then owned by such persons, and based upon the closing price of the Registrant’s common stock on the OTC Markets Group, LLC
+(the “OTC Markets”) “QB Tier” under the trading symbol “PCSV” of $0.24 per share on September 30,
+2024.
+Indicate
+the number of shares outstanding of each of the Registrant’s classes of common stock, as of the latest practicable date: As of
+June 30, 2025, the Registrant had 121,924,804 shares of common stock outstanding.
+Forward-Looking
+Statements
+When
+used in this Annual Report on Commission Form 10-K, the words or phrases “would be,” “will allow,” “intends to,”
+“will likely result,” “are expected to,” “will continue,” “is anticipated,” “estimate,”
+“project” or similar expressions are intended to identify “forward-looking statements” within the meaning of
+the Private Securities Litigation Reform Act of 1995. You should be aware that these forward-looking statements are subject to risks
+and uncertainties that are beyond our control. Although management believes that the assumptions underlying the forward-looking statements
+included in this Annual Report are reasonable, they do not guarantee our future performance, and actual results could differ from those
+contemplated by these forward-looking statements. You are cautioned not to place undue reliance on these forward-looking statements,
+which speak only as of their dates. Unless otherwise required by applicable law, we do not undertake, and specifically disclaim any obligation,
+to update any forward-looking statements to reflect occurrences, developments, unanticipated events, or circumstances after the date
+of such statement.
+Cautionary
+Statement
+Summaries
+of all agreements or other documents referenced herein or attached hereto by Hyperlink in Part IV, Item 15, and incorporated herein by
+reference or otherwise, do not purport to be all inclusive of the terms, conditions and other provisions of such agreements or documents,
+and accordingly, all such summaries are modified in their entirety to the referenced and Hyperlinked respective agreements or documents
+in Part IV, Item 15 hereof.
+Documents
+Incorporated by Reference
+See
+Part IV, Item 15.
+TABLE
+OF CONTENTS
+Page
+PART I
+Item
+1.
+Business
+3
+Item
+1A.
+Risk Factors
+10
+Item
+1B.
+Unresolved Staff Comments
+10
+Item
+1C.
+Cybersecurity
+10
+Item
+2.
+Properties
+10
+Item
+3.
+Legal Proceedings
+10
+Item
+4.
+Mine Safety Disclosures
+10
+PART II
+Item
+5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+11
+Item
+6.
+Reserved for Future Use
+12
+Item
+7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+12
+Item
+7A.
+Quantitative and Qualitative Disclosures About Market Risk
+16
+Item
+8.
+Financial Statements and Supplementary Data
+16
+Item
+9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+31
+Item
+9A.
+Controls and Procedures
+31
+Item
+9B.
+Other Information
+32
+Item
+9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+32
+PART III
+Item
+10.
+Directors, Executive Officers and Corporate Governance
+33
+Item
+11.
+Executive Compensation
+35
+Item
+12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+36
+Item
+13.
+Certain Relationships and Related Transactions, and Director Independence
+37
+Item
+14.
+Principal Accounting Fees and Services
+38
+PART IV
+Item
+15.
+Exhibits and Financial Statement Schedules
+39
+Signatures
+40
+2
+PART
+I
+Item
+1. Business.
+History
+and Organization
+PCS
+Edventures!, Inc., an Idaho corporation (“PCS,” the “Company,” “we,” “our,” “us,”
+and words of similar import), was originated under the laws of the State of Idaho on August 3, 1994, as “PCS Education Systems,
+Inc.” On March 27, 2000, we changed our name from “PCS Education Systems, Inc.” to “PCS Edventures!.com, Inc.”;
+and on August 31, 2015, we changed our name from “PCS Edventures!.com, Inc.” to “PCS Edventures!, Inc.” PCS Edventures!,
+Inc. is our current company name.
+On
+February 18, 2016, we announced the completion of an asset purchase of Thrust-UAV, a privately-held company focused on drone technology.
+On
+March 27, 2017, the Company filed a Form 15-12g with the Securities and Exchange Commission (the “Commission”) whereby, under
+Rule 12g-4(a)(1) and Rule 12h-3 (b)(1)(i), it terminated its duty to file reports with the Commission.
+Effective
+December 31, 2017, the Company’s Executive Vice President, Director, and highest-ranking operations officer, resigned to pursue
+other interests. Given his tenure at the Company of over 20 years and his position at the time of his departure, this effectively caused
+a change in executive leadership at the Company. On January 1, 2018, Michael J. Bledsoe, then Vice President and Treasurer, and a Director,
+was appointed to assume responsibility for the operational oversight of the Company. On April 23, 2018, he was promoted to President,
+a position he currently holds. Todd R. Hackett was Chairman of the Board and CEO at the time of this transition and remains in those
+positions with the Company.
+The
+Company’s Board of Directors determined that it was in the best interests of the shareholders of the Company to register its common
+stock pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and return to its
+former status as a “fully-reporting” entity with the Commission given the Company’s improved financial condition and
+management’s desire to improve the Company’s reporting quality to shareholders. Accordingly, the Company filed a Form 10
+Registration Statement with the Commission on October 3, 2023, which became effective December 4, 2023 (the “Form 10 Registration
+Statement”).
+On
+January 22, 2025, the Board of Directors appointed Sean P. Iddings to the Board, bringing the Board members to three (3) Directors.
+3
+Overview
+The
+Company specializes in creating experiential, hands-on, transitional kindergarten through 12th grade (TK-12) STEM (Science,
+Technology, Engineering, and Math) education products and curriculum. “STEM” is often abbreviated as STEAM – Science,
+Technology, Engineering, Arts, and Math – to include the arts. We use the terms STEM and STEAM interchangeably throughout this
+Annual Report and make no significant distinction between the two terms. Through our acquisition of Thrust-UAV, we developed educational
+drones and drone curriculum. Our customers include schools and school districts from the collegiate to transitional kindergarten level,
+and providers of out-of-school programming, which include after-school programs, military education programs, home-schooling programs,
+summer programs, and corporate outreach programs. We sell predominately in the United States and sell into nearly every state in the
+nation. We have a few international customers, but revenue from customers outside of the United States is not material, and we do not
+focus our sales efforts on international markets at this time.
+Our
+products facilitate STEM education by providing engaging activities that demonstrate STEM concepts and inspire further STEM studies,
+with the goal of ultimately leading students to pursue STEM career pathways. Due to our exceptionally detailed curriculum, our products
+are easy to teach and do not require a teaching degree or experience to administer.
+PCS’
+educational products are developed from both in-house efforts and contracted services. They are marketed through reseller channels, direct
+sales efforts, partner networks, and web-based channels.
+Products
+PCS
+has developed and sells a variety of STEM education products into the TK-12 market, which can be categorized as follows:
+1.
+Enrichment
+Programs
+These
+camps are for the informal learning market and are designed to be highly engaging for students while easily administered by the instructor.
+The Company offers approximately 36 different enrichment programs and typically develops at least two (2) new programs each year.
+Some of the more popular programs include Podcasting; Ready, Set, Drone!;Drone Designers; Rockin Robots; Claymation; Cubelets
+Bot Builder; Influencer Camp; The Science of Super Powers; Flight and Aerodynamics; and Build a Better World.
+2.
+Discover
+Series Products
+These
+products are designed for the makerspace environment and include engaging STEM activities that motivate students to pursue educational
+pathways toward STEM careers. The Discover Series includes Discover Engineering; Discover Robotics & Physics; Discover Robotics
+& Programming; Discover STEM; Discover Digital Video; and Discover Blocksmith: 3D Coding & Design.
+3.
+BrickLAB
+Products
+These
+products are designed for the grade school market and use the Company’s proprietary bricks (which are Lego compatible) and
+curriculum to engage students to explore, imagine, and create within a STEM education framework. The Company offers a variety of
+grade-specific BrickLAB products.
+4
+4.
+Discover
+Drones, Add-on Drone Packages, and Ala Carte Drone Items
+These
+products are designed around using drones as a platform for STEM education and career exploration. These titles include the Discover
+Drones series of Products; Discover Drones Indoor Coding Bundle; Discover Drones Indoor Racing Add-On; Discover Drones Outdoor
+Practice Add-on; and all the spare parts and ala carte drone items offered in the Company’s comprehensive drone packages.
+5.
+STEAMventures
+BUILD Activity Book
+These
+series of activity books are designed for the TK-3 market and are ideal for a distance-learning environment. The series includes
+12 different issues. Instructor guides and/or family engagement guides are included. The Company also provides the necessary bricks
+for the builds in the activity books as a separate, but related product.
+6.
+Professional
+Development Training
+The
+Company offers professional development trainings, for a fee, to educators who are implementing the Company’s products in their
+classroom.
+The
+Company intends to continue developing STEM education products that address demand from large markets.
+Distribution
+Methods of Products
+The
+Company sells its products directly to customers and through resellers. The Company kits all of its products at its Meridian, Idaho facility
+and ships the products directly to customers. Resellers do not typically inventory the Company’s products and the Company “drop
+ships” its products directly to the resellers’ customers. Trainings and Professional Development sessions are conducted either
+at the Company’s facilities or at the customer’s location, depending on the desires of the customer. Customers can buy from
+the Company’s website, from a reseller’s website, or by presenting the Company with a valid purchase order.
+Competition
+The
+STEM education market is not well defined and is very fragmented. Our products experience competition from multiple angles. Most schoolteachers
+with exposure to STEM can create their own lesson plans, using their own materials, to emulate the educational benefits of using the
+Company’s products, at a fraction of the cost. The value proposition of our products is less compelling in a budget-constrained
+environment, as cost becomes an overriding factor in many such cases. Additionally, there are several sources of free and inexpensive
+curriculum that teachers can use to help them deliver STEM educational concepts similar to those experienced by the users of our products.
+In
+addition to competition at the local level, many of our products face competition from similar products produced by multinational companies
+that have significant advantages over us in terms of financial resources, human resources, brand loyalty, supply-chain costs, and global
+reach. While many of these companies primarily target the toy industry, their sheer size and cost advantages allow them to easily breach
+the education market with their products. In this regard, the Company competes directly with Lego, Robolink, Fischertechnik, K’Nex
+(acquired by Basic Fun), and Vex IQ, among many others.
+There
+are numerous for-profit companies of various sizes that develop and sell STEM educational products. A good example is Teacher Created
+Materials, a company headquartered in Huntington Beach, California. They are very similar to our company and much larger.
+We
+also compete against non-profit organizations, such as Project Lead The Way, who have a mission to promote and implement STEM education.
+The programs they provide can be free, subsidized, government-sponsored, rigorously developed, and/or heavily promoted, creating intense
+competition for our products and services.
+While
+there may be several characteristics that differentiate our Company’s products from those of our competition, all of us are competing
+for a finite market. There are several potential solutions to STEM education demand and, oftentimes, companies can achieve a first-mover
+advantage by developing a relationship with a customer or distributor, and integrating their suite of products and services into the
+supply chain before we can showcase our offerings.
+5
+We
+believe that we have a competitive advantage in curriculum development. We employ STEM teachers who, through experience, understand the
+environment that educators operate within and the unique challenges they face, and we develop our curriculum with the educator in mind
+for an easy, successful, and consistent implementation. Many of our competitors’ products focus on the product or the student,
+with the educator left to figure out the details of implementation.
+Manufacturing,
+Supplies, and Quality Control
+Our
+Enrichment Programs contain several types of materials, kitted in a box. There is no manufacturing involved in the creation of our final
+product in the Enrichment Program category. Nearly all materials used are non-proprietary and commercially available. The materials are
+mostly consumer discretionary (paper, crayons, pencils, tape, yarn, etc.) and sourced from a variety of vendors, some of which are located
+outside of the United States. Some of our Enrichment Programs contain proprietary products from other companies, commercially available,
+and the Company maintains close relationships with these suppliers. The final creation of the product via kitting and packaging is done
+at our warehouse facility in Meridian, Idaho. This includes the printing of the curriculum. All curriculum development oversight is performed
+at our corporate facility, also in Meridian, Idaho, but separate from our warehouse facility.
+We
+have been working closely with our vendors located outside of the United States to determine the impact of any tariff on our transactions.
+Most vendors pass a portion of the tariff amount onto their customers, including us. In some cases, we have negotiated to split the tariff
+amount with the vendor. Tariffs are a relatively new development, and we are proactively assessing the impact of them on our costs.
+Our
+Discover series of products contains some proprietary products designed by our Company and manufactured abroad as well as non-proprietary,
+commercially available products. Most of our Discover series of products are comprised of other companies’ final products, combined
+with our curriculum. Our RubiQ education drone is a proprietary product of the Company and is the main component in Discover Drones.
+The RubiQ education drone’s components are manufactured abroad and quality-controlled at our corporate facility. The final creation
+of the product via kitting and packaging is done at our warehouse facility in Meridian, Idaho. This includes the printing of the curriculum.
+All curriculum development oversight is performed at our corporate facility, also in Meridian, Idaho, but separate from our warehouse
+facility.
+Our
+BrickLAB products contain proprietary plastic building bricks (that are Lego compatible) manufactured for us by a long-time vendor with
+manufacturing facilities in South Korea. The final creation of the product via kitting and packaging is done at our warehouse facility
+in Meridian, Idaho. This includes the printing of the curriculum; and all curriculum development oversight is also performed at our corporate
+facility.
+The
+STEAMventures BUILD Activity Book was developed at our corporate facility. The final creation of the product via kitting and packaging
+is done at our warehouse facility. This includes the printing of the curriculum; and all curriculum development oversight is also performed
+at our corporate facility.
+Sources
+and Availability of Raw Materials and Names of Principal Suppliers
+Raw
+material procurement became more challenging in the immediate aftermath of the Covid-19 pandemic. Backlogs created availability problems
+for a few items, shipping congestion from time to time significantly delayed shipment of many items, and prices of nearly all items increased
+materially.
+Supply
+chains recovered as the Covid-19 pandemic receded, but recent tariff activity by the U.S. has complicated supply chain management once
+again. We expect continued inflation in the materials we use in our final products.
+With
+few exceptions, we can generally source materials from multiple vendors, although the pricing from different vendors varies considerably.
+Thus, supply problems that we experience generally do not impair our business from functioning. However, supply problems that cause us
+to procure from higher-priced sources negatively affect our gross margin as we cannot adjust our prices as quickly as the prices of our
+raw materials increase.
+6
+In
+response these challenging environments, we have raised prices on selected items every year to reset our margins back to desirable levels
+after price increases of inputs. Additionally, we buy in bulk to achieve better pricing, and have increased general inventory levels.
+While we purchase from numerous vendors, below are our most used vendors by dollar volume:
+Mida’s
+Global
+Robolink
+Amazon
+FPVelite
+Electronics
+Fischertechnik
+Ernest
+Packaging Solutions
+Modular
+Robotics
+iCreate
+to Educate
+Menards
+Dependence
+on One or a Few Major Customers
+During
+Fiscal Year 2025, we had four (4) major customers who each accounted for at least 5% of sales and who, when aggregated, accounted for
+27.8% of sales. The details of sales from our major customers are below:
+Relationship
+Customer Designation
+FY 2025
+FY 2024
+FY 2023
+Duration
+Customer A
+8.7%
+6.6%
+4.2%
+14 years
+Customer B
+7.9%
+14.1%
+6.9%
+20 years
+Customer C
+6.1%
+14.0%
+37.9%
+3 years
+Customer D
+5.1%
+0.0%
+0.0%
+1 year
+Customer
+A is a reseller. The sales from reseller customers represent the aggregation of many purchase orders each of these customers placed with
+us throughout the year. Our reseller customers place an order with us when their customer orders our product from them. This cycle recurs
+numerous times throughout any given year.
+We
+work closely and frequently with our larger customers to ensure that they are receiving the value proposition and service from us they
+require to continue doing business with us. We would categorize our relationship with these customers as excellent and do not believe
+that there is a risk to any of these relationships over the next year. Customer C, being a contract with a specified ending date with
+no minimum order requirement in any given year, is not likely to experience the duration with us as our other major customers have, although
+the possibility exists that a new contract will be created to replace the current one when it expires.
+We
+believe that the risk of losing any one (1) of these customers is small, and we are actively, and successfully, soliciting larger customers
+to diversify our current customer concentration. While we believe the risk of losing any one (1) of these major customers over the next
+year is small, the loss of any two (2) of these customers, without similar replacement, would pose a significant risk to the financial
+health of the Company.
+Seasonality
+of Business
+Our
+business is subjected to strong seasonal patterns during any given year, with our busiest period coinciding with summer learning and
+the planning leading up to providing summer programs (January through July). The period between Thanksgiving and the New Year is our
+slowest time, coinciding with the holiday season, as most schools observe the holidays with significant time off during this period.
+Patents,
+Trademarks, Licenses, Franchises, Concessions, Royalty Agreements or Labor Contracts, including Duration
+We
+do not have any designs or equipment which are patented, registered trademarked, or licensed.
+Research
+and Development Costs During the Last Two Fiscal Years
+We
+currently expense our costs under a general operating expense category instead of capitalizing any research and development expenses.
+Employees
+As
+of March 31, 2025, we had 25 full-time employees.
+7
+Impact
+of the Covid-19 Pandemic
+The
+pandemic affected our end markets considerably for a period of time when lockdown orders were enacted at schools and after-school programs.
+We sell to educational program providers, and our products are designed to be used in-person with group collaboration encouraged. School
+closures and a movement to remote learning during much of calendar year 2020 significantly and negatively impacted our revenue. Our revenue
+for fiscal year 2021 (ending March 31, 2021) declined 57.7% from our revenue for fiscal year 2020. For fiscal year 2022, the impact from
+the pandemic was negligible, as most TK-12 learning institutions and after-school programs resumed in-person learning and services. We
+reported record revenue in fiscal year 2023 and again in fiscal year 2024, indicating that the any lingering effects of the pandemic
+were insignificant.
+During
+the pandemic when our markets were significantly impaired by mandated lockdowns, we developed a STEM activity book, titled STEAMventures,
+which could be used in a distance-learning environment. We also modified two (2) of our enrichment programs to be used at the individual
+level instead of at the group level, to accommodate areas where in-person learning was not possible. Through these developments, we believe
+that we have a better suite of offerings for distance-learning environments, should that environment arise again.
+Impact
+of the Policies of the New Administration
+In
+January, we had a change in the Presidency of the United States and, with it, a sharp turn from past education policy. The current administration
+wants to end the Department of Education, which administers billions of dollars of grants nationwide. Some of these grants will likely
+cease, and some will likely be administered by a different agency or allocated to the states to administer. While nothing has been finalized
+yet, the uncertainty of what might happen has created confusion and anxiety in our market, which has frozen decision makers.
+Schools
+that promote DEI policies have had funding terminated or have received threats of doing so should these policies continue to be promoted.
+Some of these schools have pursued legal action against the administration. This has also added to the confusion and anxiety in our market.
+Additionally,
+as early as April of 2024, the prior administration granted extensions to the deadline of using ESSER funds, from September 30, 2024,
+to March of 2026. The new administration rescinded these extensions, complicating budgets for many schools that were counting on this
+funding extension. This has further added to the confusion and anxiety in our market.
+Management
+believes that as these uncertainties are removed, these disruptions to our market will recede.
+Additionally,
+the new administration has used tariffs as a policy tool to address trade imbalances. While nothing has been finalized yet, management
+believes that costs of raw materials procured from overseas suppliers will likely increase due to some sort of permanent tariff policy.
+While the ultimate magnitude of these cost increases is yet unknown, the likelihood of their continued existence is high, which translates
+into increased raw materials costs. The Company has been working with its vendors, one at a time, to manage through these uncertain times
+regarding tariff rates. The Company reprices its products once per year, and will likely pass the majority of any tariff-related cost
+increases on to the customer.
+Growth
+Plan
+Our
+primary focus is to continue penetrating the U.S. market with our current product line as we feel the market is large relative to our
+current market share and receptive to our value proposition of high-quality, easily implemented, hands-on STEM programs. We are actively
+pursuing larger customers who can implement our programs at multiple sites, recognizing that some unique product development may be required
+for these sales. We intend to develop new products and to enhance our current product line based on market feedback we receive, both
+solicited and unsolicited, and based on developments within our market. We intend to further develop and enhance our educational drone
+product line, and we are prepared to compete intensely in this product category, as we believe that 1), our curriculum offers us a competitive
+advantage in this space, and 2), the educational drone market is nascent and is expected to continue to grow significantly.
+8
+In
+response to new policies on education by the new administration, we are embarking on two (2) new initiatives that complement our current
+strategies. The first initiative is to align our products more closely with state and standards and quality guidelines, especially where
+such a conversion is easy. In the past, we have aligned our products closer to national standards and quality guidelines (than state
+standards) for the following three reasons:
+1.
+Many of the programs we serve receive their funding from federal grants;
+2.
+When state standards are relevant, they are loosely applied to out-of-school-time programs; and
+3.
+There is considerable overlap between federal standards and many of the state’s standards.
+Given
+the new administration’s vocal desire to return education administration to the states, we believe that if it is successful in
+that endeavor, then paying more attention to state-level priorities will enhance the competitiveness and attractiveness of our products.
+The
+second initiative is to provide evidence that our products accomplish certain desired educational outcomes. Many of the opportunities
+that we see that are sponsored by a state entity require evidence-based solutions. We anticipate that the evidence-based requirement
+will grow over time, so we are commissioning studies to be done on a handful of our products to produce evidence of various positive
+outcomes. We are early in this process and do not expect to have the final results until early in calendar year 2026.
+Regulation
+and Environmental Compliance
+Presently,
+none of our products are in highly regulated industries.
+Need
+for any Governmental Approval of Principal Products or Services
+No
+products presently being manufactured or sold by us are subject to prior governmental approvals. Notwithstanding the forgoing, the educational
+drone market is relatively new and undergoing significant regulatory evolution. We stay current on these regulatory developments and
+help our customers understand and comply with new regulations.
+Effect
+of Existing or Probable Governmental Regulations on the Business
+Our
+Form 10 Registration Statement became effective 60 days after filing with the Commission (December 4, 2023, by reason of the 60th
+day being a Saturday), at which point our securities became registered pursuant to Section 12(g) of the Exchange Act. Issuers with securities
+registered under Section 12(g) are subject to numerous regulatory requirements under the Exchange Act. For example, we are subject to
+the Sarbanes-Oxley Act of 2002. The Sarbanes-Oxley Act creates a strong and independent accounting oversight board to oversee the conduct
+of auditors of public companies and strengthens auditor independence. It also requires steps to enhance the direct responsibility of
+senior members of management for financial reporting and for the quality of financial disclosures made by public companies; establishes
+clear statutory rules to limit, and to expose to public view, possible conflicts of interest affecting securities analysts; creates guidelines
+for audit committee members appointment, compensation, and oversight of the work of public companies’ auditors; prohibits certain
+insider trading during pension fund blackout periods; and establishes a federal crime of securities fraud, among other provisions.
+Section
+14(a) of the Exchange Act requires all companies with securities registered pursuant to Section 12(g) of the Exchange Act to comply with
+the rules and regulations of the Commission regarding proxy solicitations, as outlined in Regulation 14A. Matters submitted to stockholders
+of our Company at a special or annual meeting thereof or pursuant to a written consent will require that we provide our stockholders
+with the information outlined in Schedules 14A or 14C of Regulation 14; preliminary copies of this information must be submitted to the
+Commission at least 10 days prior to the date that definitive copies of this information are forwarded to our stockholders.
+With
+the effectiveness of our Form 10 Registration Statement, we also became required to file annual reports on Form 10-K and quarterly reports
+on Form 10-Q with the Commission on a regular basis, and will be required to timely disclose certain material events (e.g., changes in
+corporate control; acquisitions or dispositions of a significant amount of assets other than in the ordinary course of business; changes
+in executive officers and directors; and bankruptcy) in a Current Report on Form 8-K.
+9
+The
+Company currently does not hold any intellectual property rights. While we use reasonable efforts to protect our trade and business secrets,
+we cannot assure that our employees, consultants, contractors, or advisors will not, unintentionally or willfully, disclose our trade
+secrets to competitors or other third parties. In addition, courts outside the United States are sometimes
+less willing to protect trade secrets. Moreover, the Company’s competitors may independently develop equivalent knowledge, methods,
+and know-how. If we are unable to defend our trade secrets from others use, or if our competitors develop equivalent knowledge, it could
+have a material adverse effect on our business. Any infringement of our proprietary rights could result in significant litigation costs,
+and any failure to adequately protect our proprietary rights could result in our competitors offering similar products, potentially resulting
+in loss of a competitive advantage and decreased revenue. Existing patent, copyright, trademark, and trade secret laws afford only limited
+protection. In addition, the laws of some foreign countries do not protect our proprietary rights to the same extent as do the laws of
+the United States. Therefore, we may not be able to protect our proprietary rights against unauthorized third-party use. Enforcing a
+claim that a third party illegally obtained and is using the Company’s trade secrets could be expensive and time-consuming, and
+the outcome of such a claim is unpredictable. Litigation may be necessary in the future to protect our trade secrets or to determine
+the validity and scope of the proprietary rights of others. This litigation could result in substantial costs and diversion of resources
+and could materially adversely affect our future operating results.
+Item
+1A. Risk Factors
+As
+a smaller reporting company, we are not required to respond to this Item.
+Item
+1B. Unresolved Staff Comments
+None.
+Item
+1C. Cybersecurity
+Processes
+for assessing, identifying, and managing material risks from cybersecurity threats are conducted in-house, with the help of analytics
+and notifications that are built-in to our third-party tools. These processes include:
+a.
+Providing
+employees with tools and training to minimize and report cybersecurity risks;
+b.
+Monitoring
+databases and tools for unusual activity or suspicious login attempts;
+c.
+Tracking,
+managing, and safely disposing of physical hardware; and
+d.
+Responding
+to any identified threats and reporting these situations to management.
+Cybersecurity
+threats could potentially result in slowed or halted business operations, such as shipping, closing sales, marketing engagement, and
+other communications. This would negatively impact the Company’s financial condition until the issue is resolved. Such threats
+could impact customers of certain programs that rely on digital resources, but a majority of our products would not be materially affected.
+Other threats may include the compromise of customer personally-identifiable information. We continually monitor for threats to avoid
+risks to Company or individuals’ data, interruptions to business operations, or financial losses.
+No
+cybersecurity incidents were identified this year. One threat was identified: insecurely stored credentials. This was responded to by
+implementing an encrypted password manager Company-wide. We will continue to monitor for threats to avoid risks to Company or individuals’
+data, interruptions to business operations, or financial losses. Information about risks or any identified cybersecurity threats are
+reported by our Director of Technology to our President.
+Identified
+cybersecurity risks are reported to IT, where they are assessed and responded to. Any actions taken or cybersecurity incidents identified
+are reported to the Director of Technology. Qualifications for these individuals include prior experience, education, and/or training
+in cybersecurity.
+Item
+2. Properties
+We
+own no real properties. Our corporate headquarters are located at 941 S. Industry Way, Meridian, ID 83642, where we occupy 5,016 square
+feet of office space under a triple net lease with a monthly rental amount that started at $5,225, not including the triple net amounts,
+and escalates by 3% each December through the end of the lease on November 30, 2029.
+Our
+R&D and warehouse facility is located at 1135 N. Hickory Ave, Suite 130, Meridian, ID 83642, where we occupy 20,880 square feet of
+warehouse space under a triple net lease with a monthly rental amount that started at $15,660, not including the triple net amounts,
+and escalates by 3% each December through the end of the lease on November 30, 2029.
+Item
+3. Legal Proceedings
+There
+are no pending legal proceedings to which we are a party or of which any of our properties are the subject.
+Item
+4. Mine Safety Disclosures
+None;
+not applicable.
+10
+PART
+II
+Item
+5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market
+Information
+Since
+August 1, 2001, our common stock has been quoted in the OTC Markets under the symbol “PCSV.” Our common stock was traded
+on the OTC Markets “Pink Tier” until June 2, 2025, at which time it began trading on the OTC Markets “QB Tier.”
+Any OTC Markets quotations for our common stock reflect inter-dealer prices, without retail mark-up, mark-down or commission, and may
+not necessarily reflect actual transactions.
+The
+following table summarizes our common stock quote history, as provided to us by the OTC Markets:
+Closing
+High
+Low
+High
+Low
+Closing
+Period
+Bid
+Closing Bid
+Closing Bid
+Price
+Price
+Price
+1/1/2025 – 3/31/2025
+.152
+.250
+.136
+.250
+.136
+.160
+10/1/2024 – 12/31/2024
+.240
+.252
+.220
+.260
+.210
+.240
+7/1/2024 – 9/30/2024
+.224
+.300
+.225
+.300
+.190
+.240
+4/1/2024 – 6/30/2024
+.260
+.270
+.182
+.280
+.182
+.280
+1/1/2024 – 3/31/2024
+.185
+.190
+.165
+.200
+.165
+.165
+10/1/2023 – 12/31/2023
+.185
+.210
+.161
+.210
+.170
+.185
+7/1/2023 – 9/30/2023
+.185
+.185
+.065
+.190
+.069
+.185
+4/1/2023 – 6/30/2023
+.065
+.075
+.057
+.088
+.042
+.065
+1/1/2023 – 3/31/2023
+.075
+.087
+.055
+.089
+.056
+.079
+10/1/2022 – 12/31/2022
+.060
+.070
+.050
+.089
+.049
+.055
+7/1/2022 – 9/30/2022
+.046
+.052
+.041
+.060
+.045
+.045
+4/1/2022 – 6/30/2022
+.041
+.066
+.041
+.075
+.041
+.041
+Holders
+As
+of March 31, 2025, we had 122,189,763 shares of our common stock outstanding, and there were approximately 223 accounts of record; this
+number does not include an indeterminate number of stockholders whose shares may be held by brokers in street name.
+Dividends
+We
+have not declared any cash dividends with respect to our common stock, and do not intend to declare dividends in the foreseeable future.
+Our future dividend policy cannot be ascertained with any certainty. There are no material restrictions limiting, or that are likely
+to limit, our ability to pay dividends on our securities.
+Securities
+Authorized For Issuance Under Equity Compensation Plans
+We
+have no active equity compensation plans and no securities are authorized for issuance under equity compensation plans.
+Performance
+Graph
+As
+a smaller reporting company, we are not required to respond to this item.
+Recent
+Sales of Unregistered Securities; Use of Proceeds from Registered Securities
+During
+the past three fiscal years ending March 31, 2025, 2024, and 2023, the Company has engaged in the following transactions:
+On
+March 17, 2023, Michelle Fisher, our Director of Curriculum, exercised 250,000 performance options and purchased 250,000 shares of “restricted”
+Rule 144 common stock at $0.02 per share, for total consideration of $5,000. We used the proceeds from this sale for general corporate
+purposes.
+11
+On
+August 24, 2022, Michael J. Bledsoe, our President, exercised 1,000,000 performance options and purchased 1,000,000 shares of “restricted”
+Rule 144 common stock at $0.025 per share, for total consideration of $25,000. We used the proceeds from this sale for general corporate
+purposes.
+Item
+6. Reserved for Future Use.
+Item
+7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Cautionary
+Statements for Purposes of “Safe Harbor Provisions” of the Private Securities Litigation Reform Act of 1995:
+Except
+for historical facts, all matters discussed in this Annual Report, which are forward-looking, involve a high degree of risk and uncertainty.
+Certain statements in this Annual Report set forth management’s intentions, plans, beliefs, expectations, or predictions of the
+future based on current facts and analyses. When we use the words “believe,” “expect,” “anticipate,”
+“estimate,” “intend,” or similar expressions, we intend to identify forward-looking statements. You should not
+place undue reliance on these forward-looking statements. Actual results may differ materially from those indicated in such statements,
+due to a variety of factors, risks, and uncertainties. Potential risks and uncertainties include, but are not limited to, competitive
+pressures from other companies within the Educational Industries, economic conditions in the Company’s primary markets, exchange
+rate fluctuation, reduced product demand, increased competition, inability to produce required capacity, unavailability of financing,
+government action, weather conditions, and other uncertainties, including those detailed in our Commission filings and at the forepart of this
+Annual Report. We assume no duty to update forward-looking statements to reflect events or circumstances after the date of such statements.
+The
+following discussion should be read in conjunction with our financial statements contained in Part II, Item 8, Financial Statements,
+below, of this Annual Report.
+Overview
+of Current and Planned Operations
+PCS
+Edventures!, Inc. sells STEM/STEAM products to educational and recreational entities serving youth. Because the majority of our customers
+work in out-of-school-time settings, we have not attempted to align our products to fit in the classroom setting, until recently. Classroom
+curriculum must promote academic achievement through rigorous alignment with specific state standards to be considered for use. Each
+state has its own unique set of standards, making classroom curriculum development a state by-state endeavor.
+On
+the other hand, out of school programs focus more broadly on the goals of engagement, career exploration and development of 21st
+century skills. This difference makes it easier to penetrate out-of-school programs, as more freedoms exist for curriculum development.
+We focus our efforts on these out-of-school programs, which include summer school, summer camps, YMCA programs, Boys and Girls club programs,
+and various other programs offered outside of the classroom, at all times of the year, that are too numerous to list. Oftentimes, these
+programs are sponsored, administered, and/or supported by local school districts, and we employ considerable efforts to build relationships
+with these types of school districts to provide desired programing for their out-of-school programs. The majority of the time, the out-of-school
+programs offered are funded with grants; however, some programs are run on a for-profit basis. The Company sells to all of these types
+of entities.
+However,
+given the new administration’s stated goals of removing federal influence and administration from education, and returning those
+functions to the states, we are now considering which of our products would be adaptable to the educational standards of certain larger
+states. We intend to continue to weigh state-level priorities much more heavily in the development of future products as well. We view
+a transition from federal dominance to state dominance of the application of educational standards to curriculum as likely, albeit over
+a long time frame, and we are adapting our product development to this change in our market.
+Market
+feedback also indicates that products that have evidence of their effectiveness are increasingly being demanded, especially in state-funded
+programs and larger programs. While we maintain a library of the evidence we have accumulated about the outcomes one can expect when
+using our products, and while this library of evidence has helped us win larger orders, we believe that expanding this library and upgrading
+the tiers of evidence we have will produce meaningful benefits for future sales.
+12
+We
+have engaged various firms to help us generate more compelling evidence of our products’ effectiveness. We are early in this process,
+but we intend to substantially build out our library of evidence of our products’ effectiveness. The course we take to accomplish
+this endeavor will depend on our experiences with these early initiatives.
+We
+offer professional development training for instructors using our products, and typically charge a fee for this service, with the fee
+primarily covering our expenses. Management does not view this service as a profit center, but rather as a customer service component
+of our product that adds to its uniqueness and value in the marketplace, and as a market development endeavor to build out the Company’s
+addressable market.
+The
+nature of our target market produces considerable seasonality for the Company’s revenue. The quarters ending June 30 and September
+30 tend to be the peak of this seasonality (with the quarter ending March 31 being close to these quarters), while the quarter ending
+December 31 tends to be the low point of our seasonality. The Table below reflects this seasonality.
+Quarterly Revenue
+2022
+2023
+2024
+3/31
+1,445,594
+2,521,470
+2,262,772
+6/30
+1,391,785
+2,605,281
+3,159,923
+9/30
+1,243,662
+3,767,326
+2,267,338
+12/31
+1,847,659
+459,087
+701,147
+During
+the quarter ending December 31, we focus on product development, restocking inventory, and general planning for the next year. Sales
+and marketing activities remain fairly constant throughout the year.
+Results
+of Operations
+Revenue
+For
+the year ended March 31, 2025, our revenue was $7,421,228 compared to $9,094,466 for the year ended March 31, 2024. There were five (5)
+factors that negatively impacted our revenue in fiscal year 2025 versus that in fiscal year 2024.
+1.
+We
+did not win an Iowa STEM Scale-Up contract in fiscal year 2025 and reported no revenue from that customer. In fiscal year 2024, our
+revenue from our Iowa STEM Scale-Up contract was $823,143. In fiscal year 2023, our revenue from this customer was $467,457. We won
+a contract for fiscal year 2026 and expect associated revenue for this contract to be closer to our fiscal year 2023 experience.
+2.
+Our
+Catapult order was significantly less in fiscal year 2025 versus that of fiscal year 2024. Catapult administers summer programming
+in Missouri due to the state’s public funding of such programs. They experience annual fluctuations in their customer base,
+and they inventory our products over the course of the year. Thus, seasons when their customer base is down and when their inventory
+of our products is high produce smaller orders than seasons when their customer base is up and they have a low inventory of our products.
+We believe that their order placed with us in fiscal year 2025, in the aggregate amount of $587,100, was under the former conditions,
+and that their order placed with us in fiscal year 2024, in the amount of $1,286,695, was under the latter conditions.
+3.
+Our
+Air Force JROTC (“AFJROTC”) contract produces less revenue as the contract ages. The AFJROTC has approximately 884 sites, and we have
+sold into approximately 642 of them thus far.
+4.
+The
+expiration of ESSER funds on September 30, 2024, eliminated a key funding stream for our products during the second half of our fiscal
+year.
+5.
+The
+change in Presidential administration created significant changes in the education market regarding funding streams, administration
+of grants, and general federal influence over education. These changes were and still are disruptive to educational decision making
+and, thus, disruptive to our market.
+The
+Company has been soliciting larger customers for over three (3) years and has seen some success. The AFJROTC is the Company’s largest
+success by a wide margin, producing revenue of $453,314 in the year ended March 31, 2025, $1,269,036 in the year ended March 31, 2024,
+and $2,655,336 in the year ended March 31, 2023.
+13
+We
+have experienced other successes in our campaign to find larger customers. The table below shows customer transactions by size for the
+periods indicated.
+Number
+of Customer Transactions by size
+> $1 million
+>$500,000
+> $100,000
+> $50,000
+> $25,000
+> $10,000
+Year ended March 31, 2025
+0
+2
+16
+26
+49
+103
+Year ended March 31, 2024
+2
+3
+17
+27
+40
+94
+Year ended March 31, 2023
+1
+1
+10
+21
+38
+60
+We
+believe that we can continue to experience success in soliciting larger customers, but we can offer no assurances that success will be
+certain, nor can we offer any numerical framework in describing the success that may occur. Risk factors include anything that would
+negatively affect educational funding in the United States; finding and retaining employees that meet our high standards; and anything
+that would negatively affect our supply chain of critical components.
+Cost
+of Sales
+For
+the year ended March 31, 2025, our cost of sales was $2,983,940, or 40.2% of revenue. For the year ended March 31, 2024, our cost of
+sales was $3,359,801, or 36.9% of revenue.
+We
+strive to have a cost of sales that is less than 40% of revenue. We price our products once per year, at the beginning of the calendar
+year, and maintain that pricing level throughout the year. During inflationary environments, when the price level of the Company’s
+raw materials is increasing, the Company must absorb that negative impact to gross margins until we can reprice our products at the beginning
+of the next calendar year. This repricing analysis considers the current pricing level of materials, as well as the likely increase in
+those levels in the year ahead. We attempt to incorporate shipping costs into the cost of raw materials, but oftentimes during the course
+of the year, we are compelled to ship in a more expedient manner, which is more expensive than our baseline assumptions.
+Factors
+affecting cost of sales include:
+Helps
+sub 40% cost of sales
+Impedes
+sub 40% cost of sales
+Higher
+revenue
+Higher
+inflation
+Larger
+order size
+Expedited
+shipping
+Ability
+to take advantage of volume discounts
+Quality
+issues with raw materials
+Lower
+percentage of reseller sales
+Higher
+percentage of reseller sales
+Operating
+Expenses
+Operating
+expenses are divided into two categories – salary + wages, and general + administrative. Salary and wages tend to increase over
+time as the Company has been increasing its number of employees, and we expect to continue to do so in the future. Also, we desire to
+retain employees over the long term, which requires periodic increases in compensation as their value to the Company increases.
+The
+Company also has a discretionary quarterly bonus program based on qualified revenue. Qualified revenue is defined as revenue where there
+are no reseller fees or other price adjustments associated with that revenue. Thus, all reseller sales are disqualified from the discretionary
+quarterly bonus calculation, as are other miscellaneous transactions where the Company did not receive a full margin. During quarters
+with higher revenue, salaries and wages will increase all other things equal.
+Salary
+and wages were $1,914,941 for the year ended March 31, 2025, compared to $1,778,946 for the year ended March 31, 2024. As of March 31,
+2025, we had 25 full-time employees. As of March 31, 2024, we had 22 full-time employees.
+14
+General
+and administrative expenses include all operating expenses outside of salaries and wages. These include the following categories:
+1.
+Advertising
+and marketing expenses;
+2.
+Trade
+show and travel expenses;
+3.
+Product
+development expenses;
+4.
+Finance
+charges;
+5.
+Contract
+labor expenses;
+6.
+Lease
+expenses;
+7.
+Insurance
+premiums;
+8.
+Workers’
+compensation expenses;
+9.
+Office
+supplies and repairs;
+10.
+Professional
+expenses;
+11.
+Licenses;
+12.
+State
+sales tax expenses; and
+13.
+Office
+and warehouse infrastructure expenses.
+Most
+of these expenses are not strongly correlated with changes in revenue, but they tend to increase over time. General and administrative
+expenses were $1,439,014 for the year ended March 31, 2025. For the year ended March 31, 2024, general and administrative expenses were
+$1,148,652. In late October and early November of 2024, we ended our lease on our 10,000 square foot combined warehouse and office facility,
+and entered into two (2) new leases - a 20,880 square foot warehouse and R&D facility, and a 5,016 square foot corporate office facility.
+This expansion was the primary driver in the increase in general and administrative expenses in fiscal year 2025 versus fiscal year 2024,
+although general inflation also played a significant role.
+Total
+Operating expenses for the year ended March 31, 2025, were $3,353,955, compared to $2,927,598 for the year ended March 31, 2024.
+Other
+Income/Expenses
+Other
+income and expenses are those outside of the Company’s ordinary course of business. During the Covid pandemic, the Employee Retention
+Tax Credit was offered to companies to keep employees on the payroll during the lockdowns. The Company qualified for those benefits,
+which are disclosed under other income and expenses.
+Interest
+income and interest expense are also disclosed under other income and expenses. The Company had considerable interest expense prior to
+paying off all of its promissory note debt as of March 31, 2023. Since that time and as the Company has accumulated cash, it has invested
+surplus cash in a Vanguard money market fund that invests exclusively in repurchase agreements and short-term U.S. government securities.
+The ticker symbol of this fund is “VMFXX.”
+For
+the year ended March 31, 2025, other income and expenses were $127,930, with net interest income comprising the entire amount. For the
+year ended March 31, 2024, other income and expenses were $104,328, with interest income totaling $48,904.
+Net
+Income Before Tax
+For
+the year ended March 31, 2025, net income before tax was $1,211,263 versus $2,911,395 for the year ended March 31, 2024. The Company
+experienced a lower sales level in fiscal year 2025 versus that of fiscal year 2024, which largely accounts for the difference in net
+income before tax for these two periods. Operating expenses in fiscal year 2025 were also higher than those for fiscal year 2024.
+Taxes
+The
+Company has significant net operating losses which arose due to past losses. At March 31, 2025, the Company had net operating losses
+of approximately $8.0 million that may be offset against future taxable income. The federal net operating losses and tax credits expire
+in years beginning in 2029. The state net operating losses and tax credits expire in years beginning in 2026.
+Prior
+to fiscal year 2023, the Company offset its potential tax benefit from the operating loss carry-forwards with a valuation allowance in
+the same amount. As it became clear that the Company will more likely than not use its tax loss carry-forward amounts, the valuation
+allowance was partially removed for the fiscal year ending March 31, 2023, such that the tax benefit recognized by us in fiscal year
+2023 was $1,011,466. The valuation allowance was fully removed as of March 31, 2024, resulting in a tax benefit of $1,529,793 for fiscal
+year 2024. Once the valuation allowance was fully removed, a provision for income taxes was disclosed. For the fiscal year ending March
+31, 2025, the Company’s provision for income taxes was ($264,865).
+15
+Net
+Income
+For
+the year ended March 31, 2025, net income was $946,865 versus $4,441,188 for the year ended March 31, 2024. Removing the tax loss carry-forward
+valuation allowance added $1,529,793 to net income for the year ended March 31, 2024.
+Liquidity
+and Capital Resources
+Cash
+Flow from Operations
+For
+the year ended March 31, 2025, cash provided by operations was $2,520,966 compared to cash provided by operations of $975,680 for the
+year ended March 31, 2024. A decrease in accounts receivable and prepaid expenses, and a smaller increase in inventory as of March 31,
+2025, compared to March 31, 2024, were the largest factors behind the increase of cash flow from operations in fiscal year 2025 over
+that in fiscal year 2024.
+As
+of March 31, 2025, total current assets were $5,918,984 and total current liabilities were $326,439, resulting in working capital of
+$5,592,545. As of March 31, 2024, total current assets were $5,425,141 and total current liabilities were $416,154, resulting in working
+capital of $5,008,987.
+The
+Company had a current ratio as of March 31, 2025, of 18.13 compared to a current ratio of 13.04 as of March 31, 2024.
+As
+of March 31, 2025, we had $3,223,147 in cash and cash equivalents compared to $1,329,708 in cash as of March 31, 2024. The improvements
+in working capital, current ratio, and cash on hand are largely due to the realization of $1,675,859 of accounts receivable during fiscal
+year 2025 that were on the books at the end of fiscal year 2024.
+Cash
+Flow from Investing Activities
+For
+the year ended March 31, 2025, cash used by investing activities was $79,814 compared to cash used by investing activities of $23,696
+for the year ended March 31, 2024. We purchased warehouse and office equipment related to our move from one facility to two during fiscal
+year 2025, which accounts for the increase in cash used by investing activities.
+Cash
+Flow from Financing Activities
+For
+the year ended March 31, 2025, cash used by financing activities was $547,713. We made the following common stock repurchase transactions
+during fiscal year 2025, which accounts for this activity:
+Date
+Shares
+Price
+Total Consideration
+7/15/2024
+250,000
+$0.195
+$48,750
+9/24/2024
+352,084
+$0.270
+$95,063
+11/19/2024
+1,172,417
+$0.210
+$246,208
+2/7/2025
+769,230
+$0.205
+$157,692
+Total
+2,543,731
+547,713
+For
+the year ended March 31, 2024, cash used by financing activities was $64,933. We purchased 998,985 shares of our common stock for $0.065
+per share, which accounts for this activity.
+Off-Balance
+Sheet Arrangements
+We
+had no Off-Balance Sheet arrangements during the years ended March 31, 2025, or 2024.
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk
+Not
+required for smaller reporting companies.
+Item
+8. Financial Statements
+Report of Independent Registered Public Accounting Firm
+Balance Sheets as of March 31, 2025, and March 31, 2024
+Statements of Operations for the years ended March 31, 2025, and 2024
+Statements of Stockholders’ Equity for the years ended March 31, 2025, and 2024
+Statements of Cash Flows for the years ended March 31, 2025, and 2024
+Notes to Financial Statements
+16
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To
+the Board of Directors and
+Stockholders
+of PCS Edventures!, Inc.
+Opinion
+on the Financial Statements
+We
+have audited the accompanying balance sheets of PCS Edventures!, Inc. (the Company) as of March 31, 2025 and 2024, and the related statements
+of operations, stockholders’ equity, and cash flows for each of the years in the two-year period ended March 31, 2025, and the
+related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all
+material respects, the financial position of the Company as of March 31, 2025 and 2024 and the results of its operations and its cash
+flows for each of the years in the two-year period ended March 31, 2025, in conformity with accounting principles generally accepted
+in the United States of America.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion.
+Critical
+Audit Matters
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Deferred
+Tax Asset
+ASC
+740 Income Taxes discusses the considerations for valuing deferred tax assets. The Company has significant net operating losses (NOLs)
+resulting in the recognition of a significant deferred tax asset. The Company has determined that the asset will be fully realized based
+on current earnings trends. The Company uses judgment in order to determine whether an allowance is needed. We considered this a significant
+estimate that involved subjective judgments made by management.
+How
+We Addressed it During Our Audit
+We
+tested management’s determination and calculations of their tax provision and deferred taxes, to ensure they were recorded in accordance
+with ASC 740 Income Taxes.
+Haynie & Company
+Salt Lake City, Utah
+June 30, 2025
+PCAOB #457
+We have served as the Company’s auditor since 2019.
+17
+PCS
+EDVENTURES!, INC.
+Balance
+Sheets
+(Audited)
+March 31, 2025
+March 31, 2024
+CURRENT ASSETS
+Cash
+$3,223,147
+$1,329,708
+Accounts receivable, net of allowance for credit losses of $38,027 and $34,204, respectively
+383,826
+1,675,859
+Accounts receivable, other receivables
+55
+-
+Prepaid expenses
+247,422
+394,091
+Inventory, net
+2,064,534
+2,025,483
+Total Current Assets
+5,918,984
+5,425,141
+NONCURRENT ASSETS
+Lease Right-of-Use Asset
+1,140,217
+273,905
+Deposits
+29,747
+6,300
+Property and equipment, net
+97,213
+43,739
+Deferred tax asset
+2,276,861
+2,541,259
+Total Noncurrent Assets
+3,544,038
+2,865,203
+TOTAL ASSETS
+$9,463,022
+$8,290,344
+CURRENT LIABILITIES
+Accounts payable
+$24,991
+$100,853
+Payroll liabilities and accrued expenses
+171,398
+229,970
+Deferred revenue
+20,026
+14,549
+Lease Liability, current portion
+110,024
+70,782
+Total Current Liabilities
+326,439
+416,154
+Lease Liability, net of current portion
+1,081,614
+218,373
+TOTAL LIABILITIES
+1,408,053
+634,527
+STOCKHOLDERS’ EQUITY (DEFICIT)
+Preferred stock, no par value, 20,000,000 authorized shares,
+no shares issued and outstanding
+-
+-
+Common stock, no par value, 150,000,000 authorized shares, 122,189,763 and 124,733,494 shares issued and outstanding
+-
+-
+Additional Paid-in Capital
+40,022,746
+40,570,459
+Accumulated deficit
+(31,967,777)
+(32,914,642)
+Total Stockholders’ Equity
+8,054,969
+7,655,817
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$9,463,022
+$8,290,344
+The
+accompanying notes are an integral part of these financial statements.
+18
+PCS
+EDVENTURES!, INC.
+Statements
+of Operations
+(Audited)
+2025
+2024
+For the Years ended March 31,
+2025
+2024
+REVENUE
+7,421,228
+9,094,466
+COST OF SALES
+2,983,940
+3,359,801
+GROSS PROFIT
+4,437,288
+5,734,665
+OPERATING EXPENSES
+Salaries and wages
+1,914,941
+1,778,946
+General and administrative expenses
+1,439,014
+1,148,652
+Total Operating Expenses
+3,353,955
+2,927,598
+INCOME FROM OPERATIONS
+1,083,333
+2,807,067
+OTHER INCOME AND EXPENSES
+Net Interest income
+127,930
+48,904
+Tax credit
+-
+52,766
+Loss on lease modification
+-
+2,658
+Total Other Income
+127,930
+104,328
+NET INCOME BEFORE INCOME TAX PROVISION
+1,211,263
+2,911,395
+Income Tax Benefit (Provision)
+(264,398)
+1,529,793
+NET INCOME
+946,865
+4,441,188
+Net income per common share:
+Basic
+0.01
+0.04
+Diluted
+0.01
+0.04
+Weighted Average Common Shares Outstanding
+Basic
+123,841,163
+125,070,138
+Diluted
+123,841,163
+125,070,138
+The
+accompanying notes are an integral part of these financial statements.
+19
+PCS
+EDVENTURES!, INC.
+Statements
+of Stockholders’ Equity
+(Audited)
+# of Common Shares O/S
+Common Stock
+Additional Paid-in Capital
+Accumulated Deficit
+Stockholders’ Equity
+Balance at 3/31/2023
+125,732,479
+-
+$40,635,392
+$(37,355,830)
+$3,279,562
+Net Income
+-
+-
+-
+4,441,188
+4,441,188
+Shares Redeemed
+(998,985)
+-
+(64,933)
+-
+(64,933)
+Balance at 3/31/2024
+124,733,494
+-
+$40,570,459
+$(32,914,642)
+$7,655,817
+Balance
+124,733,494
+-
+$40,570,459
+$(32,914,642)
+$7,655,817
+Net Income
+-
+-
+-
+946,865
+946,865
+Shares Redeemed
+(2,543,731)
+-
+(547,713)
+-
+(547,713)
+Balance at 3/31/2025
+122,189,763
+-
+$40,022,746
+$(31,967,777)
+$8,054,969
+Balance
+122,189,763
+-
+$40,022,746
+$(31,967,777)
+$8,054,969
+The
+accompanying notes are an integral part of these financial statements.
+20
+PCS
+EDVENTURES!, INC.
+Statements
+of Cash Flows
+(Audited)
+2025
+2024
+For the years ended March 31,
+2025
+2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net Income
+$946,865
+4,441,188
+Depreciation and amortization
+26,339
+11,490
+Amortization of right of use asset
+157,391
+139,729
+Provision for income tax
+264,398
+(1,529,793)
+Changes in operating assets and liabilities
+(Increase) decrease in accounts receivable
+1,291,978
+(1,298,599)
+(Increase) decrease in prepaid expenses
+146,669
+(177,173)
+(Increase) decrease in inventories
+(39,051)
+(787,611)
+(Decrease) increase in accounts payable and accrued liabilities
+(134,434)
+295,864
+Increase (decrease) in lease liability
+(121,220)
+(126,878)
+Increase (decrease) in unearned revenue
+5,477
+7,463
+(Increase) decrease in deposits
+(23,446)
+-
+Net Cash Provided by Operating Activities
+2,520,966
+975,680
+CASH FLOWS FROM INVESTING ACTIVITIES
+Cash paid for purchase of fixed assets
+(79,814)
+(23,696)
+Net Cash Used by Investing Activities
+(79,814)
+(23,696)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Common stock repurchased and cancelled
+(547,713)
+(64,933)
+Net Cash Used by Financing Activities
+(547,713)
+(64,933)
+Net Increase in Cash
+1,893,439
+887,051
+Cash at Beginning of Period
+1,329,708
+442,657
+Cash at End of Period
+3,223,147
+1,329,708
+Cash paid for taxes
+$125,861
+$83,440
+Cash paid for interest
+$999
+$648
+Non Cash Investing and Financing Transactions:
+Right of use assets obtained in exchange for new operating lease liabilities
+$1,023,703
+$240,281
+The
+accompanying notes are an integral part of these financial statements.
+21
+PCS
+EDVENTURES!, INC.
+Notes
+to the Financial Statements
+March
+31, 2025
+(Audited)
+NOTE
+1 - DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+Description
+of Business
+The
+financial statements presented are those of PCS Edventures!, Inc., an Idaho corporation (the “Company,” “PCS,”
+“PCSV,” “we,” “our,” “us” or similar words), incorporated in 1994, in the State of Idaho.
+PCS specializes in experiential, hands-on, K12 education and drone technology. PCS has extensive experience and intellectual property
+(“IP”) that includes drone hardware, product designs, and K-12 curriculum content. PCS continually develops new educational
+products based upon market needs that the Company identifies through its sales and customer networks.
+Our
+products facilitate STEM (“Science, Technology, Engineering, and Math”) education by providing engaging activities that demonstrate
+STEM concepts and inspire further STEM studies, with the goal of ultimately leading students to pursue STEM career pathways. Due to our
+exceptionally detailed curriculum, our products are easy to teach and do not require a teaching degree or experience to administer.
+Our
+educational products are developed from both in-house efforts and contracted services. They are marketed through reseller channels, direct
+sales efforts, partner networks, and web-based channels.
+PCS
+has developed and sells a variety of STEM education products into the K12 market, which can be categorized as follows:
+1.
+Enrichment Programs
+These
+camps are for the informal learning market and are designed to be highly engaging for students while easily administered by the instructor.
+The Company offers approximately 36 different enrichment programs and typically develops at least two (2) new programs each year. Some
+of the more popular programs include Rockin’ Robots; Ready, Set, Drone!; Cubelets BOT Builder; Simple Machines; Drone Designers;
+Coding with Drones; Pirate Camp; Dirt Camp; and Claymation.
+2.
+Discover Series Products
+These
+products are designed for the makerspace environment and include engaging STEM activities that motivate students to pursue educational
+pathways toward STEM careers. The Discover Series includes Discover Podcasting; Discover STEM Dynamic Duo; and Discover Digital Video
+Lab.
+3.
+BrickLAB Products
+These
+products are designed for the grade school market and use the Company’s proprietary bricks (which are Lego compatible) and curriculum
+to engage students to explore, imagine and create within a STEM education framework. The Company offers a variety of grade-specific BrickLAB
+products.
+4.
+Discover Drones, Add-on
+Drone Packages and Ala Carte Drone Items
+These
+products are designed around using drones as a platform for STEM education and career exploration. These titles include the Discover
+Drones series of Products; Discover Drones Indoor Coding Bundle; Discover Drones Indoor Racing Add-On; Discover Drones Outdoor
+Practice Add-on; and all the spare parts and ala carte drone items offered in the Company’s comprehensive drone packages.
+5.
+STEAMventures BUILD Activity
+Book
+These
+series of activity books are designed for the TK-3 market. The series includes 12 different issues. Instructor guides and/or family engagement
+guides are included. The Company also provides the necessary bricks for the builds in the activity books as a separate, but related product.
+22
+6.
+Professional Development
+Training
+The
+Company offers professional development trainings, for a fee, to educators who are implementing the Company’s products in their
+classroom.
+The
+Company intends to continue developing STEM education products that address demand from large markets.
+Accounting
+Method
+The
+Company’s financial statements are prepared using the accrual method of accounting. The Company has elected a March 31st
+fiscal year end.
+Cash
+and Cash Equivalents
+Cash
+and cash equivalents, totaling $3,223,147 and $1,329,708 at March 31, 2025, and March 31, 2024, respectively, consist of operating and
+savings accounts. For purposes of the statements of cash flows, the Company considers all highly-liquid financial instruments with original
+maturities of three months or less at date of purchase to be cash equivalents.
+Use
+of Estimates
+The
+preparation of these financial statements in conformity with Generally Accepted Accounting Principles (“GAAP”) requires management
+to make estimates and assumptions that affect the amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results
+could differ from those estimates. The Company’s significant estimates include reserves related to accounts receivable and inventory,
+the valuation allowance related to deferred tax assets, the valuation of equity instruments, and debt discounts.
+Concentration
+of Credit Risks and Significant Customers
+The
+Company extends credit to customers and is therefore subject to credit risk. Financial instruments that potentially subject the Company
+to concentration of credit risk consist primarily of trade receivables. In the normal course of business, the Company provides credit
+terms to its customers. Accordingly, the Company performs ongoing credit evaluations of its customers and maintains allowances for possible
+losses which, when realized, have been within the range of management’s expectations. An allowance for credit losses is recorded
+to account for potential bad debts. Estimates are used in determining the allowance for credit losses and are based upon an assessment
+of selected accounts, historic averages, and as a percentage of remaining accounts receivable by aging category. In determining these
+percentages, the Company evaluates historical write-offs, and current trends in customer credit quality, as well as changes in credit
+policies. The Company generally does not require collateral from its customers. The Company has established an allowance for credit losses
+of $38,027 as of March 31, 2025, and $34,204 as of March 31, 2024.
+The
+following Table shows the Company’s concentration of credit risk, sorted by accounts receivable as of March 31, 2025, and 2024.
+SCHEDULE
+OF CONCENTRATION OF CREDIT RISK
+2025 % of
+3/31/2025
+2024 % of
+3/31/2024
+Revenue
+% of A/R
+Revenue
+% of A/R
+Customer A
+8.7%
+24.0%
+6.6%
+2.0%
+Customer B
+1.8%
+21.7%
+0.5%
+3.0%
+Customer C
+0.7%
+14.2%
+0.0%
+0.0%
+Customer D
+0.5%
+10.1%
+0.0%
+0.0%
+Customer E
+0.3%
+5.2%
+0.0%
+0.0%
+The
+following Table shows the Company’s concentration of credit risk, sorted by revenue for fiscal years 2025 and 2024.
+2025 % of
+3/31/2025
+2024 % of
+3/31/2024
+Revenue
+% of A/R
+Revenue
+% of A/R
+Customer A
+8.7%
+24.0%
+6.6%
+2.0%
+Customer F
+7.9%
+0.0%
+14.1%
+76.7%
+Customer G
+6.1%
+0.0%
+14.0%
+0.0%
+Customer H
+5.1%
+0.0%
+0.1%
+0.0%
+Customer I
+4.6%
+2.7%
+5.0%
+3.2%
+23
+Concentration
+of Credit Risk of Cash Deposits
+We
+have three (3) operating accounts at two (2) different banks. We have a checking and depository account at one bank and a checking account
+at another bank. From time to time, cash balances in these accounts exceed the $250,000 FDIC insurance limit. However, these instances
+occur infrequently as we strive to maintain balances below the $250,000 limit in each of these accounts. We also have a Vanguard money
+market account where we invest our cash assets that are in excess of our working capital needs. The Vanguard money market account is
+not subject to FDIC insurance and invests exclusively in repurchase agreements and short-term U.S. government securities.
+Inventory
+Finished
+goods inventory is composed of items produced in-house, as well as items from outside suppliers. These items include, but are not limited
+to, Fischertechnik® manipulatives, Brick manipulatives, drone components, robotics components, furniture units, curriculum, and other
+miscellaneous items used in our various labs. Our inventory is carried at the lower of cost or net realizable value and valued using
+the average cost method for each item.
+When
+indicators of inventory impairment exist, the Company measures the carrying value of the inventory against its market value, and if the
+carrying value exceeds the market value, the inventory value is adjusted accordingly. The Company has established a provision for excess
+and obsolete inventory reserve of $3,981 as of March 31, 2025, and $3,274 as of March 31, 2024.
+Property,
+Plant and Equipment
+Depreciation
+on property and equipment is computed using the straight-line method over the estimated useful life of the asset. The Company had fully
+depreciated property and equipment prior to March 31, 2018. Beginning in fiscal year 2022 through the current reporting period, the Company
+purchased various warehouse and office equipment for $141,832 and recognized $44,619 in depreciation of that equipment for a total property
+and equipment of $97,213 as of March 31, 2025. As of March 31, 2024, property and equipment was $43,739, which was net of $18,280 in
+depreciation recognized.
+Software
+has been fully depreciated as of March 31, 2025, and March 31, 2024.
+Impairment
+of Long-Lived Assets
+Long-lived
+assets are reviewed for impairment annually, or when events or circumstances arise that indicate the existence of impairment for patents
+and other intangibles. There was no impairment recorded during the years ended March 31, 2025, and 2024.
+Income
+Taxes
+Income
+taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective
+tax bases and operating loss and tax credit carry-forwards. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect
+on deferred tax assets and liabilities of a change in tax rate is recognized in income in the period that includes the enactment date.
+In
+November 2015, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2015-17, “Income Taxes (Topic 740)-Balance
+Sheet Classification of Deferred Taxes” (ASU 2015-17), which requires reporting the net amount of deferred tax assets and liabilities
+as a single noncurrent item on the classified balance sheet. Before this change, the net amounts of current and noncurrent deferred tax
+assets and liabilities were reported separately.
+We
+account for income taxes in accordance with ASC 740, Income Taxes (“ASC 740”). ASC 740 prescribes the use of the asset and
+liability method to compute the differences between the tax bases of assets and liabilities and the related financial amounts, using
+currently enacted tax laws. If necessary, a valuation allowance is established, based on the weight of available evidence, to reduce
+deferred tax assets to the amount that is more likely than not to be realized. Realization of the deferred tax assets, net of deferred
+tax liabilities, is principally dependent upon achievement of sufficient future taxable income. We exercise significant judgment in determining
+our provisions for income taxes, our deferred tax assets and liabilities and our future taxable income for purposes of assessing our
+ability to utilize any future tax benefit from our deferred tax assets.
+24
+In
+accordance with GAAP, the Company has analyzed its filing positions in all jurisdictions where it is required to file income tax returns
+for the open tax years in such jurisdictions. The Company currently believes that all significant filing positions are highly certain
+and that all of its significant income tax filing positions and deductions would be sustained upon audit. Therefore, the Company has
+no significant reserves for uncertain tax positions, and no adjustment to such reserves was required by GAAP. No interest or penalties
+have been levied against the Company and none are anticipated; therefore no interest or penalty has been included in the provision for
+income taxes in the consolidated statements of operations. The Internal Revenue Code contains provisions which reduce or limit the availability
+and utilization of net operating loss (“NOL”) carry forwards in the event of a more than 50% change in ownership. If such
+an ownership change occurs with the Company, the use of these net operating losses could be limited.
+The
+table below details the years that remain open to tax examinations:
+SCHEDULE
+OF INCOME TAX EXAMINATION
+Tax
+Year
+Fiscal
+Year End
+Filed
+Date
+Open
+Through
+2023
+3/31/2024
+8/26/2024
+8/26/2027
+2022
+3/31/2023
+8/23/2023
+8/23/2026
+2021
+3/31/2022
+2/3/2023
+2/3/2026
+Revenue
+Recognition
+The
+Company accounts for revenue in accordance with FASB ASC 606, Revenue from Contracts with Customers, which we adopted on April
+1, 2018. Revenue amounts presented in our financial statements are recognized net of sales tax, value-added taxes, and other taxes. Amounts
+received as prepayment on future products or services are recorded as unearned revenues and recognized as income when the product is
+shipped, or service performed.
+The
+Company had deferred revenue of $20,026 as of March 31 2025, related to contractual commitments with customers where the performance
+obligation will be satisfied within the fiscal year ending March 31, 2026. The revenue associated with these performance obligations
+is recognized as the obligation is satisfied. The Company had $14,549 of deferred revenue as of March 31, 2024.
+Most
+of our contracts with customers contain transaction prices with fixed consideration; however, some contracts may contain variable consideration
+in the form of discounts, rebates, refunds, credits, price concessions, incentives, penalties and other similar items. When a contract
+includes variable consideration, we evaluate the estimate of variable consideration to determine whether the estimate needs to be constrained;
+therefore, we include the variable consideration in the transaction price only to the extent that it is probable that a significant reversal
+of the amount of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is subsequently
+resolved. We recognize revenue when we satisfy a performance obligation by transferring control over a product or service to a customer.
+This can result in recognition of revenue over time as we perform services or at a point in time when the deliverable is transferred
+to the customer, depending on an evaluation of the criteria for over time recognition in FASB ASC 606. For certain fixed-fee per transaction
+contracts, such as delivering training courses or conducting workshops, revenue is recognized during the period in which services are
+delivered in accordance with the pricing outlined in the contracts.
+Stock-Based
+Compensation
+We
+recognize stock-based compensation expense under the provisions of ASC 718, Compensation—Stock Compensation (“ASC 718”).
+We use the Black-Scholes option pricing model to calculate the fair value of stock options at their respective grant date. The use of
+option valuation models requires the input of highly subjective assumptions, including the expected stock price volatility and the expected
+term of the option. The fair value of restricted stock awards is the fair market value on the date of grant. We recognize these compensation
+costs on a straight-line basis over the requisite service period, which is generally the vesting period of the award.
+During
+fiscal years 2025 and 2024, no performance options were issued or exercised.
+As
+of March 31, 2025, and March 31, 2024, the Company had no outstanding warrants or options.
+25
+Business
+Segments and Related Information
+GAAP
+establishes standards for the way public business enterprises are to report information about operating segments in annual financial
+statements and requires enterprises to report selected information about operating segments in interim financial reports issued to shareholders.
+It also establishes standards for related disclosure about products and services, geographic areas and major customers. The Company currently
+operates as one (1) business segment.
+Recently
+Adopted Accounting Pronouncements
+Beginning
+in fiscal year 2025 annual reporting, we adopted Accounting Standards Update (ASU) No. 2023-07, Segment Reporting (Topic 280): Improvements
+to Reportable Segment Disclosures (ASU 2023-07) that was issued by the FASB. This new standard requires an enhanced disclosure of significant
+segment expenses on an annual basis.
+Operating
+Segments and Related Disclosures
+We
+manage our Company as one (1) reportable operating segment, STEM Supplies and Curriculum. The segment information aligns with how the
+Company’s Chief Operating Decision Maker (“CODM”) reviews and manages our business. The Company’s CODM is the
+Company’s President.
+Financial
+information and annual operating plans and forecasts are prepared and reviewed by the CODM at a consolidated level. The CODM assesses
+performance for the STEM Supplies and Curriculum segment and decides how to better allocate resources based on net income reported on
+the Statements of Operations. The Company’s objective in making resource allocation decisions is to optimize the financial results.
+The accounting policies of our STEM Supplies and Curriculum segment are the same as those described in the summary of significant accounting
+policies herein.
+For
+single reportable segment-level financial information, total assets, and significant non-cash transactions, see our Financial Statements.
+Net
+Earnings (Loss) Per Share of Common Stock
+The
+Company calculates net income (loss) per share in accordance with ASC 260, Earnings Per Share (“ASC 260”). Under ASC 260,
+basic net income (loss) per common share is calculated by dividing net income (loss) by the weighted-average number of common shares
+outstanding during the reporting period. The weighted average number of shares of common stock outstanding includes vested restricted
+stock awards. Diluted net income (loss) per share (“EPS”) reflects the potential dilution that could occur assuming exercise
+of all dilutive unexercised stock options and warrants. The dilutive effect of these instruments was determined using the treasury stock
+method. Under the treasury stock method, the proceeds received from the exercise of stock options and restricted stock awards, the amount
+of compensation cost for future service not yet recognized by the Company and the amount of tax benefits that would be recorded as income
+tax expense when the stock options become deductible for income tax purposes are all assumed to be used to repurchase shares of the Company’s
+common stock.
+Common
+stock outstanding reflected in the Company’s balance sheets includes “restricted” stock awards outstanding. Securities
+that may participate in undistributed net income with common stock are considered participating securities. The computation of diluted
+earnings per share does not assume exercise or conversion of securities that would have an anti-dilutive effect. The following schedules
+presents the calculation of basic and diluted net income per share:
+SCHEDULE
+OF BASIC AND DILUTED NET INCOME
+2025
+2024
+For the Years Ended March 31,
+2025
+2024
+Net Income per common Share:
+Basic
+$0.01
+$0.04
+Diluted
+$0.01
+$0.04
+Weighted average number of common shares outstanding Basic
+123,841,163
+125,070,138
+Weighted average number of common shares outstanding Fully Diluted
+123,841,163
+125,070,138
+Net
+Income for the year ended March 31, 2025, and 2024, was $946,865 and $4,441,188, respectively.
+As
+of March 31, 2025, and March 31, 2024, the Company had no outstanding dilutive instruments.
+26
+Recently
+Issued Accounting Pronouncements
+The
+Company has reviewed recent accounting pronouncements and has determined that they will not significantly impact the Company’s
+results of operations or financial position.
+NOTE
+2 – BUSINESS CONDITION
+As
+of March 31, 2025, the Company had $3.2 million in cash, $2.1 million in inventory, and $0.4 million in accounts receivable, with no
+debt. Management strongly believes that the Company can sustain its operations over the course of the next 12 months with the cash it
+has on hand, and with the revenue and associated profit generated from the sales expected over the course of the next 12 months, especially
+given the Company’s large cash, inventory, and accounts receivable balances.
+NOTE
+3 – ACCOUNTS RECEIVABLE
+In
+the Company’s normal course of business, the Company provides credit terms to its customers, which generally range from net 15
+to 45 days. The Company performs ongoing credit evaluations of its customers. The Company established an allowance for credit losses
+of $38,027 at March 31, 2025, and $34,204 as of March 31, 2024.
+NOTE
+4 – ACCOUNTS RECEIVABLE, OTHER RECEIVABLES
+Other
+Receivables include receivables due to the Company derived from activities outside of its typical business transactions. As of March
+31, 2025, the Company had $55 of other receivables outstanding. As of March 31, 2024, the Company had no other receivables outstanding.
+NOTE
+5 - PREPAID EXPENSES
+Prepaid
+expenses for the periods are as follows:
+SCHEDULE
+OF PREPAID EXPENSES
+March 31, 2025
+March 31, 2024
+Prepaid insurance
+$11,960
+$10,915
+Prepaid tradeshows
+13,362
+25,046
+Prepaid inventory
+178,660
+319,977
+Prepaid software
+31,612
+17,254
+Prepaid other
+11,828
+20,899
+Total Prepaid Expenses
+$247,422
+$394,091
+NOTE
+6 - COMMON AND PREFERRED STOCK TRANSACTIONS
+a.
+Common Stock
+The
+Company has 150,000,000 authorized shares of common stock, no par value. At March 31, 2025, the total common shares issued and outstanding
+was 122,189,763. As of March 31, 2024, the total common shares issued and outstanding was 124,733,494.
+During
+the years ended March 31, 2025, and 2024, the Company had no option expense.
+During
+the years ended March 31, 2025, and 2024, the Company did not issue any shares of common stock.
+During
+the year ended March 31, 2025, the Company made the following common stock repurchase transactions:
+SCHEDULE
+OF COMMON STOCK REPURCHASE TRANSACTIONS
+Date
+Shares
+Price
+Total Consideration
+7/15/2024
+250,000
+$0.195
+$48,750
+9/24/2024
+352,084
+$0.270
+$95,063
+11/19/2024
+1,172,417
+$0.210
+$246,208
+2/7/2025
+769,230
+$0.205
+$157,692
+Total
+2,543,731
+$547,713
+27
+These
+shares repurchased were then immediately cancelled. During the year ended March 31, 2024, the Company repurchased 998,985 shares common
+stock at $0.065 per share for total payments of $64,933, then cancelled the shares.
+b.
+Preferred Stock
+The
+Company has 20,000,000 authorized shares of preferred stock. As of March 31, 2025, and March 31, 2024, there were no preferred shares
+issued or outstanding.
+As
+of March 31, 2025, and 2024, the Company had no dilutive instruments outstanding.
+NOTE
+7 – NOTES PAYABLE
+The
+Company had no notes payable outstanding as of March 31, 2025, and March 31, 2024.
+NOTE
+8 – COMMITMENTS AND CONTINGENCIES
+Leases
+The
+Company adopted ASC 842 as of November 9, 2019, using a modified retrospective transition approach for all leases existing at December
+31, 2019, the date of the initial application. Consequently, financial information will not be updated, and disclosures required under
+ASC 842, will not be provided for dates and periods before January 1, 2020.
+The
+Company determines if a contract is a lease or contains a lease at inception. Right of use assets related to operating type leases are
+reported in other noncurrent assets and the present value of remaining lease obligations is reported in accrued and other liabilities
+and other noncurrent liabilities on the Balance Sheets. The Company does not currently have any financing type leases.
+Operating
+lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement
+date. The Company’s leases do not provide an implicit rate. The Company determines the incremental borrowing rates applicable to
+the economic environment based on the information available at commencement date, in determining the present value of future payments.
+The right of use asset for operating leases is measured using the lease liability adjusted for the impact of lease payments made prior
+to commencement, lease incentives received, initial direct costs incurred and any asset impairments. Lease terms may include options
+to extend or terminate the lease when it is reasonably certain that the option will be exercised. Lease expense for minimum lease payments
+is recognized on a straight-line basis over the term of the lease.
+The
+Company re-measures and reallocates the consideration in a lease when there is a modification of the lease that is not accounted for
+as a separate contract. The lease liability is re-measured when there is a change in the lease term or a change in the assessment of
+whether the Company will exercise a lease option. The Company assesses right of use assets for impairment in accordance with its long-lived
+asset impairment policy.
+The
+Company accounts for lease agreements with contractually required lease and non-lease components on a combined basis. Lease payments
+made for cancellable leases, variable amounts that are not based on an observable index and lease agreements with an original duration
+of less than twelve months are recorded directly to lease expense.
+a.
+Warehouse
+The
+Company leases a 20,880 square foot warehouse facility located at 1135 N. Hickory Ave, Suite 130, Meridian, ID 83642, under a non-cancelable
+lease agreement, which commenced on October 1, 2024, and expires November 30, 2029. The first two (2) payments were deferred. This lease
+is accounted for as an operating lease. Monthly lease rates excluding triple net expenses started at $15,660 and increase by 3% from
+the previous amount in the month of December each year.
+28
+b.
+Office
+The
+Company leases a 5,016 square foot office facility located at 941 S. Industry Way, Meridian, Idaho, 83642 under a non-cancelable lease
+agreement, which commenced on October 21, 2024, and expires November 30, 2029. The first payment was deferred. The lease is accounted
+for as an operating lease. Monthly lease rates excluding triple net expenses started at $5,225 and increase by 3% from the previous amount
+in the month of December each year.
+c.
+Equipment
+The
+Company leased a production printer for 63 months commencing on November 3, 2023. The first three (3) payments were deferred, with the
+first payment due February 3, 2024. Equipment lease expense was $57,215 for the year ended March 31, 2025, and $43,127 for year ended
+March 31, 2024.
+As
+of March 31, 2025, accounted for and presented under ASC 842 guidance, the future minimum lease payments on operating leases, were as
+follows:
+Total
+minimum lease obligation over the next six (6) years
+SCHEDULE OF FUTURE MINIMUM LEASE PAYMENTS
+Fiscal Year
+Amount
+2026
+110,024
+2027
+206,153
+2028
+227,717
+2029
+252,334
+2030
+280,343
+2031
+115,067
+Total
+$1,191,638
+SCHEDULE OF LEASE PAYABLE
+Balance Sheet Location
+March 31, 2025
+Right of use assets
+Other noncurrent assets
+$1,140,217
+Lease payable
+Current liabilities
+$110,024
+Lease payable, Current liabilities
+$110,024
+Lease payable
+Long-term liabilities
+1,081,614
+Lease payable, Long-term liabilities
+1,081,614
+Total lease payable
+$1,191,638
+Supplemental
+cash flow information related to operating leases:
+SCHEDULE OF SUPPLEMENTAL CASH FLOW INFORMATION RELATED TO OPERATING LEASES
+March 31, 2025
+Operating cash paid to settle lease liabilities
+$143,935
+Right of use asset additions in exchange for lease liabilities
+1,023,703
+March 31, 2025
+March 31, 2024
+Weighted average remaining lease term (in years)
+4.6
+6.0
+Weighted average discount rate
+10%
+10%
+NOTE
+9 – ACCOUNTS PAYABLE
+Accounts
+payable for the periods are as follows:
+SCHEDULE OF ACCOUNTS PAYABLE
+March 31, 2025
+March 31, 2024
+Accounts payable
+$24,286
+$90,800
+Credit cards payable
+705
+10,053
+Total
+$24,991
+$100,853
+NOTE
+10 – PAYROLL LIABILITIES & ACCRUED EXPENSES
+Accrued
+expenses for the periods are as follows:
+SCHEDULE OF ACCRUED EXPENSES
+March 31, 2025
+March 31, 2024
+Payroll liabilities
+$128,655
+$165,087
+Sales tax payable
+32,502
+9,969
+State income tax payable
+(4,744)
+39,929
+Accrued expenses
+14,985
+14,985
+Total
+$171,398
+$229,970
+29
+NOTE
+11 – INCOME TAXES
+Prior
+to fiscal year 2023, the Company offset its potential tax benefit from the operating loss carry-forwards with a valuation allowance in
+the same amount. As it became clear that the Company will more likely than not use its tax loss carry-forward amounts, the valuation
+allowance was partially removed for the fiscal year ending March 31, 2023, such that the tax benefit recognized by us in fiscal year
+2023 was $1,011,466. The valuation allowance was fully removed as of March 31, 2024, resulting in a tax benefit of $1,529,793 for fiscal
+year 2024. Once the valuation allowance was fully removed, a provision for income taxes was disclosed. For the fiscal year ending March
+31, 2025, the Company’s provision for income taxes was ($264,398).
+FASB
+ASC 740 prescribes a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax
+positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more likely than
+not to be sustained upon examination by taxing authorities. The Company recognizes accrued interest and penalties related to unrecognized
+tax benefits as income tax expense. No amounts were accrued for the payment of interest and penalties as of March 31, 2025. The Company
+is currently not aware of any issues under review that could result in significant payments, accruals, or material deviation from its
+position. The Company is subject to income tax examinations by major taxing authorities since inception.
+The
+Company may be subject to potential examination by federal, state, and city taxing authorities in the areas of income taxes. These potential
+examinations may include questioning the timing and amount of deductions, the nexus of income among various tax jurisdictions, and compliance
+with federal, state, and city tax laws. The Company’s management does not expect that the total amount of unrecognized tax benefits
+will materially change over the next 12 months.
+Although
+we believe that our tax estimates are reasonable, the ultimate tax determination involves significant judgments that could become subject
+to examination by tax authorities in the ordinary course of business. We periodically assess the likelihood of adverse outcomes resulting
+from these examinations to determine the impact on our deferred taxes and income tax liabilities and the adequacy of our provision for
+income taxes. Changes in income tax legislation, statutory income tax rates or future taxable income levels, among other things, could
+materially impact our valuation of income tax assets and liabilities and could cause our income tax provision to vary significantly among
+financial reporting periods.
+The
+Company files income tax returns in the United States, the State of Idaho and the State of California. The statute of limitations on
+a Federal tax return is the due date of the tax return plus three (3) years. In the case of NOLs, the year in which the NOL was generated
+remains open up to the amount of the NOL until the statute of limitations expires on the year it was used. All required tax returns of
+the Company due since inception have been filed. The Company does not have any unrecognized tax benefits to report in the current period.
+Net
+deferred tax assets and liabilities consist of the following components as of March 31, 2025, and 2024:
+SCHEDULE OF DEFERRED TAX ASSETS AND LIABILITIES
+2025
+2024
+March 31,
+2025
+2024
+Deferred tax assets
+Right of use liabilities
+333,659
+76,693
+Goodwill amortization
+11,201
+13,121
+Charitable Contribution carryover
+700
+-
+NOL carryover
+2,253,412
+2,539,181
+Total deferred tax assets
+2,598,972
+2,628,995
+Deferred tax liabilities
+Right of use assets
+(319,261)
+(76,693)
+Depreciation
+(2,850)
+(11,043)
+Total deferred tax liabilities
+(322,111)
+(87,736)
+Net deferred tax assets
+2,276,861
+2,541,259
+Less valuation allowance
+-
+-
+Net deferred tax assets
+2,276,861
+2,541,259
+30
+The
+reconciliation of the Company’s net income taxes for fiscal years 2025, and 2024 are as follows:
+SCHEDULE OF EFFECTIVE INCOME TAX RATE RECONCILIATION
+March 31, 2025
+March 31, 2024
+U.S. Federal income tax at statutory rate
+$243,564
+$617,681
+State taxes, net of Federal benefit
+20,834
+208,403
+Change in valuation allowance
+-
+(2,355,877)
+(Income Tax Benefit) Provision
+264,398
+(1,529,793)
+The
+Company files income tax returns in the United States, the State of Idaho, and the State of California. The statute of limitations on
+a Federal tax return is the due date of the tax return plus three years. In the case of NOLs, the year in which the NOL was generated
+remains open up to the amount of the NOL until the statute of limitations expires on the year it was used. All required tax returns of
+the Company due since inception have been filed.
+Summary
+of Federal Operating Loss Carryforwards
+SCHEDULE OF FEDERAL OPERATING LOSS CARRYFORWARDS
+Unused operating loss carryforward March 31, 2024
+$9,234,609
+Operating loss carryforwards realized
+$1,323,495
+Unused operating loss carryforward March 31, 2025
+$7,911,114
+NOTE
+12 - SUBSEQUENT EVENTS
+On
+May 21, 2025, the Company purchased 100,000 shares of its common stock on the open market at $0.136 in a block trade for a total of $13,600.
+On April 10, 2025, the Company issued a press release disclosing that the Board had authorized a share repurchase program to repurchase
+up to 10 million shares of its common stock over the next three (3) years. This purchase was part of that authorized buyback. The Company
+intends to continue to repurchase its common stock in the open market from time to time. When the Company accumulates a significant amount
+of its common shares, it intends to obtain those shares in certificate form and have its transfer agent cancel the shares.
+On
+May 23, 2025, the Company concluded a private stock repurchase from a shareholder, buying 284,959 shares at $0.14 per share, for total
+consideration of $39,894.
+On
+June 2, 2025, the common stock of the Company began trading on the OTC Markets QB Tier. Prior to that, it traded on the OTC Markets Pink
+Tier (which will become the OTCID on July 1, 2025).
+In
+late May and early June, Management began the planning process for having an Annual Shareholders Meeting this year. Management plans
+to have the Meeting on Friday, September 26, 2025. The time of the meeting has not yet been determined. Further details will be disclosed
+when they become available.
+Item
+9. Changes In and Disagreements With Accountants on Accounting and Financial Disclosure
+None.
+Item
+9A. Controls and Procedures
+Disclosure
+Controls and Procedures
+We
+maintain disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act that are designed to ensure
+that material information relating to us is made known to the officers who certify our financial reports and to other members of senior
+management and the Board of Directors. These disclosure controls and procedures are designed to ensure that information required to be
+disclosed in our reports that are filed or submitted under the Exchange Act are recorded, processed, summarized, and reported within
+the time periods specified in the Commission’s rules and forms. Disclosure controls and procedures include, without limitation,
+controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits
+under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers,
+or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+31
+Management’s
+Annual Report on Internal Control Over Financial Reporting.
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f)
+under the Exchange Act). Our internal control over financial reporting is a process designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes.
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Therefore, even those
+systems determined to be effective can provide only reasonable assurance of achieving their control objectives. Our management, including
+our Chief Executive Officer and Principal Financial Officer, in this case, our President, does not expect that our disclosure controls
+and procedures or our internal controls will prevent all error or fraud. A control system, no matter how well conceived and operated,
+can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control
+system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.
+Due to the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues
+and instances of fraud, if any, have been detected. Management believes that the financial statements included in this report fairly
+present in all material respects our financial condition, results of operations and cash flows for the periods presented.
+Management,
+with the participation of our Chief Executive Officer and our President who acts as our Principal Financial Officer have evaluated the
+effectiveness, as of March 31, 2025, of our disclosure controls and procedures. Based on that evaluation, our Chief Executive Officer
+and Principal Financial Officer concluded that our disclosure controls and procedures were effective as of March 31, 2025, due to the
+Company engaging the professional CPA firm of B.A. Harris, CPAs, to assist the Company in preparing our preliminary condensed financial
+statements and schedules for our auditor’s review.
+Changes
+in Internal Control Over Financial Reporting
+At
+the end of fiscal year 2024, management recognized that it needed assistance in the preparation of financial statements. The Company
+engaged B.A. Harris, CPAs, to assist in the preparation of financial statements during fiscal year 2025. With the exception of engaging
+B.A. Harris, CPAs, there have been no changes in our internal control over financial reporting during the fiscal year ended March 31,
+2025, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Item
+9B. Other Information
+None.
+Item
+9C. Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+None.
+Not applicable.
+32
+PART
+III
+Item
+10. Directors, Executive Officers and Corporate Governance
+Identification
+of Directors and Executive Officers.
+The
+following table sets forth the name, age and position of each officer and director of the Company:
+Name
+Age
+Positions
+Held
+Date
+of Election or Designation
+Todd R. Hackett
+64
+CEO and Chairman
+CEO, November
+20, 2015
+Chairman,
+December 10, 2015
+Michael J.
+Bledsoe
+59
+President
+and Director
+President,
+August 21, 2018
+Director,
+July 1, 2016
+Sean P. Iddings
+37
+Director
+January 22,
+2025
+Term
+of Office.
+The
+terms of office of our current directors shall continue until an annual meeting of stockholders is held. The Company plans to conduct
+an annual meeting in September of 2025. The annual meeting of the Board of Directors immediately follows the annual meeting of stockholders,
+at which time executive officers for the coming year are elected.
+Business
+Experience.
+Todd
+R. Hackett – CEO and Chairman of the Board of Directors
+Mr.
+Hackett is the owner of a successful construction company in Iowa who first became aware of PCS as an investment opportunity in 2007.
+Over the past 10 years, his involvement with PCS has grown from a casual investor to a strong advocate for bringing educational opportunities
+to both children and young adults to strengthen their knowledge in math and science. He has demonstrated his abilities in the building
+of his own company from a startup in 1981 to a major construction firm now handling multimillion-dollar projects. Many of his projects
+involve educational institutions such as community colleges, middle schools, libraries, and applied technology labs.
+Mr.
+Hackett is actively involved in his community, is passionate about the potential of PCS and is actively engaged in helping to create
+a company with deep shareholder value which also actively works to improve STEM education around the world.
+Michael
+J. Bledsoe – President and Director
+Mr.
+Bledsoe joined PCS in July of 2016. As President and a member of the Board of Directors, he brings over 20 years of financial experience,
+executive leadership, and strategic management to his position. Mike received a BBA in Quantitative Management with an emphasis in Finance,
+from Boise State University in 1989, and was honored as the top graduate in his major. In 1993, he earned his MBA from Boise State University.
+Prior
+to joining PCS, Mike spent his career in the investment management field, most recently at D.A. Davidson, where he was a Senior Vice
+President and Portfolio Manager for 18 years. He earned the CFA Charterholder designation in 1994, and was an adjunct faculty member
+at Boise State University, where he taught classes in personal investing, fostering his passion for education and the sculpting of tomorrow’s
+best thinkers.
+Sean
+P. Iddings - Director
+Mr.
+Iddings joined the Board of Directors in January of 2025. He brings extensive experience in scaling businesses, fostering investor engagement,
+and identifying high-growth opportunities. As Chief Community Officer at MicroCapClub LLC, he has helped build a premier network of experienced
+investors focused on discovering high-quality, high-potential microcap companies.
+Prior
+to MicroCapClub, from 2019 to 2024, Sean founded and grew Immersion Factory LLC into the largest real estate photography company in Central
+NY, demonstrating his ability to scale businesses in niche markets. He is a licensed drone pilot, has over 15 years investment experience
+in the microcap space, and holds a B.A. from Berklee College of Music.
+We
+believe that, based on education and experience, all of our directors are qualified to serve.
+33
+Significant
+Employees.
+None.
+Family
+Relationships.
+There
+are no family relationships between our officers and directors.
+Involvement
+in Certain Legal Proceedings.
+During
+the past 10 years, none of our present directors, executive officers or persons nominated to become directors or executive officers have
+been involved in any of the following activities:
+(1)
+A
+petition under the Federal bankruptcy laws or any state insolvency law was filed by or against, or a receiver, fiscal agent or similar
+officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner
+at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer
+at or within two years before the time of such filing;
+(2)
+Such
+person was convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations
+and other minor offenses);
+(3)
+Such
+person was the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent
+jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities:
+(i)
+Acting
+as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage
+transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the
+foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee
+of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice
+in connection with such activity;
+(ii)
+Engaging
+in any type of business practice; or
+(iii)
+Engaging
+in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal
+or State securities laws or Federal commodities laws;
+(4)
+Such person was
+the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority
+barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph
+(f)(3)(i) of this section, or to be associated with persons engaged in any such activity;
+(5)
+Such person was found by a
+court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and
+the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated;
+(6)
+Such person was found by a
+court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities
+law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed,
+suspended or vacated;
+(7)
+Such person was the subject
+of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed,
+suspended or vacated, relating to an alleged violation of:
+(i)
+Any Federal or
+State securities or commodities law or regulation; or
+34
+(ii)
+Any law or regulation
+respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order
+of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order;
+or
+(iii)
+Any law or regulation prohibiting
+mail or wire fraud or fraud in connection with any business entity; or
+(8)
+Such person was
+the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+(as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26)), any registered entity (as defined in Section 1(a)(29)
+of the Commodity Exchange Act (7 U.S.C. 1(a)(29)), or any equivalent exchange, association, entity or organization that has disciplinary
+authority over its members or persons associated with a member.
+Compliance
+with Section 16(a) of the Exchange Act.
+Based
+solely on our review of the copies of such forms received by us, or written representations from certain reporting persons, we believe
+that during fiscal year ended March 31, 2025, all filing requirements applicable to our officers, directors and greater than 10% percent
+beneficial owners were complied with.
+Code
+of Ethics
+We
+adopted a Code of Ethics and revised it in 2016. The Code was filed with the Form 10-K for March 31, 2024, on June 30, 2024, and is incorporated
+herein by reference.
+Nominating
+Committee.
+No
+changes have been made to the process by which shareholders may nominate a person or persons to serve as a member of the Company’s
+Board of Directors.
+Audit
+Committee.
+As
+a smaller reporting company, we are not required to have an audit committee.
+Item
+11. Executive Compensation
+Compensation.
+SUMMARY
+COMPENSATION TABLE FOR FISCAL YEARS 2024-2025
+The
+following table sets forth the aggregate compensation paid by us for services rendered during the periods indicated:
+SUMMARY
+COMPENSATION TABLE
+Name and Principal Position
+Year
+Salary ($)
+Bonus ($)
+Stock Awards ($)
+Option Awards ($)
+Non-Equity Incentive Plan Compensation
+($)
+Nonqualified Deferred Compensation ($)
+All Other Compensation
+($)
+Total ($)
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+Todd R. Hackett
+3/31/25
+-
+-
+-
+-
+-
+-
+-
+$0
+CEO & Chairman
+3/31/24
+-
+-
+-
+-
+-
+-
+-
+$0
+Michael J. Bledsoe
+3/31/25
+$132,500
+$10,805
+-
+-
+-
+-
+-
+$143,305
+President & Director
+3/31/24
+$112,957
+$16,069
+-
+-
+-
+-
+-
+$129,026
+Outstanding
+Equity Awards
+There
+were no options or warrants outstanding as of March 31, 2025, or March 31, 2024.
+35
+Director
+Compensation
+Name
+Fees Earned or Paid in Cash
+($)
+Stock Awards
+($)
+Option Awards
+($)
+Non-Equity Incentive Plan Compensation ($)
+Nonqualified Deferred Compensation Earnings
+($)
+All Other Compensation ($)
+Total
+($)
+Todd R. Hackett
+-
+-
+-
+-
+-
+-
+-
+Michael J. Bledsoe
+-
+-
+-
+-
+-
+-
+-
+Sean P. Iddings
+-
+$2,480
+-
+-
+-
+-
+$2,480
+The
+Company does not currently compensate its internal directors for service as directors and has not for the past five (5) years. Sean P.
+Iddings is an independent director who began his service on January 22, 2025. He is compensated with 20,000 shares of PCSV common stock
+quarterly. Payment for the quarter ended March 31, 2025, was made in April of 2025.
+Employment
+Agreements
+The
+Company does not have any employment agreements with any of its executive officers.
+Long-Term
+Incentive Plans
+There
+are no arrangements or plans in which the Company would provide pension, retirement or similar benefits for our directors or executive
+officers.
+Compensation
+Committee
+The
+Company currently does not have a compensation committee of the Board of Directors. The Board of Directors as a whole determines executive
+compensation.
+Options
+Grants in Last Fiscal Year.
+The
+Company did not grant any options during fiscal years 2025 or 2024.
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+Security
+Ownership of Certain Beneficial Owners
+Under
+Rule 13d-3 of the Commission, a beneficial owner of a security includes any person who, directly or indirectly, through any contract,
+arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct
+the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares
+may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose
+of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares
+(for example, upon exercise of an option) within 60 days of the date as of which the information is provided. In computing the percentage
+ownership of any person, the number of shares outstanding is deemed to include the number of shares beneficially owned by such person
+(and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown
+in this table does not necessarily reflect the person’s actual ownership or voting power with respect to the number of shares of
+common stock actually outstanding.
+The
+following table sets forth, as of March 31, 2025, the names, addresses and number of shares of common stock beneficially owned by all
+persons known to the management of PCS to be beneficial owners of more than 5% of the outstanding shares of common stock, and the names
+and number of shares beneficially owned by all directors of PCS and all executive officers and directors of PCS as a group (except as
+indicated, each beneficial owner listed exercises sole voting power and sole dispositive power over the shares beneficially owned).
+36
+For
+purposes of this table, information as to the beneficial ownership of shares of common stock is determined in accordance with the rules
+of the Commission and includes general voting power and/or investment power with respect to securities. Except as otherwise indicated,
+all shares of our common stock are beneficially owned, and sole investment and voting power is held, by the person named. For purposes
+of this table, a person or group of persons is deemed to have “beneficial ownership” of any shares of common stock which
+such person has the right to acquire within 60 days after the date hereof. The inclusion herein of such shares listed beneficially owned
+does not constitute an admission of beneficial ownership.
+All
+percentages are calculated based upon a total number of 121,924,804 shares of common stock outstanding as of June 30, 2025.
+Name
+and Address of Beneficial Owner of Common Stock
+Amount
+of Beneficial
+Ownership
+Percentage
+of Class
+Officers
+and Directors
+Todd
+R. Hackett 941 S. Industry Way Meridian, ID 83642
+55,465,380
+45.49%
+Michael
+J. Bledsoe 941 S. Industry Way Meridian, ID 83642
+2,734,235
+2.24%
+All
+Officers as a group (two (2) persons)
+58,199,615
+47.73%
+Outside
+Directors
+Sean
+P. Iddings 33 Bank Street Newfield, NY 14867
+2,326,200
+1.91%
+All
+Directors as a group (three (3) persons)
+60,525,815
+49.64%
+>5%
+Holders
+Daniel
+Fuchs (1) 526 Shoup Ave. W., Suite K Twin Falls, ID 83301
+11,662,001
+9.56%
+K2Red,
+LLC 526 Shoup Ave. W., Suite K Twin Falls, ID 83301
+7,300,547
+5.99%
+(1)
+Includes
+shares owned in K2Red, LLC., in which Daniel Fuchs is a 33.3% owner and control person.
+Changes
+in Control.
+To
+our knowledge, there are no present arrangements or pledges of our securities that may result in a change in control of the Company.
+Item
+13. Certain Relationships and Related Transactions, and Director Independence
+Transactions
+with Related Persons
+During
+the fiscal years ending March 31, 2025, and 2024, the Company had no transactions with related persons.
+Transactions
+with Promoters and Control Persons
+There
+were no material transactions, or series of similar transactions, during our Company’s last five fiscal years, or any currently
+proposed transactions, or series of similar transactions, to which we were or are to be a party and in which any promoter or founder
+of ours or any member of the immediate family of any of the foregoing persons, had an interest. We have not had any promoters or parents
+during the past five (5) fiscal years.
+37
+Parents.
+None,
+not applicable.
+Director
+Independence.
+Our
+Board of Directors is currently composed of three (3) members, Todd R. Hackett, Michael J. Bledsoe, and Sean P. Iddings. Todd R. Hackett
+and Michael J. Bledsoe do not qualify as independent directors in accordance with the published listing requirements of the NASDAQ Global
+Market (the Company has no plans to list on the NASDAQ Global Market).
+Sean
+P. Iddings qualifies as an independent director in accordance with the published listing requirements of the NASDAQ Global Market. The
+NASDAQ independence definition includes a series of objective tests, such as that the director is not, and has not been for at least
+three (3) years, one of our employees and that neither the director, nor any of his family members has engaged in various types of business
+dealings with us.
+In
+addition, our Board of Directors has not made a subjective determination, as to our directors, that no relationships exist which, in
+the opinion of our Board of Directors, would interfere with the exercise of independent judgment in carrying out the responsibilities
+of a director, though such subjective determination is required by the NASDAQ rules. Had our Board of Directors made these determinations,
+our Board of Directors would have reviewed and discussed information provided by our directors and us with regard to our directors’
+business and personal activities and relationships as they may relate to us and our management.
+Securities
+Authorized for Issuance under Equity Compensation Plans
+Plan
+Category
+Number
+of Securities to be issued upon exercise of outstanding options, warrants and rights
+Weighted-average
+exercise price of outstanding options, warrants and rights
+Number
+of securities remaining available for future issuance under equity compensation plans excluding securities reflected in column
+(a)
+(a)
+(b)
+(c)
+Equity
+compensation plans approved by security holders
+-
+-
+None
+Equity
+compensation plans not approved by security holders
+-
+-
+None
+Total
+-
+-
+None
+Item
+14. Principal Accountant Fees and Services
+The
+following table sets forth the fees the Company paid for accounting services during the past two fiscal years.
+Fee Category
+FY2025
+FY2024
+Audit Fees
+$40,500
+$71,500
+Audit Related Fees
+-
+3,000
+Tax Fees
+12,845
+10,736
+Total Fees
+$53,345
+$85,236
+Audit
+Fees - Consists of fees for professional services rendered by our principal accountants for the audit of our annual financial statements
+and review of the financial statements included in our Forms 10-Q or services that are normally provided by our principal accountants
+in connection with statutory and regulatory filings or engagements.
+Audit-related
+Fees - Consists of fees for assurance and related services by our principal accountants that are reasonably related to the performance
+of the audit or review of our financial statements and are not reported under “Audit fees.”
+Tax
+Fees - Consists of fees for professional services rendered by our principal accountants for tax compliance, tax advice and tax planning.
+38
+PART
+IV
+Item
+15. Exhibits, Financial Statement Schedules
+(a)(3)
+Exhibits.
+The following exhibits are filed as part of this Annual Report:
+Exhibit
+3.1
+Second Amended and Restated Articles of Incorporation filed October 2, 2006.
+Filed
+with the Form 10/A filed on November 15, 2023, and incorporated herein by reference.
+Exhibit
+3.2
+Articles of Amendment to Second Amended and Restated Articles of Incorporation filed April 4, 2012.
+Filed
+with the Form 10/A on November 15, 2023, and incorporated herein by reference.
+Exhibit
+3.3
+Articles of Amendment dated September 25, 2014
+Filed
+with the Form 10/A on November 15, 2023, and incorporated herein by reference.
+Exhibit
+3.4
+Articles of Amendment dated September 25, 2015
+Filed
+with the Form 10/A on November 15, 2023, and incorporated herein by reference.
+Exhibit
+3.5
+Articles of Amendment dated September 25, 2016
+Filed
+with the Form 10/A on November 15, 2023, and incorporated herein by reference.
+Exhibit
+3.6
+Third Amended Bylaws
+Filed
+with the Form 10/A on November 15, 2023, and incorporated herein by reference.
+Exhibit
+4
+Description of Registrant’s Securities
+Filed
+with the Form 10-K for March 31, 2024, on June 30, 2024, and incorporated herein by reference..
+Exhibit
+14
+Code of Ethics
+Filed
+with the Form 10-K for March 31, 2024, on June 30, 2024, and incorporated herein by reference.
+Exhibit
+31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed
+herewith.
+Exhibit
+31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed
+herewith.
+Exhibit
+32
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Filed
+herewith.
+101
+The
+following materials from the Company’s Annual Report on Form 10K for the year ended March 31, 2024, were formatted in Inline
+XBRL (Extensible Business Reporting Language): (i) Balance Sheets, (ii) Statements of Operations, (iii) Statements of Stockholders’
+Equity, (iv) Statements of Cash Flows, and (v) Notes to Financial Statements. The instance document does not appear in the Interactive
+Data File because its XBRL tags are embedded within the Inline XBRL document.
+104
+Cover
+Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL.
+39
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+Dated:
+06/30/2025
+By:
+/s/
+Todd R. Hackett
+Todd
+R. Hackett
+Chairman
+of the Board and CEO
+Dated:
+06/30/2025
+By:
+/s/
+Michael J. Bledsoe
+Michael
+J. Bledsoe
+President,
+Principal Financial Officer, Director
+Dated:
+06/30/2025
+By:
+/s/
+Sean P. Iddings
+Sean
+P. Iddings
+Director
+40

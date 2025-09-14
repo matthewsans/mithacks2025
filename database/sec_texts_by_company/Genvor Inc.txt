@@ -1,0 +1,4099 @@
+false
+FY
+2024
+--09-30
+0001792941
+0001792941
+2023-10-01
+2024-09-30
+0001792941
+2024-03-29
+0001792941
+2025-07-31
+0001792941
+2024-09-30
+0001792941
+2023-09-30
+0001792941
+us-gaap:SeriesAPreferredStockMember
+2024-09-30
+0001792941
+us-gaap:SeriesAPreferredStockMember
+2023-09-30
+0001792941
+us-gaap:SeriesBPreferredStockMember
+2024-09-30
+0001792941
+us-gaap:SeriesBPreferredStockMember
+2023-09-30
+0001792941
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SeriesAPreferredStocksMember
+2022-09-30
+0001792941
+GNVR:SeriesBPreferredStocksMember
+2022-09-30
+0001792941
+us-gaap:CommonStockMember
+2022-09-30
+0001792941
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001792941
+us-gaap:TreasuryStockCommonMember
+2022-09-30
+0001792941
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001792941
+2022-09-30
+0001792941
+GNVR:SeriesAPreferredStocksMember
+2023-09-30
+0001792941
+GNVR:SeriesBPreferredStocksMember
+2023-09-30
+0001792941
+us-gaap:CommonStockMember
+2023-09-30
+0001792941
+us-gaap:AdditionalPaidInCapitalMember
+2023-09-30
+0001792941
+us-gaap:TreasuryStockCommonMember
+2023-09-30
+0001792941
+us-gaap:RetainedEarningsMember
+2023-09-30
+0001792941
+GNVR:SeriesAPreferredStocksMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SeriesBPreferredStocksMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:CommonStockMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:TreasuryStockCommonMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:RetainedEarningsMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SeriesAPreferredStocksMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:SeriesBPreferredStocksMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:CommonStockMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:AdditionalPaidInCapitalMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:TreasuryStockCommonMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:RetainedEarningsMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:SeriesAPreferredStocksMember
+2024-09-30
+0001792941
+GNVR:SeriesBPreferredStocksMember
+2024-09-30
+0001792941
+us-gaap:CommonStockMember
+2024-09-30
+0001792941
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001792941
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0001792941
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SeriesAPreferredStockConvertibleMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:SeriesAPreferredStockConvertibleMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SeriesBPreferredStockConvertibleMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:SeriesBPreferredStockConvertibleMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SharesAttributableToConvertibleNotesMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:SharesAttributableToConvertibleNotesMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:BrentLilienthalMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:BrentLilienthalMember
+2024-09-30
+0001792941
+GNVR:BrentLilienthalMember
+2023-09-30
+0001792941
+GNVR:MelWentzMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:MelWentzMember
+2024-09-30
+0001792941
+GNVR:MelWentzMember
+2023-09-30
+0001792941
+GNVR:KirkHuntsmanMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:KirkHuntsmanMember
+2023-09-30
+0001792941
+GNVR:JohnHareMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:JohnHareMember
+2023-09-30
+0001792941
+GNVR:BarkleyCapitalLLCMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:BarkleyCapitalLLCMember
+2023-09-30
+0001792941
+GNVR:ChrisPetermanMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:ChrisPetermanMember
+2024-09-30
+0001792941
+2025-07-01
+2025-07-14
+0001792941
+GNVR:KirkHuntsmanMember
+2023-12-15
+0001792941
+GNVR:KirkHuntsmanMember
+2023-12-14
+2023-12-15
+0001792941
+GNVR:JohnHareMember
+2023-11-11
+0001792941
+GNVR:BarkleyCapitalLLCMember
+2024-03-09
+0001792941
+GNVR:KirkHuntsmanMember
+2024-03-08
+2024-03-09
+0001792941
+GNVR:PaycheckProtectionProgramMember
+GNVR:SmallBusinessAdministrationMember
+2020-04-09
+0001792941
+GNVR:PaycheckProtectionProgramMember
+GNVR:SmallBusinessAdministrationMember
+2020-04-08
+2020-04-09
+0001792941
+us-gaap:SeriesAPreferredStockMember
+2022-08-10
+0001792941
+us-gaap:SeriesAPreferredStockMember
+2022-08-02
+2022-08-10
+0001792941
+GNVR:BradleyWhiteMember
+2022-08-16
+0001792941
+GNVR:DrClaytonYatesMember
+2022-08-16
+0001792941
+GNVR:DrJesseJaynesMember
+2022-08-16
+0001792941
+GNVR:SettlementAgreementMember
+us-gaap:SeriesAPreferredStockMember
+2023-09-27
+2023-09-28
+0001792941
+us-gaap:SeriesAPreferredStockMember
+srt:ExecutiveOfficerMember
+2024-09-30
+0001792941
+us-gaap:SeriesAPreferredStockMember
+srt:ExecutiveOfficerMember
+2023-09-30
+0001792941
+us-gaap:SeriesBPreferredStockMember
+2022-10-19
+0001792941
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:SettlementAgreementMember
+us-gaap:SeriesBPreferredStockMember
+GNVR:BradleyWhiteMember
+2023-09-27
+2023-09-28
+0001792941
+us-gaap:SeriesBPreferredStockMember
+srt:ExecutiveOfficerMember
+2024-09-30
+0001792941
+us-gaap:SeriesBPreferredStockMember
+srt:ExecutiveOfficerMember
+2023-09-30
+0001792941
+us-gaap:InvestorMember
+2022-11-16
+2022-11-17
+0001792941
+us-gaap:InvestorMember
+2023-05-02
+2023-05-03
+0001792941
+us-gaap:InvestorMember
+2023-05-11
+2023-05-12
+0001792941
+us-gaap:InvestorMember
+2023-05-28
+2023-05-29
+0001792941
+us-gaap:InvestorMember
+2023-07-10
+2023-07-12
+0001792941
+us-gaap:InvestorMember
+2023-07-11
+2023-07-13
+0001792941
+us-gaap:InvestorMember
+2023-07-11
+2023-07-14
+0001792941
+us-gaap:InvestorMember
+GNVR:CommonStockForConversionMember
+2023-07-11
+2023-07-14
+0001792941
+us-gaap:InvestorMember
+2023-07-16
+2023-07-17
+0001792941
+GNVR:InvestorOneMember
+2023-07-16
+2023-07-17
+0001792941
+us-gaap:InvestorMember
+2023-08-24
+2023-08-25
+0001792941
+us-gaap:InvestorMember
+2023-09-15
+2023-09-16
+0001792941
+us-gaap:InvestorMember
+2023-09-18
+2023-09-19
+0001792941
+us-gaap:RelatedPartyMember
+2023-10-01
+2024-09-30
+0001792941
+2023-06-11
+2023-06-14
+0001792941
+2023-06-29
+2023-07-01
+0001792941
+2023-07-11
+2023-07-14
+0001792941
+2023-09-15
+2023-09-16
+0001792941
+GNVR:BarkleyCapitalLLCMember
+2024-03-08
+2024-03-09
+0001792941
+2024-03-31
+0001792941
+2024-01-01
+2024-03-31
+0001792941
+us-gaap:WarrantMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:WarrantMember
+2023-09-30
+0001792941
+us-gaap:RelatedPartyMember
+us-gaap:WarrantMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:RelatedPartyMember
+us-gaap:WarrantMember
+2023-09-30
+0001792941
+us-gaap:WarrantMember
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+us-gaap:RelatedPartyMember
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+GNVR:CompensationAndRelatedBenefitsMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+GNVR:ProfessionalFeesMember
+2023-10-01
+2024-09-30
+0001792941
+us-gaap:WarrantMember
+us-gaap:DebtMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:PreFundWarrantsMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:JaynesInvestmentLLCMember
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:ACTHoldingsLLCMember
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:LASBFamilyTrustMember
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:JesseMichaelJaynesMember
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:BradleyWhiteMember
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:PJAdvisoryGroupMember
+us-gaap:SeriesBPreferredStockMember
+2022-10-18
+2022-10-19
+0001792941
+GNVR:WarantsMember
+2022-09-30
+0001792941
+GNVR:WarantsMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:WarantsMember
+2023-09-30
+0001792941
+GNVR:ExercisePrice1Member
+2023-09-30
+0001792941
+GNVR:ExercisePrice1Member
+2023-10-01
+2024-09-30
+0001792941
+GNVR:ExercisePrice1Member
+2024-09-30
+0001792941
+GNVR:ExercisePrice2Member
+2023-09-30
+0001792941
+GNVR:ExercisePrice2Member
+2023-10-01
+2024-09-30
+0001792941
+GNVR:ExercisePrice2Member
+2024-09-30
+0001792941
+GNVR:ExercisePrice3Member
+2023-09-30
+0001792941
+GNVR:ExercisePrice3Member
+2023-10-01
+2024-09-30
+0001792941
+GNVR:ExercisePrice3Member
+2024-09-30
+0001792941
+GNVR:PreFundWarrantsMember
+2023-09-30
+0001792941
+GNVR:PreFundWarrantsMember
+2024-09-30
+0001792941
+srt:ChiefExecutiveOfficerMember
+2023-10-01
+2024-09-30
+0001792941
+srt:ChiefExecutiveOfficerMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:JudithMillerMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:JudithMillerMember
+2022-10-01
+2023-09-30
+0001792941
+GNVR:SettlementAgreementMember
+GNVR:BradleyWhiteMember
+2023-09-28
+0001792941
+GNVR:SettlementAgreementMember
+GNVR:BradleyWhiteMember
+us-gaap:SeriesAPreferredStockMember
+2023-09-27
+2023-09-28
+0001792941
+GNVR:SettlementAgreementMember
+GNVR:BradleyWhiteMember
+us-gaap:SeriesBPreferredStockMember
+2023-09-27
+2023-09-28
+0001792941
+GNVR:SettlementAgreementMember
+GNVR:BradleyWhiteMember
+2024-09-30
+0001792941
+GNVR:SettlementAgreementMember
+GNVR:BradleyWhiteMember
+2023-09-30
+0001792941
+GNVR:RobertBubeckMember
+2023-10-01
+2024-09-30
+0001792941
+GNVR:RobertBubeckMember
+2022-10-01
+2023-09-30
+0001792941
+us-gaap:CommonStockMember
+srt:ScenarioForecastMember
+2025-04-01
+2025-07-14
+0001792941
+us-gaap:CommonStockMember
+srt:ScenarioForecastMember
+2025-07-14
+0001792941
+GNVR:BrentLilienthalMember
+srt:ScenarioForecastMember
+2025-07-14
+0001792941
+GNVR:BrentLilienthalMember
+srt:ScenarioForecastMember
+2024-12-01
+2025-07-14
+0001792941
+srt:ScenarioForecastMember
+2025-05-01
+2025-05-31
+0001792941
+GNVR:BrentLilienthalMember
+srt:ScenarioForecastMember
+2025-05-31
+0001792941
+GNVR:BrentLilienthalMember
+srt:ScenarioForecastMember
+2025-05-01
+2025-05-31
+0001792941
+srt:ScenarioForecastMember
+us-gaap:RelatedPartyMember
+2025-05-01
+2025-05-31
+0001792941
+srt:ScenarioForecastMember
+2025-04-30
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+Mark One
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended: September
+30, 2024
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _________
+to _________
+Commission File No. 000-56589
+GENVOR INCORPORATED
+(Exact name of registrant as specified in its charter)
+Nevada
+83-2054746
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(IRS Employer
+Identification Number)
+1550 W Horizon Ridge Pkwy, Ste R #3040
+Henderson, NV 89012
+(715) 903-6473
+(Address and telephone number of principal
+executive offices)
+Securities registered pursuant to Section
+12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Not applicable
+Not applicable
+Not applicable
+Securities registered under Section 12(g)
+of the Act:
+Common Stock, $0.001 par value
+(Title of class)
+Indicate by check mark if the registrant
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐
+No ☒
+Indicate by check mark if the registrant
+is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐
+No ☒
+Indicate by check mark whether the registrant:
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes ☐ No ☒
+Indicate by check mark whether the Registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§
+232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit
+and post such files). Yes ☐ No ☒
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth
+company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company”
+and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+☐
+Large accelerated filer
+☐
+Accelerated filer
+☒
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐
+No ☒
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared
+or issued its audit report. ☐
+If securities are registered pursuant to
+Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect
+the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those
+error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+On March 29, 2024, the last business day
+of the registrant’s most recently completed second fiscal quarter, the aggregate market value of the registrant’s common
+stock held by non-affiliates of the registrant had an undetermined value as the registrant’s common stock is not eligible
+for proprietary broker-dealer quotations although it was previously quoted for trading on the OTC Link ATS, and trading data is
+not available on otcmarkets.com.
+The number of the registrant’s shares of
+common stock outstanding was 29,634,608
+as of July 31, 2025.
+TABLE OF CONTENTS
+Page
+PART I.
+Item 1.
+Business
+4
+Item 1A.
+Risk Factors
+13
+Item 1B.
+Unresolved Staff Comments
+13
+Item 1C.
+Cybersecurity
+13
+Item 2.
+Properties
+13
+Item 3.
+Legal Proceedings
+14
+Item 4.
+Mine Safety Disclosures
+14
+PART II.
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+14
+Item 6.
+[Reserved]
+17
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operation
+17
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+22
+Item 8.
+Financial Statements and Supplementary Data
+F-1
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+23
+Item 9A.
+Controls and Procedures
+23
+Item 9B.
+Other Information
+24
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+24
+PART III.
+Item 10.
+Directors, Executive Officers and Corporate Governance
+25
+Item 11.
+Executive Compensation
+30
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+33
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+34
+Item 14.
+Principal Accounting Fees and Services
+35
+PART IV.
+Item 15.
+Exhibits
+36
+Item 16.
+Form 10-K Summary
+37
+Signatures
+38
+Exhibits
+2
+FORWARD LOOKING STATEMENTS
+This Annual Report on Form 10-K contains
+forward-looking statements within the meaning of Rule 175 of the Securities Act of 1933, as amended, and Rule 3b-6 of the Securities
+Act of 1934, as amended, that involve substantial risks and uncertainties. These forward-looking statements are not historical
+facts, but rather are based on current expectations, estimates and projections about our industry, our beliefs, and our assumptions.
+Words such as “anticipate,” “expects,” “intends,” “plans,” “believes,”
+“seeks” and “estimates” and variations of these words and similar expressions are intended to identify
+forward-looking statements. These statements are not guarantees of future performance and are subject to risks, uncertainties,
+and other factors, some of which are beyond our control and difficult to predict and could cause actual results to differ materially
+from those expressed or forecasted in the forward-looking statements. You should not place undue reliance on these forward-looking
+statements, which apply only as of the date of this Form 10-K. Investors should carefully consider all of such risks before making
+an investment decision with respect to the Company’s stock. The following discussion and analysis should be read in conjunction
+with our financial statements for Genvor Incorporated. Such discussion represents only the best present assessment from our Management.
+3
+PART I
+Item 1: Business
+Genvor Incorporated (the “Company”
+or “Genvor”) was incorporated in Florida on September 26, 2018, as “Allure Worldwide, Inc.,” and as of
+November 18, 2019, redomiciled to Nevada. On June 24, 2022, the Company changed its name to from “Allure Worldwide, Inc.”
+to “Genvor Incorporated.”
+The Company was originally formed with
+the intention of seeking to acquire the assets or shares of an entity actively engaged in business which generates revenues, in
+exchange for its securities. On January 11, 2021, the Company entered into an Exchange Agreement (the “Purchase Agreement”)
+with Genvor Inc., a Delaware corporation (“Old Genvor”) to acquire (the “Acquisition”) Old Genvor. On March
+2, 2022, the Company and Old Genvor entered into a merger agreement (the “Merger Agreement”) to consummate the Acquisition,
+and pursuant to which a wholly-owned subsidiary of the Company, Genvor Acquisition Corp., a Delaware corporation (“Merger
+Subsidiary”), merged (the “Merger”) with and into Old Genvor, with each share of Old Genvor common stock issued
+immediately prior to the time of the merger automatically converted into the right to receive one share of common stock of the
+Company.
+On May 27, 2022, the Acquisition closed,
+Merger Subsidiary merged with and into Old Genvor, each share of Old Genvor was exchanged for the right to receive one share of
+Company common stock, 35,261,871 shares of Company common stock were issued to Old Genvor’s pre-merger shareholders (the
+“Merger Shares”), constituting a change of control of the Company, and Old Genvor became a wholly owned subsidiary
+of the Company. As a result of these transactions, the Company had 55,261,871 issued and outstanding common shares upon the closing
+of the Acquisition, and subsequently the Company’s original founding shareholders cancelled 18,144,112 shares of Company
+common stock in connection with the Acquisition.
+Business Overview and Strategic Direction
+As a result of the Acquisition, the Company’s
+business plan is to continue the research, development, and future commercialization of sustainable crop protection and plant health
+solutions through its wholly owned subsidiary, Genvor. Genvor leverages a proprietary and growing library of patented peptides
+to address critical challenges in global agriculture. These peptides, which include antimicrobial peptides (AMPs) and nutritionally
+enhanced peptides (NEPs), are being developed to support plant defense against a wide spectrum of threats, including pathogens
+(fungi, bacteria, and viruses), toxins, and pest-related crop damage.
+In addition to direct disease resistance,
+Genvor’s peptide technologies show promising potential in other vital areas of crop protection and productivity. These include
+improved nutrient uptake efficiency, plant vigor, and stress tolerance, as well as insect control through naturally derived, targeted
+bioactive mechanisms. These multifunctional properties of peptides may lead to reductions in chemical pesticide usage and enhanced
+yield outcomes, contributing to more sustainable and economically viable farming systems.
+The company believes these technologies,
+once commercialized, may provide material benefits to growers globally by mitigating losses from plant disease and environmental
+stress, thereby supporting increased yields and improved food security in regions facing agricultural constraints.
+Beyond plant health, Genvor is also evaluating
+cross-sector applications of its peptide portfolio in animal health. Early research and collaboration opportunities are exploring
+the use of nutritionally enhanced peptides (NEPs) to improve feed efficiency, gut health, and overall performance in livestock
+and aquaculture systems. These applications align with global efforts to enhance protein production efficiency across the food
+chain, reduce reliance on antibiotics, and improve sustainability in animal agriculture.
+The Company’s strategic vision includes
+both internal development and external partnerships to accelerate the validation, regulatory approval, and commercialization of
+its core peptide technologies across plant and animal sectors. Genvor’s integrated approach to biological innovation places
+it at the intersection of agricultural productivity, environmental stewardship, and food system resilience.
+Genvor’s History
+The Company’s subsidiary, Genvor
+Inc., was incorporated under the laws of the State of Delaware on April 4, 2019, as “Nexion Biosciences Inc.,” and
+on January 22, 2020, its name was changed to “Genvor Inc.” Genvor Inc. develops sustainable plant health solutions,
+designed to provide crops with anti-pathogen and enhanced nutritional properties.
+During May 2019, Genvor Inc. acquired Nexion
+Biosciences LLC (“NBLLC”) from its founder for nominal consideration. NBLLC was formed in the State of Delaware on
+December 28, 2018.
+4
+Genvor’s technology was developed
+by two university scientists, Dr. Clayton Yates and Dr. Jesse Jaynes, who share a common mission to develop crop protection technology
+to defend against deadly crop diseases, which ultimately impact both animals and humans alike.
+Dr. Jaynes has, over decades, focused on
+perfecting techniques for synthesizing and modifying anti-microbial peptides (“AMPs”).1
+Genvor’s headquarters is located
+at 1550 W Horizon Ridge Pkwy, Ste R #3040, Henderson, Nevada.
+Genvor’s Operations
+Overview
+Genvor is a research and development (“R&D”)
+company advancing the next generation of sustainable plant and animal health solutions through its proprietary library of patented
+peptides. The Company’s platform centers on the development of anti-microbial peptides (“AMPs”), which are designed
+to combat a broad spectrum of debilitating and destructive plant diseases—including bacterial, fungal, and viral pathogens—that
+threaten crop productivity worldwide. These peptides are being developed for two primary agricultural applications: (1) as a non-chemical
+transgenic seed trait, whereby crops are engineered to express specific AMPs internally; and (2) as a topical or foliar biological
+spray application (“bio-pesticide”) that can be used in integrated pest and disease management strategies.
+These peptide-based solutions are intended
+to help farmers worldwide increase crop health and yield while reducing dependence on conventional petrochemical-based pesticides.
+According to industry research, global crop losses attributed to plant disease exceed $220 billion annually.² Genvor’s
+innovations aim to provide a sustainable, environmentally responsible alternative using naturally occurring peptide compounds to
+enhance plants' innate immune responses, reduce pathogen colonization, and mitigate yield losses.
+Beyond disease resistance, Genvor’s
+proprietary peptide library also includes peptide candidates designed to support improved nutrient uptake, plant vigor, and stress
+resilience. These multifunctional peptides are being evaluated for their potential to increase agricultural efficiency and reduce
+input costs, with promising results across various crop types.
+In addition to its agricultural applications,
+Genvor is expanding its research into nutritionally enhanced peptides (“NEPs”) for use in animal feed. These NEPs have
+demonstrated the potential to increase protein expression in feed crops such as corn and sweet potato by 5–10x, which could
+improve feed efficiency and nutrient density in poultry, swine, and aquaculture systems. This development represents a potential
+cross-sector opportunity to enhance sustainability and economic return in the broader animal protein value chain.
+All of Genvor’s peptides are composed
+of naturally derived amino acid sequences and are developed without the use of toxic chemicals. As a result, adoption of these
+technologies could contribute to reduced greenhouse gas emissions, improved soil health, and alignment with regenerative agriculture
+practices. The Company believes these innovations will translate into meaningful economic and environmental benefits for a range
+of growers, from conventional to organic operations.
+Genvor’s mission is to provide scalable
+biological solutions to address some of the most pressing challenges in global agriculture and food production, supporting yield
+improvements, reduced environmental impact, and increased food system resilience. The Company is pursuing regulatory pathways and
+strategic collaborations to advance the development and commercialization of its peptide technologies for both domestic and international
+markets.
+Below is a summary of Genvor’s peptide
+development process.
+1See, e.g., Rajasekaran,
+K. Jaynes, J.M. and Cary, J.W. (2009) Transgenic Expression of Lytic Peptides in Food and Feed Crops to Control Phytopathogens
+and pre-harvest Mycotoxin Contamination. In: Mycotoxin Prevention and Control in Agriculture, Chapter 9, pp 119-142. American
+Chemical Society Symposium Vol. 1031.
+2 https://www.fao.org/news/story/en/item/1402920/icode/.
+5
+Commercialization of Genvor’s peptide
+technologies is a key strategic priority, with an initial focus on developing seed trait integrations for major row crops such
+as corn, soybeans, and cotton. These transgenic applications aim to embed Genvor’s proprietary anti-microbial peptides (AMPs)
+directly into the plant genome, enabling continuous, internal expression of disease-resistant traits throughout the crop lifecycle.
+In parallel, the Company is advancing the development of a topical or foliar spray formulation—classified as a biological
+pesticide—for foliar application across a broad range of crops. This foliar application offers a more immediate regulatory
+path and near-term market entry opportunity while serving as a complementary tool to trait-based solutions.
+Concurrently, Genvor is pursuing research
+and validation of its nutritionally enhanced peptides (NEPs), which are designed to significantly increase the protein content
+and feed efficiency of common animal feedstocks such as corn and sweet potato. These peptides are intended to support performance
+improvements across poultry, swine, and aquaculture production systems, potentially reducing feed conversion ratios and contributing
+to more sustainable and profitable animal protein production.
+The Company’s peptide platform is
+protected by a robust intellectual property (IP) portfolio. Genvor currently holds two issued United States patents covering a
+core library of 24 proprietary peptides and thousands of other design candidates and has a third patent pending that covers an
+additional 16 peptides. These peptides represent a diversified pipeline of bioactive compounds under evaluation for applications
+across plant health, nutrient optimization, pest control, and animal feed enhancement.
+The following chart outlines Genvor’s
+development pipeline, highlighting the current stage of each peptide candidate and its associated crop or livestock application.
+This visual summary reflects the Company’s integrated and multi-sector approach to biological innovation, with both near-
+and long-term opportunities across agricultural and animal protein health markets.
+6
+Addressing a $220 Billion Global
+Economic and Health Risk with Proven Solutions
+Food production must double by 2050 to
+meet the food demand of the global population’s expected growth to 9.6 billion people. Annual crop losses due to plant pathogens
+and viruses are now estimated to exceed $220 billion globally.3 Alarming to the United States Food and Drug Administration
+(“FDA”) is the fungi “Aspergillus Flavus,” which produces Aflatoxins, a toxic carcinogenic compound known
+to cause liver cancer in humans and animals. Humans infected with Aspergillus Flavus often have reduced or compromised immune systems.
+Contamination of corn with acutely toxic and carcinogenic aflatoxin is a major human and livestock health risk, estimated to cost
+the U.S. corn industry between $52 million and $1.7 billion annually.4
+The below image shows an infected crop
+leaf, a common sight for farmers facing these types of crop contamination issues:
+Aflatoxin contamination causes market rejection
+of infected crops, as well as animal and human health impacts. The USDA has imposed strict guidelines for crop inspection and discovery
+of diseased crops caused by Aflatoxins. Both planted fields and harvested crops found to be contaminated exceeding permitted testing
+levels must be destroyed, at a loss to the farmer, who is often exposed to catastrophic economic losses as a result. The guidelines
+in the European Union are stricter than in the United States, creating a critical market need for sustainable and effective plant
+health solutions to combat such plant disease.5
+Industry observers have noted that seed
+trait expression of AMPs is a promising approach to providing resistance to aflatoxin infection in corn.6 Testing of
+Genvor’s AMPs by the US Department of Agriculture over a period of six years, the results of which were published in May
+2018 and March 2023, showed promising results in defense against aflatoxins, as seeds infused with Genvor AMPs showed a 70% reduction
+in aflatoxin contamination, making them promising candidates for genetic engineering the next-generation of disease-resistant crops.7
+Application of Peptides in Plant
+Protection
+Plant pathogens attack crops and lead to
+serious adverse impacts on their growth. Traditional chemical fungicides are effective in preventing diseases caused by plant pathogens;
+however, their long-term continuous use has led to plant pathogens developing resistance to those fungicides, and their residues
+present a risk of harm to humans and the environment. Industry observers believe that more sustainable methods to control plant
+diseases are urgently needed.8 Naturally occurring AMPs mediate the innate host defense and can be used as immune inducers.
+Given their high specificity, rapid degradation, and efficacy, AMPs are expected to be a promising first line of defense against
+fungi, viruses, and bacteria. Some industry observers believe that peptides will likely become mainstream tools for plant protection
+in the future.9
+3 Id.
+4 Broad-Spectrum Antimicrobial
+Activity of Synthetic Peptides GV185 and GV187, Rebecca R. Sweany, Jeffrey W. Cary, Jesse M. Jaynes and Kanniah Rajasekaran, March
+20, 2023.
+5 Id.
+6 Science Direct - Advanced
+Agrochem: Volume 2, Issue 1, March 2023, Pages 58-78, Peptides, new tools for plant protection in eco-agriculture. Yi-Meng Zhang,
+De-Xing Ye, Yan Liu, Xin-Yuan Zhang, Yuan-Lin Zhou, Li Zhang, Xin-Ling Yang.
+7 Broad-Spectrum Antimicrobial
+Activity of Synthetic Peptides GV185 and GV187, Rebecca R. Sweany, Jeffrey W. Cary, Jesse M. Jaynes and Kanniah Rajasekaran, March
+20, 2023.
+8 Donley N. The USA lags
+behind other agricultural nations in banning harmful pesticides. Environ Health Glob Access Sci Source. 2019;18(1):44.
+9 Science Direct - Advanced
+Agrochem: Volume 2, Issue 1, March 2023, Pages 58-78, Peptides, new tools for plant protection in eco-agriculture. Yi-Meng
+Zhang, De-Xing Ye, Yan Liu, Xin-Yuan Zhang, Yuan-Lin Zhou, Li Zhang, Xin-Ling Yang.
+7
+The following is an illustration that shows
+the mode of action of Genvor’s peptides against a disease cell:
+Genvor’s AMP Technology has
+Created Significant Economic Opportunities in a Broad Spectrum of Plant Types
+The Aflatoxin problem has created significant
+opportunities for companies developing the technology needed to defend against Aflatoxins. AMPs, such as those developed by Genvor,
+are a safer alternative to fungicides. Pesticides or fungicides with a chemical composition are known to degrade the environment,
+are inefficient to apply, persist in crops and livestock, and are less effective as plant pathogen resistance increases. AMPs kill
+microorganisms directly, resistance to them is rare and should remain so given their mode of action, and AMPs can be manufactured
+via a non-GMO process.
+Genvor’s peptides have proven effective
+on corn and show broad spectrum effectiveness for other crop types11 for most known bacteria and fungi within a single
+product solution. This broad-spectrum efficacy should be more efficient for farmers compared to the toxic fungicide alternatives,
+which are currently used to combat a single fungi or bacteria type. Genvor’s technology can be delivered into plants by both
+bioengineered seed traits, as well as through bio-fungicide (topical spray) application.11 There is no evidence of pathogens
+developing resistance to Genvor’s designed AMPs. At this point in time, AMPs show a likelihood of killing pathogens in berries,
+corn, cannabis, wheat, cotton, citrus, and peanuts.
+Genvor utilizes a proprietary peptide design
+and development methodology originally conceived by its founder, Dr. Jesse Jaynes. This method is rooted in a phenotype-driven
+model first developed in the mid-1980s, which enables the expedited identification, optimization, and functional testing of bioactive
+peptides. The approach is designed to accelerate the discovery process while improving peptide efficacy through targeted structure-activity
+modeling.
+This methodology has been refined over
+several decades and has demonstrated utility across multiple domains, including agricultural crop protection, animal health, and
+human health research. Genvor continues to apply and evolve this model to support the rapid development of novel peptides with
+applications in plant disease resistance, nutrient enhancement, pest management, and feed efficiency improvement. The Company believes
+this foundational platform provides a strategic advantage in both speed to market and the functional performance of its proprietary
+peptide candidates.
+10 Broad-Spectrum Antimicrobial Activity of Synthetic
+Peptides GV185 and GV187, Rebecca R. Sweany, Jeffrey W. Cary, Jesse M. Jaynes and Kanniah Rajasekaran, March 20, 2023.
+11 Id.
+8
+What are Peptides Exactly?
+Peptides are broadly utilized in medicine,
+cosmetics, healthcare products, animal nutrition and health, and plant nutrition and protection. In recent years, they’ve
+become active research subjects to protect plants from bacteria, viruses, pests, and weeds, as antimicrobial and immune inducers,
+plant growth regulators, insecticides, and herbicides. This is due to their extensive raw material sources, excellent activity,
+and ideal environmental compatibility.
+Peptides are short-chain biomolecules of
+between 2 and 50 amino acids, linked by peptide bonds. Based on their sources, peptides can be categorized as natural or artificially
+synthesized. Most natural peptides are from animals, plants, and microorganisms. Both natural and synthetic peptides can be produced
+through chemical synthesis, biological fermentation, gene recombination and other methods. Peptides are ubiquitous in living organisms
+and modulate many physiological processes, making them a common research subject in medicine, cosmetics, and agriculture.12
+How do Peptides Work Against Diseases?
+Through seed traits, plant seeds are genetically
+coded to produce AMPs. Upon encountering a disease microbe, AMPs penetrate the cell wall of the target disease microbe, causing
+the contents of the disease microbe to spill out, destroying the disease cell. The same effect is foreseen in the utilization of
+the topical spray.
+Delivery by Transgenic Seed Traits
+In North America, the seed trait market
+is currently estimated to exceed $10 billion. The adoption of crop seeds with enhanced traits has been staggering with over 75%
+of U.S. corn, cotton and soybeans being produced using seeds with enhanced traits.13
+The following image shows corn with Genvor’s
+seed traits, which is currently growing in a USDA facility for study:
+12 Science Direct - Advanced
+Agrochem: Volume 2, Issue 1, March 2023, Pages 58-78, Peptides, new tools for plant protection in eco-agriculture.
+Yi-Meng Zhang, De-Xing Ye, Yan Liu, Xin-Yuan Zhang, Yuan-Lin Zhou, Li Zhang, Xin-Ling Yang.
+13 https://www.fortunebusinessinsights.com/industry-reports/genetically-modified-seeds-market-100389.
+9
+Delivery by Topical Spray (Bio-fungicide)
+The rising global demand for organic foods,
+the trend in the reduction of chemical residues, stricter import and supermarket standards, shorter pre-harvest intervals, a push
+for sustainability, growing food scarcity, the phase out of synthetic agricultural chemicals, along with the market’s demand
+for additional modes of action to manage resistance, has resulted in biologicals being one of the fastest-growing sectors in the
+crop protection market, increasing at twice the compound annual growth rate of the crop protection market as a whole.14 The
+global agricultural biologicals market was approximately $9.5 billion in 2019 and is expected to grow to approximately $19.7 billion
+by 2026.15 Unlike synthetic chemicals, bio-fungicides are derived from configurations of amino acids and proteins occurring
+in nature; therefore they do not contaminate soil, water, turf, beneficial insects, birds, fish, and non-targeted plants.16
+USDA Partnership – Benefits
+of a CRADA
+Genvor’s AMPs gained the attention
+of the USDA in its pursuit of solutions for plant disease in corn, the U.S.’s largest crop. Based on over 30 years of research
+by Genvor founder Dr. Jesse Jaynes, Genvor was awarded a Cooperative Research and Development Agreement (“CRADA”) in
+2018 to develop and commercialize disease resistance and nutritional enhancement in corn seed based upon Genvor’s proven
+technology. A CRADA expands expertise and speeds development of many technologies that are now used by farmers or found in the
+grocery store through access to USDA resources such as advanced laboratories, increasing the chances that research outcomes are
+adopted commercially to maximize impact, driving a significantly lower overhead rate than a university’s research program,
+and creating a multi-disciplinary research team to increase technical breadth and depth of the lab. In addition, a CRADA provides
+access to the USDA regulatory team for registrations and processes.
+Genvor’s Peptides are proven
+effective in corn seed traits.
+As a result of the USDA and Genvor partnership
+through the CRADA, the effectiveness of Genvor’s solutions in protecting against Aflatoxins in corn seed has been established,
+with the probability that this technology can effectively be applied to other crop types.17 Genvor is expecting an extension
+of the CRADA to continue the studies of Genvor’s 4th generation of its peptides (GNV-185 and GNV-187) towards
+commercialization. The Company now has the technology to move its superior AMPs from the research lab and greenhouse to the field,
+with the goal of commercially producing Genvor’s AMPs at a desirable price point for cost-effective and broad-based agricultural
+use.
+What is a USDA CRADA Worth to Genvor?
+In the United States, it often takes eight
+years and $136 million to develop and bring a new seed trait through regulatory to the marketplace.18 The value of a
+CRADA, utilizing the USDA’s existing labs, know-how, research, fields, greenhouses, and oversight to develop a Seed Trait
+for corn is significant as it allows Genvor to bring seed traits to market with substantially less capital investment. For its
+CRADA in corn, Genvor’s contribution was under $700,000, primarily for a dedicated scientist to work onsite at the USDA facility
+over the years. Genvor is expecting to continue R&D of its anti-microbial and nutritional enhancement peptides (“NEPs”)
+for poultry and swine feed through additional CRADAs with the USDA. In addition, Genvor is planning to apply for a CRADA for Aflatoxins
+in peanuts. The USDA partnership is based upon the confidence and proof of concept found in Genvor’s solutions.
+Below is a chart showing the average surveyed
+development costs of bring a new plant trait to market in the United States:
+Business Strategy: Licensing First
+and Leveraging R&D with Third Parties
+Genvor’s business model is to remain
+capital-light, focused on leveraging its third-party research and development through its initial CRADA with the USDA, and any
+subsequent CRADAs that may be granted, while also adopting a licensing approach to reduce “cash burn” or the need for
+significant manufacturing and marketing overhead. Genvor is highly scalable and capital efficient with minimal overhead relative
+to peers, allowing the Company to focus on core research and development competency. Genvor does not expect revenue until the end
+of 2025, through the licensing and distribution of either or both the topical spray and seed trait, utilizing licensing and royalty
+opportunities.
+14 https://www.researchandmarkets.com/reports/5317983/agricultural-biologicals-market-forecasts-from.
+15 Id.
+16 Id.
+17 Broad-Spectrum Antimicrobial
+Activity of Synthetic Peptides GV185 and GV187, Rebecca R. Sweany, Jeffrey W. Cary, Jesse M. Jaynes and Kanniah Rajasekaran, March
+20, 2023.
+18 https://geneticliteracyproject.org/gmo-faq/what-does-it-take-to-bring-a-new-gm-product-to-market/.
+10
+Financing Needs and Infrastructure Planning
+Genvor is actively evaluating various financing
+options to support its near- and mid-term operational and strategic objectives. The Company anticipates that additional capital
+will be required to fund general corporate overhead, research and development (R&D) activities, peptide production for testing
+and validation, contributions under its Cooperative Research and Development Agreement (CRADA) with the United States Department
+of Agriculture (USDA), and associated regulatory and commercialization efforts.
+While Genvor has primarily leveraged external
+research infrastructure through collaborations and government partnerships to date, the Company is assessing the potential establishment
+of a dedicated laboratory facility in or near Sacramento, California, to support internal R&D and pilot-scale development.
+Additional lab sites, greenhouses, or field trial locations may be established in the future, either independently or in collaboration
+with commercial agricultural input partners, as the Company scales its development and testing efforts.
+At present, there are no definitive plans
+to construct or acquire independent laboratory or greenhouse infrastructure. Genvor continues to rely on existing resources available
+through its strategic partnerships, including access to scientific, regulatory, and field-testing capabilities through the USDA
+CRADA and affiliated research partners. However, the Company may pursue additional financing in the future if internal infrastructure
+development or self-funded research programs are deemed beneficial to accelerate commercialization or expand the scope of its technology
+platform.
+Competition
+Peptide-Based Crop Protection: Competitive
+Landscape
+1. Vestaron Corporation (www.vestaron.com)
+Vestaron is a U.S.-based biopesticide
+innovator offering peptide-derived insecticides such as Spear® T and Spear® RC, designed to
+target Lepidoptera, thrips, mites, and other pests on crops like cotton, soy, rice, and specialty horticulture. These products
+are EPA-registered in the U.S. and approved in Europe, with favorable environmental profiles—short re-entry intervals and
+zero pre-harvest interval—and scalable in partnership with ADM (micro-pep.com).
+2. BASF SE (www.basf.com)
+BASF incorporates peptide-enhanced crop protection products into its global portfolio, including Inscalis® for rice
+blight and peptide-chemical hybrid solutions. The company’s peptide R&D is bolstered by technologies acquired from ZedX
+and utilizes advanced computational discovery methods.
+3. Syngenta Crop Protection (www.syngenta.com)
+Syngenta is advancing peptides in its research pipeline, focused on fungal disease control and enhanced through its acquisition
+of Valagro. The company routinely uses virtual screening and other digital tools to identify peptide-based actives aligned with
+its integrated pest and disease management strategies.
+4. Micropep Technologies (www.micro-pep.com)
+France-headquartered Micropep is pioneering
+micropeptide solutions via its Krisalix™ AI-powered platform, which enables rapid discovery of bioactive micropeptides.
+The company recently completed a €8.5 million Series A financing round and a $29 million Series B
+round—bringing total funding to over $51 million—to support field trials and regulatory development, including
+EPA classification for its first biofungicide candidate MPD-01 (micro-pep.com).
+5. Hello Nature (formerly Italpollina)
+(www.hello-nature.com)
+Hello Nature is a global provider of plant-stimulating
+peptides (PSP) used as biostimulants—specifically in its Hi-Q, Cerbero Green, and Plant Stimulating Peptides
+lines—for broad applications in integrated and organic agriculture, including root development, stress resilience, nutrient
+uptake, and yield enhancement (hello-nature.com).
+Summary Table
+Company
+Website
+Peptide Product(s) / Platform
+Highlights
+Vestaron
+vestaron.com
+Spear® T, Spear® RC
+EPA-registered, ADM scale, targeted insect control
+BASF SE
+basf.com
+Inscalis®, peptide-chemical hybrids
+Global reach, peptide discovery via ZedX
+Syngenta
+syngenta.com
+Fungus-targeted peptide discovery pipeline
+Digital screening, Valagro acquisition
+Micropep
+micro-pep.com
+Krisalix™, MPD-01 biofungicide
+$51M+ funding, EPA classification underway
+Hello Nature
+hello-nature.com
+Hi-Q, Cerbero Green, PSP biostimulants
+Biostimulants for root, stress, nutrient traits
+11
+Sym Agro - https://sym-agro.com/
+serves horticultural and agricultural specialty markets with an assortment of fertilizers, fungicides, biologics, and pesticides.
+ProBlad® Verde fungicide is available in the US for use on a variety of crops, including stone fruit, cane berries, strawberries,
+pome fruits, grapes, almonds, leafy greens, herbs, and tomatoes.
+Innatrix – Products under development
+in their pipeline: InnaLB™ (Potato Late Blight) - Peptide product to stop late blight infection, by interfering with critical
+late blight effectors, InnaNema™ (Soybean Cyst Nematode) Seed treatment product to stop nematode infection and reproduction
+process on soybean roots, by RNAi technology, and nnaHLB™ (Citrus Greening) Peptide product to stop citrus greening infection
+by interfering with critical citrus greening effector.
+Reports to Security Holders
+We intend to furnish our shareholders annual
+reports containing financial statements audited by our independent registered public accounting firm and to make available quarterly
+reports containing unaudited financial statements for each of the first three quarters of each year. We file Quarterly Reports
+on Form 10-Q, Annual Reports on Form 10-K and Current Reports on Form 8-K with the Securities and Exchange Commission (the “SEC”)
+voluntarily to disclose material information regarding the Company to the public. We may also file additional documents with the
+Commission if they become necessary in the course of our company’s operations.
+The public may read and copy any materials
+that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. The public may
+obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet
+site that contains reports, proxy and information statements, and other information regarding issuers that file electronically
+with the SEC. The address of that site is www.sec.gov.
+Government Regulations
+We believe that we are and will continue
+to be in compliance in all material respects with applicable statutes and the regulations passed in the United States. There are
+no current orders or directions relating to our company with respect to the foregoing laws and regulations.
+19 See, e.g., Rajasekaran,
+K. Jaynes, J.M. and Cary, J.W. (2009) Transgenic Expression of Lytic Peptides in Food and Feed Crops to Control Phytopathogens
+and pre-harvest Mycotoxin Contamination. In: Mycotoxin Prevention and Control in Agriculture, Chapter 9, pp 119-142. American Chemical
+Society Symposium Vol. 1031.
+12
+Environmental Regulations
+While our products and business activities
+do not currently violate any laws, any regulatory changes that impose additional restrictions or requirements on us or on our products
+or potential customers could adversely affect us by increasing our operating costs or decreasing demand for our products or services,
+which could have a material adverse effect on our results of operations.
+Employees
+As of September 30, 2024, we had one full-time
+employee.
+Property
+The Company does not own or rent property.
+The Company’s office space is virtual and provided by an officer at no charge.
+Item 1A. Risk Factors
+As a smaller reporting company, we are
+not required to provide the information required by this item.
+Item 1B. Unresolved Staff Comments.
+None.
+Item 1C. Cybersecurity
+Risk Management and Strategy
+At this time, the Company does not have
+formal processes in place for assessing, identifying, and managing material risks from cybersecurity threats. Our approach to cybersecurity
+is currently informal and primarily reactive, involving basic security measures such as:
+●Basic Security Software: We use standard antivirus and anti-malware software for protection against
+common threats.
+●Password Policies: Simple password policies are in place to protect access to our systems.
+However, we recognize the importance of
+cybersecurity and are in the process of developing more robust strategies. We plan to:
+●Develop a Cybersecurity Framework: Establish a formal risk assessment process to identify vulnerabilities.
+●Engage Cybersecurity Expertise: Consider hiring or consulting with cybersecurity professionals
+to guide our strategy.
+We acknowledge that the absence of comprehensive
+cybersecurity processes could potentially expose the company to risks, which might materially affect our operations, financial
+condition, or strategic decisions in the future. We are committed to improving our cybersecurity posture as our resources allow.
+Governance
+●Board Oversight: Currently, our directors do not have a formal structure for overseeing cybersecurity
+risks. We plan to review this oversight in the near future to ensure appropriate governance is established.
+●Management’s Role: Day-to-day management of cybersecurity is handled by our Chief Executive
+Officer (“CEO”), who does not have specialized training in cybersecurity. We are considering enhancing this role or
+outsourcing to professionals with specific cybersecurity expertise.
+●Expertise: Our current management and Board do not have in-depth cybersecurity expertise. We are
+considering educational opportunities or consulting to address this gap.
+Material Effect from Cybersecurity Threats
+To date, no known cybersecurity incidents
+have materially affected our business strategy, results of operations, or financial condition. However, due to our limited cybersecurity
+measures, we acknowledge that our company could be at higher risk of material impact from cybersecurity threats. We are actively
+working to mitigate these risks.
+Item 2. Properties
+We do not own any real estate or other
+properties.
+13
+Item 3. Legal Proceedings
+Management is not aware of any legal proceedings
+contemplated by any governmental authority or any other party involving us or our properties. Except as set forth below, as of
+the date of this Annual Report, no director, officer, or affiliate is (i) a party adverse to us in any legal proceeding, or (ii)
+has an adverse interest to us in any legal proceedings. Management is not aware of any other legal proceedings pending or that
+have been threatened against us or our properties.
+On February 7, 2024, the Company filed
+suit against Justin Kimbrough and Prosperity Consultants, LLC, in the 14th Judicial District Court for Dallas County, Texas (case
+no. DC-24-02022), alleging fraud, conversion, unjust enrichment and other causes of action arising from the defendants’ improper
+receipt of shares of Company common stock under agreements which required the defendants to provide services to the Company and
+which services the defendants ultimately never provided. The Company is seeking monetary damages and for a constructive trust to
+be imposed on defendants’ shares of Company common stock and for them to be returned to the Company. The Company and Mr.
+Kimbrough have settled the claims in dispute and are working to effect the settlement terms before dismissal.
+On April 12, 2024, the Company filed suit
+against Richard Saied, in the 192nd Judicial District Court for Dallas County, Texas (case no. DC-24-05442), alleging fraud, conversion,
+unjust enrichment and other causes of action arising from the defendant’s improper receipt of shares of Company common stock
+under an agreement which required the defendant to provide services to the Company and which services the defendant ultimately
+never provided. The Company is seeking monetary damages and for a constructive trust to be imposed on defendant’s shares
+of Company common stock and for them to be returned to the Company.
+Item 4. Mine Safety Disclosures
+Not applicable to our Company.
+PART II
+Item 5. Market for Registrant’s
+Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market Information
+There is no “established trading
+market” for shares of the Company’s common stock. Previously, the Company’s common stock was quoted on the OTC
+Link ATS (alternative trading system) operated by OTC Markets Group Inc. under the symbol “GNVR,” but the Company is
+no longer eligible for proprietary broker-dealer quotations is not currently quoted on the OTC Link ATS or any securities exchange.
+No assurance can be given that any “established trading market” for the Company’s common stock will develop or
+be maintained.
+Our stock was first quoted on the OTC Link
+ATS beginning in the fourth fiscal quarter for the year ended September 30, 2023, but did not commence trading until approximately
+December 1, 2023. The range of high and low closing bid quotations for the Company’s common stock during each quarter of
+the fiscal years ended September 30, 2024, and 2023, cannot be shown as the Company’s quotation data is no longer available
+on otcmarkets.com.
+The future sale of the Company’s
+presently outstanding “unregistered” and “restricted” common stock by present members of management and
+persons who own more than five percent of the Company’s outstanding voting securities may have an adverse effect on any “established
+trading market” that may develop in the shares of the Company’s common stock.
+Holders
+As of July 14, 2025, the Company had approximately
+195 shareholders of record of common stock, including shares held in “street name” by banks, brokerage clearing houses,
+depositories or otherwise in unregistered form.
+Transfer Agent
+The Company’s transfer agent is Securities
+Transfer Corporation, Securities Transfer Corporation, 2901 N. Dallas Parkway, Suite 380, Plano, Texas, 75093, Telephone: (469)
+633-0088.
+14
+Dividend Distributions
+We have not paid any cash dividends on
+our common stock and have no present intention of paying any dividends on the shares of our common stock. Our current policy is
+to retain earnings, if any, for use in our operations and in the development of our business. Our future dividend policy will be
+determined from time to time by our board of directors.
+Securities authorized for issuance under
+equity compensation plans.
+The Company does not have a stock option
+plan.
+Penny Stock
+Our common stock is considered “penny
+stock” under the rules of the Securities and Exchange Commission under the Securities Exchange Act of 1934. The SEC has adopted
+rules that regulate broker-dealer practices in connection with transactions in penny stocks. Penny stocks are generally equity
+securities with a price of less than $5.00, other than securities registered on certain national securities exchanges or quoted
+on the NASDAQ Stock Market System, provided that current price and volume information with respect to transactions in such securities
+is provided by the exchange or quotation system. The penny stock rules require a broker-dealer, prior to a transaction in a penny
+stock, to deliver a standardized risk disclosure document prepared by the Commission, that:
+●
+contains a description of the nature and level of risks in the market for penny stocks in both public offerings and secondary trading;
+●
+contains a description of the broker’s or dealer’s duties to the customer and of the rights and remedies available to the customer with respect to a violation to such duties or other requirements of Securities’ laws; contains a brief, clear, narrative description of a dealer market, including bid and ask prices for penny stocks and the significance of the spread between the bid and ask price;
+●
+contains a toll-free telephone number for inquiries on disciplinary actions;
+●
+defines significant terms in the disclosure document or in the conduct of trading in penny stocks; and
+●
+contains such other information and is in such form, including language, type, size and format, as the Commission shall require by rule or regulation.
+The broker-dealer also must provide, prior
+to effecting any transaction in a penny stock, the customer with:
+●
+bid and offer quotations for the penny stock;
+●
+the compensation of the broker-dealer and its salesperson in the transaction;
+●
+the number of shares to which such bid and ask prices apply, or other comparable information relating to the depth and liquidity of the marker for such stock; and
+●
+monthly account statements showing the market value of each penny stock held in the customer’s account.
+In addition, the penny stock rules that
+require that prior to a transaction in a penny stock not otherwise exempt from those rules; the broker-dealer must make a special
+written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser’s written
+acknowledgement of the receipt of a risk disclosure statement, a written agreement to transactions involving penny stocks, and
+a signed and dated copy of a written suitably statement.
+These disclosure requirements may have
+the effect of reducing the trading activity in the secondary market for our stock.
+15
+Related Stockholder Matters
+Unregistered Sales of Equity Securities
+On September 9, 2024, the Company and Chris
+Peterman entered into a convertible promissory note agreement, providing for the issuance of a note in the principal amount of
+$20,000. In addition, the Company issued Chris Peterman a stock purchase warrant to acquire 40,000 shares of common stock of the
+Company at a per share price of $0.01. In accordance with ASC 470-20-25-2, proceeds from the sale of a debt instrument with stock
+purchase warrants are allocated to the two elements based on the relative fair values of the debt instrument without the warrants
+and of the warrants themselves at time of issuance. The portion of the proceeds so allocated to the warrants are accounted for
+as additional paid-in capital. The remainder of the proceeds are allocated to the debt instrument portion of the transaction. The
+fair value of the warrants issued to the investor was $40,000. Therefore, the Company recorded debt discount of $13,333 related
+to the warrants issued to the investor, which will be amortized over the term of the note.
+The
+forgoing securities were issued in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act
+of 1933, as amended, and Rule 506(b) promulgated thereunder, as there was no general solicitation, and the transactions did not
+involve a public offering.
+Purchase of Equity Securities
+None.
+16
+Item 6. [Reserved]
+Item 7. Management’s Discussion
+and Analysis of Financial Condition and Results of Operations
+The following
+discussion and analysis of our financial condition and results of operations for the years ended September 30, 2024 and 2023 should
+be read in conjunction with our consolidated financial statements and related notes to those consolidated financial statements
+that are included elsewhere in this report. Certain information contained in the discussion and analysis set forth below includes
+forward-looking statements that involve risks and uncertainties.
+Special Note
+Regarding Forward-looking Statements
+All statements
+other than statements of historical fact included in this Annual Report Form 10-K including, without limitation, statements under
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations” regarding our financial
+position, business strategy and the plans and objectives of management for future operations, are forward-looking statements. When
+used in this Annual Report on Form 10-K, words such as “anticipate,” “believe,” “estimate,”
+“expect,” “intend” and similar expressions, as they relate to us or our management, identify forward-looking
+statements. Such forward-looking statements are based on the beliefs of management, as well as assumptions made by, and information
+currently available to, our management. Actual results could differ materially from those contemplated by the forward-looking statements
+as a result of a number of factors, including those set forth under the risk factors and business sections in this Annual Report
+on Form 10-K.
+Overview
+Genvor Incorporated (the “Company”
+or “Genvor”) was incorporated in Florida on September 26, 2018, as Allure Worldwide, Inc., and as of November 18, 2019,
+redomiciled to Nevada. On June 24, 2022, the Company changed its name to from Allure Worldwide, Inc. to Genvor Incorporated.
+The Company’s subsidiary, Genvor
+Inc. was incorporated under the laws of the State of Delaware on April 4, 2019, as Nexion Biosciences Inc. and on January 22, 2020,
+its name was changed to Genvor Inc. Genvor Inc. develops plant-based defense technology designed to help farmers achieve global
+food security.
+During May 2019, Genvor Inc. acquired Nexion
+Biosciences LLC (“NBLLC”) from a founder for nominal consideration. NBLLC was formed in the State of Delaware on December
+28, 2018.
+The Company was originally formed with
+the intention of seeking to acquire the assets or shares of an entity actively engaged in business which generates revenues, in
+exchange for its securities. On January 11, 2021, the Company entered into an Exchange Agreement (the “Purchase Agreement”)
+with Genvor Inc., a Delaware corporation (“Old Genvor”) to acquire (the “Acquisition”) Old Genvor. On March
+2, 2022, the Company and Old Genvor entered into a merger agreement (the “Merger Agreement”) to consummate the Acquisition,
+and pursuant to which a wholly-owned subsidiary of the Company, Genvor Acquisition Corp., a Delaware corporation, would merge (the
+“Merger”) with and into Old Genvor, with each share of Old Genvor common stock issued immediately prior to the time
+of the merger automatically converted into the right to receive one share of common stock of the Company.
+On May 27, 2022, the Acquisition closed,
+Merger Subsidiary merged with and into Old Genvor, each share of Old Genvor was exchanged for the right to receive one share of
+Company common stock, 35,261,871 shares of Company common stock were issued to Old Genvor’s pre-merger shareholders (the
+“Merger Shares”), constituting a change of control of the Company, and Old Genvor became a wholly owned subsidiary
+of the Company. As a result of these transactions, the Company had 55,261,871 issued and outstanding common shares upon the closing
+of the share exchange with Old Genvor, and subsequently the Company’s original founding shareholders cancelled 18,144,112
+shares of Company common stock in connection with the Acquisition.
+As a result of the Acquisition, the Company’s
+business plan is that Old Genvor will be continuing its research and development addressing plant-based defense technology ich
+then can be commercialized to help farmers and growers globally to overcome potentially catastrophic losses resulting from plant
+disease, toxins, bacteria, and fungi that destroy their crops. These solutions can result in greater crop yields and economic savings,
+which can assist in overcoming world-wide food scarcity.
+The Company’s technology was developed
+by two university scientists, Dr. Clayton Yates, and Dr. Jesse Jaynes, who shared a mission to develop crop protection technology
+designed to defend against crop diseases affecting both animals and humans alike.
+Recent Activity
+The Company actively participated in prominent
+biotechnology conferences and significant industry events. Moreover, productive engagements with USDA partners have enhanced our
+ongoing multi-year studies on seed traits in corn, focusing on combatting a wide array of pathogens, including aflatoxin.
+Our outreach efforts extended to major
+agricultural enterprises, facilitating discussions on potential partnership opportunities to bring Genvor’s peptide portfolio
+to market. Multiple product formats are currently under evaluation and development, with our steadfast commitment to the license-first
+business model. The company is collaborating with several contract manufacturing firms to develop efficient and cost-effective
+manufacturing systems. This initiative aims to meet the manufacturing requirements of commercial partnerships and ensure the ability
+to offer economically viable pricing that aligns with market expectations in the global agricultural sector.
+Exploration of international animal health
+research collaborations is underway, including discussions with a leading animal health research company. Concurrently, we are
+intensifying efforts in non-GMO product development and expediting the innovation of novel peptides.
+In August 2024
+Genvor was awarded the Golden Ticket by Bayer.
+17
+Strategic Collaboration
+with Bayer: Golden Ticket Award
+In 2024, Genvor
+was selected by Bayer AG as the inaugural recipient of its Golden Ticket award, a competitive innovation initiative designed to
+support high-impact agricultural technologies. This award grants Genvor fully funded access to laboratory space, equipment, and
+expert mentorship at Bayer’s LifeHub California @AgStart, a leading AgriFoodTech innovation center.
+This collaboration
+enables Genvor to accelerate development and commercialization of its proprietary peptide-based crop protection and trait technologies.
+Genvor’s platform leverages antimicrobial peptides (AMPs) to enhance disease resistance and crop performance through both
+biological sprays and genetic trait innovation.
+Bayer’s selection of Genvor from
+a global pool of applicants underscores the scientific and commercial potential of our approach. The Golden Ticket program aligns
+with Bayer’s broader commitment to regenerative agriculture and cutting-edge crop protection solutions, providing critical
+resources to advance Genvor’s mission of sustainable innovation in global agriculture.
+Going Concern
+These consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern, which contemplates, among other things, the realization
+of assets and the satisfaction of liabilities in the normal course of business.
+Several conditions and events
+cast substantial doubt about the Company’s ability to continue as a going concern. The Company requires capital for its contemplated
+operational and marketing activities to take place. As reflected in the accompanying consolidated financial statements, the Company had
+working capital deficit of approximately $1,728,000 at September 30, 2024 and had incurred recurring net losses and generated
+negative cash flow from operating activities of approximately $2,885,000 and $976,000 for the year ended September 30, 2024, respectively.
+The Company’s
+ability to raise additional capital through debt or future issuances of capital stock is unknown. The obtainment of additional
+financing, the successful development of the Company’s contemplated plan of operations, and its transition, ultimately, to
+the attainment of profitable operations are necessary for the Company to continue operations. The ability to successfully resolve
+these factors raises substantial doubt about the Company’s ability to continue as a going concern.
+The accompanying
+consolidated financial statements do not include any adjustments related to the recoverability or classification of asset-carrying
+amounts or the amounts and classification of liabilities that may result should we be unable to continue as a going concern.
+Critical
+Accounting Policies
+Use
+of Estimates
+The preparation
+of the consolidated financial statements in conformity with accounting principles generally accepted in the United States of America
+(“U.S. GAAP”) requires management to make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Changes in these estimates and assumptions may have a material impact on
+the consolidated financial statements and accompanying notes. Making estimates requires management to exercise significant judgment.
+It is at least reasonably possible that the estimate of the effect of a condition, situation or set of circumstances that existed
+at the date of the financial statements, which management considered in formulating its estimate, could change in the near term
+due to one or more future confirming events. Accordingly, the actual results could differ significantly from those estimates.
+Significant estimates
+during the years ended September 30, 2024 and 2023 include the valuation of deferred tax assets and the associated valuation allowances,
+and the valuation of stock-based compensation.
+18
+Income Taxes
+Income taxes are accounted for pursuant
+to ASC 740 “Accounting for Income Taxes,” which is an asset and liability approach that requires the recognition of
+deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in the Company’s
+financial statements or tax returns. The charge for taxes is based on the results for the period as adjusted for items, which are
+non-assessable or disallowed. It is calculated using tax rates that have been enacted or substantively enacted by the balance sheet
+date.
+Deferred tax is accounted for using the
+balance sheet liability method in respect of temporary differences arising from differences between the carrying amount of assets
+and liabilities in the financial statements and the corresponding tax basis used in the computation of assessable tax profit. In
+principle, deferred tax liabilities are recognized for all taxable temporary differences, and deferred tax assets are recognized
+to the extent that it is probable that taxable profit will be available against which deductible temporary differences can be utilized.
+Deferred tax is calculated using tax rates
+that are expected to apply to the period when the asset is realized or the liability is settled. Deferred tax is charged or credited
+in the income statement, except when it is related to items credited or charged directly to equity, in which case the deferred
+tax is changed to equity. Deferred tax assets and liabilities are offset when they related to income taxes levied by the same taxation
+authority and we intend to settle its current tax assets and liabilities on a net basis.
+Stock-based Compensation
+The Company accounts for stock-based compensation
+by measuring and recognizing compensation expense for all share-based awards, including stock warrants and stock grants, based
+on estimated grant-date fair values. The Company measures employee and nonemployee awards at the date of grant, which generally
+is the date at which the Company and the nonemployee reach a mutual understanding of the key terms and conditions of a share-based
+payment award.
+The Company uses the straight-line attribution
+method to allocate compensation cost to reporting periods over the requisite service period during which the employee or nonemployee
+is required to provide services in exchange for the award. The Company has elected to account for forfeitures of awards as
+they occur, with previously recognized compensation reversed in the period that the awards are forfeited.
+Recent Accounting
+Standards
+For details of applicable new accounting
+standards, please, refer to Recent Accounting Standards in Note 2 of our consolidated financial statements accompanying this report.
+RESULTS OF OPERATIONS
+Comparison of Results of Operations
+for the Years Ended September 30, 2024 and 2023
+Revenues
+We
+did not earn any revenues during the years ended September 30, 2024 and 2023.
+Operating Expenses
+For
+the years ended September 30, 2024 and 2023, operating expenses consisted of the following:
+Years Ended September 30,
+2024
+2023
+Research and development expenses
+$240,263
+$82,500
+Advertising and marketing expenses
+84,183
+—
+Professional fees
+1,071,509
+672,064
+Compensation and related benefits
+1,317,286
+771,856
+Other general and administrative
+69,806
+(87,734)
+$2,783,047
+$1,438,686
+19
+●For the year ended September 30, 2024, research and development expenses increased by $157,763,
+or 191.2%, as compared to the year ended September 30, 2023. The increase was primarily due to increased research projects in the
+year ended September 30, 2024. We expect that our research and development expenses will likely remain at its current level with
+minimal increase in the near future.
+●For the year ended September 30, 2024, advertising and marketing
+expenses increased by $84,183, or 100.0%, as compared to the year ended September 30, 2023. The increase was primarily due to increased
+advertising activities in the year ended September 30, 2024. We expect that our advertising and marketing expenses will likely
+remain at its current level with minimal increase in the near future.
+●Professional
+fees primarily consisted of accounting fees, audit fees, legal service fees, consulting fees,
+investor relations service charges, and other fees. For the year ended September 30, 2024,
+professional fees increased by $399,445 or 59.4% as compared to the year ended September
+30, 2023, which was primarily attributable to an increase in investor relations service chargers
+of approximately $166,000 resulting from the increased investor relations services to enhance
+the visibility of our company, an increase in accounting fees of approximately $127,000 mainly
+due to the increase in stock-based compensation of $100,000 which reflected the value of
+warrants granted and vested in the year ended September 30, 2024, an increase in recruiting
+service fees of $90,000, and an increase in other miscellaneous items of approximately $17,000.
+We expect that our professional fees will remain at their current level with minimal increases
+in the near future.
+●For the year ended September 30, 2024, compensation and related benefits increased by $545,430,
+or 70.7%, as compared to the year ended September 30, 2023. The significant increase was primarily attributable to an increase
+in stock-based compensation of $350,000 which reflected the value of warrants and common stock granted and vested to our management
+in the year ended September 30, 2024, and an increase in cash compensation of approximately $195,000 due to the increased personnel.
+We expect that our compensation and related benefits will continue to increase in the near future since we amended our chief executive
+officer’s employment agreement in December 2024.
+●Other general and administrative expenses mainly consisted
+of OTC listing fee, office supplies, travel and entertainment expenses, and other miscellaneous items. For the year ended September
+30, 2024, other general and administrative expenses increased by $157,540, or 179.6%, as compared to the year ended September 30,
+2023. The increase was mainly due to increased travel and other business activities.
+Loss from Operations
+As a result of the foregoing,
+for the year ended September 30, 2024, loss from operations amounted to $2,783,047, as compared to $1,438,686 for the year ended
+September 30, 2023, representing an increase of $1,344,361, or 93.4%.
+Other Expense
+Other expense mainly includes interest expense, loss
+on debt settlement, default penalties – late fees on a note payable, and other miscellaneous expense.
+Other expense, net, totaled $101,911 for the
+year ended September 30, 2024, as compared to $268,795 for the year ended September 30, 2023, a decrease of $166,884, or 62.1%,
+which was primarily attributable to a decrease in interest expense of approximately $26,000, mainly driven by the decrease in outstanding
+note payable, a decrease in loss on debt settlement of approximately $111,000, and a decrease in default penalties – late fees
+of $30,000.
+20
+Income Taxes
+We did not have
+any income taxes expense for the years ended September 30, 2024 and 2023 since we incurred losses in these periods.
+Net Loss
+As
+a result of the factors described above, our net loss was $2,884,958, or $0.15 per share (basic and diluted), for the year ended
+September 30, 2024, as compared to $1,707,481, or $0.09 per share (basic and diluted), for the year ended September 30, 2023, an increase
+of $1,177,477, or 69.0%.
+Liquidity and Capital
+Resources
+We
+have a limited operating history and our continued growth is dependent upon obtaining additional financing to fund future obligations
+and pay liabilities arising from ordinary course business operations. In addition, the current cash balance cannot be projected to cover
+our operating expenses for the next twelve months from the release date of this report. These matters raise substantial doubt about our
+ability to continue as a going concern. Our ability to continue as a going concern is dependent on our ability to raise additional capital,
+implement our business plan, and generate sufficient revenues. There are no assurances that we will be successful in our efforts to generate
+sufficient revenues, maintain sufficient cash balance or report profitable operations or to continue as a going concern. We plan to raise
+capital in the future through the sale of equity or debt to implement our business plan. However, there is no assurance these plans will
+be realized and that any additional financings will be available to us on satisfactory terms and conditions, if at all.
+Liquidity
+is the ability of a company to generate funds to support its current and future operations, satisfy its obligations as they come due and
+otherwise operate on an ongoing basis. At September 30, 2024 and 2023, we had a cash balance of $373 and $44,354, respectively.
+The following table sets
+forth a summary of changes in our working capital deficit from September 30, 2023 to September 30, 2024:
+September 30,
+September 30,
+Changes in
+2024
+2023
+Amount
+Percentage
+Working capital deficit:
+Total current assets
+$21,678
+$66,329
+$(44,651)
+(67.3)%
+Total current liabilities
+1,749,710
+1,787,059
+(37,349)
+(2.1)%
+Working capital deficit
+$(1,728,032)
+$(1,720,730)
+$(7,302)
+0.4%
+Our working capital deficit
+increased by $7,302 to $1,728,032 at September 30, 2024 from $1,720,730 at September 30, 2023. The increase in working capital deficit
+was primarily attributable to an increase in notes payable of approximately $78,000 which was mainly attributable to the late fees capitalized
+into notes payable in the year ended September 30, 2024, an increase in accrued professional fees of approximately $245,000 which was
+mainly attributable to the increase in professional services providers in the year ended September 30, 2024, an increase in accrued research
+and development fees of approximately $195,000 due to the increased research projects in the year ended September 30, 2024, and an increase
+in accrued payroll liability and compensation of approximately $238,000 which was primarily attributable to we hired a full time CEO in
+January 2024 and his salary was accrued and unpaid commencing on May 1, 2024, offset by a decrease in convertible notes payable of approximately
+$493,000 resulting from conversion of notes payable into our common stock and warrants in the year ended September 30, 2024, and a decrease
+in accrued liabilities and other payables of approximately $236,000 driven by the payments made to our related parties in the year ended
+September 30, 2024.
+21
+Cash
+Flows for the Year Ended September 30, 2024 Compared to the Year Ended September 30, 2023
+The
+following table summarizes the key components of our cash flows for the years ended September 30, 2024 and 2023:
+Years Ended September 30,
+2024
+2023
+Net cash used in operating activities
+$(975,641)
+$(864,557)
+Net cash provided by financing activities
+931,660
+612,525
+Net decrease in cash
+$(43,981)
+$(252,032)
+Net
+cash flow used in operating activities for the year ended September 30, 2024 was $975,641, which primarily reflected our consolidated
+net loss of approximately $2,885,000, and the changes in operating assets and liabilities, primarily consisting of a decrease in accrued
+liabilities and other payables of approximately $236,000 due to the payments made to our related parties in the year ended September 30,
+2024, offset by an increase in accrued professional fees of approximately $245,000 resulting from the increase in professional services
+providers in the year ended September 30, 2024, an increase in accrued research and development fees of approximately $195,000
+driven by the increased research projects in the year ended September 30, 2024, and an increase in accrued payroll liability and compensation
+of approximately $238,000 which was primarily attributable to we hired a full time CEO in January 2024 and his salary was accrued and
+unpaid commencing May 1, 2024, and the non-cash item adjustments, primarily consisting of late fee
+capitalized into notes payable of $90,000, and stock-based compensation and service expense of approximately $1,363,000 which was
+mainly attributable to the value of warrants granted and vested in the year ended September 30, 2024 of approximately $1,007,000 and the
+value of our common stock granted in the year ended September 30, 2024 of approximately $356,000.
+Net
+cash flow used in operating activities for the year ended September 30, 2023 was $864,557, which primarily reflected our consolidated
+net loss of approximately $1,707,000, and the changes in operating assets and liabilities, primarily consisting of a decrease in accrued
+payroll liability and compensation of approximately $166,000, and a decrease in USDA CRADA liability of approximately $246,000,
+offset by an increase in accrued professional fees of approximately $139,000, and the non-cash item adjustments, primarily consisting
+of loss on debt settlement of $105,000, and stock-based compensation and service expense of approximately $963,000.
+Net cash flow provided by
+financing activities was $931,660 for the year ended September 30, 2024, as compared to $612,525 for the year ended September
+30, 2023. During the year ended September 30, 2024, we received proceeds from issuance of convertible debt and warrants of $20,000 and
+proceeds from sale of common stock of approximately $912,000. During the year ended September 30, 2023, we received proceeds from notes
+payable of $250,000 and proceeds from sale of common stock of approximately $363,000.
+The following
+trends are reasonably likely to result in a material decrease in our liquidity over the near to long term:
+●
+an increase in working capital requirements to finance our current business;
+●
+the use of capital for acquisitions and the development of business opportunities; and
+●
+the cost of being a public company.
+In addition, the
+impact that the imposition of tariffs and changes to global trade policies could have on our results of operations is uncertain.
+Based upon our
+current financial condition, we do not have sufficient cash to operate our business at the current level for the next twelve months.
+We intend to fund operations through debt and/or equity financing arrangements, which may be insufficient to fund expenditures
+or other cash requirements. We plan to seek additional financing in a private equity offering to secure funding for operations.
+There can be no assurance that we will be successful in raising additional funding. If we are not able to secure additional funding,
+the implementation of our business plan will be impaired. There can be no assurance that such additional financing will be available
+to us on acceptable terms or at all.
+Inflation
+The
+effect of inflation on our operating results was not significant for the years ended September 30, 2024 and 2023.
+Item 7A. Quantitative and Qualitative
+Disclosures about Market Risk
+As
+a smaller reporting company, as defined in Rule 12b-2 of the Exchange Act, we are not required to provide the information required
+by this Item.
+22
+Item 8. Financial Statements and Supplementary
+Data
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+September 30, 2024 and 2023
+CONTENTS
+Report of Independent Registered Public Accounting Firm (PCAOB No. 474)
+F-2
+Report
+of Independent Registered Public Accounting Firm (PCAOB No. 76)
+F-3
+Consolidated
+Financial Statements:
+Consolidated Balance Sheets - As of September 30, 2024 and 2023
+F-4
+Consolidated Statements of Operations - For the Years Ended September 30, 2024 and 2023
+F-5
+Consolidated Statements of Changes in Stockholders’ Deficit - For the Years Ended September 30, 2024 and 2023
+F-6
+Consolidated Statements of Cash Flows –For the Years Ended September 30, 2024 and 2023
+F-7
+Notes to Consolidated Financial Statements
+F-8
+F-1
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the
+Board of Directors and Stockholders of
+Genvor
+Incorporated and Subsidiaries
+Opinion
+on the Financial Statements
+We
+have audited the accompanying consolidated balance sheet of Genvor Incorporated and Subsidiaries (the “Company”) as of September
+30, 2024, and the related consolidated statements of operations, changes in stockholders’ deficit, and cash flows for the year
+ended September 30, 2024, and the related notes (collectively referred to as the financial statements). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of the Company as of September 30, 2024, and the results
+of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United
+States of America.
+Going
+Concern
+The
+accompanying financial statements have been prepared assuming that the entity will continue as a going concern. As discussed in Note
+1 to the financial statements, the Company has suffered recurring losses from operations, has a net capital deficiency and has not yet
+generated any revenues. This raises substantial doubt about the Company’s ability to continue as a going concern. Management’s
+plans in regard to these matters are also described in Note 1 to the financial statements. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Critical
+Audit Matters
+Critical
+audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be
+communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and
+(2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters.
+San
+Francisco, CA
+Novogradac
+& Company LLP
+We have
+served as the Company’s auditor since 2024.
+Plantation,
+Florida
+August
+1, 2025
+F-2
+Report
+of Independent Registered Public Accounting Firm
+Board
+of Directors and Shareholders
+Genvor Incorporated and Subsidiaries
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance
+sheet of Genvor Incorporated and Subsidiaries (the “Company”) as of September 30, 2023, and the related consolidated
+statements of operations, changes in stockholders’ deficit, and cash flows for the year then ended, and the related notes (collectively
+referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly,
+in all material respects, the financial position of the Company as of September 30, 2023, and the results of its operations and its cash
+flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the consolidated financial statements,
+the Company has suffered recurring losses from operations and has a net capital deficiency that raise substantial doubt about its ability
+to continue as a going concern. Management's plans in regard to these matters are also described in Note 1. The consolidated financial
+statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These consolidated financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our
+audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB")
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+/s/ Turner, Stone & Company, L.L.P.
+Turner,
+Stone & Company, L.L.P
+We served as the Company’s auditor from 2020 to 2024.
+Dallas,
+Texas
+January
+16, 2024
+F-3
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+September 30,
+2024
+2023
+ASSETS
+CURRENT ASSETS:
+Cash
+$373
+$44,354
+Prepaid expense
+21,305
+21,975
+Total Current Assets
+21,678
+66,329
+NON-CURRENT ASSETS:
+Property and equipment, net
+13,902
+15,734
+Total Non-current Assets
+13,902
+15,734
+Total Assets
+$35,580
+$82,063
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+CURRENT LIABILITIES:
+Convertible notes payable
+$7,408
+$500,000
+Notes payable
+897,000
+819,500
+Interest payable
+121
+63,975
+Accrued professional fees
+253,264
+8,309
+Accrued research and development fees
+194,656
+—
+Accrued payroll liability and compensation
+282,846
+44,500
+Accrued liabilities and other payables
+65,665
+302,025
+SBA loan
+48,750
+48,750
+Total Current Liabilities
+1,749,710
+1,787,059
+Total Liabilities
+1,749,710
+1,787,059
+Commitments and Contingencies (Note 7)
+—
+STOCKHOLDERS’ DEFICIT:
+Preferred stock, $0.001 par value; 20,000,000 shares authorized; Series A Preferred Stock, 10 shares authorized; 6 shares issued and outstanding at September 30, 2024 and 2023
+—
+—
+Series B Preferred Stock, 2,500,000 shares authorized; 2,060,536 shares issued and 1,558,024 shares outstanding at September 30, 2024 and 2023
+2,061
+2,061
+Common stock, $0.001
+par value; 300,000,000 shares authorized;
+20,029,608 and 19,061,936
+shares issued and outstanding at September 30, 2024 and 2023, respectively
+20,030
+19,062
+Additional paid-in capital
+19,168,044
+16,293,188
+Less: series B preferred stock held in treasury, at cost; 502,512 shares at September 30, 2024 and 2023
+(300,000)
+(300,000)
+Accumulated deficit
+(20,604,265)
+(17,719,307)
+Total Stockholders’ Deficit
+(1,714,130)
+(1,704,996)
+Total Liabilities and Stockholders’ Deficit
+$35,580
+$82,063
+See
+accompanying notes to the consolidated financial statements.
+F-4
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Years Ended September 30,
+2024
+2023
+REVENUE
+$—
+$—
+OPERATING EXPENSES:
+Research and development expenses
+240,263
+82,500
+Advertising and marketing expenses
+84,183
+—
+Professional fees
+1,071,509
+672,064
+Compensation and related benefits
+1,317,286
+771,856
+Other general and administrative expenses
+69,806
+(87,734)
+Total Operating Expenses
+2,783,047
+1,438,686
+LOSS FROM OPERATIONS
+(2,783,047)
+(1,438,686)
+OTHER EXPENSE
+Interest expense
+(17,693)
+(43,795)
+Gain (loss) on debt settlement
+5,826
+(105,000)
+Penalties
+(90,000)
+(120,000)
+Other expense
+(44)
+—
+Total Other Expense
+(101,911)
+(268,795)
+LOSS BEFORE INCOME TAXES
+(2,884,958)
+(1,707,481)
+INCOME TAXES
+—
+—
+NET LOSS
+$(2,884,958)
+$(1,707,481)
+NET LOSS PER COMMON SHARE:
+Basic and diluted
+$(0.15)
+$(0.09)
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING:
+Basic and diluted
+19,879,772
+19,545,725
+See
+accompanying notes to the consolidated financial statements.
+F-5
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ DEFICIT
+For the Years Ended September 30, 2023 and 2024
+Series
+A
+Series
+B
+Treasury
+Stock
+Preferred
+Stock
+Preferred
+Stock
+Common
+Stock
+Series
+B Preferred Stock
+Number
+Number
+Number
+Additional
+Number
+Total
+of
+of
+of
+Paid-in
+of
+Accumulated
+Stockholders’
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Capital
+Shares
+Amount
+Deficit
+Deficit
+Balance, October 1, 2022
+9
+$
+—
+—
+$
+—
+38,678,155
+$
+38,678
+$
+14,608,815
+—
+$
+—
+$
+(16,041,937
+)
+$
+(1,394,444
+)
+Retrospective adoption of ASU 2020-06
+—
+—
+—
+—
+—
+—
+(210,779
+)
+—
+—
+30,111
+(180,668
+)
+Conversion of common stock into Series B preferred
+stock
+—
+—
+2,060,536
+2,061
+(20,605,334
+)
+(20,605
+)
+18,544
+—
+—
+—
+—
+Sale of common stock
+—
+—
+—
+—
+735,000
+735
+361,790
+—
+—
+—
+362,525
+Conversion of note payable into common stock
+—
+—
+—
+—
+122,115
+122
+78,511
+—
+—
+—
+78,633
+Conversion of notes payable into warrants
+—
+—
+—
+—
+—
+—
+354,114
+—
+—
+—
+354,114
+Issuance of warrants for services
+—
+—
+—
+—
+—
+—
+962,900
+—
+—
+—
+962,900
+Conversion of liabilities into common stock
+—
+—
+—
+—
+32,000
+32
+19,303
+—
+—
+—
+19,335
+Issuance of common stock for legal settlement
+—
+—
+—
+—
+100,000
+100
+99,990
+—
+—
+—
+100,090
+Return of treasury stock
+(3
+)
+—
+—
+—
+—
+—
+—
+(502,512
+)
+(300,000
+)
+—
+(300,000
+)
+Net loss for the year
+—
+—
+—
+—
+—
+—
+—
+—
+—
+(1,707,481
+)
+(1,707,481
+)
+Balance, September 30, 2023
+6
+—
+2,060,536
+2,061
+19,061,936
+19,062
+16,293,188
+(502,512
+)
+(300,000
+)
+(17,719,307
+)
+(1,704,996
+)
+Sale of common stock
+—
+—
+—
+—
+956,600
+957
+910,643
+—
+—
+—
+911,600
+Issuance of common stock erroneously omitted
+from prior year
+—
+—
+—
+—
+110,000
+110
+(110
+)
+—
+—
+—
+—
+Issuance of common stock for services
+—
+—
+—
+—
+301,072
+301
+355,949
+—
+—
+—
+356,250
+Issuance of warrants for services
+—
+—
+—
+—
+—
+—
+1,007,100
+—
+—
+—
+1,007,100
+Issuance of warrants for conversion of note payable
+—
+—
+—
+—
+—
+—
+329,418
+—
+—
+—
+329,418
+Issuance of common stock for conversion of note
+payable
+—
+—
+—
+—
+40,000
+40
+48,023
+—
+—
+—
+48,063
+Conversion of debt for common stock subscribed
+—
+—
+—
+—
+—
+—
+210,000
+—
+—
+—
+210,000
+Cancellation of common stock
+—
+—
+—
+—
+(500,000
+)
+(500
+)
+500
+—
+—
+—
+—
+Issuance of common stock upon exercise of stock
+warrants
+—
+—
+—
+—
+60,000
+60
+—
+—
+—
+—
+60
+Allocated value of warrants related to issuance
+of convertible debt
+—
+—
+—
+—
+—
+—
+13,333
+—
+—
+—
+13,333
+Net loss for the year
+—
+—
+—
+—
+—
+—
+—
+—
+—
+(2,884,958
+)
+(2,884,958
+)
+Balance, September 30, 2024
+6
+$
+—
+2,060,536
+$
+2,061
+20,029,608
+$
+20,030
+$
+19,168,044
+(502,512
+)
+$
+(300,000
+)
+$
+(20,604,265
+)
+$
+(1,714,130
+)
+See
+accompanying notes to the consolidated financial statements.
+F-6
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the
+Years Ended
+September
+30,
+2024
+2023
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss
+$
+(2,884,958
+)
+$
+(1,707,481
+)
+Adjustments
+to reconcile net loss to net cash used in operating activities:
+Depreciation expense
+1,832
+1,832
+Late fee related to
+notes payable
+90,000
+—
+(Gain) loss on debt
+settlement
+(5,826
+)
+105,000
+Amortization of
+debt discount
+741
+—
+Stock-based compensation
+and service expense
+1,363,350
+962,900
+Non-cash other
+expense
+16,832
+—
+Changes in operating
+assets and liabilities:
+Prepaid expense
+670
+(21,975
+)
+Other current assets
+—
+2,000
+Interest payable
+121
+23,603
+Accrued professional
+fees
+244,955
+139,159
+Accrued research
+and development fees
+194,656
+—
+Accrued payroll
+liability and compensation
+238,346
+(166,484
+)
+Accrued liabilities
+and other payables
+(236,360
+)
+43,289
+USDA CRADA liability
+—
+(246,400
+)
+NET CASH USED IN OPERATING ACTIVITIES
+(975,641
+)
+(864,557
+)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from issuance
+of convertible debt and warrants
+20,000
+—
+Proceeds from notes
+payable
+—
+250,000
+Proceeds from sale
+of common stock
+911,600
+362,525
+Proceeds from common
+stock warrant exercises
+60
+—
+NET CASH PROVIDED BY FINANCING ACTIVITIES
+931,660
+612,525
+NET DECREASE IN CASH
+(43,981
+)
+(252,032
+)
+CASH - beginning of year
+44,354
+296,386
+CASH - end of year
+$
+373
+$
+44,354
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid for:
+Interest
+$
+—
+$
+—
+Income taxes
+$
+—
+$
+—
+NON-CASH INVESTING AND FINANCING ACTIVITIES:
+Conversion of note
+payable into common stock
+$
+48,063
+$
+78,633
+Conversion of debt
+for common stock subscribed
+$
+210,000
+$
+-
+Conversion of liabilities
+into common stock
+$
+—
+$
+149,425
+Conversion of notes
+payable into warrants
+$
+329,418
+$
+354,114
+Allocated value of warrants
+related to convertible debt
+$
+13,333
+$
+—
+Late fee capitalized into notes payable
+$
+—
+$
+120,000
+Retrospective adoption of ASU 2020-06
+$
+—
+$
+210,779
+Liabilities issued in exchange for stock in settlement
+$
+—
+$
+300,000
+Conversion of note payable into common stock
+$
+—
+$
+185,544
+See
+accompanying notes to the consolidated financial statements.
+F-7
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+1 – ORGANIZATION AND BASIS OF PRESENTATION
+Company
+Background
+On
+May 27, 2022, Genvor Incorporated, formerly known as Allure Worldwide, Inc. (the “Company” or “Genvor”
+or “we”), a Nevada corporation, Genvor Acquisition, Corp., a Delaware corporation and a wholly owned subsidiary of
+the Company (“Merger Sub”), and Genvor Inc., a Delaware corporation (“Old Genvor”), completed their previously
+announced merger transaction pursuant to which the Company acquired Old Genvor (the “Acquisition”), and Old Genvor
+became a wholly-owned subsidiary of the Company. The Acquisition was completed pursuant to an Exchange Agreement, dated as of
+January 11, 2021 (the “Acquisition Agreement”), pursuant to which Old Genvor was acquired by the Company as its wholly
+owned subsidiary and each share of Old Genvor common stock was exchanged for a share of the Company’s common stock, and
+a merger agreement, dated March 2, 2022 (the “Merger Agreement”), pursuant to which Merger Sub merged with and into
+Old Genvor, with Old Genvor continuing as a wholly owned subsidiary of the Company and the surviving corporation of the merger,
+and each share of Old Genvor was converted into the right to receive a share of the Company (the “Merger”). After
+closing of the Merger, the Company was renamed “Genvor Incorporated.”
+For
+accounting purposes, Old Genvor was the surviving entity. The transaction was accounted for as a recapitalization of Old Genvor,
+pursuant to which Old Genvor was treated as the accounting acquirer, surviving and continuing entity although the Company was
+the legal acquirer. The Company did not recognize goodwill or any intangible assets in connection with this transaction. Accordingly,
+the Company’s historical financial statements are those of Old Genvor and its wholly owned subsidiary, Nexion Biosciences
+LLC (“NBLLC”) immediately following the consummation of this reverse merger transaction.
+During
+May 2019, Old Genvor acquired NBLLC from a founder for nominal consideration as a wholly owned subsidiary. NBLLC was formed in
+the state of Delaware on December 28, 2018. Currently, NBLLC is dormant.
+Genvor
+develops plant-based defense technology designed to help farmers achieve global food security.
+Business
+Plan and Strategy
+Genvor’s
+business strategy focuses on the continued research and development of plant-based defense technologies designed to address major
+threats to global crop production, including plant diseases, toxins, bacteria, and fungi. These innovations aim to support farmers
+and growers worldwide by reducing crop loss, improving yields, and enhancing economic outcomes, ultimately contributing to solutions
+for global food security.
+The
+Company is advancing its portfolio of antimicrobial peptide (AMP) technologies by designing and validating minimum viable products
+(MVPs) and expanding its collaborations to include foliar application models, seed traits, and seed treatment platforms. In parallel,
+Genvor is leveraging its proprietary peptide library to address additional high-value market opportunities in crop protection—such
+as insect control, biostimulants, and nutrient use efficiency—as well as adjacent applications in animal health and feed
+efficiency.
+Genvor’s
+commercial model is centered around forming joint development agreements (JDAs) and strategic joint ventures targeted at specific
+problems, crops, animal applications, or geographic markets. These partnerships are intended to accelerate product development
+and commercialization while expanding market access.
+Basis
+of Presentation and Principles of Consolidation
+The
+accompanying consolidated financial statements and related notes have been prepared in accordance with accounting principles generally
+accepted in the United States of America (“U.S. GAAP”) and with the rules and regulations of the United States Securities
+and Exchange Commission for financial information.
+The
+Company’s consolidated financial statements include the accounts of Genvor Incorporated, Old Genvor and its wholly owned
+subsidiary NBLLC. All intercompany accounts and transactions have been eliminated in consolidation.
+F-8
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+1 – ORGANIZATION AND BASIS OF PRESENTATION (continued)
+Liquidity
+and Going Concern
+Liquidity
+is the ability of a company to generate funds to support its current and future operations, satisfy its obligations and otherwise
+operate on an ongoing basis. At September 30, 2024, the Company had cash of $373.
+The
+accompanying consolidated financial statements have been prepared assuming the Company will continue as a going concern, which contemplates,
+among other things, the realization of assets and satisfaction of liabilities in the normal course of business. As reflected in the accompanying
+consolidated financial statements, the Company had a working capital deficit of approximately $1,728,000
+at September 30, 2024 and had incurred recurring net losses
+and generated negative cash flow from operating activities of approximately $2,885,000
+and $976,000
+for the year ended September 30, 2024, respectively, with no
+revenues earned, and limited operational history. These matters, among others, raise substantial doubt about the Company’s ability
+to continue as a going concern.
+While
+the Company is currently developing its products and technologies, the Company’s cash position may not be significant enough
+to support the Company’s daily operations. Management intends to raise additional funds by way of additional public and/or
+private offerings of its stock. Management believes that the actions presently being taken to further implement its business plan,
+develop its products and technologies, and generate revenues should provide the opportunity for the Company to continue as a going
+concern. While the Company believes in the viability of its strategy to generate revenues and in its ability to raise additional
+funds in the future, there can be no assurances to that effect. The ability of the Company to continue as a going concern is dependent
+upon the Company’s ability to further implement its business plan and generate cash flows from financing activities or operating
+activities.
+The
+accompanying consolidated financial statements do not include any adjustments related to the recoverability or classification
+of asset-carrying amounts or the amounts and classification of liabilities that may result should the Company be unable to continue
+as a going concern.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Use
+of Estimates
+The
+preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses during the reporting period. Changes in these estimates
+and assumptions may have a material impact on the consolidated financial statements and accompanying notes. Making estimates requires
+management to exercise significant judgment. It is at least reasonably possible that the estimate of the effect of a condition,
+situation or set of circumstances that existed at the date of the financial statements, which management considered in formulating
+its estimate, could change in the near term due to one or more future confirming events. Accordingly, the actual results could
+differ significantly from those estimates.
+Significant
+estimates during the years ended September 30, 2024 and 2023 include the valuation of deferred tax assets and the associated valuation
+allowances, and the valuation of stock-based compensation.
+Cash
+and Cash Equivalents
+For
+purposes of the consolidated statements of cash flows, the Company considers all highly liquid instruments with a maturity of
+three months or less when purchased and money market accounts to be cash equivalents. The Company had no cash equivalents at September
+30, 2024 and 2023.
+The
+Company maintains its cash on deposits with bank and financial institution within the United States that at times may exceed federally-insured
+limits of $250,000. The Company manages this credit risk by concentrating its cash balances in high quality financial institutions
+and by periodically evaluating the credit quality of the primary financial institutions holding such deposits. The Company has
+not experienced any losses in such bank accounts and believes it is not exposed to any risks on its cash in bank accounts. At
+September 30, 2024, the Company’s cash balances were not in excess of the federally-insured limits.
+F-9
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+Fair
+Value of Financial Instruments and Fair Value Measurements
+The
+Company adopted the guidance of Accounting Standards Codification (“ASC”) 820 for fair value measurements which clarifies
+the definition of fair value, prescribes methods for measuring fair value, and establishes a fair value hierarchy to classify
+the inputs used in measuring fair value as follows:
+●Level
+1-Inputs are unadjusted quoted prices in active markets for identical assets or liabilities
+available at the measurement date.
+●Level
+2-Inputs are unadjusted quoted prices for similar assets and liabilities in active markets,
+quoted prices for identical or similar assets and liabilities in markets that are not
+active, inputs other than quoted prices that are observable, and inputs derived from
+or corroborated by observable market data.
+●Level
+3-Inputs are unobservable inputs which reflect the reporting entity’s own assumptions
+on what assumptions the market participants would use in pricing the asset or liability
+based on the best available information.
+The
+fair value of the Company’s assets and liabilities, which qualify as financial instruments under ASC Topic 820, “Fair
+Value Measurement,” approximates the carrying amounts represented in the accompanying consolidated financial statements,
+primarily due to their short-term nature.
+ASC
+825-10 “Financial Instruments”, allows entities to voluntarily choose to measure certain financial assets and liabilities
+at fair value (fair value option). The fair value option may be elected on an instrument-by-instrument basis and is irrevocable,
+unless a new election date occurs. If the fair value option is elected for an instrument, unrealized gains and losses for that
+instrument should be reported in earnings at each subsequent reporting date. The Company did not elect to apply the fair value
+option to any outstanding instruments.
+Property
+and Equipment
+Property
+and equipment are carried at cost less accumulated depreciation, and are depreciated on a straight-line basis over the estimated
+useful lives of the assets. The cost of repairs and maintenance is expensed as incurred; major replacements and improvements are
+capitalized. When assets are retired or disposed of, the cost and accumulated depreciation are removed from the accounts, and
+any resulting gains or losses are included in income in the period of disposition. The Company examines the possibility of decreases
+in the value of fixed assets when events or changes in circumstances reflect the fact that their recorded value may not be recoverable.
+Impairment
+of Long-lived Assets
+In
+accordance with ASC Topic 360, the Company reviews long-lived assets for impairment whenever events or changes in circumstances
+indicate that the carrying amount of the assets may not be fully recoverable, or at least annually. The Company recognizes an
+impairment loss when the sum of expected undiscounted future cash flows is less than the carrying amount of the asset. The amount
+of impairment is measured as the difference between the asset’s estimated fair value and its book value. During the years
+ended September 30, 2024 and 2023, the Company did not incur any impairment charges on its long-lived assets.
+Research
+and Development
+Expenditures
+for research and product development costs are expensed as incurred. The Company incurred research and development expense of
+$240,263 and $82,500 in the years ended September 30, 2024 and 2023, respectively.
+Advertising
+and Marketing Costs
+All
+costs related to advertising and marketing are expensed as incurred. For the years ended September 30, 2024 and 2023, advertising
+and marketing costs amounted to $84,183 and $0, respectively.
+Commitments
+and Contingencies
+In
+the normal course of business, the Company is subject to contingencies, such as legal proceedings and claims arising out of its
+business, that cover a wide range of matters. Liabilities for such contingencies are recorded when it is probable that a liability
+has been incurred and the amount of the assessment can be reasonably estimated.
+F-9
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+Stock-based
+Compensation
+The
+Company accounts for stock-based compensation by measuring and recognizing compensation expense for all share-based awards, including
+stock warrants and stock grants, based on estimated grant-date fair values. The Company measures employee and nonemployee awards
+at the date of grant, which generally is the date at which the Company and the nonemployee reach a mutual understanding of the
+key terms and conditions of a share-based payment award.
+The
+Company uses the straight-line attribution method to allocate compensation cost to reporting periods over the requisite service
+period during which the employee or nonemployee is required to provide services in exchange for the award. The Company has elected
+to account for forfeitures of awards as they occur, with previously recognized compensation reversed in the period that the awards
+are forfeited.
+Income
+Taxes
+The
+Company accounts for income taxes using the asset/liability method prescribed by ASC 740, “Income Taxes.” Under this
+method, deferred tax assets and liabilities are determined based on the difference between the financial reporting and tax bases
+of assets and liabilities using enacted tax rates that will be in effect in the period in which the differences are expected to
+reverse. The Company records a valuation allowance to offset deferred tax assets if, based on the weight of available evidence,
+it is more-likely-than-not that some portion, or all, of the deferred tax assets will not be realized. The effect on deferred
+taxes of a change in tax rates is recognized as income or loss in the period that includes the enactment date.
+The
+Company follows the accounting guidance for uncertainty in income taxes using the provisions of ASC 740 “Income Taxes”.
+Using that guidance, the benefit for tax positions taken can only be recognized in the financial statements when it is more likely
+than not the position will be sustained upon examination by the tax authorities. As of September 30, 2024 and 2023, the Company
+had no significant uncertain tax positions which would require either recognition of a liability or disclosure in the financial
+statements. The Company recognizes interest and penalties related to significant uncertain income tax positions in income tax
+expense. However, no such interest and penalties were recorded as of September 30, 2024 and 2023.
+Per
+Share Data
+ASC
+Topic 260 “Earnings per Share,” requires presentation of both basic and diluted earnings per share (“EPS”)
+with a reconciliation of the numerator and denominator of the basic EPS computation to the numerator and denominator of the diluted
+EPS computation. Basic EPS excludes dilution. Diluted EPS reflects the potential dilution that could occur if securities or other
+contracts to issue common stock were exercised or converted into common stock or resulted in the issuance of common stock that
+then shared in the earnings of the entity.
+Basic
+net loss per share is computed by dividing net loss available to common stockholders by the weighted average number of shares
+of common stock outstanding during the period. Diluted net loss per share is computed by dividing net loss by the weighted average
+number of shares of common stock, common stock equivalents and potentially dilutive securities outstanding during each period.
+For the years ended September 30, 2024 and 2023, potentially dilutive common shares consist of the common shares issuable upon
+the conversion of convertible preferred stock and convertible notes (using the if-converted method) and exercise of common stock
+warrants (using the treasury stock method). Common stock equivalents are not included in the calculation of diluted net loss per
+share if their effect would be anti-dilutive. In a period in which the Company has a net loss, all potentially dilutive securities
+are excluded from the computation of diluted shares outstanding as they would have had an anti-dilutive impact.
+The
+following table summarizes the securities that were excluded from the diluted per share calculation because the effect of including
+these potential shares was antidilutive:
+Schedule of antidilutive shares
+Years Ended September 30,
+2024
+2023
+Warrants to purchase common stock
+3,650,000
+2,362,900
+Series A convertible preferred stock
+6
+6
+Series B convertible preferred stock
+15,580,223
+15,580,223
+Shares attributable to convertible notes
+20,000
+164,000
+Potentially dilutive securities
+19,250,229
+18,107,129
+F-10
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+Segment
+Reporting
+The
+segment reporting structure uses the Company’s management reporting structure as its foundation to reflect how the Company
+manages the businesses internally and is mainly organized by products. During the years ended September 30, 2024 and 2023, the
+Company is organized into one strategic business unit. Operating segments are defined as components of an enterprise for which
+separate financial information is available and evaluated regularly by the chief operating decision maker (“CODM”)
+in deciding how to make operating decisions, allocate resources and assess performance. The Company’s Chief Executive Officer
+(“CEO”) is its CODM.
+Reclassification
+Certain prior period amounts have been reclassified
+to conform to the current period presentation, including breakouts within current liabilities, breakouts within operating expenses,
+and breakouts within the statement of cash flows. These reclassifications have no effect on the previously reported financial position,
+results of operations and cash flows.
+Recent
+Accounting Standards
+In
+November 2023, the FASB issued ASU 2023-07, Improvements to Reportable Segment Disclosures, which enhances reportable segment
+disclosure requirements, including significant segment expenses and interim disclosures (“Topic 280”). The guidance
+allows for disclosure of multiple measures of a reportable segment’s profit or loss, and it requires that public entities
+with a single reportable segment provide all disclosures required by the ASU and all existing disclosures in Topic 280. ASC 2023-07
+is effective for fiscal years beginning after December 15, 2023 and for interim reporting periods starting after December 15,
+2024, with early adoption permitted. The Company adopted the new standard effective June 30, 2024 on a retrospective basis. The
+adoption of this ASU affects only the Company’s disclosures, with no impacts to its financial condition or results of operations.
+In
+December 2023, the FASB ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. This guidance is intended
+to enhance the transparency and decision-usefulness of income tax disclosures. The amendments in ASU 2023-09 address investor
+requests for enhanced income tax information primarily through changes to disclosure regarding rate reconciliation and income
+taxes paid both in the U.S. and in foreign jurisdictions. ASU 2023-09 is effective for fiscal years beginning after December 15,
+2024 on a prospective basis, with the option to apply the standard retrospectively. Early adoption is permitted. The Company expects
+that the adoption will not have a material impact on its consolidated financial statements.
+Other
+accounting standards that have been issued or proposed by FASB that do not require adoption until a future date are not expected
+to have a material impact on the consolidated financial statements upon adoption. The Company does not discuss recent pronouncements
+that are not anticipated to have an impact on or are unrelated to its consolidated financial condition, results of operations,
+cash flows or disclosures.
+NOTE
+3 – BORROWINGS
+Notes
+Payable
+From
+time to time, the Company entered into unsecured notes payable with individual investors. The terms of these notes are listed
+below.
+Schedule of unsecured notes payable
+Interest
+Note Balance as of September 30,
+Noteholder
+Origination
+Maturity
+Rate
+2024
+2023
+Brent Lilienthal (*)
+2019
+12/31/2021
+0%
+$ 217,000$
+217,000
+Mel Wentz (*)
+3/19/2019
+4/29/2019
+0%
+680,000
+570,000
+Kirk Huntsman (**)
+3/1/2019
+2/29/2020
+18%
+—
+32,500
+John Hare (**)
+4/29/2019
+unspecified
+0%
+—
+300,000
+Barkley Capital LLC (**)
+9/13/2023
+3/13/2024
+10%
+—
+200,000
+Chris Peterman (***)
+9/9/2024
+9/9/2025
+10%
+20,000
+—
+Total principal amount
+914,000
+1,319,500
+Less: unamortized debt discount
+(12,592)
+—
+$904,408
+$1,319,500
+F-11
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+3 – BORROWINGS (continued)
+Notes
+Payable (continued)
+(*)
+These notes are past due and amounts owed are in dispute at both September 30, 2024 and 2023. On May 15, 2025, the Company and
+Brent Lilienthal entered into a settlement agreement, pursuant to which, the Company settled $217,000 debt owed by issuance of
+120,000 shares of common stock of the Company (see Note 8).
+(**)
+These notes were converted into shares of common stock or stock warrants of the Company in the year ended September 30, 2024 as
+described below.
+(***)
+On September 9, 2024, the Company and Chris Peterman entered
+into a convertible promissory note agreement, providing for the issuance of a note in the principal amount of $20,000. The note is
+due on September 9, 2025. Principal amount is convertible into shares of common stock of the Company at a conversion price of $1.00
+per share. In addition, the Company issued Chris Peterman a stock purchase warrant to acquire 40,000 shares of common stock of the
+Company at a per share price of $0.01 (“Pre-Funded Warrants”). The Pre-Funded Warrants are exercisable at September
+9, 2025 and until the Pre-Funded Warrants are exercised in full.. In accordance with ASC 470-20-25-2, proceeds from the sale of
+a debt instrument with stock purchase warrants are allocated to the two elements based on the relative fair values of the debt instrument
+without the warrants and of the warrants themselves at time of issuance. The portion of the proceeds so allocated to the warrants are
+accounted for as additional paid-in capital. The remainder of the proceeds are allocated to the debt instrument portion of the transaction.
+The fair value of the warrants issued to the investor was $40,000. Therefore, the Company recorded debt discount of $13,333 related
+to the warrants issued to the investor, which will be amortized over the term of the note. For the year ended September 30, 2024, amortization
+of debt discount related to the note payable amounted to $741, which have been included in interest expense on the accompanying consolidated
+statements of operations.
+Mel
+Wentz receives a default penalty of $10,000
+each month and the note goes unpaid. The Company is currently
+disputing amount claimed by Mel Wentz under state usury laws (see Note 7). On July 14, 2025, the Company received a letter from a third
+party legal counsel which states the loan agreement appears to be invalid under Texas usury laws. Therefore, commencing on July 1, 2024,
+the monthly penalty of $10,000
+is not accrued any more.
+On
+December 15, 2023, Kirk Huntsman converted its note with the principal amount of $32,500 and unpaid interest of $15,563 into 40,000
+shares of common stock of the Company (see Note 4).
+On
+November 11, 2023, John Hare converted its note with the principal amount of $300,000 into 300,000 warrants of the Company (see
+Note 4).
+On
+March 9, 2024, Barkley Capital LLC converted its note with the principal amount of $200,000 and unpaid interest of $10,000 into
+210,000 shares of common stock of the Company (see Note 4).
+Interest
+expense totaled $17,693 and
+$43,795 for
+the years ended September 30, 2024 and 2023, respectively. Default penalties - late fees totaled $90,000
+and $120,000
+for the years ended September 30,
+2024 and 2023, respectively. These late fees are in dispute and have been included in note payable on the accompanying consolidated
+balance sheets.
+Commercial
+Loan
+On
+April 9, 2020, the Company received a loan from the Small Business Administration pursuant to the Paycheck Protection Program
+(“PPP”) in the principal amount of $48,750. The note bears interest at a variable rate of approximately 1% and matured
+in April 2022. The note is currently in default. Forgiveness for the loan was applied for and is pending.
+NOTE
+4 – STOCKHOLDERS’ DEFICIT
+Preferred
+Stock
+The
+authorized preferred stock of the Company consists of 20,000,000 shares with a $0.001 par value.
+F-12
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+4 – STOCKHOLDERS’ DEFICIT (continued)
+Preferred
+Stock (continued)
+Series
+A Preferred Stock
+On
+August 10, 2022, the Company designated 10 shares of its preferred stock as Series A Preferred Stock (“Series A”).
+Each share of Series A entitles the holder to ten million (10,000,000) votes on all matters submitted to a vote of the stockholders
+of the Corporation. When and as any dividend or distribution is declared or paid by the Company on the common stock, the Series
+A holders are entitled to participate in such dividend or distribution. Each Series A share is convertible, at the option of the
+holder, into one share of fully paid and non-assessable common stock. Upon any liquidation, dissolution, or winding-up of the
+Company, the Series A holders are entitled to receive out the assets of the Company, for each share of Series A, an amount equal
+to par value before any distribution or payment shall be made to the holder of any junior securities (including common stock and
+all other equity or equity equivalent securities of the Company).
+The
+preferred stock was issued on August 16, 2022, as follows: Bradley White (former CEO), 3 shares; Dr. Clayton Yates, 3 shares;
+and Dr. Jesse Jaynes, 3 shares.
+On
+September 28, 2023, Mr. White returned to the Company for cancellation of 3 shares of Series A preferred stock.
+As
+of both September 30, 2024 and 2023, there were 6 shares of Series A preferred stock issued and outstanding.
+Series
+B Preferred Stock
+On
+October 19, 2022, the Company filed a Certificate of Designation with the State of Nevada to designate its Series B Preferred
+Stock (“Series B”). The designation authorized 2,500,000 shares of Series B. Each share of Series B shall have 10
+votes on all matters submitted to a vote of the stockholders of the Company. Each share of Series B is convertible into 10 shares
+of common stock of the Company.
+On
+October 19, 2022, the following shareholders converted shares of common stock of the Company into shares of Series B to modify
+the common shares outstanding to reduce the outstanding common stock issued by the Company, as follows:
+Schedule of shareholders converted shares of common stock into shares of Series B
+Name
+Common Shares Exchanged
+Series B Issued
+Jaynes Investment LLC (*)
+2,000,000
+200,000
+ACT Holdings LLC (*)
+7,312,612
+731,262
+LASB Family Trust (*)
+3,800,111
+380,012
+Jesse Michael Jaynes (*)
+4,767,611
+476,762
+Bradley White (*)
+1,225,000
+122,500
+PJ Advisory Group
+1,500,000
+150,000
+Total
+20,605,334
+2,060,536
+(*)
+Related parties
+On
+September 28, 2023, Mr. White and the LASB Family Trust returned to the Company for cancellation of 502,512 shares of Series B
+preferred stock; however, the shares have not been canceled and are being held in treasury stock.
+There
+were 2,060,536 issued and 1,558,024 outstanding as of both September 30, 2024 and 2023.
+Common
+Stock
+The
+authorized common stock of the Company consists of 300,000,000 shares with a $0.001 par value. All common stock shares are non-assessable
+and have one vote per share.
+F-13
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+4 – STOCKHOLDERS’ DEFICIT (continued)
+Common
+Stock Sold for Cash
+On
+November 17, 2022, the Company issued 300,000 shares of common stock to an investor for $150,000.
+On
+May 3, 2023, the Company issued 100,000 shares of common stock to an investor for $50,000.
+On
+May 12, 2023, the Company issued 15,000 shares of common stock to an investor for $15,000.
+On
+May 29, 2023, the Company issued 10,000 shares of common stock to an investor for $10,000.
+On
+July 12, 2023, the Company issued 20,000 shares of common stock to an investor for $10,000.
+On
+July 13, 2023, the Company issued 20,000 shares of common stock to an investor for $10,000.
+On
+July 14, 2023, the Company issued 50,000 shares of common stock to an investor for $25,000.
+On
+July 14, 2023, the Company issued 4,665 shares of common stock for the conversion of accrued interest of $2,333.
+On
+July 17, 2023, the Company issued 25,000 shares of common stock to an investor for $10,000.
+On
+July 17, 2023, the Company issued 50,000 shares of common stock to an investor for $25,000.
+On
+August 25, 2023, the Company issued 50,000 shares of common stock to an investor for $25,000.
+On
+September 16, 2023, the Company issued 75,000 shares of common stock for the settlement of a debt and accrued interest for $25,000.
+On
+September 19, 2023, the Company issued 20,000 shares of common stock to an investor for $20,000.
+During
+the year ended September 30, 2024, the Company sold an aggregate of 956,600 shares of its common stock at an average price of
+$0.95 per share to investors and received proceeds of $911,600.
+Common
+Stock Issued for Services
+During
+the year ended September 30, 2024, the Company issued a total of 301,072 shares of its common stock for services rendered, including
+225,000 shares to related parties of the Company. These shares were valued at $356,250, the fair market values on the grant dates
+using the latest third-party sale of common stock share prices on the dates of grant, and the Company recorded stock-based compensation
+expense of $356,250 for the year ended September 30, 2024.
+Common
+Stock Issued for Debt Conversion
+On
+June 14, 2023, the Company issued 25,000 shares of common stock related to the conversion of a note payable for $12,500.
+On
+July 1, 2023, the Company issued 29,665 shares of common stock related to the conversion of a note payable and accrued interest
+for $14,833.
+On
+July 14, 2023, the Company issued 4,665 shares of common stock for the conversion of accrued interest of $2,333.
+On
+September 16, 2023, the Company issued 75,000 shares of common stock for the settlement of a debt and accrued interest for $25,000.
+On
+December 15, 2023, an investor converted its note in the principal amount of $32,500 and unpaid interest of $15,563 into 40,000
+shares of common stock of the Company (see Note 3).
+On
+March 9, 2024, an investor converted its note in the principal amount of $200,000 and unpaid interest of $10,000 into 210,000
+shares of common stock of the Company (see Note 3).
+F-14
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+4 – STOCKHOLDERS’ DEFICIT (continued)
+Common
+Stock Cancellation
+During
+the year ended September 30, 2024, two shareholders returned an aggregate of 500,000 shares of common stock of the Company that
+they received incorrectly in a prior year. In connection with the cancellation of these common shares, the Company decreased common
+stock by the par value of $500 with a corresponding increase in additional paid-in capital of $500.
+Common
+Stock Issued for Warrant Exercise
+In
+March 2024, the Company issued 60,000 shares of its common stock upon exercise of warrants and received proceeds of $60.
+Warrants
+Issued for Services
+During
+the year ended September 30, 2023, the Company issued 762,900 warrants for common stock of the Company for services. The issuance
+was for the following:
+●Services
+- 162,900 warrants for common stock with an exercise price of $0.001, valued at $162,900
+●Services
+by related party – 600,000 warrants for common with an exercise price of $0.001,
+valued at $600,000
+During
+the year ended September 30, 2024, the Company granted a total of 1,007,100 its warrants, with an exercise price of $0.001, for
+services rendered, including 650,000 warrants to related parties of the Company. The aggregate fair values of the warrants granted
+during the year ended September 30, 2024 was $1,007,100, of which, $650,000 was recorded as compensation and related benefits
+and $357,100 was recorded as professional fees.
+Warrants
+Issued for Debt Conversion
+During
+the year ended September 30, 2023, the Company issued 1,600,000 warrants for common stock of the Company for debt conversion.
+The issuance was for the following:
+●Settlement
+of debt – 200,000 warrants for common stock with an exercise price of $0.001, valued
+at $200,000
+●Conversion
+of notes payable and accrued interest – 1,400,000 warrants for common stock with
+an exercise price of $0.001, valued at $1,400,000
+On
+November 11, 2023, an investor converted its note with the principal amount of $300,000 into 300,000 warrants of the Company (see
+Note 3).
+The following table represents stock warrant
+activity as of and for the year ended September 30, 2023:
+Schedule of stock warrant activity
+Number
+of Shares
+Weighted
+Average
+Exercise
+Price
+Weighted
+Average
+Remaining
+Contractual Life
+Aggregate
+Intrinsic
+Value
+Warrants Outstanding – September 30, 2022
+—
+$
+—
+Granted
+2,362,900
+0.001
+Exercised
+—
+—
+Forfeited/expired/cancelled
+—
+—
+Warrants Outstanding – September 30, 2023
+2,362,900
+$
+0.001
+1.50 years
+$
+2,360,537
+Warrants Exercisable – September 30, 2023
+2,362,900
+$
+0.001
+1.50 years
+$
+2,360,537
+The
+following table summarizes the shares of the Company’s common stock issuable upon exercise of warrants (except Pre-Fund Warrants)
+outstanding at September 30, 2024:
+Warrants
+Outstanding
+Warrants Exercisable
+Exercise
+Price
+Number
+Outstanding at September 30, 2024
+Weighted
+Average Remaining Contractual Life (Years)
+Weighted
+Average Exercise Price
+Number
+Exercisable at September 30, 2024
+Weighted
+Average Exercise Price
+$0.001
+2,302,900
+0.49
+$0.001
+2,302,900
+$0.001
+0.001
+1,307,100
+0.72
+0.001
+1,307,100
+0.001
+$0.001
+3,610,000
+0.57
+$0.001
+3,610,000
+$0.001
+Stock warrant
+(except Pre-Fund Warrants) activity for the year ended September 30, 2024 was as follows:
+Schedule of stock warrant activity
+Number of Warrants
+Weighted Average Exercise Price
+Outstanding at October 1, 2023
+2,362,900
+$0.001
+Granted
+1,307,100
+0.001
+Exercised
+(60,000)
+(0.001)
+Outstanding at
+September 30, 2024
+3,610,000
+$0.001
+Warrants exercisable at September 30, 2024
+3,610,000
+$0.001
+There is no “established trading
+market” for shares of the Company’s common stock at September 30, 2024. Therefore, the aggregate intrinsic values for both
+the stock warrants outstanding and stock warrants exercisable at September 30, 2024 cannot be calculated.
+NOTE
+5 – INCOME TAXES
+As
+of September 30, 2024 and 2023, the Company has net operating loss carry forwards of approximately $3,911,000
+and $2,497,000,
+respectively, which may be available to reduce future years’ taxable income through 2044. The Company’s net operating loss
+carry forwards may be subject to annual limitations, which could reduce or defer the utilization of the losses because of an ownership
+change as defined in Section 382 of the Internal Revenue Code.
+The
+Company’s tax expense differs from the “expected” tax expense for federal income tax purposes (computed by applying
+the United States federal tax rate of 21% to loss before taxes for fiscal year 2024 and 2023), as follows:
+Schedule of income tax expense
+September 30,
+2024
+2023
+Tax expense (benefit) at the statutory rate
+$(296,947)
+$(101,591)
+State income taxes, net of federal income tax benefit
+(36,765)
+(12,578)
+Change in valuation allowance
+333,712
+114,169
+Total
+$—
+$—
+F-15
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+5 – INCOME TAXES (continued)
+The
+tax effects of the temporary differences between reportable financial statement income and taxable income are recognized as deferred
+tax assets and liabilities.
+The
+Company is open for audit by the U.S. Internal Revenue Service and U.S. state tax jurisdictions from tax year 2021 to tax year
+2024,
+The
+tax effect of significant components of the Company’s deferred tax assets and liabilities at September 30, 2024 and 2023,
+are as follows:
+Schedule of deferred tax assets and liabilities
+September 30,
+2024
+2023
+Net operating loss carryforward
+$922,926
+$589,214
+Total gross deferred tax assets
+922,926
+589,214
+Less: deferred tax asset valuation allowance
+(922,926)
+(589,214)
+Total net deferred taxes
+$—
+$—
+In
+assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion
+or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the
+generation of future taxable income during the periods in which those temporary differences become deductible. Management considers
+the scheduled reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this
+assessment.
+Because
+of the historical earnings history of the Company, the net deferred tax assets for 2024 and 2023 were fully offset by a 100% valuation
+allowance. The valuation allowance for the remaining net deferred tax assets was $3,020,766
+and $2,687,054
+as of September 30, 2024 and 2023, respectively.
+NOTE
+6 – RELATED PARTY TRANSACTIONS
+Accrued
+Liabilities and Other Payables — Related Parties
+As
+of September 30, 2024 and 2023, the Company owed Chad Pawlak, its CEO, $11,416 and $0, respectively, for travel and other miscellaneous
+reimbursements, which have been included in accrued liabilities and other payables – related parties on the accompanying
+consolidated balance sheets. The amount due to Chad Pawlak bears a fixed interest rate of 8.0% per annum and is short-term in
+nature, unsecured and repayable on demand.
+As
+of September 30, 2024 and 2023, the Company owed Judith Miller, its former chief business officer and interim chief financial
+officer, $403 and $0, respectively, for miscellaneous reimbursements, which have been included in accrued liabilities and other
+payables – related parties on the accompanying consolidated balance sheets.
+On
+September 28, 2023, the Company entered into a settlement agreement with Bradley White, former CEO of the Company, who was terminated
+on June 20, 2023. As part of the settlement agreement, Mr. White was to receive a total settlement of $300,000, payable in tranches
+of $50,000, beginning on September 28, 2023, or within seven days, and each subsequent payment on the monthly anniversary of the
+settlement agreement execution. In exchange for the settlement, Mr. White returned to the Company for cancellation of the following:
+3 shares of Series A preferred stock and 502,512 shares of Series B preferred stock. As of September 30, 2024 and 2023, the Company
+still owed Bradley White $50,000 and $300,000, respectively, which have been included in accrued liabilities and other payables
+– related parties on the accompanying consolidated balance sheets. The outstanding balance of $50,000 was fully paid in
+subsequent period.
+As
+of September 30, 2024 and 2023, the Company owed Robert Bubeck, its former CEO, $3,846 and $2,025, respectively, for expenses
+paid by Rober on behalf of the Company, which have been included in accrued liabilities and other payables – related parties
+on the accompanying consolidated balance sheets.
+All
+amounts due to Judith Miller, Bradley White, and Robert Bubeck are short-term in nature, non-interest bearing, unsecured and repayable
+on demand.
+F-16
+GENVOR
+INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE
+7 – COMMITMENTS AND CONTINGENCIES
+Litigation
+From
+time to time, the Company is subject to ordinary routine litigation incidental to its normal business operations. The Company
+is not currently a party to any material legal proceedings, except as set forth below.
+The
+Company is currently disputing amount claimed by Mel Wentz under state usury laws (see Note 3).
+On
+February 7, 2024, the Company filed suit against Justin Kimbrough and Prosperity Consultants, LLC, in the 14th Judicial District
+Court for Dallas County, Texas (case no. DC-24-02022), alleging fraud, conversion, unjust enrichment and other causes of action
+arising from the defendants’ improper receipt of shares of Company common stock under agreements which required the defendants
+to provide services to the Company and which services the defendants ultimately never provided. The Company is seeking monetary
+damages and for a constructive trust to be imposed on defendants’ shares of Company common stock and for them to be returned
+to the Company. The Company and Mr. Kimbrough have settled the claims in dispute and are working to effect the settlement terms
+before dismissal.
+On
+April 12, 2024, the Company filed suit against Richard Saied, in the 192nd Judicial District Court for Dallas County, Texas (case
+no. DC-24-05442), alleging fraud, conversion, unjust enrichment and other causes of action arising from the defendant’s
+improper receipt of shares of Company common stock under an agreement which required the defendant to provide services to the
+Company and which services the defendant ultimately never provided. The Company is seeking monetary damages and for a constructive
+trust to be imposed on defendant’s shares of Company common stock and for them to be returned to the Company.
+NOTE
+8 – SUBSEQUENT EVENTS
+The
+Company evaluated subsequent events and transactions that occurred after the balance sheet date up to the date that the financial
+statements were issued. Based upon this review, other than as described below, the Company did not identify any subsequent events
+that would have required adjustment or disclosure in the financial statements.
+On
+November 12, 2024, Chad Pawlak was elected as a Board of Directors of the Company.
+Common
+Stock Sold for Cash
+During the period from April 1, 2025 through
+July 31, 2025, the Company sold an aggregate of 1,880,000
+shares of its common stock at a price of $0.25
+per share to investors and received proceeds of $470,000.
+Common
+Stock Issued for Services
+During the period from December 1, 2024 through
+July 31, 2025, the Company issued a total of 5,475,000
+shares of its common stock for services rendered, including 5,375,000
+shares to related parties of the Company.
+Common
+Stock Issued for Debt Conversion
+In
+April and May 2025, the Company issued 120,000 shares of its common stock upon the conversion of outstanding payable balances
+of $43,902.
+In
+May 2025, Brent Lilienthal converted its note in the principal amount of $217,000 into 120,000 shares of common stock of the Company
+(see Note 3).
+Common
+Stock Issued for Debt Conversion – Related Parties
+In
+May 2025, the Company issued 1,300,000 shares of its common stock upon the conversion of three related parties’ outstanding
+payable balances of $325,000.
+Common
+Stock Issued for Warrant Exercise
+In
+April 2025, the Company issued 500,000 shares of its common stock upon exercise of warrants.
+Issuance of Subscribed Common Stock
+In June 2025, the Company issued 210,000 shares
+of its common stock for shares subscribed.
+F-17
+Item 9. Changes In and Disagreements
+with Accountants on Accounting and Financial Disclosure
+We have had no disagreements with our accountants
+required to be disclosed pursuant to Item 304 of Regulation S-K.
+Item 9A. Controls and Procedures
+Evaluation of Disclosure Controls and
+Procedures
+The Company’s Chief Executive Officer
+and Chief Financial Officer, who is the same person, has evaluated the effectiveness of the Company’s disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the year ended September 30, 2024. Based
+upon such evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of such period,
+the Company’s disclosure controls and procedures were not effective as required under Rules 13a-15(e) and 15d-15(e) under
+the Exchange Act.
+Management’s Annual Report on
+Internal Control over Financial Reporting
+The management of the Company is responsible
+for the preparation of the financial statements and related financial information appearing in this Annual Report on Form 10-K.
+The financial statements and notes have been prepared in conformity with accounting principles generally accepted in the United
+States of America. The management of the Company is also responsible for establishing and maintaining adequate internal control
+over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. A company’s internal control
+over financial reporting is defined as a process designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Our internal control over financial reporting includes those policies and procedures that:
+●Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the
+transactions and dispositions of the assets of the Company;
+●Provide reasonable assurance that transactions are recorded as necessary to permit preparation
+of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the
+issuer are being made only in accordance with authorizations of management and the board of directors of the Company; and
+●Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition,
+use or disposition of the Company’s assets that could have a material effect on the financial statements.
+Management, including the Chief Executive
+Officer and Chief Financial Officer does not expect that the Company’s disclosure controls, and internal controls will prevent
+all error and all fraud. Because of its inherent limitations, a system of internal control over financial reporting can provide
+only reasonable, not absolute, assurance that the objectives of the control system are met and may not prevent or detect misstatements.
+Further, over time, control may become inadequate because of changes in conditions or the degree of compliance with the policies
+or procedures may deteriorate.
+With the participation of the Chief Executive
+Officer and Chief Financial Officer, our management evaluated the effectiveness of the Company’s internal control over financial
+reporting as of September 30, 2024, based upon the framework in Internal Control –Integrated Framework issued by the Committee
+of Sponsoring Organizations of the Treadway Commission (COSO) in 2013. Based on that evaluation, our management has concluded that,
+as of September 30, 2024, the Company had material weaknesses in its internal control over financial reporting and the Company’s
+internal control over financial reporting was not effective. Specifically, management identified the following material weaknesses
+at September 30, 2024:
+●Lack of oversight by independent directors in the establishment and monitoring of required internal
+controls and procedures;
+●Lack of functioning audit committee, resulting in ineffective oversight in the establishment and
+monitoring of required internal controls and procedures;
+●Insufficient personnel resources within the accounting function to segregate the duties over financial
+transaction processing and reporting and to allow for proper monitoring controls over accounting;
+●Insufficient written policies and procedures over accounting transaction processing and period
+end financial disclosure and reporting processes.
+To remediate our internal control weaknesses,
+management intends to implement the following measures:
+●The Company will add sufficient number of independent directors to the board and appoint an audit
+committee.
+23
+●The Company will add sufficient knowledgeable accounting personnel to properly segregate duties
+and to affect a timely, accurate preparation of the financial statements.
+●Upon the hiring of additional accounting personnel, the Company will develop and maintain adequate
+written accounting policies and procedures.
+The additional hiring is contingent upon
+the Company’s efforts to obtain additional funding through equity or debt for its continued operational activities and corporate
+expenses. Management provides no assurances that it will be able to do so.
+We understand that remediation of material
+weaknesses and deficiencies in internal controls are a continuing work in progress due to the issuance of new standards and promulgations.
+However, remediation of any known deficiency is among our highest priorities. Our management will periodically assess the progress
+and sufficiency of our ongoing initiatives and adjust as and when necessary.
+As a smaller reporting company, we are
+not required to provide, and this annual report does not include an attestation report of our registered public accounting firm
+regarding internal control over financial reporting.
+Changes in Internal Control over Financial
+Reporting
+There were no changes in our internal control
+over financial reporting that occurred during the period covered by this report that have materially affected, or are reasonably
+likely to materially affect, our internal control over financial reporting.
+Limitations on the Effectiveness of
+Controls
+The Company’s management, including
+the CEO and Chief Financial Officer (“CFO”), does not expect that our disclosure controls and procedures or our internal
+control over financial reporting will prevent or detect all error and all fraud. A control system, no matter how well designed
+and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. Further,
+the design of the control system must reflect that there are resource constraints and that the benefits must be considered relative
+to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, within the company have been detected. These inherent limitations include
+the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake.
+Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management
+override of controls. The design of any system of controls is based in part on certain assumptions about the likelihood of future
+events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+Projections of any evaluation of controls effectiveness to future periods are subject to risks. Over time, controls may become
+inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures.
+Item 9B. Other Information.
+None.
+Item 9C. Disclosure Regarding Foreign
+Jurisdictions That Prevent Inspections.
+Not applicable.
+24
+PART III
+Item 10. Directors, Executive Officers,
+and Corporate Governance.
+The following table sets forth information
+with respect to persons who are serving as directors and officers of the Company. Each director holds office until the next annual
+meeting of shareholders or until his successor has been elected and qualified.
+Name
+Age
+Position
+Chad Pawlak
+52
+Chief Executive Officer (1), Interim Chief Financial Officer (2), Director (3)
+Clayton Yates
+48
+Director (4)
+Jesse Jaynes
+73
+Chief Research Officer (4), Director (4), Chief Scientific Officer (1)
+(1)
+Appointed on January 17, 2024.
+(2)
+Assumed CFO role on May 29, 2024, upon Judith Miller’s termination on that date.
+(3)
+Appointed on November 12, 2024.
+(4)
+Appointed on January 12, 2021.
+Biographies of Directors and Officers
+The following is a brief account of the
+education and business experience during at least the past five years of each director, executive officer, and key employee of
+our company, indicating the person’s principal occupation during that period, and the name and principal business of the
+organization in which such occupation and employment were carried out.
+Chad Pawlak
+Chad Pawlak brings over 30 years of experience
+with a proven track record of driving revenue growth and fostering strategic partnerships across agribusiness and sustainability
+– particularly in soil and water conservation. He has a deep understanding of regenerative agriculture, biotechnology, crop
+cultivation and consumer packaged goods (CPG). Most recently, he was CEO of Locus Agricultural Solutions (from August 2021 to October
+2023), an agricultural biological company, where he led the strategic growth plan through cross-functional collaboration, resulting
+in over 350,000 acres of enrollment in a nature-based carbon credit project utilizing a biological product as the practice change.
+From January 2018-October 2019, Chad was a member of the Board of INUS Protein, a North American supplier, blending partner and
+product development resource for insect protein powders in food and feed use. Chad also has previous experience as the U.S.-Canada
+Crop & Plant Protection Business Director Lead - Botanicals for MGK (a part of Valent USA & Sumitomo Chemical) (2018-2019).
+In this role, he was responsible for the overall design of the strategic business plan of the $30 million Botanical & Organic
+Crop Protection segments in the U.S. & Canada. He holds an MBA from the Jack Welch Management Institute and BS & AOS in
+Marketing and Advertising/Public Relations from Johnson & Wales University.
+Dr. Clayton Yates, Ph.D.
+Dr. Clayton Yates, Ph.D., co-founded Genvor
+and is Chairman of the Board of Genvor. His research is currently funded by the National Cancer Institute (NCI) and Department
+of Defense (DOD) Congressionally Medical Directed Research Programs. Dr. Yates is also a scientist at Tuskegee University, focused
+on identifying molecular targets for therapeutic intervention in prostate, breast, and pancreatic cancers. Dr. Yates received his
+initial training at the University of Pittsburgh School of Medicine in the Department of Cellular and Molecular Pathology. He completed
+additional training in Tissue Engineering and Regenerative Medicine jointly from the McGowan Institute for Regenerative Medicine
+and Massachusetts Institute of Technology (MIT). Dr. Yates completed his post-doctoral training at Emory University School of Medicine
+in the Department of Molecular Urology.
+25
+Dr. Jesse Jaynes, Ph.D.
+Dr. Jesse Jaynes, Ph.D., co-founded Genvor
+as well, and he leads the research for Genvor and manages ongoing, critical communication with our outside research and development
+partners and associations. Dr. Jaynes is one of the world’s leading authorities on therapeutic peptide design and has vast
+experience in drug development for various applications, including agriculture, animal health, wound healing, and oncology. Dr.
+Jaynes’ research is funded by USDA, NSF, and NIH. He has more than 60 United States and foreign patents and has authored
+over 100 scientific journal articles. Over the past 15 years, Dr. Jaynes has served on the board of numerous life science companies
+and is currently the Chief Technology Officer for the National Cancer Coalition. Dr. Jaynes is a Professor of Biochemistry at Tuskegee
+University. Dr. Jaynes completed his doctoral training at Brigham Young University, Utah.
+There are no family relationships among
+any of our directors and executive officers.
+Our directors are elected at the annual
+meeting of the shareholders, with vacancies filled by the Board of Directors, and they serve until their successors are elected
+and qualified, or their earlier resignation or removal. Officers are appointed by the board of directors and serve at the discretion
+of the board of directors or until their earlier resignation or removal. Any action required can be taken at any annual or special
+meeting of stockholders of the corporation which may be taken without a meeting, without prior notice and without a vote, if consent
+of consents in writing setting forth the action so taken, shall be signed by the holders of the outstanding stock having not less
+than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled
+to vote thereon were present and voted and shall be delivered to the corporation by delivery to its registered office, its principle
+place of business, or an officer or agent of the corporation having custody of the book in which the proceedings of meetings are
+recorded.
+Indemnification of Directors and Officers
+Section 78.138 of the Nevada Revised Statutes
+(“NRS”) provides that a director or officer will not be individually liable unless it is proven that (i) the director’s
+or officer’s acts or omissions constituted a breach of his or her fiduciary duties, and (ii) such breach involved intentional
+misconduct, fraud or a knowing violation of the law. Section 78.7502 of NRS permits a company to indemnify its directors and officers
+against expenses, judgments, fines and amounts paid in settlement actually and reasonably incurred in connection with a threatened,
+pending or completed action, suit or proceeding if the officer or director (i) is not liable pursuant to NRS 78.138 or (ii) acted
+in good faith and in a manner the officer or director reasonably believed to be in or not opposed to the best interests of the
+corporation and, if a criminal action or proceeding, had no reasonable cause to believe the conduct of the officer or director
+was unlawful. Section 78.751 of NRS permits a Nevada company to indemnify its officers and directors against expenses incurred
+by them in defending a civil or criminal action, suit or proceeding as they are incurred and in advance of final disposition thereof,
+upon receipt of an undertaking by or on behalf of the officer or director to repay the amount if it is ultimately determined by
+a court of competent jurisdiction that such officer or director is not entitled to be indemnified by the company. Section 78.751
+of NRS further permits the company to grant its directors and officers additional rights of indemnification under its articles
+of incorporation or bylaws or otherwise. Section 78.752 of NRS provides that a Nevada company may purchase and maintain insurance
+or make other financial arrangements on behalf of any person who is or was a director, officer, employee or agent of the company,
+or is or was serving at the request of the company as a director, officer, employee or agent of another company, partnership, joint
+venture, trust or other enterprise, for any liability asserted against him and liability and expenses incurred by him in his capacity
+as a director, officer, employee or agent, or arising out of his status as such, whether or not the company has the authority to
+indemnify him against such liability and expenses.
+26
+Our Articles of Incorporation provide that
+no director or officer of the Company will be personally liable to the Company or any of its stockholders for damages for breach
+of fiduciary duty as a director or officer; provided, however, that the foregoing provision shall not eliminate or limit the liability
+of a director or officer (i) for acts or omissions which involve intentional misconduct, fraud or knowing violation of law, or
+(ii) the payment of dividends in violation of Section 78.300 of NRS. In addition, our Bylaws implement the indemnification and
+insurance provisions permitted by Chapter 78 of the NRS by providing that the Company shall indemnify its directors to the fullest
+extent permitted by the NRS and may, if and to the extent authorized by the board of directors, so indemnify its officers and any
+other person whom it has the power to indemnify against liability, reasonable expense or other matter whatsoever; and the Company
+may at the discretion of the board of directors purchase and maintain insurance on behalf of any person who holds or who has held
+any position identified in the paragraph above against any and all liability incurred by such person in any such position or arising
+out of his status as such.
+Insofar as indemnification by us for liabilities
+arising under the Securities Act may be permitted to our directors, officers or persons controlling the company pursuant to provisions
+of our articles of incorporation and bylaws, or otherwise, we have been advised that in the opinion of the SEC, such indemnification
+is against public policy as expressed in the Securities Act and is therefore unenforceable. In the event that a claim for indemnification
+by such director, officer or controlling person of us in the successful defense of any action, suit or proceeding is asserted by
+such director, officer or controlling person in connection with the securities being offered, we will, unless in the opinion of
+our counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether
+such indemnification by us is against public policy as expressed in the Securities Act and will be governed by the final adjudication
+of such issue.
+Director Compensation
+During the years ended September 30, 2024
+and 2023, we did not have an independent director. Directors that were employees were not paid any fees for their role as directors.
+Involvement on Certain Material Legal
+Proceedings During the Last Five Years
+No director, officer, significant employee,
+or consultant has been convicted in a criminal proceeding, exclusive of traffic violations.
+No bankruptcy petitions have been filed
+by or against any business or property of any director, officer, significant employee, or consultant of the Company nor has any
+bankruptcy petition been filed against a partnership or business association where these persons were general partners or executive
+officers.
+No director, officer, significant employee,
+or consultant has been permanently or temporarily enjoined, barred, suspended, or otherwise limited from involvement in any type
+of business, securities, or banking activities.
+No director, officer or significant employee
+has been convicted of violating a federal or state securities or commodities law.
+Directors’ and Officers’
+Liability Insurance
+The Company purchased directors’
+and officers’ liability insurance, effective January 8, 2025, to insure our directors and officers against liability for
+acts or omissions in their capacities as directors or officers.
+Code of Ethics
+We intend to adopt a code of ethics that
+applies to our officers, directors, and employees, including our principal executive officer and principal accounting officer,
+but have not done so to date due to our relatively small size. We intend to adopt a written code of ethics in the near future.
+Corporate Governance and Board Independence
+Our Board of Directors consists of three
+directors and has not established a Nominating or Governance Committees as standing committees. The Board does not have an executive
+committee or any committees performing a similar function. We are not currently listed on a national securities exchange or in
+an inter-dealer quotation system that has requirements that a majority of the board of directors be independent.
+27
+Due to our lack of operations and size,
+and since we are not currently listed on a national securities exchange, we are not subject to any listing requirements mandating
+the establishment of any particular committees; all functions of a nominating/governance committee were performed by our whole
+board of directors. Our board of directors intends to appoint such persons and form such committees as are required to meet the
+corporate governance requirements imposed by the national securities exchanges as necessary. Our board of directors does not believe
+that it is necessary to have such committees at the early stage of the company’s development, and our board of directors
+believes that the functions of such committees can be adequately performed by the members of our board of directors.
+We believe that our board of directors
+is capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial
+reporting. We believe that retaining an independent director who would qualify as an “audit committee financial expert”
+would be overly costly and burdensome and is not warranted in our circumstances given the early stages of our development and the
+fact that we have not generated any material revenues to date.
+Board Leadership Structure and the Board’s
+Role in Risk Oversight.
+The Board of Directors is led by a chairman.
+The Board believes its current leadership structure best serves the objectives of the Board’s oversight of management, the
+Board’s ability to carry out its roles and responsibilities on behalf of the Company’s shareholders, and the Company’s
+overall governance. The Board periodically reviews the leadership structure to determine whether it continues to best serve the
+Company and its shareholders.
+28
+Audit Committee and Financial Expert;
+Committees
+The Company does not have an audit committee.
+We are not a “listed company” under SEC rules and are therefore not required to have an audit committee comprised of
+independent directors.
+The Company has no nominating or compensation
+committees at this time. The entire Board participates in the nomination and audit oversight processes and considers executive
+and director compensation. Given the size of the Company and its stage of development, the entire Board is involved in such decision-making
+processes. Thus, there is a potential conflict of interest in that our directors and officers have the authority to determine issues
+concerning management compensation, nominations, and audit issues that may affect management decisions. We are not aware of any
+other conflicts of interest with any of our executive officers or directors.
+Compliance with Section 16(A) of the
+Exchange Act
+Section 16(a) of the Exchange Act requires
+the Company’s directors, executive officers and persons who beneficially own 10% or more of a class of securities registered
+under Section 12 of the Exchange Act to file reports of beneficial ownership and changes in beneficial ownership with the SEC.
+Directors, executive officers and greater than 10% stockholders are required by the rules and regulations of the SEC to furnish
+the Company with copies of all reports filed by them in compliance with Section 16(a).
+Based solely on our review of certain reports
+filed with the Securities and Exchange Commission pursuant to Section 16(a) of the Securities Exchange Act of 1934, as amended,
+the reports required to be filed with respect to transactions in our common stock during the fiscal year ended September 30, 2024,
+were timely.
+Family relationships
+There are no family relationships among any of our officers
+or directors.
+29
+Item 11. Executive Compensation
+The table below sets forth, for the years
+ended September 30, 2024 (“2024”) and 2023 (“2023”), the compensation earned by our executive officers
+and former executive officers.
+Name and Principal Position
+Year
+Salary
+Stock Awards
+Option and Warrant Awards
+All Other Compensation
+Total
+($)
+($)
+($)
+($)
+($)
+Chad Pawlak
+2024
+214,345
+262,500
+—
+—
+476,845
+Chief Executive Officer (1)
+2023
+—
+—
+—
+—
+—
+Dr. Clayton Yates
+2024
+92,500
+—
+—
+—
+92,500
+Former Chief Scientific Officer, Director (2)
+2023
+—
+—
+—
+—
+—
+Dr. Jesse Jaynes
+2024
+92,500
+—
+—
+—
+92,500
+Chief Research Officer, Chief Scientific Officer, Director (3)
+2023
+—
+—
+—
+—
+—
+Judith S. Miller, Esq.
+2024
+121,000
+100,000
+600,000
+—
+821,000
+Former Interim Chief Executive Officer and Chief Financial Officer (4)
+2023
+65,000
+—
+600,000
+—
+665,000
+Bradley White
+2024
+—
+—
+—
+—
+—
+Former Chief Executive Officer, Chief Financial Officer, and Director (5)
+2023
+80,625
+—
+—
+66,348
+146,973
+(1)Appointed as CEO on January 17, 2024, and assumed CFO role on May 29, 2024. Mr. Pawlak’s
+2024 compensation consisted of cash of $214,345 and 262,500 shares vested and valued at $262,500.
+(2)Appointed as Chief Scientific Officer and Chairman of the Board on January 12, 2021, and resigned
+as Chief Scientific Officer on January 17, 2024. Dr. Yates’s 2024 compensation consisted of cash of $92,500.
+(3)Appointed as Chief Research Officer and Director on January 12, 2021, and appointed as Chief Scientific
+Officer on January 17, 2024. Dr. Jaynes’s 2024 compensation consisted of cash of $92,500.
+(4)Interim CEO from June 20, 2023 through January 17, 2024, and Interim CFO and Chief Business Officer
+through May 29, 2024. Ms. Miller’s 2024 compensation consisted of cash of $121,000 and 100,000 shares vested and valued at
+$100,000 and 600,000 warrants vested and valued at $600,000. Ms. Miller’s 2023 compensation consisted of cash of $65,000
+and 600,000 warrants vested and valued at $600,000.
+(5)CEO from January 12, 2021 through June 20, 2023. Mr. White’s 2023 compensation consisted
+of salary of $80,625 paid by cash and $66,348 of Mr. White’s personal expenses paid by the Company.
+30
+The Company has not entered into employment
+or similar agreements with any of our executive officers or directors except as follows:
+Effective as of January 17, 2024, the Company
+entered into (i) indemnification agreements with Mr. Pawlak, Ms. Miller, Dr. Jaynes and Dr. Yates (the “Indemnification Agreements”),
+(ii) an employment agreement with Mr. Pawlak (the “Pawlak Employment Agreement”), (iii) an employment agreement with
+Ms. Miller (the “Miller Employment Agreement”), (iv) a science advisor agreement with Dr. Jaynes (the “Jaynes
+Advisor Agreement”), and (v) a science advisor agreement with Dr. Yates (the “Yates Advisor Agreement”).
+Pursuant to the Indemnification Agreements,
+the Company agreed to indemnify the officers and directors to the fullest extent permitted by law for claims arising in part out
+of the fact that the officer or director is or was a director of the Company.
+Pursuant to the Pawlak Employment Agreement,
+Mr. Pawlak will act as Chief Executive Officer of the Company until the agreement is terminated in accordance with its terms, and
+Mr. Pawlak will be compensated as follows: (i) Mr. Pawlak will receive a base salary of $300,000 per year; (ii) Mr. Pawlak will
+be eligible for annual incentive bonus awards of up to 30% of Mr. Pawlak’s then-current base salary in the discretion of
+the compensation committee of the Board, provided that such bonus for the first year of employment shall be earned for the completion
+of formulation and production of a peptide topical spray (biological fungicide) that is effective in its utilization of AMPs treating
+plant disease, for any of the identified spectrums of crops that are targeted by the Company (the “First Milestone”),
+and the bonus for the second year of employment shall be earned for the receipt of regulatory approval from any of those federal
+agencies required by United States, such as the United States Environmental Protection Agency (the EPA), the United States Department
+of Agriculture (the USDA), and/or the United States Food and Drug Administration (the FDA), for the commercialization of the topical
+spray (the “Second Milestone”); (iii) Mr. Pawlak will initially receive 50,000 shares of Company common stock, and
+950,000 shares of Company common stock which shall vest monthly for a period of 36 months (25,000 shares a month for months 1-34,
+and 50,000 shares a month for months 35-36); (iv) Mr. Pawlak will receive an additional equity award of 1,000,000 shares of Company
+common stock upon achievement of the First Milestone; (v) Mr. Pawlak will receive an additional equity award of 1,000,000 shares
+of Company common stock upon achievement of the Second Milestone; (vi) Mr. Pawlak will receive an additional equity award of 1,000,000
+shares of Company common stock upon the commercial sale of a minimum of $10,000,000 of the topical spray; and (vii) Mr. Pawlak
+will receive an additional equity award of 1,000,000 shares of Company common stock upon the receipt of regulatory approval from
+any of those federal agencies required by the United States, such as the EPA, USDA, and/or the FDA, for the commercialization of
+the first seed trait based upon the Company’s patents and targeted spectrums of crops.
+Pursuant to the Miller Employment Agreement,
+which superseded Ms. Miller’s prior Executive Consulting Agreement with the Company dated June 20, 2023, Ms. Miller was to
+act as Chief Business Officer and Interim Chief Financial Officer of the Company until the agreement is terminated in accordance
+with its terms, and Ms. Miller was to be compensated as follows: (i) Ms. Miller will receive a base salary of $180,000 per year;
+(ii) Ms. Miller will be issued 25,000 shares of Company common stock per month for a period of one year; (iii) Ms. Miller will
+receive an additional equity award of 250,000 shares of Company common stock upon the Company receiving the results of the scientific
+studies conducted by Southern Gardens/US Sugar for further use by the Company; (iv) Ms. Miller will receive an additional equity
+award of 50,000 shares of Company common stock upon the Company raising each tranche $1,000,000 up to an aggregate of $10,000,000;
+(v) Ms. Miller will receive an additional equity award of 50,000 shares of Company common stock upon the Company raising $2,500,000;
+(vi) Ms. Miller will receive an additional equity award of 100,000 shares of Company common stock upon the Company raising $6,000,000,
+and (vii) Ms. Miller will receive an additional equity award of 100,000 shares of Company common stock upon the Company raising
+$10,000,000. Ms. Miller’s employment was terminated on or about May 29, 2024.
+31
+Pursuant to Jaynes Advisor Agreement, which
+has an initial term of three years, Dr. Jaynes will act as scientific advisor to the Company, and be compensated as follows: (i)
+Dr. Jaynes will be paid a $50,000 signing bonus; (ii) Dr. Jaynes will be paid $5,000 per month; (iii) Dr. Jaynes will be paid $100,000
+and 25,000 shares of Company common stock upon the completion of formulation and production of a peptide topical spray (biological
+fungicide) that is effective in its utilization of AMPs treating plant disease, for any of the identified spectrums of crops that
+are targeted by the Company; (iv) Dr. Jaynes will be paid $100,000 and 25,000 shares of Company common stock upon the receipt of
+regulatory approval from any of those federal agencies required by United States, such as the United States Environmental Protection
+Agency (the EPA), the United States Department of Agriculture (the USDA), and/or the United States Food and Drug Administration
+(the FDA), for the commercialization of the topical spray; (v) Dr. Jaynes will be paid $100,000 and 25,000 shares of Company common
+stock upon the commercial sale of a minimum of $10,000,000 of the topical spray; and (vi) Dr. Jaynes will be paid $100,000 and
+25,000 shares of Company common stock upon the receipt of regulatory approval from any of those federal agencies required by the
+United States, such as the EPA, USDA, and/or the FDA, for the commercialization of the first seed trait based upon the Company’s
+patents and targeted spectrums of crops.
+Pursuant to Yates Advisor Agreement, which
+has an initial term of three years, Dr. Yates will act as scientific advisor to the Company, and be compensated as follows: (i)
+Dr. Yates will be paid a $50,000 signing bonus; (ii) Dr. Yates will be paid $5,000 per month; (iii) Dr. Yates will be paid $100,000
+and 25,000 shares of Company common stock upon the completion of formulation and production of a peptide topical spray (biological
+fungicide) that is effective in its utilization of AMPs treating plant disease, for any of the identified spectrums of crops that
+are targeted by the Company; (iv) Dr. Yates will be paid $100,000 and 25,000 shares of Company common stock upon the receipt of
+regulatory approval from any of those federal agencies required by United States, such as the United States Environmental Protection
+Agency (the EPA), the United States Department of Agriculture (the USDA), and/or the United States Food and Drug Administration
+(the FDA), for the commercialization of the topical spray; (v) Dr. Yates will be paid $100,000 and 25,000 shares of Company common
+stock upon the commercial sale of a minimum of $10,000,000 of the topical spray; and (vi) Dr. Yates will be paid $100,000 and 25,000
+shares of Company common stock upon the receipt of regulatory approval from any of those federal agencies required by the United
+States, such as the EPA, USDA, and/or the FDA, for the commercialization of the first seed trait based upon the Company’s
+patents and targeted spectrums of crops.
+Outstanding Equity Awards
+No executive officer named above had any
+unexercised options or stock that had not vested, or equity incentive plan awards outstanding as of September 30, 2024, except
+as follows:
+Ms. Miller had 1,200,000 outstanding warrants
+as of September 30, 2024.
+Director Compensation
+No member of our board of directors received
+any compensation for his or her services as a director during the fiscal years ending September 30, 2024 and 2023, nor do they
+currently receive any compensation for such services.
+Equity Incentive Plans
+Long-Term Incentive Plans. The
+Company does not provide its officers or employees with pension, stock appreciation rights, long-term incentive or other plans,
+nor does it provide non-qualified deferred compensation to its officers or employees, and therefore, the Summary Compensation Table
+above does not include columns for nonequity incentive plan compensation and nonqualified deferred compensation earnings since
+there were none.
+Employee Pension, Profit Sharing or
+other Retirement Plans. The Company does not have a defined benefit, pension plan, profit sharing or other retirement
+plan, although it may adopt one or more of such plans in the future.
+32
+Item 12. Security Ownership of Certain
+Beneficial Owners and Management and Related Stockholder Matters
+Beneficial ownership is determined in accordance
+with the rules of the SEC and generally includes voting or investment power with respect to securities. In accordance with SEC
+rules, shares of our common stock which may be acquired upon exercise of stock options or warrants which are currently exercisable
+or which become exercisable within 60 days of the date of the applicable table below are deemed beneficially owned by the holders
+of such options and warrants and are deemed outstanding for the purpose of computing the percentage of ownership of such person,
+but are not treated as outstanding for the purpose of computing the percentage of ownership of any other person. Subject to community
+property laws, where applicable, the persons or entities named in the tables below have sole voting and investment power with respect
+to all shares of our common stock indicated as beneficially owned by them.
+The following table sets forth certain information,
+as of July 31, 2025 with respect to the beneficial ownership of the outstanding common stock by:
+●Each of our named executive officers and directors;
+●Our directors and executive officers as a group; and
+●Holders of more than 5% of our common stock
+Except as otherwise indicated, each of
+the stockholders listed below has sole voting and investment power over the shares beneficially owned.
+Name of Beneficial Owner (1)
+Common Stock Beneficially Owned
+Percentage of Common Stock (2)
+Chad Pawlak* (3)
+6,000,000
+20.2
+%
+Dr. Clayton Yates* (4)
+7,312,623
+19.8
+%
+Dr. Jesse Jaynes* (5)
+6,767,623
+18.6
+%
+All officers and directors as a group (3 persons)
+20,080,246
+45.9
+%
+Shareholder owning 5% or more:
+John Coutris (6)
+1,789,843
+5.7
+%
+*Officer and/or director of our company
+(1)Except as otherwise indicated, the address of each beneficial owner is c/o Genvor Incorporated,
+1550 W Horizon Ridge Pkwy, Ste R #3040, Henderson, NV 89012.
+(2)Applicable percentage ownership is based
+on 29,634,608 shares of our common stock outstanding as of July 31, 2025, together
+with securities exercisable or convertible into shares of our common stock within 60 days
+of July 31, 2025 for each stockholder. Beneficial ownership is determined in accordance
+with the rules of the SEC and generally includes voting or investment power with respect
+to securities. Shares of common stock that are currently exercisable or exercisable within
+60 days of July 31, 2025 are deemed to be beneficially owned by the person holding
+such securities for the purpose of computing the percentage of ownership of such person,
+but are not treated as outstanding for the purpose of computing the percentage ownership
+of any other person.
+33
+(3)Mr. Pawlak holds 6,000,000 shares
+of common stock.
+(4)Represents (i) 731,262 shares of Series B Preferred Stock are held in the name of ACT Holdings
+LLC, which may be deemed to be beneficially owned by Dr. Yates, and such shares of Series B Preferred Stock are convertible into
+7,312,620 shares of common stock. (ii) 3 shares of Series A Preferred Stock are held directly by Dr. Yates, and such shares of
+Series A Preferred Stock are convertible into 3 shares of common stock.
+(5)Represents (i) 476,762 shares of Series B Preferred Stock are held jointly in the name of Dr. Jaynes
+and his spouse, 200,000 shares of Series B Preferred Stock held in the name of the Jaynes Investment LLC, which may be deemed to
+be beneficially owned by Dr. Jaynes, and such shares of Series B Preferred Stock are convertible into 6,767,620 shares of common
+stock. (ii) 3 shares of Series A Preferred Stock are held directly by Dr. Jaynes, and such shares of Series A Preferred Stock are
+convertible into 3 shares of common stock.
+(6)Represents (i) 198,637 shares of common stock are held in the name of John Coutris, 91,206 shares
+of common stock are held in the name of Callie Coutris, John Coutris’s spouse. (ii) 150,000 shares of Series B Preferred
+Stock are held in the name of PJ Advisory Group, which may be deemed to be beneficially owned by Mr. Coutris. Such shares of preferred
+stock are convertible into 1,500,000 shares of common stock. The address of John Coutris, Callie Coutris, and PJ Advisory Group
+is 7227 Centenery Ave., Dallas, Texas, 75225.
+Item 13. Certain Relationships and Related
+Transactions, and Director Independence
+Transactions with Related Persons
+Accrued Liabilities and Other Payables
+— Related Parties
+As of September 30, 2024 and 2023, the
+Company owed Chad Pawlak, its CEO, $11,416 and $0, respectively, for travel and other miscellaneous reimbursements, which have
+been included in accrued liabilities and other payables – related parties on the accompanying consolidated balance sheets.
+The amount due to Chad Pawlak bears a fixed interest rate of 8.0% per annum and is short-term in nature, unsecured and repayable
+on demand.
+As of September 30, 2024 and 2023, the
+Company owed Judith Miller, its former chief business officer and interim chief financial officer, $403 and $0, respectively, for
+miscellaneous reimbursements, which have been included in accrued liabilities and other payables – related parties on the
+accompanying consolidated balance sheets.
+On September 28, 2023, the Company entered
+into a settlement agreement with Bradley White, former CEO of the Company, who was terminated on June 20, 2023. As part of the
+settlement agreement, Mr. White was to receive a total settlement of $300,000, payable in tranches of $50,000, beginning on September
+28, 2023, or within seven days, and each subsequent payment on the monthly anniversary of the settlement agreement execution. In
+exchange for the settlement, Mr. White returned to the Company for cancellation of the following: 3 shares of Series A preferred
+stock and 502,512 shares of Series B preferred stock. As of September 30, 2024 and 2023, the Company still owed Bradley White $50,000
+and $300,000, respectively, which have been included in accrued liabilities and other payables – related parties on the accompanying
+consolidated balance sheets. On June 11, 2025, the Company and Mr. White entered into a settlement agreement, pursuant to which,
+the outstanding balance was settled.
+34
+As of September 30, 2024 and 2023, the
+Company owed Robert Bubeck, its former CEO, $3,846 and $2,025, respectively, for expenses paid by Rober on behalf of the Company,
+which have been included in accrued liabilities and other payables – related parties on the accompanying consolidated balance
+sheets.
+All amounts due to Judith Miller, Bradley
+White, and Robert Bubeck are short-term in nature, non-interest bearing, unsecured and repayable on demand.
+The Company does not own or rent property.
+The Company’s office space is virtual and provided by an officer at no charge.
+Director Independence
+We currently do not have any independent
+directors, as the term “independent” is defined in Section 803A of the NYSE American Company Guide. The Board has made
+its determination as to director independence based on the definition of “independence” as defined under the rules
+of the New York Stock Exchange (“NYSE”) and NYSE American.
+Item 14. Principal Accounting Fees and
+Services.
+The following table sets forth the fees
+billed by our principal independent accountants for the years ended September 30, 2024 and 2023, for the categories of services
+indicated.
+2024
+2023
+Audit fees
+$81,000
+$72,900
+Audit related fees
+—
+—
+Tax fees
+—
+—
+All other fees
+—
+—
+Total
+$81,000
+$72,900
+On December 16, 2020, we engaged Turner,
+Stone & Company, L.L.P. (“Turner”) of Dallas, Texas, as our independent registered public accounting firm. On March
+17, 2024, we dismissed Turner, and on or about March 20, 2024, we engaged Novogradac & Company LLP as our independent registered
+public accounting firm.
+Audit fees. Consists of fees billed
+for the audit of our annual financial statements and review of our interim financial information and services that are normally
+provided by the accountant in connection with year-end and quarter-end statutory and regulatory filings or engagements.
+Audit-related fees. Consists of
+fees billed for services relating to review of other regulatory filings including registration statements, periodic reports and
+audit related consulting.
+Tax fees. Consists of professional
+services rendered by our principal accountant for tax compliance, tax advice and tax planning.
+Other fees. Other services provided
+by our accountants.
+35
+Item 15. Exhibits
+Exhibit
+Description
+3.1
+Florida Articles of Incorporation (incorporated by reference to Exhibit 3.A to our Registration Statement on Form S-1, filed on May 4, 2020)
+3.2
+Nevada Articles of Incorporation (incorporated by reference to Exhibit 3.2 to our Quarterly Report on Form 10-Q, filed on July 20, 2021)
+3.3
+Certificate of Correction to Nevada Articles of Incorporation (incorporated by reference to Exhibit 3.3 to our Quarterly Report on Form 10-Q, filed on July 20, 2021)
+3.4
+Certificate of Amendment to Articles of Incorporation, filed June 24, 2022 (incorporated by reference to Exhibit 3.1 to our Current Report on Form 8-K filed on July 1, 2022)
+3.5
+Bylaws (incorporated by reference to Exhibit 3.B to our Registration Statement on Form S-1, filed on May 4, 2020)
+10.1*
+Exchange Agreement, by and between the Company and Genvor Inc. (incorporated by reference to Exhibit 10.1 to our Current Report on Form 8-K filed on February 1, 2021)
+10.2*
+Agreement and Plan of Merger, by and between the Company, Genvor Inc., and Genvor Acquisition Corp. (incorporated by reference to Exhibit 10.2 to our Annual Report on Form 10-K filed on March 21, 2022)
+10.3
+Employment Agreement, by and between Genvor Incorporated and Chad Pawlak, dated January 17, 2024 (incorporated by reference to Exhibit 10.1 to Current Report on Form 8-K filed on January 23, 2024)
+10.4
+Employment Agreement, by and between Genvor Incorporated and Judith S. Miller, dated January 17, 2024 (incorporated by reference to Exhibit 10.2 to Current Report on Form 8-K filed on January 23, 2024)
+10.5
+Science Advisor Agreement, by and between Genvor Incorporated and Jesse Jaynes, dated January 16, 2024 (incorporated by reference to Exhibit 10.3 to Current Report on Form 8-K filed on January 23, 2024)
+10.6
+Science Advisor Agreement, by and between Genvor Incorporated and Clayton Yates, dated January 16, 2024 (incorporated by reference to Exhibit 10.4 to Current Report on Form 8-K filed on January 23, 2024)
+10.7
+Indemnification Agreement, by and between Genvor Incorporated and Chad Pawlak, dated January 17, 2024 (incorporated by reference to Exhibit 10.5 to Current Report on Form 8-K filed on January 23, 2024)
+10.8
+Indemnification Agreement, by and between Genvor Incorporated and Judith S. Miller, dated January 17, 2024 (incorporated by reference to Exhibit 10.6 to Current Report on Form 8-K filed on January 23, 2024)
+10.9
+Indemnification Agreement, by and between Genvor Incorporated and Jesse Jaynes, dated January 17, 2024 (incorporated by reference to Exhibit 10.7 to Current Report on Form 8-K filed on January 23, 2024)
+10.10
+Indemnification Agreement, by and between Genvor Incorporated and Clayton Yates, dated January 17, 2024 (incorporated by reference to Exhibit 10.8 to Current Report on Form 8-K filed on January 23, 2024)
+31.1**
+Certification of CEO required by Rule 13a-14(1) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+36
+31.2**
+Certification of CFO required by Rule 13a-14(1) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1**
+Certification of CEO pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and Section 1350 of 18 U.S.C. 63
+32.2**
+Certification of CFO pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and Section 1350 of 18 U.S.C. 63
+101.INS***
+Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document).
+101.SCH***
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL***
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF***
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB***
+Inline XBRL Taxonomy Extension Labels Linkbase Document.
+101.PRE***
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).
+* Certain schedules and exhibits have
+been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule or exhibit will be furnished supplementally
+to the Securities and Exchange Commission upon request; provided, however that the Company may request confidential treatment
+pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended, for any schedule or exhibit so furnished.
+** Filed herewith.
+*** XBRL (Extensible Business Reporting
+Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11
+or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act
+of 1934, as amended, and otherwise is not subject to liability under these sections.
+Item 16. Form 10-K Summary
+None.
+37
+SIGNATURES
+Pursuant to the requirements of Section
+13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+/s/ Chad Pawlak
+August 1, 2025
+Chief Executive Officer and
+Date
+Chief Financial Officer
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the
+dates indicated.
+/s/ Chad Pawlak
+August 1, 2025
+Chief Executive Officer, Chief Financial Officer & Director
+Date
+/s/ Clayton Yates
+August 1, 2025
+Director
+Date
+/s/ Jesse Jaynes
+August 1, 2025
+Director
+Date
+38

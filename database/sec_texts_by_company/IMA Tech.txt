@@ -1,0 +1,1492 @@
+false
+2025
+FY
+0001980295
+0001980295
+2024-05-01
+2025-04-30
+0001980295
+2025-04-30
+0001980295
+2025-07-21
+0001980295
+2024-04-30
+0001980295
+2023-05-01
+2024-04-30
+0001980295
+us-gaap:CommonStockMember
+2023-04-30
+0001980295
+us-gaap:AdditionalPaidInCapitalMember
+2023-04-30
+0001980295
+us-gaap:RetainedEarningsMember
+2023-04-30
+0001980295
+2023-04-30
+0001980295
+us-gaap:CommonStockMember
+2024-04-30
+0001980295
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-30
+0001980295
+us-gaap:RetainedEarningsMember
+2024-04-30
+0001980295
+us-gaap:CommonStockMember
+2023-05-01
+2024-04-30
+0001980295
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-01
+2024-04-30
+0001980295
+us-gaap:RetainedEarningsMember
+2023-05-01
+2024-04-30
+0001980295
+us-gaap:CommonStockMember
+2024-05-01
+2025-04-30
+0001980295
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-01
+2025-04-30
+0001980295
+us-gaap:RetainedEarningsMember
+2024-05-01
+2025-04-30
+0001980295
+us-gaap:CommonStockMember
+2025-04-30
+0001980295
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-30
+0001980295
+us-gaap:RetainedEarningsMember
+2025-04-30
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES SECURITIES
+AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+[X] Annual Report pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the fiscal year
+ended April 30, 2025
+[ ] Transition Report
+pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period
+from __________ to __________
+Commission file number 333-273283
+IMA TECH
+(Exact name of registrant
+as specified in its charter)
+Wyoming
+(State or Other Jurisdiction of Incorporation
+or Organization)
+7372
+(Primary Standard Industrial Classification
+Number)
+61-2081994
+(IRS Employer Identification Number)
+Liliia Havrykh
+34 N Franklin Ave 687
+Pinedale, WY 82941, United
+States
++122-94614110
+(Address, including
+zip code, and telephone number, including area code, of registrant’s principal executive offices)
+Securities registered
+pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock
+-
+-
+Securities registered pursuant
+to Section 12(b) of the Act:
+Indicate by check mark if
+the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ]       No [X]
+Indicate by check mark if
+the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes [ ]       No [X]
+Indicate by check mark whether
+the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+Yes [X]
+No [ ]
+Indicate by check mark whether
+the registrant has submitted electronically on its corporate Web site, if any, every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+Yes [ ]       No [X]
+Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions
+of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging
+growth company” in Rule 12b-2 of the Exchange Act:
+Large accelerated Filer
+[ ]
+Accelerated Filer
+[ ]
+Non-accelerated Filer
+[X]
+Smaller reporting company
+[X]
+(Do not check if a smaller reporting company)
+Emerging growth company
+[X]
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. [ ]
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. [
+]
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes [ ]       No [X]
+State the aggregate market
+value of the voting and non-voting common equity held by non-aﬃliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s most recently
+completed second fiscal quarter. As of April 30, 2025, the aggregate market value of the shares of common stock held by non-affiliates
+of the issuer on such date was $0.
+State the number of shares
+outstanding of each of the issuer's classes of common equity, as of the latest practicable date:  5,109,878 common shares issued
+and outstanding as of July 21, 2025.
+2
+IMA TECH
+ANNUAL REPORT ON FORM
+10-K
+TABLE OF CONTENTS
+PART I
+PAGE
+Item 1.
+Business.
+4
+Item 1A.
+Risk Factors.
+8
+Item 1B.
+Unresolved Staff Comments.
+11
+Item 1C
+Cybersecurity.
+11
+Item 2.
+Properties.
+11
+Item 3.
+Legal Proceedings.
+11
+Item 4.
+Mine Safety Disclosures.
+11
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+11
+Item 6.
+[Reserved]
+12
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+12
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk.
+14
+Item 8.
+Financial Statements and Supplementary Data.
+14
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+14
+Item 9A.
+Controls and Procedures.
+15
+Item 9B.
+Other Information.
+16
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+16
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance.
+17
+Item 11.
+Executive Compensation.
+18
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+19
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence.
+19
+Item 14.
+Principal Accountant Fees and Services.
+20
+PART IV
+Item 15.
+Exhibit and Financial Statement Schedules.
+21
+Signatures.
+22
+PART
+I
+ITEM 1. BUSINESS
+Business Overview
+IMA Tech (“the
+Company”) was formed on March 29, 2023 in the State of Wyoming. The primary focus of the Company is on the development and deployment
+of digital avatars. Utilizing advanced technology, the Company creates a unique blend of human intelligence, artificial intelligence,
+and niche databases. Digital avatars can be customized to meet specific business requirements and are applicable across various industries
+online.
+The Company’s core objective is
+to provide customers with a more immersive experience by simplifying the process of fulfilling their requests using AI-driven avatars.
+The use of avatars reduces costs and saves time for implementation, as the human mind processes information faster in an audiovisual format
+than in text. Additionally, digital avatars are capable of serving customers remotely without losing the sense of personal attention and
+human presence. The avatars can serve multiple consumers simultaneously, enhancing a company's operational efficiency and marketing effectiveness.
+We provide services to various industries,
+including education, marketing, banking, and science, among others, benefiting a wide range of businesses and individuals.
+We aim to target two groups: students
+and business professionals. We understand that these two groups have different needs and requirements, which is why we have designed our
+services to meet the unique demands of each. Our services are also useful for learning, for example, by providing visualizations and audio
+accompaniment through an avatar that can assist students in achieving their goals.
+Business professionals can also find our
+services suitable. We understand that businesses face many challenges in today's competitive landscape, so we aim to provide practical
+solutions to help businesses achieve their objectives.
+Businesses that can derive value from
+our website are those that necessitate personalized and interactive consultation services. Examples of such businesses include:
+·Virtual Consultancy Service
+We intend to create a platform
+where clients can access digital avatars specialized in different fields.
+4
+·Consulting Company
+With our services, a consulting company
+can analyze trends, identify client needs, and personalize services further. The avatars can adapt their responses and recommendations
+based on individual client profiles.
+Digital avatars offer scalability advantages
+as multiple clients can interact with different avatars simultaneously. The website can also ensure 24/7 availability, enabling clients
+to access consultations at their convenience, irrespective of time zones.
+The digital avatars'
+ability to provide personalized content allows users to delve deeper into the desired topics and services, leading to increased customer
+satisfaction. By leveraging AI technologies and a vast array of information from the database, the company can accurately target the interests
+of the audience through the digital avatar. This targeted marketing approach leads to improved business operations, enhanced customer
+experiences, and increased competitiveness in the market.
+Our company has initiated its operations
+with the launch of a website (https://ima.gg) on April 1, 2024. This platform serves as an online facility for disseminating information
+about our business activities and sharing updates on our latest developments. Through our website, users can experience our cutting-edge
+avatar technology via API, enabling them to generate videos and download them. Avatars can communicate in up to 40 languages depending
+on the user’s preference.
+Our avatar technology is designed to revolutionize
+the way people interact with digital content, providing them with a more immersive and engaging experience. By leveraging our proprietary
+algorithms and advanced machine learning techniques, we aim to create highly realistic and customizable avatars that can be used in a
+wide range of applications, from virtual assistants and customer service bots to gaming and entertainment.
+Through our website, users can
+explore the full potential of our avatar technology, learning about its features and capabilities and experimenting with different
+settings and configurations. After selecting a pricing plan, they gain full access to the platform. This access allows them to
+register, log in to their account, and easily create videos by tapping the "Create Video" button. Users can customize
+their videos with various platform features, including background color, aspect ratio, avatar appearance, and an extensive voice
+library. This library offers options for language, gender, and additional filters such as age and style, ensuring a personalized and
+unique experience. Avatars can be integrated into various forms of content such as blogs, podcasts, and social media presents a
+multitude of opportunities for imaginative and innovative expression. This utilization of avatars offers endless possibilities for
+creativity and innovation.
+5
+In the future, we envision expanding our
+website and incorporating more advanced technologies to broaden the range of possibilities for avatars, simplifying and improving the
+process of creating educational and business materials, making them more engaging, professional, and personalized. We plan to introduce
+news and updates about our company on the website, providing users with insights into our ongoing research, as well as our plans for future
+expansion.
+With the introduction of full customization,
+avatars will be able to demonstrate various processes and instructions, simplifying the process of perception and memorization of ideas.
+Our goal is to revolutionize the way people
+interact with digital content, providing them with a more immersive and engaging experience. By leveraging the latest advancements in
+artificial intelligence and machine learning, we are confident that we can create avatars that are not only highly realistic but also
+highly adaptable to the needs and preferences of individual users.
+At the heart of our business is a commitment
+to innovation and excellence, and we are dedicated to pushing the boundaries of what is possible in the field of avatar technology. With
+our website and API, we aim to empower users around the world to harness the power of this exciting new technology and unlock its full
+potential. We believe that our website has the potential to transform the way people learn, work, and communicate in the digital age.
+Business Strategy
+Our business strategy is centered around
+utilizing AI avatars to simplify customer requests, reduce costs, and save time for implementation.
+By deploying digital avatars that serve
+customers remotely, we aim to improve efficiency and deliver personalized content. Through the effective use of AI technologies and leveraging
+our vast database, we accurately target our audience's interests and stay at the forefront of innovation. This strategy will enhance customer
+experiences and increase our market competitiveness.
+•       Conduct
+a thorough analysis of the market landscape, including customer needs, preferences, and trends. Identify key competitors and their strategies
+to assess market opportunities and challenges. Determine the potential market size, growth rate, and target audience segments to refine
+our targeting and positioning.
+•       Continuously
+invest in research and development to improve our AI avatars and their capabilities. Focus on enhancing the natural language processing
+(NLP) capabilities, machine learning algorithms, and data analytics to ensure accurate and personalized customer interactions. Explore
+partnerships or acquisitions to augment our technology stack and expand our offerings.
+6
+•       Place
+a strong emphasis on delivering exceptional customer experiences through our AI avatars. Ensure that customer interactions are seamless,
+efficient, and personalized. Continuously gather customer feedback and leverage AI-powered sentiment analysis to understand customer satisfaction
+levels and identify areas for improvement.
+•       Position
+our AI avatars as a cost-saving and time-efficient solution for customers. Highlight the benefits of streamlined processes, reduced manual
+labor, and faster response times. Conduct regular cost analyses to optimize operations and explore automation opportunities to further
+enhance efficiency.
+•       Develop
+a comprehensive marketing and branding strategy to promote our AI avatars. Utilize targeted advertising, content marketing, social media,
+and search engine optimization to increase brand awareness and attract potential customers. Leverage customer testimonials and case studies
+to showcase the effectiveness and value of our offerings.
+•       Maintain
+a strong focus on innovation to stay ahead of the competition. Regularly monitor technological advancements and industry trends to identify
+new opportunities for improvement and expansion. Foster a culture of experimentation and encourage employees to contribute innovative
+ideas to drive the evolution of our AI avatars and digital consulting services.
+•       Prioritize
+the security and privacy of customer data. Implement robust data protection measures, adhere to industry regulations, and ensure transparent
+data handling practices. Communicate our commitment to data privacy and security to build trust with customers and mitigate any potential
+concerns.
+•       Monitor
+and analyze relevant metrics such as customer satisfaction, revenue growth, market share, and cost savings. Regularly assess the effectiveness
+of our AI avatars through customer feedback, surveys, and performance reviews.
+By implementing this business
+strategy, we will leverage our AI avatars to simplify customer requests, reduce costs, and save time for implementation. Our digital
+avatars serve customers, enhancing efficiency and delivering personalized content. Through accurate audience targeting,
+customer-centric experiences, and continuous innovation, we will strengthen our market competitiveness.
+Marketing
+The Company began its marketing efforts
+online, targeting platforms where our potential customers are active. Our marketing strategy is vital for establishing our presence and
+reaching our target audience. We are committed to adapting our approach based on available resources to maximize our reach and impact.
+7
+Advertising
+The Company is committed to exploring efficient
+advertising methods to promote our website of digital avatars. Our approach involves identifying cost-effective channels, including relevant
+websites, social media networks, and digital advertising avenues. Thorough market research and data analysis will guide our decisions,
+ensuring maximum visibility while optimizing marketing expenditure. Furthermore, we utilize Search Engine Optimization (“SEO”)
+techniques to enhance our online presence and attract organic traffic.
+Employees
+IMA Tech
+has one employee, Ms.
+Liliia Havrykh, our President, CEO, Treasurer, Secretary, Director. The Company may consider hiring more employees if the need arises.
+Offices
+Our current registered
+address is located at 34 N Franklin Ave 687, Pinedale, WY 82941, USA. Our telephone number is +12294614110.
+ITEM 1A. Risk Factors
+As
+a Smaller Reporting Company, the Company is not required to include the disclosure under this Item 1A. Risk Factors. Despite the fact
+that we are not required to provide risk factors, we consider the following factors to be risks to our continued growth and development:
+We are at a very early operational
+stage and our business is subject to the substantial risks inherent in the establishment of a new venture.
+Our business strategy is in its early
+stages and as a new venture, we are subject to all the risks associated with establishing a new business. There is a risk that our intended
+business and operations may not be successful, or may take a significant amount of time to achieve success.
+The success of our business will depend
+on a multitude of factors, some of which may be beyond our control or cannot be predicted currently. These factors may include changes
+in market conditions, competition, regulatory changes, and general economic conditions. Any of these factors could have a material adverse
+effect on our financial condition, business prospects, operations, and the value of an investment in the Company.
+We may be unable to raise the additional
+capital needed to grow our business.
+The Company may require additional
+capital to finance its growth and expansion plans, and there is a risk that it may not be able to secure the necessary funding. The Company's
+ability to access funding may depend on several factors, including its financial performance, market conditions, and investor sentiment.
+8
+In the event that the Company
+is unable to secure additional funding, it may face limitations in its ability to expand its operations, develop new products, or enter
+new markets. This could negatively impact our growth prospects and our ability to compete with other players in the industry.
+We face intense
+industry competition.
+The
+Company operates in a highly competitive market, and there is no guarantee that its technology will be able to compete effectively against
+existing or new competitors. This could adversely affect its market share and revenue growth prospects. Among our competitors are “Humanizing
+Technologies”, “Creaitor.ai” and “Synthesys”.
+Strong
+competition in the market may require us to lower our prices, increase our sales and marketing expenses or otherwise invest greater resources
+to maintain or gain market share as needed to adequately compete. Such efforts may negatively impact our profitability. If the Company
+is unable to effectively adapt to changes or developments in the competitive landscape, our business, financial conditions and results
+of operations may be adversely affected.
+In
+terms of market familiarity and understanding, the concept of digital avatars and their potential benefits could be new to many companies
+and industries.
+The
+concept of digital avatars and their potential benefits may be new to many businesses and industries, posing a risk in terms of market
+familiarity and understanding. This lack of widespread knowledge can impede adoption rates and result in resistance from potential clients.
+Potential
+clients may not fully grasp the value proposition and benefits of digital avatars for their specific business requirements due to the
+novelty of the technology. This can lead to slower adoption rates and reluctance to invest in digital avatar solutions. Limited market
+familiarity can also give rise to skepticism and concerns about reliability and integration challenges. Lack of understanding may prompt
+businesses to opt for traditional solutions instead, hindering the market penetration of digital avatars.
+Overall,
+the risk associated with market familiarity and understanding highlights the need for ongoing education and awareness initiatives, as
+well as continuous monitoring of the market landscape to adapt strategies accordingly.
+The
+failure to develop and maintain our digital avatars could negatively impact our ability to ensure optimal performance.
+Developing
+and maintaining digital avatars entails significant technical challenges and ongoing updates to ensure optimal performance. The Company
+must possess advanced technology infrastructure capable of handling the processing and rendering of avatars in real-time. Insufficient
+or outdated infrastructure may lead to system failures, security breaches, and limitations in natural language processing capabilities,
+which can adversely affect the reliability and functionality of digital avatars. Such disruptions or negative experiences have the potential
+to result in client loss and reputational damage.
+9
+Regular
+updates and maintenance are essential to keep digital avatars up to date with advancements in technology, improved natural language processing
+capabilities, and enhanced security measures. Failure to perform timely updates and maintenance tasks can lead to compatibility issues,
+security vulnerabilities, and reduced functionality, thereby impacting user satisfaction and damaging the company's reputation. The dynamic
+and rapidly evolving nature of the digital avatar landscape necessitates a proactive approach to address technical challenges and limitations.
+System
+failures, downtime, and security breaches pose additional risks. Technical infrastructure is susceptible to failures due to hardware malfunctions,
+software bugs, or network outages.
+Such
+disruptions can render digital avatars inaccessible or result in degraded performance, leading to user dissatisfaction and potential client
+loss. Protecting user data from security breaches is crucial, as any unauthorized access or compromise can have severe consequences, including
+reputational damage, legal repercussions, and client attrition.
+If we fail to effectively
+manage our growth, our business, financial condition and results of operations would be harmed.
+Our Company is on a development stage and is a subject
+to the strains of ongoing development and growth, which will place significant demands on our management and our operational and financial
+infrastructure. Further, we may not grow as we expect, if we fail to manage our growth effectively or to develop and expand our managerial,
+operational and financial resources and systems, our business and financial results would be materially harmed.
+We may not be able to manage growth effectively, which
+could damage our reputation, limit our growth and negatively affect our operating results. Although we cannot provide any assurance that
+we will successfully identify emerging trends and growth opportunities in this business sector and we may lose out on opportunities.
+The longevity of our business depends
+in part on our ability to enhance and sell the functionality of our current solutions to remain competitive and meet customer needs.
+The longevity and sustained success of
+our business are contingent upon our ability to continuously enhance and effectively market the functionality of our solutions. The competitive
+landscape in which we operate is characterized by rapid technological advancements and evolving customer needs. Failure to adapt to these
+changes and deliver innovative, feature-rich offerings may result in a loss of market share and competitiveness.
+Addressing the risk associated with the
+development of our website requires ongoing investment in research and development, collaboration with industry partners, and a proactive
+approach to monitoring market trends and customer preferences. We must also allocate sufficient resources and talent to ensure timely
+development, rigorous testing, and successful implementation of new features and functionalities.
+10
+Failure to develop our website to remain
+competitive and meet customer needs may adversely affect our business prospects, financial performance, and long-term sustainability.
+ITEM 1B. Unresolved Staff Comments
+Not applicable to smaller
+reporting companies.
+ITEM 1C. Cybersecurity
+The security of information
+is under managements control and ensured by internal security rules applied.
+ITEM 2. Properties
+Our
+mailing address is located at 34 N Franklin Ave 687, Pinedale, WY 82941, USA. The Company is a virtual company with our sole employee
+working remotely.
+ITEM 3. Legal Proceedings
+We know of no legal
+proceedings to which we are a party or to which any of our property is the subject which are pending, threatened or contemplated or any
+unsatisfied judgments against us.
+ITEM 4. Mine Safety Disclosures
+Not applicable.
+PART II
+ITEM 5. Market
+for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Our common stock is not currently traded
+on any exchange. We cannot assure that any market for the shares will develop or be sustained. We have not paid any dividends on our common
+stock and do not anticipate paying cash dividends in the foreseeable future. We intend to retain any earnings to finance the growth of
+our business. We cannot assure you that we will ever pay cash dividends.
+Whether we pay cash dividends in the future
+will be at the discretion of our Board of Directors and will depend upon our financial condition, results of operations, capital requirements
+and any other factors that the Board of Directors decides are relevant. See Management’s Discussion and Analysis of Financial Condition
+and Results of Operations.
+As of April 30, 2025,
+the Company has 5,109,878 shares of common stock issued and outstanding held by Company’s
+shareholders.
+11
+ITEM 6. Reserved
+Not
+applicable to smaller reporting companies.
+ITEM 7. Management’s Discussion
+and Analysis of Financial Condition and Results of Operations
+The following discussion of our financial
+condition and results of operations should be read in conjunction with (i) our audited financial statement as of April 30, 2025, that
+appear elsewhere in this filing. This filing contains certain forward-looking statements and our future operating results could differ
+materially from those discussed herein. Such forward-looking statements involve known and unknown risks, uncertainties and other factors
+which may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements
+expressed or implied by such forward- looking statements. Given these uncertainties, readers are cautioned not to place undue reliance
+on such forward-looking statements. We disclaim any obligation to update any such factors or to announce publicly the results of any revisions
+of the forward -looking statements contained herein to reflect future events or developments. For information regarding risk factors that
+could have a material adverse effect on our business, refer to the Risk Factors section of this filing beginning on page 8.
+Going Concern
+The future of our Company is dependent
+upon its ability to obtain financing and upon future profitable operations from the sale of products and services through our websites.
+Management has plans to seek additional capital through a private placement and public offering of its Common Stock, if necessary. Our
+auditors have expressed a going concern opinion which raises substantial doubts about our ability to continue as a going concern.
+Liquidity and Capital Resources
+As of April 30, 2025, the Company had
+$9,400 in current assets, compared to $7,732 as of April 30, 2024. The Company’s liabilities stood at $267,297 as of April 30, 2025,
+a decrease of $28,836 from the previous year. The accumulated deficit was $82,937 as of April 30, 2025, an increase of $55,071 since April
+30, 2024.
+For the year ended April 30, 2025, the
+Company used $89,744 in cash for operating activities, compared to $75,419 of cash provided by operating activities for the year ended
+April 30, 2024. For the year ended April 30, 2025, the Company didn't use cash in investing activities, while for the year ended April
+30, 2024, the Company used cash in investing activities in the amount of $271,238 for the purchase of intangible assets. Additionally,
+the Company received $86,512 in cash financing activities for the year ended April 30, 2025, compared to $187,551 in the previous year,
+mostly due to proceeds from loans from related parties and proceeds from the sale of common stock.
+12
+The Company is expected to
+continue to generate revenue from operations in the coming year; however, there can be no assurance that this will happen. The Company
+relies solely on financing provided by loans from Liliia Havrykh, our President, pursuant to the Credit Agreement between IMA Tech and
+Ms. Havrykh dated March 29, 2023, as amended on December 22, 2023, April 1, 2024, and December 16, 2024. The loans will also be used to
+fund the Company’s operations and will be disbursed “as needed.” The aggregate amount of such funds shall not exceed
+$300,000. We believe that such loans will be sufficient for us to continue operating for the next 12 months. The Company will repay the
+amounts lent to the President from the revenues it receives.
+As
+the Company’s expenses are relatively stable, unless additional websites are
+rolled out, the Company believes it can continue its present operations with projected revenues together with proceeds from a private
+offering. The Company will consider raising additional funds through sales of equity, debt and convertible securities, if it is deemed
+necessary. The Company has no intention in investing in short-term or long-term discretionary financial programs of any kind.
+Results of Operations
+Total revenue for the year ended April
+30, 2025 was $55,374 and $10,800 was generated for the year ended April 30, 2024.
+Total expenses for the year ended April
+30, 2025 were $110,445, made up of professional fees of $40,569, advertising & marketing expenses of $5,000, maintenance expense of
+$3,000, website technical support services of $4,900, bank service charges of $48, and amortization expense of $56,928.
+Total expenses for the year ended April
+30, 2024 were $38,635, made up of professional fees of $22,564, amortization of $15,454, and general and administrative expense of $617.
+The increases in revenue and expenses in
+the current year were mostly due to the general overall growth of the Company. Specifically, we increased our customer base through advertising
+and marketing, paid fees to become eligible with the Depositor Trust Company (DTC), and had our intangible assets amortized for a full
+year, versus a partial year in the prior period.
+For the year ended April 30, 2025 and
+2024, the Company recorded a net loss of $55,071 and $27,835, respectively.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements
+that have, or are reasonably likely to have, a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+13
+Critical Accounting Policies
+Our financial statements and accompanying
+notes have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis. The
+preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and expenses during the reporting periods.
+We regularly evaluate the accounting policies
+and estimates that we use to prepare our financial statements. In general, management’s estimates are based on historical experience,
+on information from third party professionals, and on various other assumptions that are believed to be reasonable under the facts and
+circumstances. Actual results could differ from those estimates made by management.
+We consider the following to be critical
+accounting policies:
+Impairment of Long-Lived Assets
+The Company continually monitors events
+and changes in circumstances that could indicate carrying amounts of long-lived assets may not be recoverable. When such events or changes
+in circumstances are present, the Company assesses the recoverability of long-lived assets by determining whether the carrying value
+of such assets will be recovered through undiscounted expected future cash flows. If the total of the future cash flows is less than
+the carrying amount of those assets, the Company recognizes an impairment loss based on the excess of the carrying amount over the fair
+value of the assets. Assets to be disposed of are reported at the lower of the carrying amount or the fair value less costs to sell.
+ITEM 7A. Quantitative and Qualitative
+Disclosures About Market Risk
+Not applicable to smaller reporting companies.
+ITEM 8. Financial Statements and Supplementary
+Data
+This information appears following Item
+15 of this Annual Report and is included herein by reference.
+ITEM 9. Changes in and Disagreements
+with Accountants on Accounting and Financial Disclosure
+We have had no changes in or disagreements with
+our independent registered public accountant.
+14
+ITEM 9A. Controls and Procedures
+The Company is responsible
+for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the
+Exchange Act) that is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the
+Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission’s rules and forms.
+Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to
+be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s
+management, including its principal executive officer or officers and principal financial officer or officers, or persons performing similar
+functions, as appropriate to allow timely decisions regarding required disclosure.
+An assessment was conducted
+with the participation of our principal executive and principal financial officer of the effectiveness of the design and operation of
+our disclosure controls and procedures as of April 30, 2025. Based on that evaluation, our management concluded that our disclosure controls
+and procedures were not effective as of such date to ensure that information required to be disclosed in the reports that we file or submit
+under the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms.
+Management’s Report on Internal Control
+over Financial Reporting
+Management is
+responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Exchange Act Rule
+13a-15(f)). The Company’s internal control over financial reporting is a process designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with accounting principles generally accepted in the United States of America. Because of its inherent limitations, internal control
+over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future
+periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. Under the supervision and with the participation of management,
+including the Chief Executive Officer and Chief Financial Officer, the Company conducted an evaluation of the effectiveness of the
+Company’s internal control over financial reporting as of April 30, 2025, using the criteria established in “Internal
+Control - Integrated Framework” issued by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO -
+2013").
+A material weakness is a
+deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility
+that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely
+basis. In its assessment of the effectiveness of internal control over financial reporting as of April 30, 2025, the Company determined
+that there were control deficiencies that constituted material weaknesses, as described below.
+15
+1.We lack an adequate internal control structure – Due to the size of the Company we do not have the
+appropriate control activities, risk assessment procedures, controls over information and communication, or effective monitoring controls.
+2.We do not have appropriate segregation of duties or adequate accounting resources – The
+Company has only one employee therefore no reviews are in place to ensure adequate financial reporting. Additionally, we lack
+accounting personnel with sufficient accounting knowledge, experience, and understanding of U.S. generally accepted accounting
+principles (“US GAAP”) or the rules of the U.S. Securities and Exchange Commission (“SEC”). Further, while
+not being legally obligated to have an audit committee, it is the management’s view that such a committee, including a
+financial expert member, is an utmost important entity level control over the Company’s financial statements.
+Currently the
+Board of Directors acts in the capacity of the Audit Committee, and does not include a member that is considered to be independent of
+management to provide the necessary oversight over management’s activities.
+3.We did not implement appropriate information technology controls – As at April 30, 2025, the Company
+retains copies of all financial data and material agreements; however, there is no formal procedure or evidence of normal backup of the
+Company’s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors. Further, there
+are no IT controls in place to prevent changes to, or misstatement in, financial reporting.
+Accordingly, the Company
+concluded that these control deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial
+statements will not be prevented or detected on a timely basis by the Company’s internal controls.
+As a result of the material
+weaknesses described above, management has concluded that the Company did not maintain effective internal control over financial reporting
+as of April 30, 2025 based on criteria established in Internal Control- Integrated Framework issued by COSO.
+Changes in Internal Controls
+over Financial Reporting
+There has been no change
+in our internal control over financial reporting during the year ended April 30, 2025, that has materially affected, or is reasonably
+likely to materially affect, our internal control over financial reporting.
+ITEM 9B. Other Information
+None.
+ITEM 9C. Disclosure Regarding Foreign
+Jurisdictions that Prevent Inspections
+None.
+16
+PART III
+ITEM 10. Directors, Executive Officers
+and Corporate Governance
+Name
+Age
+Position
+Liliia Havrykh
+28
+President, CEO, Treasurer, Secretary, Director
+Liliia Havrykh, President, CEO, Treasurer, Secretary, and Director
+Ms. Liliia Havrykh has served as President,
+CEO, Treasurer, Secretary, and Director since the Company’s inception on March 29, 2023. Ms. Havrykh is a highly accomplished business
+executive with a diverse background in operations, logistics, and administration. She began her career as an Operations Coordinator and
+gained valuable experience in customer service, event planning, and marketing. Liliia Havrykh then went on to work as Logistics Operations
+Manager at SLS Logistics Company, where she honed her skills in supply chain management, logistics coordination, and customer relations.
+Ms. Havrykh holds a degree from Railway University's Economics Faculty in Izmail City, Ukraine.
+Ms. Havrykh, our President and sole director,
+will be devoting all her time needed for planning and organizing activities for IMA Tech.
+During the past ten years, Ms. Havrykh
+has not been the subject to any of the following events:
+1.    Any bankruptcy petition
+filed by or against any business of which Liliia Havrykh was a general partner or executive officer either at the time of the bankruptcy
+or within two years prior to that time.
+2.    Any conviction in
+a criminal proceeding or being subject to a pending criminal proceeding.
+3.    An order, judgment,
+or decree, not subsequently reversed, suspended or vacated, or any court of competent jurisdiction, permanently or temporarily enjoining,
+barring, suspending or otherwise limiting Ms. Havrykh involvement in any type of business, securities or banking activities.
+4.    Found by a court of
+competent jurisdiction (in a civil action), the Securities and Exchange Commission or the Commodity Future Trading Commission to violate
+a federal or state securities or commodities law, and the judgment has not been reversed, suspended or vacated.
+5.    Was the subject of
+any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending
+or otherwise limiting for more than 60 days the right to engage in any activity described in paragraph (f)(3)(i) of this section, or to
+be associated with persons engaged in any such activity;
+17
+6.    Was found by a court
+of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment
+in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated;
+7.    Was the subject of,
+or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended
+or vacated, relating to an alleged violation of:
+i.      Any Federal
+or State securities or commodities law or regulation; or
+ii.    Any law or regulation
+respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of
+disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or
+iii.  Any law or regulation prohibiting
+mail or wire fraud or fraud in connection with any business entity; or
+8.    Was the subject of,
+or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined
+in Section 3(a) (26) of the Exchange Act (15 U.S.C. 78c(a) (26))), any registered entity (as defined in Section 1(a) (29) of the Commodity
+Exchange Act (7 U.S.C. 1(a) (29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over
+its members or persons associated with a member.
+ITEM 11. Executive
+Compensation
+Summary Compensation Table
+Name and
+Principal
+Position
+Period
+Salary
+($)
+Bonus
+($)
+Stock
+Awards
+($)
+Option
+Awards
+($)
+Non-Equity
+Incentive Plan
+Compensation
+($)
+All Other
+Compensation
+($)
+All Other
+Compensation
+($)
+Total
+($)
+Liliia Havrykh
+President, CEO, Treasurer, Secretary, Director
+Since inception (March 29, 2023) till April 30, 2025
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+18
+There are no current employment agreements between
+the Company and its Officer.
+Ms. Liliia Havrykh currently devotes
+substantial amount of time to our operations. She has agreed to work with no remuneration until such time as the Company receives sufficient
+revenues necessary to provide management salaries. At this time, we cannot accurately estimate when sufficient revenues will occur
+to implement this compensation, or what the amount of the compensation will be.
+ITEM 12. Security Ownership of Certain
+Beneficial Owners and Management and Related Stockholder Matters
+The following table sets forth, as of
+the date of this report, certain information with respect to the beneficial ownership of shares of our Common Stock by: (i) each person
+known to us to be the beneficial owner of more than five percent (5%) of our outstanding shares of Common Stock, (ii) each director or
+nominee for director of our company, (iii) each of the executives, and (iv) our directors and executive officers as a group. Unless otherwise
+indicated, the address of each shareholder is c/o our company at our principal office address:
+Beneficial Owner*
+Address
+Number of Shares
+Owned Percent of Class**
+Liliia Havrykh
+34 N Franklin Ave 687, Pinedale, WY 82941, United States
+4,000,000
+78.280%
+(*) Beneficial ownership is determined in
+accordance with the rules of the SEC which generally attribute beneficial ownership of securities to persons who possess sole or shared
+voting power and/or investment power with respect to those securities.
+Unless otherwise indicated, voting and
+investment power are exercised solely by the person named above or shared with members of such person’s household. This includes
+any shares such person has the right to acquire within 60 days.
+(**) Percent of class is calculated on
+the basis of the number of fully diluted shares outstanding on July 21, 2025 - 5,109,878.
+ITEM 13. Certain Relationships and Related
+Transactions, and Director Independence
+Certain Relationships and Related Transactions
+It is our practice and policy to
+comply with all applicable laws, rules and regulations regarding related person transactions, including the Sarbanes-Oxley Act of
+2002. A related person is an executive officer, director or more than 5% stockholder of IMA Tech, including any immediate
+family members, and any entity owned or controlled by such persons. Our Board of Directors (excluding any interested director) is
+charged with reviewing and approving all related-person transactions, and a special committee of our Board of Directors is
+established to negotiate the terms of such transactions. In considering related-person transactions, our Board of
+Directors considers all relevant available facts and circumstances.
+19
+Director Independence
+Our board of directors is currently composed
+of one member Ms. Liliia Havrykh, and she does not qualify as an independent director in accordance with the published listing requirements
+of the NASDAQ Global Market (the Company has no plans to list on the NASDAQ Global Market). The NASDAQ independence definition includes
+a series of objective tests, such as that the director is not, and has not been for at least three years, one of our employees and that
+neither the director, nor any of his family members has engaged in various types of business dealings with us.
+In addition, our board of directors has
+not made a subjective determination as to Liliia Havrykh that no relationships exist which, in the opinion of our board of directors,
+would interfere with the exercise of independent judgment in carrying out the responsibilities of a director, though such subjective determination
+is required by the NASDAQ rules. Had our board of directors made these determinations, our board of directors would have reviewed and
+discussed information provided by directors and us regarding our director's business and personal activities and relationships as they
+may relate to us and our management.
+Related Party Transactions
+As of April 30, 2025, the CEO and sole
+director of the Company had advanced $252,798 to the Company, of which $58,793 was advanced and $928 was repaid during the year ended
+April 30, 2025. This loan is for working capital purposes and is unsecured, interest-free, and has no fixed payment terms other than the
+maturity date of March 29, 2028.
+ITEM 14. Principal Accountant Fees and
+Services
+The
+following table sets forth the fees billed to our Company by our independent registered accounting firm for the years ended April 30,
+2025 and 2024.
+2025
+2024
+Audit Fees
+$
+16,800
+18,150
+Audit Related Fees
+-
+-
+Tax Fees
+-
+-
+All Other Fees
+-
+-
+Total
+$
+16,800
+$
+18,150
+20
+PART IV
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT
+SCHEDULES
+(a)The
+following documents are filed as part of this Form 10-K:
+(1)Financial
+Statements:
+Report of Independent Registered Public Accounting Firm (PCAOB Firm ID: 6258)
+F-2
+Balance Sheets as of April 30, 2025 and 2024
+F-3
+Statements of Operations for the years ended April 30, 2025 and 2024
+F-4
+Statements of Changes in Stockholders’ Deficit for the years ended April 30, 2025 and 2024
+F-5
+Statements of Cash Flows for the years ended April 30, 2025 and 2024
+F-6
+Notes to Financial Statements as of April 30, 2025
+F-7 to F-12
+(2)Financial
+Statement Schedules:
+None.
+(3)Exhibits
+The following exhibits
+are filed with this report. Exhibits which are incorporated herein by reference can be obtained from the SEC’s website at sec.gov.
+Exhibit No.
+Description
+19
+Insider Trading Policy
+31.1*
+Certification
+of Principal Executive Officer and Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange
+Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1*
+Certification
+of Principal Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. SECTION 1350,
+as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+* Filed herewith.
+21
+SIGNATURES
+Pursuant to the requirements
+of the Securities Act of 1934, as amended, the registrant has duly caused this quarterly report to be signed on its behalf by the undersigned,
+there unto duly authorized on July 22, 2025.
+IMA Tech
+By: /s/ Liliia Havrykh
+Liliia Havrykh, President, Secretary, Treasurer, CEO, Principal Executive
+Officer, Principal Financial and Accounting Officer,
+President, Secretary,
+22
+INDEX
+TO FINANCIAL STATEMENTS
+Report of Independent Registered Public Accounting Firm (PCAOB Firm ID: 6258)
+F-2
+Balance Sheets as of April 30, 2025 and 2024
+F-3
+Statements of Operations for the years ended April 30, 2025 and 2024
+F-4
+Statements
+of Changes in Stockholders’ Deficit for the years ended April 30, 2025 and 2024
+F-5
+Statements of Cash Flows for the years ended April 30, 2025 and 2024
+F-6
+Notes to Financial Statements as of April 30, 2025
+F-7 - F-12
+F-1
+Report of Independent Registered Public Accounting Firm
+Board of Directors and Shareholders of
+IMA Tech
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets of IMA Tech as of April
+30, 2025 and 2024, and the related statements of operations, changes in stockholders’ equity (deficit), and cash flows for each
+of the two years in the period ended April 30, 2025 and the related notes (collectively referred to as the “financial statements”).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of IMA Tech as of April 30,
+2025 and 2024, and the results of its operations and its cash flows for each of the two years in the period ended April 30, 2025, in conformity
+with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying financial statements have been prepared assuming that
+the entity will continue as a going concern. As discussed in Note 2 to the financial statements, the entity has recurring net losses from
+operations and is reporting an accumulated deficit. Additionally, the entity anticipates further losses in the development of their business.
+These factors raise substantial doubt about the entity’s ability to continue as a going concern. Management's plans in regard to
+these matters are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome
+of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility of the entity’s
+management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting
+firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent
+with respect to IMA Tech in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities
+and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. IMA Tech is not required to have, nor were we engaged to perform, an audit of
+its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over
+financial reporting but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control over financial
+reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from the current period audit
+of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts
+or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+We determined that there are no critical audit matters.
+/s/ Mac Accounting Group & CPAs,
+LLP
+We have served as IMA Tech’s
+auditor since 2023.
+Midvale, Utah
+July 22, 2025
+F-2
+IMA Tech
+Balance Sheets
+As of April 30, 2025 and 2024
+April
+30, 2025
+April
+30, 2024
+ASSETS
+Current
+Assets
+Сash
+$
+4,500
+$
+7,732
+Prepaid
+Expenses
+4,900
+-
+Total
+Current Assets
+9,400
+7,732
+Other
+Assets
+Intangible
+Assets, net
+212,256
+269,184
+Total
+Other Assets
+212,256
+269,184
+TOTAL
+ASSETS
+$
+221,656
+$
+276,916
+LIABILITIES
+& STOCKHOLDERS’ EQUITY (DEFICIT)
+Liabilities
+Current
+Liabilities
+Accounts
+Payable
+$
+10,099
+$
+96,500
+Deferred
+Revenue
+4,400
+4,700
+Loan
+from Related Parties
+252,798
+194,933
+Total
+Current Liabilities
+267,297
+296,133
+Total
+Liabilities
+267,297
+296,133
+Stockholders’
+Equity (Deficit)
+Common
+Stock, $0.001
+par value, 75,000,000
+shares authorized,
+5,109,878
+and 4,154,966
+shares issued and outstanding at
+April 30, 2025 and 2024, respectively
+5,110
+4,155
+Additional
+Paid-in Capital
+32,186
+4,494
+Accumulated
+Deficit
+(82,937)
+(27,866)
+Total
+Stockholders’ Equity (Deficit)
+(45,641)
+(19,217)
+TOTAL
+LIABILITIES & STOCKHOLDERS`EQUITY (DEFICIT)
+$
+221,656
+$
+276,916
+The accompanying notes are
+an integral part of the financial statements
+F-3
+IMA Tech
+Statements of Operations
+For the Years Ended April 30, 2025 and 2024
+Year
+Ended
+April
+30, 2025
+Year
+Ended
+April
+30, 2024
+REVENUES
+$
+55,374
+$
+10,800
+OPERATING
+EXPENSES
+General and Administrative
+53,517
+23,181
+Amortization
+56,928
+15,454
+TOTAL OPERATING EXPENSES
+110,445
+38,635
+LOSS
+FROM OPERATIONS
+(55,071)
+(27,835)
+PROVISION FOR INCOME
+TAXES
+-
+-
+NET LOSS
+$
+(55,071)
+$
+(27,835)
+NET LOSS PER SHARE:
+BASIC AND DILUTED
+$
+(0.01)
+$
+(0.01)
+WEIGHTED AVERAGE NUMBER
+OF SHARES OUTSTANDING: BASIC AND DILUTED
+4,776,760
+4,024,079
+The
+accompanying notes are an integral part of the financial statements
+F-4
+IMA Tech
+Statements of Changes in Stockholders’
+Equity (Deficit)
+For the years Ended April 30, 2025 and 2024
+Common
+Stock
+Additional
+Paid-in-Capital
+Accumulated
+Deficit
+Total
+Stockholders’ Equity (Deficit)
+Shares
+Amount
+Balance
+as of April 30, 2023
+4,000,000
+$
+4,000
+$
+-
+$
+(31)
+$
+3,969
+Common
+Shares Issued for Cash
+154,966
+155
+4,494
+-
+4,649
+Net
+Loss
+-
+-
+-
+(27,835)
+(27,835)
+Balance
+as of April 30, 2024
+4,154,966
+4,155
+4,494
+(27,866)
+(19,217)
+Common
+Shares Issued for Cash
+954,912
+955
+27,692
+-
+28,647
+Net
+Loss
+-
+-
+-
+(55,071)
+(55,071)
+Balance
+as of April 30, 2025
+5,109,878
+$
+5,110
+$
+32,186
+$
+(82,937)
+$
+(45,641)
+The
+accompanying notes are an integral part of the financial statements
+F-5
+IMA Tech
+Statements of Cash Flows
+For the Years Ended April 30, 2025 and 2024
+Year
+Ended
+April
+30, 2025
+Year
+Ended
+April
+30, 2024
+OPERATING
+ACTIVITIES
+Net
+Loss
+$
+(55,071)
+$
+(27,835)
+Adjustments
+to Reconcile Net loss
+to
+Net Cash Used in Operating Activities:
+Amortization
+56,928
+15,454
+Changes
+in Operating Assets and Liabilities:
+Prepaid
+Expenses
+(4,900)
+-
+Accounts
+Payable
+(86,401)
+83,100
+Deferred
+Revenue
+(300)
+4,700
+Net
+Cash Provided by (Used in) Operating Activities
+(89,744)
+75,419
+INVESTING
+ACTIVITIES
+Intangible
+Assets
+-
+(271,238)
+Net
+Cash Used in Investing Activities
+-
+(271,238)
+FINANCING
+ACTIVITIES
+Proceeds
+from Loan from Related Parties
+58,793
+182,902
+Repayments
+to Related Parties
+(928)
+-
+Proceeds
+from the Sale of Common Stock
+28,647
+4,649
+Net
+Cash Provided by Financing Activities
+86,512
+187,551
+Net
+Cash Increase (Decrease) for Period
+(3,232)
+(8,268)
+Cash
+at Beginning of Period
+7,732
+16,000
+Cash
+at End of Period
+$
+4,500
+$
+7,732
+SUPPLEMENTAL
+CASH FLOW INFORMATION
+Cash
+payments for:
+Interest
+$
+-
+$
+-
+Income
+taxes
+$
+-
+$
+-
+The
+accompanying notes are an integral part of the financial statements
+F-6
+IMA Tech
+Notes to the Financial
+Statements
+As of April 30, 2025
+NOTE
+1 – ORGANIZATION AND DESCRIPTION OF BUSINESS
+IMA Tech (“the Company”) was incorporated
+under the laws of the State of Wyoming, U.S. on March 29, 2023 (Inception). IMA Tech is to provide customers with a more immersive experience
+by simplifying the process of fulfilling their requests using AI-driven avatars.
+NOTE
+2 - GOING CONCERN
+The financial statements were prepared
+on a going concern basis that the Company will be able to settle its obligations and make use of its assets in the ordinary course of
+business in the near future. IMA Tech has generated $55,374 revenue
+and incurred a net loss of $55,071 for as the year
+ended April 30, 2025, and is reporting an accumulated deficit since inception of $82,937
+as of April 30, 2025. Additionally, further losses are anticipated in the development of its business. As a result, there is substantial
+doubt about the Company's ability to continue as a going concern.
+The Company's capacity to continue as
+a going concern is reliant on its ability to generate profitable operations in the future and/or secure the required funding to meet
+its obligations and settle liabilities resulting from standard business operations when they become due. Management plans to finance
+operational expenses for the next twelve months by using available cash on hand, as well as loans from directors and/or a private offering
+of Common Stock.
+NOTE
+3 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis
+of Presentation
+The financial statements of the Company
+have been prepared in accordance with generally accepted accounting principles in the United States of America and are presented in US
+dollars. The Company has adopted an April 30 fiscal year-end.
+Use
+of Estimates
+The preparation of financial statements
+in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date the financial statements and the reported
+amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+F-7
+Cash
+and Cash Equivalents
+The Company considers all highly liquid
+instruments purchased with a maturity of three months or less to be cash equivalents to the extent that the funds are not being held
+for investment purposes. Our cash balance was $4,500 and $7,732
+as of April 30, 2025 and 2024, respectively and we had no cash equivalents.
+Advertising
+Costs
+Advertising costs are expensed as incurred.
+During the year ended April 30, 2025 and 2024, the Company incurred advertising costs of $5,000
+and $0, respectively.
+Intangible
+Assets
+The Company recognizes and discloses certain
+intangible assets in its financial statements, in accordance with Accounting Standards Codification (“ASC”) Subtopic 350-40,
+Internal-Use Software-Computer Software Developed or Obtained for Internal Use, and ASC Subtopic 360-10. ASC 350-40-15-2A describes internal-use
+software as having both of the following characteristics:
+a. The software
+is acquired, internally developed, or modified solely to meet the entity’s internal needs.
+b. During
+the software’s development or modification, no substantive plan exists or is being developed to market the software externally.
+ASC Subtopic 350-40 requires assets to
+be recorded at the cost to develop the asset and requires an intangible asset to be amortized over its useful life. Costs incurred to
+renew or extend the term of a recognized intangible asset are recognized as an expense in the period in which they are incurred.
+As of April 30, 2025 and 2024 we recorded
+intangible assets, totaling $212,257 and $269,184, respectively that include the following:
+April
+30, 2025
+April
+30, 2024
+Website development
+$
+110,638
+$
+110,638
+AI API development
+174,000
+174,000
+Accumulated Depreciation
+(72,382)
+(15,454)
+Total intangible assets
+$
+212,256
+$
+269,184
+These costs are being amortized over a
+period of 5 years, resulting in an expected annual amortization expense of $56,928 through April 30, 2028 and $41,472 for the year ended
+April 30, 2029. For the year ended April 30, 2025 and 2024, we recorded amortization expenses of $56,928 and $15,454, respectively.
+F-8
+Fair
+Value of Financial Instruments
+ASC 820, Fair Value Measurements and Disclosures,
+establishes a three-tier fair value hierarchy, which prioritizes the inputs in measuring fair value.  The hierarchy prioritizes
+the inputs into three levels based on the extent to which inputs used in measuring fair value are observable in the market.
+These tiers include:
+Level 1: defined as observable inputs
+such as quoted prices in active markets;
+Level 2: defined as inputs other than
+quoted prices in active markets that are either directly or indirectly observable; and
+Level 3:  defined as unobservable
+inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.
+The carrying value of our assets and liabilities
+approximate fair value due to their short-term nature.
+Impairment
+of Long-Lived Assets
+The Company continually monitors events
+and changes in circumstances that could indicate carrying amounts of long-lived assets may not be recoverable. When such events or changes
+in circumstances are present, the Company assesses the recoverability of long-lived assets by determining whether the carrying value
+of such assets will be recovered through undiscounted expected future cash flows. If the total of the future cash flows is less than
+the carrying amount of those assets, the Company recognizes an impairment loss based on the excess of the carrying amount over the fair
+value of the assets. Assets to be disposed of are reported at the lower of the carrying amount or the fair value less costs to sell.
+Income
+Taxes
+The Company follows the liability method
+of accounting for income taxes.  Under this method, deferred income tax assets and liabilities are recognized for the estimated
+tax consequences attributable to differences between the financial statement carrying values and their respective income tax basis (temporary
+differences).  The effect on deferred income tax assets and liabilities of a change in tax rates is recognized in income in the
+period that includes the enactment date.
+F-9
+Revenue
+Recognition
+The Company recognizes revenue in accordance
+with ASC 606. ASC 606 directs entities to recognize revenue when the promised goods or services are transferred to the customer. The
+amount of revenue recognized should equal the total consideration an entity expects to receive in return for the goods or services. The
+Financial Accounting Standards Board created a five-step approach that entities should apply when determining the amount and timing of
+revenue recognition:
+Step 1: Identify the contract with a customer
+Step 2: Identify the performance obligations
+in the contract
+Step 3: Determine the transaction price
+Step 4: Allocate the transaction price
+to the performance obligations in the contract
+Step 5: Recognize revenue when (or as)
+the entity satisfies a performance obligation
+The Company provides API keys that give access
+to the number of minutes for the video creation process using our software. The Company's policy generally requires payment upon issuance
+of an invoice. Once payment is received, the Company provides the key to the service and specifies the period of time (generally 1 month)
+for which these minutes must be used. On occasion, the Company may provide the key prior to payment with an agreed upon payment date
+in the executed contract. The customer may not transfer the key-access to third parties. Revenue is recognized by the Company ratably
+over the specified period of time that the customer is granted access to our software.
+During the years ended April 30, 2025
+and 2024 the Company recorded $55,374 and $10,800
+of revenue, respectively. As of April 30, 2025, 2024, and 2023 the Company reported deferred revenue of $4,400, $4,700, and $0 respectively.
+Accounts receivable was $0 as of April 30, 2025, 2024, and 2023.
+Net
+Income (Loss) Per Share
+The Company computes income (loss) per
+share in accordance with ASC 260-10-45, Earnings per Share, which requires presentation of both basic and diluted earnings per share
+on the face of the statement of operations. Basic income (loss) per share is computed by dividing net income (loss) available to Common
+Stockholders by the weighted average number of outstanding common shares during the period. Diluted income (loss) per share gives effect
+to all dilutive potential common shares outstanding during the period. Dilutive income (loss) per share excludes all potential common
+shares if their effect is anti-dilutive. The Company has no potential dilutive instruments, and therefore, basic and diluted income (loss)
+per share are equal.
+F-10
+Foreign
+Currency
+The Company’s functional and reporting
+currency is the U.S. dollar. Transactions may occur in foreign currencies and management follows ASC 830, Foreign Currency Matters.
+Monetary assets and liabilities denominated in foreign currencies are translated using the exchange rate prevailing at the balance sheet
+date. Non-monetary assets and liabilities denominated in foreign currencies are translated at rates of exchange in effect at the
+date of the transaction. Average monthly rates are used to translate revenues and expenses. Gains and losses arising on translation
+or settlement of foreign currency denominated transactions or balances are included in the Statement of Operations.
+Dividends
+The Company has not adopted any policy
+regarding payment of dividends. No dividends have been paid during the period presented.
+Segment
+Reporting
+The Company operates as a single operating
+and reportable segment, developing and deploying digital avatars. Our Chief Executive Officer is our Chief Operating Decision Maker,
+(“CODM”) who evaluates performance and makes operating decisions about allocating resources considering our single geographical
+area and on a consolidated basis. Accordingly, the CODM considers the revenue and operating expenses of our single operating segment
+as reported on the statement of operations and considers our current and total assets as recorded on the balance sheet. There are no
+additional expense or asset information that are supplemental to those disclosed in these financial statements that are regularly provided
+to the CODM.
+Recent
+Accounting Pronouncements
+The Company
+has reviewed all the recent accounting pronouncements issued to date of the issuance of these financial statements, and does not believe
+any of these pronouncements will have a material impact on the Company.
+NOTE
+4 – COMMON STOCK
+The Company has 75,000,000 common shares
+authorized with a par value of $ 0.001 per share.
+During the year ended April 30, 2025,
+the Company issued 954,912 shares of common stock for cash proceeds at $0.03 per share for a total of $28,647.
+During the year ended April 30, 2024,
+the Company issued 154,966 shares of common stock for cash proceeds at $0.03 per share for a total of $4,649.
+There were 5,109,878
+and 4,154,966 shares of common stock issued and outstanding
+as of April 30, 2025 and 2024, respectively.
+F-11
+NOTE
+5 – RELATED PARTY TRANSACTIONS
+To support the Company's financial
+needs, it may obtain advances from related parties until such time that it can sustain its operations or secure sufficient funding through
+the sale of its equity or traditional debt financing. Shareholders have not made a written commitment for continued support, and the
+amounts involved represent advances or payments made to settle liabilities or pay for operations.
+As of April 30, 2025, the CEO and sole
+director of the Company had advanced $252,798
+to the Company, of which $58,793 was advanced and $928 was paid back during the year ended April 30, 2025, all of which was under a loan
+agreement dated March 29, 2023 for advances up to $90,000, which was amended on December 22, 2023 to increase the loan amount to $140,000
+and amended on April 1, 2024 to increase the loan amount to $200,000 and amended on December 16, 2024 to increase the loan amount to
+$300,000. This loan is for working capital purposes and is unsecured, interest-free, and has no fixed payment terms other than the maturity
+date of March 29, 2028.
+NOTE
+6- COMMITMENTS AND CONTINGENCIES
+Litigation
+The Company was not subject to any
+legal proceedings from the period March 29, 2023 (Inception) to April 30, 2025, and no legal proceedings are currently pending or threatened
+to the best of our knowledge.
+NOTE
+7 – SUBSEQUENT EVENTS
+In accordance
+with ASC 855, Subsequent Events, the Company has evaluated subsequent events from April 30, 2025 through July 22, 2025, the date the
+financial statements were issued, and has determined that there are no items to disclose.
+F-12

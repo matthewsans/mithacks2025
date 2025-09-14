@@ -1,0 +1,3692 @@
+false
+FY
+0001794276
+0001794276
+2024-01-01
+2024-12-31
+0001794276
+2024-06-28
+0001794276
+2025-07-17
+0001794276
+2023-01-01
+2023-12-31
+0001794276
+2024-12-31
+0001794276
+2023-12-31
+0001794276
+us-gaap:CommonStockMember
+2022-12-31
+0001794276
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001794276
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001794276
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001794276
+2022-12-31
+0001794276
+us-gaap:CommonStockMember
+2023-12-31
+0001794276
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001794276
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001794276
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001794276
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:CommonStockMember
+2024-12-31
+0001794276
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001794276
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001794276
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001794276
+YCQH:SCQCAgricultureCoLimitedMember
+2020-06-15
+2020-06-15
+0001794276
+YCQH:SCQCAgricultureCoLimitedMember
+2020-06-15
+0001794276
+YCQH:XMYCTradingCoLimitedMember
+2023-04-19
+2023-04-19
+0001794276
+YCQH:XMYCTradingCoLimitedMember
+2023-09-25
+0001794276
+YCQH:SecuritiesTransferAgreementMember
+2024-11-30
+2024-11-30
+0001794276
+YCQH:PeriodEndHKUS1ExchangeRateMember
+2024-12-31
+0001794276
+YCQH:PeriodEndHKUS1ExchangeRateMember
+2023-12-31
+0001794276
+YCQH:PeriodEndCNYUS1ExchangeRateMember
+2024-12-31
+0001794276
+YCQH:PeriodEndCNYUS1ExchangeRateMember
+2023-12-31
+0001794276
+YCQH:PeriodAverageHKUS1ExchangeRateMember
+2024-12-31
+0001794276
+YCQH:PeriodAverageHKUS1ExchangeRateMember
+2023-12-31
+0001794276
+YCQH:PeriodAverageCNYUS1ExchangeRateMember
+2024-12-31
+0001794276
+YCQH:PeriodAverageCNYUS1ExchangeRateMember
+2023-12-31
+0001794276
+YCQH:SCQCAgriculturalCoLimitedMember
+2023-01-01
+2023-01-31
+0001794276
+YCQH:SCQCAgriculturalCoLimitedMember
+2023-03-31
+0001794276
+srt:DirectorMember
+2024-12-31
+0001794276
+YCQH:TenancyAgreementMember
+YCQH:SCQCAgricultureCoLimitedMember
+2022-12-01
+0001794276
+YCQH:TenancyAgreementMember
+YCQH:SCQCAgricultureCoLimitedMember
+2022-12-01
+2022-12-01
+0001794276
+YCQH:TenancyAgreementMember
+YCQH:SCQCAgricultureCoLimitedMember
+2023-12-01
+2023-12-01
+0001794276
+YCQH:TenancyAgreementMember
+YCQH:SCQCAgricultureCoLimitedMember
+2024-03-05
+2024-03-05
+0001794276
+YCQH:TenancyAgreementMember
+YCQH:SCQCAgricultureCoLimitedMember
+2024-03-05
+0001794276
+2023-01-01
+2023-11-30
+0001794276
+2023-11-30
+0001794276
+2023-12-01
+2023-12-31
+0001794276
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YCQH:NoCustomerMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+YCQH:NoCustomerMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2023-01-01
+2023-12-31
+0001794276
+YCQH:CustomerAMember
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+2024-01-01
+2024-12-31
+0001794276
+YCQH:CustomerAMember
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+2023-01-01
+2023-12-31
+0001794276
+YCQH:CustomerBMember
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+2024-01-01
+2024-12-31
+0001794276
+YCQH:CustomerBMember
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:OtherCustomerMember
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:OtherCustomerMember
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+YCQH:CustomersMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:SalesRevenueNetMember
+us-gaap:ProductConcentrationRiskMember
+YCQH:CustomersMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+YCQH:VendorAMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+YCQH:VendorAMember
+us-gaap:SalesRevenueNetMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+YCQH:VendorBMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+YCQH:VendorBMember
+us-gaap:SalesRevenueNetMember
+2023-01-01
+2023-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+YCQH:VenderOtherMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-12-31
+0001794276
+us-gaap:ProductConcentrationRiskMember
+YCQH:VenderOtherMember
+us-gaap:SalesRevenueNetMember
+2023-01-01
+2023-12-31
+0001794276
+country:US
+2024-01-01
+2024-12-31
+0001794276
+country:HK
+2024-01-01
+2024-12-31
+0001794276
+YCQH:PRCMember
+2024-01-01
+2024-12-31
+0001794276
+country:US
+2024-12-31
+0001794276
+country:US
+2023-12-31
+0001794276
+country:HK
+2024-12-31
+0001794276
+country:HK
+2023-12-31
+0001794276
+country:CN
+2024-12-31
+0001794276
+country:CN
+2023-12-31
+0001794276
+YCQH:BCBFTradingBusinessMember
+2024-01-01
+2024-12-31
+0001794276
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-12-31
+0001794276
+YCQH:BeautyAndOtherProductsTradingBusinessMember
+2024-01-01
+2024-12-31
+0001794276
+YCQH:BCBFTradingBusinessMember
+2024-12-31
+0001794276
+YCQH:OnlineRetailingBusinessMember
+2024-12-31
+0001794276
+YCQH:BeautyAndOtherProductsTradingBusinessMember
+2024-12-31
+0001794276
+YCQH:BCBFTradingBusinessMember
+2023-01-01
+2023-12-31
+0001794276
+YCQH:OnlineRetailingBusinessMember
+2023-01-01
+2023-12-31
+0001794276
+YCQH:BeautyAndOtherProductsTradingBusinessMember
+2023-01-01
+2023-12-31
+0001794276
+YCQH:BCBFTradingBusinessMember
+2023-12-31
+0001794276
+YCQH:OnlineRetailingBusinessMember
+2023-12-31
+0001794276
+YCQH:BeautyAndOtherProductsTradingBusinessMember
+2023-12-31
+0001794276
+country:CN
+2024-01-01
+2024-12-31
+0001794276
+country:US
+2023-01-01
+2023-12-31
+0001794276
+country:CN
+2023-01-01
+2023-12-31
+0001794276
+srt:ScenarioPreviouslyReportedMember
+2024-01-01
+2024-09-30
+0001794276
+srt:RestatementAdjustmentMember
+2024-01-01
+2024-09-30
+0001794276
+YCQH:RestatedMember
+2024-01-01
+2024-09-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-09-30
+0001794276
+srt:RestatementAdjustmentMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-09-30
+0001794276
+YCQH:RestatedMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-09-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+2024-07-01
+2024-09-30
+0001794276
+srt:RestatementAdjustmentMember
+2024-07-01
+2024-09-30
+0001794276
+YCQH:RestatedMember
+2024-07-01
+2024-09-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+YCQH:OnlineRetailingBusinessMember
+2024-07-01
+2024-09-30
+0001794276
+srt:RestatementAdjustmentMember
+YCQH:OnlineRetailingBusinessMember
+2024-07-01
+2024-09-30
+0001794276
+YCQH:RestatedMember
+YCQH:OnlineRetailingBusinessMember
+2024-07-01
+2024-09-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+2024-01-01
+2024-06-30
+0001794276
+srt:RestatementAdjustmentMember
+2024-01-01
+2024-06-30
+0001794276
+YCQH:RestatedMember
+2024-01-01
+2024-06-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-06-30
+0001794276
+srt:RestatementAdjustmentMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-06-30
+0001794276
+YCQH:RestatedMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-06-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+2024-04-01
+2024-06-30
+0001794276
+srt:RestatementAdjustmentMember
+2024-04-01
+2024-06-30
+0001794276
+YCQH:RestatedMember
+2024-04-01
+2024-06-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+YCQH:OnlineRetailingBusinessMember
+2024-04-01
+2024-06-30
+0001794276
+srt:RestatementAdjustmentMember
+YCQH:OnlineRetailingBusinessMember
+2024-04-01
+2024-06-30
+0001794276
+YCQH:RestatedMember
+YCQH:OnlineRetailingBusinessMember
+2024-04-01
+2024-06-30
+0001794276
+srt:ScenarioPreviouslyReportedMember
+2024-01-01
+2024-03-31
+0001794276
+srt:RestatementAdjustmentMember
+2024-01-01
+2024-03-31
+0001794276
+YCQH:RestatedMember
+2024-01-01
+2024-03-31
+0001794276
+srt:ScenarioPreviouslyReportedMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-03-31
+0001794276
+srt:RestatementAdjustmentMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-03-31
+0001794276
+YCQH:RestatedMember
+YCQH:OnlineRetailingBusinessMember
+2024-01-01
+2024-03-31
+0001794276
+us-gaap:SubsequentEventMember
+YCQH:MrZhangChenjiangMember
+2025-04-01
+2025-04-28
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:CNY
+YCQH:Integer
+utr:sqm
+iso4217:HKD
+YCQH:Lease
+iso4217:CNY
+xbrli:shares
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+Form
+10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+The Fiscal Year Ended December 31, 2024
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from __________ to __________
+Commission
+File Number 333-252500
+Intelligent
+Hotel Group Ltd
+(Exact
+name of registrant issuer as specified in its charter)
+Nevada
+61-1948707
+(State
+or other jurisdiction of
+incorporation
+or organization)
+(IRS
+Employer
+Identification
+No.)
+No.
+188 and No. 5, East Beizhan Road,
+Shapingba
+District, Chongqing,
+China
+404100
+(Address
+of Principal Executive Offices)
+(Zip
+Code)
+No.
+188 and No. 5, East Beizhan Road
+Shapingba
+District, Chongqing, China 404100
+(Address
+of principal executive offices, including zip code)
+(+86)
+15016720830
+(Registrant’s
+telephone number, including area code)
+Securities
+registered under Section 12(b) of the Exchange Act
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+N/A
+N/A
+N/A
+Securities
+registered under Section 12(g) of the Exchange Act
+N/A
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+☐ No ☒
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act.
+Yes
+☐ No ☒
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+Yes
+☐ No ☒
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company”
+in Rule 12b-2 of the Exchange Act.
+Large
+accelerated Filer ☐
+Accelerated
+Filer ☐
+Non-accelerated
+Filer ☒
+Smaller
+reporting company ☒
+Emerging
+growth company ☒
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act
+☐
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7262(b)) by the registered
+public accounting firm that prepared or issued its audit report.
+☐
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act).
+Yes
+☐ No ☒
+The aggregate market value of the registrant’s common stock, par value $0.0001 per share, held by non-affiliates of the registrant,
+as computed by reference to the price at which the common equity was last sold as of June 28, 2024, was approximately $51.4 million. Shares
+of voting stock held by executive officers, directors, holders owning more than 10% of the outstanding voting stock, and stockholders
+affiliated with a director or an executive officer have been excluded from this calculation because such persons may be deemed to be affiliates.
+Exclusion of such shares should not be construed to indicate that any of such persons possesses the power, direct or indirect, to control
+the Registrant, or that any such person is controlled by or under common control with the Registrant.
+The
+number of the registrant’s shares of common stock, $0.0001 par value per share, outstanding on July 17, 2025 was 101,400,000.
+TABLE
+OF CONTENTS
+PART I
+Item
+1.
+Business
+4
+Item
+1A.
+Risk Factors
+7
+Item
+1B.
+Unresolved Staff Comments
+8
+Item
+1C.
+Cybersecurity
+8
+Item
+2
+Properties
+9
+Item
+3.
+Legal Proceedings
+9
+Item
+4.
+Mine Safety Disclosures
+9
+PART II
+Item
+5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+10
+Item
+6.
+[Reserved]
+11
+Item
+7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+11
+Item
+7A.
+Quantitative and Qualitative Disclosures about Market Risk
+16
+Item
+8.
+Financial Statements and Supplementary Data
+F-1
+Item
+9.
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure
+17
+Item
+9A.
+Controls and Procedures
+17
+Item
+9B.
+Other Information
+18
+Item
+9C.
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+18
+PART III
+Item
+10.
+Directors, Executive Officers and Corporate Governance
+19
+Item
+11.
+Executive Compensation
+21
+Item
+12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+22
+Item
+13.
+Certain Relationships and Related Transactions, and Director Independence
+23
+Item
+14.
+Principal Accounting Fees and Services
+23
+PART IV
+Item
+15.
+Exhibits and Financial Statement Schedules
+24
+Item
+16.
+Form 10-K Summary
+24
+SIGNATURES
+25
+2
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This
+Annual Report on Form 10-K contains forward-looking statements. These forward-looking statements are not historical facts but rather
+are based on current expectations, estimates and projections. We may use words such as “anticipate,” “expect,”
+“intend,” “plan,” “believe,” “foresee,” “estimate” and variations of these
+words and similar expressions to identify forward-looking statements. These statements are not guarantee of future performance and are
+subject to certain risks, uncertainties and other factors, some of which are beyond our control, are difficult to predict and could cause
+actual results to differ materially from those expressed or forecasted. These risks and uncertainties include the following:
+●
+The
+availability and adequacy of our cash flow to meet our requirements;
+●
+Economic,
+competitive, demographic, business and other conditions in our local and regional markets;
+●
+Changes
+or developments in laws, regulations or taxes in our industry;
+●
+Actions
+taken or omitted to be taken by third parties including our suppliers and competitors, as well as legislative, regulatory, judicial
+and other governmental authorities;
+●
+Competition
+in our industry;
+●
+The
+loss of or failure to obtain any license or permit necessary or desirable in the operation of our business;
+●
+Changes
+in our business strategy, capital improvements or development plans;
+●
+The
+availability of additional capital to support capital improvements and development; and
+●
+Other
+risks identified in this report and in our other filings with the Securities and Exchange Commission or the SEC.
+This
+report should be read completely and with the understanding that actual future results may be materially different from what we expect.
+The forward-looking statements included in this report are made as of the date of this report and should be evaluated with consideration
+of any changes occurring after the date of this Report. We will not update forward-looking statements even though our situation may change
+in the future and we assume no obligation to update any forward-looking statements, whether as a result of new information, future events
+or otherwise.
+Use
+of Defined Terms
+Except
+as otherwise indicated by the context, references in this Report to:
+●
+The
+“Company,” “we,” “us,” “our,” or “YCQH” are references to Intelligent
+Hotel Group Ltd, formally known as YCQH Agricultural Technology Co. Ltd, a Nevada corporation.
+●
+“Common
+Stock” refers to the common stock, par value $0.0001, of the Company;
+●
+“U.S.
+dollar,” “$” and “US$” refer to the legal currency of the United States;
+●
+“Securities
+Act” refers to the Securities Act of 1933, as amended; and
+●
+“Exchange
+Act” refers to the Securities Exchange Act of 1934, as amended.
+3
+PART
+I
+ITEM
+1. BUSINESS
+Overview
+Intelligent
+Hotel Group Ltd, formerly known as YCQH Agricultural Technology Co., Ltd, was incorporated under the laws of the State of Nevada on October
+15, 2019. On May 6, 2025, the Company filed a Certificate of Amendment with the Nevada Secretary of State to change its name to Intelligent
+Hotel Group Ltd (the “Name Change”), which was previously approved by the Board of Directors on April 15, 2025. To reflect
+the Name Change, the Board approved a corresponding amendment to the Company’s bylaws on May 7, 2025.
+The
+Company originally operated in the bio-carbon-based fertilizer (“BCBF”) trading business, sourcing products directly from
+producers in China and selling them to customers primarily located in the People’s Republic of China. The Company did not own or
+operate any production facilities or manufacturing equipment for BCBF products. On July 25, 2022, the Company ventures into online retailing
+business through e-commerce platform, retailing a series of daily use products covering from healthcare products, cosmetic products,
+fashion products, household products and so forth. On April 19, 2023, the Company ventures into beauty products trading business which
+includes retail sale to customer mainly based in People Republic of China, sourcing directly from producers in China.
+As
+of the date of this report, the Company has ceased all operations related to the BCBF, online retailing business, and beauty products
+trading business. In light of this transition, the Company is actively evaluating potential acquisition targets and strategic business
+opportunities in order to identify a new direction that aligns with its long-term growth objectives. The Company’s current strategy
+is to reposition itself by identifying and acquiring or partnering with a target business that offers sustainable value and future expansion
+potential.
+Organizational
+Structure
+The
+Company was incorporated under the laws of the State of Nevada on October 15, 2019. On October 15, 2019, the Company issued 100,000 shares
+of restricted common stock, par value $0.0001 per share, to Ms. Wang Min, the Company’s founding officer and director, for a total
+consideration of $10. Ms. Wang Min serves as our Chief Executive Officer, President, Secretary, Treasurer and Director. On November 28,
+2019, the Company issued an additional 49,900,000 restricted common stock, par value $0.0001 per share, to Ms. Wang for $4,990. On January
+1, 2020, the Company issued a total of 40,000,000 restricted shares to ten non-U.S. shareholders (4,000,000 shares each) at a price of
+$0.001 per share, raising an aggregate of $40,000 in working capital. In regards to all of the above transactions we claim an exemption
+from registration afforded by Section 4a(2) and/or Regulation S of the Securities Act of 1933, as amended (“Regulation S”)
+due to the fact that all sales of stock were made to non-U.S. persons (as defined under Rule 902 section (k)(2)(i) of Regulation S),
+pursuant to offshore transactions, and no directed selling efforts were made in the United States by the issuer, a distributor, any of
+their respective affiliates, or any person acting on behalf of any of the foregoing.
+On
+December 16, 2019, the Company acquired 100% of YCQH Holding Limited, herein referred as “YCQH Seychelles,” a company incorporated
+in the Republic of Seychelles, from Ms. Wang Min, in consideration of $1. On the same day, YCQH Seychelles acquired YCQH Agricultural
+Technology Co. Limited, a company incorporated in Hong Kong, herein referred as the “YCQH HK,” from Ms. Wang Min in consideration
+of HKD100 (equivalent to approximately $13).
+On
+December 10, 2019, YCQH HK incorporated YCWB Agricultural Technology Co. Limited, a wholly foreign owned enterprise, in SiChuan Province,
+China, herein referred as “YCWB,” with Ms. Wang Min as the legal representative.
+On
+June 15, 2020, the Company, through subsidiary YCWB, acquired SCQC Agricultural Co. Limited., herein referred as “SCQC,” a
+company incorporated in SiChuan Province, China for a consideration of CNY 1,169,996 (approximately $165,605) with a carrying value
+on the book of CNY 1,168,554 (approximately $165,401) from a third party.
+On
+April 19, 2023, the Company, through subsidiary YCWB Agricultural Technology Co. Limited, incorporated XMYC Trading Co. Limited, a company
+incorporated in XiaMen City, China with an investment capital of CNY 500,000 (approximately $68,931).
+4
+On
+September 25, 2023, the Company, through subsidiary YCWB Agricultural Technology Co. Limited, disposed XMYC Trading Co. Limited, with a
+consideration of CNY 0.1 (approximately $0.01). After the disposal of XMYC, the Company continued to operate the beauty products trading
+business through YCWB for a period thereafter. As of the date of this report, the Company has ceased all activities in the
+online retail and beauty trading sectors.
+On
+April 17, 2025, YCWB entered into a definitive equity transfer agreement (the “Disposal Agreement”) with Chenjiang Zhang,
+an independent third party, pursuant to which YCWB agreed to sell all of its equity interest in SCQC. The Board of Directors of the Company
+reviewed and approved the Disposal Agreement and the proposed transaction on April 17, 2025. On April 28, 2025, the Company completed
+the disposition of SCQC. SCQC was previously engaged in business segments that the Company has determined
+are no longer consistent with its long-term development strategy. The decision to dispose of SCQC was made as part of the Company’s
+strategic plan to streamline operations and focus on other business activities.
+Below
+is a list of our subsidiaries as of the date of this report:
+Company
+name
+Place/date
+of incorporation
+Principal
+activities
+YCQH
+Holding Limited
+(“YCQH Seychelles”)
+Seychelles
+/ October 11, 2019
+Investment
+holding
+YCQH
+Agricultural Technology Co.
+Limited
+(“YCQH
+HK”)
+Hong
+Kong / October 10, 2019
+Investment
+holding
+YCWB Agricultural Technology Co.
+Limited (“YCWB”)
+SiChuan
+Province, China
+/December 10, 2019
+Operates
+in BCBF trading business, online business through e-commerce platforms, and beauty products trading business
+As
+of the date of this report, our corporate structure is as follows:
+On
+November 30, 2024, the Company entered into a Securities Transfer Agreement (the “Agreement”) with Ms. Wang Min (the “Seller”),
+the largest shareholder of the Company, and Ms. Yin Yixuan (the “Buyer”), a non-U.S. person. Pursuant to the terms of the
+Agreement, the Seller agreed to sell, and the Buyer agreed to purchase, an aggregate of 47,000,000 shares of common stock (the “Shares”)
+for a total purchase price of $1,094,400. No directed selling efforts were made in the United States by the Company, the Seller, or any
+person acting on behalf of any of the foregoing. The Board of Directors approved the Agreement on November 25, 2024, and on the same
+date, adopted resolutions appointing the Buyer as the Company’s Director and Chief Executive Officer, effective November 30, 2024.
+In connection with updated terms and mutual agreement of the parties, the Company, the Seller, and the Buyer subsequently entered into
+an Amendment to the Securities Transfer Agreement, dated June 24, 2025 (the “Amendment”). The Amendment modified certain
+key terms of the Agreement, including but not limited to adjustments to the purchase price, the closing schedule, and the mechanics for
+share transfer.
+5
+On
+November 25, 2024, Ms. Wang notified the Board of her decision to resign, and the Board accepted her resignation.On November 30, 2024,
+Ms. Wang Min resigned from all positions at the Company, including her roles as a director on the Board of Directors and as the Chief
+Executive Officer. Ms. Yin Yixuan was appointed as a director and as Chief Executive Officer of the Company and therefore assumed control
+of the Company’s management and governance as Director and CEO pursuant to the Board resolutions adopted in November 2024.
+Our
+Business
+The
+Company identified an opportunity in wholesaling and retailing high-quality, sustainable, and environmentally friendly BCBF. This fertilizer
+was known for improving crop yield while supporting environmental sustainability. The BCBF was sourced from a third-party supplier and
+produced through thermal decomposition of straw in a low-oxygen environment, a process that converts organic material into bio-carbon
+at relatively low temperatures. The Company did not operate any production facilities or maintain any manufacturing equipment related
+to BCBF.
+Management
+believed that the product helped maintain soil fertility, enhance crop yields, and improve soil structure, water retention, and nutrient
+efficiency. The BCBF also contributed to balancing carbon and nitrogen levels, neutralizing soil pH, and creating favorable conditions
+for plant growth. The BCBF sold by the Company, produced through straw thermal decomposition, replaces the function of activated carbon.
+The combination of soil and BCBF is capable of absorbing and reducing pollution content such as heavy metals from agricultural residual
+wastes. Further, the combination of water and BCBF is capable of purifying water by producing carbohydrate and glucose, which could be
+absorbed by, and is conducive to the growth of, plants. Additionally, BCBF possesses outstanding water storage capacity, which can store
+up to 10 times the water content when compared to soil without BCBF, which in turn provides farmers greater flexibility during times
+of hardship such as a drought. The BCBF sold by the Company contained approximately 45% organic matter, 20% bio-charcoal, 10% humic acid,
+5% NPK, and an effective microorganism count of 20 million per gram. The BCBF products were distributed through the Company’s wholly
+owned subsidiary, SCQC, which was later disposed in April 2025. As of the date of this report, the Company is no longer engaged in the BCBF trading business.
+Bio-carbon-based-fertilizer,
+BCBF
+On
+July 25, 2022, the Company expanded into the online retail business through an e-commerce platform, offering a range of consumer products
+including healthcare, cosmetics, fashion, and household goods. During our operation of the online retail business in 2024, we purchased
+goods directly from suppliers and then sold them to the users of the online retail platform, with the Company bearing the inventory risk
+of the goods.
+On
+April 19, 2023, the Company ventures into beauty products trading business which includes retail sale to customer mainly based in People
+Republic of China, sourcing directly from producers in China. On September 25, 2023, the Company through subsidiary YCWB disposed XMYC
+Trading Co. Limited, with a consideration of CNY 0.1 (approximately $0.01). Despite the disposal of XMYC, the Company continued its beauty
+products trading operations through YCWB until April 2025.
+6
+Recent
+Developments
+As
+of the date of this report, the Company is no longer engaged in any of its previous business segments.
+The
+Company is actively formulating a diversified development strategy and plans to potentially enter multiple new industries such as hotel,
+cinema, green energy, and automotive by the end of 2025. Currently, Ms. Yin has reached agreements of intent with GIORGIO MORANDI hotel
+management company and several private cinema operators, exploring potential mergers or acquisitions opportunities. However, the Company
+has not yet executed formal contracts or made final commitments to these agreements, and the relevant plans still require approval from
+the board of directors. At the same time, Ms. Yin is also evaluating business opportunities in the green energy and automotive-related
+fields, such as automotive lubricants and renewable energy fuels, but no agreements or binding commitments have been reached yet. Any
+detailed plans or proposals arising from these explorations will be evaluated and approved by the Board.
+The
+transition away from our historical operations means we currently lack a stable revenue-generating business. As a result, we may require
+substantial capital to support due diligence efforts, fund potential acquisitions, cover ongoing operating expenses, and establish the
+infrastructure and personnel needed to launch or integrate new businesses. See “ITEM 1A. RISK FACTORS - We may face challenges
+in executing its business plan if it cannot secure adequate capital and may be compelled to incur high capital costs.”
+Competition
+The
+competitive environment of China’s fertilizer industry is very tense despite its market size. The Company competes with other manufacturers,
+distributors, wholesalers that possess significantly greater financial and non-financial resources, manufacturing capacity, well established
+business models and distribution channels and branding.
+The
+online consumer goods and beauty products markets in China are intensely competitive and price-sensitive. For our online retail
+business, our operations were conducted primarily as a third-party seller on established e-commerce platforms in the PRC that host
+thousands of sellers offering similar products. As such, we faced significant competition not only from major national and
+international brands, but also from numerous small and medium-sized merchants operating within the same ecosystem. In addition, our
+position as a third-party seller limited our ability to differentiate our offerings, as we relied on the infrastructure, algorithms,
+and policies of the underlying platforms for visibility, traffic, and transaction processing. As we sourced our products directly
+from third-party manufacturers and did not maintain our own inventory or engage in private labeling, we were limited in our ability
+to build a distinctive brand identity or customer base. Our competitors included both brand owners and large-scale distributors who
+typically have greater control over supply chains, marketing budgets, product pricing, and brand development.
+Employees
+The
+Company has 5 employees. Three of them work on a full-time basis. Additionally, the Company maintains mandatory social security for pensions,
+medical, unemployment, work-related injury and maternity insurance. The Company segregates individual employees in accordance to function
+as displayed below:
+Functions
+Number
+of Employees
+Management
+1
+Sales,
+Marketing, and After Sales Service
+2
+Accounting,
+Finance, and Internal Operation
+2
+Total
+5
+ITEM
+1A. RISK FACTORS
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. Despite the fact that we are not required to provide risk factors, we consider the following factors to be risks to
+our continued growth and development:
+We
+may face challenges in executing its business plan if it cannot secure adequate capital and may be compelled to incur high capital costs.
+Our
+ability to successfully identify, acquire, and develop new business opportunities depends significantly on our access to sufficient capital.
+As of the date of this report, we are no longer engaged in our previous business segments, including the wholesale and retail of BCBF,
+online sales of consumer goods through e-commerce platforms, and trading of beauty products. We have exited these lines of business and
+are actively evaluating new strategic directions, including potential acquisitions.
+7
+The
+transition away from our historical operations means we currently lack a stable revenue-generating business. As a result, we may require
+substantial capital to support due diligence efforts, fund potential acquisitions, cover ongoing operating expenses, and establish the
+infrastructure and personnel needed to launch or integrate new businesses. Re-entering a product-driven or distribution-based business
+would likely require investment in logistics, marketing, and supply chain relationships. Similarly, restarting or expanding an e-commerce
+or consumer-facing business would necessitate upfront spending on technology, platform development, customer acquisition, and supplier
+coordination. If we are unable to secure adequate financing on commercially reasonable terms, we may be forced to delay, modify, or abandon
+elements of our business plan. In particular, insufficient capital could prevent us from completing acquisitions we are currently evaluating
+or responding to time-sensitive opportunities.
+Moreover,
+if financing is only available at a high cost or with unfavorable terms, it could adversely impact our financial condition and strategic
+flexibility. For example, raising capital through equity issuances may dilute the interests of our existing shareholders, while debt
+financing could increase our leverage and financial risk.
+Our
+ability to obtain additional capital is subject to a number of uncertainties, including investor sentiment, market conditions, our financial
+performance, and the perceived viability of our future business plans. There is no assurance that we will be able to raise sufficient
+funding on acceptable terms or at all, which could materially and adversely affect our ability to pursue and implement our long-term
+growth strategy.
+Our
+operational performance and financial results may be adversely impacted by prevailing global market and economic conditions, including
+ongoing geopolitical instability in various regions.
+Our
+business, financial condition, and results of operations may be materially affected by global economic and market conditions beyond our
+control. Factors such as rising inflation, interest rate volatility, fluctuations in currency exchange rates, disruptions in global supply
+chains, and labor market constraints can impact the availability and cost of capital, investor sentiment, and the valuation of potential
+acquisition targets. In particular, continued geopolitical instability in regions such as Eastern Europe, the Middle East, and East Asia
+may lead to heightened market uncertainty, increased commodity and transportation costs, and shifts in regulatory or trade policies that
+could disrupt business operations globally.
+These
+macroeconomic and geopolitical factors may also reduce the availability of viable business opportunities or affect the performance of
+any business we acquire. Furthermore, investor risk appetite and access to funding may decline during periods of market stress, directly
+impacting our ability to raise capital or execute our strategic plans. If such adverse conditions persist or worsen, our ability to identify,
+finance, or operate new business ventures could be significantly impaired.
+ITEM
+1B. UNRESOLVED STAFF COMMENTS
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item.
+ITEM
+1C. CYBERSECURITY
+To
+optimize our information security management system, we undertake periodic updates as deemed appropriate. We incorporate relevant standards
+and frameworks to facilitate monitoring of compliance with regulatory, industry, and evolving data privacy requirements. Additionally,
+we engage in ongoing monitoring of our IT systems and processes to promptly identify and address actual and potential threats. Our approach
+includes regular adjustments to systems, procedures, and policies in response to identified threats and risks. This adaptive strategy
+ensures our resilience against emerging security challenges.
+Our
+organizational prioritize on addressing cybersecurity risks, with management playing a central role in assessing and managing these risks.
+Our internal processes mandate the escalation of significant cybersecurity risks to executive leadership, as well as to management and
+committees responsible for preventing, detecting, mitigating, and remedying cybersecurity incidents. These processes ensure consistent
+and effective incident handling and response, establishing standards for internal notifications and escalations. Moreover, they outline
+considerations for external notifications, including disclosure or notification requirements to state and/or federal agencies or affected
+customers in the event of a cybersecurity incident. This structured approach reinforces our commitment to robust cybersecurity governance
+and risk management practices.
+As
+of December 31, 2024, the Company has not identified any cybersecurity threats, including previous incidents, that have materially impacted
+our business strategy, results of operations, or financial condition. This assertion signifies our diligent efforts in managing and mitigating
+cybersecurity risks, contributing to the stability and continuity of our operations.
+8
+ITEM
+2. PROPERTIES
+Our
+office is located at No. 188 and No. 5, East Beizhan Road, Shapingba District, Chongqing, China 404100. This space is leased by Chongqing
+Jiushengguang Enterprise Management Consulting Co., LTD. (“Chongqing Jiushengguang”), which is controlled by our manager,
+Mr. Zhu Peiyuan, and is provided to us free of charge through our indirect wholly owned subsidiary SCQC Agriculture Co. Limited since
+June 21, 2024. We believe that our current facilities are adequate to meet our immediate operational needs, and that suitable additional
+space will be available if expansion becomes necessary. Please refer to Note 10 for the details of the lease.
+ITEM
+3. LEGAL PROCEEDINGS
+SCQC
+was involved in a legal dispute with Sichuan Aima Ke’er Biotechnology Group Co. (“Sichuan Aima”) regarding a cooperative
+agreement that was entered by both parties on June 7, 2022. This agreement was intended to support the business expansion of SCQC and
+outlined mutual obligations for collaboration over a two-year period, set to expire on June 6, 2024. In January 2023, SCQC transferred
+RMB1,000,000 (approximately $139,113) to Sichuan Aima as an advance payment for the cooperative arrangement under the agreement. However,
+negotiations in March 2023 were unproductive, leading both parties to terminate the cooperation. Sichuan Aima provided partial compensation
+to SCQC by offsetting the outstanding amount with goods of equivalent value at RMB466,637 (approximately $64,915). SCQC is now pursuing
+the recovery of the remaining balance of RMB533,363 (approximately $74,198). On April 29, 2025, SCQC received a summons from the People’s
+Court of Sichuan Pilot Free Trade Zone notifying SCQC to hold a court hearing on July 9, 2025, case number: (2025) Chuan 0193 Min Chu
+6553. As of the date of this report, the case remains pending and no settlement has been reached.
+In
+April 2025, SCQC was disposed of and is no longer an indirect subsidiary of the Company. While the Company continues to monitor the dispute
+due to its historical involvement, the outcome is not expected to have a material adverse impact on the Company’s financial condition
+or results of operations.
+Except
+as disclosed above, as of the date hereof, we are not aware of any material pending legal proceedings to which we or any of our
+subsidiaries are a party, or in which any of our property is the subject. There are no proceedings in which any of our directors,
+executive officers, affiliates, or any registered or beneficial shareholders is an adverse party or has a material interest that is
+adverse to our interests. From time to time, we may be subject to claims, legal actions, and regulatory proceedings arising in the
+ordinary course of business.
+ITEM
+4. MINE SAFETY DISCLOSURES
+Not
+applicable.
+9
+PART
+II
+ITEM
+5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+Market
+Information
+The
+Company sole class of common equity is currently quoted under OTC Markets Pink Sheet under symbol YCQH since December 10, 2021. The Company
+believes that we do not have an established public trading market and we cannot assure you that there will be any liquidity for our common
+stock in the future and such quotation reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily
+represent actual transactions.
+Fiscal Year 2024
+High Bid
+Low Bid
+First Quarter
+$1.01
+$0.26
+Second Quarter
+$0.60
+$0.30
+Third Quarter
+$1.00
+$0.25
+Fourth Quarter
+$1.01
+$0.20
+Fiscal Year 2023
+High Bid
+Low Bid
+First Quarter
+$1.25
+$0.20
+Second Quarter
+$0.20
+$0.20
+Third Quarter
+$0.20
+$0.10
+Fourth Quarter
+$0.15
+$0.10
+Dividend
+No
+cash dividends were paid on our shares of common stock during the fiscal year ended December 31, 2024 and 2023. We have not paid any
+cash dividends since our inception on October 15, 2019 and we currently have no plans to pay such dividends. Our board of directors currently
+intends to retain all earnings for use in the business for the foreseeable future.
+Holders
+The
+Company has issued and outstanding common shares of 101,400,000 common shares with 180 shareholders as of December 31, 2024. There are
+no outstanding options or warrants or securities that are convertible into shares of common stock.
+Transfer
+Agent and Registrar
+The
+transfer agent for our capital stock is Transfer Online, Inc., with an address at 512 SE Salmon St., Portland, OR 97214, United States
+and telephone number is +1 (503) 227-2950.
+Penny
+Stock Regulations
+The
+Securities and Exchange Commission has adopted regulations which generally define “penny stock” to be an equity security
+that has a market price of less than $5.00 per share. Our Common Stock, when and if a trading market develops, may fall within the definition
+of penny stock and be subject to rules that impose additional sales practice requirements on broker-dealers who sell such securities
+to persons other than established customers and accredited investors (generally those with assets in excess of $1,000,000, or annual
+incomes exceeding $200,000 individually, or $300,000, together with their spouse).
+For
+transactions covered by these rules, the broker-dealer must make a special suitability determination for the purchase of such securities
+and have received the purchaser’s prior written consent to the transaction. Additionally, for any transaction, other than exempt
+transactions, involving a penny stock, the rules require the delivery, prior to the transaction, of a risk disclosure document mandated
+by the Securities and Exchange Commission relating to the penny stock market. The broker-dealer also must disclose the commissions payable
+to both the broker-dealer and the registered representative, current quotations for the securities and, if the broker-dealer is the sole
+market-maker, the broker-dealer must disclose this fact and the broker-dealer’s presumed control over the market. Finally, monthly
+statements must be sent disclosing recent price information for the penny stock held in the account and information on the limited market
+in penny stocks. Consequently, the “penny stock” rules may restrict the ability of broker-dealers to sell our Common Stock
+and may affect the ability of investors to sell their Common Stock in the secondary market.
+In
+addition to the “penny stock” rules promulgated by the Securities and Exchange Commission, the Financial Industry Regulatory
+Authority (“FINRA”) has adopted rules that require that in recommending an investment to a customer, a broker-dealer must
+have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative low-priced
+securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customer’s
+financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA believes that
+there is a high probability that speculative low-priced securities will not be suitable for at least some customers. The FINRA requirements
+make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit the investors’
+ability to buy and sell our stock.
+10
+Securities
+Authorized for Issuance under Equity Compensation Plans
+We
+do not have in effect any compensation plans under which our equity securities are authorized for issuance.
+Recent
+Sales of Unregistered Securities
+The Company has not sold equity securities during the period covered by the report that were not registered under
+the Securities Act.
+Purchases
+of Equity Securities by the Registrant and Affiliated Purchasers
+We
+have not repurchased any shares of our common stock during the fiscal year ended December 31, 2024.
+Other
+Stockholder Matters
+None.
+ITEM
+6. RESERVED
+ITEM
+7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The
+following discussion and analysis of our financial condition and results of operations for the fiscal year ended December 31, 2024 should
+be read in conjunction with our Financial Statements and corresponding notes to those financial statements that are included in this
+Annual Report on Form 10-K. Our discussion includes forward-looking statements based upon current expectations that involve risks and
+uncertainties, such as our plans, objectives, expectations, and intentions. Actual results and the timing of events could differ materially
+from those anticipated in these forward-looking statements as a result of a number of factors, including those set forth under the Risk
+Factors and Special Note Regarding Forward-Looking Statements in this report. We use words such as “anticipate,” “estimate,”
+“plan,” “project,” “continuing,” “ongoing,” “expect,” “believe,”
+“intend,” “may,” “will,” “should,” “could,” “target”, “forecast”
+and similar expressions to identify forward-looking statements.
+Company
+Overview
+Intelligent
+Hotel Group Ltd, formerly known as YCQH Agricultural Technology Co., Ltd, was incorporated under the laws of the State of Nevada on October
+15, 2019. The Company operated in several business segments, including the wholesale and retail of BCBF, online sales of consumer goods,
+and trading of beauty products.
+Its
+BCBF business was conducted through a wholly owned subsidiary, SCQC, and involved sourcing environmentally friendly fertilizer from third-party
+suppliers. The product was manufactured using thermal decomposition of straw in a low-oxygen environment and promoted for its ability
+to improve soil fertility, increase crop yield, and enhance water retention. The Company did not own or operate any production facilities
+or equipment related to BCBF. SCQC was disposed of in April 2025, and the Company no longer engaged in this line of business since then.
+11
+On
+July 25, 2022, the Company entered the online retail space by offering a range of consumer goods including healthcare, cosmetics, fashion,
+and household products on third-party e-commerce platforms in the PRC. During our operation of the online retail business in 2024, we
+purchased goods directly from suppliers and then sold them to the users of the online retail platform, with the Company bearing the inventory
+risk of the goods.
+On
+April 19, 2023, the Company expanded into beauty product trading, focusing on retail sales to customers in the PRC with goods sourced
+directly from local manufacturers. On September 25, 2023, the Company, through its subsidiary YCWB disposed of XMYC Trading Co., Limited,
+which had been involved in the beauty trading business. Despite the disposal, the Company continued to operate the beauty product segment
+through YCWB for a period thereafter. As of the date of this report, the Company has ceased all activities in the online retail and
+beauty trading sectors.
+Following
+its exit from these historical business lines, the Company is actively exploring new strategic directions and evaluating acquisition
+and investment opportunities across several industries. These efforts are intended to realign the Company’s operations with long-term
+growth objectives.
+Results
+of operations
+Year
+ended December 31, 2024
+For
+the years ended December 31, 2024 and 2023, the Company has generated a revenue of $246,466 and $510,235, respectively. Breakdown of
+revenue as following:
+Years ended December 31
+2024
+2023
+BCBF Business Sales Revenue
+$17
+$57,803
+Percentage towards Total Revenue
+0%
+11%
+Online Business Revenue without inventory risk
+$-
+$90,471
+Online Business Revenue with inventory risk
+$246,449
+$293,763
+Total Online Business Revenue
+$246,449
+$384,234
+Percentage towards Total Revenue
+100%
+75%
+Beauty Products Business Revenue
+-
+$68,198
+Percentage towards Total Revenue
+-
+14%
+Total Revenue
+$246,466
+$510,235
+BCBF Business Cost of Sales
+$(6)
+$(34,517)
+Online Business Cost of Sales – with inventory risk
+$(149,978)
+$(29,966)
+Beauty Products Business Cost of Sales
+-
+$(5,436)
+Total Cost of Sales
+$(149,984)
+$(69,919)
+BCBF Business Gross Profit
+$11
+$23,286
+Online Business Gross Profit – without inventory risk
+$-
+$90,471
+Online Business Gross Profit – with inventory risk
+$96,471
+$263,797
+Beauty Products Business Gross Profit
+$-
+$62,762
+Total Gross Profit
+$96,482
+$440,316
+Gross Profit Margin
+39%
+86%
+BCBF Business Gross Profit Margin
+65%
+40%
+Online Business Gross Profit Margin
+39%
+92%
+Beauty Products Business Gross Profit Margin
+-
+92%
+For
+the year ended December 31, 2024, the BCBF trading business segment, the online retailing business segment and the beauty
+products
+trading business segment contributed 0%, 100% and 0% of the total revenue respectively.
+12
+Fiscal
+Years ended December 31, 2024 and 2023
+The
+Company generated total revenue of $246,466 for the year ended December 31, 2024, a significant decrease of 52% compared to $510,235
+for the year ended December 31, 2023 due to the Company’s decision to shut down its online business since April 30, 2024. The total
+revenue cost of the Company increased from $69,919 in 2023 to $149,984 in 2024, reflecting the rising cost burden of the online retail
+business. The gross profit declined to $96,482 in 2024 from $440,316 in 2023, and overall gross margin decreased from 86% to 39%.
+BCBF
+Trading Business
+Revenue
+from the BCBF trading business decreased significantly from $57,803 in 2023 to $17 in 2024. The Company has continued to operate in this
+business segment, but has not actively expanded the market.
+Online
+Retail Business
+Revenue from the online retail business declined significantly
+to $246,449 in 2024 from $384,234 in 2023, representing a 36% year-over-year decrease. The cost of revenue increased from $29,966 in 2023
+to $149,978 in 2024, Among them, in 2024, there were inventory scrapping, inventory loss, and provision for inventory impairment, which increased the
+cost by $82,923. Gross margin dropped from 92% in 2023 to 39% in
+2024, reflecting reduced pricing power, increased platform fees, and supplier costs in a competitive e-commerce environment.
+Beauty Products Trading Business
+Revenue from the beauty products trading business
+declined to $0 in 2024 from $68,198 in 2023, the Company withdrew from this market segment in April, 2024.
+General and Administrative Expenses
+The
+general and administrative expenses for the year ended December 31, 2024 and 2023 were $141,111 and $348,051 respectively, primarily
+related to salary and social contribution, lease expenses, travelling expenses, advertising expenses, audit fees and consultancy
+fees. Due to the reduction in personnel and rent, there has been a decrease in general and administrative expenses.
+Selling
+and Distribution Expenses
+Selling
+and distribution expenses were $2,452 for the year ended December 31, 2024, compared to $85,418 for the prior year, reflecting a
+significant year-over-year decrease of approximately 97%. These expenses were primarily associated with third-party storage fees
+related to the Company’s online and beauty product sales. The substantial reduction in 2024 was due to the sharp decline in
+sales activity and the discontinuation of inventory-handling operations as the Company moved away from its overall product
+distribution activities.
+Operating
+Loss
+As
+a result of the significant drop in revenue and gross profit, partially offset by reductions in general and administrative expenses,
+the Company recorded an operating loss of $47,081 for the year ended December 31, 2024. This compares to an operating income of
+$6,847 for the year ended December 31, 2023. The decline in operating performance primarily reflects the substantial contraction
+across all former business segments and the resulting decrease in revenue-generating activities.
+13
+Liquidity
+and Capital Resources
+Years
+ended December 31, 2024 and 2023
+Cash
+Used In Operating Activities
+For
+the year ended December 31, 2024, the Company used $116,070 in operating activity, of which primarily consist of decrease in
+inventories, decrease in prepayment, deposits and other receivables, decrease in other payables and accrued liabilities.
+For
+the year ended December 31, 2023, the Company used $318,155 in operating activity, of which primarily consist of increase in
+inventories, increase in prepayment, deposits and other receivables, decrease in other payables and accrued liabilities, decrease in
+deferred revenue and reduction in lease liability contra by net income, depreciation and amortization, increase in account payables
+and increase in receipt advance.
+Cash
+Used In Investing Activities
+For
+the year ended December 31, 2024, the Company did not have any investing activities affecting cash position.
+For
+the year ended December 31, 2023, the Company did not have any investing activities affecting cash position.
+Cash
+Provided by Financing Activities
+For
+the year ended December 31, 2024, the Company realized cash provided by financing activity in the amount of $53,016, of which
+consist of advance from director.
+For
+the year ended December 31, 2023, the Company realized cash provided by financing activity in the amount of $179,956, of which consist
+of advance from director.
+Foreign
+Currency
+Most
+of our revenues and operating expenses are denominated in Renminbi. The Renminbi is currently freely convertible under the “current
+account,” which includes dividends, trade and service-related foreign exchange transactions, but not under the “capital account,”
+which includes foreign direct investment and loans. Under our current corporate structure, our company in the United States may rely
+on dividend payments from our PRC subsidiaries to fund any cash and financing requirements we may have.
+Under
+existing PRC foreign exchange regulations, payments of current account items, including payment of dividends, interest payments and trade
+and service-related foreign exchange transactions, can be made in foreign currencies without prior approval of the State Administration
+of Foreign Exchange, or SAFE, by complying with certain procedural requirements. Our PRC subsidiaries may also retain foreign exchange
+in its current account, subject to a ceiling approved by SAFE, to satisfy foreign exchange liabilities or to pay dividends. However,
+we cannot assure you that the relevant PRC governmental authorities will not limit or eliminate our ability to purchase and retain foreign
+currencies in the future.
+Since
+a significant amount of our future revenues will be denominated in Renminbi, the existing and any future restrictions on currency exchange
+may limit our ability to utilize revenues generated in Renminbi to fund our business activities outside China, if any, or expenditures
+denominated in foreign currencies.
+Foreign
+exchange transactions under the capital account are subject to limitations and require registration with or approval by the relevant
+PRC governmental authorities. In particular, any transfer of funds from us to any of our PRC subsidiaries, either as a shareholder loan
+or as an increase in registered capital, is subject to certain statutory limit requirements and registration or approval of the relevant
+PRC governmental authorities, including the relevant administration of foreign exchange and/or the relevant examining and approval authority.
+Our ability to use the U.S. dollar proceeds of the sale of our equity or debt to finance our business activities conducted through our
+PRC subsidiaries will depend on our ability to obtain these governmental registrations or approvals. In addition, because of the regulatory
+issues related to foreign currency loans to, and foreign investment in, domestic PRC enterprises, we may not be able to finance the operations
+of our PRC subsidiaries by loans or capital contributions. We cannot assure you that we can obtain these governmental registrations or
+approvals on a timely basis, if at all.
+The
+amount of cash denominated in RMB is approximately CNY209,092 (Equivalent to USD29,087) as of December 31, 2024.
+14
+Off-balance
+Sheet Arrangements
+We
+have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital
+resources that are material to our stockholders as of December 31, 2024.
+Contractual
+Obligations
+As
+a smaller reporting company, we are not required to provide the aforementioned information.
+Critical
+Accounting Policies
+Revenue
+Recognition
+The
+Company generates two streams of revenue.
+The
+first stream of revenue is generated through sale of goods, primarily BCBF and beauty products. Revenue is recognized when a customer
+obtains control of promised goods or services and is recognized in an amount that reflects the consideration that the Company expects
+to receive in exchange for those goods or services. In addition, the standard requires disclosure of the nature, amount, timing, and
+uncertainty of revenue and cash flows arising from contracts with customers. The amount of revenue that is recorded reflects the consideration
+that the Company expects to receive in exchange for those goods and services. The Company applies the following five-step model in order
+to determine this amount:
+(i)
+identification of the promised goods and services in the contract;
+(ii)
+determination of whether the promised goods and services are performance obligations, including whether they are distinct in the context
+of the contract;
+(iii)
+measurement of the transaction price, including the constraint on variable consideration;
+(iv)
+allocation of the transaction price to the performance obligations; and
+(v)
+recognition of revenue when (or as) the Company satisfies each performance obligation.
+The
+Company adopted ASU 2014-09, Revenue from Contracts with Customers (Topic 606). Under Topic 606, the Company records revenue when persuasive
+evidence of an arrangement exists, delivery has occurred, the fee is fixed or determinable and collectability is probable. The Company
+records revenue from the sale of product upon shipment or delivery of the products to the customer.
+While
+another revenue stream is our online retailing business. In online retailing business we have differentiate into two distinct revenue
+streams: sales revenue with inventory risk and sales revenue without inventory risk. Initially, the Company act as an agent in transactions,
+meaning we place orders with suppliers upon receiving orders from customers. The suppliers will then directly send the goods to the customer
+based on our order info. A reporting entity assumes the role of agent in a transaction and arranges for the other party to provide the
+specified goods or service. Consequently, product sales revenue is recorded net of cost of sales, as we act as an agent and do not bear
+inventory risk.
+We
+purchased stock from several suppliers and outsourced inventory warehouse to a few suppliers. We bear the inventory risk, and therefore
+we are the primary responsible party in this regard. Similar to previous operations, contracts are formed when customers place orders
+in the app, and the performance obligation remains unchanged. Revenue recognition continues to be based on the point in time when customers
+assume control and legal ownership of the purchased products, without deducting any associated costs, as this reflects the normal transactional
+relationship between seller and buyer. We recognize revenue when customers take control and legal ownership of the purchased products.
+15
+From
+the quarter four of 2023 onwards, the company continue operate as sales income from BCBF and online retailing business with and without
+inventory risk. to fulfill such purposes. As such, revenue is being recognized on net basis, i.e. gross revenue received from customer
+deduct the cost of purchase to supplier.
+Besides, after adopting ASC 606-10-55-42, we offer our customers an option, allowing them to receive a 54% cash back
+from the purchase of “Yao Cheng Duo” products in 2024, and a 44% cash back in 2023. Therefore, the 54% cash back in 2024 and
+the 44% cash back in 2023 are substantive rights, and we offset the cash back portion against the revenue instead of recognizing the entire
+purchase amount as revenue.
+Going
+Concern Uncertainties
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. The Company
+suffered a loss of $59,275 for the year ended December 31, 2024 resulting in accumulated deficit of $439,273 and a working capital
+deficit of $281,771.
+The
+Company’s cash position may not be significant enough to support the Company’s daily operations. While the Company believes
+in the viability of its strategy and in its ability to raise additional funds, there can be no assurances to that effect. The Company’s
+ability to continue as a going concern is dependent upon its ability to improve profitability and the ability to acquire funding through
+public offering. If funding from public offering is insufficient, then the Company shall rely on the financial support from its controlling
+shareholder.
+These
+and other factors raise substantial doubt about the Company’s ability to continue as a going concern within one year after the
+date that financial statements are issued. These financial statements do not include any adjustments to reflect the possible future effects
+on the recoverability and classification of assets or the amounts and classification of liabilities that may result in the Company not
+being able to continue as a going concern.
+Recent
+accounting pronouncements
+In
+August 2020, the FASB issued ASU 2020-06, Debt – Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging
+– Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s
+Own Equity (“ASU 2020-06”). ASU 2020-06 aims to simplify the accounting for convertible instruments by reducing the number
+of accounting models for convertible debt instruments and convertible preferred stock. ASU 2020-06 also simplifies the derivative scope
+exception guidance pertaining to equity classification of contracts in an entity’s own equity and amends the diluted earnings per
+share guidance, including the requirement to use the if-converted method for all convertible instruments. Early adoption is permitted
+for fiscal years beginning after December 15, 2020. For SEC filers, excluding smaller reporting companies, ASU 2020-06 is effective for
+fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. For all other entities, ASU 2020-06
+is effective for fiscal years beginning after December 15, 2023, including interim periods therein. The adoption of the new guidance,
+effective January 1, 2024, did not have an impact on the financial condition, results of operations, cash flows and disclosures of the
+Company.
+The
+Company reviews new accounting standards as issued. Management has not identified any other new standards that it believes will have
+a significant impact on the Company’s consolidated financial statements.
+Restatement of Interim Financial Statements
+The Company restated its previously issued unaudited
+condensed consolidated financial statements for the first, second, and third quarters of fiscal year 2024, primarily to correct the timing
+of recognition of certain revenues, costs and expenses.
+The Company reduced its operating profit before
+income tax by $48,619 for the three months ended March 31, 2024, and correspondingly increased it by $48,619 for the three months
+ended June 30, 2024. The restatements had no impact on the Company’s consolidated full-year net income, financial
+position, or cash flows for the year ended December 31, 2024. Please refer to Note. 14.
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+Not
+applicable to smaller reporting companies.
+16
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+Intelligent
+Hotel Group Ltd
+(Formally
+known as YCQH AGRICULTURAL TECHNOLOGY CO. LTD)
+INDEX
+TO CONSOLIDATED FINANCIAL STATEMENTS
+TABLE
+OF CONTENTS
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 6732)
+F-2
+Report
+of Independent Registered Public Accounting Firm (PCAOB ID: 2485)
+F-3
+Consolidated Balance Sheets as of December 31, 2024 and 2023
+F-4
+Consolidated Statements of Operations and Comprehensive Income/(Loss) for years ended December 31, 2024 and 2023
+F-5
+Consolidated Statements of Shareholders’ Deficit for years ended December 31, 2024 and 2023
+F-6
+Consolidated Statements of Cash Flows for years ended December 31, 2024 and 2023
+F-7
+Notes to Consolidated Financial Statements for years ended December 31, 2024 and 2023
+F-8
+F-1
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To
+the Board of Directors and Stockholders of YCQH Agricultural Technology Co. Ltd:
+Opinion
+on the Financial Statements
+We
+have audited the accompanying consolidated balance sheets of YCQH Agricultural Technology Co. Ltd together with its subsidiaries (“the
+Company”) as of December 31, 2023 and 2022, and the related consolidated statements of operations and comprehensive income/(loss),
+stockholders’ deficit, and cash flows for each of the two years in the period ended December 31, 2023, and the related notes (collectively
+referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of December 31, 2023 and 2022, and the results of its operations and its cash flows for each
+of the two years in the period ended December 31, 2023, in conformity with accounting principles generally accepted in the United States.
+Going
+concern uncertainty
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+4 to the financial statements, the Company incurred accumulated deficit, working capital deficit and net cash used in operating activities
+during the year ended December 31, 2023 that raise substantial doubt about its ability to continue as a going concern. Management’s
+plans in regard to these matters are also described in Note 4. The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty.
+Basis
+for Opinion
+These
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion.
+Emphasis
+of Matter
+The
+Company has significant transactions with a director, which are described in Note 8 to the financial statements. Transactions involving
+related party cannot be presumed to be carried out on an arm’s length basis, as the requisite conditions of competitive, free market
+dealings may not exist.
+/s/
+Onestop Assurance PAC
+We
+have served as the Company’s auditor since 2021.
+Singapore
+April
+16, 2024
+F-2
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To
+the Shareholders and Board of Directors
+Intelligent
+Hotel Group Ltd (FKA: YCQH Agricultural Technology Co. Ltd.)
+Chongqing,
+China
+Opinion
+on the Financial Statements
+We
+have audited the accompanying consolidated balance sheet of Intelligent Hotel Group Ltd (FKA: YCQH Agricultural Technology Co. Ltd.)
+(the “Company”) as of December 31, 2024, the related consolidated statements of operations and comprehensive loss,
+stockholders’ deficit, and cash flows for the year then ended, and the related notes (collectively referred to as the
+“consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all
+material respects, the financial position of the Company at December 31, 2024, and the results of its operations and its cash
+flows for
+the year then ended, in conformity with accounting principles generally accepted in the United
+States of America.
+Substantial Doubt About the Company’s
+Ability to Continue as a Going Concern
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As described
+in Note 4 to the consolidated financial statements, for the year ended December 31, 2024, the Company incurred a net loss of $59,275.
+Additionally, the Company had an accumulated deficit of $439,273 and a working capital deficit of $281,771 as of December 31, 2024. These
+conditions raise substantial doubt about the Company’s ability to continue as a going concern.
+The accompanying financial statements have been prepared on the assumption that the Company will continue as a
+going concern. As disclosed in Note 4, the Company has experienced operating losses, an accumulated deficit, and a net capital
+deficiency, raising substantial doubt about its ability to continue as a going concern. Management’s evaluation of the events
+and conditions and management’s plans regarding these matters are also described in Note 4. The financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. Our opinion is not modified with respect to this matter.
+Basis
+for Opinion
+These
+consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an
+opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with
+the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect
+to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and
+Exchange Commission and the PCAOB.
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to
+error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not
+for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting.
+Accordingly, we express no such opinion.
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis,
+evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the
+accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the
+consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical
+Audit Matter
+Critical
+audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be
+communicated to the board of directors and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved
+our especially challenging, subjective, or complex judgements. We determined that there are no critical audit matters.
+/s/
+Simon & Edward, LLP
+We
+have served as the Company’s auditor since 2024.
+Rowland Heights, CA
+July
+17, 2025
+F-3
+Intelligent
+Hotel Group Ltd
+(Formally
+known as YCQH AGRICULTURAL TECHNOLOGY CO. LTD)
+AUDITED
+CONSOLIDATED BALANCE SHEETS
+AS
+OF DECEMBER 31, 2024 AND 2023
+(Currency
+expressed in United States Dollars (“US$”), except for number of shares or otherwise stated)
+As of
+December 31, 2024
+As of
+December 31, 2023
+ASSETS
+Current assets
+Cash and cash equivalents
+$29,825
+$95,938
+Inventories
+24,178
+113,688
+Prepayment, deposits and other receivables
+82,276
+132,747
+Total current assets
+136,279
+342,373
+Non-current Assets
+Right-of-use assets, net
+$-
+$34,954
+Total non-current assets
+-
+34,954
+TOTAL ASSETS
+$136,279
+$377,327
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current liabilities
+Trade payables
+$-
+$12,597
+Other payables and accrued liabilities
+4,480
+32,242
+Deferred revenue
+161
+14,782
+Amount due to related party
+413,409
+501,890
+Lease liability – current portion
+-
+34,954
+Total current liabilities
+$418,050
+$596,465
+Non-current liabilities
+Lease liability – non-current portion
+$-
+$-
+Total non-current liabilities
+-
+-
+TOTAL LIABILITIES
+$418,050
+$596,465
+STOCKHOLDERS’ DEFICIT
+Preferred stock, $0.0001 par value; 200,000,000 shares authorized; 0 issued and outstanding
+Common stock, $0.0001 par value; 800,000,000 shares authorized; 101,400,000 shares and 101,400,000 shares of common stock issued and outstanding as of December 31, 2024 and 2023, respectively
+$10,140
+$10,140
+Additional paid-in capital
+148,860
+148,860
+Accumulated other comprehensive income
+(1,498)
+1,860
+Accumulated deficit
+(439,273)
+(379,998)
+TOTAL STOCKHOLDERS’ DEFICIT
+$(281,771)
+$(219,138)
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$136,279
+$377,327
+See
+accompanying notes to consolidated financial statements.
+F-4
+Intelligent
+Hotel Group Ltd
+(Formally
+known as YCQH AGRICULTURAL TECHNOLOGY CO. LTD)
+AUDITED
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME/(LOSS)
+FOR
+YEARS ENDED DECEMBER 31, 2024 AND 2023
+(Currency
+expressed in United States Dollars (“US$”), except for number of shares or otherwise stated)
+Year ended December 31, 2024
+Year ended December 31, 2023
+REVENUE
+246,466
+$510,235
+COST OF REVENUE
+(149,984)
+(69,919)
+GROSS PROFIT
+96,482
+$440,316
+OPERATING EXPENSES
+Selling and distribution
+(2,452)
+(85,418)
+General and administrative
+(141,111)
+(348,051)
+INCOME/(LOSS) FROM OPERATION BEFORE INCOME TAX
+(47,081)
+6,847
+OTHER INCOME/(EXPENSE)
+Other income (expense)
+(4,623)
+Gain on disposal of subsidiary
+3,286
+Interest income
+94
+94
+INCOME/(LOSS) BEFORE INCOME TAX
+(51,610)
+10,227
+INCOME TAX EXPENSES
+(7,665)
+(238)
+NET INCOME/(LOSS)
+(59,275)
+9,989
+Other comprehensive loss:
+- Foreign currency translation loss
+(3,358)
+(6,009)
+TOTAL COMPREHENSIVE INCOME/(LOSS)
+(62,633)
+3,980
+NET LOSS PER SHARE, BASIC AND DILUTED
+0.00
+0.00
+WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING, BASIC AND DILUTED
+101,400,000
+101,400,000
+See
+accompanying notes to consolidated financial statements.
+F-5
+Intelligent
+Hotel Group Ltd
+(Formally
+known as YCQH AGRICULTURAL TECHNOLOGY CO. LTD)
+AUDITED
+CONSOLIDATED STATEMENT OF SHAREHOLDERS’ DEFICIT
+FOR
+YEARS ENDED DECEMBER 31, 2024 AND 2023
+(Currency
+expressed in United States Dollars (“US$”), except for number of shares or otherwise stated)
+NUMBER OF
+SHARES
+AMOUNT
+ADDITIONAL
+PAID-IN
+CAPITAL
+ACCUMULATED
+DEFICIT
+OTHER
+COMPREHENSIVE
+INCOME
+TOTALSTOCKHOLDERS’
+(DEFICIT)
+COMMON STOCK
+ACCUMULATED
+NUMBER OF
+SHARES
+AMOUNT
+ADDITIONAL
+PAID-IN
+CAPITAL
+ACCUMULATED
+DEFICIT
+OTHER
+COMPREHENSIVE
+INCOME
+TOTALSTOCKHOLDERS’
+(DEFICIT)
+Balance as of December 31, 2022
+101,400,000
+$10,140
+$148,860
+$(389,987)
+$7,869
+$                    (223,118)
+Net income for the year
+-
+-
+-
+9,989
+-
+9,989
+Foreign currency translation
+-
+-
+-
+-
+(6,009)
+(6,009)
+Balance as of December 31, 2023
+101,400,000
+$10,140
+$148,860
+$(379,998)
+$1,860
+$(219,138)
+Balance
+101,400,000
+$10,140
+$148,860
+$(379,998)
+$1,860
+$(219,138)
+Net income for the year
+-
+-
+-
+$(59,275)
+-
+$(59,275)
+Foreign currency translation
+-
+-
+-
+-
+$(3,358)
+$(3,358)
+Balance as of December 31, 2024
+101,400,000
+$10,140
+$148,860
+$(439,273)
+$(1,498)
+$(281,771)
+Balance
+101,400,000
+$10,140
+$148,860
+$(439,273)
+$(1,498)
+$(281,771)
+See
+accompanying notes to consolidated financial statements
+F-6
+Intelligent
+Hotel Group Ltd
+(Formally
+known as YCQH AGRICULTURAL TECHNOLOGY CO. LTD)
+AUDITED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR
+YEARS ENDED DECEMBER 31, 2024 AND 2023
+(Currency
+expressed in United States Dollars (“US$”), except for number of shares or otherwise stated)
+Year Ended December 31, 2024
+Year Ended December 31, 2023
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income/(loss)
+$(59,275)
+$9,989
+Adjustments to reconcile net profit to net cash used in operating activities:
+Amortization
+$38,939
+Changes in operating assets and liabilities:
+Inventories
+$88,954
+$(53,805)
+Prepayment, deposits and other receivables
+$(90,900)
+$(119,084)
+Other payables and accrued liabilities
+$(27,708)
+$(62,192)
+Deferred revenue
+$(119,843)
+Change in lease liability
+$(39,278)
+Account payables
+$(12,563)
+$12,474
+Receipt in advance
+$(14,578)
+$14,645
+Net cash (used in)/provided by operating activities
+$(116,070)
+$(318,155)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Amount due to related party
+$53,016
+$179,956
+Net cash provided by financing activities
+$53,016
+$179,956
+Effect of exchange rate changes on cash and cash equivalents
+$(3,059)
+$1,431
+Net (decrease)/increase in cash and cash equivalents
+$(66,113)
+$(136,768)
+Cash and cash equivalents, beginning of year
+$95,938
+$232,706
+CASH AND CASH EQUIVALENTS, END OF YEAR
+$29,825
+$95,938
+SUPPLEMENTAL CASH FLOWS INFORMATION
+Cash paid for income taxes
+$1,305
+$-
+Cash paid for interest paid
+-
+-
+Non-cash
+Transactions of Operating and Financing Activities
+Other
+receivable and prepayments offset by loans from related party
+$
+140,181
+-
+See
+accompanying notes to consolidated financial statements.
+F-7
+Intelligent
+Hotel Group Ltd
+(Formally
+known as YCQH AGRICULTURAL TECHNOLOGY CO. LTD)
+NOTES
+TO AUDITED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+YEARS ENDED DECEMBER 31, 2024 AND 2023
+(Currency
+expressed in United States Dollars (“US$”), except for number of shares or otherwise stated)
+1.
+ORGANIZATION AND BUSINESS BACKGROUND
+Intelligent
+Hotel Group Ltd, formerly known as YCQH Agricultural Technology Co., Ltd, was incorporated under the laws of the State of Nevada on October
+15, 2019. On May 6, 2025, the Company filed a Certificate of Amendment with the Nevada Secretary of State to change its name to Intelligent
+Hotel Group Ltd (the “Name Change”), which was previously approved by the Board of Directors on April 15, 2025. To reflect
+the Name Change, the Board approved a corresponding amendment to the Company’s bylaws on May 7, 2025.
+The
+Company originally operated in the bio-carbon-based fertilizer (“BCBF”) trading business, sourcing products directly from
+producers in China and selling them to customers primarily located in the People’s Republic of China. The Company did not own or
+operate any production facilities or manufacturing equipment for BCBF products. On July 25, 2022, the Company ventures into online retailing
+business through e-commerce platform, retailing a series of daily use products covering from healthcare products, cosmetic products,
+fashion products, household products and so forth. On April 19, 2023, the Company ventures into beauty products trading business which
+includes retail sale to customer mainly based in People Republic of China, sourcing directly from producers in China. As of the date
+of this report, the Company has ceased all operations related to the BCBF, online retailing business, and beauty products trading business.
+In light of this transition, the Company is actively evaluating potential acquisition targets and strategic business opportunities in
+order to identify a new direction that aligns with its long-term growth objectives.
+On
+December 16, 2019, the Company acquired YCQH Holding Limited, a company incorporated in Republic of Seychelles. In the same day YCQH Seychelles
+acquire YCQH Agricultural Technology Co. Limited, a company incorporated in Hong Kong.
+On
+December 10, 2019, the YCQH HK incorporate YCWB Agricultural Technology Co. Limited, a wholly foreign owned enterprise, in SiChuan Province,
+China, with Ms. Wang Min as the legal representative.
+On
+June 15, 2020, the Company, through subsidiary YCWB Agricultural Technology Co. Limited, acquired SCQC Agriculture Co. Limited, a company
+incorporated in SiChuan Province, China for a consideration of CNY 1,169,996 (approximately $165,605) with carrying value on book of CNY
+1,168,554 (approximately $165,401) from third party. The premium was accounted as expense for the year ended December 31, 2020.
+On
+April 19, 2023, the Company, through subsidiary YCWB Agricultural Technology Co. Limited, incorporated XMYC Trading Co. Limited, a company
+incorporated in XiaMen City, China with an investment capital of CNY 500,000 (approximately $68,931).
+On
+September 25, 2023, the Company, through subsidiary YCWB Agricultural Technology Co. Limited, disposed XMYC Trading Co. Limited, with a
+consideration of CNY 0.1 (approximately $0.01). After the disposal of XMYC, the Company continued to operate the beauty products trading
+business through YCWB.
+On
+April 17, 2025, YCWB entered into a definitive equity transfer agreement (the “Disposal Agreement”) with Chenjiang Zhang,
+an independent third party, pursuant to which YCWB agreed to sell all of its equity interest in SCQC. The Board of Directors of the Company
+reviewed and approved the Disposal Agreement and the proposed transaction on April 17, 2025. On April 28, 2025, the Company completed
+the disposition of SCQC. SCQC was previously engaged in business segments that the Company has determined
+are no longer consistent with its long-term development strategy. The decision to dispose of SCQC was made as part of the Company’s
+strategic plan to streamline operations and focus on core business activities.
+F-8
+Below
+is a list of subsidiaries as of the date of this report:
+Company name
+Place/date of incorporation
+Principal activities
+YCQH Holding Limited
+(“YCQH Seychelles”)
+Seychelles / October 11, 2019
+Investment holding
+YCQH Agricultural
+Technology Co. Limited
+(“YCQH HK”)
+Hong Kong / October 10, 2019
+Investment holding
+YCWB Agricultural Technology Co. Limited (“YCWB”)
+SiChuan Province, China /
+December 10, 2019
+Operates in BCBF trading business, online business through e-commerce platforms, and beauty products trading business
+On
+November 30, 2024, the Company entered into a Securities Transfer Agreement (the “Agreement”) with Ms. Wang Min (the “Seller”),
+the largest shareholder of the Company, and Ms. Yin Yixuan (the “Buyer”). Pursuant to the terms of the Agreement, the Seller
+agreed to sell, and the Buyer agreed to purchase, an aggregate of 47,000,000 shares of common stock (the “Shares”) for a
+total purchase price of $1,094,400. The Board of Directors approved the Agreement on November 25, 2024, and on the same date, adopted
+resolutions appointing the Buyer as the Company’s Director and Chief Executive Officer, effective November 30, 2024. In connection
+with updated terms and mutual agreement of the parties, the Company, the Seller, and the Buyer subsequently entered into an Amendment
+to the Securities Transfer Agreement, dated June 24, 2025 (the “Amendment”). The Amendment modified certain key terms of
+the Agreement, including but not limited to adjustments to the purchase price, the closing schedule, and the mechanics for share transfer.
+On
+November 25, 2024, Ms. Wang notified the Board of her decision to resign, and the Board accepted her resignation.On November 30, 2024,
+Ms. Wang Min resigned from all positions at the Company, including her roles as a director on the Board of Directors and as the Chief
+Executive Officer. Ms. Yin Yixuan was appointed as a director and as Chief Executive Officer of the Company and therefore assumed control
+of the Company’s management and governance as Director and CEO pursuant to the Board resolutions adopted in November 2024.
+The
+Company’s executive office is located at No. 188 and No. 5, East Beizhan Road, Shapingba District, Chongqing, China 404100.
+2.
+BASIS OF PRESENTATION
+The
+accompanying consolidated financial statements of the Company are prepared pursuant to the rules and regulations of the U.S. Securities
+and Exchanges Commission (“SEC”) and in conformity with generally accepted accounting principles in the U.S. (“US GAAP”).
+All material inter-company accounts and transactions have been eliminated in consolidation. The Company has adopted December 31 as its
+fiscal year end.
+3.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Use
+of estimates
+The
+preparation of the consolidated financial statements in conformity with US GAAP requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated
+financial statements and the reported amounts of revenues and expenses during the reporting periods. Management makes these estimates
+using the best information available at the time the estimates are made; however actual results could differ materially from those estimates.
+F-9
+Cash
+and Cash Equivalents
+Cash
+and cash equivalents are carried at cost and represent cash on hand, demand deposits placed with banks or other financial institutions
+and all highly liquid investments with an original maturity of three months or less as of the purchase date of such investments. Under
+the PRC Foreign Exchange Control Regulations and Administration of Settlement, Sales and Payment of Foreign Exchange Regulations, the
+Company is permitted to exchange Chinese Renminbi for foreign currencies through banks that are authorized to conduct foreign exchange
+business.
+Prepayment,
+Deposits and Other Receivables
+Prepayments
+and deposits are mainly cash deposited or advance payments made to third parties for future purchases or future services such as rent
+or other general expenses. This amount is refundable and bears no interest. The Company will recognize an allowance account for doubtful
+accounts to the extent it is probable that a portion or all of a particular account will not be collected. Management reviews its prepayments
+and deposits on a regular basis to determine if the allowance is adequate and adjusts the allowance when necessary. The Company’s
+management continues to evaluate the reasonableness of the allowance policy and update it if necessary. No allowance for doubtful accounts
+was made for both years ended December 31, 2024 and 2023.
+Lease
+The
+Company adopted the ASU No. 2016-02, on October 15, 2019 (date of inception). The Company leases office space for fixed periods with
+pre-emptive extension options. The Company recognizes lease payments for its short-term lease on a straight-line basis over the lease
+term.
+The
+lease liability is initially and subsequently measured at the present value of the unpaid lease payments at the lease commencement date.
+The right-of-use asset is initially measured at cost, which comprises the initial amount of the lease liability adjusted for lease payments
+made at or before the lease commencement date, plus any initial direct costs incurred less any lease incentives received. Costs associated
+with operating lease assets are recognized on a straight-line basis within operating expenses over the term of the lease.
+In
+determining the present value of the unpaid lease payments, ASC 842 requires a lessee to discount its unpaid lease payments using the
+interest rate implicit in the lease or, if that rate cannot be readily determined, its incremental borrowing rate. As most of the Company
+leases do not provide an implicit rate, the Company uses its incremental borrowing rate as the discount rate for the lease. The Company
+adopted 4.75% as its incremental borrowing rate which is estimated to approximate the interest rate on a collateralized basis with similar
+terms and payments.
+From
+June 21, 2024, the management of the Company uses part of the leased office space of Chongqing Jiushengguang Enterprise Management Consulting
+Co., LTD. free of charge. Please refer to Note 8 for the details of the lease.
+Revenue
+Recognition
+The
+Company generates two streams of revenue.
+The
+first stream of revenue is generated through sale of goods, primarily Bio-Carbon-Based-Fertilizer (“BCBF”) and beauty products.
+Revenue is recognized when a customer obtains control of promised goods or services and is recognized in an amount that reflects the
+consideration that the Company expects to receive in exchange for those goods or services. In addition, the standard requires disclosure
+of the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers. The amount of revenue
+that is recorded reflects the consideration that the Company expects to receive in exchange for those goods and services. The Company
+applies the following five-step model in order to determine this amount:
+(i)
+identification of the promised goods and services in the contract;
+(ii)
+determination of whether the promised goods and services are performance obligations, including whether they are distinct in the context
+of the contract;
+(iii)
+measurement of the transaction price, including the constraint on variable consideration;
+(iv)
+allocation of the transaction price to the performance obligations; and
+(v)
+recognition of revenue when (or as) the Company satisfies each performance obligation.
+F-10
+The
+Company adopted ASU 2014-09, Revenue from Contracts with Customers (Topic 606). Under Topic 606, the Company records revenue when persuasive
+evidence of an arrangement exists, delivery has occurred, the fee is fixed or determinable and collectability is probable. The Company
+records revenue from the sale of product upon shipment or delivery of the products to the customer.
+While
+another revenue stream is our online retailing business. In online retailing business we have differentiate into two distinct revenue
+streams: sales revenue with inventory risk and sales revenue without inventory risk. Initially, the Company act as an agent in transactions,
+meaning we place orders with suppliers upon receiving orders from customers. The suppliers will then directly send the goods to the customer
+based on our order info. A reporting entity assumes the role of agent in a transaction and arranges for the other party to provide the
+specified goods or service. Consequently, product sales revenue is recorded net of cost of sales, as we act as an agent and do not bear
+inventory risk.
+We
+purchased stock from several suppliers and outsourced inventory warehouse to a few suppliers. We bear the inventory risk, and
+therefore we are the primary responsible party in this regard. Similar to previous operations, contracts are formed when customers
+place orders in the app, and the performance obligation remains unchanged. Revenue recognition continues to be based on the point in
+time when customers assume control and legal ownership of the purchased products, without deducting any associated costs, as this
+reflects the normal transactional relationship between seller and buyer. We recognize revenue when customers take control and legal
+ownership of the purchased products.
+From
+the quarter four of 2023 onwards, the company continued operate as sales income from BCBF and online retailing business with and
+without inventory risk. Revenue of online retailing business without inventory risk is being recognized on net basis, i.e. gross revenue
+received from customer deduct the cost of purchase to supplier.
+In compliance with ASC 606-10-55-42, the company offered customers a 54% cash back incentive when purchasing "Yao
+Cheng Duo" products, and a 44% cash back incentive in 2023. This substantial cash back is an important benefit for the customers.
+Therefore, the revenue from these transactions is reported as the net amount after deducting the cash back, rather than recognizing the
+entire purchase amount as revenue.
+Deferred
+revenue
+The
+Company’s accounting policy related to deferred revenue is to recognize revenue for performance obligations that have not yet
+been fulfilled. As of December 31, 2024 and 2023, the Company recognized amounts of $161
+and $14,782 respectively. The
+deferred revenue is expected to be recognized as revenue within 12 months from the reporting period, as all unsatisfied performance
+obligations are expected to be completed within that timeframe.
+Shipping,
+Storage and Handling costs
+Costs
+for shipping, storage and handling activities, including those activities that occur subsequent to transfer of control to the customer,
+are recorded as selling and distribution expense and are expensed as incurred. The Company accrues costs for shipping, storage and handling
+activities that occur after control of the promised good has transferred to the customer.
+Advertising
+costs
+The
+Company’s accounting policy related to advertising costs for annual reporting purposes is to expense costs incurred in marketing
+events for example event venue fees, emcee fees and others, as of the first date the advertisements take place. All marketing expenditures
+are expensed in the annual period in which the expenditure is incurred. For the year ended December 31, 2024 and 2023, the Company incurred
+expenses in the amount of $0 for advertising and $10,851 respectively.
+F-11
+Earnings
+Per Share
+The
+Company reports earnings per share in accordance with ASC 260 “Earnings Per Share”, which requires presentation of basic
+and diluted earnings per share in conjunction with the disclosure of the methodology used in computing such earnings per share. Basic
+earnings per share excludes dilution and is computed by dividing income available to common stockholders by the weighted average common
+shares outstanding during the period. Diluted earnings per share takes into account the potential dilution that could occur if securities
+or other contracts to issue common stock were exercised and converted into common stock. Further, if the number of common shares outstanding
+increases as a result of a stock dividend or stock split or decreases as a result of a reverse stock split, the computations of a basic
+and diluted earnings per share shall be adjusted retroactively for all periods presented to reflect that change in capital structure.
+The
+Company’s basic earnings per share is computed by dividing the net income available to holders by the weighted average number of
+the Company’s ordinary shares outstanding. Diluted earnings per share reflects the amount of net income available to each ordinary
+share outstanding during the period plus the number of additional shares that would have been outstanding if potentially dilutive securities
+had been issued.
+Inventories
+Inventories
+consist of finished goods and are stated at the lower of cost or net realizable value using the first-in first-out method. Net realizable
+value is the estimated selling price in the ordinary course of business, less estimated costs of completion and the estimated costs necessary
+to make the sale. The Company reviews its inventories regularly for possible obsolete goods and establishes reserves when determined
+necessary.
+We
+purchased stock from several suppliers and outsourced inventory warehouse to a few suppliers. We bear the inventory risk, and therefore
+we are the primary responsible party in this regard. Our inventory is stored and managed at the facilities of third-party logistics providers.
+These arrangements involve contractual agreements outlining the terms of storage, handling, and distribution of our inventory. Besides,
+the third-party logistics providers are responsible for maintaining the quality and condition of the inventory in accordance with our
+specifications.
+Each
+third-party logistics provider uses its own inventory management system to track the movement and availability of our products. They
+will send us a copy of the movement and balance of inventory at the end of the month, which we then compare with the inventory movement
+worksheet maintained by our company. This allows us to identify any inventory discrepancies promptly. The third-party logistics providers
+facilitate the distribution of our inventory to our customers and fulfillment centers as per our instructions. Additionally, the logistics
+providers are responsible for our inventory in any aspect of damaged goods due to their responsibility, for example, stolen inventory,
+damaged goods due to warehouse conditions, and other factors.
+Related
+parties
+Parties,
+which can be a corporation or individual, are considered to be related if the Company has the ability, directly or indirectly, to control
+the other party or exercise significant influence over the other party in making financial and operating decisions. Companies are also
+considered to be related if they are subject to common control or common significant influence.
+Income
+Taxes
+The
+Company accounts for income taxes using the asset and liability method prescribed by ASC 740 “Income Taxes”. Under this method,
+deferred tax assets and liabilities are determined based on the difference between the financial reporting and tax bases of assets and
+liabilities using enacted tax rates that will be in effect in the years in which the differences are expected to reverse. The Company
+records a valuation allowance to offset deferred tax assets if based on the weight of available evidence, it is more-likely-than-not
+that some portion, or all, of the deferred tax assets will not be realized. The effect on deferred taxes of a change in tax rates is
+recognized as income or loss in the period that includes the enactment date.
+F-12
+Foreign
+Currency Translation
+Transactions
+denominated in currencies other than the functional currency are translated into the functional currency at the exchange rates prevailing
+at the dates of the transaction. Monetary assets and liabilities denominated in currencies other than the functional currency are translated
+into the functional currency using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded
+in the statements of operations.
+The
+reporting currency of the Company is United States Dollars (“US$”). The Company’s subsidiary in Seychelles, Hong Kong
+and PRC which functional currencies are United States Dollars (“US$”), Hong Kong Dollars (“HK$”) and Chinese
+Renminbi (“CNY¥”) respectively.
+In
+general, for consolidation purposes, assets and liabilities of its subsidiary whose functional currency is not the US$ are translated
+into US$, in accordance with ASC Topic 830-30, “Translation of Financial Statement”, using the exchange rate on the balance
+sheet date. Revenues and expenses are translated at average rates prevailing during the period. The gains and losses resulting from translation
+of financial statements of foreign subsidiary are recorded as a separate component of accumulated other comprehensive income within the
+statement of stockholders’ equity.
+Translation
+of amounts from the local currencies of the Company into US$ has been made at the following exchange rates for the respective periods:
+SCHEDULE OF FOREIGN CURRENCIES TRANSLATION
+For the year
+ended December 31, 2024
+For the year
+ended December 31, 2023
+Period-end HK$ : US$1 exchange rate
+7.76
+7.75
+Period-end CNY¥ : US$1 exchange rate
+7.19
+7.01
+Period-average HK$ : US$1 exchange rate
+7.80
+7.75
+Period-average CNY¥ : US$1 exchange rate
+7.12
+7.08
+Fair
+Value Measurement
+Accounting
+Standards Codification (“ASC”) 820 “Fair Value Measurements and Disclosures”, which defines fair value, establishes
+a framework for measuring fair value and expands disclosures about fair value measurements. The statement clarifies that the exchange
+price is the price in an orderly transaction between market participants to sell the asset or transfer the liability in the market in
+which the reporting entity would transact for the asset or liability, that is, the principal or most advantageous market for the asset
+or liability. It also emphasizes that fair value is a market-based measurement, not an entity-specific measurement, and that market participant
+assumptions include assumptions about risk and effect of a restriction on the sale or use of an asset.
+This
+ASC establishes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy
+gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and
+the lowest priority to unobservable inputs (Level 3 measurements). The three levels of the fair value hierarchy are described below:
+Level
+1: Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities;
+Level
+2: Quoted prices in markets that are not active, or inputs that are observable, either directly or indirectly, for substantially the
+full term of the asset or liability; and
+Level
+3: Prices or valuation techniques that require inputs that are both significant to the fair value measurement and unobservable (supported
+by little or no market activity).
+Recently
+issued accounting pronouncements
+In December 2023, the FASB issued ASU 2023-09, Income
+Taxes (Topic 740): Improvements to Income Tax Disclosures. Under this ASU, public entities must annually (1) disclose specific categories
+in the rate reconciliation and (2) provide additional information for reconciling items that meet a quantitative threshold (if the effect
+of those reconciling items is equal to or greater than five percent of the amount computed by multiplying pretax income or loss by the
+applicable statutory income tax rate). This ASU’s amendments are effective for all entities
+that are subject to Topic 740, Income Taxes, for annual periods beginning after December 15, 2024, with early adoption permitted. The
+Company does not expect the impact of the adoption of the guidance to be material on its financial statements.
+In November 2024, the FASB issued ASU 2024-03, Income
+Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40) (“ASU 2024-03”). This update
+requires entities to include more detailed information about the types of expenses, including purchases of inventory, employee compensation,
+depreciation, amortization, and depletion, in commonly presented expense captions such as cost of sales, research and development, and
+selling, general and administrative expenses. ASU 2024-03 is effective for annual periods beginning after December 15, 2026, with early
+adoption permitted. The Company does not expect the impact of the adoption of the guidance to be material on its financial statements.
+In November 2023, the FASB issued ASU 2023-07, Segment
+Reporting: Improvements to Reportable Segment Disclosures (“ASU 2023-07”), which focuses on improving reportable segment disclosure
+requirements, primarily through enhanced disclosures about significant segment expenses. A public entity shall disclose for each reportable
+segment the significant expense categories and amounts that are regularly provided to the CODM and included in reported segment profit
+or loss. ASU 2023- 07 also requires public entities to provide in interim periods all disclosures about a reportable segment’s profit
+or loss and assets that are currently required annually. Entities are permitted to disclose more than one measure of a segment’s
+profit or loss if such measures are used by the CODM to allocate resources and assess performance, as long as at least one of those measures
+is determined in a way that is most consistent with the measurement principles used to measure the corresponding amounts in the consolidated
+financial statements. ASU 2023-07 is applied retrospectively to all periods presented in financial statements, unless it is impracticable.
+The Company adopted this standard in 2024 for annual period disclosures. See Note 13 “Segment Reporting” in the accompanying
+notes to the consolidated financial statements for further detail.
+The
+Company reviews new accounting standards as issued. Management has not identified any other new standards that it believes will have
+a significant impact on the Company’s consolidated financial statements.
+F-13
+Economic
+and political risks
+Substantially
+all the Company’s services are conducted in the People’s Republic of China (“PRC”), of which operations in the
+PRC are subject to special considerations and significant risks not typically associated with companies in rest of the world. These include
+risks associated with, among others, the political, economic and legal environment and foreign currency exchange. The Company’s
+results may be adversely affected by changes in the political conditions in the PRC, and by changes in governmental policies with respect
+to laws and regulations, anti-inflationary measures, currency conversion, remittances abroad, and rates and methods of taxation.
+4.
+GOING CONCERN UNCERTAINTIES
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. The Company
+incurred a net loss of $59,275 for
+the year ended December 31, 2024 resulting in accumulated deficit of $439,273 and
+a working capital deficit of $281,771.
+The
+Company’s cash position may not be significant enough to support the Company’s daily operations. While the Company believes
+in the viability of its strategy and in its ability to raise additional funds, there can be no assurances to that effect. The Company’s
+ability to continue as a going concern is dependent upon its ability to improve profitability. If the Company unable to improve profitability,
+then the Company shall rely on the financial support from its controlling shareholder.
+These
+and other factors raise substantial doubt about the Company’s ability to continue as a going concern within one year after the
+date that financial statements are issued. These financial statements do not include any adjustments to reflect the possible future effects
+on the recoverability and classification of assets or the amounts and classification of liabilities that may result in the Company not
+being able to continue as a going concern.
+5.
+INVENTORIES
+As
+of December 31, 2024 and 2023, the Company’s inventories consist of following:
+SCHEDULE
+OF INVENTORIES
+As of
+December 31, 2024
+As of December 31, 2023
+Gross Garrying Amount of Inventory
+$107,107
+$113,688
+Inventory Write-down
+$(82,929)
+-
+Net Carrying Amount
+$24,178
+$113,688
+6.
+PREPAYMENT, DEPOSITS AND OTHER RECEIVABLES
+As
+of December 31, 2024 and 2023, the Company’s prepayment, deposits and other receivables consist of following:
+SCHEDULE
+OF PREPAYMENT, DEPOSITS AND OTHER RECEIVABLES
+As of December 31, 2024
+As of December 31, 2023
+Deposits for Hong Kong Company Secretary
+$13
+$13
+Rental Deposit & Prepayment
+13,498
+Supplier Deposit & Prepayment
+6,093
+717
+Prepaid transfer agent fee and OTCIQ renewal
+1,845
+Prepayment- Sichuan Aima
+74,198
+106,864
+Other payments
+1,972
+9,810
+Total prepayment, deposits and other receivables
+$82,276
+$132,747
+F-14
+SCQC was involved in a legal dispute with Sichuan
+Aima Ke’er Biotechnology Group Co. (“Sichuan Aima”) regarding a cooperative agreement that was entered by both parties
+on June 7, 2022. This agreement was intended to support the business expansion of SCQC and outlined mutual obligations for collaboration
+over a two-year period, set to expire on June 6, 2024. In January 2023, SCQC transferred RMB1,000,000 (approximately $139,113) to Sichuan
+Aima as an advance payment for the cooperative arrangement under the agreement. However, negotiations in March 2023 were unproductive,
+leading both parties to terminate the cooperation. Sichuan Aima provided partial compensation to SCQC by offsetting the outstanding amount
+with goods of equivalent value at RMB466,637 (approximately $64,915). SCQC is now pursuing the recovery of the remaining balance of RMB533,363
+(approximately $74,198). On April 29, 2025, SCQC received a summons from the People’s Court of Sichuan Pilot Free Trade Zone notifying
+SCQC to hold a court hearing on July 9, 2025, case number: (2025) Chuan 0193 Min Chu 6553. As of the date of this report, the case remains
+pending and no settlement has been reached.
+7.
+OTHER PAYABLES AND ACCRUED LIABILITIES
+As
+of December 31, 2024 and 2023, the Company’s other payables and accrued liabilities consist of following:
+SCHEDULE
+OF OTHER PAYABLES AND ACCRUED LIABILITIES
+As of December 31, 2024
+As of December 31, 2023
+Other payables
+$4,480
+$3,047
+Accrued professional fee
+-
+$29,195
+Total other payables and accrued liabilities
+$4,480
+$32,242
+8.
+RELATED PARTY TRANSACTIONS
+SCHEDULE OF RELATED PARTY TRANSACTION
+As
+of December
+31, 2024
+As
+of December
+31, 2023
+Amount
+due to related party
+$413,409
+$501,890
+As of December 31, 2024, the Company has an outstanding
+payable of $413,409 to former director, Ms. Wang Min, which is unsecured and non-interest bearing with no fixed terms of repayment.
+Zhu Peiyuan is a manager of the Company, which is an indirect holding in Chongqing Jiushengguang Enterprise
+Management Consulting Co., LTD. (“Chongqing Jiushengguang”). Chongqing Jiushengguang’s leased office space is
+located at No. 188 and No. 5, East Beizhan Road, Shapingba District, Chongqing. From June 21, 2024, the management of the Company,
+through indirect wholly owned subsidiary SCQC Agriculture Co. Limited, uses part of the office space free of charge.
+9.
+SHAREHOLDERS’ EQUITY
+As
+of December 31, 2024 and 2023, the Company has 101,400,000 shares and 101,400,000 shares of common stock issued and outstanding, respectively.
+During
+the years ended December 31, 2024 and 2023, the Company has not issued any shares.
+The
+Company has 800,000,000 shares of common stock and 200,000,000 shares of preference stock authorized, no share of preference stock issued
+and outstanding.
+10.
+LEASE RIGHT-OF-USE ASSET AND LEASE LIABILITIES
+On
+December 1, 2022, the management of the Company through indirect wholly owned subsidiary SCQC Agriculture Co. Limited enter into a tenancy
+agreement to rent an office with an area of approximate 232 square meter for monthly rental of CNY24,900 (approximate $3,604) for a period
+of two years. On December 1, 2023, the monthly rental is reduced from CNY24,900 to CNY23,000 (approximate $3,241) for the remaining period.
+On February 29, 2024, the management of the Company through indirect wholly owned subsidiary SCQC Agriculture Co. Limited terminated
+the tenancy agreement of the office.
+On
+March 5, 2024 the management enter into a tenancy agreement to rent an office for a monthly rental of CNY9,000 (approximate $1,258) for
+a period of two years. On May 31, 2024, the management of the Company terminated the tenancy agreement of the office.
+F-15
+As
+of December 31, 2023, operating lease right-of-use assets as follows:
+SCHEDULE
+OF OPERATING LEASE RIGHT AND LEASE LIABILITY
+Right-of-use assets, net as of December 31, 2022
+$79,394
+Amortization for the period ended November 30, 2023
+(36,159)
+Right-of-use assets as of Nov 30, 2023
+43,235
+Reassessment of lease
+(3,150)
+Amortization of December 31, 2023
+(3,109)
+Foreign exchange translation
+(2,022)
+Right-of-use assets, net as of December 31, 2023
+$34,954
+As
+of December 31, 2023, operating lease liability as follows:
+Lease liability as of December 31, 2022
+$79,394
+Add: imputed interest for the period ended November 30, 2023
+2,509
+Less: gross repayment for the period ended November 30, 2023
+(38,668)
+Operating lease liability as of Nov 30, 2023
+43,235
+Reassessment of lease
+(3,150)
+Add: imputed interest of December 31, 2023
+138
+Less: gross repayment of December 31, 2023
+(3,247)
+Foreign exchange translation
+(2,022)
+Lease liability as of December 31, 2023
+$34,954
+11.
+CONCENTRATION OF RISK
+Customer
+Concentration
+For
+the year ended December 31, 2024, the Company generated total revenue of $246,466, of which two customers accounted for more than 10% of
+the Company’s total revenue.
+For
+the year ended December 31, 2023, the Company generated total revenue of $510,235, of which no customer accounted for more than 10% of
+the Company’s total revenue.
+SCHEDULE
+OF CUSTOMER CONCENTRATION RISK
+For years December 31
+2024
+2023
+2024
+2023
+2024
+2023
+Revenues
+Percentage of revenues
+Accounts
+receivable, trade
+Customer A
+$48,242
+-
+20%
+-
+-
+-
+Customer B
+$32,161
+-
+13%
+-
+-
+-
+Others
+$166,063
+$510,235
+67%
+100%
+-
+-
+Total
+$246,466
+$510,235
+100%
+100%
+$-
+$-
+Vendor
+Concentration
+For
+the year ended December 31, 2024, the Company incurred cost of revenue of $69,519, of which two suppliers account for more than 10% of
+the incurred cost of revenue.
+For
+the year ended December 31, 2023, the Company incurred cost of revenue of $69,079,
+of which two suppliers account for more than 10% of the incurred cost of revenue.
+SCHEDULE
+OF VENDOR CONCENTRATION RISK
+For year ended December 31
+2024
+2023
+2024
+2023
+2024
+2023
+Cost of revenue
+Percentage
+of
+Cost of revenue
+Accounts
+payable,
+trade
+Vendor A
+$25,853
+$33,677
+37%
+49%
+$-
+$-
+Vendor B
+$11,979
+$14,765
+17%
+21%
+-
+-
+Others
+$31,687
+$20,637
+46%
+30%
+-
+$12,597
+Total
+$69,519
+$69,079
+100%
+100%
+$-
+$12,597
+F-16
+12.
+INCOME TAXES
+The
+Company being a United States entity is subjected to the United States federal income tax at 21%. No provision for income taxes in the
+United States has been made as the Company had no United States taxable income for years ended December 31, 2024 and 2023.
+YCQH
+Holding Limited was incorporated in the Republic of Seychelles and, under the laws of Seychelles, is not subject to income taxes.
+YCQH
+Agricultural Technology Co. Limited was incorporated in Hong Kong and is subject to Hong Kong income tax at a tax rate of 16.5%. (the
+first HK$ 2 million (equivalent US$ 258,000) of profits earned by the company will be taxed at half the current tax rate (i.e., 8.25%)
+whilst the remaining profits will continue to be taxed at the existing 16.5% tax rate.)
+YCWB
+Agricultural Technology Co. Limited and SCQC Agriculture Co. Limited were incorporated in the PRC and subject to the company income tax
+rate of 25%. On top of company tax, PRC domestic sales are subjected to Value Added Tax typically at 3% for a Small-Scale Taxpayer with
+PRC revenue less than CNY 5,000,000, which is levied on the invoiced value of sales and is payable by the purchaser for agricultural
+related product. YCWB Agricultural Technology Co. Limited enjoyed preferential VAT rate of 1%. The Company is required to remit the VAT
+it collects to the tax authority. A credit is available whereby VAT paid on purchases can be used to offset the VAT due on sales.
+Effective
+and Statutory Rate Reconciliation
+The
+effective tax rate in the periods presented is the result of the mix of income earned in various tax jurisdictions that apply a broad
+range of income tax rates.
+The
+following table summarizes a reconciliation of the Company’s income taxes expenses:
+SCHEDULE OF EFFECTIVE INCOME TAX RATE RECONCILIATION
+2024
+2023
+For years ended December 31
+2024
+2023
+Computed expected expenses
+(25)%
+(25)%
+Effect of foreign tax rate difference
+4%
+7%
+Deferred tax assets not recognized
+16%
+79%
+Temporary difference not recognized
+5%
+(61)%
+Income tax expense
+-%
+-%
+2024
+2023
+For years ended December 31
+2024
+2023
+PRC statutory tax rate
+25%
+25%
+Computed expected expenses
+-12,907
+2,557
+Effect of foreign tax rate difference
+1,640
+3,713
+Deferred tax assets not recognized
+8,425
+27,763
+Temporary difference not recognized
+10,507
+(33,795)
+Income tax expense
+7,665
+238
+The
+following table sets forth the significant components of the aggregate deferred tax assets of the Company as of December 31, 2024 and
+2023:
+SCHEDULE
+OF DEFERRED TAX ASSETS
+As of December 31, 2024
+As of December 31, 2023
+Deferred tax assets:
+Net operating loss carry forwards
+- United States of America
+$80,870
+$72,534
+- Hong Kong
+816
+790
+- People Republic China
+12,326
+25,201
+Deferred tax assets, net operating loss carry
+forwards
+Less: valuation allowance
+(94,012)
+(98,525)
+Deferred tax assets
+$-
+$-
+Management
+believes that it is more likely than not that the deferred tax assets will not be fully realizable in the future. Despite the Company
+starting to turn a net profit for the year according to reporting figures, economic uncertainties dictate that the Company will only
+adjust its valuation allowance policy if it can sustain net profits over consecutive reporting periods. Therefore, the Company has provided
+for a full valuation allowance against its deferred tax assets of $94,012 as of December 31, 2024.
+F-17
+13.
+SEGMENT REPORTING
+ASC
+280, “Segment Reporting” establishes standards for reporting information about operating segments on a basis consistent with
+the Company’s internal organization structure as well as information about services categories, business segments and major customers
+in financial statements. The Company has three reportable segments based on business unit, bio-carbon-based fertilizer (“BCBF”)
+trading business, online retailing business and beauty products trading business and two reportable segments based on country, United
+States and China.
+In
+accordance with the “Segment Reporting” Topic of the ASC, the Company’s chief operating decision maker has been identified
+as the Chief Executive Officer and President, who reviews operating results to make decisions about allocating resources and assessing
+performance for the entire Company. Existing guidance, which is based on a management approach to segment reporting, establishes requirements
+to report selected segment information quarterly and to report annually entity-wide disclosures about products and services, major customers,
+and the countries in which the entity holds material assets and reports revenue. All material operating units qualify for aggregation
+under “Segment Reporting” due to their similar customer base and similarities in economic characteristics; nature of products
+and services; and procurement, manufacturing and distribution processes.
+SCHEDULE
+OF SEGMENT REPORTING
+For the Year Ended and As of December 31, 2024
+By Business Unit
+BCBF Trading Business
+Online Retailing Business
+Beauty Products Trading Business
+Total
+Revenue
+$17
+$246,449
+$      -
+$246,466
+Cost of revenue
+(6)
+(149,978)
+-
+(149,984)
+Selling and distribution expenses
+-
+(2,452)
+-
+(2,452)
+General and administrative expenses
+-
+(141,111)
+-
+(141,111)
+Income/(Loss) from operations
+11
+(47,092)
+-
+(47,081)
+Total assets
+$24,178
+$112,101
+$-
+$136,279
+Capital expenditure
+$-
+$-
+$-
+$-
+For the Year Ended and As of December 31, 2023
+By Business Unit
+BCBF Trading Business
+Online Retailing Business
+Beauty and other Products Trading Business
+Total
+Revenue
+$57,803
+$384,234
+$68,198
+$510,235
+Cost of revenue
+(34,517)
+(29,966)
+(5,436)
+(69,919)
+Selling and distribution expenses
+(495)
+(84,923)
+-
+(85,418)
+General and administrative expenses
+(211,710)
+(21,811)
+(114,530)
+(348,051)
+Income/(Loss) from operations
+(188,919)
+247,534
+(51,768)
+6,847
+Total assets
+$288,137
+$89,190
+$-
+$377,327
+Capital expenditure
+$-
+$-
+$-
+$-
+F-18
+By Country
+United States
+China
+Total
+For the Year Ended and As of December 31, 2024
+By Country
+United States
+China
+Total
+Revenue
+$-
+$246,466
+$246,466
+Cost of revenue
+-
+(149,984)
+(149,984)
+Selling and distribution expenses
+-
+(2,452)
+(2,452)
+General and administrative expenses
+(39,696)
+(101,415)
+(141,111)
+Income/(Loss) from operations
+(39,696)
+(7,385)
+(47,081)
+Total assets
+$2,084
+$134,195
+$136,279
+Capital expenditure
+$-
+$-
+$-
+By Country
+United States
+China
+Total
+For the Year Ended and As of December 31, 2023
+By Country
+United States
+China
+Total
+Revenue
+$-
+$510,235
+$510,235
+Cost of revenue
+-
+(69,919)
+(69,919)
+Selling and distribution expenses
+-
+(85,418)
+(85,418)
+General and administrative expenses
+(73,513)
+(274,538)
+(348,051)
+Income/(Loss) from operations
+(73,513)
+80,360
+6,847
+Total assets
+$10,855
+$366,472
+$377,327
+Capital expenditure
+$-
+$-
+$-
+14.
+DESCRIPTION OF RESTATEMENT TABLES
+The following tables present the impact of to our previously reported the
+consolidated statements of operations and comprehensive income for the quarters ended March 31, 2024, June 30, 2024 and September 30, 2024:
+SCHEDULE
+OF ERROR CORRECTION AND PRIOR PERIOD ADJUSTMENTS
+Statement of Operations (Unaudited)
+As previously reported
+Restatement impacts
+As restated
+Statement
+of Operations (Unaudited)
+Nine
+Months Ended September 30, 2024
+As
+previously reported
+Restatement
+impacts
+As
+restated
+REVENUE
+292,405
+(47,145)
+245,260
+-From
+online retailing business
+292,389
+(47,145)
+245,244
+COST
+OF REVENUE
+65,117
+1,474
+66,591
+-From
+online retailing business
+65,107
+1,474
+66,581
+Selling
+and distribution
+51,058
+(48,619)
+2,439
+Statement of Operations (Unaudited)
+As previously reported
+Restatement impacts
+As restated
+Statement
+of Operations (Unaudited)
+Three
+Months Ended September 30, 2024
+As
+previously reported
+Restatement
+impacts
+As
+restated
+REVENUE
+-
+-
+-
+-From
+online retailing business
+-
+-
+-
+COST
+OF REVENUE
+-
+-
+-
+-From
+online retailing business
+-
+-
+-
+Selling
+and distribution
+-
+-
+-
+Statement of Operations (Unaudited)
+As previously reported
+Restatement impacts
+As restated
+Statement
+of Operations (Unaudited)
+Six
+Months Ended June 30, 2024
+As
+previously reported
+Restatement
+impacts
+As
+restated
+REVENUE
+292,405
+(47,145)
+245,260
+-From
+online retailing business
+292,389
+(47,145)
+245,244
+COST
+OF REVENUE
+65,117
+1,474
+66,591
+-From
+online retailing business
+65,107
+1,474
+66,581
+Selling
+and distribution
+51,058
+(48,619)
+2,439
+Statement of Operations (Unaudited)
+As previously reported
+Restatement impacts
+As restated
+Statement
+of Operations (Unaudited)
+Three
+Months Ended June 30, 2024
+As
+previously reported
+Restatement
+impacts
+As
+restated
+REVENUE
+2,539
+-
+2,539
+-From
+online retailing business
+2,523
+-
+2,523
+COST
+OF REVENUE
+220
+-
+220
+-From
+online retailing business
+210
+-
+210
+GROSS PROFIT
+2,319
+2,319
+Selling
+and distribution
+48,619
+(48,619)
+INCOME/(LOSS) FROM OPERATION BEFORE INCOME TAX
+(78,003)
+48,619
+(29,384)
+INCOME/(LOSS) BEFORE INCOME TAX
+(76,609)
+48,619
+(27,990)
+NET INCOME/(LOSS)
+(84,763)
+48,619
+(36,144)
+TOTAL COMPREHENSIVE INCOME/(LOSS)
+(87,136)
+48,619
+(38,517)
+Net profit for the period
+(84,763)
+48,619
+(36,144)
+Statement of Operations (Unaudited)
+As previously reported
+Restatement impacts
+As restated
+Statement
+of Operations (Unaudited)
+Three
+Months Ended March 31, 2024
+As
+previously reported
+Restatement
+impacts
+As
+restated
+REVENUE
+289,866
+(47,145)
+242,721
+-From
+online retailing business
+289,866
+(47,145)
+242,721
+COST
+OF REVENUE
+64,897
+1,474
+66,371
+-From
+online retailing business
+64,897
+1,474
+66,371
+GROSS PROFIT
+224,969
+(48,619)
+176,350
+Selling and distribution
+2,439
+2,439
+INCOME/(LOSS) FROM OPERATION BEFORE INCOME TAX
+155,539
+(48,619)
+106,920
+INCOME/(LOSS) BEFORE INCOME TAX
+155,607
+(48,619)
+106,988
+NET INCOME/(LOSS)
+155,607
+(48,619)
+106,988
+TOTAL COMPREHENSIVE INCOME/(LOSS)
+152,905
+(48,619)
+104,286
+Net profit for the period
+155,607
+(48,619)
+106,988
+The Company restated its previously issued
+unaudited condensed consolidated financial statements for the first, and second quarters of fiscal year 2024, primarily to correct
+to record of recognition of certain revenues, costs and expenses.
+The Company reduced its operating profit before income
+tax by $48,619 for the three months ended March 31, 2024, and correspondingly increased such by $48,619 for the three months ended June
+30, 2024. The restatements had no impact on the Company’s consolidated full-year net income, financial position, or cash flows for the
+year ended December 31, 2024.
+15.
+SUBSEQUENT EVENTS
+On
+April 28, 2025, the Company through subsidiary YCWB Agricultural Technology Co. Limited transferred CNY 1,490,096 (approximately $ 204,140)
+worth of equity of SCQC Agricultural Co. Limited to Mr. Zhang Chenjiang at a price of zero.
+On
+April 15, 2025, the Board of Directors of the Company approved to change the name of the Company from “YCQH Agricultural Technology
+Co. Ltd” to “Intelligent Hotel Group Ltd”. On May 6, 2025, the Company filed a Certificate of Amendment with the Secretary
+of State of the State of Nevada, changing the Company’s name to “Intelligent Hotel Group Ltd”. The Amendment became
+effective on May 6, 2025.
+SCQC,
+the Company’s wholly owned subsidiary, was involved in a legal dispute with Sichuan Aima Ke’er Biotechnology Group Co. (“Sichuan
+Aima”) regarding a cooperative agreement that was entered by both parties on June 7, 2022. This agreement was intended to support
+the business expansion of SCQC and outlined mutual obligations for collaboration over a two-year period, set to expire on June 6, 2024.
+On April 29, 2025, the company received a summons from the People’s Court of Sichuan Pilot Free Trade Zone notifying the company
+to hold a court hearing on July 9, 2025, case number: (2025) Chuan 0193 Min Chu 6553. As of the date of this report, the case remains
+unresolved, and no settlement has been reached.
+F-19
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+1.
+Former Accountant
+On
+July 22, 2024 (the “Effective Date”), Onestop Assurance PAC (“OA”), the independent registered public accounting
+firm of YCQH, informed the Company that it would be terminating its engagement with the Company as of the Effective Date. On July 22,
+2024, the Board of Directors of the Company (the “Board”) approved the resignation of OA as the Company’s independent
+registered public accounting firm.
+2.
+Audit Opinion on Issuing Audit Report
+None
+of OA’s audit reports for the years ended December 31, 2023 contained an adverse opinion or a disclaimer of opinion, nor was any
+such report qualified or modified, except that the reports included explanatory paragraphs in respect to uncertainty as to the Company’s
+ability to continue as a going concern, and emphasis of matter paragraphs with respect transactions involving a related party that cannot
+be presumed to be carried out on an arm’s length basis.
+3.
+Disagreement Matters
+During
+the fiscal years ended December 31, 2023 and the subsequent interim period through the Effective Date, there were (a) no disagreements
+(as defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions) between the Company and OA on any matter of accounting
+principles or practices, financial statement disclosure or auditing scope or procedure, which would have caused it to make reference
+to the subject matter of such a disagreement in connection with its audit reports on the Company’s consolidated financial statements
+for such years, and (b) no reportable events (as described in Item 304(a)(1)(v) of Regulation S-K).
+4.
+Current Accountant
+On
+July 22, 2024, the Board approved the engagement of Simon & Edward, LLP (“S&E”) to be its new independent registered
+public accountant for the fiscal year ended December 31, 2024.
+ITEM
+9A. CONTROLS AND PROCEDURES
+Disclosure
+Controls and Procedures
+We
+maintain disclosure controls and procedures, as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the
+“Exchange Act”), that are designed to ensure that information required to be disclosed by us in the reports that we file
+or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities
+and Exchange Commission’s rules and forms and that such information is accumulated and communicated to our management, including
+our principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions
+regarding required disclosure.
+We
+carried out an evaluation, under the supervision and with the participation of our management, including our chief executive
+officer, of the effectiveness of our disclosure controls and procedures as of December 31, 2024. Based on the evaluation of these
+disclosure controls and procedures, and in light of the material weaknesses found in our internal controls over financial reporting,
+our chief executive officer concluded that our disclosure controls and procedures were not effective. The matters involving internal
+controls and procedures that our management considered to be material weaknesses under the standards of the Public Company
+Accounting Oversight Board were:(1)lack of sufficient skillful and experienced accounting personnel to adequately prepare and review
+its consolidated financial statements and disclosures to fulfill the reporting requirements;(2) lack of a functioning audit
+committee due to a lack of a majority of independent members and a lack of a majority of outside directors on our board of
+directors, resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures;(3)
+inadequate segregation of duties and effective risk assessment;(4) insufficient written policies and procedures for accounting and
+financial reporting with respect to the requirements and application of both US GAAP and SEC guidelines;(5) lack of internal audit
+function due to the fact that the Company lacks qualified resources to; and (6) perform the internal audit functions properly and
+that the scope and effectiveness of the internal audit function are yet to be developed. The aforementioned material weaknesses were
+identified by our chief executive officer in connection with the review of our financial statements as of December 31,
+2024.
+Management’s
+Report on Internal Control over Financial Reporting
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f)
+and 15d-15(f) under the Exchange Act. Our internal control over financial reporting is designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles. The internal controls for the Company are provided by executive management’s review and approval
+of all transactions. Our internal control over financial reporting also includes those policies and procedures that:
+1.
+pertain
+to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets;
+2.
+provide
+reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+U.S. GAAP, and that our receipts and expenditures are being made only in accordance with the authorization of our management; and
+3.
+provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that
+could have a material effect on the financial statements.
+17
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate.
+Management assessed the effectiveness of the Company’s
+internal control over financial reporting as of December 31, 2024. In making this assessment, management used the criteria set forth by
+the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control-Integrated Framework. Management’s assessment
+included an evaluation of the design of our internal control over financial reporting and testing of the operational effectiveness of
+these controls.
+As of December 31, 2024, management assessed the effectiveness
+of our internal control over financial reporting based on the criteria for effective internal control over financial reporting established
+in Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”)
+in 2013 and SEC guidance on conducting such assessments. Based on such evaluation, the Company’s management concluded that, during
+the period covered by this Report, our internal control over financial reporting were not effective due to the presence of material weaknesses.
+Management’s
+Remediation Initiatives
+Since
+2024, we engaged Shenzhen Pengcheng Financial Consulting Co., Ltd as an external consultant to assist with the identification and address
+of complex and proper accounting issues.
+In
+an effort to remediate the identified material weaknesses and other deficiencies and enhance our internal controls, we also plan to initiate
+the following series of measures to further strengthen the Company’s internal controls going forward:
+1.
+hire
+a reporting manager (“Internal Finance Manager”) who has the requisite relevant U.S. GAAP and SEC reporting experience
+and qualifications;
+2.
+make
+an overall assessment on the current finance and accounting resources and hire additional accounting members with appropriate levels
+of accounting knowledge and experience;
+3.
+streamline
+our accounting department structure and enhance our staff’s U.S. GAAP and SEC reporting requirements on a continuous basis
+through internal training provided by the Internal Finance manager;
+4.
+participate
+in trainings and seminars provided by professional services firms on a regular basis to gain knowledge on regular U.S. GAAP / SEC
+reporting requirements updates; and
+5.
+engage
+an external “Sarbanes-Oxley 404” consulting firm to help us implement Sarbanes-Oxley 404 internal controls compliance
+together with the establishment of our internal audit function.
+We
+anticipate that these initiatives will be at least partially, if not fully, implemented by the end of fiscal year 2025.
+Changes
+in Internal Controls over Financial Reporting
+There
+were no changes in the Company’s internal control over financial reporting during the year ended December 31, 2024, that have materially
+affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+ITEM
+9B. OTHER INFORMATION.
+Insider
+Trading Arrangements
+During
+the year ended December 31, 2024, none of our directors or officers adopted or terminated any contract, instruction or written plan for
+the purchase or sale of our securities to satisfy the affirmative defense conditions of “Rule 10b5-1 trading arrangement”
+or any “non-Rule 10b5-1 trading arrangement”.
+ITEM
+9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS.
+Not
+applicable.
+18
+PART
+III
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+Directors
+and Executive Officers
+The
+name, address, age and titles of our executive officers and directors are as follows:
+NAME
+AGE
+POSITION
+Yin
+Yixuan
+23
+Chief
+Executive Officer, President, Secretary, Treasurer, Director
+Yin
+Yixuan – Chief Executive Officer, President, Secretary, Treasurer, Director
+Ms.
+Yin Yixuan received a Master’s degree in Media, Culture & Creative Cities from the University of Hong Kong, Hong Kong, China.
+From
+August 2019 to October 2021, Ms. Yin founded and managed Brainstorm Can, an online retail store specializing in creative cultural souvenirs.
+She was responsible for product design, branding, supplier coordination, and customer engagement, gaining hands-on experience in entrepreneurship,
+digital marketing, and retail management within the creative culture space. From May 2020 to September 2020, Ms. Yin worked as an intern
+designer at Beijing Order Media Co. Ltd, assisting in designing web pages and posters for clients. From October 2021 to April 2022, Ms.
+Yin worked at Guangzhou Xianda Overseas Education Service Co. Ltd. as a media operation intern, assisting in marketing and promotion
+on short-video social platforms.
+Family
+Relationships
+There
+are no family relationships between any director or executive officer of the Company.
+Involvement
+in Certain Legal Proceedings
+Our
+Director and our Executive Officer have not been involved in any of the following events during the past ten years:
+1.
+bankruptcy
+petition filed by or against any business of which such person was a general partner or executive officer either at the time of the
+bankruptcy or within two years prior to that time;
+2.
+any
+conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor
+offenses);
+3.
+being
+subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction,
+permanently or temporarily enjoining, barring, suspending or otherwise limiting his/her involvement in any type of business, securities
+or banking activities; or
+4.
+being
+found by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have
+violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated.
+5.
+Such
+person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State
+securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended,
+or vacated;
+6.
+Such
+person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated
+any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not
+been subsequently reversed, suspended or vacated;
+7.
+Such
+person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not
+subsequently reversed, suspended or vacated, relating to an alleged violation of:(i) Any Federal or State securities or commodities
+law or regulation; or(ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited
+to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist
+order, or removal or prohibition order; or(iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with
+any business entity; or
+8.
+Such
+person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory
+organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section
+1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that
+has disciplinary authority over its members or persons associated with a member.
+19
+Independence
+of Directors
+We
+are not required to have independent members on our Board of Directors, and do not anticipate having independent Directors until such
+time as we are required to do so.
+Code
+of Ethics
+We
+have not adopted a formal Code of Ethics. The Board of Directors evaluated the business of the Company and the number of employees and
+determined that since the business is operated by a small number of persons, general rules of fiduciary duty and federal and state criminal,
+business conduct and securities laws are adequate ethical guidelines. In the event our operations, employees and/or Directors expand
+in the future, we may take actions to adopt a formal Code of Ethics.
+Corporate
+Governance
+The
+Company promotes accountability for adherence to honest and ethical conduct; endeavors to provide full, fair, accurate, timely and understandable
+disclosure in reports and documents that the Company files with the Securities and Exchange Commission (the “SEC”) and in
+other public communications made by the Company; and strives to be compliant with applicable governmental laws, rules and regulations.
+The Company has not formally adopted a written code of business conduct and ethics that governs the Company’s employees, officers
+and Directors as the Company is not required to do so.
+In
+lieu of an Audit Committee, the Company’s Board of Directors, is responsible for reviewing and making recommendations concerning
+the selection of outside auditors, reviewing the scope, results and effectiveness of the annual audit of the Company’s financial
+statements and other services provided by the Company’s independent public accountants. The Board of Directors, the Chief Executive
+Officer and the Chief Financial Officer of the Company review the Company’s internal accounting controls, practices and policies.
+Committees
+of the Board
+Our
+Company currently does not have nominating, compensation, or audit committees or committees performing similar functions nor does our
+Company have a written nominating, compensation or audit committee charter. Our Director(s) believe that it is not necessary to have
+such committees, at this time, because the Director(s) can adequately perform the functions of such committees.
+Audit
+Committee Financial Expert
+Our
+Board of Directors has determined that we do not have a board member that qualifies as an “audit committee financial expert”
+as defined in Item 407(D)(5) of Regulation S-K, nor do we have a Board member that qualifies as “independent” as the term
+is used in Item 7(d)(3)(iv)(B) of Schedule 14A under the Securities Exchange Act of 1934, as amended, and as defined by Rule 4200(a)(14)
+of the FINRA Rules.
+We
+believe that our Director(s) are capable of analyzing and evaluating our financial statements and understanding internal controls and
+procedures for financial reporting. The Director(s) of our Company does not believe that it is necessary to have an audit committee because
+management believes that the Board of Directors can adequately perform the functions of an audit committee. In addition, we believe that
+retaining an independent Director who would qualify as an “audit committee financial expert” would be overly costly and burdensome
+and is not warranted in our circumstances given the stage of our development and the fact that we have not generated any positive cash
+flows from operations to date.
+Shareholder
+Proposals
+Our
+Company does not have any defined policy or procedural requirements for shareholders to submit recommendations or nominations for Directors.
+The Board of Directors believes that, given the stage of our development, a specific nominating policy would be premature and of little
+assistance until our business operations develop to a more advanced level. Our Company does not currently have any specific or minimum
+criteria for the election of nominees to the Board of Directors and we do not have any specific process or procedure for evaluating such
+nominees. The Board of Directors will assess all candidates, whether submitted by management or shareholders, and make recommendations
+for election or appointment.
+A
+shareholder who wishes to communicate with our Board of Directors may do so by directing a written request addressed to our President,
+at the address appearing on the first page of this Information Statement.
+20
+ITEM
+11. EXECUTIVE COMPENSATION
+The
+following tables set forth certain information about compensation paid, earned or accrued for services by our Executive Officer for the
+fiscal years ended December 31, 2024 and 2023:
+Summary
+Compensation Table
+Name and principal position (a)
+Year ended December 31, (b)
+Salary ($) (c)
+Bonus ($) (d)
+Stock Compensation ($) (e)
+Option Awards ($) (f)
+Non-Equity Incentive Plan Compensation ($) (g)
+Nonqualified Deferred Compensation Earnings ($) (h)
+All Other Compensation ($) (i)
+Total ($) (j)
+Yin Yixuan Title: Chief Executive Officer,
+2024
+-
+-
+-
+-
+-
+-
+-
+-
+President, Secretary, Treasurer, Director
+2023
+$-
+$-
+$-
+$-
+$-
+$-
+$-
+$-
+Stock
+Option Grants
+We
+have not granted any stock options to our executive officer since our incorporation.
+Employment
+Agreements
+We
+do not have an employment or consulting agreement with our Officer or Director.
+Executive
+Compensation Philosophy
+Our
+Board of Directors determines the compensation given to our executive officers in their sole determination. Our Board of Directors reserves
+the right to pay our executives or any future executives a salary, and/or issue them shares of common stock issued in consideration for
+services rendered and/or to award incentive bonuses which are linked to our performance, as well as to the individual executive officer’s
+performance. This package may also include long-term stock-based compensation to certain executives, which is intended to align the performance
+of our executives with our long-term business strategies. Additionally, while our Board of Directors has not granted any performance
+base stock options to date, the Board of Directors reserves the right to grant such options in the future, if the Board in its sole determination
+believes such grants would be in the best interests of the Company.
+Incentive
+Bonus
+The
+Board of Directors may grant incentive bonuses to our executive officer and/or future executive officers in its sole discretion, if the
+Board of Directors believes such bonuses are in the Company’s best interest, after analyzing our current business objectives and
+growth, if any, and the amount of revenue we are able to generate each month, which revenue is a direct result of the actions and ability
+of such executives.
+Long-term,
+Stock Based Compensation
+In
+order to attract, retain and motivate executive talent necessary to support the Company’s long-term business strategy we may award
+our executives and any future executives with long-term, stock-based compensation in the future, at the sole discretion of our Board
+of Directors, which we do not currently have any immediate plans to award.
+21
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELAED STOCKHOLDER MATTERS.
+As
+of December 31, 2024, the Company has 101,400,000 shares of common stock issued and outstanding, which number of issued and outstanding
+shares of common stock have been used throughout this report.
+Percentage
+values below are rounded to the nearest hundredths place.
+Name and Address of Beneficial Owner
+Shares of Common Stock Beneficially Owned
+Common Stock Voting Percentage Beneficially Owned
+Voting Shares of Preferred Stock
+Preferred Stock Voting Percentage Beneficially Owned
+Total Voting Percentage Beneficially Owned
+Executive Officers and Directors
+Yixuan Yin
+Title: President, Secretary, Treasurer, Chief Executive Officer, and
+Director
+Address: No. 188 and No. 5, East Beizhan Road, Shapingba District, Chongqing, China 404100
+-
+-%
+-
+-
+-%
+5% or Greater Shareholders
+Min Wang
+39,249,034
+38.71%
+-
+-
+38.71%
+Beneficial
+ownership in the table above has been determined in accordance with Rule 13d-3 under the Exchange Act. Under this rule, certain shares
+may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose
+of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire shares (for
+example, upon exercise of an option or warrant) within 60 days of the date as of which the information is provided. In computing the
+percentage ownership of any person, the amount of shares is deemed to include the amount of shares beneficially owned by such person
+by reason of such acquisition rights. As a result, the percentage of outstanding shares of any person as shown in the following table
+does not necessarily reflect the person’s actual voting power at any particular date.
+22
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+For
+the year ended December 31, 2024, our then director, Ms. Wang Min, advanced expenses on behalf of the Company for a total of $364,720.
+As of December 31, 2023, the Company has an outstanding payable to her of $501,890, which is unsecured and non-interest bearing with
+no fixed terms of repayment.
+Review,
+Approval and Ratification of Related Party Transactions
+Given
+our small size and limited financial resources, we have not adopted formal policies and procedures for the review, approval or ratification
+of transactions, such as those described above, with our executive officer, Director and significant stockholders. We intend to establish
+formal policies and procedures in the future, once we have sufficient resources and have appointed additional Directors, so that such
+transactions will be subject to the review, approval or ratification of our Board of Directors, or an appropriate committee thereof.
+On a moving forward basis, our Director(s) will continue to approve any related party transaction.
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+Below
+is the aggregate amount of fees billed for professional services rendered by our principal accountants with respect to our last two fiscal
+years.
+Onestop
+Assurance PAC
+For years ended December 31
+2024
+2023
+Audit fees
+-
+$20,000
+Audit related fees
+-
+-
+Tax fees
+-
+-
+All other fees
+-
+-
+Total
+-
+$20,000
+Simon
+& Edward, LLP
+For years ended December 31
+2024
+2023
+Audit fees
+$10,000
+$-
+Audit related fees
+-
+-
+Tax fees
+-
+-
+All other fees
+$16,200
+-
+Total
+$26,200
+$-
+All
+of the professional services rendered by principal accountants for the audit of our annual financial statements that are normally provided
+by the accountant in connection with statutory and regulatory filings or engagements for last two fiscal years were approved by our board
+of directors.
+23
+PART
+IV
+ITEM
+15. EXHIBITS
+The
+following exhibits are included as part of this report by reference:
+31.1
+Certification of Chief Executive Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a).
+32.1
+Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002.
+101.INS
+Inline
+XBRL Instance Document
+101.SCH
+Inline
+XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline
+XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+ITEM
+16. FORM 10-K SUMMARY.
+As
+permitted, the registrant has elected not to supply a summary of information required by Form 10-K.
+24
+SIGNATURES
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized.
+Date:
+July 17, 2025
+Intelligent
+Hotel Group Ltd
+(formally
+known as YCQH Agricultural Technology Co. Ltd)
+By:
+/s/
+Yixuan Yin
+Name:
+Yixuan
+Yin
+Title:
+Chief
+Executive Officer, President, Secretary, Treasurer, and Director
+(Principal
+Executive Officer, Principal Financial Officer, Principal Accounting Officer)
+25

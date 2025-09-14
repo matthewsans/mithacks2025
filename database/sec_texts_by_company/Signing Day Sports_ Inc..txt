@@ -1,0 +1,201 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+(Amendment No. 1)
+(Mark One)
+☒ ANNUAL REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended: December 31, 2024
+☐ TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____________ to
+_____________
+Commission File No. 001-41863
+SIGNING DAY SPORTS, INC.
+(Exact name of registrant as specified in its charter)
+Delaware   87-2792157
+(State or other jurisdiction of incorporation or organization)   (I.R.S. Employer Identification No.)
+8355 East Hartford Rd., Suite 100, Scottsdale, AZ   85255
+(Address of principal executive offices)   (Zip Code)
+(480) 220-6814
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b)
+of the Act:
+Title of each class   Trading Symbol(s)   Name of each exchange on which registered
+Common Stock, par value $0.0001 per share   SGN
+NYSE American LLC
+Securities registered pursuant to Section 12(g)
+of the Act: None
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding
+12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”
+and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐   Accelerated filer  ☐
+Non-accelerated filer ☒   Smaller reporting company ☒
+Emerging growth company  ☒
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act by the registered public accounting firm that prepared or issued its audit report.
+☐
+If securities are registered pursuant to Section
+12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction
+of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+As of June
+28, 2024 (the last business day of the registrant’s most recently completed second fiscal quarter), the aggregate market value of
+the registrant’s shares of common stock, par value $0.0001 per share (“common stock”), held by non-affiliates (based
+upon the closing price of such shares as reported on the NYSE American LLC) was approximately $3,301,121.43. Shares held by each executive
+officer and director and by each person who owned more than 10% of the outstanding shares of common stock have been excluded from the
+calculation in that such persons may be deemed to be affiliates of the registrant. This determination of affiliate status is not necessarily
+a conclusive determination for other purposes.
+As of August 5, 2025, there were a total of 3,947,781
+shares of the registrant’s Common Stock, par value $0.0001 per share, outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+None.
+EXPLANATORY NOTE
+This Amendment No. 1 (this “Amendment No.
+1” or “Annual Report on Form 10-K/A”) to Annual Report on Form 10-K (the “Annual Report”) of Signing Day
+Sports, Inc., a Delaware corporation (“we”, “our”, “us”, or the “Company”), for the fiscal
+year ended December 31, 2024 is being filed solely to correct the disclosure in Item 9A. “Controls and Procedures.” Specifically,
+such Item is amended and restated hereby to disclose (1) that management’s conclusion on the Company’s disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”)), as of December 31, 2024, was not effective due to the material weaknesses identified below; (2) the
+Company’s Chief Executive Officer and Chief Financial Officer concluded that the Company’s internal control over financial
+reporting as of December 31, 2024 was not effective, due to material weaknesses in internal control over financial reporting
+that were identified relating to a lack of segregation of duties and the absence of a comprehensive and formalized accounting and financial
+reporting policies and procedures manual; and (3) certain remediation measures that have been taken to address such material weaknesses.
+In addition, pursuant to Rule 12b-15 under
+the Exchange Act, this Amendment No. 1 also contains new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002, which are attached hereto.
+Except as described above, no other changes are
+being made to the Original Filing. Further, except as expressly stated, this Amendment No. 1 does not reflect events occurring after
+the filing of the Original Filing or modify or update in any way any of the other items or disclosures contained in the Original Filing,
+including, without limitation, the consolidated financial statements and the related footnotes. Accordingly, this Amendment No. 1 should
+be read in conjunction with the Original Filing and the Company’s other filings with the Securities and Exchange Commission (the
+“SEC”) subsequent to the filing of the Original Filing.
+ITEM 9A. CONTROLS AND PROCEDURES.
+Evaluation of Disclosure Controls and Procedures
+Our management, with
+the participation of our Chief Executive Officer and Chief Financial Officer, have evaluated our disclosure controls and procedures (as
+defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) prior to the filing of this Annual Report on
+Form 10-K/A. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of the end of the period
+covered by this Annual Report on Form 10-K/A, our disclosure controls and procedures were, in design and operation, not effective at
+a reasonable assurance level due to the material weaknesses in internal control over financial reporting described below.
+Management’s Annual Report on Internal
+Control over Financial Reporting
+Management is responsible
+for establishing and maintaining adequate internal control over financial reporting as such term is defined in Rule 13a-15(f) of
+the Exchange Act. Our internal control system is designed to provide reasonable assurance regarding the preparation and fair presentation
+of financial statements for external purposes in accordance with generally accepted account principles. All internal control systems,
+no matter how well designed, have inherent limitations and can provide only reasonable assurance that the objectives of the internal control
+system are met.
+Management assessed the
+effectiveness of our internal control over financial reporting as of December 31, 2024. In making this assessment, management used the
+framework set forth in the report entitled Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations
+of the Treadway Commission, or COSO. The COSO framework summarizes each of the components of a company’s internal control system,
+including (i) the control environment, (ii) risk assessment, (iii) control activities, (iv) information and communication, and (v) monitoring.
+Based on this evaluation,
+our Chief Executive Officer and our Chief Financial Officer concluded that the Company’s internal control over financial reporting
+as of December 31, 2024 was not effective due to the following material weaknesses in internal control
+over financial reporting:
+●Our size has prevented us from being able to employ sufficient resources to enable us to have an adequate
+level of supervision and segregation of duties; and
+●We did not have a comprehensive and formalized accounting and financial reporting policies and procedures
+manual which details the information needed for our financial reporting process.
+This Amendment No. 1
+does not include an attestation report of our independent registered public accounting firm regarding internal control over financial
+reporting. Pursuant to Item 308(b) of Regulation S-K, management’s report is not subject to attestation by our independent registered
+public accounting firm because the Company is neither an “accelerated filer” nor a “large accelerated filer” as
+those terms are defined by the SEC.
+Plan of Remediation
+of Material Weaknesses in Internal Control Over Financial Reporting
+Following the identification
+of the material weaknesses described above, management commenced remediation actions relating to these material weaknesses beginning in
+the three months ended March 31, 2025, as follows:
+●To address the material weakness related to inadequate segregation of duties, management has engaged qualified
+external consultants to assist with financial reporting processes, account reconciliations, and review controls. These consultants provide
+an independent layer of oversight and help mitigate risks associated with limited internal staffing. As the Company grows and additional
+resources become available, management plans to expand the finance team and reassign responsibilities to achieve more effective separation
+of duties. Enhanced management review procedures have been implemented immediately.
+●Management has initiated the development of a comprehensive accounting and financial reporting policies
+and procedures manual, covering key processes such as revenue recognition, expense accruals, account reconciliations, financial close
+procedures, estimate preparation, and journal entry documentation and review.
+1
+The material weaknesses
+identified above will not be considered fully remediated until these additional controls and procedures have operated effectively for
+a sufficient period of time and management has concluded, through testing, that these controls are effective. Our management will monitor
+the effectiveness of our remediation plans and will make changes management determines to be appropriate. If not remediated, these material
+weaknesses could result in material misstatements to our annual or interim consolidated financial statements that may not be prevented
+or detected on a timely basis or result in a delayed filing of required periodic reports. If we are unable to assert that our internal
+control over financial reporting is effective, investors may lose confidence in the accuracy and completeness of our financial reports,
+the market price of our common stock could be adversely affected, and we could become subject to litigation or investigations by The NYSE
+American LLC, the SEC, or other regulatory authorities, which could require additional financial and management resources.
+Changes in Internal Control over Financial
+Reporting
+There were no changes in our internal control
+over financial reporting during the quarter ended December 31, 2024 that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting.
+Inherent Limitation on the Effectiveness of Internal Control
+The effectiveness of any system of internal control
+over financial reporting, including ours, is subject to inherent limitations, including the exercise of judgment in designing, implementing,
+operating, and evaluating the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, any system of
+internal control over financial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not
+absolute assurances. In addition, projections of any evaluation of effectiveness to future periods are subject to the risk that controls
+may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot assure you
+that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+2
+PART IV
+ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES.
+Exhibit No.
+Description
+31.3*
+Certifications of Principal Executive Officer filed pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.4*
+Certifications of Principal Financial and Accounting Officer filed pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+104*
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*Filed herewith.
+3
+SIGNATURES
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+Date: August 6, 2025
+Signing Day Sports, Inc.
+/s/ Daniel Nelson
+Name: Daniel Nelson
+Title: Chief Executive Officer
+(Principal Executive Officer)
+4
+0001898474
+true
+FY
+0001898474
+2024-01-01
+2024-12-31
+0001898474
+2024-06-28
+0001898474
+2025-08-05
+iso4217:USD
+xbrli:shares

@@ -1,0 +1,137 @@
+NT 10-K
+1
+formnt10-k.htm
+NT 10-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 12b-25
+Commission File Number: 000-56380
+NOTIFICATION OF LATE FILING
+☒
+Form 10-K
+☐
+Form 20-F
+☐
+Form 11-K
+☐
+Form 10-Q
+☐
+Form 10-D
+☐
+Form N-SAR
+☐
+Form N-CSR
+For
+Period Ended: March 31, 2025
+☐
+Transition Report on Form 10-K
+☐
+Transition Report on Form 10-Q
+☐
+Transition Report on Form 20-F
+☐
+Transition Report on Form N-SAR
+☐
+Transition Report on Form 11-K
+For
+the Transition Period Ended: _______________________________________
+Nothing
+in this form shall be construed to imply that the Commission has verified any information contained herein.
+If
+the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates: _______________________________________
+PART
+I
+REGISTRANT
+INFORMATION
+Full
+name of registrant
+ZRCN
+Inc.
+Former
+name if applicable
+Address
+of principal executive office
+1580
+Dell Avenue
+City,
+state and zip code
+Campbell,
+CA 95008
+PART II
+RULE 12b-25 (b) AND (c)
+If
+the subject report could not be filed without unreasonable effort or expense and the registrant seeks relief pursuant to Rule 12b-25
+(b), the following should be completed. (Check box if appropriate.)
+(a)
+The
+reasons described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+☒
+(b)
+The
+subject annual report, semi-annual report, transition report on Form 10-K, 20-F, 11-K or Form N-SAR or Form N-CSR, or portion thereof
+will be filed on or before the 15th calendar day following the prescribed due date or the subject quarterly report or
+transition report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the fifth
+calendar day following the prescribed due date; and
+(c)
+The
+accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART III
+NARRATIVE
+State
+below in reasonable detail the reasons why Form 10-K, 11-K, 20-F, 10-Q, N-SAR, N-CSR, or the transition report portion thereof, could
+not be filed within the prescribed time period.
+The
+compilation, dissemination and review of the information required to be presented in the Form 10-K for the relevant fiscal year has imposed
+time constraints that have rendered timely filing of the Form 10-K impracticable without undue hardship and expense to the registrant.
+The registrant undertakes the responsibility to file such annual report no later than 15 days after its original due date.
+PART IV
+OTHER INFORMATION
+(1) Name and telephone number of person to contact in regard to this notification
+Jeff
+Parsons
+(408)
+963-4589
+(Name)
+(Area
+Code)
+(Telephone
+Number)
+(2)
+Have all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment
+Company Act of 1940 during the preceding 12 months or for such shorter period that the registrant was required to file such report(s)
+been filed? If the answer is no, identify report(s).
+☒ Yes ☐ No
+(3)
+Is it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be
+reflected by the earnings statements to be included in the subject report or portion thereof?
+☒ Yes ☐ No
+If
+so: attach an explanation of the anticipated change, both narratively and quantitatively, and, if appropriate, state the reasons why
+a reasonable estimate of the results cannot be made.
+On
+May 2, 2025, the Audit Committee of the Board of Directors of ZRCN Inc. (the “Company”) received formal notice from Assurance
+Dimensions Inc. (“AD”) that, in conjunction with its exit from providing audit services to publicly traded companies, AD
+had made the decision to resign as the Company’s PCAOB accountant effective May 2, 2025.
+On
+May 12, 2025, the Company’s Audit Committee and Management engaged Kreston, PC., (“Kreston”) as
+the
+Company’s independent registered PCAOB accounting firm for the financial reporting period ending March 31, 2025, subject to completion
+of Kreston’s standard client acceptance procedures.
+As
+a result of these two events ZRCN Inc. will be delinquent in filing its financial statements on Form 10-K for the year ending March 31,
+2025.
+ZRCN Inc.
+(Name of Registrant as Specified in Charter)
+Has
+caused this notification to be signed on its behalf by the undersigned thereunto duly authorized.
+Dated:
+June 30, 2025
+/s/
+Jeff Parsons
+By:
+Jeff
+Parsons
+Title:
+Chief
+Financial Officer

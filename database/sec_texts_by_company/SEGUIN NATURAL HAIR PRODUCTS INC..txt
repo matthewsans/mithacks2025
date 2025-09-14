@@ -1,0 +1,1298 @@
+false
+2022
+FY
+0001642363
+0001642363
+2021-04-01
+2022-03-31
+0001642363
+2021-06-30
+0001642363
+2025-07-15
+0001642363
+2022-03-31
+0001642363
+2021-03-31
+0001642363
+2020-04-01
+2021-03-31
+0001642363
+us-gaap:CommonStockMember
+2020-03-31
+0001642363
+snhp:SharesToBeIssuedMember
+2020-03-31
+0001642363
+us-gaap:AdditionalPaidInCapitalMember
+2020-03-31
+0001642363
+us-gaap:RetainedEarningsMember
+2020-03-31
+0001642363
+2020-03-31
+0001642363
+us-gaap:CommonStockMember
+2021-03-31
+0001642363
+snhp:SharesToBeIssuedMember
+2021-03-31
+0001642363
+us-gaap:AdditionalPaidInCapitalMember
+2021-03-31
+0001642363
+us-gaap:RetainedEarningsMember
+2021-03-31
+0001642363
+us-gaap:CommonStockMember
+2020-04-01
+2021-03-31
+0001642363
+snhp:SharesToBeIssuedMember
+2020-04-01
+2021-03-31
+0001642363
+us-gaap:AdditionalPaidInCapitalMember
+2020-04-01
+2021-03-31
+0001642363
+us-gaap:RetainedEarningsMember
+2020-04-01
+2021-03-31
+0001642363
+us-gaap:CommonStockMember
+2021-04-01
+2022-03-31
+0001642363
+snhp:SharesToBeIssuedMember
+2021-04-01
+2022-03-31
+0001642363
+us-gaap:AdditionalPaidInCapitalMember
+2021-04-01
+2022-03-31
+0001642363
+us-gaap:RetainedEarningsMember
+2021-04-01
+2022-03-31
+0001642363
+us-gaap:CommonStockMember
+2022-03-31
+0001642363
+snhp:SharesToBeIssuedMember
+2022-03-31
+0001642363
+us-gaap:AdditionalPaidInCapitalMember
+2022-03-31
+0001642363
+us-gaap:RetainedEarningsMember
+2022-03-31
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+2018-06-28
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+srt:MinimumMember
+2018-06-28
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+srt:MaximumMember
+2018-06-28
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+2018-12-01
+2018-12-31
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+2018-12-01
+2018-12-04
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+2018-12-04
+0001642363
+snhp:PromissoryNoteAgreementMember
+us-gaap:InvestorMember
+2021-12-01
+2021-12-08
+0001642363
+us-gaap:CommonStockMember
+2021-12-01
+2021-12-08
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE YEAR ENDED MARCH 31, 2022
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ________ to ________
+Commission file number 333-205822
+SEGUIN NATURAL HAIR PRODUCTS INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+35-7654530
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(IRS Employer
+Identification No.)
+50 Yorkville Street, Suite 2803
+Toronto, Ontario, Canada
+M4W 0A3
+(Address of principal executive offices)
+(Zip Code)
+_______________________________________________________________________________________
+(Former name or former address, if changed since last report)
+Registrant’s telephone number, including area code 1+(647)
+271-4226
+Securities registered under Section 12(b) of the
+Act:
+None
+Securities registered under Section 12(g) of the
+Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. Yes o No x
+Indicate by check mark if the registrant is not required to
+file reports pursuant to Section 13 or Section 15(d) of the Act. Yes o
+No x
+Indicate by check mark whether the issuer (1) filed all
+reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the last 90 days.
+Yes o No x
+Indicate by check mark whether the registrant has submitted electronically every
+Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes o
+No x
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer,
+accelerated filer, non-accelerated filer, and smaller reporting company in Rule 12b-2 of the Exchange Act.
+Large accelerated filer   o
+Accelerated filer   o
+Non-accelerated filer   x
+Smaller reporting company x
+Emerging growth company x
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act x
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act).  Yes x No o
+If securities are registered pursuant to Section 12(b) of the Act,
+indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to
+previously issued financial statements. ¨
+State the aggregate market value of the voting and non-voting
+common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal quarter
+was $0 as of June 30, 2021.
+There is no market for the comment equity of the registrant.
+As of July 15, 2025, there were 16,843,878. Shares of Common Stock issued and outstanding.
+TABLE OF CONTENTS
+PART I
+ITEM 1.
+BUSINESS
+5
+ITEM 1A.
+RISK FACTORS
+6
+ITEM 2.
+PROPERTIES
+6
+ITEM 3.
+LEGAL PROCEEDINGS
+6
+ITEM 4.
+MINE SAFETY DISCLOSURES
+6
+PART II
+ITEM 5.
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES
+6
+ITEM 6.
+SELECTED FINANCIAL DATA
+6
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+7
+ITEM 8.
+CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+9
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURES
+11
+ITEM 9A.
+CONTROLS AND PROCEDURES
+11
+ITEM 9B.
+OTHER INFORMATION
+11
+PART III
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+12
+ITEM 11.
+EXECUTIVE COMPENSATION
+13
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+13
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+13
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+14
+PART IV
+ITEM 15.
+EXHIBITS FINANCIAL STATEMENT SCHEDULES
+15
+CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS
+This Annual Report on Form 10-K contains “forward-looking
+statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of
+1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). Forward-looking statements discuss matters that are not historical facts. Because they discuss future events or conditions,
+forward-looking statements may include words such as “anticipate,” “believe,” “estimate,” “intend,”
+“could,” “should,” “would,” “may,” “seek,” “plan,” “might,”
+“will,” “expect,” “anticipate,” “predict,” “project,” “forecast,”
+“potential,” “continue” negatives thereof or similar expressions. Forward-looking statements speak only as of
+the date they are made, are based on various underlying assumptions and current expectations about the future and are not guarantees.
+Such statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, level of activity,
+performance or achievement to be materially different from the results of operations or plans expressed or implied by such forward-looking
+statements.
+We cannot predict all of the risks and uncertainties. Accordingly,
+such information should not be regarded as representations that the results or conditions described in such statements or that our objectives
+and plans will be achieved, and we do not assume any responsibility for the accuracy or completeness of any of these forward-looking statements.
+These forward-looking statements are found at various places throughout this Annual Report on Form 10-K and include information concerning
+possible or assumed future results of our operations, including statements about potential acquisition or merger targets; business strategies;
+future cash flows; financing plans; plans and objectives of management; any other statements regarding future acquisitions, future cash
+needs, future operations, business plans and future financial results, and any other statements that are not historical facts.
+These forward-looking statements represent our intentions, plans,
+expectations, assumptions, and beliefs about future events and are subject to risks, uncertainties and other factors. Many of those factors
+are outside of our control and could cause actual results to differ materially from the results expressed or implied by those forward-looking
+statements. In light of these risks, uncertainties and assumptions, the events described in the forward-looking statements might not occur
+or might occur to a different extent or at a different time than we have described. You are cautioned not to place undue reliance on these
+forward-looking statements, which speak only as of the date of the Annual Report on Form 10-K. All subsequent written and oral forward-looking
+statements concerning other matters addressed in this Annual Report on Form 10-K and attributable to us or any person acting on our
+behalf are expressly qualified in their entirety by the cautionary statements contained or referred to in this Annual Report on Form 10-K.
+Except to the extent required by law, we undertake no obligation
+to update or revise any forward-looking statements, whether as a result of new information, future events, a change in events, conditions,
+circumstances or assumptions underlying such statements, or otherwise.
+USE OF CERTAIN DEFINED TERMS
+Except as otherwise indicated by the context, references in
+this report to “we,” “us,” “our,” the “Company” are to Seguin Natural Hair Products Inc.
+In addition, unless the context otherwise requires and for the purposes of this report
+only:
+·“Exchange Act” refers to the Securities Exchange Act of 1934, as amended;
+·“SEC” refers to the United States Securities and Exchange Commission;
+·“Securities Act” refers to the Securities Act of 1933, as amended;
+PART I
+Item 1. Business
+General Overview
+We were incorporated on April 29, 2014, under
+the laws of the State of Nevada. We originally intended to engage in the business of developing, marketing, and selling shampoo, conditioner,
+and other hair care products made from natural ingredients. Initial operations included organization and incorporation, target market
+identification, marketing plans, capital formation and property acquisitions. However, we are no longer in the business of developing
+and selling shampoo, conditioner, or any other hair care products. We are presently considered a “shell company” and our current
+business plan is to seek to acquire a viable ongoing business either by acquisition, merger, or other form of business combination transaction.
+In accordance with our current business model, on December 28, 2017, we entered into an Agreement and Plan of Merger as amended January
+9, 2018 (“Merger Agreement”), with Yuengling’s Ice Cream Corporation, a private Pennsylvania corporation (“Yuengling’s”).
+On June 13, 2018, the Company informed Yuengling’s by written notice that the Company has terminated the Agreement and Plan of Merger
+dated December 28, 2017. The reason for the termination was the failure of Yuengling’s to complete the audit of its financial statements
+as required by the terms of the Merger Agreement.
+Corporate Facilities
+Our administrative and executive offices
+located at 50 Yorkville Avenue, Unit 2803, Toronto, Ontario, Canada M4W 0A3 which are provided by our Chief Executive Officer
+without charge.
+Emerging Growth Company
+We are an “emerging growth company”
+as defined in the Jumpstart Our Business Startups Act of 2012 (“JOBS Act”) and may take advantage of certain exemptions from
+certain exemptions from various reporting requirements that are applicable to other public companies that are not “emerging growth
+companies” included but not limited to, not being required to comply with auditor attestation requirements of Section 404(b) of
+the Sarbanes-Oxley Act and exemptions from the requirements of holding a nonbinding advisory vote of shareholders on executive compensation
+and any golden parachute payments not previously approved.
+We will remain an “emerging growth company”
+until the earliest of (i) the last day of the fiscal year during which our revenues exceed $1.235 billion; (ii) the date on which
+we issue more than $1 billion of non-convertible debt in a three year period; (iii) the last day of the fiscal year following the
+fifth anniversary of the date of our first sale of our common equity securities pursuant to an effective registration statement filed
+pursuant to the Securities Act of 1933,as amended; or (iv) when the market value of our common stock that is held by non-affiliated
+exceeds $700 million as of the last business day of our most recently completed second fiscal quarter.
+To the extent we continue to qualify as a “smaller
+reporting company”, as defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended, after we cease to qualify
+as an “emerging growth company”, certain of the exemptions available to us as an “emerging growth company” may
+continue to be available to us as “smaller reporting company” including (i) not being required to comply with the auditor
+attestation requirements of Section 404(b) of the Sarbanes-Oxley Act; and (ii) scaled executive compensation disclosures;
+and (iii) the requirement to provide only two years of audited consolidated financial statements instead of three.
+5
+Item 1A Risk Factors.
+As a smaller reporting company, we are not required to provide
+the information required by this item.
+Item 2. Properties
+We do not own any properties at this time and
+do not have presently any agreements to acquire any properties.
+Item 3. Legal Proceedings
+We are not involved in any legal proceedings.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+PART II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters
+and Issuer Purchases of Equity Securities
+Our common stock is not currently quoted on any interdealer quotation system, securities exchange or the OTC
+Pink inter-dealer quotation service maintained by OTC Markets Group Inc., accordingly, there is presently no active public market
+for our common stock.
+As of the date of this report, we have 16,843,878 shares of common stock issued and
+outstanding held by 17 stockholders of record.
+Dividend Policy
+To date, we have not declared or paid any dividends on our common
+stock. We currently do not anticipate paying any cash dividends in the foreseeable future on our common stock. It is anticipated that
+our future earnings will be retained to finance our continuing development. Although we intend to retain our earnings, if any, to finance
+the exploration and growth of our business, our Board of Directors has the discretion to declare and pay dividends in the future. Payment
+of dividends in the future will depend upon our earnings, capital requirements, and any other factors that our Board of Directors deems
+relevant.
+Recent Sales of Unregistered Securities
+During the fiscal year ended March 31, 2022, we did not issue any shares of
+common or preferred stock.
+Item 6. Selected Financial Data.
+There is no selected financial data required to be filed for
+a smaller reporting company.
+6
+Item 7. Management’s Discussion and Analysis of Financial
+Condition and Results of Operations
+The following discussion provides information which management
+believes is relevant to an assessment and understanding of our results of operations and financial condition. The discussion should be
+read along with our financial statements and notes thereto. This section includes a number of forward-looking statements that reflect
+our current views with respect to future events and financial performance. Forward-looking statements are often identified by words like
+believe, expect, estimate, anticipate, intend, project and similar expressions, or words which, by their nature, refer to future events.
+You should not place undue certainty on these forward-looking statements. These forward-looking statements are subject to certain
+risks and uncertainties that could cause actual results to differ materially from our predictions.
+Plan of Operations
+At the present time, the Company has no business operations.
+The Company will continue to seek other business opportunities either through the acquisition of, or merger with, an existing company
+with ongoing business operations. As of March 31, 2022, the Company had not generated any revenues and had no income or cash flows from
+operations since inception. At March 31, 2022, the Company had a sustained net loss of $11,096 and had an accumulated deficit of $306,509.
+The Company’s independent auditors have issued a report
+raising substantial doubt about the Company’s ability to continue as a going concern. The continuation of the Company as a going
+concern is dependent upon these operations successfully generating cash flow for the Company, financial support from its stockholders,
+its ability to obtain necessary equity financing to continue operations and/or to successfully locate and negotiate with a business entity
+for the combination of the target company with the Company.
+Balance sheet at March 31, 2022 and 2021
+Cash
+At March 31, 2022 we had cash of $0 compared to $0 as of
+March 31, 2021.
+Prepaid Assets
+At March 31, 2022 we had prepaid expenses of $3,146 compared
+to $21,396 as at March 31, 2021.
+Accounts Payable and Accrued Liabilities
+Accounts payable and accrued liabilities at March 31, 2022 totaled $277 compared
+to $7,431 as at March 31, 2021.
+Accrued compensation totaled $17,500 for the year ended March 31, 2022 and 2021 as
+the liability relates to service in a prior year period.
+Payable to Related Parties
+From time to time, the Company has received advances from its
+CEO to meet short-term working capital needs. As of March 31, 2022 and March 31, 2021, a total of $78,270 in advances from related parties
+are outstanding. These advances are unsecured, bear no interest, and do not have formal repayment terms or arrangements.
+Shareholder Advances and Receivable
+Shareholder advances represent expenses paid by the owners from
+personal funds. The amount of advances at March 31, 2022 was $236 which was the same amount at March 31, 2021.
+Income statement for the years ended March 31, 2022
+and 2021
+Revenues for the years ended March 31, 2022 and 2021
+The Company did not have any revenues from any sources in 2022 or 2021 and no revenues
+are expected in the near term until the Company locates and completes an acquisition of an operational business.
+7
+Expenses for the years ended March 31, 2022 and 2021
+Operating expenses decreased from $27,001 as of March 31, 2021
+to $11,096 as of March 31, 2022. The decrease was principally attributable to a decrease in professional fees for legal and accounting
+services associated with the Company’s financial and periodic reports filed obligations with the SEC.
+Liquidity and Capital Resources
+At March 31, 2022 and March 31, 2021
+We had nominal assets at both March 31, 2022 and March 31, 2021.
+As of March 31, 2022, we had $0 in cash as compared to $0 in cash at March 31, 2021. Total liabilities at March 31, 2022 were $96,283.
+At March 31, 2021, liabilities totaled $103,437. Unless our officers/related stockholders continue to advance funds to the Company, of
+which there can be no assurance, or the Company receives an infusion of capital, it is unlikely that the Company will continue operations.
+At March 31, 2022, we had an accumulated deficit of $306,509 as compared to $295,413 at March 31, 2021.
+Going Concern
+The Company’s financial statements have been prepared
+assuming that it will continue as a going concern, which contemplates continuity of operations, realization of assets, and liquidation
+of liabilities in the normal course of business.
+As reflected in the financial statements, the Company had an
+accumulated deficit at March 31, 2022, a net loss, and net cash used in operating activities for the reporting period then ended. These
+factors raise substantial doubt about the Company’s ability to continue as a going concern.
+The Company is attempting to commence operations and generate
+sufficient revenue; however, the Company’s cash position may never be sufficient to commence and support its daily operations. While
+the Company believes in the viability of its strategy to commence operations and generate sufficient revenue and in its ability to raise
+additional funds, there can be no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon
+its ability to further implement its business plan and generate sufficient revenue and on its ability to raise additional funds.
+The financial statements do not include any adjustments related
+to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might be necessary
+should the Company be unable to continue as a going concern.
+8
+Item 8. Financial Statements and Supplementary Data
+FINANCIAL STATEMENTS FOR THE YEARS ENDED MARCH 31, 2022 and 2021
+Page
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+10
+PCAOB ID:5525-Fruci & Associates II, PLC
+FINANCIAL STATEMENTS
+Balance Sheets
+F-2
+Statements of Operations
+F-3
+Statements of Stockholders’ Equity
+F-4
+Statements of Cash Flows
+F-5
+Notes to the Financial Statements
+F-6 - F-13
+9
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors
+and Shareholders of Seguin Natural Hair Products, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying
+balance sheets of Seguin Natural Hair Products, Inc. (“the Company”) as of March 31, 2022 and 2021, and the related statements
+of operations, stockholders’ equity, and cash flows for each of the years in the two-year period ended March 31, 2022, and the related
+notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material
+respects, the financial position of the Company as of March 31, 2022 and 2021 and the results of its operations and its cash flows for
+each of the years in the two-year period ended March 31, 2022, in conformity with accounting principles generally accepted in the United
+States of America.
+Going Concern
+The accompanying financial
+statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements,
+the Company has an accumulated deficit, net losses, and negative cash flows from operations. These factors, among others, raise substantial
+doubt about the Company’s ability to continue as a going concern. Management’s plans in regard to these matters are also described
+in Note 3. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements
+are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial
+statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United
+States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and
+the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in
+accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required
+to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness
+of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing
+procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management,
+as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for
+our opinion.
+Critical Audit Matters.
+Critical audit matters are
+matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the
+audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. We determined that there were no critical audit matters.
+Fruci & Associates II, PLLC – PCAOB ID #05525
+We have served
+as the Company’s auditor since 2019.
+Spokane, Washington
+July 30, 2025
+10
+SEGUIN NATURAL HAIR PRODUCTS, INC.
+FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2022 AND 2021
+TABLE OF CONTENTS
+Financial Statements
+Balance Sheets as of March 31, 2022 and 2021
+F-2
+Statements of Operations for the years ended March 31, 2022 and 2021
+F-3
+Statements of Stockholders' Equity for the years ended March 31, 2022 and 2021
+F-4
+Statements of Cash Flows for the years ended March 31, 2022 and 2021
+F-5
+Notes to Financial Statements
+F-6 - F-13
+Seguin Natural Hair Products, Inc.
+Balance Sheets
+March 31,
+2022
+2021
+ASSETS
+CURRENT ASSETS:
+Cash
+$-
+$-
+Prepaid expense
+3,146
+21,396
+Total Current Assets
+3,146
+21,396
+Total Assets
+$3,146
+$21,396
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+CURRENT LIABILITIES:
+Accounts payable and accrued expenses
+$277
+$7,431
+Compensation payable
+17,500
+17,500
+Advances from stockholders
+236
+236
+Loan payable – related party
+78,270
+78,270
+Total Current Liabilities
+96,283
+103,437
+Total Liabilities
+96,283
+103,437
+COMMITMENTS AND CONTINGENCIES
+-
+-
+STOCKHOLDERS' DEFICIT:
+Common stock par value $0.0001: 500,000,000 shares authorized; 16,843,878 and 14,578,506 shares issued and outstanding as of
+March 31, 2022, and March 31, 2021, respectively
+1,684
+1,457
+Additional paid-in capital
+211,688
+190,915
+Common shares to be issued
+-
+21,000
+Accumulated deficit
+(306,509)
+(295,413)
+Total Stockholders' Deficit
+(93,137)
+(82,041)
+Total Liabilities and Stockholders' Deficit
+$3,146
+$21,396
+See accompanying notes to the financial statements.
+F-2
+Seguin Natural Hair Products, Inc.
+Statements of Operations
+For the Year Ended March 31,
+2022
+2021
+Operating Expenses
+Professional fees
+$10,046
+$25,090
+General and administrative expenses
+1,050
+1,911
+Total operating expenses
+11,096
+27,001
+Loss from Operations
+(11,096)
+(27,001)
+Income Tax Provision
+-
+-
+Net Loss
+$(11,096)
+$(27,001)
+Net Loss per Common Share - Basic and Diluted
+$(0.00)
+$(0.00)
+Weighted average common shares outstanding: - basic and diluted
+15,279,840
+14,578,506
+See accompanying notes to the financial statements.
+F-3
+Seguin Natural Hair Products, Inc.
+Statements of Stockholders' Equity
+For the Years Ended March 31, 2022 and 2021
+Common Stock, $0.0001 Par Value
+Additional
+Total
+Number of
+Shares to be
+Paid-in
+Accumulated
+Stockholders'
+Shares
+Amount
+issued
+Capital
+Deficit
+(Deficit)
+Balance, March 31, 2020
+14,578,506
+$1,457
+$21,000
+$190,915
+$(268,412)
+$(55,040)
+Net loss
+-
+-
+-
+-
+(27,001)
+(27,001)
+Balance, March 31, 2021
+14,578,506
+$1,457
+$21,000
+$190,915
+$(295,413)
+$(82,041)
+Issuance of common stock
+2,265,372
+227
+(21,000)
+20,773
+-
+-
+Net Loss
+-
+-
+-
+-
+(11,096)
+(11,096)
+Balance, March 31, 2022
+16,843,878
+$1,684
+$-
+$211,688
+$(306,509)
+$(93,137)
+See accompanying notes to the financial statements.
+F-4
+Seguin Natural Hair Products, Inc.
+Statements of Cash Flows
+For the Year Ended March 31,
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss
+$(11,096)
+$(27,001)
+Adjustments to reconcile net loss to net cash used in operating activities
+Changes in operating assets and liabilities:
+Prepaid Expenses
+18,250
+3,015
+Accounts payable and accrued expenses
+(7,154)
+3,986
+Net cash used in operating activities
+-
+(20,000)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from loan – related parties
+-
+20,000
+Net cash provided by financing activities
+-
+20,000
+Net change in cash
+-
+-
+Cash at beginning of the reporting period
+-
+-
+Cash at end of the reporting period
+$-
+$-
+SUPPLEMENTAL DISCLOSURE OF CASH FLOWS INFORMATION:
+Interest paid
+$-
+$-
+Income tax paid
+$-
+$-
+SUPPLEMENTAL NON-CASH INVESTING AND FINANCING ACTIVITIES:
+Shares issued in conjunction with debt conversion
+$21,000
+$-
+See accompanying notes to the financial statements.
+F-5
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+Note 1 - Organization
+Seguin Natural Hair Products Inc.
+Seguin Natural Hair Products Inc. (the “Company”)
+was incorporated on April 29, 2014 under the laws of the State of Nevada. Initial operations have included organization and incorporation,
+target market identification, marketing plans, capital formation and property acquisitions. A substantial portion of the Company’s
+activities has involved developing a business plan and establishing contacts and visibility in the marketplace. The Company has generated
+no revenues since inception.
+We are no longer in the business of developing and selling shampoo,
+conditioner, or any other hair care products.
+The Company has no operations at this time and currently does
+not have any principal products or services, customers, or intellectual property. As the Company has no current operations, it also currently
+is not subject to any competitive business conditions. Further, the Company is not subject to any government approvals at this time, other
+than those applicable to it as a “shell company,” as such term is defined in Rule 12b-2 under the Exchange Act.
+Note 2 - Significant and Critical Accounting Policies and Practices
+The Management of the Company is responsible for the selection
+and use of appropriate accounting policies and the appropriateness of accounting policies and their application. Critical accounting policies
+and practices are those that are both most important to the portrayal of the Company’s financial condition and results and require
+management’s most difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effects
+of matters that are inherently uncertain. The Company’s significant and critical accounting policies and practices are disclosed
+below as required by generally accepted accounting principles.
+Basis of Presentation
+The Company’s financial statements have been prepared in accordance with accounting
+principles generally accepted in the United States of America (“U.S. GAAP”).
+Fiscal Year End
+The Company elected March 31st as its fiscal year end date upon its formation.
+Use of Estimates and Assumptions and Critical Accounting Estimates and Assumptions
+The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date(s) of the financial statements and the
+reported amounts of expenses during the reporting period(s).
+Critical accounting estimates are estimates for which (a) the
+nature of the estimate is material due to the levels of subjectivity and judgment necessary to account for highly uncertain matters or
+the susceptibility of such matters to change and (b) the impact of the estimate on financial condition or operating performance is material.
+The Company’s critical accounting estimates and assumptions affecting the financial statements were:
+(i)Assumption as a going concern: Management assumes that the Company will continue as a going concern,
+which contemplates continuity of operations, realization of assets, and liquidation of liabilities in the normal course of business;
+F-6
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+(ii)Valuation allowance for deferred tax assets: Management assumes that the realization of the Company’s
+net deferred tax assets resulting from its net operating loss (“NOL”) carry–forwards for Federal income tax purposes
+that may be offset against future taxable income was not considered more likely than not and accordingly, the potential tax benefits of
+the net loss carry-forwards are offset by a full valuation allowance. Management made this assumption based on (a) the Company has incurred
+recurring losses, (b) general economic conditions, (d) its ability to raise additional funds to support its daily operations by way of
+a public or private offering, among other factors.
+These significant accounting estimates or assumptions bear the
+risk of change due to the fact that there are uncertainties attached to these estimates or assumptions, and certain estimates or assumptions
+are difficult to measure or value.
+Management bases its estimates on historical experience and
+on various assumptions that are believed to be reasonable in relation to the financial statements taken as a whole under the circumstances,
+the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent
+from other sources.
+Management regularly evaluates the key factors and assumptions
+used to develop the estimates utilizing currently available information, changes in facts and circumstances, historical experience and
+reasonable assumptions. After such evaluations, if deemed appropriate, those estimates are adjusted accordingly.
+Actual results could differ from those estimates.
+Fair Value of Financial Instruments
+The Company follows paragraph 825-10-50-10 of the FASB Accounting
+Standards Codification for disclosures about fair value of its financial instruments and paragraph 820-10-35-37 of the FASB Accounting
+Standards Codification (“Paragraph 820-10-35-37”) to measure the fair value of its financial instruments. Paragraph 820-10-
+35-37 establishes a framework for measuring fair value in generally accepted accounting principles (GAAP) and expands disclosures about
+fair value measurements. To increase consistency and comparability in fair value measurements and related disclosures, Paragraph 820-10-35-37
+establishes a fair value hierarchy which prioritizes the inputs to valuation techniques used to measure fair value into three (3) broad
+levels. The fair value hierarchy gives the highest priority to quoted prices (unadjusted) in active markets for identical assets or liabilities
+and the lowest priority to unobservable inputs. The three (3) levels of fair value hierarchy defined by Paragraph 820-10-35- 37 are described
+below:
+Level 1Quoted market prices available in active markets for identical
+assets or liabilities as of the reporting date.
+Level 2Pricing inputs other than quoted prices in active markets included
+in Level 1, which are either directly or indirectly observable as of the reporting date.
+Level 3Pricing inputs that are generally observable inputs and not corroborated
+by market data.
+Financial assets are considered Level 3 when their fair values
+are determined using pricing models, discounted cash flow methodologies or similar techniques and at least one significant model assumption
+or input is unobservable.
+The fair value hierarchy gives the highest priority to quoted
+prices (unadjusted) in active markets for identical assets or liabilities and the lowest priority to unobservable inputs. If the inputs
+used to measure the financial assets and liabilities fall within more than one level described above, the categorization is based on the
+lowest level input that is significant to the fair value measurement of the instrument.
+The carrying amounts of the Company’s financial assets
+and liabilities, such as cash and accrued expenses approximate their fair value because of the short maturity of this instrument.
+Transactions involving related parties cannot be presumed to
+be carried out on an arm's-length basis, as the requisite conditions of competitive, free-market dealings may not exist. Representations
+about transactions with related parties, if made, shall not imply that the related party transactions were consummated on terms equivalent
+to those that prevail in arm's-length transactions unless such representations can be substantiated.
+F-7
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+Cash Equivalents
+The Company considers all highly liquid investments with maturities of three months
+or less at the time of purchase to be cash equivalents.
+Related Parties
+The Company follows subtopic 850-10 of the FASB Accounting Standards
+Codification for the identification of related parties and disclosure of related party transactions.
+Pursuant to Section 850-10-20 the related parties include a.
+affiliates of the Company (“Affiliate” means, with respect to any specified Person, any other Person that, directly or indirectly
+through one or more intermediaries, controls, is controlled by or is under common control with such Person, as such terms are used in
+and construed under Rule 405 under the Securities Act); b. entities for which investments in their equity securities would be required,
+absent the election of the fair value option under the Fair Value Option Subsection of Section 825–10–15, to be accounted
+for by the equity method by the investing entity; c. trusts for the benefit of employees, such as pension and profit-sharing trusts that
+are managed by or under the trusteeship of management; d. principal owners of the Company; e. management of the Company; f. other parties
+with which the Company may deal if one party controls or can significantly influence the management or operating policies of the other
+to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests; and g. other parties
+that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in
+one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might
+be prevented from fully pursuing its own separate interests.
+The financial statements shall include disclosures of material
+related party transactions, other than compensation arrangements, expense allowances, and other similar items in the ordinary course of
+business. However, disclosure of transactions that are eliminated in the preparation of consolidated or combined financial statements
+is not required in those statements. The disclosures shall include: a. the nature of the relationship(s) involved; b. a description of
+the transactions, including transactions to which no amounts or nominal amounts were ascribed, for each of the periods for which income
+statements are presented, and such other information deemed necessary to an understanding of the effects of the transactions on the financial
+statements; c. the dollar amounts of transactions for each of the periods for which income statements are presented and the effects of
+any change in the method of establishing the terms from that used in the preceding period; and d. amounts due from or to related parties
+as of the date of each balance sheet presented and, if not otherwise apparent, the terms and manner of settlement.
+Commitment and Contingencies
+The Company follows subtopic 450-20 of the FASB Accounting Standards
+Codification to report accounting for contingencies. Certain conditions may exist as of the date the financial statements are issued,
+which may result in a loss to the Company but which will only be resolved when one or more future events occur or fail to occur. The Company
+assesses such contingent liabilities, and such assessment inherently involves an exercise of judgment. In assessing loss contingencies
+related to legal proceedings that are pending against the Company or unasserted claims that may result in such proceedings, the Company
+evaluates the perceived merits of any legal proceedings or unasserted claims as well as the perceived merits of the amount of relief sought
+or expected to be sought therein.
+If the assessment of a contingency indicates that it is probable
+that a material loss has been incurred and the amount of the liability can be estimated, then the estimated liability would be accrued
+in the Company’s financial statements. If the assessment indicates that a potential material loss contingency is not probable but
+is reasonably possible, or is probable but cannot be estimated, then the nature of the contingent liability, and an estimate of the range
+of possible losses, if determinable and material, would be disclosed.
+Loss contingencies considered remote are generally not disclosed
+unless they involve guarantees, in which case the guarantees would be disclosed.
+F-8
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+Revenue Recognition
+The Company records revenue in accordance with ASC Topic 606,
+Revenue from Contracts with Customers (“ASC 606”). The core principle of ASC 606 requires that an entity recognize
+revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the Company
+expects to be entitled in exchange for those goods or services. ASC 606 defines a five-step process to achieve this core principle and,
+in doing so, it is possible more judgment and estimates may be required within the revenue recognition process than required under existing
+GAAP including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the
+transaction price and allocating the transaction price to each separate performance obligation.
+Deferred Tax Assets and Income Tax Provision
+The Company accounts for income taxes under Section 740-10-30
+of the FASB Accounting Standards Codification. Deferred income tax assets and liabilities are determined based upon differences between
+the financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates and laws that will be in
+effect when the differences are expected to reverse. Deferred tax assets are reduced by a valuation allowance to the extent management
+concludes it is more likely than not that the assets will not be realized. Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.
+The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the statements of operations in the period
+that includes the enactment date.
+The Company adopted section 740-10-25 of the FASB Accounting
+Standards Codification (“Section 740-10-25”). Section 740-10-25 addresses the determination of whether tax benefits claimed
+or expected to be claimed on a tax return should be recorded in the financial statements. Under Section 740-10-25, the Company may recognize
+the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination
+by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from
+such a position should be measured based on the largest benefit that has a greater than fifty percent (50%) likelihood of being realized
+upon ultimate settlement. Section 740-10-25 also provides guidance on de-recognition, classification, interest and penalties on income
+taxes, accounting in interim periods and requires increased disclosures.
+The estimated future tax effects of temporary differences between
+the tax basis of assets and liabilities are reported in the accompanying balance sheets, as well as tax credit carry-backs and carry-forwards.
+The Company periodically reviews the recoverability of deferred tax assets recorded on its balance sheets and provides valuation allowances
+as management deems necessary.
+Management makes judgments as to the interpretation of the tax
+laws that might be challenged upon an audit and cause changes to previous estimates of tax liability. In addition, the Company operates
+within multiple taxing jurisdictions and is subject to audit in these jurisdictions. In management’s opinion, adequate provisions
+for income taxes have been made for all years. If actual taxable income by tax jurisdiction varies from estimates, additional allowances
+or reversals of reserves may be necessary.
+Tax years that remain subject to examination by major
+tax jurisdictions
+The Company discloses tax years that remain subject to examination by major tax jurisdictions
+pursuant to the ASC Paragraph 740-10-50-15.
+Earnings per Share
+Earnings per share ("EPS") is the amount of earnings
+attributable to each share of common stock. For convenience, the term is used to refer to either earnings or loss per share. EPS is computed
+pursuant to section 260-10-45 of the FASB Accounting Standards Codification. Pursuant to ASC Paragraphs 260-10-45-10 through 260-10-45-16
+Basic EPS shall be computed by dividing income available to common stockholders (the numerator) by the weighted- average number of common
+shares outstanding (the denominator) during the period. Income available to common stockholders shall be computed by deducting both the
+dividends declared in the period on preferred stock (whether or not paid) and the dividends accumulated for the period on cumulative preferred
+stock (whether or not earned) from income from continuing operations (if that amount appears in the income statement) and also from net
+income. The computation of diluted EPS is similar to the computation of basic EPS except that the denominator is increased to include
+the number of additional common shares that would have been outstanding if the dilutive potential common shares had been issued during
+the period to reflect the potential dilution that could occur from common shares issuable through contingent shares issuance arrangement,
+stock options or warrants.
+F-9
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+Pursuant to ASC Paragraphs 260-10-45-45-21 through 260-10-45-45-23
+Diluted EPS shall be based on the most advantageous conversion rate or exercise price from the standpoint of the security holder. The
+dilutive effect of outstanding call options and warrants (and their equivalents) issued by the reporting entity shall be reflected in
+diluted EPS by application of the treasury stock method unless the provisions of paragraphs 260-10-45-35 through 45-36 and 260-10-55-8
+through 55-11 require that another method be applied. Equivalents of options and warrants include non-vested stock granted to employees,
+stock purchase contracts, and partially paid stock subscriptions (see paragraph 260–10–55–23). Anti-dilutive contracts,
+such as purchased put options and purchased call options, shall be excluded from diluted EPS. Under the treasury stock method: a. Exercise
+of options and warrants shall be assumed at the beginning of the period (or at time of issuance, if later) and common shares shall be
+assumed to be issued. b. The proceeds from the exercise shall be assumed to be used to purchase common stock at the average market price
+during the period. (See paragraphs 260-10-45-29 and 260-10-55-4 through 55-5.) c. The incremental shares (the difference between the number
+of shares assumed issued and the number of shares assumed purchased) shall be included in the denominator of the diluted EPS computation.
+There were no potentially dilutive common shares outstanding
+for the years ended March 31, 2022 and 2021.
+Cash Flows Reporting
+The Company adopted paragraph 230-10-45-24 of the FASB Accounting
+Standards Codification for cash flows reporting, classifies cash receipts and payments according to whether they stem from operating,
+investing, or financing activities and provides definitions of each category, and uses the indirect or reconciliation method (“Indirect
+method”) as defined by paragraph 230-10-45-25 of the FASB Accounting Standards Codification to report net cash flow from operating
+activities by adjusting net income to reconcile it to net cash flow from operating activities by removing the effects of (a) all deferrals
+of past operating cash receipts and payments and all accruals of expected future operating cash receipts and payments and (b) all items
+that are included in net income that do not affect operating cash receipts and payments.
+Subsequent Events
+The Company follows the guidance in Section 855-10-50 of the
+FASB Accounting Standards Codification for the disclosure of subsequent events. The Company will evaluate subsequent events through the
+date when the financial statements were issued. Pursuant to ASU 2010-09 of the FASB Accounting Standards Codification, the Company as
+an SEC filer considers its financial statements issued when they are widely distributed to users, such as through filing them on EDGAR.
+Recently Issued Accounting Pronouncements
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting
+(Topic 280): Improvements to Reportable Segment Disclosures. This ASU includes amendments that expand the existing reportable segment
+disclosure requirements and requires disclosure of (i) significant expense categories and amounts by reportable segment as well as the
+segment’s profit or loss measure(s) that are regularly provided to the chief operating decision maker (the “CODM”) to
+allocate resources and assess performance; (ii) how the CODM uses each reported segment profit or loss measure to allocate resources and
+assess performance; (iii) the nature of other segment balances contributing to reported segment profit or loss that are not captured within
+segment revenues or expenses; and (iv) the title and position of the individual or name of the group or committee identified as the CODM.
+This guidance requires retrospective application to all prior periods presented in the financial statements and is effective for fiscal
+years beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted.
+The adoption of this guidance will result in the Company being required to include enhanced disclosures relating to its reportable segments.
+The Company is currently evaluating the impact this standard will have on its consolidated financial statements.
+In June 2016, FASB issued ASU 2016-13, Financial Instruments
+- Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. ASU 2016-13 significantly changes the impairment
+model for most financial assets and certain other instruments. ASU 2016-13 will require immediate recognition of estimated credit losses
+expected to occur over the remaining life of many financial assets, which will generally result in earlier recognition of allowances for
+credit losses on loans and other financial instruments. ASU 2016-13 is effective for the Company’s fiscal year beginning January
+1, 2023 and subsequent interim periods. The Company is currently evaluating the impact this standard will have on its consolidated financial
+statements.
+F-10
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+In April 2016, the FASB issued ASU 2016–10 Revenue
+from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing. The amendments in this Update do not
+change the core principle of the guidance in Topic 606. Rather, the amendments in this Update clarify the following two aspects of
+Topic 606: identifying performance obligations and the licensing implementation guidance, while retaining the related principles for
+those areas. Topic 606 includes implementation guidance on (a) contracts with customers to transfer goods and services in exchange
+for consideration and (b) determining whether an entity's promise to grant a license provides a customer with either a right to use
+the entity's intellectual property (which is satisfied at a point in time) or a right to access the entity's intellectual property
+(which is satisfied over time). The amendments in this Update are intended to render more detailed implementation guidance with the
+expectation to reduce the degree of judgement necessary to comply with Topic 606. The Company has reviewed the provisions of this
+ASU to and determined there will be no material impact on our results of operations, cash flows or financial condition.
+The Company evaluated all recent accounting pronouncements issued
+and determined that the adoption of these pronouncements would not have a material effect on the financial position, results of operations
+or cash flows of the Company.
+Note 3 – Going Concern
+The Company has elected to adopt early application of Accounting
+Standards Update No. 2014-15, “Presentation of Financial Statements—Going Concern (Subtopic 205-40): Disclosure of Uncertainties
+about an Entity’s Ability to Continue as a Going Concern (“ASU 2014-15”).
+The Company’s financial statements have been prepared
+assuming that it will continue as a going concern, which contemplates continuity of operations, realization of assets, and liquidation
+of liabilities in the normal course of business. As reflected in the financial statements, the Company had an accumulated deficit at March
+31, 2022, a net loss, and net cash used in operating activities for the reporting period then ended. These factors raise substantial doubt
+about the Company’s ability to continue as a going concern.
+The Company is attempting to commence operations and generate
+sufficient revenue; however, the Company’s cash position may not be sufficient to support its daily operations. While the Company
+believes in the viability of its strategy to commence operations and generate sufficient revenue and in its ability to raise additional
+funds, there can be no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon its ability
+to further implement its business plan and generate sufficient revenue and in its ability to raise additional funds.
+The financial statements do not include any adjustments related
+to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might be necessary
+should the Company be unable to continue as a going concern.
+Note 4 – Convertible Notes - Related Party
+Debt:
+From August 1, 2017, to June 28, 2018, the Company issued various
+promissory notes with an aggregate principal amount of $102,145 of which $11,095 was paid directly to the holder to pay for expenses on
+behalf of the Company. These borrowings were from an investor (the “Lender”) who has significant influence over the Company’s
+affairs. Interest is 12% to 25% per annum and is payable on demand. For the notes issued between November 14, 2017, and December 4, 2017,
+in the event of prepayment, the Borrower will pay to Lender 150% of the unpaid principal amount of the notes. For the remainder of the
+notes, there is no penalty for prepayment. These promissory notes have since been modified to include conversion privileges.
+Conversion Terms:
+The Lender has the right at any time following the 9th anniversary
+month of the date of the note, to convert the outstanding and unpaid notes principal and interest due into the Company’s common
+shares. The number of shares of Common Stock to be issued upon a conversion hereunder will be determined by dividing the Conversion Amount
+by Volume Weighted Average Price of the Common Stock as quoted by OTC Markets Group Inc. for the preceding five (5) trading days immediately
+preceding the date of conversion (“Conversion Price”). In no event, however, will the Conversion Price be less than $0.35
+per share.
+F-11
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+Conversion of Debt:
+In December 2018, in a private transaction, the holder of $102,145
+in debt sold these notes to an unrelated investor who subsequently converted the outstanding principal debt to common stock, thereby acquiring
+control of the Company. Effective December 4, 2018, the Company issued 8,753,506 shares of its common stock (“Shares”)
+upon the exercise of conversion rights under outstanding convertible promissory notes (“Notes”). The conversion price
+for the shares was $0.00927 per share and the aggregate principal amount converted under the Notes was $102,145. As a result of the conversion,
+the Notes were paid in full and are no longer outstanding obligations of the Company. On December 8th, 2021, the Company issued the additional
+2,265,372 shares of common stock for the above conversion. The Shares were issued in compliance with the exemptions from the registration
+requirements of the Securities Act of 1933, as amended, provided by Section 4(a)(2) and Regulation S for transactions not involving a
+public offering and for offers and sales outside the United States.
+Note 5 – Equity
+Issuance of Additional Shares for Conversion
+On December 8, 2021, the Company issued 2,265,372 shares of
+common stock it had recorded as Shares to be Issued related to the December 2018 Debt Conversion (See Note 4).
+Note 6 – Related Party Transactions
+Advances
+From time to time, the Company has received advances from its
+chief executive officer to meet short-term working capital needs. As of March 31, 2022 and March 31, 2021, a total of $78,270 in advances
+from related parties are outstanding. These advances are unsecured, bear no interest, and do not have formal repayment terms or arrangements.
+Free Office Space
+The Company has been provided office space by its Chief Executive
+Officer at no cost. The management determined that such cost is nominal and did not recognize the rent expense in its financial statement.
+Shareholder Advances
+The balance owed to shareholders as of March 31, 2022 and March
+31, 2021 was $236. The advances from shareholders are unsecured, non-interest bearing, and payable on demand.
+Management Compensation Payable
+During the years ended March 31, 2022 and 2021, the Company
+accrued $0 in compensation to be paid to Management for services rendered. The total compensation payable as of March 31, 2022 and 2021
+is $17,500.
+Note 7 – Deferred Tax Assets and Income Tax Provision
+Deferred Tax Assets
+At March 31, 2022, the Company had net operating loss (“NOL”)
+carry–forwards for Federal income tax purposes of $305,145 that may be offset against future taxable income through 2037. No tax
+benefit has been reported with respect to these net operating loss carry-forwards because the Company believes that the realization of
+the Company’s net deferred tax assets of approximately $64,080 was not considered more likely than not and accordingly, the potential
+tax benefits of the net loss carry-forwards are offset by a full valuation allowance.
+F-12
+Seguin Natural Hair Products Inc.
+March 31, 2022 and 2021
+Notes to the Financial Statements
+Deferred tax assets consist primarily of the tax effect of NOL
+carry-forwards. The Company has provided a full valuation allowance on the deferred tax assets because of the uncertainty regarding the
+probability of its realization. The valuation allowance increased approximately $2,616  and
+$5,670  for the year ended March 31, 2022 and 2021, respectively.
+Components of deferred tax assets in the balance sheets are as follows:
+Schedule of components of deferred tax assets
+March 31, 2022
+March 31,
+2021
+Net deferred tax assets – non-current:
+Expected income tax benefit from NOL carry-forwards
+$64,366
+$61,750
+Less valuation allowance
+(64,366)
+(61,750)
+Deferred tax assets, net of valuation allowance
+$-
+$-
+Income Tax Provision in the Statements of Operations
+A reconciliation of the federal statutory income tax rate and the effective income
+tax rate as a percentage of income before income tax provision is as follows:
+Schedule of effective income tax rate reconciliation
+For the Year ended March 31, 2022
+For the Year ended March 31, 2021
+Federal statutory income tax rate
+21.0%
+21.0%
+Note 8- Subsequent Events
+Management has evaluated all subsequent events through July 30, 2025, the date the
+financial statement was available to be issued, There are no additional material events requiring disclosure or adjustment to the financial
+statement.
+F-13
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial
+Disclosure
+There were no changes in or disagreements with accountants on
+accounting and financial disclosure for the period covered by this report.
+Item 9A. Controls and Procedures
+Management conducted an evaluation of the effectiveness of our
+internal control over financial reporting based on the framework in Internal Control - Integrated Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (2013 COSO Framework or COSO). Based on this evaluation, management has concluded
+that our internal control over financial reporting was not effective as of March 31, 2022. Management identified segregation of duties &
+maintenance of current accounting records as material weaknesses in internal control over financial reporting.
+Management is in the continuous process of improving the internal
+control over financial reporting by engaging a Certified Public Accountant as a consultant to mitigate some of the identified weaknesses.
+The Company is still in its development stage and intends on bringing in necessary resources to address the weaknesses once full operations
+have commenced. Management concludes that internal control over financial reporting is ineffective at March 31, 2022.
+Management’s Report of Internal Control over Financial
+Reporting
+Our management carried out an evaluation of the effectiveness
+of our “disclosure controls and procedures” (as defined in the Securities Exchange Act of 1934 (the “Exchange Act”)
+Rules 13a-15(e) and 15-d-15(e)) as of the end of the period covered by this report (the “Evaluation Date”). Based
+upon that evaluation, our chief executive officer and chief financial officer each concluded that as of the Evaluation Date, our disclosure
+controls and procedures are ineffective to ensure that information required to be disclosed by us in the reports that we file or submit
+under the Exchange Act (i) is recorded, processed, summarized and reported, within the time periods specified in the SEC’s
+rules and forms and (ii) is accumulated and communicated to our management, including our chief executive officer and our chief
+financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Control over Financial Reporting
+There have been no changes in the Company’s internal controls
+over financial reporting during its fourth fiscal quarter that have materially affected, or are reasonably likely to materially affect,
+its internal control over financial reporting.
+Item 9B. Other information
+Not applicable.
+11
+PART III
+Item 10. Directors, Executive Officers, and Corporate Governance;
+As of the date of this report, the directors and officers of the Company are as follows:
+NAME
+AGE
+POSITIONS AND OFFICES HELD
+Danny Iandoli
+60
+President/CEO and Director
+Danny Iandoli is currently the Company’ sole officer and director. He has been
+officer and director since December 6, 2018. Mr, Iandoli is the owner of Dicar Financial Incorporated located in Vaughan, Ontario, Canada
+which is in business of making and holding real estate mortgage loans on residential and commercial property.
+Term of Office
+Our director is appointed for a one-year term to hold office
+until the next annual general meeting of our stockholders or until removed from office in accordance with our bylaws. Our officers, if
+any, are appointed by our board of directors and hold office until removed by the board. All officers and directors listed above will
+remain in office until the next annual meeting of our stockholders, and until their successors have been duly elected and qualified. There
+are no agreements with respect to the election of Directors. We have not compensated our Directors for service on our Board of Directors,
+any committee thereof, or reimbursed for expenses incurred for attendance at meetings of our Board of Directors and/or any committee of
+our Board of Directors. Officers are appointed annually by our Board of Directors and each Executive Officer serves at the discretion
+of our Board of Directors. We do not have any standing committees. Our Board of Directors may in the future determine to pay Directors’
+fees and reimburse Directors for expenses related to their activities.
+None of our officers and/or directors have filed any bankruptcy
+petition, been convicted of or been the subject of any criminal proceedings or the subject of any order, judgment or decree involving
+the violation of any state or federal securities laws within the past five (5) years.
+Audit Committee
+At the present time, we do not have a standing audit committee
+of the Board of Directors. Management has determined not to establish an audit committee at present because our limited resources and
+limited operating activities do not warrant the formation of an audit committee or the expense of doing so. We do not have a financial
+expert serving on the Board of Directors or employed as an officer based on management’s belief that the cost of obtaining the services
+of a person who meets the criteria for a financial expert under Item 401(e) of Regulation S-B is beyond its limited financial resources
+and the financial skills of such an expert are simply not required or necessary for us to maintain effective internal controls and procedures
+for financial reporting in light of the limited scope and simplicity of accounting issues raised in its consolidated financial statements
+at this stage of its development. We have not formed a Compensation Committee, Nominating and Corporate Governance Committee or any other
+Board Committee as of the filing of this Annual Report.
+Certain Legal Proceedings
+No director, nominee for director, or executive officer of the
+Company has appeared as a party in any legal proceeding material to an evaluation of his ability or integrity during the past five years.
+Compliance with Section 16(a) of the Exchange Act
+We are not subject to the reporting requirements of Section 12 of the Securities
+Exchange Act of 1934, as amended.
+12
+Code of Ethics
+We have adopted a Code of Business Conduct and Ethics (“Code”)
+that applies to our officers, directors and employees including our Chief Executive Officer, Chief Financial Officer and Chief Accounting
+Officer. A copy of the Code will be provided to any person upon request, without charge.
+Item 11. Executive Compensation
+The Company has not to date paid any compensation to any officer
+or director. The Company intends to pay annual salaries to all its officers and will pay an annual stipend to its directors when, and
+if, it completes a primary public offering for the sale of securities and/or the Company reaches profitability, experiences positive cash
+flow and/or obtains additional funding. At such time, the Company anticipates offering cash and non-cash compensation to officers and
+directors. In addition, although not presently offered, the Company anticipates that its officers and directors will be provided with
+a group health, vision and dental insurance program at subsidizes rates, or at the sole expense of the Company, as may be determined on
+a case-by-case basis by the Company in its sole discretion. In addition, the Company plans to offer 401(k) matching funds as a retirement
+benefit, paid vacation days and paid holidays.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters
+The following table sets forth certain information as of regarding
+the beneficial ownership of our Common Stock by (i) our named executive officer, and (ii) each of our directors, (iii) each
+person we know to beneficially own more than 5% of our outstanding Common Stock. All shares of our Common Stock shown in the table reflect
+sole voting and investment power.
+Name and Address of Beneficial Owner
+Position
+Common
+shares beneficially
+owned
+Percent of
+Common
+shares beneficially
+owned
+(1)
+Danny Iandoli
+Pres/CEO, Director
+11,618,878
+69.0%
+50 Yorkville Avenue, Unit 2803, Toronto, ON, Canada M4W 0A3
+Total owned by officers and directors
+11,618,878
+69.0%
+(1)Based on 16,843,878 shares outstanding as of this Report.
+Item 13. Certain Relationships and Related Transactions and Director Independence
+Director Independence
+Presently, our sole director, Danny Iandoli, is the Company’s
+sole officer and as such we have no directors who would qualify as independent as defined in NASDAQ Marketplace Rules. Our director believes
+that retaining one or more additional directors who would qualify as independent would be overly costly, burdensome, and not warranted
+in the circumstances given the Company’s current stage of development.
+13
+Certain Relationships and Related Transactions
+Item 14. Principal Accounting Fees and Services.
+Fruci & Associates II, PLLC, is the Company’s
+registered independent accounting firm for the fiscal year ended March 31, 2022.
+Audit Fees
+There were Audit Fees of $17,500 and $17,500
+for the years ended March 31, 2022 and 2021, respectively.
+Audit Related Fees
+There were no Audit Related
+Fees paid for the years ended March 31, 2022 and 2021.
+Tax Fees
+There were no Tax Fees for the years ended March 31, 2022
+and 2021.
+All Other Fees
+There were no other fees for the years ended March 31, 2022
+and 2021.
+14
+PART IV
+Item 15. Exhibits, Financial Statement Schedules
+The following documents are filed as part of this Annual Report on Form 10-K
+(a)Financial Statements
+Page
+Report of Independent Registered Public Accounting Firm
+10
+Financial Statements for the years ended March 31, 2022 and 2021
+Balance Sheets
+F-2
+Statements of Operations
+F-3
+Statements of Stockholders’ Equity
+F-4
+Statements of Cash Flows
+F-5
+Notes to Financial Statements
+F-6 - F-13
+15
+(b)Exhibits
+EXHIBIT INDEX
+Incorporated by
+Reference
+Exhibit
+No.
+Description
+Form
+Exhibit
+Filing
+Date
+3(i)(a)
+Articles of Incorporation (Filed as Exhibit 3.1 to Form S-1 July 23, 2015)
+3.2
+Bylaws (Filed as Exhibit 3.2 to Form S-1 July 23, 2015)
+31.1
+Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+*
+Incorporated by reference to the Registration Statement on Form S-1 filed on July 23, 2015.
+101.INS
+XBRL Instance Document*
+101.SCH
+XBRL Taxonomy Extension Schema*
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase*
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase*
+101.LAB
+XBRL Taxonomy Extension Label Linkbase*
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase*
+16
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of
+the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+Date:  July 30, 2025
+SEGUIN NATURAL HAIR PRODUCTS INC.
+By:
+/s/ Danny Iandoli
+Danny Iandoli
+Chief Executive Officer, Principal Financial Officer and Director
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates
+indicated.
+Name
+Title
+Date
+Chief Executive Officer and
+/s/ Danny Iandoli
+Director
+July 30, 2025
+Danny Iandoli
+17

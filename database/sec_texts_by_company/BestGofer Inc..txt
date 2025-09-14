@@ -1,0 +1,985 @@
+BestGofer Inc. - Form 10-K/A SEC filing
+0001722556
+--11-30
+false
+2024
+FY
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+0001722556
+2023-12-01
+2024-11-30
+0001722556
+2024-11-30
+0001722556
+2024-05-31
+0001722556
+2025-03-05
+0001722556
+2023-11-30
+0001722556
+2022-12-01
+2023-11-30
+0001722556
+us-gaap:PreferredStockMember
+2023-12-01
+2024-11-30
+0001722556
+us-gaap:CommonStockMember
+2023-12-01
+2024-11-30
+0001722556
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-01
+2024-11-30
+0001722556
+us-gaap:RetainedEarningsMember
+2023-12-01
+2024-11-30
+0001722556
+2022-11-30
+0001722556
+us-gaap:PreferredStockMember
+2022-11-30
+0001722556
+us-gaap:CommonStockMember
+2022-11-30
+0001722556
+us-gaap:AdditionalPaidInCapitalMember
+2022-11-30
+0001722556
+us-gaap:RetainedEarningsMember
+2022-11-30
+0001722556
+us-gaap:PreferredStockMember
+2022-12-01
+2023-11-30
+0001722556
+us-gaap:CommonStockMember
+2022-12-01
+2023-11-30
+0001722556
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-01
+2023-11-30
+0001722556
+us-gaap:RetainedEarningsMember
+2022-12-01
+2023-11-30
+0001722556
+us-gaap:PreferredStockMember
+2023-11-30
+0001722556
+us-gaap:CommonStockMember
+2023-11-30
+0001722556
+us-gaap:AdditionalPaidInCapitalMember
+2023-11-30
+0001722556
+us-gaap:RetainedEarningsMember
+2023-11-30
+0001722556
+us-gaap:PreferredStockMember
+2024-11-30
+0001722556
+us-gaap:CommonStockMember
+2024-11-30
+0001722556
+us-gaap:AdditionalPaidInCapitalMember
+2024-11-30
+0001722556
+us-gaap:RetainedEarningsMember
+2024-11-30
+0001722556
+fil:PresidentFeb92022Member
+2021-12-01
+2022-11-30
+0001722556
+fil:PresidentMay32022Member
+2021-12-01
+2022-11-30
+0001722556
+fil:PresidentMay42022Member
+2021-12-01
+2022-11-30
+0001722556
+fil:PresidentSeptember2022Member
+2021-12-01
+2022-11-30
+0001722556
+fil:PresidentJan2023Member
+2022-12-01
+2023-11-30
+0001722556
+fil:PresidentApril2023Member
+2022-12-01
+2023-11-30
+0001722556
+fil:PresidentJan2024Member
+2023-12-01
+2024-11-30
+0001722556
+fil:PresidentDecember2024Member
+2024-12-01
+2024-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 10-K/A
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended November 30, 2024
+Or
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________ to __________
+Commission File Number 333-224041
+BestGofer Inc.
+(Exact name of registrant as specified in its charter)
+Nevada
+7200
+82-5296245
+(State or other jurisdiction of
+incorporation or organization)
+(Primary standard industrial
+classification code number)
+(IRS employer
+identification number)
+10 Nisan Beck St.
+Jerusalem, Israel 91034
+(972) 03-9117987
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices)
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate by checkmark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☐ No ☒
+i
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer”, “accelerated filer”, “non-accelerated filer”, “emerging growth company” and “smaller reporting company” in Rule 12b-2 of the Exchange Act. (Check one).
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. Yes ☐ No ☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☒ No ☐
+The aggregate market value of the voting stock held by non-affiliates of the registrant, based upon the closing sale price of the registrant’s common stock as of the last business day of the registrant’s most recently completed second fiscal quarter, was $0.00.
+The number of shares outstanding of each of the issuer’s classes of Common Stock, as of March 5, 2025 is 5,880,000 shares.
+ii
+BESTGOFER INC.
+PART I
+1
+Item 1. Business
+1
+Item 1A. Risk Factors
+3
+Item 1B. Unresolved Staff Comments.
+4
+Item 2. Properties.
+4
+Item 3. Legal Proceedings.
+4
+Item 4. Safety Disclosures.
+4
+PART II
+4
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+4
+Item 6. Selected Financial Data.
+4
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+5
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+7
+Item 8. Financial Statements and Supplementary Data.
+7
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+8
+Item 9A. Controls and Procedures.
+8
+Item 9B. Other Information.
+9
+Part III
+9
+Item 10. Directors, Executive Offices and Corporate Governance
+9
+Item 11. Executive Compensation
+10
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+10
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+11
+Item 14. Principal Accounting Fees and Services
+11
+Part IV
+12
+Item 15. Exhibits, Financial Statement Schedules.
+12
+Signatures
+13
+iii
+Forward-Looking Statements
+This report includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities and Exchange Act of 1934, as amended.  All statements other than statements of historical facts are “forward-looking statements” for purposes of these provisions, including any projections of earnings, revenues or other financial items, any statement of the plans and objectives of management for future operations, any statements concerning proposed new products or strategic arrangements, any statements regarding future economic conditions or performance, and any statement of assumptions underlying any of the foregoing.  In some cases, forward-looking statements can be identified by the use of terminology such as “may,” “will,” “expects,” “plans,” “anticipates,” “estimates,” “potential,” “intends”, or “continue” or the negative thereof or other comparable terminology.  Although the Company and its management believe that the expectations reflected in the forward-looking statements contained herein are reasonable, there can be no assurance that such expectations or any of the forward-looking statements will prove to be correct, and actual results could differ materially from those projected or assumed in the forward-looking statements.  The Company’s future financial condition and results of operations, as well as any forward-looking statements, are subject to inherent risks and uncertainties, including but not limited to the Risk Factors set forth under Item 1A, and for the reasons described elsewhere in this report. All forward-looking statements and reasons why results may differ included in this report are made as of the date hereof, and we assume no obligation to update these forward-looking statements or reasons why actual results might differ.
+PART I
+Item 1. Business
+Overview
+BestGofer (or the “Company”) intends to focus on the delivery industry by providing consumers with the ability of having any desired retail item purchased on their behalf delivered directly to their door at any given time.
+The Company plans on serving consumers through the convenience of a smart phone app by notifying local delivery staff (called “Gofers”) through an online communication system of a desired pick up or delivery request, such as groceries, business packages, personal items etc.
+The consumer must state a maximum dollar amount at the time of notification, restricting Gofers from unauthorized spending on behalf of the consumer.
+Consumers may be retailers, businesses or individuals who need assistance, or those who simply wish to enjoy the advantage of door step delivery for any convenience item. Eligible consumers must be over the age of 18 and own a valid credit card. Credit cards of consumers will be linked through the app and charged at the time of delivery. Deliveries are subject to a fee; an amount agreed upon by Gofer and consumer.
+Items of delivery must meet our criteria including weight limit of 40 lbs per delivery, no prescription drugs, etc. Items of delivery must be accessible retail items. Prohibited items of purchase include pornographic content, controlled substances (i.e. drugs, marijuana etc.), orders exceeding the $400 limit, delivery of persons.  Gofers may exercise their right to refuse service should the item criteria not be met.
+There are no specific privacy regulations that effect our, however credit card users have certain rights as defined in such statutes as the Fair Credit Billing Act of 1986 (FCBA). Under the FCBA, a customer can dispute charges and we may have to refund any payments if the credit card company agrees with the customer.
+1
+Description of Business
+Product and Services
+BestGofer App:
+Qualified consumers will be required to open an online account using the Gofer app on their smart phone, which will require details such as name, address, contact and credit card information.
+Regulation of privacy will be enforced through our secured online platform where both consumers, as well contracted drivers, will set up their accounts. Credit cards will need to be valid. No payments will be accepted by the driver at any time during the delivery process. The credit cards will be charged upon completion of delivery via the Gofer platform. Drivers will be required to sign a liability waiver prior to contract commencement. Drivers will also be required to complete a criminal background check as well submit updated driving records.
+Drivers will be independent contractors. Driver application forms can be completed online via our website. Upon application approval, drivers will complete an independent contractor agreement and download the Gofer app where they can access their vendor profiles. Successful applicants will have passed the criminal background check and driver-screening requirements, as well provided proof of American citizenship or a work visa.
+Drivers will be recruited through websites targeting career opportunities. We plan to engage independent website construction contractors who will design, approve logarithms, individual page content and then test and approve the site launch. It is planned to launch the website during the fiscal year ending November 30, 2025.
+Upon opening the application, the first function will locate a Gofer nearest the user or desired destination of pick-up.
+Second, one or more of the following five categories must be selected: Grocery, Restaurant, Convenience, Liquor and Courier Services. Once a category has been selected, a window to enter the details of pick up will appear where the consumer will enter precisely the address of the retailer and exactly what they need (i.e. four apples, a copy of a magazine, one bottle of aspirin, etc.). An option to upload a picture from a smart phone of the exact product desired will be on the App. Thirdly, the user will be prompted to enter a maximum dollar amount that may be spent on the purchase of up to $400.
+Upon completion of the above three steps, the user will complete the service call by pressing the “Find Gofer” key. This key, in turn, will notify the nearest Gofer having been selected in the first function that a customer is requesting their service.
+BestGofer, Drivers:
+An eligible Gofer driver will be required to pass a criminal background check, possess a valid drivers’ license, have access to a vehicle and good communications skills.
+Once the eligible driver has met Company standards, they will be required to choose their desired city in which to operate. BestGofer will provide maps to each driver for their designated city, in which drivers will be responsible for learning the whereabouts of each retail, restaurant and service location. This will facilitate quicker deliveries.
+Each Gofer driver will download the app and open a personalized service account. While open, the app will track the location of the Gofer, notifying consumers of their whereabouts.
+Upon receiving a service request from a consumer, the Gofer will reply to the request with an offered fee for service or refuse service. Once mutually agreed upon by both parties, the Gofer shall perform the service.
+2
+Upon pick up of merchandise, Gofers will provide their own means to facilitate the purchase, while placing a money hold on the consumer’s credit card of the maximum allowable purchase price set out by the consumer in the third function of their order; thus, offering security to the Gofers’ purchase.
+Gofers must use caution to ensure grocery and convenient items are not damaged at time of pick up, as the Gofer will be responsible for the costs of returning damaged merchandise. Consumers will not be required to pay a service fee upon receiving damaged merchandise.
+Gofers may receive tips for their service.
+Drivers will be independent contractors. Driver application forms can be completed online via our website. Upon application approval, drivers will complete an independent contractor agreement and download the Gofer app where they can access their vendor profiles. Successful applicants will have passed the criminal record and driver-screening requirements, as well provided proof of American citizenship or work visa.
+Drivers will be recruited through websites targeting career opportunities.
+Market Analysis
+Marketing:
+BestGofer seeks online marketing strategies by means of social media exclusively, using the following apps:
+·Facebook
+·X (formally known as Twitter)
+·Instagram
+·Snapchat
+Business Strategy
+BestGofer will retain thirty percent (30%) of each of the Gofers’ delivery fees under a contract.
+Bankruptcy or Similar Proceedings
+There has been no bankruptcy, receivership or similar proceeding involving the Company.
+Number of Total Employees and Number of Full Time Employees
+We currently have one employee, Mohammed Hasan Hamed, who is responsible for our general strategy, finances and customer relations. We intend to hire additional staff if and when we generate enough revenue to support the expense. The number of additional staff will depend upon our growth.
+Item 1A. Risk Factors
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item.
+3
+Item 1B. Unresolved Staff Comments.
+Not applicable.
+Item 2. Properties.
+BestGofer will maintain an executive office at 24 Hagai, Dimona 80600, Israel, 03-9117987. All marketing, sales and customer support will be managed from this office.
+Item 3. Legal Proceedings.
+There are no legal actions pending against us nor any legal actions contemplated by us at this time.
+Item 4. Safety Disclosures.
+Not Applicable
+PART II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market for Common Equity
+No public market currently exists for shares of our Common Stock. Our Common Stock is not quoted and there have been no quotes of our Common Stock during the two most recent fiscal years and subsequent interim periods for which financial statements are included herein. Accordingly, there is no current quote price for our Common Stock. The Company has no equity compensation plans and there are no shares of common stock issuable upon the exercise of outstanding options or warrants to purchase, or securities convertible into, common stock of the Company.
+Holders
+As of November 30, 2024, the Company had thirty-one (31) shareholders of record of its Common Stock
+Dividend Policy
+We have not declared any dividends since incorporation and do not anticipate that we will do so in the foreseeable future. Although there are no restrictions that limit the ability to pay dividends on our Common shares, our intention is to retain future earnings for use in our operations and the expansion of our business.
+Securities Authorized for Issuance under Equity Compensation Plans:
+The Company does not have any equity compensation plans.
+Recent Sales of Unregistered Securities:
+None
+Item 6. Selected Financial Data.
+The Index to Condensed Financial Statements and Schedules appears on page 7.
+4
+The Report of Independent Registered Public Accounting Firm appears on page 10, and the Condensed Financial Statements and Notes to Condensed Financial Statements appear beginning on 11.
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion of our financial condition and results of operations should be read in conjunction with our financial statements and the related notes, and other financial information contained in this Annual Report on Form 10-K.
+Going Concern
+The Company’s financial statements are prepared using accounting principles generally accepted in the United States of America applicable to a going concern, which contemplates the realization of assets and liquidation of liabilities in the normal course of business. However, the Company does not have an established source of revenues sufficient to cover its operating costs and to allow it to continue as a going concern.
+Under the going concern assumption, an entity is ordinarily viewed as continuing in business for the foreseeable future with neither the intention nor the necessity of liquidation, ceasing trading, or seeking protection from creditors pursuant to laws or regulations. Accordingly, assets and liabilities are recorded on the basis that the entity will be able to realize its assets and discharge its liabilities in the normal course of business.
+The ability of the Company to continue as a going concern is dependent upon its ability to successfully accomplish the plan described in the Business paragraph and eventually attain profitable operations. The accompanying financial statements do not include any adjustments that may be necessary if the Company is unable to continue as a going concern.
+During the next year, the Company’s foreseeable cash requirements will relate to continual development of the operations of its business, maintaining its good standing and making the requisite filings with the Securities and Exchange Commission, and the payment of expenses associated with app development. The Company may experience a cash shortfall and be required to raise additional capital.
+Historically, it has mostly relied upon internally generated funds and funds from the sale of shares of stock to finance its operations and growth. Management may raise additional capital through future public or private offerings of the Company’s stock or through loans from private investors, although there can be no assurance that it will be able to obtain such financing. The Company’s failure to do so could have a material and adverse effect upon it and its shareholders.
+In the past year, the Company funded operations by using cash proceeds received through the issuance of Common Stock. For the coming year, the Company plans to continue to fund the Company through debt and securities sales and issuances until the company generates enough revenues through the operations as stated above.
+Plan of Operations
+As discussed above we have not yet operated pursuant to our business plan. We have generated no revenue at November 30, 2024 or 2023.
+Comparison of the Years Ended November 30, 2024, and 2023
+5
+Lack of Revenues
+We have a limited operational history. During the years ended November 30, 2024 and 2023, we have not generated any revenue. We anticipate that we will incur substantial losses for the foreseeable future and our ability to generate any revenues in the next 12 months continues to be uncertain.
+Operating Expenses
+The Company’s operating expenses for the year ended November 30, 2024, and 2023 were $27,562 and $43,792 respectively. Operating expenses consisted of general and administrative expenses of $11,538, professional fees of $21,478 and other income debt forgiveness $5,454 for the year ended November 30, 2024. Operating expenses consisted of general and administrative expenses of $14,089 and professional fees of $29,703 for the year ended November 30, 2023.
+Net Loss
+During the years ended November 30, 2024 and 2023, the Company recognized net loss of $27,562 and $43,792, respectively.
+Liquidity and Capital Resources
+Our capital resources have been obtained through loans from related party (Director).
+As of November 30, 2024, the Company has $12,500 in total assets. These assets are in the form of other advances, $12,500. As of November 30, 2024, the Company has $111,047 in liabilities. These liabilities are in the form of accounts payable, $94,122 and amounts due to the related party, $16,925.
+As of November 30, 2023, the Company has $12,500 in total assets. These assets are in the form of prepaid expenses, $12,500. As of November 30, 2023, the Company has $83,485 in liabilities. These liabilities are in the form of due to the related party $15,550,  accounts payable, $43,535,and accrued expenses $24,400.
+Accumulated deficit as of November 30, 2024, and 2023, is $179,653 and $152,091, respectively.
+Cash flows from operating activities
+Net cash used in operating activities for the year ended November 30, 2024, and 2023, was $1,375 and $2,750, respectively.
+Cash flows from financing activities
+Cash flows from financing activities for the year ended November 30, 2024, and 2023, was $1,375 and $2,750, respectively.
+The cash provided by financing activities was primarily due to funding by related party (the Director).
+The Company has no intention in investing in short-term or long-term discretionary financial programs of any kind.
+Cash Requirements
+We intend to obtain any needed funding for our activities through offerings of the Company’s debt and/or equity securities.
+6
+We have no agreement, commitment or understanding to secure any funding from any source.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements.
+BestGofer has never been in bankruptcy or receivership.
+Office
+BestGofer will maintain an executive office at 24 Hagai, Dimona 80600, Israel, 03-9117987. All marketing, sales and customer support will be managed from this office. The telephone number is (801)-243-5661.
+BestGofer is not operating its business plan until such time as capital is raised for operations. To date its operation has involved only selling stock to meet expenses.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+Not Applicable to Smaller Reporting Companies.
+Item 8. Financial Statements and Supplementary Data.
+BestGofer Inc.
+TABLE OF CONTENTS
+NOVEMBER 30, 2024
+PAGE
+Report of Independent Registered Public Accounting (PCAOB, Firm ID 6968)
+F-1
+Balance Sheets at November 30, 2024 and 2023
+F-3
+Condensed Statements of Operations for the years ended November 30, 2024 and 2023
+F-4
+Condensed Statements of Stockholders’ Deficit for the years ended November 30, 2024 and 2023
+F-5
+Condensed Statements of Cash Flows for the years ended November 30, 2024 and 2023
+F-6
+Notes to Condensed Financial Statements
+F-7
+7
+Certified Public Accountants and Advisors
+A PCAOB Registered Firm
+713-489-5635   bartoncpafirm.com  Cypress, Texas
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Shareholders
+BestGofer Inc.
+Opinion on the Financial Statements
+We have audited the accompanying condensed balance sheets of BestGofer Inc. as of November 30, 2024 and 2023, and the related condensed statements of operations, stockholders’ deficit, and cash flows for the years then ended, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of BestGofer Inc. as of November 30, 2024 and 2023, and the results of its operations and its cash flows for the years ended, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+Thes financial statements are the responsibility of the entity’s management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to BestGofer Inc. in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB and auditing standards generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. BestGofer Inc. is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+F-1
+Substantial Doubt About the Company’s Ability to Continue as a Going Concern
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has suffered recurring losses from operations and has a net capital deficiency, and therefore a substantial doubt exists about the Company’s ability to continue as a going concern. Management’s evaluation of the events and conditions and management’s plans regarding these matters are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. Our opinion is not modified with respect to this matter.
+Critical Audit Matters
+Critical audit matters are matters arising from the current periods audits of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. According to PCAOB AS 3101, communication of critical audit matters is not required in the auditors unqualified report for audits of emerging growth companies. We have communicated any such matters to the board and or management, as applicable.
+We have served as BestGofer Inc.’s auditor since 2023.
+/s/ Barton CPA PLLC
+Barton CPA PLLC
+Cypress, Texas
+March 3, 2025
+PCAOB, Firm ID 6968
+F-2
+BESTGOFER INC.
+CONDENSED BALANCE SHEETS
+November 30, 2024
+November 30, 2023
+ASSETS
+Current assets
+Prepaid expenses
+$
+-
+$
+12,500
+Total current assets
+-
+12,500
+Other advances
+12,500
+Total assets
+$
+12,500
+$
+12,500
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current liabilities
+Accounts payable
+94,122
+43,535
+Accrued expenses
+-
+24,400
+Due to related party
+16,925
+15,550
+Total current liabilities
+111,047
+83,485
+Stockholders’ deficit
+Preferred stock $0.001 par value, 10,000,000 shares
+authorized, 0 issued and outstanding as of
+November 30, 2024 and November 30, 2023
+respectively
+-
+-
+Common stock: $0.001 par value, 190,000,000 shares
+authorized, 5,880,000 shares issued and outstanding
+as of November 30, 2024 and November 30, 2023
+respectively
+5,880
+5,880
+Additional paid-in capital
+75,226
+75,226
+Accumulated deficit
+(179,653)
+(152,091)
+Total stockholders’ deficit
+(98,547)
+(70,985)
+Total liabilities and stockholders’ deficit
+$
+12,500
+$
+12,500
+The accompanying notes are an integral part of these financial statements.
+F-3
+BESTGOFER INC.
+CONDENSED STATEMENTS OF OPERATIONS
+For the year ended
+November 30,
+2024
+2023
+Revenue
+$
+-
+$
+-
+Expenses
+General and administration
+11,538
+14,089
+Professional fees
+21,478
+29,703
+Total expenses
+33,016
+43,792
+Other income (expenses)
+Debt forgiveness
+5,454
+-
+Total other income (expenses)
+5,454
+-
+Net loss
+$
+(27,562)
+$
+(43,792)
+Basic and diluted loss per common share
+$
+(0.005)
+$
+(0.007)
+Weighted average number of common shares outstanding
+- basic and diluted
+5,880,000
+5,880,000
+The accompanying notes are an integral part of these financial statements.
+F-4
+BESTGOFER INC.
+CONDENSED STATEMENTS OF STOCKHOLDERS’ DEFICIT
+For the years ended November 30, 2023 & 2024
+Preferred Stock
+Common Stock
+Shares
+Amount
+Shares
+Amount
+Additional
+Paid-in
+Capital
+Accumulated
+Deficit
+Total
+Stockholders’
+Deficit
+Balance at November 30, 2022
+-
+$
+-
+5,880,000
+$
+5,880
+$
+75,226
+$
+(108,299)
+$
+(27,193)
+Net loss for the period ended Nov. 30, 2023
+-
+-
+-
+-
+-
+(43,792)
+(43,792)
+Balance at Nov. 30, 2023
+-
+$
+-
+5,880,000
+$
+5,880
+$
+75,226
+$
+(152,091)
+$
+(70,985)
+Balance at Nov. 30, 2023
+-
+$
+-
+5,880,000
+$
+5,880
+$
+75,226
+$
+(152,091)
+$
+(70,985)
+Net loss for the period ended Nov. 30, 2024
+-
+-
+-
+-
+-
+(27,562)
+(27,562)
+Balance at Nov. 30, 2024
+-
+$
+-
+5,880,000
+$
+5,880
+$
+75,226
+$
+(179,653)
+$
+(98,547)
+The accompanying notes are an integral part of these financial statements.
+F-5
+BESTGOFER INC.
+CONDENSED STATEMENTS OF CASH FLOWS
+For the year ended
+November 30,
+2024
+2023
+Cash flow from operating activities
+Net loss
+$
+(27,562)
+$
+(43,792)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Debt forgiveness
+(5,454)
+-
+Changes in Operating Assets and Liabilities:
+Increase in accounts payable
+56,041
+16,642
+Increase (decrease) in accrued expenses
+(24,400)
+24,400
+Net cash used in operating activities
+$
+(1,375)
+$
+(2,750)
+Cash flows from investing activities
+$
+-
+$
+-
+Cash flow from financing activities
+Proceeds from related party
+1,375
+2,750
+Net cash provided to financing activities
+$
+1,375
+$
+2,750
+Net increase/(decrease) in cash
+-
+-
+Cash at beginning of period
+-
+-
+Cash at end of period
+$
+-
+$
+-
+Supplemental cash flow information:
+Cash paid for interest
+$
+-
+$
+-
+Cash paid for income taxes
+$
+-
+$
+-
+The accompanying notes are an integral part of these financial statements.
+F-6
+BESTGOFER, INC
+NOTES TO FINANCIAL STATEMENTS
+NOVEMBER 30, 2024
+(Unaudited)
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+A summary of significant accounting policies of BestGofer Inc. “the Company” is presented to assist in understanding the Company’s financial statements. The accounting policies presented in these footnotes conform to accounting principles generally accepted in the United States of America and have been consistently applied in the preparation of the accompanying financial statements. These financial statements and notes are representations of the Company’s management who are responsible for their integrity and objectivity. The Company has not realized revenues from its planned principal business purpose.
+Organization, Nature of Business and Trade Name
+BestGofer Inc. was incorporated in the State of Nevada in October 2017, with the purpose of developing a consumer delivery system. The Company’s principal office is in Dimona, Israel.
+The Company’s activities are subject to significant risks and uncertainties including failing to secure additional funding to operationalize the Company’s website and apps before another company develops similar websites or apps.
+Basis of Presentation
+The accompanying financial statements have been prepared in accordance with generally accepted accounting principles in the United States of America, and pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”) and reflect all adjustments, consisting of normal recurring adjustments, which management believes are necessary to fairly present the financial position, results of operations and cash flows of the Company for the year ended November 30, 2024.
+Accounting Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America, requires management to make estimates and assumptions that affect certain reported amounts and disclosures. These estimates and assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent liabilities, and the reported amounts of revenues and expenses. Accordingly, actual results could differ from those estimates.
+Cash and Cash Equivalents
+For purposes of the statement of cash flows, the Company considers all short-term debt securities purchased with maturity of three months or less to be cash equivalents.
+Revenue Recognition
+We recognize revenue in accordance with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers (“ASC 606”). The ASC 606’s stated core principle is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To achieve this core principle, ASC 606 includes provisions within a five-step model that includes identifying the contract with a customer, identifying the performance obligations in the contract, determining the transaction price, allocating the transaction price to the performance obligations, and recognizing revenue when, or as, an entity satisfies a performance obligation.
+F-7
+BESTGOFER, INC
+NOTES TO FINANCIAL STATEMENTS
+NOVEMBER 30, 2024
+(Unaudited)
+Fair Value of Financial Instruments
+The Company applies fair value accounting for all financial assets and liabilities and non-financial assets and liabilities that are recognized or disclosed at fair value in the financial statements on a recurring basis. The Company defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities, which are required to be recorded at fair value, the Company considers the principal or most advantageous market in which the Company would transact and the market-based risk measurements or assumptions that market participants would use in pricing the asset or liability, such as risks inherent in valuation techniques, transfer restrictions and credit risk. Fair value is estimated by applying the following hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+Level 1 - Quoted prices in active markets for identical assets or liabilities.
+Level 2 - Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+Level 3 - Inputs that are generally unobservable and typically reflect management’s estimate of assumptions that market participants would use in pricing the asset or liability.
+In accordance with the fair value accounting requirements, companies may choose to measure eligible financial instruments and certain other items at fair value. The Company has not elected the fair value option for any eligible financial instruments.
+Advertising
+Advertising expenses are recorded as general and administrative expenses when they are incurred.
+Use of Estimates
+The preparation of financial statements in accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. A change in managements’ estimates or assumptions could have a material impact on BestGofer Inc.’s financial condition and results of operations during the period in which such changes occurred. Actual results could differ from those estimates. BestGofer Inc.’s financial statements reflect all adjustments that management believes are necessary for the fair presentation of their financial condition and results of operations for the periods presented.
+Capital Stock
+No shares of Preferred Stock were issued or outstanding as of November 30, 2024 and November 30, 2023.
+Basic and Diluted Net Loss per Common Share
+Basic loss per common share is computed by dividing the net loss by the weighted average number of shares of common stock outstanding for each period. Diluted loss per share is computed by dividing the net loss by the weighted average number of shares of common stock outstanding plus the dilutive effect of shares issuable through the common stock equivalents. The weighted-average number of common shares outstanding excludes common stock equivalents because their inclusion would be anti-dilutive.
+F-8
+BESTGOFER, INC
+NOTES TO FINANCIAL STATEMENTS
+NOVEMBER 30, 2024
+(Unaudited)
+Income Taxes
+The Company recognizes the tax effects of transactions in the year in which such transactions enter into the determination of net income, regardless of when reported for tax purposes.
+Recent Accounting Pronouncements
+We have reviewed all the recently issued, but not yet effective, accounting pronouncements and we do not believe any of these pronouncements will have a material impact on the Company.
+Reclassification of Prior Year Presentation
+Certain prior year amounts have been reclassified for consistency with the current period presentation. These reclassifications had no effect on the reported results of operations.
+NOTE 2 - GOING CONCERN
+The Company’s financial statements are prepared using accounting principles generally accepted in the United States of America applicable to a going concern, which contemplates the realization of assets and liquidation of liabilities in the normal course of business. However, the Company does not have an established source of revenues sufficient to cover its operating costs and to allow it to continue as a going concern.
+Under the going concern assumption, an entity is ordinarily viewed as continuing in business for the foreseeable future with neither the intention nor the necessity of liquidation, ceasing trading, or seeking protection from creditors pursuant to laws or regulations. Accordingly, assets and liabilities are recorded on the basis that the entity will be able to realize its assets and discharge its liabilities in the normal course of business.
+The ability of the Company to continue as a going concern is dependent upon its ability to successfully raise funds through the capital market. and eventually attain profitable operations. The accompanying financial statements do not include any adjustments that may be necessary if the Company is unable to continue as a going concern.
+During the next year, the Company’s foreseeable cash requirements will relate to continual development of the operations of its business, maintaining its good standing and making the requisite filings with the Securities and Exchange Commission, and the payment of expenses associated with app development. The Company may experience a cash shortfall and be required to raise additional capital.
+Historically, it has mostly relied upon internally generated funds and funds from the sale of shares of stock to finance its operations and growth. Management may raise additional capital through future public or private offerings of the Company’s stock or through loans from private investors, although there can be no assurance that it will be able to obtain such financing. The Company’s failure to do so could have a material and adverse effect upon it and its shareholders.
+In the past year, the Company funded operations by using cash proceeds received from related party (See Note 5). For the coming year, the Company plans to continue to fund the Company through debt and securities sales and issuances until the company generates enough revenues through the operations as stated above.
+F-9
+BESTGOFER, INC
+NOTES TO FINANCIAL STATEMENTS
+NOVEMBER 30, 2024
+(Unaudited)
+NOTE 3 - ACCOUNTS PAYABLE
+Accounts payable movements during the current and previous years are presented below:
+For the year ended
+November 30,
+2024
+2023
+Opening balance of accounts payables
+$
+43,535
+$
+26,893
+Addition of payables
+57,416
+19,392
+Settlement of payables
+(1,375)
+(2,750)
+Payable forgiven
+(5,454)
+-
+Closing balance of accounts payables
+$
+94,122
+$
+43,535
+Percentage of vendor concentration and number of vendor details are presented below:
+For the year ended
+November 30, 2024
+For the year ended
+November 30, 2023
+Percentage of
+vendor concentration
+No of vendors
+Percentage of
+vendor concentration
+No of vendors
+Accounts payable
+96%
+3
+95%
+2
+As at November 30, 2024, and November 30, 2023, amounts due to accounts payable vendors are $94,122 and $43,535, respectively.
+NOTE 4 - COMMON STOCK
+Common Stock
+As at November 30, 2024, and November 30, 2023, the Company’s authorized stock consists of 190,000,000 shares of common stock at a par value of $0.001 per share and 10,000,000 shares of preferred stock at a par value of $0.001 per share, respectively.
+As at November 30, 2024, and November 30, 2023, the Company’s issued and outstanding consists of 5,880,000 shares of common stock.
+Preferred Stock
+As of November 30, 2024, and November 30, 2023, the Company has no shares of preferred stock issued and outstanding, respectively.
+NOTE 5 - RELATED PARTY TRANSACTIONS
+On February 09, 2022, the Company received $4,500 from Mohammad Hasan Hamed, President of the Company towards Company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+On May 03, 2022, the Company received $5,000 from Mohammad Hasan Hamed, President of the Company towards Company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+On May 04, 2022, the Company received $1,750 from Mohammad Hasan Hamed, President of the Company towards Company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+F-10
+BESTGOFER, INC
+NOTES TO FINANCIAL STATEMENTS
+NOVEMBER 30, 2024
+(Unaudited)
+During September 2022, the Company received $1,550 from Mohammad Hasan Hamed, President of the Company towards Company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+During January 2023, the Company received $1,250 from Mohammad Hasan Hamed, President of the Company towards company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+During April 2023, the Company received $1,500 from Mohammad Hasan Hamed, President of the Company towards Company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+During January 2024, Company received $1,375 from Mohammad Hasan Hamed, President of the Company towards Company operating expenses. The Company will repay the amount once the Company generates sufficient cash flow.
+As at November 30, 2024, and November 30, 2023, amounts due to related parties are $16,925 and $15,550, respectively.
+NOTE 6 - INCOME TAXES
+For the year ended November 30, 2024, the Company has incurred net losses and therefore, has no tax liability. The net deferred tax asset generated by the loss carry-forward has been fully reserved. The cumulative net operating loss carry-forward is approximately $179,653 at November 30, 2024, and will expire beginning in the year 2037.
+The provision for income taxes differs from the amounts which would be provided by applying the statutory federal income tax rate of 21% and 21% to the net loss before provision for income taxes as follows:
+For the year ended
+November 30,
+2024
+2023
+Income tax expense (benefit) at statutory rate
+$
+(5,788)
+$
+(9,196)
+Change in valuation allowance
+5,788
+9,196
+Income tax expense
+$
+-
+$
+-
+Net deferred tax assets consist of the following components as of November 30, 2024 and 2023:
+November 30, 2024
+November 30, 2023
+Gross deferred tax asset
+$
+37,727
+$
+31,939
+Valuation allowance
+(37,727)
+(31,939)
+Net deferred tax asset
+$
+-
+$
+-
+Due to the change in ownership provisions of the Tax Reform Act of 1986, net operating loss carry forwards of approximately $179,653 for federal income tax reporting purposes could be subject to annual limitations. Should a change in ownership occur, net operating loss carry forwards may be limited as to use in future years.
+The Company has no uncertain tax positions that require the Company to record a liability.
+The Company had no accrued penalties and interest related to taxes as of November 30, 2024.
+F-11
+BESTGOFER, INC
+NOTES TO FINANCIAL STATEMENTS
+NOVEMBER 30, 2024
+(Unaudited)
+NOTE 7 - SUBSEQUENT EVENT
+The Company evaluated all events or transactions that occurred after November 30, 2024, through March 5, 2025 and report the below transaction.
+During December 2024, the Director of the Company Mohammad Hasan Hamed provided working capital of $35,000 towards the payment for audit fees.
+F-12
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+There are none.
+Item 9A. Controls and Procedures.
+As of November 30, 2024, Chief Executive Officer of the Company evaluated the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rule 13a - 15(e) under the Securities Exchange Act of 1934, as amended.  Based on the evaluation of these controls and procedures required by paragraph (b) of Sec. 240.13a-15 or 240.15d-15 the disclosure controls and procedures have been found to be not effective.
+The Company maintains a set of disclosure controls and procedures designed to ensure that information required to be disclosed by us in our reports filed under the securities Exchange Act, is recorded, processed, summarized, and reported within the time periods specified by the SEC’s rules and forms. Disclosure controls are also designed with the objective of ensuring that this information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+Evaluation of Internal Control Over Financial Reporting
+Management conducted an evaluation of the effectiveness of the Company’s internal control over financial reporting as of November 30, 2024.  In making this assessment, management used the criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission, or COSO (2013). The COSO framework summarizes each of the components of a company’s internal control system, including (i) the control environment, (ii) risk assessment, (iii) control activities, (iv) information and communication, and (v) monitoring. In management’s assessment of the effectiveness of internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)) as required by Exchange Act Rule 13a-15(c), our management concluded as of the end of the fiscal year covered by this Annual Report on Form 10-K that our internal control over financial reporting has not been effective.
+Changes in Internal Control Over Financial Reporting
+There were no changes in the Company’s internal control over financial reporting during the year ended November 30, 2024, that have materially impacted, or are reasonably likely to materially impact, the Company’s internal control over financial reporting.
+Management’s Annual Report on Internal Control Over Financial Reporting
+The Company’s internal control over financial reporting includes those policies and procedures that:  i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that receipts and expenditures of the Company are made only in accordance with authorizations of management and directors of the Company; and iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material impact on the financial statements.
+The Company’s management, including the Chief Executive Officer and the Chief Financial Officer, does not expect that the Company’s disclosure controls and procedures, or the Company’s internal controls over financial reporting, will necessarily prevent all fraud and material errors. An internal control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of control must be considered relative to their costs. Because of the inherent limitations on all internal control systems, the Company’s internal control system can provide only reasonable assurance of achieving its objectives and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be
+8
+circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the control. The design of any system of internal control is also based in part upon certain assumptions about the likelihood of future events, and can provide only reasonable, not absolute, assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in circumstances, or because the degree of compliance with the policies and procedures may deteriorate.
+Management of the Company, including the Chief Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness of the Company’s internal control over financial reporting as of November 30, 2023, under the framework in Internal Control-Integrated Framework (2013), and determined that controls are ineffective due to the Company’s small size and lack of segregation of duties.
+This Annual Report does not include an attestation report by our registered public accounting firm regarding internal control over financial reporting.  Management’s report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only our management report in this Annual Report.
+Item 9B. Other Information.
+None.
+Part III
+Item 10. Directors, Executive Offices and Corporate Governance
+The name and title of our executive officer and director is as follows:
+Officer and/or Director
+Title
+Mohammad Hasan Hamed
+President/CEO/CFO and principal accounting officer.
+Executive Biography
+The following is a summary of the experience and background of our executive officer and Director.
+Mohammad Hasan Hamed, Pres, Sec, Treas, Dir, CEO, CFO
+Mohammad Hasan Hamed is the owner of a moving company named “Star moving” established in 2011 in Jerusalem. For the last 9 years, the company has offered comprehensive home and business relocation and packing services. His company moves apartments, condominiums, homes, businesses, and everything in between. The company provides service across Israel. In 2013, Mohammad took a few business and managing courses at University of Jerusalem.
+Director Compensation
+We have not established standard compensation arrangements for our Directors, and the compensation payable to each individual for their service on our Board will be determined from time to time by our Board of Directors (the “Board”) based upon the amount of time expended by each of the Directors on our behalf. Currently, executive officers of our Company who are also members of the Board of Directors do not receive any compensation, specifically for their services as Directors.
+Term of office
+Our Directors are appointed to hold office until the next annual general meeting of our stockholders or until removed from office in accordance with our Bylaws. Our officers are appointed by our Board of Directors and hold office until removed by the Board, absent an employment agreement.
+9
+Significant employees and consultants
+As of the date hereof, the Company has no significant employees.
+Audit Committee
+We do not currently have an audit committee or a committee performing similar functions. Our Board of Directors as a whole participates in the review of financial statements and disclosure.
+Code of Ethics
+We have not adopted a code of ethics that applies to our officer, Director and employee. Our Board evaluated the business of our Company and the number of employees and determined that since the business is operated by a small number of persons, general rules of fiduciary duty and federal and state criminal, business conduct and securities laws are adequate ethical guidelines. In the event our operations, employees and/or our directors expand in the future, we may take actions to adopt a formal Code of Ethics.
+Item 11. Executive Compensation
+We have not entered into an employment agreement with any person. We have no plans to compensate our executive officers in the foreseeable future.
+Summary Compensation Table. The following table sets forth certain information concerning the annual and long-term compensation of our current president and secretary during the fiscal year:
+Summary Compensation Table
+(a)
+(b)
+(c)
+Name and Principal Position
+Year
+Salary
+Bonus
+Option
+Awards
+All Other
+Compensation
+Total
+Compensation
+Mohammad Hasan Hamed, CEO
+2024
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Mohammad Hasan Hamed, CEO
+2023
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+Our Board determines the compensation given to our executive officers in their sole determination. Our Board reserves the right to pay our executive or any future executives a salary, and/or issue them shares of our Common Stock in consideration for services rendered and/or to award incentive bonuses which are linked to our performance, as well as to the individual executive officer’s performance. This may also include long-term stock-based compensation to certain executives, which is intended to align the performance of our executives with our long-term business strategies. Additionally, while our Board has not granted any performance-based stock options to date, our Board reserves the right to grant such options in the future, if our Board, in its sole determination, believes such grants would be in the best interest of our Company.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The following table sets forth, as of the date of this filing, certain information concerning the beneficial ownership of our Common Stock by (i) each stockholder known by us to own beneficially five percent or more of our outstanding Common Stock; (ii) each Director; (iii) each named executive officer; and (iv) all of our executive officers and Directors as a group, and their percentage ownership and voting power. As of November 30, 2024, there were 5,880,000 shares of our Common Stock issued and outstanding.
+Unless otherwise indicated below, to our knowledge, all persons named in the table have sole voting and investment power with respect to their shares of our Common Stock, except to the extent authority is shared by spouses under community property laws. Except as otherwise indicated in the table below, addresses of named beneficial owners are in care of the Company, 8855 SW Holly Lane, Wilsonville, OR 97070.
+10
+Title of Class
+Name and Address of
+Beneficial Owner
+Amount and Nature of
+Beneficial Ownership
+Percent of Class
+Common
+Mohammad Hasan Hamed
+3,800,000 shares
+64%
+Management beneficial ownership
+Title of Class
+Name and Address of
+Beneficial Owner
+Amount and Nature of
+Beneficial Ownership
+Percent of Class
+Common
+Mohammad Hasan Hamed
+3,800,000 shares
+64%
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+On September 7, 2017, 1,900,000 shares of BestGofer’s Common Stock were issued to Gal Abotbol and Levi Yehuda each were then officers and Directors of the Company, at the price of $0.005 per share (a total of 3,800,000 shares of Common Stock and $19,000). On August 21, 2020 both sold 100% of their shares to Mohammad Hasan Hamed.
+The Company does not own or lease property or lease office space. The office space used by the Company was arranged by the officer of the Company to use at no charge.
+There have been no additional transactions since the beginning of the Company’s last fiscal year, nor any proposed transactions in which the Company was or is to be a participant that are required to be disclosed under Item 404 of Regulation S-K.
+Item 14. Principal Accounting Fees and Services
+The aggregate professional fees paid or payable to our registered public accounting firm for its annual audit and quarterly reviews during the year ended November 30, 2024, and November 30, 2023, were as follows:
+November 30, 2024
+November 30, 2023
+Audit Fees and Audit Related Fees:
+Michael Gillespie & Associates, PLLC
+$
+1,375
+$
+1,250
+Richard Bolko
+---
+1,500
+Barton CPA PLLC
+13,000
+22,000
+Tax Fees
+---
+---
+All Other Fees
+---
+---
+TOTAL
+$
+14,375
+$
+24,750
+In the above table, “audit fees” are fees billed by our Company’s external auditor for services provided in auditing our Company’s annual financial statements for the subject year. “Audit-related fees” are fees not included in audit fees that are billed by the auditor for assurance and related services that are reasonably related to the performance of the audit review of our company’s financial statements.
+“Tax fees” are fees billed by the auditor for professional services rendered for tax compliance, tax advice and tax planning.
+“All other fees” are fees billed by the auditor for products and services not included in the foregoing categories.
+11
+Part IV
+Item 15. Exhibits, Financial Statement Schedules.
+Exhibit
+Description
+31.1
+Certification of Chief Executive Officer of BestGofer Inc, Inc. required by Rule 13a-14(1) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification of Principal Accounting Officer of BestGofer Inc, Inc. required by Rule 13a-14(1) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification of Chief Executive Officer of BestGofer Inc, Inc. pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and Section 1350 of 18 U.S.C. 63.
+32.2
+Certification of Principal Accounting Officer of BestGofer Inc, Inc. pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and Section 1350 of 18 U.S.C. 63.
+12
+Signatures
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+BestGofer Inc.
+By: /s/ Mohammad Hasan Hamed
+Date: June 26, 2024
+Mohammad Hasan Hamed,
+President/CEO/CFO and Principal Accounting Officer
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ Mohammad Hasan Hamed
+President/CEO/CFO, Principal Executive Officer and Principal Accounting Officer
+June 26, 2025
+13

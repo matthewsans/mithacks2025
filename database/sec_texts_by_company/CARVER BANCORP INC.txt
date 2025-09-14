@@ -1,0 +1,1059 @@
+false
+--03-31
+2025
+FY
+0001016178
+0001016178
+2024-04-01
+2025-03-31
+0001016178
+2025-07-15
+0001016178
+2024-09-30
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+AMENDMENT NO. 1
+FOR ANNUAL AND TRANSITION REPORTS PURSUANT
+TO
+SECTIONS 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+x
+ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended March 31, 2025
+OR
+¨
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _________ to
+_________
+Commission File Number: 001-13007
+CARVER BANCORP, INC.
+(Exact name of registrant as specified in its
+charter)
+Delaware
+13-3904174
+(State
+or Other Jurisdiction of Incorporation or Organization)
+(I.R.S.
+Employer Identification No.)
+75 West 125th Street
+New York
+New York
+10027
+(Address
+of Principal Executive Offices)
+(Zip
+Code)
+Registrant's telephone number, including area
+code: (718) 230-2900
+Securities Registered Pursuant to Section 12(b) of
+the Act:
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+Common Stock, par value $0.01 per share
+CARV
+NASDAQ Capital Market
+Securities registered pursuant to Section 12(g) of
+the Act:
+None
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.   ¨ Yes   x No
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+¨ Yes   x
+No
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.   x Yes o
+No
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405
+of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit such files). x Yes   ¨ No
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§ 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. ¨
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth
+company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+¨
+Large
+Accelerated Filer
+¨
+Accelerated
+Filer
+x
+Non-accelerated Filer
+x
+Smaller
+Reporting Company
+¨
+Emerging
+Growth Company
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the
+registered public accounting firm that prepared or issued its audit report. ¨
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of
+the registrant included in the filing reflect the correction of an error to previously issued financial statements. ¨
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b). ¨
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  o
+Yes  x No
+As of July 15, 2025 there
+were 5,074,283 shares of common stock of the Registrant outstanding.  The aggregate market value of the Registrant's
+common stock held by non-affiliates, as of September 30, 2024 (based on the closing sales price of $1.92 per share of the registrant's
+common stock on September 30, 2024) was approximately $9,810,678.
+DOCUMENTS INCORPORATED BY REFERENCE
+None
+TABLE OF CONTENTS
+PART III
+1
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS OF THE REGISTRANT AND CORPORATE GOVERNANCE
+1
+ITEM 11.
+EXECUTIVE COMPENSATION
+7
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+13
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE
+14
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+15
+PART IV
+16
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+16
+ITEM 16.
+FORM 10-K SUMMARY
+16
+SIGNATURES
+17
+EXPLANATORY
+NOTE
+Carver Bancorp, Inc. (the “Company”)
+filed its Annual Report on Form 10-K for the fiscal year ended March 31, 2025 (“Form 10-K”) with the U.S.
+Securities and Exchange Commission (the “SEC”) on June 24, 2025. The Company is filing this Amendment No. 1 to
+the Form 10-K, or “Form 10-K/A,” solely to revise Part III of the report to include the information previously
+omitted from the Form 10-K. This Amendment No. 1 to the report continues to speak as of the date of filing of the report, and
+except as expressly set forth herein we have not updated the disclosures contained in this Amendment No. 1 to the report to reflect
+any events that occurred at a date subsequent to the filing of the report.
+Pursuant to Rule 12b-15 under the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), this Amendment No. 1 also contains new certifications of the
+Company’s principal executive officer and principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002. Because no financial statements are included in this Amendment No. 1 and this Amendment No. 1 does not contain or amend
+any disclosure with respect to Items 307 or 308 of Regulation S-K promulgated by the SEC under the Exchange Act, paragraphs 3, 4
+and 5 of the Section 302 certifications have been omitted. In addition, because no financial statements are included in this Amendment
+No. 1, new certifications of the Company’s principal executive officer and principal financial officer pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002 are not required to be included with this Amendment No. 1.
+Except as described above or as expressly noted in this Amendment
+No. 1, no other changes have been made to the Form 10-K.
+PART III
+ITEM 10.DIRECTORS, EXECUTIVE OFFICERS
+OF THE REGISTRANT AND CORPORATE GOVERNANCE.
+General
+The Certificate of Incorporation
+of Carver provides that Carver’s Board of Directors shall be divided into three (3) classes, as nearly equal in number as
+possible. The directors of each class serve for a term of three (3) years, with one (1) class elected each year. In all cases,
+directors serve until their successors are elected and qualified.
+Carver's Board of Directors
+has the discretion to fix the number of directors by resolution and has so fixed this number at eight (8).
+Information Regarding Directors
+The following table sets
+forth certain information with respect to our directors. There are no arrangements or understandings between Carver and any director
+pursuant to which such person was elected or nominated to be a director of Carver. For information with respect to the ownership of shares
+of the Common Stock by each director, see “Security Ownership of Certain Beneficial Owners and Management—Security Ownership
+of Management.”
+Name
+Age
+End of
+Term
+Position Held with Carver
+and Carver Federal
+Director
+Since
+Pazel G. Jackson, Jr.
+94
+2025
+Director
+1997
+Robin L. Nunn
+47
+2025
+Director
+2022
+Craig C. MacKay
+62
+2026
+Director
+2017
+Lewis P. Jones III
+73
+2026
+Chairperson of the Board
+2013
+Colvin W. Grannum
+72
+2026
+Director
+2013
+Kenneth J. Knuckles
+78
+2027
+Director
+2013
+Jillian E. Joseph
+46
+2027
+Director
+2019
+Directors’ Backgrounds
+The principal occupation
+and business experience of each director is set forth below.
+Jillian E. Joseph
+is a skilled transactional attorney with 20+ years in the complex real estate, finance, and asset management industry. In addition to
+her legal career, she has extensive leadership experience in strategic transitions, corporate strategy, and bank compliance.
+Ms. Joseph serves as
+Managing Director and Associate General Counsel at Nuveen, the asset management arm of TIAA, one of the largest asset managers in the
+world. In this role, for the last nine years, Jillian supported Nuveen Real Estate Debt with approximately $10 Billion of loan originations
+each year in fixed rate mortgage financing, floating rate mezzanine lending, and structured debt offering. Ms. Joseph is also a
+market leader on managing debt portfolios through financial crises including extensive work on restructures, modifications, workouts
+and foreclosures. In addition to her extensive debt leadership, Ms. Joseph also supported the equity business with over $12 billion
+yearly in real estate equity transactions.
+Most recently, Ms. Joseph transitioned
+to bring her extensive experience in affordable and workforce housing to support the $6.4+ Billion Nuveen Real Estate Impact Sector focusing
+on investment in early-stage projects to increase the supply of social and affordable housing, while also working on regeneration projects
+within healthcare, education and transportation services. Ms. Joseph advises the team on all areas of affordable housing
+and real estate including property acquisitions, dispositions, joint ventures, complex portfolio investments, development, construction,
+asset management, sales, regulatory matters, tax exemptions and their benefits, in addition to financing of such assets (FHA, LIHTC,
+Freddie Mac, and Fannie Mae).
+1
+In addition to her work at
+Nuveen, Ms. Joseph is the Vice Chairwoman of the Board of the Brooklyn Navy Yard, the nationally acclaimed mission-driven
+industrial park. Ms. Joseph has worked to make sure the 300-acre waterfront asset offers a critical pathway to the middle class
+for many New Yorkers, especially the communities surrounding the Yard ensuring that local, minority and women-owned businesses have access
+to a stable and predictable real estate environment and also provide access to the development and construction opportunities the Yard
+presents. She is also on the board of directors of a faith-based non-profit that constructs, owns and operates affordable housing for
+seniors in Brooklyn.
+Prior to Nuveen, Ms. Joseph
+spent five years as Executive Counsel for GE Capital’s Real Estate Business, responsible for the $30 billion US platform and then
+working on the team to sell the business to Blackstone & Wells Fargo in 2015. Prior to GE, Ms. Joseph was an associate
+at Skadden Arps Slate Meagher & Flom LLP. While at Skadden, Ms. Joseph represented Empire State Development Corporation
+in connection with its Atlantic Yards Project, the $4 Billion mixed-use development that includes the sports arena for the Brooklyn Nets,
+“Barclay’s Center”.
+Ms. Joseph earned her
+J.D. with honors from University of Pennsylvania Law School and her undergraduate degree cum laude from Colgate University.
+Ms. Joseph’s in-depth knowledge
+of real estate, finance and business law provides the Board with a unique and valuable perspective into economic development and commercial
+lending issues.
+Pazel G. Jackson, Jr.
+is the retired Senior Vice President of JPMorgan Chase. During his 37-year career in banking, he held positions of increasing responsibility
+at JPMorgan Chase, Chemical Bank, Texas Commerce Bank and the Bowery Savings Bank. From January 1995 to 2000, Mr. Jackson was
+responsible for mortgage market development throughout the United States for JPMorgan Chase. His prior positions included Senior Credit
+Officer of Chemical Mortgage Company, Business Manager of Chemical Mortgage Division, Chief Lending Officer of Bowery Savings Bank and
+Marketing Director of Bowery Savings Bank. Mr. Jackson was formerly Vice-Chairman of the Battery Park City Authority and formerly
+Chairman of The Mutual Real Estate Trust. He is a licensed Professional Engineer with more than 16 years of senior management experience
+in design and construction. Mr. Jackson earned B.C.E. and M.C.E. degrees from the City College of New York, an M.B.A. from Columbia
+University and a Doctorate in Business Policy Studies from Pace University in New York. Mr. Jackson’s extensive senior level
+banking experience, including his extensive lending and real estate experience, coupled with his advanced formal education, has given
+him front-line exposure to many of the issues facing Carver, as well as valuable insight needed as Chairperson of the Asset Liability
+and Interest Rate Risk Committee. Mr. Jackson has been a member of the Boards of Directors of Carver and Carver Federal since 1997.
+Kenneth J. Knuckles
+is the retired President and Chief Executive Officer of the Upper Manhattan Empowerment Zone Development Corporation (“UMEZ”),
+where he served for over 15 years. During his tenure as Chief Executive Officer, Mr. Knuckles led the investment of more than $240
+million in capital in mixed-use and retail development projects in Northern Manhattan, leveraging over $2 billion in private investment,
+and the creation of 10,000 jobs. Mr. Knuckles is also Vice Chair of the New York City Planning Commission. Prior to joining UMEZ,
+Mr. Knuckles was Vice President of Support Services and Chief Procurement Officer at Columbia University. Mr. Knuckles earned
+his undergraduate degree from the University of Michigan and his law degree from Howard University School of Law. Mr. Knuckles currently
+serves as the Vice Chairman of the Carver Board of Directors and Chairman of the Carver Compensation and Human Resources Committee. Mr. Knuckles’
+experience in New York City community development issues contributes to Carver’s mission to the communities it serves.
+Robin L. Nunn is a
+Partner in Sterlington PLLC’s litigation practice. Since May 2025. Prior to that, Ms. Nunn was a Partner in the
+Litigation, Arbitration & Investigations Group at Linklaters LLP beginning in 2023. From 2020 to 2023, Ms. Nunn was a Partner
+and Co-Head of the Banking Group at Morgan, Lewis & Bockius LLP. Prior to that, from 2018 to 2020, Ms. Nunn was Partner
+and Chair of the Consumer Financial Services Group at Dechert LLP. From 2017 to 2018, Ms. Nunn was Partner and Co-Chair of the Supervision,
+Enforcement and Litigation Group at Davis Wright Tremaine. Ms. Nunn has also held senior legal positions with Capital One Financial
+Corporation and American Express. She began her legal career as a Law Clerk for the Hon. Barrington Parker of the U.S. Court of Appeals
+for the Second Circuit, and then was a Senior Associate with Sullivan & Cromwell LLP. Ms. Nunn received her BA from Dartmouth
+College and her JD from the University of Chicago Law School. She is a graduate of the Executive Development Leadership Program of the
+Harvard Business School. Ms. Nunn’s extensive legal experience advising financial institutions is a valuable asset
+to the Board.
+2
+Craig C. MacKay is
+a Senior Advisor and a former Managing Director of England & Company. From 2023 to 2024, Mr. MacKay served as the Interim
+Chief Executive Officer and President of the Company and the Bank. Mr. MacKay has over 33 years of investment banking experience
+focused on corporate finance, private investments, and M&A advisory for middle market companies. He previously headed the Private
+Finance groups at Oppenheimer & Company, Canadian Imperial Bank of Commerce, SunTrust Robinson Humphrey, and was the Managing
+Member and founder of HNY Associates, a private merchant bank and advisory services firm. Since beginning his banking career at Bankers
+Trust Company in 1989, he has completed over $12 billion of middle-market domestic and cross-border capital and corporate advisory engagements.
+Mr. MacKay has executed over 100 acquisition financings, leverage recapitalizations, growth capital-raises, and refinancings as
+a trusted advisor across a broad spectrum of industrial sectors, including healthcare, business services, financial services, manufacturing
+and consumer retail. He has served on numerous public and private corporate boards, non-profit boards and advisory councils, and presently
+serves on the board of trustees of the Pioneer Funds (NASDAQ:PIODX) and the board of directors of Equitable Holdings (NYSE:EQH). Mr. MacKay
+earned both his Bachelor of Science degree in Economics and Master of Business Administration degree in Finance at the Wharton School
+of the University of Pennsylvania. Mr. MacKay’s experience in capital markets and corporate finance provides Carver with exceptional
+perspective on asset-liability management, interest rate risk management and opportunities in its market area.
+Lewis P. Jones III
+is Managing Principal and Co-Founder at 5 Stone Green Capital, an asset management firm that focuses on energy efficient and sustainably-designed
+real estate developments, since 2010. Mr. Jones was an executive from 1988 to 2009 at JPMorgan Chase (and predecessor banks), including
+serving as the Co-Portfolio Manager of the JPMorgan Urban Renaissance Property Fund and a senior member of the Acquisitions Team at JP
+Morgan Asset Management. He also previously served as President of the Chase Community Development Corporation. Mr. Jones earned
+his undergraduate degree from Harvard University and a law degree and MBA from Columbia University. Mr. Jones’s expertise
+in community development and green real estate lending and investment offers Carver a unique perspective on burgeoning opportunities
+in its market area. Mr. Jones is Chairman of the Boards of Directors of Carver and Carver Federal.
+Colvin W. Grannum
+is the principal of Flagstaff Clapham Advisors, a comprehensive community economic development consulting practice. In 2022, he retired
+as President and Chief Executive Officer of Bedford Stuyvesant Restoration Corporation, the nation’s first community development
+corporation, where he served in that capacity for more than two decades. Mr. Grannum previously served as a founder and the first
+Chief Executive Officer at Bridge Street Development Corporation. City and State Magazine named him to the Brooklyn Power 100 and New
+York Economic Development 75. He has authored articles and op-eds on issues related to African American wealth creation, including homeownership.
+Local Initiatives Support Corporation and New York Housing Conference honored him with their respective Lifetime Achievement Awards.
+Prior to his career in community development, he practiced law for more than 17 years in the private and public sectors. Mr. Grannum
+earned an undergraduate degree from University of Pennsylvania and a law degree from Georgetown University Law Center. Mr. Grannum’s
+legal background, expertise in economic development in New York City, and financial inclusion policy offers Carver a greater depth of
+understanding on the Bank’s market area and the needs of the changing communities that it serves.
+Executive Officers of Carver and Carver
+Federal
+Biographical information
+for Carver’s executive officers who are not directors is set forth below. Such executive officers are officers of Carver and Carver
+Federal.
+Executive Officers
+Donald Felix, 51,
+is the Chief Executive Officer and President since November 2024. Prior to his employment with the Company and Bank, Mr. Felix
+served as Executive Vice President of Citizens Financial Group, Head of National Banking & Expansion from 2021 to 2023. Before
+that, he served as Managing Director of JPMorgan Chase, in the Consumer Bank as Head of Consumer Financial Health from 2019 to 2021.
+At Chase, he was also the Chief of Staff in the Office of the CEO, for Chase Consumer Bank & Wealth Management, from 2016 to
+2019, and before joining Chase held various senior positions domestically and abroad at Citi from 1996 to 2016.
+3
+Christina L. Maier,
+70, is First Senior Vice President and Chief Financial Officer since March 2016. Prior to joining Carver, Ms. Maier served
+as Executive Vice President and Chief Financial Officer of Patriot National Bancorp, Inc. from 2013 through March 2016. Prior
+to her time with Patriot National Bancorp, Inc., Ms. Maier spent over a decade in leadership positions at other financial institutions,
+including Brown Brothers Harriman, Provident New York Bancorp and Hudson United Bancorp. Ms. Maier earned an M.B.A. in Finance from
+St. Thomas Aquinas College and a B.S. in Accounting from Fairleigh Dickinson University.
+Marc
+S. Winkler, 69, is Senior Vice President and Chief Administrative Officer since April 2023. Prior to his current position, Mr. Winkler
+was Senior Vice President and Chief Strategy Officer beginning in January 2022. Prior to joining Carver, Mr. Winkler was an
+Independent Consultant at Princeton Partners FSG from 2019 through January 2022, engaging in net worth restoration planning, strategic
+planning and asset liability advisory. From 2015 until 2019, Mr. Winkler worked as a consultant for the P&G Group, which included
+P&G Associates and GRC Risk Solutions. From 2018 until 2019, he was the Director of Strategic Advisory Consulting Services for GRC
+Risk Solutions, which included managing the Sarbanes-Oxley compliance consulting practice.  Mr. Winkler also served as an Interim
+Chief Financial Officer of Severn Bancorp, Inc. in 2019 pursuant to Mr. Winkler’s consulting work with CFO Consulting
+Partners, LLC. Mr. Winkler’s consulting work in the banking industry included strategic planning, risk assessments, Sarbanes-Oxley
+compliance, internal audit function, due diligence, and merger project management. Mr. Winkler also has served in various management
+positions in banks, including President and Chief Executive Officer of Woodlands Bank in Williamsport, Pennsylvania, Asian Bank in Philadelphia,
+Pennsylvania and Twin Rivers Community Bank in Easton, Pennsylvania. Mr. Winkler earned an MBA in Finance from the Rutgers Graduate
+School of Management, and a B.A. in Political Science from the University of Cincinnati.
+Delinquent Section 16(a) Reports
+Section 16(a) of
+the Exchange Act requires Carver’s directors and executive officers, and persons who own more than ten percent of a registered
+class of Carver’s equity securities, to file reports of ownership and changes in ownership with the SEC and the NASDAQ Stock Market.
+Officers, directors and greater than ten percent stockholders are required by SEC regulation to furnish Carver with copies of all Section 16(a) forms
+they file.
+Based solely on a review
+of copies of such reports of ownership furnished to Carver, or written representations that no forms were necessary, Carver believes
+that during the last fiscal year, all filing requirements applicable to its directors, officers and greater than ten percent stockholders
+of Carver were complied with except as follows: a required Form 3 for Donald Felix and Marc
+S. Winkler and a required Form 4 for Donald Felix were not filed on a timely basis.
+Code of Ethics
+Carver has adopted a Code
+of Ethics, which applies to Carver’s directors and employees and sets forth important Company policies and procedures in conducting
+Carver’s business in a legal, ethical, and responsible manner. The Code of Ethics, including future amendments, is available free
+of charge on Carver’s website at www.carverbank.com in the Corporate Governance section of the Investor Relations webpage or
+by writing to the Corporate Secretary, Carver Bancorp, Inc., 75 West 125th Street, New York, New York 10027, or by telephoning
+(718) 230-2900. Carver intends to post on its website any waiver under the codes granted to any of its directors or executive officers.
+Clawback Policy
+In accordance with the Nasdaq
+and SEC rules under the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Company has adopted the Carver Bancorp, Inc.
+Clawback Policy (“Clawback Policy”). Under the Clawback Policy, if the Company is required to restate its financial results
+due to material noncompliance with financial reporting requirements under the securities laws, the Company will recoup any erroneously
+awarded incentive-based compensation received during the three completed fiscal years immediately preceding such restatement from the
+Company’s current and former executive officers, provided that such individuals served as executive officers at any time during
+the applicable performance period. A copy of our Clawback Policy was included by reference as Exhibit 97.1 to our Annual Report
+on Form 10-K for the year ended March 31, 2025.
+4
+Insider Trading Arrangements and Policy
+The Company maintains
+an Insider Trading Policy governing the purchase, sale, and/or other dispositions of our securities by our directors, officers and
+employees that we believe is reasonably designed to promote compliance with insider trading laws, rules and regulations, and the
+Nasdaq exchange listing standards. A copy of our Insider Trading Policy was filed as Exhibit 19 to our Annual Report on Form 10-K
+for the year ended March 31, 2025.
+Finance and Audit Committee.
+The Finance and Audit Committee
+consists of Directors Colvin W. Grannum (Chairperson), Pazel G. Jackson, Jr., and Kenneth J. Knuckles. All members have been determined
+to be independent directors. The Finance and Audit Committee’s primary duties and responsibilities are to:
+·monitor
+the integrity of Carver’s financial reporting process and systems of internal controls
+regarding finance, accounting, and legal compliance;
+·manage
+the independence and performance of Carver’s independent public auditors and internal
+auditing function;
+·monitor
+the process for adhering to laws, regulations and Carver’s Code of Ethics; and
+·provide
+an avenue of communication among the independent auditors, management, the internal auditing
+function and the Board of Directors.
+Other specific duties and
+responsibilities include reviewing Carver’s disclosure controls and procedures, internal controls, Carver’s periodic filings
+with the SEC and earnings releases; producing the required audit committee annual report for inclusion in Carver’s proxy statement;
+and overseeing complaints concerning financial matters. The Finance and Audit Committee met eleven (11) times during fiscal year 2025,
+including meetings to review Carver’s annual and quarterly financial results prior to their public issuance.
+Report of the Finance and Audit Committee
+of the Board of Directors
+This report is furnished
+by the Carver Finance and Audit Committee of the Board of Directors as required by the rules of the SEC under the Exchange Act.
+The report of the Finance and Audit Committee shall not be deemed to be incorporated by reference by any general statement incorporating
+by reference this Amendment No. 1 to the Annual Report on Form 10-K into any filing
+under the Securities Act of 1933, as amended (“Securities Act”), or the Exchange Act, except to the extent that Carver
+specifically incorporates this information by reference, and shall not otherwise be deemed to be filed under the Securities Act or the
+Exchange Act.
+The Board of Directors has
+adopted a written charter that sets forth the Finance and Audit Committee’s duties and responsibilities and reflects applicable
+rules of the NASDAQ Stock Market and SEC regulations.
+All members of the Finance
+and Audit Committee have been determined to be independent as defined in the listing requirements of the NASDAQ Stock Market. The Board
+of Directors has determined that Pazel G. Jackson, Jr., Kenneth J. Knuckles, and Colvin W. Grannum each qualify as an “audit
+committee financial expert.” The Finance and Audit Committee received the required written disclosures and letter from BDO USA,
+LLP, Carver’s independent accountants for fiscal year ended March 31, 2025, required by applicable requirements of the Public
+Company Accounting Oversight Board regarding the independent registered public accounting firm’s communications with the Audit
+Committee concerning the independent registered public accounting firm’s independence. The Finance and Audit Committee reviewed
+and discussed with Carver’s management and BDO USA, LLP the audited financial statements of Carver contained in Carver’s
+Annual Report on Form 10-K for the fiscal year ended March 31, 2025. The Finance and Audit Committee has also discussed with
+BDO USA, LLP the matters required to be discussed pursuant to the Codified Statements on Auditing Standards No. 1301, as amended
+or supplemented.
+5
+Throughout the year, the
+Finance and Audit Committee had full access to management and the independent and internal auditors for Carver. The Finance and Audit
+Committee acts only in an oversight capacity and necessarily relies on the assurances and work of Carver’s management and independent
+auditors who expressed an opinion on Carver’s annual financial statements.  Carver's management has the primary responsibility
+for the financial statements and the reporting process, including the systems of internal control.
+As part of its ongoing activities,
+the Finance and Audit Committee has:
+·reviewed and discussed with management,
+and our independent registered public accounting firm, the audited consolidated financial
+statements of Carver for the year ended March 31, 2025;
+·discussed with our independent registered
+public accounting firm the matters required to be discussed by Auditing Standard No. 1301
+Communications with Audit Committees, as amended, and as adopted by the Public Company
+Accounting Oversight Board; and
+·received and reviewed the written
+disclosures and the letter from our independent registered public accounting firm mandated
+by applicable requirements of the Public Company Accounting Oversight Board regarding the
+independent registered public accounting firm’s communications with the Finance and
+Audit Committee concerning independence, and has discussed with our independent registered
+public accounting firm its independence from Carver.
+Based on its review and discussions
+described in the immediately preceding paragraphs, the Finance and Audit Committee recommended to the Board of Directors that the audited
+financial statements included in Carver’s Annual Report on Form 10-K for the fiscal year ended March 31, 2025 be included
+in that report.
+Finance and Audit Committee of Carver
+Colvin W. Grannum (Chairman)
+Pazel G. Jackson, Jr.
+Kenneth J. Knuckles
+6
+ITEM 11.EXECUTIVE COMPENSATION.
+Summary Compensation Table at March 31, 2025
+The following table presents
+compensation information regarding Carver’s Named Executive Officers at the fiscal year ended March 31, 2025.
+Name
+and Principal
+Position
+Year Ended
+3/31
+Salary
+Bonus
+Stock
+Awards
+Option
+Awards
+Non-Equity
+Incentive Plan
+Compensation
+Change
+in Pension Value and Nonqualified Deferred Compensation Earnings
+All
+Other
+Compensation(1)
+Total
+Craig C. MacKay,
+2025
+$491,874
+—
+—
+—
+—
+—
+$2,077
+$493,951
+Former Interim President and Chief Executive Officer (2)
+2024
+$205,961
+—
+—
+—
+—
+—
+$5,538
+$211,499
+Donald Felix, President and Chief Executive Officer (3)
+2025
+$355,769
+—
+$99,999
+—
+—
+—
+—
+$455,768
+Christina L. Maier,
+2025
+$276,870
+—
+—
+—
+—
+—
+$10,487
+$287,357
+First Senior Vice President and Chief Financial Officer
+2024
+$267,152
+—
+$ 16,620
+—
+—
+—
+$5,414
+$289,186
+Marc Winkler
+2025
+$304,595
+—
+—
+—
+—
+—
+$12,184
+$316,779
+Senior Vice President and Chief
+Administrative Officer (4)
+2024
+$291,403
+—
+$16,620
+—
+—
+—
+$11,209
+$319,232
+(1)
+Except as noted, the amounts shown
+in this column reflect matching contributions made to Carver’s 401(k) Plan.  No Named Executive Officer receives
+perquisites the aggregate value of which exceeds $10,000.
+(2)
+Resigned as Interim President and Chief Executive Officer
+as of October 31, 2024.
+(3)
+Appointed President and Chief Executive Officer effective
+as of November 1, 2024.
+(4)
+Appointed Chief Administrative Officer on April 3,
+2023.
+7
+Outstanding Equity Awards at Fiscal Year End
+The following table shows equity awards outstanding
+for each of our named executive officers as of March 31, 2025.
+Option Awards
+Stock Awards
+Name
+Grant Date
+Number of Securities Underlying Unexercised Options Exercisable
+Number of Securities Underlying Unexercised Options Unexercisable
+Option Exercise Price ($)
+Option Expiration Date
+Grant Date
+Number of Shares or Units of Stock That Have Not Vested
+Market Value of Shares or Units of Stock That Have Not Vested(1) ($)
+Craig C. MacKay
+12/14/2017
+1,000
+—
+3.48
+12/14/2027
+—
+—
+—
+Donald Felix
+—
+—
+—
+—
+—
+02/27/2025
+58,139(2)
+$81,976
+Christina L. Maier
+—
+—
+—
+—
+—
+4/25/2022
+1,000(3)
+$1,410
+—
+—
+—
+—
+—
+10/26/2023
+4,000(4)
+$5,640
+Marc Winkler
+10/26/2023
+4,000(4)
+$5,640
+(1)
+Amounts shown
+are based on the fair market value of Carver common stock on March 31, 2025 of $1.41.
+(2)
+Vest on February 27,
+2026.
+(3)
+Vest over three years,
+one third in each year commencing on April 25, 2023.
+(4)
+Vest over three years,
+one third in each year commencing on October 26, 2024.
+8
+Benefit Plans
+401(k) Savings Plan. Carver
+maintains a 401(k) Savings Plan (“401(k) Plan”) with a profit-sharing feature for all eligible employees
+of Carver. Carver matched contributions to the 401(k) Plan equal to 100% of pre-tax contributions made by each employee up to a
+maximum of 4% of their pay, subject to IRS limitations. Carver suspended the matching contributions from November 2020 through December 2021.
+In January 2021, Carver reinstated the matching contributions with an increase to the match contributions to 4%. All such matching
+contributions are fully vested and non-forfeitable at all times regardless of the years of service with the Bank. Carver employees will
+be eligible to participate upon their hire date. To be eligible to enroll, the employee must be 21 years of age. Under the profit-sharing
+feature of the plan, if the Bank achieves a minimum of 70% of its fiscal year performance goal, the Compensation Committee may authorize
+a non-elective contribution to the 401(k) Plan on behalf of each eligible employee of up to 2% of the employee’s annual pay,
+subject to IRS limitations. This non-elective contribution, if made, is awarded regardless of whether the employee makes voluntary contributions
+to the 401(k) Plan. Non-elective Company contributions vest 20% each year for the first five years of employment and are fully vested
+thereafter. To be eligible for the non-elective company contribution, the employee must be 21 years of age, have completed at least one
+year of service and be employed on the last day of the plan year, currently December 31, or have terminated employment for death,
+disability or retirement. Carver did not award a non-elective contribution for the 401(k) Plan year that ended December 31,
+2022.
+Employment Agreement
+Felix Employment Agreement
+In connection with Donald
+Felix’s appointment as the President and Chief Executive Officer of the Company and Bank, the Bank entered into an employment agreement
+(the “Felix Employment Agreement”) with him effective November 1, 2024 and the key terms of the Felix Employment Agreement
+are as follows:
+The term of the Felix
+Employment Agreement is two years and the term may be extended by mutual consent.  The Felix Employment Agreement provides that
+Mr. Felix will receive an annual base salary of $700,000 and the base salary may be increased as the Board deems appropriate.
+In addition to base salary, the Felix Employment Agreement provides for, among other things, a $100,000 signing bonus, two performance
+equity grants, each with a fair market value of $100,000, with the first equity grant to be made as of the Start Date or as soon as administratively
+practicable after the Start Date and the second equity grant will be made on November 1, 2025, a minimum annual performance-based
+cash bonus opportunity of $500,000, temporary corporate housing in an amount up to $5,000 per month, and other benefit plans and arrangements
+applicable to executive employees.
+The Bank may terminate
+Mr. Felix’s employment for “cause” (as defined in the Felix Employment Agreement) at any time, in which event
+he would have no right to receive compensation or other benefits for any period after his termination of employment.
+Certain events resulting
+in Mr. Felix’s termination of employment entitle him to severance benefits.  In the event of Mr. Felix’s involuntary
+termination of employment without “cause” or in the event of a voluntary termination for “good reason” (as defined
+in the Felix Employment Agreement), Mr. Felix would become entitled to a severance payment in the form of a cash lump sum equal
+to: (x) fifty percent (50%) of Mr. Felix’s base salary; and (y) if such termination occurs after the one year anniversary
+of the Start Date, a cash lump sum payment equal to one-hundred percent (100%) of Mr. Felix’s base salary, and the average
+annual total incentive bonus earned by Mr. Felix for the three most recently completed calendar years; and, in each case, (z) the
+value of one-year’s health care costs provided Mr. Felix elects continued insurance coverage under COBRA and full vesting
+of equity awards.
+9
+In the event of Mr. Felix’s
+involuntary termination of employment for a reason other than for cause or upon his voluntary termination for good reason within six
+months prior to or within twenty-four months following a “change in control” (as defined in the Felix Employment Agreement),
+Mr. Felix would become entitled to a severance payment in the form of a cash lump sum equal to three times the sum of: (a) Mr. Felix’s
+base salary; and (b) the average annual total incentive bonus earned by Mr. Felix for three most recently completed calendar
+years prior to the change in control, or if greater, the annual total incentive bonus that would have been earned in the year of the
+change of control at target bonus opportunity and full vesting of equity awards.  In addition, Mr. Felix would be entitled
+to a cash lump sum payment equal to the value of health care costs for thirty-six months. In the event that payments to Mr. Felix
+become subject to Sections 280G and 4999 of the Code, such payments would be reduced if such reduction would leave Mr. Felix officer
+better off on an after-tax basis.
+Upon termination of Mr. Felix’s
+employment, he will be subject to certain restrictions on his ability to compete or to solicit business or employees of the Bank and
+the Company for a period of one year following his termination of employment.  The Felix Employment Agreement also includes provisions
+protecting the Company’s and Bank’s confidential business information.
+MacKay Employment Agreement
+In connection with Craig
+C. MacKay’s appointment as the Interim President and Chief Executive Officer of the Company and Bank, the Bank entered into an
+employment agreement (the “MacKay Employment Agreement”) with him effective October 1, 2023 and the key terms of the
+Employment Agreement are as follows:
+Term. The
+term of the MacKay Employment Agreement commenced on October 1, 2023 (the “Term”) and the Term will end upon the earlier
+of: (i) the date the Board of Directors appoints a permanent President and Chief Executive Officer of the Company and Bank, (ii) Mr. MacKay
+provides written notice to the Bank that the Term will expire at the end of the month in which the notice of expiration is delivered
+to the Bank, or (iii) April 1, 2024 provided that the Bank delivers a notice of expiration to Mr. MacKay no later than
+March 1, 2024.  On October 31, 2024, Mr. MacKay resigned as Interim President and Chief Executive Officer of the
+Company and the Bank.
+Cash Compensation.
+Mr. MacKay’s annual base salary was $450,000, and Mr. MacKay may receive a bonus at the discretion of the Board of Directors
+or the Compensation Committee.
+Equity Grant.
+No later than five days after the last day of the Term (the “Grant Date”), Mr. MacKay will receive a grant of Company
+stock equal to the product of (i) 42,553 and (ii) a fraction, the numerator of which is the total number of months (including
+partial months) in the Term and the denominator of which is 12.  The award will be one-hundred percent (100%) vested as of the Grant
+Date.
+Benefits. Mr. MacKay
+will be entitled to participate in all employee benefit plans, arrangements and perquisites offered to senior management of the Bank,
+on terms and conditions no less favorable than the plans, arrangements and perquisites available to other members of senior management
+of the Bank.
+Termination without
+Cause or for Good Reason following a Change in Control.  In the event of a change in control of the Bank or the Company, followed
+by Mr. MacKay’s termination of employment without “cause” or with “good reason,” Mr. MacKay
+would be entitled to a severance payment in the form of a cash lump sum equal to three times the sum of: (i) Mr. MacKay’s
+base salary at the date of termination (or Mr. MacKay’s base salary in effect during any of the  prior three years, if
+higher); and (ii) the average annual total incentive bonus earned by Mr. MacKay for three most recently completed calendar
+years prior to the change control, or if greater, the annual total incentive bonus that would have been earned in the year of the change
+of control at target bonus opportunity.  In addition, Mr. MacKay would be entitled to a cash lump sum payment equal to the
+value of health care costs for thirty-six  months.  The definitions of “cause” and “good reason”
+are set forth in the Employment Agreement.  In the event that payments to Mr. MacKay become subject to Sections 280G and
+4999 of the Code, such payments would be reduced if such reduction would leave him better off on an after-tax basis.
+10
+Restrictive Covenants.
+The MacKay Employment Agreement also provides non-competition and non-solicitation restrictions during the term of employment and for
+generally one year thereafter, and confidentiality during the term of employment and surviving the end of the term of employment.
+Director Compensation
+Carver’s directors are paid an annual cash
+retainer of $20,000 to serve as a Director of both Carver and Carver Federal and receive a meeting fee of $1,000 for Board Meetings attended.
+The chairs of the Asset Liability and Interest Rate Risk and Finance and Audit committees receive an annual retainer of $8,000 and a
+meeting fee of $800. The chairs of the remaining committees receive an annual retainer of $4,000. The committee members of the
+Compensation, Institutional Strategy and Nominating and Corporate Governance, including the chairs thereof receive $600 per committee
+meeting attended. The Non-Executive Chairperson is paid a quarterly cash retainer of $17,500 ($70,000 per year) to serve as Chairperson
+of both Carver and Carver Federal and does not receive a meeting fee for Board Meetings attended. As chair of the Compliance Committee,
+he also receives an annual retainer of $8,000. Upon shareholder approval of new directors, the Compensation Committee may approve a grant
+of 1,000 shares of restricted stock and 1,000 stock options, which vest pursuant to Carver’s incentive plan in effect at the time
+of the grant.
+11
+The following table sets
+forth information regarding compensation earned by the non-employee directors of Carver during the fiscal year ended March 31, 2025.
+Director Compensation at March 31, 2025
+Change in
+pension
+Fees
+value and
+earned
+Non-equity
+nonqualified
+or paid
+Stock
+Option
+incentive plan
+deferred
+All other
+in cash
+awards
+awards
+compensation
+compensation
+compensation
+Total
+Name
+($)
+($)
+(S)
+($)
+earnings
+($)
+($)
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+Pazel G. Jackson, Jr.
+$64,900
+—
+—
+—
+—
+—
+$64,900
+Robin L. Nunn
+$41,900
+—
+—
+—
+—
+—
+$41,900
+Lewis P. Jones III
+$78,000
+—
+—
+—
+—
+—
+$78,000
+Colvin W. Grannum
+$64,000
+—
+—
+—
+—
+—
+$64,000
+Kenneth J. Knuckles
+$51,200
+—
+—
+—
+—
+—
+$51,200
+Craig C. MacKay (1)
+$10,400
+—
+—
+—
+—
+—
+$10,400
+Jillian E. Joseph
+$40,400
+—
+—
+—
+—
+—
+$40,400
+(1)Mr. MacKay was a non-employee director until his appointment as
+Interim President and Chief Executive Officer on October 1, 2023. Following his appointment
+as Interim President and Chief Executive Officer, Mr. MacKay did not receive any additional
+compensation for service on our Board or Carver Federal’s Board. Mr. MacKay resigned
+as Interim President and Chief Executive Officer on October 31, 2024.
+12
+Securities Authorized for Issuance Under Equity Compensation Plans
+The following table sets forth information about
+the shares of Voting Stock authorized by Carver for issuance under equity compensation plans as of March 31, 2025.
+Plan
+Category
+Number of securities to be issued upon exercise of Outstanding options, warrants and Rights
+Weighted- average exercise price of outstanding options, warrants and rights
+Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a))
+Equity compensation plans approved by security holders (1)
+6,267
+$5.27
+291,861
+Equity compensation plans not approved by security holders
+—
+—
+—
+Total
+6,267
+$5.27
+291,861
+(1)            Note:
+Shares have been adjusted to reflect Carver’s 1-for-15 reverse stock split, effective October 27, 2011.
+ITEM 12.SECURITY OWNERSHIP OF CERTAIN
+BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+Security ownership of certain beneficial
+owners.
+The following table sets
+forth, as of July 23, 2025, certain information as to shares of Voting Stock beneficially owned by persons owning in excess of
+5% of any class of Carver’s outstanding Voting Stock. Carver knows of no person, except as listed below, who beneficially
+owned more than 5% of any class of the outstanding shares of Carver’s Voting Stock as of July 23, 2025. Except as
+otherwise indicated, the information provided in the following table was obtained from filings with the Securities and Exchange
+Commission (“SEC”) and with Carver pursuant to the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”). Addresses provided are those listed in the filings as the address of the person authorized to
+receive notices and communications. Except as otherwise indicated, each person and each group shown in the table has sole voting and
+investment power with respect to the shares of Voting Stock indicated and none of the shares are pledged as security. Percentages
+with respect to each person or group of persons have been calculated on the basis of 5,283,564 shares of Common Stock outstanding as
+of July 23, 2025, plus the number of shares of common stock which such person or group has the right to acquire within 60 days
+after July 23, 2025 by the exercise of stock options.
+Stock Ownership of Certain Beneficial Owners
+Name and Address of Beneficial Owners
+Amount of Shares Owned and Nature of Beneficial Ownership (1)
+Percent of Shares of Common Stock Outstanding
+5% Beneficial Stockholders
+Dream Chasers Capital Group LLC 26 Broadway, 8th Floor New York, New York 10004
+409,774
+(1)
+7.76%
+National Community Investment Fund 135 South LaSalle Street, Suite 3025 Chicago, IL 60603
+399,821
+(2)
+7.57%
+(1)Based on a Schedule 13D filed on December 12,
+2024.
+(2)Based on a Schedule 13G filed on July 21,
+2023.
+13
+Stock Ownership of Management
+Name
+Title
+Amount and Nature of Beneficial Ownership of Common Stock (1)
+Percent of Common Stock Outstanding
+Lewis P. Jones III
+Chairperson of the Board
+1,500
+*
+Pazel G. Jackson, Jr.
+Director
+15,308
+*
+Colvin W. Grannum
+Director
+14,716
+*
+Kenneth J. Knuckles
+Director
+10,982
+*
+Craig C. MacKay
+Director
+65,880
+1.25%
+Jillian E. Joseph
+Director
+2,000
+*
+Robin L. Nunn
+Director
+1,000
+*
+Christina L. Maier
+First Senior Vice President and Chief Financial Officer
+13,000
+*
+Marc S. Winkler
+Senior Vice President and Chief Administrative Officer
+6,000
+*
+Donald Felix
+President and Chief Financial Officer
+85,085
+1.61%
+All directors and other executive officers as a group (10
+persons)
+215,471
+4.09%
+*Less than 1% of outstanding Common Stock.
+(1)Amounts of equity securities shown include
+shares of common stock subject to options exercisable within 60 days as follows: Mr. Jones
+– 1,000; Mr. Grannum – 1,000; Mr. Knuckles – 1,000; Mr. McKay
+– 1,000; Ms. Joseph – 1,000; all officers and directors as a group –
+4,667.
+ITEM 13.CERTAIN RELATIONSHIPS AND
+RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE.
+Transactions with Certain Related Persons
+Applicable law requires that
+all loans or extensions of credit to executive officers and directors must be made on substantially the same terms, including interest
+rates and collateral, as those prevailing at the time for comparable transactions with the general public and must not involve more than
+the normal risk of repayment or present other unfavorable features. Carver Federal offers loans to its directors, officers and employees,
+which loans are made in the ordinary course of business and are not made with more favorable terms nor do they involve more than the
+normal risk of collectability or present unfavorable features. Furthermore, loans above the greater of $25,000, or 5% of Carver Federal’s
+capital and surplus (up to $500,000), to Carver Federal’s directors and executive officers must be approved in advance by a majority
+of the disinterested members of Carver Federal’s Board of Directors. As of the date of this document, neither Carver nor Carver
+Federal had any outstanding loans or extensions of credit to any of its executive officers or directors.
+Director Independence
+The Board of Directors has determined that each
+of non-management directors is independent according to the Board’s independence standards as set out in its Bylaws, Corporate
+Governance Principles, applicable rules of the SEC and the rules of the NASDAQ Stock Market. They are Robin L. Nunn, Lewis
+P. Jones III, Colvin W. Grannum, Kenneth J. Knuckles, Pazel G. Jackson, Jr. and Jillian E. Joseph. Mr. MacKay will not be considered
+an independent director during his tenure as Interim President and Chief Executive Officer.
+14
+ITEM 14.PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+General
+Carver’s independent registered public accounting
+firm for the year ended March 31, 2025 was BDO USA, LLP, New York, New York, PCAOB ID: 243.
+Audit Fees
+BDO USA, LLP’s billed audit fees for the
+fiscal years ended March 31, 2025 and March 31, 2024 were $398,000 and $372,000, respectively.
+Audit-Related Fees
+Carver’s audit-related fees during the fiscal
+years ended March 31, 2025 and March 31, 2024 were $92,580 and $88,140, respectively.
+Tax Fees
+Carver’s incurred tax fees during the fiscal
+years ended March 31, 2025 and March 31, 2024 were $38,850 and $35,665, respectively.
+All Other Fees
+Carver did not engage its current principal accountant
+to render services during the last two fiscal years, other than as reported above.
+Pre-Approval Policy for Services by Independent
+Auditors
+During fiscal year 2025,
+the Finance and Audit Committee of Carver’s Board of Directors pre-approved the engagement of BDO USA, LLP to provide non-audit
+services and considered whether, and determined that, the provision of such other services by BDO USA, LLP is compatible with maintaining
+BDO USA, LLP’s independence.
+The Finance and Audit Committee
+has a policy to pre-approve all audit and permissible non-audit services provided by the Company’s independent auditor consistent
+with applicable SEC rules. Under the policy, prior to the engagement of the independent auditors for the next year’s audit, management
+submits an aggregate of services expected to be rendered during that year for each of the four categories of services described above
+to the Finance and Audit Committee for approval. Prior to engagement, the Finance and Audit Committee pre-approves these services by
+category of service. The fees are budgeted and the Finance and Audit Committee will receive periodic reports from management on actual
+fees versus the budget by category of service. During the year, circumstances may arise when it may become necessary to engage the independent
+auditors for additional services not contemplated in the pre-approval. In those instances, the Finance and Audit Committee requires specific
+pre-approval before engaging the independent auditor.
+The Finance and Audit Committee
+has delegated pre-approval authority, subject to certain limits, to the chairman of the Finance and Audit Committee. The chairman is
+required to report, for informational purposes, any pre-approval decisions to the Finance and Audit Committee at its next regularly scheduled
+meeting.
+15
+PART IV
+ITEM 15.EXHIBITS, FINANCIAL STATEMENT SCHEDULES.
+(a)(iii) Exhibits.
+See below. Each management contract or compensatory plan or arrangement required to be filed has been identified.
+31.1
+Certification of Principal
+Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification of Principal
+Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+104
+Cover Page Interactive Data File (embedded in the cover page formatted in Inline XBRL)
+ITEM 16.FORM 10-K SUMMARY.
+None.
+16
+SIGNATURES
+Pursuant to the requirements of Section 13
+or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+CARVER
+BANCORP, INC.
+July 29,
+2025
+By
+/s/
+Donald Felix
+Donald
+Felix
+President
+and Chief Executive Officer
+17

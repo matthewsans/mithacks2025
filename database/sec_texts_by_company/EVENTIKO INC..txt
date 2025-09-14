@@ -1,0 +1,1340 @@
+EVENTIKO INC. 10-K
+false
+2025
+FY
+0001816554
+0
+0
+0001816554
+2024-05-01
+2025-04-30
+0001816554
+2025-04-30
+0001816554
+2024-10-31
+0001816554
+2023-05-01
+2024-04-30
+0001816554
+2025-02-01
+2025-04-30
+0001816554
+2024-04-30
+0001816554
+us-gaap:CommonStockMember
+2021-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2021-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2021-04-30
+0001816554
+2021-04-30
+0001816554
+us-gaap:CommonStockMember
+2022-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2022-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2022-04-30
+0001816554
+2022-04-30
+0001816554
+us-gaap:CommonStockMember
+2023-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2023-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2023-04-30
+0001816554
+2023-04-30
+0001816554
+us-gaap:CommonStockMember
+2024-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2024-04-30
+0001816554
+us-gaap:CommonStockMember
+2021-05-01
+2022-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2021-05-01
+2022-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2021-05-01
+2022-04-30
+0001816554
+2021-05-01
+2022-04-30
+0001816554
+us-gaap:CommonStockMember
+2022-05-01
+2023-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2022-05-01
+2023-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2022-05-01
+2023-04-30
+0001816554
+2022-05-01
+2023-04-30
+0001816554
+us-gaap:CommonStockMember
+2023-05-01
+2024-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2023-05-01
+2024-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2023-05-01
+2024-04-30
+0001816554
+us-gaap:CommonStockMember
+2024-05-01
+2025-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2024-05-01
+2025-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2024-05-01
+2025-04-30
+0001816554
+us-gaap:CommonStockMember
+2025-04-30
+0001816554
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-30
+0001816554
+us-gaap:RetainedEarningsMember
+2025-04-30
+0001816554
+srt:DirectorMember
+2025-04-30
+0001816554
+srt:DirectorMember
+2020-02-20
+2020-02-21
+0001816554
+EVTK:FourShareholdersMember
+2021-10-01
+2021-10-31
+0001816554
+EVTK:ThirtyShareholdersMember
+2020-11-01
+2021-01-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+Table of Contents
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+Mark One
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+For the fiscal year ended April 30, 2025
+☐ TRANSITION REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ______ to _______
+Commission File No. 333-239589
+EVENTIKO INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+(State or Other Jurisdiction of
+Incorporation or Organization)
+7990
+(Primary Standard Industrial
+Classification Number)
+EIN 98-1535709
+(IRS Employer
+Identification Number)
+1445 Woodmont Ln NW, #2639 Atlanta, GA 30318
+404-549-4542
+eventikoinc@zohomail.com
+(Address and telephone number of principal executive
+offices)
+Securities registered pursuant to Section 12(b)
+of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+N/A
+N/A
+N/A
+Securities registered pursuant to section 12(g) of the Act: None
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  ☐    No  ☒
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes  ☐    No  ☒
+Indicate by checkmark whether the issuer: (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☒ No ☐
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files).
+Yes ☒ No ☐
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company.
+See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and
+“emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer ☒
+Smaller reporting company ☒
+Emerging Growth Company ☒
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. Yes ☐  No ☒
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. Indicate by check mark whether the
+registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by checkmark whether the registrant is
+a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes ☐ No ☒
+Indicate by checkmark whether the issuer has filed
+all documents and reports required to be filed by Section 12, 13 and 15(d) of the Securities Exchange Act of 1934 after the distribution
+of securities under a plan confirmed by a court.
+Yes ☒ No☐
+Class
+Outstanding as of April 30, 2025
+Common Stock: $0.0001
+4,192,500
+The aggregate market value of the voting and non-voting
+stock held by non-affiliates of the registrant as of the last business day of the registrants most recently completed second fiscal quarter,
+based on the price at which the common equity was last sold on the OTC Markets on October 31, 2024 was approximately $0. For purposes
+of this computation only, all officers, directors and 10% or greater stockholders of the registrant are deemed to be “affiliates.”
+TABLE OF CONTENTS
+PART 1
+ITEM 1
+Description of Business
+4
+ITEM 1A
+Risk Factors
+4
+ITEM 1B
+Unresolved Staff comments
+4
+ITEM 1C
+Cybersecurity
+4
+ITEM 2
+Properties
+5
+ITEM 3
+Legal Proceedings
+5
+ITEM 4
+Mine Safety Disclosures
+5
+PART II
+ITEM 5
+Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities
+6
+ITEM 6
+(Reserved)
+6
+ITEM 7
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+6
+ITEM 7A
+Quantitative and Qualitative Disclosures about Market Risk
+8
+ITEM 8
+Financial Statements and Supplementary Data
+8
+ITEM 9
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure
+8
+ITEM 9A
+Controls and Procedures
+9
+ITEM 9B
+Other Information
+10
+ITEM 9C
+Disclosure Regarding foreign Jurisdictions that Prevent Inspections
+10
+PART III
+ITEM 10
+Directors, Executive Officers, Promoters and Control Persons of the Company
+11
+ITEM 11
+Executive Compensation
+12
+ITEM 12
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+12
+ITEM 13
+Certain Relationships and Related Transactions
+13
+ITEM 14
+Principal Accountant Fees and Services
+13
+PART IV
+ITEM 15
+Exhibits
+14
+ITEM 16
+Form 10-K Summary
+14
+2
+FORWARD-LOOKING STATEMENTS
+This annual report contains forward-looking statements.
+These statements relate to future events or our future financial performance. These statements often can be identified by the use of terms
+such as "may," "will," "expect," "believe," "anticipate," "estimate," "approximate"
+or "continue," or the negative thereof. We intend that such forward-looking statements be subject to the safe harbors for such
+statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which speak only as of the
+date made. Any forward-looking statements represent management's best judgment as to what may occur in the future. However, forward-looking
+statements are subject to risks, uncertainties and important factors beyond our control that could cause actual results and events to
+differ materially from historical results of operations and events and those presently anticipated or projected. We disclaim any obligation
+subsequently to revise any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect
+the occurrence of anticipated or unanticipated events.
+3
+PART I
+Item 1. Description of Business
+GENERAL INFORMATION ABOUT OUR COMPANY
+We were incorporated in the State of Nevada on
+February 19, 2020 (Inception). We maintain our statutory registered agent’s office at 3773 Howard Hughes Pkwy – Suite 500s,
+Las Vegas, NV 89169-6014. Our principal executive offices are located 1445 Woodmont Ln NW, #2639 Atlanta, GA 30318. Our phone number is
+404-549-4542.
+On 6th March 2024, Eventiko Inc (the “Company”) announced
+the beta launch of AiHire, its entry into the online recruitment software space. AiHire’s website is located at www.Aihire-company.com.
+The Company’s new management team hopes to leverage on the
+growing recruitment market and the rising demand for hiring services with the launch of AiHire. With AiHire, prospective recruiters
+can control the hiring process from a single dashboard. Services such as applicant tracking, jobs and teams, management, interview
+scheduling, candidate hiring can be accessed. AiHire incorporates Artificial Intelligence technology, and takes advantage of machine
+learning and natural language processing to assist recruiters in the hiring and onboarding processes.
+The Company hopes that the launch of AiHire will allow it to gain market
+share in the growing online recruitment space.
+OUR SERVICES
+The Company’s new management team hopes to leverage on the
+growing recruitment market and the rising demand for hiring services with the launch of AiHire. With AiHire, prospective recruiters
+can control the hiring process from a single dashboard. Services such as applicant tracking, jobs and teams, management, interview
+scheduling, candidate hiring can be accessed. AiHire incorporates Artificial Intelligence technology and takes advantage of machine
+learning and natural language processing to assist recruiters in the hiring and onboarding processes.
+EMPLOYEES
+We have no employees other than our sole
+officer and director, Yap Chin Liang.
+GOVERNMENT REGULATIONS IN THAILAND
+We will be subject to applicable laws and regulations
+that relate directly or indirectly to our operations including United States securities laws. We will be required to comply with all regulations,
+rules and directives of governmental authorities and agencies in Thailand.
+Item 1.A. Risk Factors.
+Not required for Smaller reporting companies.
+Item 1.B. Unresolved Staff Comments.
+Not required for Smaller reporting companies.
+4
+Item 1.C. Cybersecurity
+Risk Management and Strategy
+Currently, the only cybersecurity risk is from the use of websites
+associated with the Company. All hosting and hosting related services of these websites are engaged via reputable companies such as Namecheap,
+Godaddy and Cloudflare.
+These aforementioned companies utilize the latest industrial standards
+for security and data protection. Safeguards include continuous server monitoring, server and infrastructure security configuration consistently
+applied across all servers, firewall protection, anti-malware protection, a dedicated internal security team, applied Open Worldwide Application
+Security Project secure coding practices, and regular data backups.
+Item 2. Properties.
+Currently we do not own any property. We maintain
+our statutory registered agent’s office at 3773 Howard Hughes Pkwy – Suite 500s, Las Vegas, NV 89169-6014. Our principal place
+of business is located 1445 Woodmont Ln NW, #2639 Atlanta, GA 30318; which is provided to us on a rent-free basis by our sole officer
+and director. Our phone number is 404-549-4542.
+Item 3. Legal Proceedings.
+We are not currently a party to any legal proceedings,
+and we are not aware of any pending or potential legal actions.
+Item 4. Mine Safety Disclosures.
+Not Applicable.
+5
+PART II
+Item 5. Market for Registrant’s Common
+Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities.
+The company stock is not trading at the moment.
+Registered Holders of our Common Stock
+As of April 30, 2025, there were approximately
+35 record owners of our common stock.
+Dividends
+The Company has never declared or paid cash dividends
+on its common stock and does not anticipate paying cash dividends in the foreseeable future.
+Recent Sales of Unregistered Securities
+During our fiscal years ended April 30, 2025 and
+2024, we had no sales of unregistered shares.
+Issuer Purchases of Equity Securities
+During the fiscal year ended April 30, 2025, and
+2025 the Company did not repurchase any shares of its Common Stock.
+Stock Transfer Agent
+Our stock transfer agent is George Johnson, Securities
+Stock Transfer, 2901 Dallas Parkway #380, Plano, TX 75093, 469.633.0101 www.stctransfer.com
+Item 6. [Reserved]
+Item 7. Management’s Discussion and Analysis
+of Financial Condition and Results of Operations
+We are a development stage corporation with limited
+operations and revenues from our business operations. Our auditors have issued a going concern opinion. This means that our auditors believe
+there is substantial doubt that we can continue as an on-going business for the next twelve months. We do not anticipate that we will
+generate significant revenues until we have raised the funds necessary to conduct a marketing program. There is no assurance we will ever
+generate significant revenue even if we raised all necessary funds.
+6
+PLAN OF OPERATION
+FISCAL YEAR ENDED APRIL 30, 2025 COMPARED TO FISCAL
+YEAR ENDED APRIL 30, 2024.
+Our net loss for the fiscal year ended April 30,
+2025 was $23,867 compared to a net loss of 14,260 during the fiscal year ended April 30, 2024. In April 30, 2025 we generated total revenue
+of $0 and in April 30, 2024, we generated total revenue of $0.
+The number of shares outstanding was 4,192,500
+for the fiscal year ended April 30, 2025 and for the fiscal year ended April 30, 2024.
+LIQUIDITY AND CAPITAL RESOURCES
+FISCAL YEAR ENDED April 30, 2025 and 2024
+As of April 30, 2025, our total assets were $NIL
+due to the change of control.
+As of April 30, 2024, our total assets were $NIL
+due to the change of control.
+Cash Flows from Operating Activities
+We generated a negative cash flow from operating
+activities for the fiscal year ending April 30, 2025, net cash flow was ($23,867) We have generated positive cash flows from operating
+activities for the fiscal year ended April 30, 2024, net cash flows used in operating activities was ($14,260).
+Cash Flows from Investing Activities
+We have not generated positive cash flows from
+investing activities for the fiscal year ended April 30, 2025, net cash flows used in investing activities was $23,867. We have not generated
+positive cash flows from investing activities for the fiscal year ended April 30, 2024, net cash flows used in investing activities was
+$18,485.
+Cash Flows from Financing Activities
+We have financed our operations primarily from
+either advances from our sole executive or the issuance of equity. For the fiscal year ended April 30, 2025, net cash provided by financing
+activities was $23,867 consisting of director loan. For the fiscal year ended April 30, 2024, net cash provided by financing activities
+was $14,260 consisting of director loan.
+OFF-BALANCE SHEET ARRANGEMENTS
+We have no off-balance sheet arrangements that
+have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity, capital expenditures or capital resources.
+7
+GOING CONCERN
+There is no historical financial information about
+us upon which to base an evaluation of our performance. We are in start-up stage operations and have not generated any revenues. We cannot
+guarantee we will be successful in our business operations. Our business is subject to risks inherent in the establishment of a new business
+enterprise, including limited capital resources and possible cost overruns due to price and cost increases in services and products.
+We have no assurance that future financing will
+be available to us on acceptable terms. If financing is not available on satisfactory terms, we may be unable to continue, develop or
+expand our operations. Equity financing could result in additional dilution to existing shareholders.
+The extent of the impact of the coronavirus (“COVID-19”)
+outbreak on the financial performance of the Company will depend on future developments, including the duration and spread of the outbreak
+and related advisories and restrictions and the impact of COVID-19 on the overall economy, all of which are highly uncertain and cannot
+be predicted. If the overall economy is impacted for an extended period, the Company’s future operating results may be materially
+adversely affected.
+Critical Accounting Policies
+The discussion and analysis of our financial condition
+and results of operations are based upon our financial statements, which have been prepared in accordance with the accounting principles
+generally accepted in the United States of America. Preparing financial statements requires management to make estimates and assumptions
+that affect the reported amounts of assets, liabilities, and expenses. These estimates and assumptions are affected by management’s
+application of accounting policies. We believe that understanding the basis and nature of the estimates and assumptions involved with
+the following aspects of our financial statements is critical to an understanding of our financial statements.
+Use of Estimates
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements. The estimates and judgments will also affect the reported amounts for certain expenses during the reporting period. Actual
+results could differ from these good faith estimates and judgments.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+Not applicable to smaller reporting companies.
+Item 8. Financial Statements and Supplementary Data
+The Company’s Financial Statements required
+by Item 8, together with the reports thereon of the Independent Registered Public Accounting Firm are set forth on pages F-1 through F-9
+of this report and are incorporated by reference in this Item 8.
+Item 9. Changes in and Disagreements with Accounting
+and Financial Disclosures.
+None.
+8
+Item 9A. Controls and Procedures.
+Disclosure Controls and Procedures
+Disclosure controls and procedures are designed
+to ensure that information required to be disclosed in the reports filed or submitted under the Exchange Act is recorded, processed, summarized
+and reported, within the time period specified in the SEC’s rules and forms, and that such information is accumulated and communicated
+to management, including the CEO and CFO, as appropriate, to allow timely decisions regarding required disclosures. Our management necessarily
+applied its judgment in assessing the costs and benefits of such controls and procedures, which, by their nature, can provide only reasonable
+assurance regarding management’s control objectives.
+Our management, with the participation of our
+CEO, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered
+by this Report. Based upon this evaluation, our CEO concluded that our disclosure controls and procedures were not effective because of
+the identification of a material weakness in our internal control over financial reporting which is described below.
+Management’s Report on Internal Control
+Over Financial Reporting
+Our management is responsible for establishing
+and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Rule 13a-15(f). Our internal control
+over financial reporting is a process designed to provide reasonable assurance to our management and board of directors regarding the
+reliability of financial reporting and the preparation of the financial statements for external purposes in accordance with U.S. GAAP.
+Our internal control over financial reporting
+includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly
+reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions are recorded as necessary
+to permit preparation of financial statements in accordance with U.S. GAAP and our receipts and expenditures are being made only in accordance
+with authorizations of our management and directors; and (iii) provide reasonable assurance regarding prevention or timely detection of
+unauthorized acquisition, use, or disposition of our assets that could have a material effect on our consolidated financial statements.
+Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. All internal control systems, no matter how well designed, have
+inherent limitations, including the possibility of human error and the circumvention of overriding controls. Accordingly, even effective
+internal control over financial reporting can provide only reasonable assurance with respect to financial statement preparation. Also,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of
+changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Our management assessed the effectiveness of our
+internal control over financial reporting as of April 30, 2025. In making this assessment, it used the criteria set forth by the Committee
+of Sponsoring Organizations of the Tread way Commission (“COSO”) in Internal Control-Integrated Framework (2013). Based on
+this evaluation, management concluded that that our internal control over financial reporting was not effective as of April 30, 2025.
+Our CEO concluded we have a material weakness due to lack of segregation of duties, a limited corporate governance structure, and a lack
+of a formal management review process over preparation of financial information. A material weakness is a deficiency, or a combination
+of control deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement
+of our annual or interim financial statements will not be prevented or detected on a timely basis.
+9
+Our size has prevented us from being able to employ
+sufficient resources to enable us to have an adequate level of supervision and segregation of duties within our system of internal control.
+Therefore, while there are some compensating controls in place, it is difficult to ensure effective segregation of accounting and financial
+reporting duties. Management reported the following material weaknesses:
+·
+Lack of segregation of duties in certain accounting and financial reporting processes including the initiation, processing, recording and approval of disbursements;
+·
+Our corporate governance responsibilities are performed by the Board of Directors, none of whom are independent under applicable standards; we do not have an audit committee or compensation committee. Our Board of Directors acts primarily by written consent without meetings which results in several of our corporate governance functions not being performed concurrent (or timely) with the underlying transactions, including evaluation of the application of accounting principles and disclosures relating to those transactions; and
+·
+Certain reports that we prepare, and accounting and reporting conclusions reached in connection with the financial statement preparation process are not subjected to a formal review process that includes multiple levels of review and are not submitted timely to the Board of Directors for review or approval.
+While we strive to segregate duties as much as
+practicable, there is an insufficient volume of transactions at this point in time to justify additional full-time staff. We believe that
+this is typical in many development stage companies. We may not be able to fully remediate the material weakness until we commence operations
+at which time, we would expect to hire more staff. We will continue to monitor and assess the costs and benefits of additional staffing.
+This Annual Report does not include an attestation
+report of our registered public accounting firm regarding internal control over financial reporting. Management’s report was not
+subject to attestation by our registered public accounting firm pursuant to the SEC rules that permit us to provide only management’s
+report in this Annual Report.
+Changes in Internal Control Over Financial
+Reporting
+There were no changes in our internal control
+over financial reporting that occurred during the year ended April 30, 2025, that has materially affected, or is reasonably likely to
+materially affect, our internal control over financial reporting.
+Item 9B. Other Information.
+During the quarter ended April 30, 2025,
+no director or officer adopted or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as each
+term is defined in Item 408(a) of Regulation S-K.
+We do not maintain insider trading policies and procedures
+governing the purchase, sale, and/or other dispositions of our securities by our directors, officers, and employees that we believe are
+reasonably designed to promote compliance with insider trading laws, rules, and regulations applicable to us. We have failed to do so
+due to limited number of members of management, limited resources, and the lack of equity awards granted to management. We intend to adopt
+an insider trading policy by the end of 2026.
+Item 9C. Disclosures Regarding Foreign Jurisdictions
+that Prevent Inspections.
+Not Applicable.
+10
+PART III
+Item 10. Directors, Executive Officers, and
+Corporate Governance.
+The board of directors elects our executive officers
+annually. A majority vote of the directors who are in office is required to fill vacancies. Each director is elected for the term of one
+year, and until his or her successor is elected and qualified, or until his earlier resignation or removal. The name, address, age and
+position of our officers and directors are as follows:
+Name and Address of Executive
+Officer and/or Director
+Age
+Position
+Yap Chin Liang
+1445 Woodmont Ln NW, #2639 Atlanta, GA 30318
+47
+President, Secretary, Treasurer and Director
+Thaw Tran
+1445 Woodmont Ln NW, #2639 Atlanta, GA 30318
+39
+Director
+Eduardo A Lopez
+1445 Woodmont Ln NW, #2639 Atlanta, GA 30318
+40
+Director
+The person named above has held his offices/positions
+since March 4, 2024 of our Company and is expected to hold said offices/positions until the next annual meeting of our stockholders.
+Resume
+Chief Executive Officer and Director – Yap Chin Liang
+Mr. Yap, 47 years old, most recently served as
+Operations Director at Suria Software Ltd before leaving in 2020 to open his own consulting firm. Mr Yap obtained his Bachelor’s
+degree in Business Studies from Darul Terengganu Universiti.
+Director – Thaw Tran
+Mr. Tran, 39 years old, will serve as a
+member of the Company’s Board of Directors. Mr Tran is a senior full-stack engineer at Australian car-sharing application
+UberCarShare.com. Prior to working at UberCarShare.com, Mr Tran was employed as senior full-stack engineer at SaaS company
+Designfiles and freelance development portal Glolent. Mr Tran is also the sole founder of digital marketing tool Tagon, and has
+extensive experience with database technologies MySQL, PostgreSQL and MongoDB, as well as multiple current programming languages
+including Python. Mr Tran was educated at the Hanoi University of Technology.
+Director – Eduardo A Lopez
+Mr. Lopez, 40 years old, will serve as a member
+of the Company’s Board of Directors. Mr Lopez is Software Development Team Leader at website design and development company Creativ
+Digital. Prior to this appointment, Mr Lopez served as Operations Head at software services company Ibial Ltd, concurrently serving as
+Senior Developer. He also served as Chief Information Officer at marketing firm Naxum, and as Lead PHP Developer at Siggway Higgs Group.
+Mr Lopez has extensive experience with both the operational and administration aspects of Technology businesses, and is well-versed with
+languages such as PHP/ Java / Perl / Python / MYSQL / MSSQL / DB2. He obtained his college education at the Systems Technology Institute
+in Cebu City
+Delinquent Section 16(a) Reports
+Our common stock is not registered pursuant to
+Section 12 of the Exchange Act of 1934, as amended (the “Exchange Act”). Accordingly, our officers, directors and principal
+stockholders are not subject to the beneficial ownership reporting requirements of Section 16(a) of the Exchange Act.
+11
+Code of Business Conduct
+We have not adopted a Code of Business Conduct
+within the meaning of Item 406(b) of Regulation S-K.
+Board Committees
+We do not have any Board Committees.
+Granting of Certain Equity Awards Close in Time to the Release
+of Material Nonpublic Information
+The Company does not have any policies or practices on the timing of
+awards of options in relation to the disclosure of material nonpublic information by the Company.
+Item 11. Executive Compensation.
+The table below summarizes the total compensation
+earned by each of our named executive Officers (“NEOs”) for each of the fiscal years listed.
+SUMMARY COMPENSATION TABLE
+Name
+Position
+Year
+Salary ($)
+Bonus ($)
+Stock
+Awards ($)
+Option Awards ($)
+Non-Equity Incentive Plan Compensation ($)
+All Other Compensation
+Total Compensation ($)
+Yap Chin Ling(1)
+CEO
+2024
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+Yap Chin Ling(1)
+CEO
+2024
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+-0-
+(1) Mr. Yap Chin Ling was elected as an officer
+and director on March 4, 2024 and his election became effective on March 4, 2024.
+Since March 4, 2024, Yap Chin Ling only member
+of our Board of Director was not compensated for his services.
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matter.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+Directors and Executive Officers
+The following table sets forth the beneficial
+ownership (and the percentages of outstanding shares represented by such beneficial ownership) as of April 30, 2023, of (i) each director,
+(ii) the current NEOs named in the “Summary Compensation Table” contained in this Form 10-K and (iii) all current directors
+and executive officers as a group. Except as otherwise indicated, we believe that the beneficial owners of the common stock listed below,
+based on information provided by such owners, have sole investment and voting power with respect to such shares, subject to community
+property laws where applicable. Persons, who have the power to vote or dispose of common stock of the Company, either alone or jointly
+with others, are deemed to be beneficial owners of such common stock.
+Yap Chin Liang, President, CEO, Treasurer, Secretary and
+Chairman of the Board.
+3,000,000 shares
+Certain Stockholders
+The following table sets forth certain information
+with respect to each person known by us to be the beneficial owner of five percent or more of either class of the Company’s outstanding
+common stock. The content of this table is based upon the most current information contained in Schedules 13D or 13G filings with the
+SEC, unless more recent information was obtained.
+Yap Chin Liang, President, CEO, Treasurer, Secretary and
+Chairman of the Board.
+72%
+12
+Item 13. Certain Relationships and Related Transactions, and Director
+Independence.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+On February 21, 2020, we offered and sold 3,000,000
+shares of common stock to Miklos Pal Auer, our sole officer and director, at a purchase price of $0.0001 per share, for aggregate proceeds
+of $300.
+During the period from February 19, 2020 (inception)
+to April 30, 2023, Miklos Pal Auer loaned $24,039 to the Company. This loan is non-interest bearing, due upon demand and unsecured. Upon
+transfer of control to Yap Chin Ling, this loan was converted into Additional Paid in Capital.
+Item 14. Principal Accountant Fees and Services.
+FEES TO THE COMPANY’S AUDITORS
+Set forth below is a summary of certain fees paid
+to our independent audit BF Borgers CPA, PC, Independent registered public accountants for services for the fiscal years 2025 and 2024,
+respectively.
+Fee Category
+Fiscal Year 2025
+Fiscal Year 2024
+Audit Fees
+$14,835
+$14,000
+Audit-Related Fees
+Tax Fees
+–
+–
+All Other Fees
+–
+–
+Total
+$14,835
+$14,000
+Audit Fees
+Audit fees were for professional services rendered
+in connection with the audit of our annual financial statements set forth in our Annual Reports on Form 10-K, the review of our quarterly
+financial statements set forth in our Quarterly Reports on Form 10-Q and consents for other SEC filings.
+Audit-Related Fees
+Audit-related fees consist of fees billed for
+professional services for consultation on accounting matters.
+Approval of Services Provided by Independent
+Registered Public Accounting Firm
+The Board of Directors has considered whether
+the services provided under other non-audit services are compatible with maintaining the auditor’s independence and has determined
+that such services are compatible. The Board of Directors has adopted policies and procedures for pre-approving all non-audit work performed
+by the external auditors. The Board of Directors will annually pre-approve services in specified accounting areas. The Board of Directors
+also annually approves the budget for the annual generally accepted accounting principles (GAAP) audit.
+13
+PART IV
+Item 15. Exhibit and Financial Statement Schedules.
+(a)(1) Financial Statements
+The following documents are filed
+as part of this report:
+The Financial Statements of Eventiko
+Inc. at April 30, 2025 and 2024, and for each of the two fiscal years in the period ended April 30, 2025, together with the reports of
+the Independent Registered Public Accounting Firms, are set forth on pages F-1 through F-9 of this Report.
+(2) Not applicable.
+(3) Exhibits
+31.1
+Certification of the Chief Executive Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002.
+31.2
+Certification of the Chief Financial Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002.
+32.1
+Certification of the Chief Executive and Chief Financial Officer pursuant to Section 906 of Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted in inline XBRL, and included in exhibit 101).
+Item 16. Form 10-K Summary.
+None.
+14
+SIGNATURES
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized on July 18, 2025.
+EVENTIKO INC.
+By:
+/s/ Yap Chin Liang
+Yap Chin Liang
+President and Chief Executive Officer
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities indicated
+on July 18, 2025.
+Signature
+Title
+/s/ Yap Chin Liang
+President, Chief Executive
+Officer, Treasurer, Secretary,
+Yap Chin Liang
+and Director (Principal Executive Officer and Principal
+Accounting Officer)
+15
+INDEX TO FINANCIAL STATEMENTS
+EVENTIKO INC.
+TABLE OF CONTENTS
+Report of Independent Registered Accounting Firm (2025)
+PCAOB ID 6993
+F-2
+Report of Independent Registered Accounting Firm (2023-2024) PCAOB ID 5968
+F-4
+Balance Sheets as of April 30, 2025 and 2024
+F-5
+Statements of Operations for the Years ended April 30, 2025 and 2024
+F-6
+Statements of Stockholders’ Equity for the Years ended April 30, 2025 and 2024
+F-7
+Statements of Cash Flows for the Years ended April 30, 2025 and 2024
+F-8
+Notes to the Financial Statements
+F-9
+F-1
+Report
+of the Independent
+Registered Public Accounting Firm
+To the shareholders and the board of directors
+of
+Eventiko, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets
+of Eventiko, Inc. as of April 30, 2025, and the related statements of operations, stockholders’ equity, and cash flows for the year
+ended April 30, 2025, and the related notes (collectively referred to as the “financial statements”). In our opinion, the
+financial statements present fairly, in all material respects, the financial position of the Company as of April 30, 2025, and the results
+of its operations and its cash flows for the year ended April 30, 2025, in conformity with accounting principles generally accepted in
+the United States of America.
+Going Concern
+The accompanying financial statements have been
+prepared assuming the Company will continue as a going concern as disclosed in Note 2 to the financial statement, the Company incurred
+a net loss of $23,867 and a working capital deficit of $23,867 for the year ended April 30, 2025. The continuation of the
+Company as a going concern is dependent upon continuing financial support from its stockholders and lenders. Management believes the existing
+shareholders or external fund providers will provide the additional cash to meet the Company’s obligations as they become due.
+These factors raise substantial doubt about the
+Company ability to continue as a going concern. These financial statements do not include any adjustments that might result from the outcome
+of the uncertainty.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our
+audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from
+the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and
+that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. Communication of critical audit matters does not alter in any way our opinion on the financial statements
+taken as a whole and we are not, by communicating the critical audit matters, providing separate opinions on the critical audit matter
+or on the accounts or disclosures to which they relate.
+F-2
+As described in Note
+2 to the financial statements, the Company has operating losses. Furthermore, the company have not generated revenue since the inception
+of business. The ability of the Company to continue as a going concern is dependent upon generating profitable business operation and
+obtaining additional working capital funding from the Management. These conditions raise substantial doubt about the Company’s ability
+to continue as a going concern.
+The procedures performed to address the matter
+included.
+(i)We inquired of executive officers, and key members of management, of the Company regarding factors that
+would have an impact on the Company’s ability to continue as a going concern,
+(ii)We evaluated management’s plan for addressing the adverse effects of the conditions identified,
+including assessing the reasonableness of forecasted information and underlying assumptions by comparing to actual results of prior periods
+and actual results achieved to date, and utilizing our knowledge of the entity, its business and management in considering liquidity needs
+and the Company’s ability to generate sufficient cash flow,
+(iii)We assessed the possibility of raising additional debt or credit,
+(iv)We evaluated the completeness and accuracy of disclosures in the financial statements.
+/S/ Boladale Lawal
+Boladale Lawal & CO (PCAOB ID 6993)
+We have served as the Company’s auditor
+since 2025
+Lagos, Nigeria
+July 14, 2025
+F-3
+Report of Independent Registered Public Accounting
+Firm
+The Board of Directors and Stockholders of
+EVENTIKO, INC.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets
+of Eventiko, Inc (the ‘Company’) as of April 30, 2024, and 2023, and the related statements of operations, changes in stockholders’
+deficit and cash flows for each of the two years ended April 30, 2024, and 2023, and the related notes (collectively referred to as the
+“financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial
+position of the Company as of April 30, 2024, and 2023, and the results of its operations and its cash flows for each of the two years
+ended April 30, 2024, and 2023, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 2, the Company suffered an accumulated deficit
+of $(56,895), net loss of $(14,260) and a negative working capital. These matters raise substantial doubt about the Company’s ability
+to continue as a going concern. Management’s plans with regards to these matters are also described in Note 2 to the financial statements.
+These financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our
+audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+Critical audit matters are matters arising from
+the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and
+that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. Communication of critical audit matters does not alter in any way our opinion on the financial statements
+taken as a whole and we are not, by communicating the critical audit matters, providing separate opinions on the critical audit matter
+or on the accounts or disclosures to which they relate.
+/s/ Olayinka Oyebola
+OLAYINKA
+OYEBOLA & CO.
+(Chartered Accountants)
+Lagos, Nigeria
+We have served as the Company’s auditor
+since 2024.
+July 24, 2024
+F-4
+EVENTIKO INC.
+BALANCE SHEETS
+April 30, 2025
+April 30, 2024
+ASSETS
+Current Assets
+Cash and cash equivalents
+$–
+$–
+Total Current Assets
+–
+–
+Fixed Assets
+Website Development
+–
+–
+Total Fixed Assets
+–
+–
+Total Assets
+$–
+$–
+LIABILITIES AND STOCKHOLDERS’ EQUITY / (DEFICIT)
+Liabilities
+Current Liabilities
+Related Party Loans
+$23,867
+$14,260
+Accrued Expenses
+–
+–
+Accounts Payable
+–
+–
+Total Current Liabilities
+23,867
+14,260
+Commitments and Contingencies
+–
+–
+Stockholders’ Equity
+Common stock, $0.0001 par value, 75,000,000 shares authorized; 4,192,500 shares issued and outstanding as of April 30, 2025 and 2024 respectively:
+419
+419
+Additional paid-in-capital
+56,476
+42,216
+Accumulated deficit
+(80,762)
+(56,895)
+Total Stockholders’ Deficit
+(23,867)
+(14,260)
+Total Liabilities and Stockholders’ Equity / (Deficit)
+$–
+$–
+See accompanying notes, which are an integral part
+of these financial statements
+F-5
+EVENTIKO INC.
+STATEMENTS OF OPERATIONS
+For the year ended April 30, 2025
+For the year ended April 30, 2024
+REVENUE (Organizing events)
+$–
+$–
+OPERATING EXPENSES
+General and Administrative Expenses
+23,867
+14,260
+TOTAL OPERATING EXPENSES
+23,867
+14,260
+NET INCOME (LOSS) FROM OPERATIONS
+(23,867)
+(14,260)
+PROVISION FOR INCOME TAXES
+–
+–
+NET INCOME (LOSS)
+$(23,867)
+$(14,260)
+NET LOSS PER SHARE; BASIC
+$(0.00)
+$(0.00)
+NET LOSS PER SHARE; DILUTED
+$(0.00)
+$(0.00)
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING; BASIC
+4,192,500
+4,192,500
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING; DILUTED
+4,192,500
+4,192,500
+See accompanying notes, which are an integral part
+of these financial statements
+F-6
+EVENTIKO INC.
+STATEMENT OF STOCKHOLDERS’ EQUITY
+FOR THE YEAR ENDED APRIL 30, 2025 & 2024
+Common Stock
+Additional Paid-in
+Deficit
+Total Stockholders’
+Shares
+Amount
+Capital
+Accumulated
+Equity
+Balance, April 30, 2021 (Audited)
+4,192,500
+$419
+$23,731
+$(11,866)
+$(12,284)
+Net loss for the year ended April 30, 2022
+–
+–
+–
+(20,832)
+(20,832)
+Balance, April 30, 2022 (Audited)
+4,192,500
+$419
+$23,731
+$(32,699)
+$(8,549)
+Net loss for the year ended April 30, 2023
+–
+–
+–
+(9,936)
+(9,936)
+Balance, April 30, 2023
+4,192,500
+$419
+$23,731
+$(42,635)
+$(18,485)
+Adjustment to Additional Paid-in Capital
+–
+–
+18,485
+–
+18,485
+Net loss for the year ended April 30, 2024
+–
+–
+–
+(14,260)
+(14,260)
+Balance, April 30, 2024
+4,192,500
+$419
+$42,216
+$(56,895)
+$(14,260)
+Adjustment to Additional Paid-in Capital
+–
+–
+14,260
+–
+14,260
+Net loss for the year ended April 30, 2024
+–
+–
+–
+(23,867)
+(23,867)
+Balance, April 30, 2025
+4,192,500
+$419
+$56,476
+$(80,762)
+$(23,867)
+See accompanying notes, which are an integral part
+of these financial statements
+F-7
+EVENTIKO INC.
+STATEMENTS OF CASH FLOWS
+For the year ended April 30, 2025
+For the year ended April 30, 2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss for the year
+$(23,867)
+$(14,260)
+Adjustments to reconcile net loss to net cash (used in) operating activities
+Increase in accrued expenses
+–
+24
+Accounts Payable
+–
+11,000
+CASH FLOWS USED IN OPERATING ACTIVITIES
+(23,867)
+(3,236)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Website Development
+–
+(11,000)
+CASH FLOWS USED IN INVESTING ACTIVITIES
+–
+(11,000)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Additional Paid in Capital
+–
+18,485
+Related Party Loans
+23,867
+(9,779)
+CASH FLOWS PROVIDED BY FINANCING ACTIVITIES
+23,867
+8,706
+NET INCREASE IN CASH
+–
+(5,530)
+Cash and equivalents at beginning of the year
+–
+5,530
+Cash and equivalents at end of the year
+$–
+$–
+Supplemental cash flow information:
+Cash paid for:
+Interest
+$–
+$–
+Taxes
+$–
+$–
+See accompanying notes, which are an integral part
+of these financial statements
+F-8
+EVENTIKO INC.
+NOTES TO THE AUDITED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED APRIL 30, 2025 and 2024
+Note 1 – ORGANIZATION AND NATURE
+OF BUSINESS
+We were incorporated in the State of Nevada on
+February 19, 2020 (Inception). We maintain our statutory registered agent’s office at 3773 Howard Hughes Pkwy – Suite 500s,
+Las Vegas, NV 89169-6014. Our principal executive office is located at 1445 Woodmont Ln NW, #2639 Atlanta, GA 30318. Our phone number
+is 404-549-4542
+Eventiko Inc.’s new management team
+hopes to leverage on the growing recruitment market and the rising demand for hiring services with the launch of AiHire. With AiHire,
+prospective recruiters can control the hiring process from a single dashboard. Services such as applicant tracking, jobs and teams’
+management, interview scheduling, candidate hiring can be accessed. AiHire incorporates Artificial Intelligence technology and takes advantage
+of machine learning and natural language processing to assist recruiters in the hiring and onboarding processes.
+Note 2 – GOING CONCERN
+The accompanying financial statements have been
+prepared in conformity with generally accepted accounting principles, which contemplate continuation of the Company as a going concern.
+The Company had net loss during the year of $23,867 and accumulated deficit of $80,762 as of April 30, 2025. The Company has not yet completed
+its efforts to establish a stabilized source of revenues sufficient to cover operating costs over an extended period of time. Therefore,
+there is substantial doubt about the Company’s ability to continue as a going concern.
+Further, the effects of COVID-19 could also impact
+our ability to operate under the going concern and maintain sufficient liquidity to continue operations. The impact of COVID-19 on companies
+is evolving rapidly and its future effects are uncertain. There are material uncertainties from COVID-19 that cast significant doubt on
+the company’s ability to operate under the going concern. It is possible that our company will have issues relating to the current
+situation that will need to be considered by management in the future. There will be a wide range of factors to take into account in going
+concern judgments and financial projections including travel bans, restrictions, government assistance and potential sources of replacement
+financing, financial health of suppliers and customers and their effect on expected profitability and other key financial performance
+ratios including information that shows whether there will be sufficient liquidity to continue to meet obligations when they are
+due.
+Management anticipates that the Company will be
+dependent, for the near future, on additional investment capital to fund operating expenses The Company intends to position itself so
+that it will be able to raise additional funds through the capital markets. In light of management’s efforts, there are no assurances
+that the Company will be successful in this or any of its endeavors or become financially viable and continue as a going concern.
+Note 3 – SUMMARY OF SIGNIFICANT
+ACCOUNTING POLICIES
+Basis of presentation
+The accompanying financial statements have been
+prepared in accordance with generally accepted accounting principles in the United States of America and are presented in US dollars.
+The Company’s year -end is April 30.
+Use of Estimates
+The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date the financial statements and the reported amount
+of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Due to the limited level of operations, the Company
+has not had to make material assumptions or estimates other than the assumption that the Company is a going concern.
+F-9
+Cash and Cash Equivalents
+The Company considers all highly liquid investments
+with the original maturities of three months or less to be cash equivalents. The Company had $Nil of cash as of April 30, 2025.
+Depreciation, Amortization, and Capitalization
+The Company records depreciation and amortization
+when appropriate using straight-line balance method over the estimated useful life of the assets. We estimate that the useful life of
+PC is 5 years. Expenditures for maintenance and repairs are charged to expense as incurred. Additions, major renewals and replacements
+that increase the property's useful life are capitalized. Property sold or retired, together with the related accumulated depreciation
+is removed from the appropriated accounts and the resultant gain or loss is included in net income.
+Fair Value of Financial Instruments
+AS topic 820 "Fair Value Measurements and
+Disclosures" establishes a six-tier fair value hierarchy, which prioritizes the inputs in measuring fair value. The hierarchy prioritizes
+the inputs into six levels based on the extent to which inputs used in measuring fair value are observable in the market.
+These tiers include:
+Level 1:
+defined as observable inputs such as quoted prices in active markets;
+Level 2:
+defined as inputs other than quoted prices in active markets that are either directly or indirectly observable; and
+Level 3:
+defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.
+The carrying value of cash, accrued and the Company’s
+loan from shareholder approximates its fair value due to their short-term maturity.
+Income Taxes
+Income taxes are computed using the asset and
+liability method. Under the asset and liability method, deferred income tax assets and liabilities are determined based on the differences
+between the financial reporting and tax bases of assets and liabilities and are measured using the currently enacted tax rates and laws.
+A valuation allowance is provided for the amount of deferred tax assets that, based on available evidence, are not expected to be realized.
+Revenue Recognition
+We adopted Accounting Standards Codification (“ASC”)
+Topic 606, “Revenue from Contracts with Customers”, and all related interpretations for recognition of our revenue from tours
+and services. Previously we recorded revenue based on ASC Topic 605. Adoption of new accounting standard did not have any material impact
+on our reported revenue.
+Revenue is recognized when the following criteria
+are met:
+- Identification of the contract, or contracts,
+with customer;
+- Identification of the performance obligations
+in the contract;
+- Determination of the transaction price;
+- Allocation of the transaction price to the performance
+obligations in the contract; and
+- Recognition of revenue when, or as, we satisfy
+performance obligation.
+During the year ended April 30, 2025, we generated total revenue of
+$Nil due to the change of control.
+Basic Income (Loss) Per Share
+The Company computes income (loss) per share in
+accordance with FASB ASC 260 “Earnings per Share”. Basic loss per share is computed by dividing net income (loss) available
+to common shareholders by the weighted average number of outstanding common shares during the period. Diluted income (loss) per share
+gives effect to all dilutive potential common shares outstanding during the period. Dilutive loss per share excludes all potential common
+shares if their effect is anti-dilutive. As of April 30, 2025 there were no potentially dilutive debt or equity instruments issued or
+outstanding.
+F-10
+Stock-Based Compensation
+Stock-based compensation is accounted for at fair
+value in accordance with ASC Topic 718. To date, the Company has not adopted a stock option plan and has not granted any stock options.
+Recent Accounting Pronouncements
+We have reviewed all the recently issued, but
+not yet effective, accounting pronouncements and we do not believe any of these pronouncements will have a material impact on the Company.
+Risks and Uncertainties
+In December 2019, a novel strain of coronavirus
+(COVID-19) emerged in Wuhan, Hubei Province, China. While initially the outbreak was largely concentrated in China and caused significant
+disruptions to its economy, it has now spread to several other countries and infections have been reported globally.
+The ultimate impact of the COVID-19 pandemic on
+the Company’s operations is unknown and will depend on future developments, which are highly uncertain and cannot be predicted with
+confidence, including the duration of the COVID-19 outbreak, new information which may emerge concerning the severity of the COVID-19
+pandemic, and any additional preventative and protective actions that governments, or the Company, may direct, which may result in an
+extended period of continued business disruption, reduced customer traffic and reduced operations. Any resulting financial impact cannot
+be reasonably estimated at this time but is anticipated to have a material adverse impact on our business, financial condition and results
+of operations.
+The measures taken to date will impact the Company’s
+business for the fiscal fourth quarter and potentially beyond. Management expects that all of its business segments, across all of its
+geographies, will be impacted to some degree, but the significance of the impact of the COVID-19 outbreak on the Company’s business
+and the duration for which it may have an impact cannot be determined at this time.
+Note 4 – RELATED PARTY TRANSACTIONS
+(LOAN FROM DIRECTOR)
+In support of the Company’s efforts and
+cash requirements, it may rely on advances from related parties until such time that the Company can support its operations or attains
+adequate financing through sales of its equity or traditional debt financing. There is no formal written commitment for continued support
+by shareholders or director. Amounts represent advances or amounts paid in satisfaction of liabilities. The advances were considered temporary
+in nature and were not formalized by a signed promissory note.
+From Inception and as of April 30, 2025, our sole director has loaned
+to the Company $23,867. This loan is unsecured, non-interest bearing and due on demand.
+Note 5 – COMMON STOCK
+The Company has 75,000,000, $0.0001 par value
+shares of common stock authorized.
+On February 21, 2020 the Company issued 3,000,000
+shares of common stock to a director for services of $300 at $0.0001 per share.
+In October 2021, the Company issued 143,000 shares
+of common stock to 4 shareholders for cash proceeds of $2,860 at $0.02 per share.
+In November and December of 2020 and January 2021,
+the Company issued 1,049,500 shares of common stock to 30 shareholders for cash proceeds of $20,990 at $0.02 per share.
+There were 4,192,500 shares of common stock issued
+and outstanding as of April 30, 2025 and 2024.
+Note 6 – COMMITMENTS AND CONTINGENCIES
+Our sole officer and director, Yap Chin Liang,
+has agreed to provide her own premise under office needs. He will not take any fee for these premises; it is for free use.
+F-11
+Note 7 – INCOME TAXES
+As of April 30, 2025, the Company had net operating
+loss carry forwards of $80,762 that may be available to reduce future years' taxable income in varying amounts through 2041.
+As of April 30, 2024, the Company had net operating
+loss of $56,895 that may be available to reduce future years' taxable income in varying amounts through 2040.
+Future tax benefits which arise as a result of
+these losses have not been recognized in these financial statements, as their realization is determined not likely to occur and accordingly,
+the Company has recorded a valuation allowance for the deferred tax asset relating to these tax loss carry-forwards.
+The 21% tax rate provision for Federal income
+tax consists of the following:
+Schedule of income tax
+April 30, 2025
+April 30, 2024
+Federal income tax benefit attributable to:
+Current operations
+$–
+$2,087
+Less: change in valuation allowance
+(–)
+(2,087)
+Net provision for Federal income taxes
+$–
+$–
+The cumulative tax effect at the expected rate
+of 35% of significant items comprising our net deferred tax amount is as follows:
+Schedule of deferred tax assets
+April 30, 2025
+April 30, 2024
+Deferred tax asset attributable to:
+Net operating loss carryover
+$23,867
+$14,260
+Less: valuation allowance
+(23,867)
+(14,260)
+Net deferred tax asset
+$–
+$–
+The Company has approximately $80,762 of net operating
+losses (“NOL”) carried forward to offset taxable income, if any, in future years which expire in fiscal 2041. In assessing
+the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred
+tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income
+during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax
+liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the assessment, management
+has established a full valuation allowance against all of the deferred tax asset relating to NOLs for every period because it is more
+likely than not that all of the deferred tax asset will not be realized.
+Note 8 – SUBSEQUENT EVENTS
+In accordance with SFAS 165 (ASC 855-10) the Company
+has analyzed its operations subsequent to April 30, 2025 to the date these financial statements were issued, and has determined that it
+does not have any material subsequent events to disclose in these financial statements.
+The extent of the impact of the coronavirus ("COVID-19")
+outbreak on the financial performance of the Company will depend on future developments, including the duration and spread of the outbreak
+and related advisories and restrictions and the impact of COVID-19 on the overall economy, all of which are highly uncertain and cannot
+be predicted. If the overall economy is impacted for an extended period, the Company’s future operating results may be materially
+and adversely affected.
+F-12

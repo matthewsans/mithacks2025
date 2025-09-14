@@ -1,0 +1,59 @@
+NT 10-K
+1
+immr-nt-10-k-073025.htm
+NT 10-K
+NT 10-K
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549 FORM 12b-25 NOTIFICATION OF LATE FILING
+(Check One)
+☒
+Form 10-K
+☐  Form 20-F
+☐  Form 11-K
+☐  Form 10-Q
+☐  Form 10-D
+☐  Form N-SAR
+☐  Form N-CSR
+For Period Ended: April 30, 2025
+☐  Transition Report on Form 10-K
+☐  Transition Report on Form 20-F
+☐  Transition Report on Form 11-K
+☐  Transition Report on Form 10-Q
+☐  Transition Report on Form N-SAR
+For the Transition Period Ended:
+Read Instruction (on back page) Before Preparing Form. Please Print or Type.Nothing in this form shall be construed to imply that the Commission has verified any information contained herein.
+If the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates:  PART I — REGISTRANT INFORMATIONIMMERSION CORPORATION(Full Name of Registrant)N/A(Former Name if Applicable)2999 N.E. 191st Street, Suite 610(Address of Principal Executive Office (Street and Number))Aventura, FL 33180(City, State and Zip Code)
+PART II — RULES 12b-25(b) AND (c)If the subject report could not be filed without unreasonable effort or expense and the registrant seeks relief pursuant to Rule 12b-25(b), the following should be completed. (Check box if appropriate)
+☒
+(a)
+The reason described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+(b)
+The subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-SAR or Form N-CSR, or portion thereof, will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report or transition report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the fifth calendar day following the prescribed due date; and
+(c)
+The accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+PART III — NARRATIVEState below in reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR, or the transition report or portion thereof, could not be filed within the prescribed time period.Immersion Corporation (the “Company”) is unable to file its Annual Report on Form 10-K for the fiscal year ended April 30, 2025 (the “Form 10-K”) within the prescribed time period, without unreasonable effort or expense. In July 2025, certain information regarding the recording of cost of sales was brought to the attention of the management of Barnes & Noble Education, Inc. (“Barnes & Noble Education” or “BNED”), which is a subsidiary of the Company. BNED’s management promptly informed the Audit Committee of the BNED Board of Directors (the “BNED Audit Committee”), which caused the BNED Audit Committee to commence an internal investigation with the assistance of outside counsel and advisors.The investigation at BNED is ongoing and all parties are working diligently to complete the investigation. However, based on initial findings, which could change as the investigation is in its early stages, BNED’s management believes that it may have a potential overstatement of up to $23.0 million in the aggregate to BNED’s accounts receivable balance as of the Company’s fiscal year ended April 30, 2025, which BNED believes is the cumulative net impact of overstatements and understatements to its cost of sales during the fiscal years 2024 and 2025, impacting results of operations in those periods. Based on the BNED Audit Committee’s investigation to date, the Company believes that these potential impacts may have resulted from the actions of a payment processing employee, who has been suspended pending the results of the BNED Audit Committee’s investigation. BNED has not reached a conclusion whether any restatement of previously issued financial statements will be required as a result of the investigation. In addition, certain other financial reporting process matters require resolution in addition to any impact from the conclusion of the ongoing investigation. As such, management is unable to complete the Company’s financial reporting process and preparation of its financial statements for the fiscal year ended April 30, 2025.Barnes & Noble Education’s management is also assessing the effect of this matter on its internal control over financial reporting and its disclosure controls and procedures. BNED expects to report at least one material weakness related to the appropriate review and approval of manual journal entries following the completion of the ongoing investigation. As a result of the expected material weakness(es), BNED believes that its internal control over financial reporting was not effective, and its disclosure controls and procedures were not effective for the fiscal year ended April 30, 2025.The Company does not expect the investigation to impact total revenues, which on a preliminary basis were approximately $1.6 billion (unaudited) compared to $33.9 million for the fiscal year ended December 31, 2023, an increase of $1.5 billion. The investigation will not impact the Company’s cash and cash equivalents and total debt for the fiscal year ended April 30, 2025. The foregoing financial information for the fiscal year ended April 30, 2025, is preliminary, unaudited, and subject to change.The Company currently expects to file the Form 10-K within the 15-day extension period prescribed by Rule 12b-25 under the Securities Exchange Act of 1934, as amended, however the ability to file within the extension period will depend on the progress of and ultimate conclusion of the investigation.
+PART IV — OTHER INFORMATION
+(1)
+Name and telephone number of person to contact in regard to this notification
+J. Michael Dodson
+(408)
+467-1900
+(Name)
+(Area Code)
+(Telephone Number)
+(2)
+Have all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment Company Act of 1940 during the preceding 12 months or for such shorter period that the registrant was required to file such report(s) been filed? If answer is no, identify report(s).
+☒
+Yes
+☐  No
+(3)
+Is it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be reflected by the earnings statements to be included in the subject report or portion thereof?
+☒
+Yes
+☐  No
+If so, attach an explanation of the anticipated change, both narratively and quantitatively, and, if appropriate, state the reasons why a reasonable estimate of the results cannot be made.On June 10, 2024, the Company acquired a controlling interest in Barnes & Noble Education. Barnes & Noble Education is one of the largest contract operators of physical and virtual bookstores for college and university campuses and K-12 institutions across the United States. BNED is also one of the largest textbook wholesalers and inventory management hardware and software providers. The financial results of Barnes & Noble Education have been included in our consolidated financial statements from the acquisition date of June 10, 2024 to April 30, 2025. The following financial information for the fiscal year ended April 30, 2025, is preliminary, unaudited, and subject to change. The Company’s revenues are expected to be approximately $1.6 billion for the fiscal year ended April 30, 2025, compared to revenues of $33.9 million for the fiscal year ended December 31, 2023. The changes in the Company’s revenues for the fiscal year ended April 30, 2025, compared to the fiscal year ended December 31, 2023, primarily reflect the Company’s inclusion of Barnes & Noble Education’s financial results for the period from June 10, 2024 to April 30, 2025. Forward-Looking Statements Statements in this filing about the Company that are not historical facts are forward-looking statements based on our current expectations and estimates. These forward-looking statements are subject to risks and uncertainties that could cause actual future events or results to differ materially from such statements. Our current expectations may not prove to be accurate. The words “estimates,” “expects,” “anticipates,” “believes” and variations of such words or similar expressions are intended to identify forward-looking statements. These forward-looking statements are not guarantees of future results. We disclaim and do not undertake any obligation to update or revise any forward-looking statement in this report, except as required by applicable law or regulation.  Immersion Corporation(Name of Registrant as Specified in Charter)has caused this notification to be signed on its behalf by the undersigned hereunto duly authorized.
+Date:
+July 30, 2025
+By:
+/s/ J. Michael DodsonJ. Michael DodsonChief Financial Officer
+INSTRUCTION: The form may be signed by an executive officer of the registrant or by any other duly authorized representative. The name and title of the person signing the form shall be typed or printed beneath the signature. If the statement is signed on behalf of the registrant by an authorized representative (other than an executive officer), evidence of the representative’s authority to sign on behalf of the registrant shall be filed with the form.
+ATTENTIONIntentional misstatements or omissions of fact constitute Federal Criminal Violations (See 18 U.S.C. 1001).

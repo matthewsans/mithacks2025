@@ -1,0 +1,1758 @@
+MERCALOT INC. 10-K
+false
+2025
+FY
+0002029014
+0002029014
+2024-07-01
+2025-06-30
+0002029014
+2024-12-31
+0002029014
+2025-08-12
+0002029014
+2025-06-30
+0002029014
+2024-06-30
+0002029014
+2024-04-24
+2024-06-30
+0002029014
+us-gaap:CommonStockMember
+2024-04-23
+0002029014
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-23
+0002029014
+us-gaap:RetainedEarningsMember
+2024-04-23
+0002029014
+2024-04-23
+0002029014
+us-gaap:CommonStockMember
+2024-06-30
+0002029014
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0002029014
+us-gaap:RetainedEarningsMember
+2024-06-30
+0002029014
+us-gaap:CommonStockMember
+2024-04-24
+2024-06-30
+0002029014
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-24
+2024-06-30
+0002029014
+us-gaap:RetainedEarningsMember
+2024-04-24
+2024-06-30
+0002029014
+us-gaap:CommonStockMember
+2024-07-01
+2025-06-30
+0002029014
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2025-06-30
+0002029014
+us-gaap:RetainedEarningsMember
+2024-07-01
+2025-06-30
+0002029014
+us-gaap:CommonStockMember
+2025-06-30
+0002029014
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0002029014
+us-gaap:RetainedEarningsMember
+2025-06-30
+0002029014
+NONE:ReyesAndVargasMember
+2025-06-30
+0002029014
+NONE:RestrictedCommonStockMember
+NONE:BlasMayorReyesMember
+2024-04-01
+2024-04-30
+0002029014
+us-gaap:CommonStockMember
+2024-12-01
+2024-12-31
+0002029014
+us-gaap:CommonStockMember
+2025-01-01
+2025-01-31
+0002029014
+us-gaap:CommonStockMember
+2025-02-01
+2025-02-28
+0002029014
+us-gaap:CommonStockMember
+2025-03-01
+2025-03-31
+0002029014
+2025-04-01
+2025-06-30
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+Table of Contents
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+☒ Annual Report pursuant to Section 13
+or 15(d) of the Securities Exchange Act of 1934
+For the fiscal year ended June 30, 2025
+☐ Transition Report pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from __________ to __________
+Commission File Number: 333-281804
+MERCALOT INC.
+(Exact name of small business issuer as specified in its charter)
+Wyoming
+7380
+36-5105082
+(State or other jurisdiction of incorporation or organization)
+(Primary Standard Industrial Classification Number)
+(IRS Employer Identification Number)
+C/ de l’Illa Formentera, 54, Quatre Carreres,
+46026 Valencia, Spain
+Telephone:
++13072630861
+Email: mercalot.inc@safedealconnect.com
+(Name, address, including zip code, and telephone
+number, including area code, of registrant’s principal executive offices)
+None
+Securities registered under Section 12(b) of the Exchange Act
+None
+Securities registered under Section 12(g) of the Exchange Act
+Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. Yes ☐   No
+☒
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes ☐   No
+☒
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☒
+No ☐
+Indicate by check mark whether the registrant has submitted electronically
+every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒
+No ☐
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated
+filer”, “accelerated filer”, “non-accelerated filer”, “emerging growth company” and “smaller
+reporting company” in Rule 12b-2 of the Exchange Act.:
+Large accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated filer ☒
+Emerging
+growth company ☒
+Smaller
+reporting company ☒
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. ☐
+If securities are registered pursuant to Section 12(b) of the Act,
+indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to
+previously issued financial statements. ☒
+Indicate by check mark whether any of those error corrections are
+restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers
+during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether
+the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+State the aggregate market value
+of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last
+sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s most recently completed
+second fiscal quarter. $0
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the most
+practicable date:
+Common stock $0.01 per share; 5,735,200
+common shares issued and outstanding as of August 12, 2025.
+TABLE OF CONTENTS
+Page
+PART I
+Item 1.
+Description of Business.
+1
+Item 1A.
+Risk Factors.
+11
+Item 1B.
+Unresolved Staff Comments.
+11
+Item 1C.
+Cybersecurity.
+11
+Item 2
+Descriptioin of Property.
+11
+Item 3.
+Legal proceedings.
+11
+Item 4.
+Mine Safety Disclosures.
+11
+PART II
+Item 5.
+Market for Common Equity and Related Stockholder Matters.
+12
+Item 6.
+Selected Financial Data.
+13
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+13
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk.
+15
+Item 8.
+Financial Statements and Supplementary Data.
+15
+Item 9.
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure.
+16
+Item 9A (T).
+Controls and Procedures
+16
+Item 9B.
+Other Information.
+17
+PART III
+Item 10
+Directors, Executive Officers, Promoters and Control Persons of the Company.
+18
+Item 11.
+Executive Compensation.
+19
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+20
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence.
+21
+Item 14.
+Principal Accounting Fees and Services.
+21
+PART IV
+Item 15.
+Exhibits
+22
+Item 16.
+Form 10-K Summary
+22
+Signatures
+23
+i
+PART I
+Item 1. Description of Business
+Forward-looking statements
+Statements made in this Form 10-K that are not
+historical, or current facts are “forward-looking statements” made pursuant to the safe harbor provisions of Section 27A of
+the Securities Act of 1933 (the "Act") and Section 21E of the Securities Exchange Act of 1934. These statements often can be
+identified using terms such as “may,” “will,” “expect,” “believe,” “anticipate,” “estimate,”
+“approximate” or “continue,” or the negative thereof. We intend that such forward-looking statements be subject to
+the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which
+speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur in the future.
+However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could cause actual
+results and events to differ materially from historical results of operations and events and those presently anticipated or projected.
+We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of
+such statement or to reflect the occurrence of anticipated or unanticipated events.
+Financial information contained in this report
+and in our financial statements is stated in United States dollars and are prepared in accordance with United States generally accepted
+accounting principles.
+GENERAL INFORMATION
+Mercalot Inc. was incorporated on April 24, 2024
+under the laws of the state of Wyoming. We are a development stage company that is providing an e-commerce and classifieds platform, which
+are also known as online marketplace. We have purchased a mobile application known as “SafeDeal Connect”, which is already
+working, but we also intend to add more features to make the app better and offer wider range of services.
+Currently, we have no employees, only our officers
+and directors Mr. Blas Mayor Reyes and Isabel Marin Vargas. Our executive and business office is located at C/ de l’Illa Formentera,
+54, Quatre Carreres, 46026 Valencia, Spain, and our telephone number is +13072630861.
+Our business is an online platform that combines
+the ability to place offers and orders for services, creating a convenient environment for interaction between buyers and service providers.
+“SafeDeal” aims to ensure the reliability and security of the entire process: from searching to dealings. The application
+strives to become a reliable partner that will support the user at every step. Our mission is to develop a convenient and secure platform.
+Starting in the Spanish market, we have significant plans for expansion into the broader European market.
+Marketplace platforms hold immense relevance and
+importance in today’s interconnected and digital world. These platforms, where buyers and sellers converge to exchange goods, services,
+and ideas, play a pivotal role in shaping the modern economy. Here is why they are so significant:
+1
+Global Connectivity: marketplace platforms break
+down geographical barriers, connecting individuals and businesses on a global scale, meaning that sellers can reach a vast audience, and
+buyers can access a diverse range of products and services from around the world.
+Economic Empowerment: these platforms
+empower individuals and small businesses by providing a level playing field, allowing entrepreneurs to easily set up virtual storefronts,
+reaching potential customers without the need for a physical presence; this democratization of commerce contributes to economic empowerment.
+Efficiency and Convenience: marketplace
+platforms streamline the buying and selling process, making it efficient and convenient by allowing users to browse, compare, and make
+a deal with just a few clicks, eliminating the traditional hassles associated with commerce.
+Diverse Product and Service Offerings:
+our marketplace platform offers a comprehensive range of services and products, organized into the following categories:
+·
+Services:
+-
+Design (services in graphic design, logo creation, and branding, catering to businesses and individuals looking to enhance their visual identity);
+-
+Development and IT (web and software development, app development, IT support, and other technology services for clients seeking custom digital solutions);
+-
+SEO and Traffic (services to improve website search engine rankings, drive traffic, and optimize digital presence for businesses aiming to enhance online visibility);
+-
+Social media and Advertising (social media management, digital marketing strategies, and online advertising services for brands looking to grow their audience and reach);
+-
+Audio, Video, and Shooting (professional services for video production, audio editing, photography, and videography for personal or commercial projects);
+-
+Texts and Translations (writing, copywriting, editing, and translation services across multiple languages for diverse content needs);
+-
+Business and Life (consulting services for business strategy, personal development, life coaching, and other professional advice tailored to personal and business growth).
+·
+Products:
+-
+iTunes & App Store (digital products and services available for purchase through major app platforms like iTunes and the App Store);
+-
+Audiobooks (audio versions of books across genres, catering to listeners seeking educational or recreational content);
+-
+Databases (collections of data and resources, including educational materials, industry data, and research tools);
+-
+Video and Audio Courses, Lessons (digital courses and lessons covering a wide range of topics, from professional skills to personal hobbies);
+-
+Web Sites (pre-built websites and templates for individuals and businesses looking to establish an online presence quickly);
+-
+Mobile Applications (access to and downloads of mobile applications for a variety of uses, from productivity to entertainment);
+-
+Access to Resources (subscriptions or one-time purchases for exclusive access to digital libraries, educational content, and other resources);
+-
+Game Accounts and Currency (virtual items such as game accounts and in-game currency for popular video games, catering to gaming enthusiasts);
+-
+Gift Certificates and Invitations (digital gift certificates for various services and personalized invitations for events and special occasions);
+-
+Forecasts and Social Networks (industry trend forecasts, market research reports, and tools to grow and manage social media presence);
+-
+Hosting (web hosting services for individuals and businesses, enabling them to host websites, applications, and digital content online);
+-
+Miscellaneous (user-uploaded products such as secondhand clothes, handmade crafts, and other physical items, creating a versatile marketplace for unique and personalized goods).
+2
+By offering a diverse selection of goods and services,
+our platform aims to serve a wide range of consumer preferences, from individual creators and small businesses to consumers looking for
+unique products and professional services. This diversity enhances our marketplace’s inclusiveness and caters to both digital and
+physical product needs.
+Innovation Hub: these platforms often serve as
+hubs for innovation, where entrepreneurs can test new ideas, products, or services without significant upfront costs, fostering a culture
+of creativity and continuous improvement.
+Data-Driven Insights: the data generated by marketplace
+platforms provide valuable insights into consumer behavior, market trends, and preferences, allowing businesses to make informed decisions
+and tailor their offerings to meet customer demands.
+“SafeDeal” app is new and convenient
+online marketplace, where every seller can find their buyer and every customer can find what they need. The platform provides an opportunity
+for both sellers and buyers to place ads for goods and services they want to sell or buy. By combining accessibility, efficiency, and
+trust, the application transforms the way people in Spain engage in buying and selling, shaping a more connected and empowered society.
+We provide our customers with a user-friendly application that caters to both seasoned service providers and sellers and newcomers alike.
+The interface is designed with simplicity in mind, ensuring a smooth and intuitive experience for users of all backgrounds. Whether you’re
+looking to sell pre-loved items, discover unique treasures, or engage in professional service providing, “SafeDeal” has you
+covered. Here are services that we can offer in our application:
+·
+User-Friendly Interface (navigate effortlessly through the app’s clean and intuitive design, making buying and selling a breeze)
+·
+Protection of Personal Data (utilization of state-of-the-art encryption technologies to ensure the confidentiality of personal data; two-factor authentication for an additional layer of security)
+·
+Identity Verification (identity verification through email or nickname; blocking suspicious accounts)
+·
+Personalized Profiles (users can create their unique profile to showcase their listings, reviews, and ordering history; also, they can connect with other users and build a trusted network within the community)
+·
+Placing offers (users can create offers for the provision of various services; detailed descriptions, photos and prices allow you to present your services in the best possible way)
+·
+Ordering services (users can place orders for the services they need, specifying details and deadlines; users can also look for the services in the catalog of all the offers in the application; reviews and ratings help to choose the best performers)
+·
+Dynamic Categories (exploring a diverse range of categories, from electronics and fashion to real estate and services)
+·
+Chat and notifications (built-in chat for convenient communication between the client and the contractor; notifications about the status and changes in orders)
+·
+Customer Support (providing 24/7 customer support to address user queries and resolve potential issues)
+The links for the “SafeDeal” application:
+In Google Play – https://play.google.com/store/apps/details?id=sdc.connect
+In App Store – https://apps.apple.com/us/app/safe-deal-connect/id6477819843
+Website – safedealconnect.com/
+3
+There are also several features that we intend
+to successfully implement in the future:
+·
+Premium accounts for users: Introducing a paid package for users that provides additional features such as access to exclusive services, advanced search capabilities, and personalized recommendations.
+·
+Paid packages for the contractors: Fulfillers can subscribe to premium packages to increase visibility and the number of orders. Packages may include priority visibility, the ability to add more photos, or highlighting in search results.
+·
+Advertising campaign options: Introducing paid options for service providers and businesses to promote their services to their target audience through customized advertising campaigns.
+·
+Affiliate programs: Creating affiliate programs for other businesses and services that allow you to receive commissions from genuine sales made through affiliate links or promotional codes.
+·
+Analytics and data: Collecting and analyzing user data to provide insights to product sellers and service providers. This could include anonymized data on user’s search history, their preferences and requirements. Charging fees for access to this data. The prices for data analytics can vary depending on the level of access and the type of data provided.
+·
+Additional services: Offering additional paid services, such as transaction security consultations, insurance, and other services that improve the user experience.
+For a better understanding of how the “SafeDeal”
+app works, let’s consider two scenarios of using the app:
+I.
+Ordering a service
+1)
+the user registers or logs into their account
+2)
+then access the catalog of posted services and goods
+3)
+use filters to specify a service or product for a smaller sample or enter the name in the search field
+4)
+select the service or product of interest and contact the seller to receive it using the appropriate button in the service window
+II.
+Placing a service
+1)
+after logging in to the application, click the create service button
+2)
+select the type: sale of a service or product, category, write a description and set a price
+3)
+the created service or product is put up for sale and displayed in the catalog, wait for your buyer
+We plan constantly expand the functionality in
+our services to make our application more attractive for our consumers. We have purchased the mobile application with LABRIS LIMITED for
+iOS and Android platforms and the website for total consideration of US $47,000.
+The Company’s revenues are expected to be
+derived mostly from advertising and partnerships, but there are also several revenue opportunities that we intend to use in the future,
+such as premium account subscriptions, paid packages for the contractors, affiliate programs, analytics and data, additional paid services,
+such as transaction security consultations, insurance, and other services that improve the user experience. For a more detailed description
+of all earning opportunities, see the “Revenue” section below.
+4
+REVENUE
+·
+Advertising – generating income through in-app advertising, including:
+-
+Banner ads that will feature static or animated images or media and will be strategically positioned in prominent areas of the app. This form of advertising is appealing as it can increase exposure for a wide range of services and products, leading to potential customer leads.
+-
+Pop-up windows that represent another impactful aspect of our advertising services, these pop-ups will appear at the center of the screen, effectively capturing the attention of users.
+·
+Partnerships – generating revenue through collaborations with companies offering services via the app, including:
+-
+Lead Generation Fees – a commission for every customer referred to partner companies through the marketplace.
+-
+Listing Fees – charging partner companies a fee to list their services or products in the top of the marketplace.
+We will negotiate agreements where the platform
+earns a share of the increased revenue that partner companies receive from our referrals. The partnership provides top priority to services
+and products in the catalog list, their recommendation to customers and, as a result, attracting users’ attention to the services
+and products of the partners.
+Current Service Pricing:
+·
+Advertising: $0.50-$1.00 per click or monthly advertising $150-$1,000 for pop-up window; $400-$700 monthly for banner ads.
+·
+Partnerships: $5-$25 for the placed service or product or $500-$1000 monthly subscription for all placements of the partner.
+In future the additional source of revenue could
+be through other services:
+·
+Premium accounts for users: Introducing a paid package for users that provides additional features such as access to exclusive services, advanced search capabilities, and personalized recommendations.
+·
+Paid packages for the contractors: Fulfillers can subscribe to premium packages to increase visibility and the number of orders. Packages may include priority visibility, the ability to add more photos, or highlighting in search results.
+·
+Advertising campaign options: Introducing paid options for service providers and businesses to promote their services to their target audience through customized advertising campaigns.
+·
+Affiliate programs: Creating affiliate programs for other businesses and services that allow you to receive commissions from genuine sales made through affiliate links or promotional codes.
+·
+Analytics and data: Collecting and analyzing user data to provide insights to product sellers and service providers. This could include anonymized data on user’s search history, their preferences and requirements. Charging fees for access to this data. The prices for data analytics can vary depending on the level of access and the type of data provided.
+·
+Additional services: Offering additional paid services, such as transaction security consultations, insurance, and other services that improve the user experience.
+5
+Future Service Pricing:
+·
+Premium accounts for users: $10-$30 monthly subscription.
+·
+Paid packages for the contractors: $200-$500 per package, depending on the type of the package.
+·
+Advertising campaign options: $1-$3 per click or monthly advertising $200-$1,000
+·
+Affiliate programs: $500-$2,000 per program, depending on the type of the program
+·
+Analytics and data: $50-$200 per report, depending on the level of detail and analysis provided.
+·
+Additional services: additional $10-$30 monthly subscription.
+The “Current Service Pricing” and
+“Future Service Pricing” sections reflect price ranges that have been determined based on market analysis, industry standards,
+and the perceived value of our offerings. These price estimates are dynamic and may be adjusted in response to a variety of elements,
+such as shifts in the market, improvements to services, and input from customers.
+OUR ASSET MOBILE APPLICATION AND WEBSITE
+We have a mobile application for Android and IOS
+platforms known as “SafeDeal Connect”. The address in Play Market is https://play.google.com/store/apps/details?id=sdc.connect
+and in App Store – https://apps.apple.com/us/app/safe-deal-connect/id6477819843. Our app is ready to use, but we also intend to
+add more features to make the app better and offer wider range of services.
+The backend infrastructure of our application
+is built on the Node.js software platform, employing the Express.js framework to streamline communication with the client via HTTP requests.
+For the backend, MongoDB, a NoSQL database, is integrated to enhance flexibility and scalability in handling dynamic data. MongoDB’s
+document-oriented approach proves invaluable, allowing seamless adaptation to evolving data structures. On the front end, the user interface
+is constructed using the React JavaScript library, known for its declarative and efficient approach to building interactive UIs. React’s
+component-based architecture facilitates modular and maintainable code, contributing to a smooth and responsive user experience.
+The main functionality features and opportunities
+of the application are:
+·
+user registration via email
+·
+view and edit your profile
+·
+saving and further viewing of your favorite offers
+·
+change the application theme from light to dark
+·
+the ability to contact support
+·
+change the language to the user’s preference: English or Spanish
+·
+placing orders and offers
+·
+viewing services and offers of other users, searching them by category, cost, and novelty
+·
+chat to communicate with the service provider
+6
+Here are some of the technologies that we intend
+successfully work with and which will be implemented in our project, and the next steps in developing “SafeDeal” application
+will be:
+·
+improvement of security and privacy system
+·
+improvement of user chat
+·
+location-Based Searches
+·
+analytics and data
+·
+additional services, such as transaction security consultations, insurance, and other services that improve the user experience
+·
+affiliate programs
+·
+premium accounts for users
+·
+targeted advertising
+Our website (safedealconnect.com/)
+is for informational purposes only and does not have the functionality of a mobile application. It provides users with information about
+the “SafeDeal” app, our company and contacts.
+MARKET OVERVIEW
+According to the recent reaches of Forbes, by
+2027, 23% of retail purchases are expected to take place online and the e-commerce market is expected to total over $7.9 trillion. Various
+marketplaces make it possible not only to shop online but also to order various services, from painting to software development, without
+even leaving home. To quote the above-mentioned Forbes article: “If you’re looking for a way to boost your sales and take
+your business to new heights, e-commerce should be on your radar.” Therefore, it goes without saying that e-commerce is at the peak
+of popularity and continues to grow rapidly.
+Spain is no exception. According to Statistic,
+a global data and business intelligence platform, retail e-commerce sales compound annual growth rate (CAGR) from 2024 to 2028 in Spain
+is 8.22% annually. In addition, there are other factors that demonstrate the relevance of online marketplaces in our days:
+-
+Gig economy activities are gaining popularity among independent professionals and entrepreneurs, making such platforms relevant to this rapidly growing audience.
+-
+The general trend towards a mobile lifestyle in Spanish society is driving the popularity of mobile apps for various daily tasks, including searching and providing services.
+-
+Considering local cultural aspects and peculiarities of the Spanish market allows creating a product that more closely matches the expectations and needs of users.
+-
+Such platforms can act as a catalyst for the development and support of small businesses and freelancers, adding social and economic value.
+As the digital economy evolves, “SafeDeal
+Connect” remains dedicated to connecting, empowering, and providing a dynamic platform for individuals and businesses to thrive
+in the Spanish e-commerce ecosystem.
+7
+COMPETITION
+There are numerous global companies in the industry.
+Among them: Craigslist, Gumtree, OLX, Mercari and others. They provide their services in English and other different languages, as usual,
+but all these companies operate in Spain, or at least in some parts of it, but they are focused on the global market rather than on a
+specific country, so we believe that we can start by carving out a niche in the Spanish market. Most of these companies are privately
+held; therefore, our future competitors will be substantially larger than our Company and have greater financial and technical resources,
+industry expertise, and managerial capabilities than we have. Most of our competitors benefit from established brand awareness with current
+and prospective customers.
+We believe that industry competition for customers
+is primarily based on brand recognition, marketing, price, and quality of service. We hope to be able to compete effectively based on
+these factors though we primarily hope to develop a niche market firstly in Spain then we plan to operate over the European countries.
+MARKETING & SALES STRATEGY
+A significant portion of our earnings will be
+allocated to enhancing our mobile application’s improvement and expanding its functionality. This investment aims to attract a broader
+audience and enhance the appeal of our services. Additionally, a substantial share of our revenue will be dedicated to advertising and
+marketing efforts to promote our services effectively.
+Firstly,
+our officers and directors, Blas Mayor Reyes and Isabel Marin Vargas will promote our products mouth-to-mouth and present our platform
+“SafeDeal Connect” as full working convenient online marketplace. Eventually,
+we intend to employ the freelance marketing manager, who will be response for the online advertising and sales.
+We plan for our app to be marketed in such ways:
+-
+Unique Selling Proposition (we clearly define our advantages apart from competitors and will use them to promote our product).
+-
+Brand Identity (developing a strong and consistent brand identity across all channels).
+-
+Search Engine Optimization (optimizing content for search engines to improve visibility).
+-
+Social Media Presence (utilizing platforms relevant to our audience for engagement and promotions).
+-
+Blog Articles and Guides (sharing valuable content related to our marketplace to attract and educate users).
+-
+Video Content (creating engaging videos showcasing the benefits of our app and its features).
+-
+User-generated Content (encouraging users to share their experiences on social media and within the app).
+-
+Identify Influencers (collaborating with influencers in our industry to extend our reach).
+-
+Strategic Alliances (forming partnerships with complementary businesses to cross-promote).
+-
+Continuous Evaluation (regularly assessing and adapting strategies based on market trends and user feedback).
+-
+Leverage Positive Feedback (showcasing positive user reviews and testimonials to build trust).
+-
+Localized Marketing (tailoring campaigns for specific regions or cultures).
+-
+Community Building (fostering a sense of community among users through forums and social media).
+8
+If we do not have enough money for marketing campaign
+it can badly effect on our business.
+EMPLOYEES; CONTRACTS
+We have no employees other than our officers and
+directors, Blas Mayor Reyes and Isabel Marin Vargas.
+OFFICES
+Our business office is located at C/ de l’Illa
+Formentera, 54, Quatre Carreres, 46026 Valencia, Spain and our phone number is +13072630861.
+GOVERNMENT AND INDUSTRY REGULATION
+We must adhere to all relevant laws and regulations
+that pertain directly or indirectly to our operations, including United States securities laws. Compliance with all regulations, rules,
+and directives from governmental authorities and agencies is mandatory for our services in Spain and for operating any facility in any
+jurisdiction where we conduct activities.
+We hold the view that government regulation will
+not significantly affect our business operations.
+EMERGING GROWTH COMPANY STATUS UNDER THE JOBS
+ACT
+Mercalot Inc. qualifies as an “emerging
+growth company” as defined in the Jumpstart our Business Startups Act (the “JOBS Act”).
+The JOBS Act creates a new category of issuers
+known as “emerging growth companies.” Emerging growth companies are those with annual gross revenues of less than $1,07 billion
+(as indexed for inflation) during their most recently completed fiscal year. The JOBS Act is intended to facilitate public offerings by
+emerging growth companies by exempting them from several provisions of the Securities Act of 1933 and its regulations. An emerging growth
+company will retain that status until the earliest of:
+·
+The first fiscal year after its annual revenues exceed $1,07 billion;
+·
+The first fiscal year after the fifth anniversary of its IPO;
+·
+The date on which the company has issued more than $1,07 billion in non-convertible debt during the previous three-year period; and
+·
+The first fiscal year in which the company has a public float of at least $700 million.
+9
+Financial and Audit Requirements
+Under the JOBS Act, emerging growth companies
+are subject to scaled financial disclosure requirements. Pursuant to these scaled requirements, emerging growth companies may:
+·
+Provide only two rather than three years of audited financial statements in their IPO Registration Statement;
+·
+Provide selected financial data only for periods no earlier than those included in the IPO Registration Statement in all SEC filings, rather than the five years of selected financial data normally required;
+·
+Delay compliance with new or revised accounting standards until they are made applicable to private companies; and
+·
+Be exempted from compliance with Section 404(b) of the Sarbanes-Oxley Act, which requires companies to receive an outside auditor’s attestation regarding the issuer’s internal controls.
+Offering Requirements
+In addition, during the IPO offering process,
+emerging growth companies are exempt from:
+·
+Restrictions on analyst research prior to and immediately after the IPO, even from an investment bank that is underwriting the IPO;
+·
+Certain restrictions on communications to institutional investors before filing the IPO registration statement; and
+Other Public Company Requirements
+Emerging growth companies are also exempt from
+other ongoing obligations of most public companies, such as:
+·
+The requirements under Section 14(i) of the Exchange Act and Section 953(b)(1) of the Dodd-Frank Act to disclose executive compensation information on pay-for-performance and the ratio of CEO to median employee compensation;
+·
+Certain other executive compensation disclosure requirements, such as the compensation discussion and analysis, under Item 402 of Regulation S-K; and
+·
+The requirements under Sections 14A (a) and (b) of the Exchange Act to hold advisory votes on executive compensation and golden parachute payments.
+10
+Election under Section 107(b) of the JOBS Act
+As an emerging growth company, we have made the
+irrevocable election to not adopt the extended transition period for complying with new or revised accounting standards under Section
+107(b), as added by Section 102(b), of the JOBS Act.  This election allows companies to delay the adoption of new or revised
+accounting standards that have different effective dates for public and private companies until those standards apply to private companies.
+DESCRIPTION OF PROPERTY
+OFFICES
+Our business office is located at C/ de l’Illa
+Formentera, 54, Quatre Carreres, 46026 Valencia, Spain. The office was provided by our officer and president Mr. Mayor Reyes for free
+use, without any payment. Based on current market rates for similar office spaces in the Valencia area, the approximate dollar value of
+this office space is $600 per month or $7,200 per year. Our telephone number is +13072630861.
+Item 1A. Risk Factors
+Not applicable to smaller reporting companies.
+Item 1B. Unresolved Staff Comments
+Not applicable to smaller reporting companies.
+Item
+1C. Cybersecurity.
+Mercalot
+Inc. has implemented basic but targeted cybersecurity risk management measures appropriate
+for its early-stage operations and limited digital footprint. As a digital marketplace operating
+in a primarily cloud-based environment, the Company’s exposure to cybersecurity threats
+is continuously monitored by executive management.
+The Company currently relies on third-party hosting
+and software providers for its core platform operations, email communications, and data storage. These vendors maintain their own cybersecurity
+programs, which include network protection, access controls, and incident response procedures. While Mercalot Inc. does not yet employ
+a dedicated IT security team, its directors are actively involved in overseeing operational and technological risk, including cybersecurity.
+Executive management, consisting of the Chief
+Executive Officer and the Board, is responsible for identifying, evaluating, and responding to potential cyber risks. The Company periodically
+reviews its internal systems and third-party vendor protocols to assess vulnerabilities and ensure secure handling of sensitive business
+information.
+To date, Mercalot Inc. has not experienced any
+material cybersecurity incidents, and no specific threat has materially affected or is reasonably likely to materially affect the Company’s
+business strategy, operations, or financial condition. However, the Company recognizes that its reliance on cloud infrastructure and
+digital communication tools poses an ongoing cybersecurity risk and will continue to assess and strengthen controls as operations scale.
+Management plans to formalize its
+cybersecurity policies and implement internal training protocols as the business grows.
+In 2024, we
+did
+not identify
+any cybersecurity threats that have materially affected or are reasonably likely to materially affect our business strategy, results
+of operations, or financial condition. However, despite our efforts, we cannot eliminate all risks from cybersecurity threats, or provide
+assurances that we have not experienced undetected cybersecurity incidents.
+Item 2. Description of Property
+We do not own any real estate or other properties.
+Item 3. Legal Proceedings
+We know of no legal proceedings to which we are
+a party or to which any of our property is the subject which are pending, threatened or contemplated or any unsatisfied judgments against
+us.
+Item 4. Mine Safety Disclosures
+Not applicable.
+11
+PART II
+Item 5. Market for Common Equity and Related Stockholder Matters
+Market Information
+There is a limited public market for our common
+shares. Our common shares are not quoted on the OTC Bulletin Board currently. Trading in stocks quoted on the OTC Bulletin
+Board is often thin and is characterized by wide fluctuations in trading prices due to many factors that may be unrelated to a company’s
+operations or business prospects. We cannot assure you that there will be a market in the future for our common stock.
+OTC Bulletin Board securities are not listed or
+traded on the floor of an organized national or regional stock exchange. Instead, OTC Bulletin Board securities transactions are
+conducted through a telephone and computer network connecting dealers in stocks. OTC Bulletin Board issuers are traditionally smaller
+companies that do not meet the financial and other listing requirements of a regional or national stock exchange.
+As of June 30, 2025 no shares of our common stock
+have traded.
+Number of Holders
+As of June 30, 2025, the 5,735,200 issued and
+outstanding shares of common stock were held by a total of 38 shareholder of record.
+Dividends
+No cash dividends were paid on our shares of common
+stock during the fiscal year ended June 30, 2025 and 2024
+Recent Sales of Unregistered Securities
+The Company has 75,000,000, $0.001 par value shares
+of common stock authorized.
+On April 30, 2024, the Company issued a total
+of 3,000,000 shares of restricted common stock to Blas Mayor Reyes, our officer and director, in consideration of $300 at $0.0001 per
+share in exchange for the provision of his services to the Company. Pursuant to the Service Agreement, dated April 30, 2024, Blas Mayor
+Reyes, our officer and director provided next services to the Company: business plan development and market analysis; preparing the “Form
+S-1. Registration Statement”; preparing all supporting documents (including BYLAWS, Resolutions, Subscription Agreements, etc.);
+preparing the financial statements for the Company. On July 5, 2024 was signed Act of Acceptance, confirming the implementation of Service
+Agreement.
+In December 2024, the Company issued 1,040,000 shares of common stock
+for cash proceeds of $10,400 at $0.01 per share.
+12
+In January 2025, the Company issued 1,095,200 shares of common stock
+for cash proceeds of $10,952 at $0.01 per share.
+In February 2025, the Company issued 445,000 shares of common stock
+for cash proceeds of $4,450 at $0.01 per share.
+In March 2025, the Company issued 155,000 shares of common stock for
+cash proceeds of $1,550 at $0.01 per share.
+There were 5,735,200 shares of common stock issued
+and outstanding as of June 30, 2025.
+Purchase of our Equity Securities by Officers
+and Directors
+On April 30, 2024, the Company issued a total
+of 3,000,000 shares of restricted common stock to Blas Mayor Reyes, our officer and director, in consideration of $300 at $0.0001 per
+share in exchange for the provision of his services to the Company. Pursuant to the Service Agreement, dated April 30, 2024, Blas Mayor
+Reyes, our officer and director provided next services to the Company: business plan development and market analysis; preparing the “Form
+S-1. Registration Statement”; preparing all supporting documents (including BYLAWS, Resolutions, Subscription Agreements, etc.);
+preparing the financial statements for the Company. On July 5, 2024 was signed Act of Acceptance, confirming the implementation of Service
+Agreement. Further, no commissions were paid to anyone in connection with the sale of these shares and general solicitation was not made
+to anyone.
+Other Stockholder Matters
+None.
+Item 6. Selected Financial Data
+Not applicable to smaller reporting companies.
+Item 7. Management's Discussion and Analysis
+of Financial Condition and Results of Operations
+The following discussion should be read in conjunction
+with our financial statements, including the notes thereto, appearing elsewhere in this annual report. The following discussion contains
+forward-looking statements that reflect our plans, estimates and beliefs.  Our actual results could differ materially from those
+discussed in the forward-looking statements. Our audited financial statements are stated in United States Dollars and are
+prepared in accordance with United States Generally Accepted Accounting Principles.
+Results of Operations
+for the year ended June 30, 2025 and June 30,2024:
+Revenue and cost of
+goods sold
+For the year ended June
+30, 2025 the Company generated total revenue of $3,900 from services to the customers.
+For the year ended June
+30, 2024 the Company generated total revenue of $0 from services to the customers.
+13
+Operating expenses
+Total operating expenses
+for the year ended June 30, 2025 were $40,165. The operating expenses for the year ended June 30, 2025 included consulting services of
+$14,000; bank charges of $225; depreciation expense of $9,408; legal fees of $1,892; audit fees of $11,000; professional fees of $3,640.
+Total operating expenses
+for the year ended June 30, 2024 were $2,031. The operating expenses for the year ended June 30, 20254 included bank charges of $32; legal
+fees of $1,500; professional fees of $499.
+Net Loss
+The net loss for the
+year ended June 30, 2025 was $36,265.
+The net loss for the
+year ended June 30, 2024 was $2,031.
+Liquidity and Capital
+Resources and Cash Requirements
+At year ended June 30, 2025, the Company had cash of $39,246. Furthermore,
+the Company had a working deficit of $10,644.
+During the year ended June 30, 2025, the Company
+provided $3,643 of cash in operating activities due to its net loss and increase in deferred revenue of $16,500, increase in accounts
+payable of $14,000 and depreciation of $9,408.
+During the year ended June 30, 2025, the Company
+used $0 of cash in investing activities.
+During the year ended June 30, 2025, the Company
+generated $35,104 of cash in financing activities.
+At year ended June 30, 2024, the Company had cash of $499. Furthermore,
+the Company had an accumulated deficit of $1,731.
+During the year ended June 30, 2024, the Company
+used $2,031 of cash in operating activities due to its net loss.
+During the year ended June 30, 2024, the Company
+used $47,000 of cash in investing activities.
+During the year ended June 30, 2024, the Company
+generated $49,530 of cash in financing activities.
+We cannot guarantee that we will manage to sell
+all the shares required. We will attempt to raise the necessary funds to proceed with all phases of our plan of operation.
+14
+Management believes that current trends toward
+lower capital investment in start-up companies pose the most significant challenge to the Company’s success over the next year and
+in future years. Additionally, the Company will have to meet all the financial disclosure and reporting requirements associated with being
+a publicly reporting company. The Company’s management will have to spend additional time on policies and procedures to make sure
+it is compliant with various regulatory requirements, especially that of Section 404 of the Sarbanes-Oxley Act of 2002. This additional
+corporate governance time required of management could limit the amount of time management has to implement is business plan and impede
+the speed of its operations.
+Limited operating history; need for additional
+capital
+There is no historical
+financial information about us upon which to base an evaluation of our performance. We are in a start-up stage of operations and have
+generated limited revenues since inception. We cannot guarantee that we will be successful in our business operations. Our business is
+subject to risks inherent in the establishment of a new business enterprise, including limited capital resources and possible cost overruns
+due to price and cost increases in services and products.
+Off-Balance Sheet
+Arrangements
+The Company does not
+have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on the Company's financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk
+Not applicable to smaller reporting companies.
+Item 8. Financial Statements and Supplementary
+Data
+Mercalot Inc.
+FINANCIAL STATEMENTS
+Year ended June 30, 2025 and From April 24,
+2024 (Inception) through June 30, 2024
+Table of Contents
+Page
+Report of Independent Registered Public Accounting Firm
+F-1
+Balance Sheets as of June 30, 2025 and June 30, 2024
+F-2
+Statements of Operations for the year ended June 30, 2025 and From April 24, 2024 (Inception) through June 30, 2024
+F-3
+Statements of Stockholders’ Deficit for the year ended June 30, 2025 and From April 24, 2024 (Inception) through June 30, 2024
+F-4
+Statements of Cash Flows for the year ended June 30, 2025 and From April 24, 2024 (Inception) through June 30, 2024
+F-5
+Notes to Financial Statements
+F-6
+15
+VICTOR
+MOKUOLU, CPA PLLC
+Accounting
+| Advisory | Assurance & Audit | Tax
+Report
+of Independent Registered Public Accounting Firm
+To the Owners and
+Board of Directors of Mercalot, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets
+of Mercalot, Inc. (the “Company”) as of June 30, 2025 and June 30, 2024, and the related statements of operations, stockholders’
+deficit, and cash flows from inception date of April 24, 2024 to June 30, 2025 and the year ended June 30, 2025, and the related notes
+(collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of June 30, 2025, and the results of its operations and its cash flows from inception date of
+April 24, 2024 to June 30, 2025 and the year ended June 30, 2025, in conformity with accounting principles generally accepted in the United
+States of America.
+Substantial Doubt about the Company's ability
+to continue as a Going Concern
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 2, Going Concern, to the financial statements,
+the Company has an accumulated deficit of $38,296 as of June 30, 2025, and net loss of $36,265. These factors raise substantial doubt
+about its ability to continue as a going concern. The financial statements do not include any adjustments that might result from the outcome
+of this uncertainty. In light of management’s efforts, there are no assurances that the Company will be successful in this or any
+of its endeavors or become financially viable and continue as a going concern.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+/s/ Victor Mokuolu, CPA, PLLC
+We have served as the Company’s auditor since 2024.
+Houston, Texas
+August 12, 2025
+PCAOB ID: 6771
+www.vmcpafirm.com
+| Ph: 713.588.6622 | Fax: 1.833.694.1494 | ask@vmcpafirm.com
+F-1
+Mercalot Inc.
+BALANCE SHEETS
+As of June 30, 2025
+As of June 30, 2024
+ASSETS
+Current Assets
+Cash and cash equivalents
+$39,246
+$499
+Total Current Assets
+39,246
+499
+Total Intangible Assets, Net
+37,592
+47,000
+Total Assets
+$76,838
+$47,499
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current Liabilities
+Accounts payable-related party
+$14,000
+$–
+Deferred revenue
+16,500
+–
+Related party loan
+56,982
+49,230
+Total Current Liabilities
+87,482
+49,230
+Total Liabilities
+87,482
+49,230
+Stockholders’ Deficit
+Common stock, par value $0.0001; 75,000,000 shares authorized, 5,735,200 and 3,000,000 shares issued and outstanding as of June 30, 2025 and June 30, 2024, respectively
+574
+300
+Additional paid in capital
+27,078
+–
+Accumulated deficit
+(38,296)
+(2,031)
+Total Stockholders’ Deficit
+(10,644)
+(1,731)
+Total Liabilities and Stockholders’ Deficit
+$76,838
+$47,499
+See accompanying notes, which are an integral part
+of these financial statements
+F-2
+Mercalot Inc.
+STATEMENTS OF OPERATIONS
+Year ended June 30, 2025 and From April 24, 2024
+(Inception) through June 30, 2024
+Year ended June 30, 2025
+From April 24, 2024
+(Inception) through
+June 30, 2024
+REVENUES
+$3,900
+$–
+OPERATING EXPENSES
+General and Administrative Expenses
+(30,757)
+(2,031)
+Amortization
+(9,408)
+–
+TOTAL OPERATING EXPENSES
+(40,165
+(2,031)
+LOSS FROM OPERATIONS
+(36,265)
+(2,031)
+PROVISION FOR INCOME TAXES
+–
+–
+NET LOSS
+$(36,265)
+$(2,031)
+NET LOSS PER SHARE: BASIC AND DILUTED
+$(0.00)
+$(0.00)
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING: BASIC AND DILUTED
+4,254,662
+3,000,000
+See accompanying notes, which are an integral part
+of these financial statements
+F-3
+Mercalot Inc.
+STATEMENTS OF STOCKHOLDERS’ DEFICIT
+Year ended June 30, 2025 and From April 24, 2024
+(Inception) through June 30, 2024
+Common Stock
+Additional Paid-in
+Accumulated
+Total Stockholders’
+Shares
+Amount
+Capital
+Deficit
+Deficit
+Inception, April 24, 2024
+–
+$–
+$–
+$–
+$–
+Shares issued prematurely for subscription agreement on April 30, 2024
+3,000,000
+300
+–
+–
+300
+Net loss for the period From April 24, 2024 (Inception) through June 30, 2024
+–
+–
+–
+(2,031)
+(2,031)
+Balance, June 30, 2024
+3,000,000
+$300
+$–
+$(2,031)
+$(1,731)
+Issuance of common stock
+2,735,200
+274
+27,078
+–
+27,352
+Net loss for the year ended June 30, 2025
+–
+–
+–
+(36,265)
+(36,265)
+Balance, June 30, 2025
+5,735,200
+$574
+$27,078
+$(38,296)
+$(10,644)
+See accompanying notes, which are an integral part
+of these financial statements
+F-4
+Mercalot Inc.
+STATEMENTS OF CASH FLOWS
+Year ended June 30, 2025 and From April 24, 2024
+(Inception) through June 30, 2024
+Year ended June 30, 2025
+From April 24, 2024 (Inception) through June 30, 2024
+CASH USED IN OPERATING ACTIVITIES
+Net loss
+$(36,265)
+$(2,031)
+Adjustments to reconcile net loss to net cash provided by (used in) operations:
+Amortization Expense
+9,408
+–
+Change in assets and liabilities:
+Deferred Revenue
+16,500
+–
+Accounts payable-related party
+14,000
+–
+Net Cash provided by (used in) Operating Activities
+3,643
+(2,031)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchase of Mobile Application and Website
+–
+(47,000)
+CASH USED IN INVESTING ACTIVITIES
+–
+(47,000)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Related Party Loans
+7,752
+49,230
+Issuance of stock
+27,352
+300
+Net Cash provided by Financing Activities
+35,104
+49,530
+NET CHANGE IN CASH
+38,747
+499
+Cash, beginning of period
+499
+–
+Cash, end of period
+$39,246
+$499
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Interest paid
+$–
+$–
+Income taxes paid
+$–
+$–
+See accompanying notes, which are an integral part
+of these financial statements
+F-5
+Mercalot Inc.
+NOTES TO THE FINANCIAL STATEMENTS
+June 30, 2025
+Note 1 – ORGANIZATION AND NATURE OF BUSINESS
+Mercalot Inc. (“the Company”) was
+incorporated on April 24, 2024 under the laws of the state of Wyoming. We are a development stage company that is providing an informational
+online commerce and classifieds platform, which are also known as online marketplace. We have purchased a mobile application known as
+“SafeDeal Connect”, which is already working and in use. Also, we have the website, which is a representation of our application
+and introduces its functions to users. Our executive and business office is located at C/ de l'Illa Formentera, 54, Quatre Carreres, 46026
+Valencia, Spain, and our telephone number is +13072630861.
+Note 2 – GOING CONCERN
+The accompanying financial statements have been
+prepared in conformity with accounting principles generally accepted in the United States (“GAAP”), which contemplate continuation
+of the Company as a going concern. The Company had $3,900 revenues for the year ended June 30, 2025, compared to $0 from April 24,
+2024 (Inception) through June 30, 2024 . The Company had an accumulated deficit of $38,296 as of June 30,2025, and a net loss of
+$36,265 for the year ended June 30, 2025. These factors raise substantial doubt about the Company’s ability to continue as a going
+concern. Therefore, there is substantial doubt about the Company’s ability to continue as a going concern. Management anticipates
+that the Company will be dependent, for the near future, on additional investment capital to fund operating expenses The Company intends
+to position itself so that it will be able to raise additional funds through the capital markets. In light of management’s efforts,
+there are no assurances that the Company will be successful in this or any of its endeavors or become financially viable and continue
+as a going concern.
+Note 3 – SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES
+Basis of presentation
+The accompanying financial statements have been
+prepared in accordance with GAAP.
+The Company’s year-end is June 30.
+Development Stage Company
+The Company is a development stage company as
+defined in ASC 915 “Development Stage Entities”. The Company is devoting substantially all of its efforts on establishing
+the business and its planned principal operations have not commenced. All losses accumulated since Inception has been considered as part
+of the Company's development stage activities.
+The Company has elected to adopt application of
+Accounting Standards Update No. 2014-10, Development Stage Entities (Topic 915): Elimination of Certain Financial Reporting Requirements.
+Upon adoption, the Company no longer presents or discloses inception-to-date information and other remaining disclosure requirements of
+Topic 915.
+Use of Estimates
+The preparation of financial statements in conformity
+with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+F-6
+Due to the limited level of operations, the Company
+has not had to make material assumptions or estimates other than the assumption that the Company is a going concern.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments
+with original maturities of three months or less to be cash equivalents.
+Income Taxes
+Income taxes are computed using the asset and
+liability method.  Under the asset and liability method, deferred income tax assets and liabilities are determined based on the differences
+between the financial reporting and tax bases of assets and liabilities and are measured using the currently enacted tax rates and laws.
+A valuation allowance is provided for the amount of deferred tax assets that, based on available evidence, are not expected to be
+realized.
+Fair Value of Financial Instruments
+ASC topic 820 "Fair Value Measurements and
+Disclosures" establishes a three-tier fair value hierarchy, which prioritizes the inputs in measuring fair value. The hierarchy prioritizes
+the inputs into three levels based on the extent to which inputs used in measuring fair value are observable in the market.
+These tiers include:
+Level 1:
+defined as observable inputs such as quoted prices in active markets.
+Level 2:
+defined as inputs other than quoted prices in active markets that are either directly or indirectly observable; and
+Level 3:
+defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.
+The carrying value of cash and the Company’s
+loan from shareholder approximates their fair value due to their short-term maturity.
+Stock-Based Compensation
+Stock-based compensation is accounted for at fair
+value in accordance with ASC Topic 718. To date, the Company has not adopted a stock option plan and has not granted any stock options.
+Basic Income (Loss) Per Share
+The Company computes income (loss) per share in
+accordance with ASC 260 “Earnings per Share”. Basic loss per share is computed by dividing net income (loss) available to
+common shareholders by the weighted average number of outstanding common shares during the period. Diluted income (loss) per share gives
+effect to all dilutive potential common shares outstanding during the period. The Company believe to have potential dilutive effects with
+warrants, convertible debt, etc. Dilutive loss per share excludes all potential common shares if their effect is anti-dilutive. For
+the year ended June 30, 2025 there were no potentially dilutive debt or equity instruments issued or outstanding.
+Recent Accounting Pronouncements
+On November
+27, the FASB issued ASU 2023-07, Segment Reporting (Topic 280) — Improvements to Reportable Segment Disclosures. The biggest change
+in the ASU is the requirement for a public entity to disclose its significant segment expense categories and amounts for each
+reportable segment.
+F-7
+ASU 2023-09, Income Taxes (Topic 740):
+Improvements to Income Tax Disclosures. The amendments in this ASU address investor requests
+for more transparency about income tax information through improvements to income tax disclosures primarily related to an entity's effective
+tax rate reconciliation and income taxes paid information.
+We have reviewed all other the recently issued,
+but not yet effective and thus not disclosed here, accounting pronouncements and we do not believe any of those pronouncements will have
+a material impact on the Company’ financial position, results of operations or cash flows.
+Note 4 – INTANGIBLE ASSETS
+The Company follows the provisions of ASC 985,
+Software, which requires that all costs relating to the purchase or internal development and production of software products to be sold,
+leased or otherwise marketed, be expensed in the period incurred. The Company amortizes these costs using the straight-line method over
+the remaining estimated economic life of the product.
+As of June 30, 2025, the Company purchased a
+mobile application and website for $47,000,
+which is being amortized over a five-year life. There was $9,408
+of accumulated amortization as of June 30, 2025
+Note 5 – RELATED PARTY TRANSACTIONS
+As of June 30, 2025,
+the Company owed $56,982 to the Company’s directors, Blas Mayor Reyes and Isabel Marin Vargas, for the Company’s working capital
+purposes. The amount is outstanding and payable upon request.
+Note 6 – COMMON STOCK
+On April 30, 2024, the Company issued a total
+of 3,000,000 shares of restricted common stock to Blas Mayor Reyes, our officer and director, in consideration of $300 at $0.0001 per
+share in exchange for the provision of his services to the Company. Pursuant to the Service Agreement, dated April 30, 2024, Blas Mayor
+Reyes, our officer and director provided next services to the Company: business plan development and market analysis; preparing the “Form
+S-1. Registration Statement”; preparing all supporting documents (including BYLAWS, Resolutions, Subscription Agreements, etc.);
+preparing the financial statements for the Company. On July 5, 2024 was signed Act of Acceptance, confirming the implementation of Service
+Agreement.
+In December 2024, the Company issued 1,040,000 shares of common stock
+for cash proceeds of $10,400 at $0.01 per share.
+In January 2025, the Company issued 1,095,200 shares of common stock
+for cash proceeds of $10,952 at $0.01 per share.
+In February 2025, the Company issued 445,000 shares of common stock
+for cash proceeds of $4,450 at $0.01 per share.
+In March 2025, the Company issued 155,000 shares of common stock for
+cash proceeds of $1,550 at $0.01 per share.
+As of June 30, 2025, the Company had 5,735,200
+shares issued and outstanding.
+Note 7 – COMMITMENTS AND CONTINGENCIES
+From time-to-time, the Company is subject to various
+litigation and other claims in the normal course of business. The Company establishes liabilities in connection with legal actions that
+management deems to be probable and estimable (if any). No such event or amounts have been accrued in the financial statements with respect
+to any litigation or other claim matters.
+F-8
+Note 8 – INCOME TAXES
+The reconciliation of
+income tax benefit (expenses) at the U.S. statutory rate at 21% for the year ended June 30, 2025 and from April 24, 2024 (Inception) through
+June 30, 2024 as follows:
+Schedule of reconciliation of
+income tax benefit
+Year ended June 30, 2025
+From April 24, 2024 (Inception) through June 30, 2024
+Tax benefit (expenses) at U.S. statutory rate
+$(8,042)
+$(2,031)
+Change in valuation allowance
+$8,042
+$2,031
+Tax benefit (expenses) net
+$–
+$–
+The tax effects of temporary differences that give rise to significant
+portions of the net deferred tax assets are as follows:
+Schedule of income taxes
+Year ended June 30, 2025
+From April 24, 2024 (Inception) through June 30, 2024
+Net operating loss
+$(7,616)
+$(427)
+Valuation allowance
+$7,616
+$427
+Deferred tax assets, net
+$–
+$–
+The Company has accumulated approximately $36,265
+of net operating losses (“NOL”) carried forward to offset future taxable income up to 20 years, if any, in future years which
+begin to expire in year 2040. In assessing the realization of deferred tax assets, management considers whether it is more likely than
+not that some portion or all the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon
+the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers
+the scheduled reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment.
+Based on the assessment, management has established a full valuation allowance against all the deferred tax asset relating to NOLs for
+every period because it is more likely than not that all of the deferred tax asset will not be realized.
+Note 9 – SUBSEQUENT EVENTS
+In accordance with ASC 855, “Subsequent
+Events”, the Company has analyzed its operations subsequent to June 30, 2025 to the date these financial statements were issued
+and has determined that it does not have any material subsequent events to disclose in these financial statements.
+F-9
+Item 9. Changes In and Disagreements with Accountants
+on Accounting and Financial Disclosure
+None.
+Item 9A(T) Controls and Procedures
+Management’s Report on Internal Controls
+over Financial Disclosure Controls and Procedures
+Management is responsible for establishing and
+maintaining adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company’s internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United
+States of America. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because
+of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the supervision and
+with the participation of management, including the Chief Executive Officer and Chief Financial Officer, the Company conducted an evaluation
+of the effectiveness of the Company’s internal control over financial reporting as of June 30, 2025 using the criteria established
+in “Internal Control - Integrated Framework” issued by the Committee of Sponsoring Organizations of the Treadway Commission
+("COSO").
+A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of
+the effectiveness of internal control over financial reporting as of June 30, 2025, the Company determined that there were control deficiencies
+that constituted material weaknesses, as described below.
+1.We do not have an Audit Committee – While not being legally obligated to have an audit committee,
+it is the management’s view that such a committee, including a financial expert member, is an utmost important entity level control
+over the Company’s financial statement. Currently the Board of Directors acts in the capacity of the Audit Committee and does not
+include a member that is considered to be independent of management to provide the necessary oversight over management’s activities.
+2.We did not maintain appropriate cash controls – As of June 30, 2025, the Company has not maintained
+sufficient internal controls over financial reporting for the cash process, including failure to segregate cash handling and accounting
+functions, and did not require dual signature on the Company’s bank accounts. Alternatively, the effects of poor cash controls were
+mitigated by the fact that the Company had limited transactions in their bank accounts.
+3.We did not implement appropriate information technology controls – As at June 30, 2025, the Company
+retains copies of all financial data and material agreements; however there is no formal procedure or evidence of normal backup of the
+Company’s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors.
+Accordingly, the Company concluded that these
+control deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will
+not be prevented or detected on a timely basis by the company’s internal controls.
+As a result of the material weaknesses described
+above, management has concluded that the Company did not maintain effective internal control over financial reporting as of June 30, 2025
+based on criteria established in Internal Control- Integrated Framework issued by COSO.
+System of Internal Control over Financial
+Reporting
+Our management is responsible for establishing
+and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that
+is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is
+recorded, processed, summarized and reported, within the time periods specified in the Commission’s rules and forms. Disclosure
+controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed
+by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s management,
+including its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions,
+as appropriate to allow timely decisions regarding required disclosure.
+16
+An evaluation was conducted under the supervision
+and with the participation of our management of the effectiveness of the design and operation of our disclosure controls and procedures
+as of June 30, 2025. Based on that evaluation, our management concluded that our disclosure controls and procedures were not effective
+as of such date to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act, is recorded,
+processed, summarized and reported within the time periods specified in SEC rules and forms.
+Changes in Internal Control over Financial
+Reporting
+There was no change in the Company’s internal
+control over financial reporting during the quarterly period covered by this report that has materially affected, or is reasonably likely
+to materially affect, the Company’s internal control over financial reporting.
+Item 9B. Other Information.
+During
+the quarter ended June 30, 2025, no director or officer of the Company adopted or terminated a “Rule 10b5-1
+trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of
+Regulation S-K.
+Insider Trading Policies and Procedures
+As of June 30, 2025, we do not maintain a formal
+insider trading policy or procedures governing the purchase, sale, or other disposition of our securities by directors, officers, or
+employees. This is due to our early-stage operations, limited resources, and the lack of equity awards granted to management or staff
+during the reporting period. We intend to adopt a formal insider trading policy in the future as our corporate governance structures
+evolve.
+17
+PART III
+Item 10. Directors, Executive Officers, Promoters
+and Control Persons of the Company
+Our executive officers and directors, their names,
+age, and their positions as of the date of this report are as follows:
+Name and Address
+Age
+Position(s)
+Blas Mayor Reyes
+39
+President,
+C/ de l’Illa Formentera, 54, Quatre Carreres,
+Chief Financial Officer,
+46026 Valencia, Spain
+Chief Executive Officer,
+Director
+Isabel Marin Vargas
+62
+Director
+C/ de l’Illa Formentera, 54, Quatre Carreres,
+46026 Valencia, Spain
+Blas Mayor Reyes and Isabel Marin Vargas have
+been holding the above stated positions since the inception of the Company and are expected to hold them until the next annual meeting
+of our stockholders. Thereby, Mr. Blas Mayor Reyes and Isabel Marin Vargas are currently the Officers/Directors and control persons of
+Mercalot Inc.
+BACKGROUND INFORMATION ABOUT OUR OFFICERS AND
+DIRECTORS
+Blas Mayor Reyes, age 39
+Mr. Mayor Reyes has served as the Company’s
+President, Chief Executive Officer, Secretary, Treasurer and a Director since its incorporation on April 24, 2024.
+He has got the bachelor of Business Administration
+in Breda University of Applied Sciences. He has been self-employed for the last 5 years.
+His role in most projects
+was to provide advisory services, develop the company’s strategy and promote various products on the market. He has also completed
+QA and Test Automation courses and participated in software development projects, which has provided him with a strong technical background
+in understanding the processes of creating and promoting mobile applications.
+Blas Mayor Reyes possesses
+qualities such as creativity, leadership skills, analytical abilities, persuasive power, inspirational capacity, team unification, sociability,
+stress tolerance, and responsibility. These attributes lead us to conclude that he is well-suited to manage our business.
+Isabel Marin Vargas,
+age 62
+Isabel Marin Vargas has
+served as Director since its incorporation on April 24, 2024.
+She has extensive experience
+in sales and has been involved in procurement for different businesses and sales promotion in various industries. She has completed courses
+in marketing and sales strategies and has widely applied her knowledge in practice.
+For the last 10 years,
+she has been working for herself, consulting clients in developing sales strategies and successfully investing in diverse public companies.
+Isabel Marin Vargas’
+experience is very valuable for our company, and her dedication, creativity, communication skills and responsibility will help to run
+our business effectively.
+18
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+In the event that we register under the Securities
+Exchange Act of 1934 (the “Exchange Act” or “1934 Act”), Section 16(a) of that act will require our directors
+and executive officers, and persons who own more than ten percent of our common stock, to file with the Securities and Exchange Commission
+initial reports of ownership and reports of changes of ownership of our common stock. Officers, directors and greater than ten percent
+stockholders will be required by SEC regulation to furnish us with copies of all Section 16(a) forms they file.
+We intend to ensure to the best of our ability
+that all Section 16(a) filing requirements applicable to our officers, directors and greater than ten percent beneficial owners are complied
+with in a timely fashion.
+Item 11. Executive Compensation
+Since inception, we have not paid any compensation
+to our officers or directors. The table below summarizes all compensation awarded to, earned by, or paid to our executive officers by
+any person for all services rendered in all capacities to us for the fiscal period June 30, 2025.
+SUMMARY COMPENSATION TABLE
+Name
+Non-Equity Incentive Plan
+Change in Pension Value and Nonqualified Deferred Compen-
+All Other
+Principal
+Stock
+Option
+Compen-
+sation
+Compen-
+Position
+Year
+Salary
+Bonus
+Awards
+Awards
+sation
+Earnings
+sation
+Totals
+Blas Mayor Reyes, President, CEO, CFO
+2024-2025
+$
+0
+$
+0
+$
+300
+$
+0
+$
+0
+$
+0
+$
+0
+$
+300
+Isabel Marin Vargas, Director
+2024-2025
+$
+1,000
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+0
+$
+14,000
+OUTSTANDING EQUITY AWARDS AT JUNE 30, 2025
+Option Awards
+Stock Awards
+Equity
+Incentive
+Equity
+Plan
+Incentive
+Awards:
+Plan
+Market or
+Awards:
+Payout
+Equity
+Number of
+Value of
+Incentive
+Number
+Unearned
+Unearned
+Plan Awards;
+of
+Market
+Shares,
+Shares,
+Number of
+Number of
+Number of
+Shares
+Value of
+Units or
+Units or
+Securities
+Securities
+Securities
+or Units
+Shares or
+Other
+Other
+Underlying
+Underlying
+Underlying
+of Stock
+Units of
+Rights
+Rights
+Unexercised
+Unexercised
+Unexercised
+Option
+Option
+That
+Stock That
+That
+That
+Options (#)
+Options (#)
+Unearned
+Exercise
+Expiration
+Have Not
+Have Not
+Have Not
+Have Not
+Name
+Exercisable
+Unexercisable
+Options (#)
+Price
+Date
+Vested(#)
+Vested
+Vested
+Vested
+Blas Mayor Reyes
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Isabel Marin Vargas
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+OFFICER COMPENSATION
+Change in
+Pension
+Value and
+Fees
+Non-Equity
+Nonqualified
+Earned
+Incentive
+Deferred
+Paid in
+Stock
+Option
+Plan
+Compensation
+All Other
+Name
+Cash
+Awards
+Awards
+Compensation
+Earnings
+Compensation
+Total
+Blas Mayor Reyes
+0
+0
+0
+0
+0
+0
+0
+Isabel Marin Vargas
+0
+0
+0
+0
+0
+0
+0
+Mr. Mayor Reyes and Isabel Marin Vargas currently
+devote approximately thirty hours each per week to manage our affairs. They have agreed to work with no remuneration until such time as
+we generate profits from operations. At this time, we cannot accurately estimate when this will occur, if ever, to implement this compensation,
+or what the amount of the compensation will be.
+There are no annuity, pension or retirement benefits
+proposed to be paid to the officer or director or employees in the event of retirement at normal retirement date pursuant to any presently
+existing plan provided or contributed to by the company or any of its subsidiaries, if any.
+OPTION GRANTS. There have been no individual
+grants of stock options to purchase our common stock made to the executive officer named in the Summary Compensation Table.
+AGGREGATED OPTION EXERCISES AND FISCAL YEAR-END
+OPTION VALUE. There have been no stock options exercised by the executive officer named in the Summary Compensation Table.
+LONG-TERM INCENTIVE PLAN (“LTIP”)
+AWARDS. There have been no awards made to a named executive officer in the last completed fiscal year under any LTIP.
+COMPENSATION OF DIRECTORS
+Directors are permitted to receive fixed fees
+and other compensation for their services as directors. The Board of Directors has the authority to fix the compensation of directors.
+No amounts have been paid to, or accrued to, our director in such capacity.
+EMPLOYMENT AGREEMENTS
+Currently we do not have any employment agreements.
+Item 402(x): Equity Award Timing Disclosure
+We do not grant equity awards in anticipation of the release of material
+nonpublic information that is likely to result in changes to the price of our common stock, and do not time the public release of such
+information based on award grant dates. During the last completed fiscal year, we have not made awards to any named executive officer
+or director during the period beginning four business days before and ending one business day after the filing of a period report on
+Form 10-Q or Form 10-K or the filing or furnishing of a current report on Form 8-K, and we have not timed the disclosure of material
+nonpublic information for the purpose of affecting the value of executive compensation.
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters
+The following table lists,
+as of the date of this report, the number of shares of common stock of our Company that are beneficially owned by (i) each person or entity
+known to our Company to be the beneficial owner of more than 5% of the outstanding common stock; (ii) each officer and director of our
+Company; and (iii) all officers and directors as a group. Information relating to beneficial ownership of common stock by our principal
+shareholders and management is based upon information furnished by each person using “beneficial ownership” concepts under
+the rules of the Securities and Exchange Commission. Under these rules, a person is deemed to be a beneficial owner of a security if that
+person has or shares voting power, which includes the power to vote or direct the voting of the security, or investment power, which includes
+the power to vote or direct the voting of the security. The person is also deemed to be a beneficial owner of any security of which that
+person has a right to acquire beneficial ownership within 60 days. Under the Securities and Exchange Commission rules, more than one person
+may be deemed to be a beneficial owner of the same securities, and a person may be deemed to be a beneficial owner of securities as to
+which he or she may not have any pecuniary beneficial interest. Except as noted below, each person has sole voting and investment power.
+20
+The percentages below
+are calculated based on 5,735,200 shares of our common stock issued and outstanding as of the date of this report.
+Title of class
+Name and Address of Beneficial Owner
+Amount and
+Nature of
+Beneficial Ownership
+Percent of
+Common Stock
+Common Stock
+Blas Mayor Reyes
+C/ de l’Illa Formentera, 54, Quatre Carreres,
+46026 Valencia, Spain
+3,000,000
+52%
+All directors and executive officers as a group (2 persons)
+3,000,000
+52%
+Item 13. Certain Relationships and Related
+Transactions
+On April 30, 2024, we issued a total of 3,000,000
+shares of restricted common stock valued at 0.0001 per share to Blas Mayor Reyes, our officer and director, for providing services such
+as company incorporation, preparation of S-1, preparation year end financials in consideration of $300.
+Further, Isabel Marin Vargas and Blas Mayor Reyes
+have verbally agreed to advance funds to us for implementing our business plan. Isabel Marin Vargas and Mr. Mayor Reyes will be repaid
+from revenues of operations if and when we generate revenues to pay the obligation. There is no assurance that we will ever generate revenues
+from our operations. The obligation to Isabel Marin Vargas and Mr. Mayor Reyes does not bear interest. There is no written agreement evidencing
+the advancement of funds by Isabel Marin Vargas and Mr. Mayor Reyes or the repayment of the funds to them. The entire transaction was
+oral.
+Item 14. Principal Accountant Fees and Services
+During fiscal year ended June 30, 2025, we
+incurred approximately $11,000 in fees to our principal independent accountants for professional services rendered in connection
+with the audit of our September 30,2024 financial statements and for the reviews of our financial statements for the quarters ended September
+30, 2024, December 31, 2024 and March 31, 2025.
+21
+PART IV
+Item 15. Exhibits
+The following exhibits are included as part of
+this report by reference:
+31.1
+Certification of Chief Executive Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a).
+31.2
+Certification of Chief Financial Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a).
+32.1
+Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted in IXBRL, and included in exhibit 101).
+Item 16. Form 10-K Summary.
+None.
+22
+SIGNATURES
+In accordance with the requirements of the Securities Act of 1933,
+the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized,
+on August 12, 2025.
+Mercalot Inc., Registrant
+By:
+/s/ Blas Mayor Reyes
+Blas Mayor Reyes, President, Secretary,
+Treasurer, Principal Executive Officer,
+Principal Financial Officer and
+Principal Accounting Officer and
+Director
+By:
+/s/ Isabel Marin Vargas
+Isabel Marin Vargas, Director
+Pursuant to the requirements of the Securities Act of 1933, this registration
+statement has been signed by the following persons in the capacities and on the dates indicated.
+Dated: August 12, 2025
+By:
+/s/ Blas Mayor Reyes
+Blas Mayor Reyes, President, Secretary,
+Treasurer, Principal Executive Officer,
+Principal Financial Officer and
+Principal Accounting Officer and
+Director
+By:
+/s/ Isabel Marin Vargas
+Isabel Marin Vargas, Director
+23

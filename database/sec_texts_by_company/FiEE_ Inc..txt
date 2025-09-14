@@ -1,0 +1,776 @@
+true
+2023
+FY
+0001467761
+0001467761
+2023-01-01
+2023-12-31
+0001467761
+2023-06-30
+0001467761
+2025-07-25
+0001467761
+2023-12-31
+0001467761
+2022-12-31
+0001467761
+2022-01-01
+2022-12-31
+0001467761
+us-gaap:CommonStockMember
+2021-12-31
+0001467761
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001467761
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001467761
+2021-12-31
+0001467761
+us-gaap:CommonStockMember
+2022-12-31
+0001467761
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001467761
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001467761
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001467761
+us-gaap:AdditionalPaidInCapitalMember
+2022-01-01
+2022-12-31
+0001467761
+us-gaap:RetainedEarningsMember
+2022-01-01
+2022-12-31
+0001467761
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001467761
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001467761
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001467761
+us-gaap:CommonStockMember
+2023-12-31
+0001467761
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001467761
+us-gaap:RetainedEarningsMember
+2023-12-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:sqft
+MINM:Integer
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2023
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from: _____________ to _____________
+Commission File Number: 1-37649
+FIEE, INC. (formerly MINIM, INC.)
+(Exact name of registrant as specified in its charter)
+Delaware
+04-2621506
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer Identification No.)
+848 Elm Street, Manchester, New Hampshire 03101
+(Address of Principal Executive Office) (Zip Code)
+(617) 423-1072
+(Registrant’s telephone number, including area code)
+Securities Registered Pursuant to Section 12 (b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Exchange on which Registered
+Common Stock, $0.01 par value
+MINM
+The Nasdaq Capital Market
+Securities Registered Pursuant to Section 12 (g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐   No ☒
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes ☐   No ☒
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒   No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒   No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐   No ☒
+Based on the closing price as of June 30, 2023, which was the last business day of the registrant’s most recently completed second fiscal quarter, the aggregate market value of the common stock held by nonaffiliates of the registrant was $5.1 million.
+The number of shares
+outstanding of the registrant’s common stock, $0.01 par value, as of July 25, 2025 was 6,224,389
+shares.
+DOCUMENTS INCORPORATED BY REFERENCE
+None.
+EXPLANATORY NOTE
+FiEE,
+Inc., formerly known as Minim, Inc., (“Minim,” the “Company,” “we,” “our” and similar
+terms) is filing this Amendment No. 2 to the Company’s Annual Report on Form 10-K (the “Form 10-K/A”) for the year ended
+December 31, 2023 to amend and restate certain items presented in our Annual Report on Form 10-K for the year ended December 31, 2023
+which was initially filed with the U.S. Securities and Exchange Commission (“SEC”) on April 12, 2024 (as amended on April
+29, 2024, the “Original Form 10-K”). This amendment is limited in scope to make the following changes to the original filing:
+·To amend Part II – Item 8. Financial Statements and Supplementary
+Data.
+·To amend Part IV - Item 15. Exhibits and Financial Statement Schedules to include currently dated (i) auditor consent, which is filed
+herewith as Exhibits 23.1 and (ii) certifications from the Company’s Principal Executive Officer and Principal Financial Officer
+as required by Sections 302 and 906 of the Sarbanes Oxley Act of 2002, which certifications are filed herewith as Exhibits 31.1,
+31.2, 32.1 and 32.2.
+The Form
+10-K/A contains our audited restated annual financial statements as of and for the year ended December 31, 2023. This Form 10-K/A includes
+a restatement of our consolidated balance sheet as of December 31, 2023 and the related consolidated statements of operations, and stockholders’
+equity for the year then ended. There are no changes to the financial statements for the year ended December 31, 2022. This Form 10-K/A
+also includes amendments to: the Chief Executive Officer and Chief Financial Officer certifications in Exhibits 31.1, 31.2, 32.1 and 32.2
+and the financial statements formatted in Extensible Business Reporting Language (XBRL) in Exhibit 101.
+This
+amendment has not been updated or amended to give effect to any subsequent events beyond those that existed as of the original filing
+date and should thus be read in conjunction with the original filing and any of the Company’s other filings with the SEC subsequent
+to the original filing, together with any amendments to those filings. Other than the filing of the information identified above, this
+amendment does not modify or update the disclosure in the original filing in any way.
+Overview
+The Audit
+Committee of the Company, after consultation with the Company’s management, concluded that the financial statements as of and for
+the year ended December 31, 2023 previously filed by the Company with the SEC should no longer be relied upon due to errors in such financial
+statements relating to the recording and reporting of common stock shares outstanding, including earning per share.
+Accordingly,
+investors should no longer rely upon the Company’s previously released financial statements for the fiscal year ended December 31,
+2023 and should rely instead on this 10-K/A. The Company’s management identified an error in the shares of the Company’s common
+stock outstanding in the preparation of the Company’s financial statements for the fiscal year ended December 31, 2024.
+The outstanding
+shares of the Company’s common stock was incorrectly reported as 2,632,809 for the year ended December 31, 2023. The corrected number
+of outstanding shares of the Company’s common stock is reported in this Form 10-K/A as 2,789,020.
+The error
+in the outstanding shares of the Company’s common stock did not impact the fiscal year ended December 31, 2022.
+As a result of the restatement included herein, the
+Company is reporting herein 2,789,020 shares of the Company’s common stock outstanding for the year ended December 31, 2023, which
+is more than the 2,632,809 shares of the Company’s common stock reported as outstanding in the Original Form 10-K. Consequently,
+the Company is reporting herein weighted average shares of the Company’s common stock for the year ended December 31, 2023 of 2,038,461
+and basic and diluted net loss per share of $8.65 per share, compared to the weighted average shares of Common Stock reported in the Original
+Form 10-K of 1,941,800 and basic and diluted net loss of $9.08 per share.
+1
+ITEM 8 – CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA
+Report of Independent Registered Public Accounting
+Firm
+To the shareholders and the board of directors
+of
+Fiee, Inc. formerly known as Minim, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheets
+of Fiee, Inc. formerly known as Minim, Inc. as of December 31, 2023, the related statements of operations, stockholders’ (deficit), and
+cash flows for the years then ended, and the related notes (collectively referred to as the “financial statements”). In our
+opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2023,
+and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted
+in the United States.
+Substantial Doubt about the Company’s
+Ability to Continue as a Going Concern
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has
+suffered recurring losses from operations and has a significant accumulated deficit. In addition, the Company continues to experience
+negative cash flows from operations. These factors raise substantial doubt about the Company’s ability to continue as a going concern.
+Management’s plans in regard to these matters are also described in Note 2. The financial statements do not include any adjustments that
+might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+2
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from
+the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and
+that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements,
+taken as a whole10, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical
+audit matters or on the accounts or disclosures to which they relate.
+During 2023 audit, we discovered that Minim has
+had continual problems in receiving accurate and detailed information from management at the outside contract warehouses where it stores
+the majority of its inventory. Inventory is a significant income-producing asset for the organization and we strongly suggest that procedures
+be implemented to ensure that accurate inventory information is received for financial reporting purposes. This presented us with a challenge
+in confirming the actual amounts of inventory that were being held at these contract warehouses.
+/s/ Beckles & Co
+Beckles & Co. Inc. (PCAOB ID 7116)
+We have served as the Company’s auditor since 2024
+West Palm Beach, FL
+July 28, 2025
+3
+FIEE, INC. (FORMERLY
+MINIM, INC.)
+CONSOLIDATED BALANCE SHEETS
+As of December 31, 2023 and 2022
+2023
+(Amended)
+2022
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+709,322
+$
+530,110
+Restricted cash
+-
+500,000
+Accounts receivable, net of allowance for doubtful accounts of $312,983 and $138,331 as of December 31, 2023 and, 2022, respectively
+701,377
+2,758,406
+Inventories, net
+9,952,647
+25,415,206
+Prepaid expenses and other current assets
+35,768
+360,735
+Total current assets
+11,399,114
+29,564,457
+Equipment, net
+432,505
+636,973
+Operating lease right-of-use assets
+22,512
+173,480
+Intangible assets, net
+33,247
+73,301
+Other assets
+472,587
+511,795
+Total assets
+$
+12,359,965
+$
+30,960,006
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities
+Bank credit line
+$
+-
+$
+4,758,663
+Accounts payable
+11,143,693
+2,837,191
+Current maturities of bridge loan agreement
+-
+1,000,000
+Current maturities of operating lease liabilities
+22,512
+150,968
+Accrued expenses
+1,077,843
+4,440,724
+Deferred revenue, current
+-
+633,542
+Total current liabilities
+12,244,048
+13,821,088
+Operating lease liabilities, less current maturities
+-
+22,512
+Deferred revenue, noncurrent
+-
+771,738
+Total Liabilities
+12,244,048
+14,615,338
+Commitments and Contingencies (Note 7)
+Stockholders’ equity
+Preferred Stock, Authorized: 2,000,000 shares at $0.001 par value; 0 shares issued and outstanding
+-
+-
+Common Stock: Authorized: 60,000,000 shares at December 31, 2023 and 2022, at $0.01 par value; issued and outstanding: 2,789,020 shares and 1,877,970 shares at December 31, 2023 and 2022, respectively
+480,897
+469,492
+Additional paid-in capital
+92,103,798
+90,710,030
+Accumulated deficit
+(92,468,778
+)
+(74,834,854
+)
+Total stockholders’ equity
+115,917
+16,344,668
+Total liabilities and stockholders’ equity
+$
+12,359,965
+$
+30,960,006
+The accompanying notes are an integral part of these consolidated financial statements.
+4
+FIEE, INC. (FORMERLY
+MINIM, INC.)
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Years Ended December 31, 2023 and 2022
+2023
+(Amended)
+2022
+Net sales
+$
+26,106,271
+$
+50,622,143
+Cost of goods sold
+25,635,383
+38,695,605
+Gross profit
+470,888
+11,926,538
+Operating expenses:
+Selling and marketing
+9,472,527
+15,022,638
+General and administrative
+4,758,357
+6,124,034
+Research and development
+3,446,595
+5,824,906
+Total operating expenses
+17,677,479
+26,971,578
+Operating loss
+(17,206,591
+)
+(15,045,040
+)
+Other income (expense):
+Interest income
+2,554
+457
+Interest expense
+(385,952
+)
+(394,615
+)
+Other, net
+(1,316
+)
+2,302
+Total other income (expense)
+(384,714
+)
+(391,856
+)
+Loss before income taxes
+(17,591,305
+)
+(15,436,896
+)
+Income tax provision
+42,619
+112,348
+Net loss
+$
+(17,633,924
+)
+$
+(15,549,244
+)
+Basic and diluted net loss per share
+$
+(8.65
+)
+$
+(8.38
+)
+Weighted average common and common equivalent shares:
+Basic and diluted
+2,038,461
+1,855,965
+The accompanying notes are an integral part of these consolidated financial statements.
+5
+FIEE, INC. (FORMERLY
+MINIM, INC.)
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+Years Ended December 31, 2023 (Amended)
+and 2022
+Common Stock
+Additional Paid-in
+Accumulated
+Shares
+Amount
+Capital
+Deficit
+Total
+Balance at December 31, 2021
+1,835,402
+$
+458,850
+$
+89,313,273
+$
+(59,285,610
+)
+$
+30,486,513
+Net loss
+-
+-
+-
+(15,549,244
+)
+(15,549,244
+)
+Stock option exercises
+17,237
+4,308
+232,496
+-
+236,804
+Common stock issued for vested restricted units
+25,331
+6,334
+(6,334
+)
+-
+-
+Stock-based compensation
+-
+-
+1,170,595
+-
+1,170,595
+Balance at December 31, 2022
+1,877,970
+469,492
+90,710,030
+(74,834,854
+)
+16,344,668
+Net loss
+-
+-
+-
+(17,633,924
+)
+(17,633,924
+)
+Common stock issued for vested restricted units
+176,707
+4,062
+(4,062
+)
+-
+-
+Shares issued in exchange for debt conversion
+734,343
+7,343
+1,118,435
+-
+1,125,778
+Stock-Based Compensation
+-
+-
+279,395
+-
+279,395
+Balance at December 31, 2023
+2,789,020
+$
+480,897
+$
+92,103,798
+$
+(92,468,778
+)
+$
+115,917
+The accompanying notes are an integral part of these consolidated financial statements.
+6
+FIEE, INC. (FORMERLY
+MINIM, INC.)
+Notes to Consolidated Financial Statements
+Years Ended December 31, 2023 and 2022
+(Amended)
+(2)SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (AMENDED)
+Loss Per Common Share
+Basic loss per share is computed
+by dividing income available to common shareholders by the weighted average number of common shares outstanding. Diluted earnings per
+share is computed by dividing income available to common shareholders by the weighted average number of common shares outstanding plus
+additional common shares that would have been outstanding if dilutive potential common shares had been issued. For the purposes of this
+calculation, stock options are considered common stock equivalents in periods in which they have a dilutive effect. Stock options that
+are antidilutive are excluded from the calculation.
+Net loss per share for the
+year ended December 31, 2023 and 2022, respectively, are as follows:
+Schedule of net income (loss) per share
+Years ended
+December 31,
+2023 (Amended)
+2022
+Numerator:
+Net loss
+$(17,633,924)
+$(15,549,244)
+Denominator:
+Weighted average common shares - basic
+2,038,461
+1,855,965
+Effect of dilutive common share equivalents
+-
+-
+Weighted average common shares - dilutive
+2,038,461
+1,855,965
+Basic and diluted net loss per share
+$(8.65)
+$(8.38)
+Diluted loss per common share
+for the years ended December 31, 2023 and 2022 excludes the effects of 0 and 36,318 common share equivalents, respectively, since
+such inclusion would be anti-dilutive. The common share equivalents consist of shares of common stock issuable upon exercise of outstanding
+stock options.
+7
+PART IV
+Item 15. Exhibits and Consolidated Financial Statement Schedules
+(a) (1) and (2). Financial Statements.
+See Index to Financial Statements under Item 8 in Part II hereof where these documents are listed. All schedules for which provision is made in the applicable accounting regulations of the Securities and Exchange Commission are not required under the related instructions or are inapplicable and, therefore, have been omitted.
+(a) (3). Exhibits.
+The following is a list of exhibits:
+ITEM 15 – EXHIBITS AND CONSOLIDATED FINANCIAL STATEMENT SCHEDULES *
+(a)
+Consolidated Financial Statements, Schedules and Exhibits:
+(1), (2)
+The Consolidated Financial Statements and required schedules are indexed on page F-1.
+(3)
+Exhibits required by the Exhibit Table of Item 601 of SEC Regulation S-K. (Exhibit numbers refer to numbers in the Exhibit Table of Item 601.)
+2.1
+Separation and Distribution Agreement by and between Zoom Technologies, Inc. and the Company (incorporated by reference to Annex B of the Preliminary Proxy Statement filed by Zoom Technologies, Inc. on May 13, 2009).*
+2.2
+Agreement and Plan of Merger, dated as of November 12, 2020, by and among the Company, Elm Acquisition Sub, Inc., Zoom Connectivity, Inc. and the Representative named therein (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on November 13, 2020).*
+3.1
+Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Registration Statement on Form 10 filed by the Company on September 4, 2009).*
+3.2
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K filed by the Company on November 18, 2015).*
+3.3
+Certificate of Designation of Series A Junior Participating Preferred Stock (incorporated by reference to Exhibit 3.2 to the Form 8-K filed by the Company on November 18, 2015).*
+3.4
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K filed by the Company on July 30, 2019).*
+3.5
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K filed by the Company on June 4, 2021).*
+3.6
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.2 to the Form 8-K filed by the Company on June 4, 2021).*
+8
+3.7
+Certificate of Correction of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K/A filed by the Company on June 30, 2021).*
+3.8
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K filed by the Company on July 23, 2021).*
+3.9
+Certificate of Amendment to the Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to Form 8-K filed by the Company on March 31, 2023).*
+3.10
+Certificate of Designation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K filed by the Company on March 1, 2024).*
+3.11
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K filed by the Company on March 6, 2024).
+4.1
+Description of Securities (incorporated by reference to Exhibit 4.1 to Amendment No. 1 to Form S-1 filed by the Company on July 26, 2021).*
+10.1
+License Agreement, dated as of May 13, 2015, by and between the Company and Motorola Mobility LLC (incorporated by reference to Exhibit 10.3 to the Form 10-Q/A filed by the Company on December 6, 2016).*†
+10.2
+Amendment to License Agreement, dated as of August 16, 2016, by and between the Company and Motorola Mobility LLC (incorporated by reference to Exhibit 10.4 to the Form 10-Q/A filed by the Company on December 6, 2016).*†
+10.3
+Amendment to License Agreement, dated as of August 21, 2017, by and between the Company and Motorola Mobility LLC (incorporated by reference to Exhibit 10.1 to the Form 10-Q filed by the Company on November 9, 2017).*†
+10.4
+Amendment to License Agreement, dated as of March 27, 2020, by and between the Company and Motorola Mobility LLC (incorporated by reference to Exhibit 10.19 to the Form 10-K/A filed by the Company on April 29, 2020).*††
+10.5
+Stock Purchase Agreement, dated as of May 3, 2019, by and between the Company and the Investors listed therein (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on May 6, 2019).*
+10.6
+License Agreement, dated as of March 27, 2020, by and between the Company, MTRLC LLC and Motorola Mobility LLC (incorporated by reference to Exhibit 10.19 to the Form 10-K/A filed by the Company on April 29, 2020).*††
+10.7
+Stock Purchase Agreement, dated as of May 26, 2020, by and between the Company and the Investors listed therein (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on May 27, 2020).*
+10.8
+Standstill and Voting Agreement, dated as of October 9, 2020, by and among the Company, Zulu Holdings LLC and Jeremy P. Hitchcock (incorporated by reference to Exhibit 99.1 to the Form 8-K filed by the Company on October 13, 2020).*
+10.9
+Employment Agreement, dated as of May 22, 2019, by and between Zoom Connectivity, Inc. and Graham Chynoweth (incorporated by reference to Exhibit 10.28 to the Form 10-K/A filed by the Company on April 30, 2021).*+
+9
+10.10
+Assignment and Amendment of Employment Agreement, dated as of December 4, 2020, by and among Graham Chynoweth, the Company and Zoom Connectivity, Inc. (incorporated by reference to Exhibit 10.27 to the Form 10-K/A filed by the Company on April 30, 2021).*+
+10.11
+Amendment to Employment Agreement, dated as of March 2, 2022, by and among Graham Chynoweth, the Company and Minim, Inc. (incorporated by reference to Exhibit 10.2 to the Form 8-K filed by the Company on March 4, 2022).*+
+10.12
+Employment Agreement, dated as of December 4, 2020, by and between the Company and Sean Doherty (incorporated by reference to Exhibit 10.29 to the Form 10-K/A filed by the Company on April 30, 2021).*+
+10.13
+Transition and Separation Agreement, dated as of December 22, 2021, by and between the Company and Sean Doherty (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on December 22, 2022).*
+10.14
+Employment Agreement, dated as of December 4, 2020, by and between the Company and Nicole Zheng (incorporated by reference to Exhibit 10.30 to the Form 10-K/A filed by the Company on April 30, 2021).*+
+10.15
+Employment Agreement, dated as of March 2, 2022, by and between the Company and John Lauten (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on March 4, 2022).*+
+10.16
+Employment Agreement, dated as of March 21, 2022, by and between the Company and Mehul Patel (incorporated by reference to Exhibit 10.1 to the Form 8-K/A filed by the Company on March 24, 2022).*+
+10.17
+Transition and Separation Agreement, dated July 8, 2022, between Minim, Inc. and Nicole Hayward Zheng. *+
+10.18
+Amendment to Employment Agreement, dated August 15, 2022, between Minim, Inc. and Mehul Patel.*+
+10.19
+Executive Employment Agreement, dated August 15, 2022, between Minim, Inc. and Dustin Tacker.*+
+10.20
+Transition and Separation Agreement, dated August 15, 2022, between Minim, Inc. and Gray Chynoweth.*+
+10.21
+Separation Agreement, dated August 15, 2022, between Minim, Inc. and John Lauten.*+
+10.22
+Form of Severance Agreement (incorporated by reference to Exhibit 10.1 of to the Form 8-K/A filed by the Company on October 27, 2021).*+
+10.23
+Minim, Inc. 2021 Omnibus Incentive Compensation Plan (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed by the Company on November 16, 2021).*+
+10.24
+Minim, Inc. 2021 Non-Employee Directors Compensation Plan (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed by the Company on November 16, 2021).*+
+10.25
+Form of Executive Officer Restricted Stock Unit Award Agreement (incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K filed by the Company on November 16, 2021).*+
+10.26
+Form of Director Restricted Stock Unit Award Agreement (incorporated by reference to Exhibit 10.4 to the Current Report on Form 8-K filed by the Company on November 16, 2021).*+
+10
+10.27
+Inducement Award Agreement for Restricted Stock Units, by and between the Company and Bill Wallace, dated as of December 6, 2021 (incorporated by reference to Exhibit 99.1 to the Form S-8 filed by the Company on December 16, 2021).* +
+10.28
+Minim, Inc. 2019 Stock Option Plan (incorporated by reference to Appendix D to the Definitive Proxy Statement filed by the Company on May 28, 2019).*+
+10.29
+Minim, Inc. 2019 Directors Stock Option Plan (incorporated by reference to Appendix C to the Definitive Proxy Statement filed by the Company on May 28, 2019).*+
+10.30
+Loan and Security Agreement, dated as of March 12, 2021, by and between the Company and Silicon Valley Bank (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on March 15, 2021).*
+10.31
+First Amendment to Loan and Security Agreement, dated as of November 1, 2021, by and among Silicon Valley Bank, the Company and Zoom Connectivity, Inc. (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on November 2, 2021).*
+10.32
+Waiver and Second Amendment to Loan and Security Agreement, dated December 12, 2022, by and among Silicon Valley Bank, Minim, Inc, and Cadence Connectivity, Inc
+10.33
+Bridge Loan, dated as of November 30, 2022, by and among Minim, Inc., Cadence Connectivity, Inc., and Slingshot Capital, LLC.
+10.34
+Bridge Term Note, dated as of November 30, 2022, by and among Minim Inc., Cadence Connectivity, Inc., and Slingshot Capital, LLC.
+10.35
+Subordination Agreement, dated as of November 30, 2022, by and among Minim, Inc., Cadence Connectivity, Inc., Slingshot Capital, LLC, and Silicon Valley.
+10.36
+Form of Underwriting Agreement (incorporated by reference to Exhibit 1.1 of Amendment No. 1 to Form S-1 filed by the Company on July 26, 2021).*
+10.37
+Trademark Acquisition Agreement, dated as of August 11, 2021, by and between the Company and Zoom Video Communications, Inc. (incorporated by reference to Exhibit 10.1 to the Form 8-K filed by the Company on August 16, 2021).*†
+10.38
+Settlement Agreement, dated as of August 20, 2021, by and among the Company, Jeremy Hitchcock and Eric Griffith (incorporated by reference to Exhibit 99.2 of Amendment No. 14 to Schedule 13D filed on August 20, 2021).*
+10.39
+Agreement and Plan of Merger among Minim, Inc, MME Sub 1 LLC, and e2Companies LLC, dated March 12, 2024 (incorporated by reference to Exhibit 2.1 to the Form 8-K filed by the Company on March 18, 2024). * ††††
+10.40
+Form of Lock-Up Agreement, by and among Minim, Inc, e2Companies LLC and certain interest holders of e2Companies LLC (incorporated by reference to Exhibit 2.2 to the Form 8-K filed by the Company on March 18, 2024). *
+10.41
+Form of Support Agreement, by and among Minim, Inc, e2Companies LLC and certain stockholders of Minim, Inc. (incorporated by reference to Exhibit 2.3 to the Form 8-K filed by the Company on March 18, 2024). *
+11
+21.1
+Subsidiaries (incorporated by reference to Exhibit 21.1 to the Form 10-K filed by the Company on April 12, 2024).*
+23.1
+Consent of Independent Registered Public Accounting Firm (Beckles & Co).**
+31.1
+CEO Rule 13a-14(a)/15d-14(a) Certification.**
+31.2
+CFO Rule 13a-14(a)/15d-14(a) Certification.**
+32.1
+CEO Section 1350 Certification.**†††
+32.2
+CFO Section 1350 Certification.**†††
+97.1
+Minim, Inc. Clawback Policy (incorporated by reference to Exhibit 97.1 to the Form 10-K filed by the Company on April 12, 2024).*
+101.INS
+Inline XBRL Instance Document.**
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.**
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.**
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document.**
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document.**
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.**
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).**
+*
+In accordance with Rule 12b-32 under the Securities Exchange Act of 1934, as amended, reference is made to the documents previously filed with the Securities and Exchange Commission, which documents are hereby incorporated by reference.
+**
+Filed herewith.
++
+Management contract or compensatory plan, contract or arrangement.
+†
+Confidential portions of this exhibit have been redacted and filed separately with the SEC pursuant to a confidential treatment request in accordance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+††
+Certain confidential portions of this exhibit were omitted because the identified confidential portions (i) are not material and (ii) would be competitively harmful if publicly disclosed.
+†††
+This certification shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liability of that section, nor shall it be deemed to be incorporated by reference into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934.
+††††
+The schedules and exhibits to the Agreement and Plan of Merger have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the Securities and Exchange Commission upon request.
+12
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+FIEE, INC.
+(Registrant)
+Date: July 28, 2025
+By:
+/s/ Li Wai Chung
+Li Wai Chung
+Chief Executive Officer
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ Li Wai Chung
+Chief Executive Officer and President
+July 28, 2025
+Li Wai Chung
+(principal executive officer)
+/s/ Yu Chao
+Chief Financial Officer, Treasurer and Secretary
+July 28, 2025
+Yu Cao
+(principal financial and accounting officer)
+/s/ David Lazar
+Director
+July 28, 2025
+David Lazar
+/s/ Hu Bin
+Director
+July 28, 2025
+Hu Bin
+/s/ David Natan
+Director
+July 28, 2025
+David Natan
+/s/ Chan Oi Fat
+Director
+July 28, 2025
+Chan Oi Fat
+13

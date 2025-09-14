@@ -1,0 +1,2924 @@
+10-K
+1
+f10k_cinv12312024.htm
+FORM 10-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+☒    ANNUAL
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the year ended December 31, 2024
+Or
+☐  TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission File Number 333-229638
+CRUCIAL
+INNOVATIONS CORP.
+(Exact name of registrant as specified in its charter)
+Nevada
+98-1446012
+(State or other jurisdiction of
+(I.R.S. Employer Identification No.)
+incorporation or organization)
+86-90 Paul Street, London, United Kingdom
+EC2A 4NE
+(Address of principal executive offices)
+(Zip Code)
+__________________________________________
+(former address, if changed since last report)
+Registrant’s telephone number, including area
+code: + 44 (0) 203 148 1452
+Securities
+registered pursuant to Section 12(b) of the Act: None.
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐
+No ☒
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐
+No ☒
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes ☐
+No ☒
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant’s knowledge, in the definitive proxy or information statement incorporated by reference in Part III of
+this 10-K. ☐
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of “large accelerated
+filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer        ☐
+Accelerated filer                                ☐
+Non-accelerated filer          ☒
+Smaller reporting company               ☒
+Emerging growth company               ☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐
+No ☒
+There were 381,320,798 shares of the registrant’s
+common stock, $0.001 par value, outstanding as of December 31, 2024, and 418,694,150 shares of the registrant’s common stock outstanding
+as of August 14, 2025.
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or such shorter period
+that the registrant was required to submit and post such files). ☐
+Table of Contents
+TABLE OF CONTENTS
+Page
+PART I
+Item 1
+Business
+4
+Item 1A
+Risk Factors
+6
+Item 1B
+Unresolved Staff Comments
+10
+Item 1C
+Cybersecurity
+10
+Item 2
+Properties
+11
+Item 3
+Legal Proceedings
+11
+Item 4
+Mine Safety Disclosures
+11
+PART II
+Item 5
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+11
+Item 6
+[Reserved]
+11
+Item 7
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+12
+Item 7A
+Quantitative and Qualitative Information About Market Risk
+15
+Item 8
+Financial Statements and Supplementary Data
+16
+Item 9
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+35
+Item 9A
+Controls and Procedures
+35
+Item 9B
+Other Information
+36
+Item 9C
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+36
+PART III
+Item 10
+Directors, Executive Officers and Corporate Governance
+37
+Item 11
+Executive Compensation
+40
+Item 12
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+41
+Item 13
+Certain Relationships and Related Transactions, and Director Independence
+42
+Item 14
+Principal Accountant Fees and Services
+42
+PART IV
+Item 15
+Exhibits and Financial Statement Schedules
+43
+Item 16
+Form 10-K Summary
+44
+2
+Table of Contents
+EXPLANATORY NOTE
+The following Annual Report on Form 10-K (“10-K”)
+for Crucial Innovations Corp. (“CINV” or the “Company”) for the year ended December 31, 2024 presents the Company
+and its results of operations for the periods indicated therein.
+Except as specifically designated herein, this 10-K does not reflect events
+occurring after December 31, 2024 and the Company has not otherwise updated disclosures contained herein to reflect events that occurred
+at a later date.
+3
+Table of Contents
+PART I
+Item 1. Business
+The Company
+Crucial Innovations Corp.
+(collectively with our subsidiary, “we,” “us,” “our,” “CINV” or the “Company”),
+a Nevada corporation, was formed on February 28, 2018. We were initially engaged in the business of English language tutoring over the
+Internet. However, we were not able to execute our original business plan, develop significant operations or achieve commercial sales.
+During 2023, we determined to change our business to become a supplier and distributor of medical cannabis in Europe.
+Our principal office is
+located at 86-90 Paul Street, London EC2A 4NE United Kingdom, and our telephone number is +44 (0) 203 148 1452. Our corporate website
+is located at www.cinvcorp.com, although it does not constitute a part of this Annual Report. We make available free of charge
+on our website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those
+reports as soon as reasonably practicable after such material is electronically filed or furnished to the Securities and Exchange Commission
+(“SEC”). Our shares have previously traded on the OTC Markets expert trading platform under the symbol ‘CINV’.
+Following the filing of this annual report on Form 10-K and other reports as required by the SEC, we intend to re-apply to OTC Markets
+to resume trading in our shares, although we may be assigned a different trading symbol at such time.
+Competition
+The medicinal cannabis
+market in Europe is highly competitive. Some of those markets where we will seek to operate have relatively high barriers to entry due
+to licensing requirements. We expect to compete directly with other cannabis producers and retailers, some of which operate only in a
+specific market and some of which operate across several European markets. More broadly, CINV views manufacturers of other consumer products,
+such as those in the pharmaceuticals, alcohol, tobacco, health and beauty and functional wellness industries, as potential competitors.
+We may also face competition
+from other companies that may have a longer operating history, a higher capitalization, additional financial resources, more manufacturing
+and marketing experience, greater access to public equity and debt markets and more experienced management than the Company. Increased
+competition by larger and better financed competitors could materially affect the business, financial condition and results of operations
+of the Company.
+Because of the relatively
+early stage of the industry in which the Company seeks to operate, we will face additional competition from new entrants. If the number
+of consumers of medical and adult-use cannabis in the countries in which the Company seeks to operate its business increases, the demand
+for products will increase and the Company expects that competition will become more intense, as current and future competitors begin
+to offer an increasing number of diversified products and as such countries make more cannabis licenses available.
+We may not have sufficient
+resources to maintain research and development, marketing, sales and customer support efforts on a competitive basis, which could materially
+and adversely affect the business, financial condition and results of our operations.
+Transfer and Disbursing Agent
+We employ Colonial Stock
+Transfer Company as our transfer agent to record transfers of our shares, maintain proxy records and to process distributions. The principal
+business office of our transfer agent is 7840 S. 700 E., Sandy, UT 84070.
+Certifications
+Certifications by our Chief Executive Officer
+and Chief Financial Officer have been filed as exhibits to this annual report on Form 10-K as required by the Securities Exchange Act
+of 1934, as amended, and the Sarbanes-Oxley Act of 2002.
+4
+Table of Contents
+Forward-Looking
+Statements
+All statements contained
+herein that are not historical facts including, but not limited to, statements regarding anticipated activity are “forward-looking
+statements” within the meaning of the federal securities laws, involve a number of risks and uncertainties, and are based on the
+beliefs and assumptions of Management, based on information currently available to Management. Actual results may differ materially. In
+some cases, readers can identify forward-looking statements by words such as “may,” “will,” “should,”
+“expect,” “objective,” “plan,” “intend,” “anticipate,” “believe,”
+“Management believes,” “estimate,” “predict,” “project,” “potential,” “forecast,”
+“continue,” “strategy,” or “position” or the negative of such terms or other variations of them or
+by comparable terminology. In particular, statements, express or implied, concerning future actions, conditions, or events, future operating
+results, or the ability to generate sales, income, or cash flow are forward-looking statements.
+Among the factors that
+could cause our actual results to differ materially from what we project or are anticipating are the following:
+·our future financial performance, including our revenue, cost of revenue, and operating expenses;
+·our ability to develop and maintain our production and distribution networks for our products;
+·our ability to increase market share and market awareness of our business;
+·our ability to develop new products and distribution methods in a rapidly changing industry;
+·our ability to maintain, protect, and enhance our intellectual property or proprietary business methods;
+·our ability to comply with modified or new laws and regulations applying to our business;
+·the attraction and retention of qualified employees and key personnel;
+·our anticipated investments in sales and marketing and research and development;
+·the sufficiency of our cash, cash equivalents, and investments to meet our liquidity needs;
+·our ability to successfully defend litigation brought against us; and
+·the increased expenses associated with being a public company.
+We caution you that the
+foregoing list may not contain all of the forward-looking statements made in this Annual Report. We further caution readers not to place
+undue reliance on any such forward-looking statements, which statements are made pursuant to the Private Securities Litigation Reform
+Act of 1995 and, as such, speak only as of the date made.
+5
+Table of Contents
+Item 1A. Risk Factors
+An investment in our securities
+involves certain risks relating to our structure and investment objectives. The risks and uncertainties described below are not the only
+ones facing the Company. You should carefully consider these risks, together with all of the other information included in this 10-K,
+including our financial statements and the related notes thereto.
+Additional risks and uncertainties
+not presently known to us, or not presently deemed material by us, may also impair our operations and performance.
+If any of the following
+risks actually occur, our business, financial condition or results of operations could be materially adversely affected. If that happens,
+the trading price of our common stock could decline and you may lose all or part of your investment.
+Risks Related to Our Common Stock
+Our
+shares are currently not traded on any exchange or quotation medium. Previously, our shares were traded on the OTC Markets
+trading platform. Following the filing of this annual report on Form 10-K and other reports as required by the SEC, we intend to re-apply
+to OTC Markets to resume trading in our shares. We cannot guarantee that OTC Markets will accept our application or that we will otherwise
+qualify under the listing standards of OTC Markets.
+If
+our shares are able to resume trading, we could experience higher trading volumes and volatility in the future. This volatility may affect
+the price at which you could sell our common stock and the sale of substantial amounts of our common stock could adversely affect the
+price of our common stock. If our stock resumes trading on OTC Markets or other trading platform, it could experience significant
+price swings. This volatility may affect the price at which you could sell our common stock, and the sale of substantial amounts of our
+common stock could adversely affect the price of our common stock. Our share price is expected to be volatile and subject to significant
+price and volume fluctuations in response to market and other factors, including the other factors discussed in “Risks Related
+to our Business and Industry” variations in our quarterly operating results from our expectations or those of securities analysts
+or investors; downward revisions in securities analysts’ estimates; and announcement by us or our competitors of significant acquisitions,
+strategic partnerships, joint ventures or capital commitments.
+The
+pricing and or trading volume of our common stock could decline if there are no independent analysts reports about our business.
+In the event that our shares are able to resume trading, future sales of our common stock by our existing stockholders could cause our
+share price to decline. Although our common stock was previously listed for trading on the OTC Markets trading platform, there has not
+been a sustained history of trading in our common stock on this platform or in “over-the-counter” markets. Moreover, consistent
+with Regulation M and other federal securities laws applicable to our listing, we have not consulted with our existing stockholders regarding
+their desire or plans to sell shares in the public market. Further, we have also not discussed with potential investors their intentions
+to buy our common stock in the open market.
+We
+may not pay dividends in the future. We have not paid dividends in the past and do not anticipate paying dividends in the
+near future. We expect to retain our earnings to finance further growth and, when appropriate, retire debt. Any decision to pay dividends
+on our common stock in the future will be at the discretion of our board of directors (the “Board”) and will depend on, among
+other things, our results of operations, current and anticipated cash requirements and surplus, financial condition, any future contractual
+restrictions and financing agreement covenants, solvency tests imposed by corporate law and other factors that the Board may deem relevant.
+As a result, investors may not receive any return on an investment in our common stock unless they are able to sell their shares for a
+price greater than that which such investors paid for them.
+Future
+sales or issuances of equity securities could decrease the value of our common stock, dilute investors’ voting power and reduce
+our earnings per share. In the future, we may sell equity securities in one or more offerings (including through the sale
+of securities convertible into equity securities and may issue equity securities in acquisitions and in exchange for services or for forgiveness
+of debt). We cannot predict the size of future issuances of equity securities or the size and terms of future issuances of debt instruments
+or other securities convertible into equity securities or the effect, if any, that future issuances and sales of our securities will have
+on the market price of our common stock.
+Additional issuances of our securities may
+involve the issuance of a significant number of shares of common stock at prices less than the current market price for our shares. Issuances
+of substantial numbers of shares of common stock, or the perception that such issuances could occur, may adversely affect prevailing market
+prices of our common stock. Any transaction involving the issuance of previously authorized but unissued common stock, or securities convertible
+into common stock, would result in dilution, possibly substantial, to security holders.
+Sales of substantial amounts of our securities
+by us or our existing shareholders, or the availability of such securities for sale, could adversely affect the prevailing market prices
+for our securities and dilute investors’ earnings per share. A decline in the market prices of our securities could impair our ability
+to raise additional capital through the sale of securities should we desire to do so.
+6
+Table of Contents
+Risks Related to Our Business and Industry
+We
+are an early-stage company with limited operating history and may never become profitable. We are an early-stage company
+that seeks to operate in the medical cannabis market in the United Kingdom and Europe. Nevertheless, we have a limited operating history.
+We have limited financial resources and minimal operating cash flow. Additionally, there can be no assurance that additional funding will
+be available to us for the development of our business, which will require the commitment of substantial resources. Accordingly, you should
+consider our prospects in light of the costs, uncertainties, delays and difficulties frequently encountered by companies in the early
+stages of development. Potential investors should carefully consider the risks and uncertainties that a company with a limited operating
+history will face. In particular, potential investors should consider that we may be unable to:
+·successfully implement or execute our business plan;
+·adjust to changing conditions or keep pace with increased demand;
+·attract and retain an experienced management team;
+·successfully integrate businesses that we acquire; or
+·raise sufficient funds in the capital markets to execute our business plan, including product development,
+licensing and approvals.
+Certain
+conditions or events could disrupt the Company's supply chains, disrupt operations, and increase operating expenses. Conditions
+or events including, but not limited to, the following could disrupt the Company's supply chains and in particular its ability to deliver
+its products, interrupt operations at its facilities, increase operating expenses, resulting in loss of sales, delayed performance of
+contractual obligations or require additional expenditures to be incurred: (i) extraordinary weather conditions or natural disasters such
+as hurricanes, tornadoes, floods, fires, extreme heat, earthquakes, etc.; (ii) a local, regional, national or international outbreak of
+a contagious disease, including COVID-19, H1N1 influenza virus, avian flu, or any other similar illness could result in a general or acute
+decline in economic activity; (iii) political instability, social and labor unrest, war or terrorism, including the current conflict between
+Russia and Ukraine and the conflict in Israel; or (iv) interruptions in the availability of basic commercial and social services and infrastructure
+including power and water shortages, and shipping and freight forwarding services including via air, sea, rail and road.
+Cannabis
+laws, regulations, and guidelines are dynamic and subject to change. Cannabis laws and regulations are dynamic and subject
+to evolving interpretations which could require us to incur substantial costs associated with compliance or alter certain aspects of our
+business plan. It is also possible that regulations may be enacted in the future that will be directly applicable to certain of our products
+and/or aspects of our businesses. We cannot predict the nature of any future laws, regulations, interpretations or applications, nor can
+we determine what effect additional governmental regulations or administrative policies and procedures, when and if promulgated, could
+have on our business. We expect that the legislative and regulatory environment in the cannabis industry internationally will continue
+to be dynamic and will require innovative solutions to try to comply with this changing legal landscape in this nascent industry for the
+foreseeable future. Compliance with any such legislation may have a material adverse effect on our business, financial condition and results
+of operations.
+Public opinion can also exert a significant
+influence over the regulation of the cannabis industry. A negative shift in the public's perception of the cannabis industry could affect
+future legislation or regulation in different jurisdictions.
+Demand
+for cannabis and derivative products could be adversely affected and significantly influenced by scientific research or findings, regulatory
+proceedings, litigation, media attention or other research findings. The legal cannabis industry is at a relatively early
+stage of its development. Consumer perceptions regarding legality, morality, consumption, safety, efficacy and quality of medicinal cannabis
+are mixed and evolving and can be significantly influenced by scientific research or findings, regulatory investigations, litigation,
+media attention and other publicity regarding the consumption of medicinal cannabis products. There can be no assurance that future scientific
+research, findings, regulatory proceedings, litigation, media attention or other research findings or publicity will be favorable to the
+medicinal cannabis market or any particular product, or consistent with earlier publicity. Future research reports, findings, regulatory
+proceedings, litigation, media attention or other publicity that are perceived as less favorable than, or that question, earlier research
+reports, findings or publicity, could have a material adverse effect on the demand for medicinal cannabis and on our business, results
+of operations, financial condition and cash flows. Further, adverse publicity reports or other media attention regarding cannabis in general
+or associating the consumption of medicinal cannabis with illness or other negative effects or events, could have such a material adverse
+effect. Public opinion and support for medicinal cannabis use has traditionally been inconsistent and varies from jurisdiction to jurisdiction.
+Our ability to gain and increase market acceptance of our business may require substantial expenditures on investor relations, strategic
+relationships and marketing initiatives. There can be no assurance that such initiatives will be successful and their failure to materialize
+into significant demand may have an adverse effect on our financial condition.
+7
+Table of Contents
+Damage
+to the Company's reputation can be the result of the actual or perceived occurrence of any number of events, and could include any negative
+publicity, whether or not such publicity is accurate. The increased usage of social media and other web-based tools used
+to generate, publish and discuss user-generated content and to connect with other users has made it increasingly easier for individuals
+and groups to communicate and share opinions and views regarding the Company and its activities, whether true or not. Although the Company
+believes that it operates in a manner that is respectful to all stakeholders and that it takes pride in protecting its image and reputation,
+it does not ultimately have direct control over how it is perceived by others. Reputational loss may result in decreased ability to enter
+into new customer, distributor or supplier relationships, retain existing customers, distributors or suppliers, reduced investor confidence
+and access to capital, increased challenges in developing and maintaining community relations and an impediment to our overall ability
+to advance our projects, thereby having a material adverse effect on our financial performance, financial condition, cash flows and growth
+prospects.
+We
+are subject to the inherent risk of exposure to product liability claims, actions and litigation. As we are seeking to
+become a distributor of products designed to be ingested by humans, we expect to face an inherent risk of exposure to product liability
+claims, regulatory action and litigation if our products are alleged to have caused bodily harm or injury. In addition, the sale of medical
+cannabis involves the risk of injury to consumers due to tampering by unauthorized third parties or product contamination. Adverse reactions
+resulting from human consumption of our products alone or in combination with other medications or substances could occur. We may be subject
+to various product liability claims, including, among others, that our products caused injury or illness, include inadequate instructions
+for use or include inadequate warnings concerning health risks, possible side effects or interactions with other substances. Product liability
+claims or regulatory actions against us could result in increased costs, could adversely affect our reputation with our clients and consumers
+generally, and could have a material adverse effect on our results of operations and financial condition. There can be no assurances that
+we will be able to obtain or maintain product liability insurance on acceptable terms or with adequate coverage against potential liabilities.
+Such insurance is expensive and may not be available in the future on acceptable terms, or at all. The inability to obtain sufficient
+insurance coverage on reasonable terms or to otherwise protect against potential product liability claims could prevent or inhibit the
+commercialization of our potential products.
+The
+Company's future products could have unknown side effects. If the products the Company sells are not perceived to have
+the effects intended by the end user, its business may suffer and the business may be subject to products liability or other legal actions.
+Many of the Company's products contain innovative ingredients or combinations of ingredients. There is little long-term data available
+with respect to efficacy, unknown side effects and/or interaction with individual human biochemistry, or interaction with other drugs.
+Moreover, there is little long-term data available with respect to efficacy, unknown side effects and/or its interaction with individual
+animal biochemistry. As a result, the Company's future products could have certain side effects if not taken as directed or if taken by
+an end user that has certain known or unknown medical conditions.
+Negative outcomes of legal proceedings
+may adversely affect our business and financial condition. Although we are currently not subject to any legal proceedings, we
+expect that, as we develop our business, we may be involved in legal disputes in the countries in which we operate. dThese proceedings
+may be complicated, costly, and disruptive to our business operations. We may incur significant expenses in defending these matters and
+may be required to pay significant fines, awards, or settlements. In addition, litigation or other proceedings could result in restrictions
+on our current or future manner of doing business. Any of these potential outcomes, such as judgments, awards, settlements, or orders
+could have a material adverse effect on our business, financial condition, operating results, or ability to do business.
+We are subject to anti-corruption,
+anti-bribery, and similar laws, and non-compliance with such laws can subject us to criminal penalties or significant fines and harm our
+business and reputation. We are subject to anti-corruption and anti-bribery and similar laws, such as the U.S. Foreign Corrupt
+Practices Act of 1977, as amended, or the FCPA, the U.S. domestic bribery statute contained in 18 U.S.C. § 201, U.S. Travel Act,
+the USA PATRIOT Act, the U.K. Bribery Act 2010, and other anti-corruption, anti-bribery and anti-money laundering laws in countries in
+which we conduct activities. Anti-corruption and anti-bribery laws have been enforced aggressively in recent years and are interpreted
+broadly and prohibit companies and their employees and agents from promising, authorizing, making, or offering improper payments or other
+benefits to government officials and others in the private sector. As we expand our networks in Europe, Africa and internationally, our
+risks under these laws may increase. Noncompliance with these laws could subject us to investigations, sanctions, settlements, prosecution,
+other enforcement actions, disgorgement of profits, significant fines, damages, other civil and criminal penalties or injunctions, adverse
+media coverage, and other consequences. Any investigations, actions or sanctions could harm our business, results of operations, and financial
+condition.
+Failure
+to develop our internal controls over financial reporting (ICFR) as we grow could have an adverse effect on our operations.
+As we mature we will need to develop and improve our current internal control systems and procedures to manage our growth. We are required
+to establish and maintain appropriate internal controls over financial reporting. Failure to establish appropriate controls, or any failure
+of those controls once established, could adversely affect our public disclosures regarding our business, financial condition or results
+of operations. In addition, management's assessment of ICFR may identify weaknesses and conditions that need to be addressed in our ICFR
+or other matters that may raise concerns for investors.
+8
+Table of Contents
+Required licenses, permits or approvals
+may be difficult to obtain in the countries in which we seek to operate, and once obtained may be amended or revoked arbitrarily or may
+not be renewed. To operate in the medical cannabis industry, we will be required to obtain approvals and licenses from national,
+regional, and local governmental or regulatory authorities in the countries in which we operate or intend to sell. Even if obtained, licenses
+are subject to review, interpretation, modification or termination by the relevant authorities. Any unfavorable interpretation or modification
+or any termination of a required license may significantly harm our operations in the relevant country or may require us to close down
+parts or all of our operations in the relevant country.
+We can offer no assurance that the relevant
+authorities will not take any action that could materially and adversely affect these licenses, permits or approvals. .We may experience
+difficulties in obtaining or maintaining some of these licenses, approvals and permits, which may require us to undertake significant
+efforts and incur additional expenses. If we operate without a license, we could be subject to fines, criminal prosecution or other legal
+action. Any difficulties in obtaining or maintaining licenses, approvals or permits or the amendment or revocation thereof could have
+a material adverse effect on our business, financial condition, results of operations and prospects.
+There
+are tax risks the Company may be subject to in carrying on business in multiple jurisdictions. We and our subsidiaries
+will operate and, accordingly, will be subject to income tax and other forms of taxation in multiple jurisdictions. We may be subject
+to income taxes and non-income taxes in a variety of jurisdictions and our tax structure may be subject to review by both domestic and
+foreign taxation authorities. Those tax authorities may disagree with our interpretation and/or application of relevant tax rules. A challenge
+by a tax authority in these circumstances might require us to incur costs in connection with litigation against the relevant tax authority
+or reaching a settlement with the tax authority and, if the tax authority's challenge is successful, could result in additional taxes
+(perhaps together with interest and penalties) being assessed on us, and as a result an increase in the amount of tax payable by us.
+Taxation laws and rates which determine
+taxation expenses may vary significantly in different jurisdictions, and legislation governing taxation laws and rates are also subject
+to change. Therefore, our earnings may be affected by changes in the proportion of earnings taxed in different jurisdictions, changes
+in taxation rates, changes in estimates of liabilities and changes in the amount of other forms of taxation. The determination of our
+provision for income taxes and other tax liabilities will require significant judgment (including based on external advice) as to the
+interpretation and application of these rules. We may have exposure to greater than anticipated tax liabilities or expenses.
+Additionally, dividends and other intra-group
+payments made by our subsidiaries or international branches may expose the recipients of such payments to taxes in their jurisdictions
+of organization and operation and such dividends and other intra-group payments may also be subject to withholding taxes imposed by the
+jurisdiction in which the entity making the payment is organized or tax resident. Unless such withholding taxes are fully creditable or
+refundable, dividends and other intra-group payments may increase the amount of tax paid by us. Although the Company and its subsidiaries
+arrange themselves and their affairs with a view to minimizing the incurrence of such taxes, there can be no assurance that we will succeed.
+We depend on our executive officers
+and other key employees, and the loss of one or more of these employees or an inability to attract and retain other highly skilled employees
+could harm our business. Our success depends largely upon the continued services of our executive officers and other key employees,
+and in particular on Jon Paul (JP) Doran, our founder and CEO, and senior management staff in the United Kingdom and elsewhere. We rely
+on our leadership team in the areas of research and development, operations, security, marketing, sales, customer experience, general,
+and administrative functions, and on individual contributors in our research and development and operations. From time to time, there
+may be changes in our executive management team resulting from the hiring or departure of executives, which could disrupt our business.
+While we have employment agreements with our executive officers or other key personnel that require them to continue to work for us it
+is not for any specified period and, therefore, they could terminate their employment with us at any time. The loss of one or more of
+our executive officers, especially our Chief Executive Officer, or key employees could harm our business. Changes in our executive management
+team may also cause disruptions in, and harm to, our business. The Board’s process are succession planning for senior executive
+management is at an early stage and therefore the CEO is a particular ‘key man’ dependency. This is mitigated by the fact
+that he is a significant shareholder in the company.
+Our
+failure to raise additional capital or generate cash flows necessary to expand our operations and invest in new enterprises in the future
+could reduce our ability to compete successfully and harm our results of operations. Historically, we have funded our operations
+and capital expenditures primarily through equity issuances and cash generated from our operations along with negotiating credit terms
+with suppliers that allows to effectively match revenues from customers with supplier payment terms. Although we currently anticipate
+that our existing cash and cash equivalents and cash flow from operations will be sufficient to meet our cash needs for the foreseeable
+future, we may require additional financing, and we may not be able to obtain debt or equity financing on favorable terms, if at all and
+to manage any currency risk due to a mismatch in the currency of revenues, primarily Naira and those of expenses. If we raise equity financing
+to fund operations or on an opportunistic basis, our stockholders may experience significant dilution of their ownership interests. If
+we engage in debt financing, we may be required to accept terms that restrict our ability to incur additional indebtedness, force us to
+maintain specified liquidity or other ratios or restrict our ability to pay dividends or make acquisitions.
+Our business is subject to risks
+associated with having operations in international markets, including foreign exchange fluctuations. While our financial statements
+are presented in U.S. dollars, our operations are concentrated in the United Kingdom and South Africa. Our various commercial agreements
+are denominated in a variety of currencies, including U.S. dollars, Great Britain Pounds Sterling, Euro, and South Africa Rand. We do
+not employ hedging strategies, and are therefore subject to fluctuations in exchange rates, which can negatively impact the U.S. dollar
+value of our assets, liabilities, and cash flows.
+9
+Table of Contents
+Item 1B. Unresolved Staff Comments
+None.
+Item 1C. Cybersecurity
+Our operations and other
+aspects of our bus
+iness rely heavily on various information technology systems which are largely managed by third parties. We face significant
+cybersecurity threats, which are continuously increasing in sophistication, including computer viruses, internal and external security
+breaches, and other cyber-attacks. These threats could disrupt our operations, lead to the loss of confidential information, and hinder
+our ability to accurately report our financial results in a timely manner. We have adopted a Cybersecurity Policy to create effective
+administrative, technical, electronic, and physical protections to safeguard the personal information of Company personnel, confidential
+information concerning our operations and the integrity of the Company’s information systems.
+We have created an Information
+Security Team to implement and administer our Cybersecurity Policy. Among the duties and responsibility of our Information Security Team
+are the following:
+·Ensuring that all CINV personnel are aware of the Cybersecurity Policy and agree to adhere to its requirements;
+·Establishing that information concerning the Company is stored on encrypted cloud-based servers accessible
+only by authorized CINV personnel;
+·Providing that all of the Company’s information systems are backed up daily, with offline copies
+available in the event that a major security issue arises;
+·Testing and evaluating cybersecurity safeguards via the use of third-party information technology service
+providers;
+·Reviewing the security measures in the Company’s Cybersecurity Policy annually or when there is
+a change in applicable laws or regulations or in business activities of Equus; and
+·Conducting training as necessary for all CINV personnel; and
+·Reporting cybersecurity matters to our Board of Directors who provide oversight of our Information Security
+Team.
+We utilize third-party
+services and tools for identifying, protecting against, and detecting cyber incidents, and also partner with external vendors to augment
+our internal security capabilities. Additionally, we engage third-parties to conduct independent assessments of our cybersecurity infrastructure
+to evaluate the efficiency and effectiveness of our detection capabilities, along with our response mechanisms, and overall risk management.
+Our approach to managing
+cybersecurity risks is part of a continuous improvement process, both in the context of cybersecurity and broader operational risk management.
+This ongoing process, which includes personnel training, is aimed at routinely reviewing and, as necessary, improving, our oversight processes
+and tools to ensure they remain effective and resilient in their management of cybersecurity risk.
+Material Impact of Cybersecurity
+Threats
+While we have yet to experience
+a material cybersecurity event, we acknowledge the persistent and evolving nature of these threats, which have the potential to materially
+impact our business strategy, operations, and financial results adversely. We maintain robust policies and procedures focused on cybersecurity
+incident management, ensuring timely communication and escalation to all relevant stakeholders. This enables faster response and effective
+communication, including public disclosure if a material cybersecurity event were to occur.
+Board of Directors Oversight
+Our Board of Directors
+oversees risks related to cybersecurity, including the security of our corporate, financial, and operations information and the steps
+management is taking to monitor and control these risks. In the future, our Information Security Team will conduct regular meetings with
+our independent directors to discuss various compliance matters, including any cybersecurity issues.
+10
+Table of Contents
+Item 2. Properties
+United
+Kingdom. In the United Kingdom, CINV leases virtual office space at 86-90 Paul Street, London on a month-to-month basis.
+South
+Africa. In May 2023, we entered into an agreement to lease, at our option, a 17,000 square meter property in South Africa
+on 1.572 hectares of land where we intend to cultivate, harvest, and process medical cannabis products. Commencing June 30, 2023, we
+had the right to occupy the property for a monthly lease payment of Five Thousand Great Britain Pounds Sterling (GBP 5,000). We
+commenced occupancy of the property in September 2023 and vacated the property on June 12, 2025 (see Legal Proceedings in Item
+3 below).
+Given the availability
+of agricultural sites and commercial vacancies in other regions in which we expect to operate, we do not expect to incur difficulty procuring
+additional farming, production, or office facilities.
+Item 3. Legal Proceedings
+On
+May 12, 2025 Vertical Up Manufacturing (Pty) Ltd (“Vertical Up”), the owner of certain real property that the Company has
+utilized for its cannabis cultivation business, filed a lawsuit, Case No. 2242/2025, against the Company and Ember Pharms (Pty) Ltd.,
+its wholly-owned subsidiary, in the High Court of South Africa, Free State Division, Bloemfontein. The petition seeks damages for unpaid
+rent and utilities, damage to the property, and restitution of insurance proceeds totaling an aggregate of ZAR 6,068,434, plus ZAR 130,000
+per month until the premises are vacated by the defendants. The Company has engaged Hill, McHardy & Herbst Inc. to defend its interests
+in the lawsuit. As of June 18, 2025, Vertical Up has proposed a settlement of the lawsuit which requires that the Company vacate the premises
+and make a series of installment payments to Vertical Up totaling ZAR 2,758,500 in the aggregate, which payments may be offset from Vertical
+Up’s sale of cannabis inventory on the premises. Pursuant to the terms of the Deed of Settlement, the first installment payment
+of ZAR 500,000 was made on June 27, 2025.
+While we are not currently
+subject to any other legal proceedings, from time to time, the Company may become a party to certain proceedings incidental to the normal
+course of our business. While the outcome of any potential legal proceedings cannot at this time be predicted with certainty, we do not
+expect that any such proceedings will have a material effect upon our financial condition or results of operations.
+Item 4. Mine Safety Disclosures
+Not applicable.
+PART II
+Item 5. Market for Registrant’s
+Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Presently, our common
+stock is not traded on any exchange or quotation medium. Previously, our common stock was listed on OTC Markets under the symbol
+“CINV”. We had an estimated 500 stockholders as of August 14, 2025, 382 of whom were registered holders. Registered
+holders do not include those stockholders whose stock has been issued in street name.
+Item 6. [Reserved]
+11
+Table of Contents
+Item 7. Management’s Discussion
+and Analysis of Financial Condition and Results of Operations
+Crucial
+Innovations Corp. (collectively with our subsidiary, “we,” “us,” “our,” “CINV” or the
+“Company”), a Nevada corporation, was formed on February 28, 2018. We were initially engaged in the business of English language
+tutoring over the Internet. However, we were not able to execute our original business plan, develop significant operations or achieve
+commercial sales. During 2023, we determined to change our business to become a supplier and distributor of medical cannabis in Europe.
+Our principal office is
+located at 86-90 Paul Street, London EC2A 4NE United Kingdom, and our telephone number is +44 (0) 203 148 1452. Our corporate website
+is located at www.cinvcorp.com, although it does not constitute a part of this Annual Report. We make available free of charge
+on our website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those
+reports as soon as reasonably practicable after such material is electronically filed or furnished to the Securities and Exchange Commission
+(“SEC”). Our shares have previously traded on the OTC Markets expert trading platform under the symbol ‘CINV’.
+Following the filing of this annual report on Form 10-K and other reports as required by the SEC, we intend to re-apply to OTC Markets
+to resume trading in our shares.
+Acquisition of Ember Pharms
+On May 8, 2023, the Company
+entered into an agreement to acquire all of the share capital of Ember Pharms (Pty) Ltd (previously known as WLR Farming (Pty) Ltd.),
+a company organized under the laws of South Africa and a licensed grower and exporter of medical cannabis (hereinafter, “Ember Pharms”),
+in exchange for (i) Six Million South Africa Rand (ZAR 6,000,000) which amount was intended to be paid over twelve months from the date
+of agreement, and (ii) 500,000 shares of our common stock. On March 5, 2024, we issued the owners of Ember Pharms an aggregate of 500,000
+shares of our common stock. On November 8, 2024, this agreement was amended to provide for the payment of Fifty Thousand Pounds in cash,
+together with the issuance of an aggregate of 1.25 million shares of common stock, inclusive of the 500,000 shares issued in March 2024.
+The cash payment obligation was satisfied on November 11, 2024.
+On May 11, 2023, the Company
+signed an agreement to to lease, at its option, 1.5782 hectares of land in South Africa for the purpose of growing and cultivating medical
+cannabis in exchange for a commitment to pay Six Million South Africa Rand (ZAR 6,000,000). The Company has the right to occupy the property
+commencing June 30, 2023 by paying a monthly lease payment of Five Thousand Great Britain Pounds Sterling (GBP 5,000). The Company commenced
+occupancy of the property in September 2023 and vacated the property on _____________ pursuant to a settlement agreement with the landowner
+(see Legal Proceedings in Item 3 above).
+Results of Operations
+Year Ended December
+31, 2024 Compared with the Year Ended December 31, 2023
+The Company’s results
+from operations for the years ended December 31, 2024 and 2023 and the changes between those periods for the respective items are summarized
+as follows:
+Years Ended December 31,
+2024
+2023
+Change ($)
+Revenues
+$
+–
+$
+–
+$
+–
+Operating expenses
+91,126,809
+38,090
+91,088,719
+Other income (expenses)
+21,271
+(1,528)
+22,799
+Net loss
+$
+91,105,538
+$
+39,618
+$
+91,065,920
+12
+Table of Contents
+The Company
+generated no revenues for the years ended December 31, 2024 and 2023. Operating expenses consist primarily of stock-based compensation.
+During the year ended December 31, 2024, the Company issued 305,082,998 shares under the Company’s 2024 Equity Incentive Plan. 110,345,637
+shares of common stock were issued to the Company’s CFO, director and non- executive board members, valued at $30,014,014. 194,737,361
+Shares of common stock were issued for professional fees, valued at $52,968,562. The Company
+also incurred $5,383,859 in marketing costs. On May 24, 2024, the Company entered into an agreement with a musician and entertainer to
+endorse and promote the Company’s business and the Company recorded marketing expense of $5,285,970. In consideration for services
+provided by the entertainer, the Company granted a 10-year stock purchase option to acquire 20,000,000 shares of common stock, at an exercise
+price of $0.01 per share. The option is vested as of the grant date, and may be exercised in whole or in part, at any time. During year
+ended December 31,2024, the Company recognized acquisition cost of Ember Pharms (Pty) Ltd, of $834,611.
+Other
+income was $21,271 during the year ended December 31, 2024 compared to other expenses of $1,528 during the year ended December 31, 2023.
+During the year ended December 31, 2024 the Company recognized $28,468 as interest on Related Party payables as well as a gain on insurance
+claim in the amount of $49,739. During the year ended December 31, 2023 the Company recognized $1,528 in interest on a convertible note.
+Our financial
+statements report a net loss of $91,105,538 for the year ended December 31, 2024 compared to a net loss of $39,618 for the year ended
+December 31, 2023.
+Liquidity and Capital Resources
+The following tables
+provides selected financial data about our company as of December 31, 2024 and 2023, respectively.
+Working Capital
+December 31,
+December 31,
+2024
+2023
+Change ($)
+Cash
+$
+52,668
+$
+–
+$
+52,668
+Current assets
+68,285
+–
+68,285
+Current liabilities
+(1,871,473)
+(114,087)
+(1,757,386)
+Working capital (Deficiency)
+$
+(1,803,188)
+$
+(114,087)
+$
+(1,689,101)
+As of December 31,
+2024 and 2023, our current assets were $68,285 and $0, respectively. As of December 31, 2024, our current liabilities were $1,871,473
+compared to $114,087 as of December 31, 2023. Our working capital deficiency was $1,343,895 as of December 31, 2024 compared to a working
+capital deficiency of $114,087 as of December 31, 2023. The increase in working capital deficiency was primarily the result of an increase
+in accounts payable and accrued liabilities as well as an increase in amounts due to related parties.
+Cash Flows
+Years Ended December 31,
+2024
+2023
+Change ($)
+Cash flows used in operating activities
+$
+(1,190,501)
+$
+(31,359)
+$
+(1,159,142)
+Cash flows used in investing activities
+(12,981)
+–
+(12,981)
+Cash flows provided by financing activities
+1,223,166
+31,359
+1,191,807
+Effect of exchange rate changes on cash
+32,984
+–
+–
+Net change in cash during the period
+$
+52,668
+$
+–
+$
+52,668
+13
+Table of Contents
+During
+the years ended December 31, 2024 and 2023, cash flows used in operating activities were $1,190,501 and $31,359, respectively. For the
+year ended December 31, 2024, the largest items in net cash flows used in operating activities consisted of a net loss of $91,105,538,
+stock-based compensation of $88,268,546, impairment of inventory of $648,388, acquisition costs of $834,611, a decrease in inventory of
+$648,388, and an increase in accounts payable and accrued liabilities of $349,529. For the year ended December 31, 2023, net cash flows
+used in operating activities consisted of a net loss of $39,618, an increase in imputed interest of $1,528, and an increase in accounts
+payable and accrued interest of $6,136.
+During
+the years ended December 31, 2024 and 2023, cash flows used in investing activities were $12,981 and $0, respectively. For the year ended
+December 31, 2024, net cash flows used in investing activities consisted of the acquisition of Ember Pharms (Pty) Ltd of $5,615 and purchases
+of property and equipment of $18,596.
+During
+the years ended December 31, 2024 and 2023, cash flows provided by financing activities were $1,223,166 and $31,359, respectively. For
+the year ended December 31, 2024, net cash flows provided by financing activities consisted of proceeds from related parties of $1,233,167,
+repayment of related party loans of $719,887, proceeds from common stock for stock subscriptions of $719,886 and repayment of convertible
+note of $10,000.
+We expect our cash
+on hand and proceeds received from our assets and operations will be insufficient to meet our anticipated liquidity needs for business
+operations for the next twelve months, and that we will need to secure capital from various sources, including loans and sales of our
+equity. There can be no assurance that we will continue to generate cash flows at or above current levels or that we will be able to raise
+additional financing to support our operating and compliance expenditures. Absent our success in obtaining operating capital from one
+or more of these sources, there exists substantial doubt as to the Company’s ability to continue as a going concern.
+Our future cash
+flows could be adversely affected by events outside our control, including, without limitation, changes in overall economic conditions,
+regulatory requirements, demand for our products and services, availability of labor resources and capital, natural disasters, pandemics
+and outbreaks of contagious diseases and other adverse public health developments, such as COVID-19, and other conditions. The foregoing
+events, either individually or collectively, could affect our results.
+Off Balance Sheet Arrangements
+None.
+Subsequent Events
+Our Management performed
+an evaluation of the Company’s activity through the date the financial statements were issued, noting the following subsequent events:
+On January 6, 2025,
+the Company issued an aggregate of 2,021,096 shares of common stock as follows:
+·1,271,096 shares of
+common stock were issued in connection with subscriptions received from investors during the fourth quarter of 2024; and
+·750,000 shares of
+common stock were issued to the former owners of Ember Pharms.
+On January 28, 2025, the
+Company issued an aggregate of 7,875,000 shares of common stock as follows:
+·7,500,000 shares were issued two consultants of the Company in connection with the Company’s
+2024 Equity Incentive Plan; and
+·375,000 shares were issued to Vertical Up Manufacturing (Pty) Ltd, the owner of land formerly used
+by Ember Pharms in South Africa.
+On May 22, 2025, the Company’s
+Board of Directors approved following:
+·An offering of 2- and 3-year senior secured convertible promissory notes of up to $10,000,000 in the aggregate
+(the “Note Offering” and the promissory notes issued in connection therewith, the “Notes”);
+·A Custodian Agreement, wherein the Company issued 20,000,000 shares to the custodian to hold in trust
+as partial security for the repayment of the Notes;
+·A consulting agreement for banking, finance, capital formation, mergers, acquisition and general corporate
+advisory services in exchange for monthly compensation of $100,000;
+·Consulting agreements with three advisors in connection with business development, valuation, global mergers
+and acquisitions, financial modelling services in exchange for the issuance of an aggregate of 1,348,000 shares of common stock; and
+·The award of 5,000,000 shares of common stock to two of the Company’s corporate advisory and operations
+consultants pursuant to the Company’s 2024 Equity Incentive Plan.
+In connection with the Note Offering, the Company
+issued Notes to various non-U.S. investors in the aggregate principal amount of $475,850.
+On June 23, 2025, the Company and Ember Pharms (Pty)
+Ltd., its wholly-owned subsidiary, entered into a Deed of Settlement with Vertical Up Manufacturing (Pty) Ltd. (“Vertical Up) concerning
+a lawsuit filed by Vertical Up in the High Court of South Africa, Free State Division, Bloemfontein. The Deed of Settlement required that
+the Company vacate the premises and make a series of installment payments to Vertical Up totaling ZAR 2,758,500 in the aggregate, which
+payments may be offset from Vertical Up’s sale of cannabis inventory on the premises. Pursuant to the terms of the Deed of Settlement,
+the first installment payment of ZAR 500,000 was made on June 27, 2025.
+On July 18, 2025, the Company issued an aggregate of 27,477,256
+shares of common stock as follows:
+·129,256 shares of common stock were issued to an investor in connection with a subscription for
+common stock received by the Company in June 2024;
+·2,348,000 shares of common stock were issued to four advisors in connection with business
+development, valuation, global mergers and acquisitions, financial modelling services;
+·20,000,000 shares were issued to a custodian to be held as partial security in connection with the
+Company’s offering of senior secured convertible promissory notes which commenced in the second quarter of 2025; and
+·5,000,000 shares of common stock to two of the Company’s corporate advisory and operations
+consultants pursuant to the Company’s 2024 Equity Incentive Plan.
+14
+Table of Contents
+Item 7A. Quantitative and Qualitative Disclosures About
+Market Risk
+We are subject to
+financial market risks, including changes in interest rates, lease rates, credit rates, and general debt terms.
+We are subject to
+risks regarding currency volatility and foreign exchange rates. In particular, we are subject to fluctuations in foreign exchange rates
+between the U.S. dollar, our reporting currency, and currencies of countries where we market or source our products and services, which
+presently consists principally of the British Pound. Such fluctuations may result in significant increases or decreases in our reported
+revenue and other results as expressed in dollars, and in the reported value of our assets, liabilities and cash flows. In addition, currency
+fluctuation may adversely affect receivables, payables, debt, firm commitments and forecast transactions denominated in non-U.S. currencies.
+In particular, transition risks arise where parts of the cost of sales are not denominated in the same currency of such sales. We currently
+do not hedge this exposure. Fluctuation in exchange rates, depreciation of local currencies, changes in monetary and/or fiscal policy
+or inflation in the countries in which we operate could have a material adverse effect on our business, financial condition, results of
+operations and prospects.
+In addition to foreign
+currency risk, our ability to generate operating cash flows at our parent company level depends on the ability of our subsidiaries to
+upstream funds. South Africa and other countries in which we may operate have exchange controls that can, from time to time, place restrictions
+on the exchange of local currency for foreign currency and the transfer of funds abroad. These controls and other controls that may be
+implemented in the future could limit the ability of our subsidiaries to transfer cash to us and make us dependent upon external sources
+of cash and credit.
+We can offer no assurance
+that additional restrictions on currency exchange will not be implemented in the future or that these restrictions will not limit the
+ability of our subsidiaries to transfer cash to us, which could have a material adverse effect on our business, financial condition, results
+of operations and prospects.
+15
+Table of Contents
+Item 8. Financial Statements and Supplementary
+Data
+TABLE OF CONTENTS
+Page
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 3233)
+F-2
+Consolidated Balance Sheets
+F-3
+Consolidated Statements of Operations and Comprehensive Income (Loss)
+F-4
+Consolidated Statements of Changes in Stockholders’ Deficit
+F-5
+Consolidated Statements of Cash Flows
+F-6
+Notes to Consolidated Financial Statements
+F-8
+16
+Table of Contents
+Report
+of Independent Registered Public Accounting Firm
+To
+the Stockholders and Board of Directors of Crucial Innovations Corp.
+Opinion
+on the Consolidated Financial Statements
+We
+have audited the accompanying consolidated balance sheet of Crucial Innovations Corp. and its subsidiaries (the “Company”)
+as of December 31, 2024, the related consolidated statements of operations and comprehensive loss, stockholders’ deficit and cash
+flows for the year then ended, and the related notes (collectively, "the consolidated financial statements"). In our opinion,
+the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December
+31, 2024, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally
+accepted in the United States of America.
+Substantial
+doubt about the Company’s ability to continue as a Going Concern
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 3 to the consolidated financial statements, as of December 31, 2024, the Company had an accumulated deficit of $91,302,923 and
+a net loss of $91,105,538 for the year ended December 31, 2024. These conditions raise substantial doubt about the Company’s ability
+to continue as a going concern. Management’s plans in regard to these matters are also described in Note 3. The consolidated financial
+statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis
+for Opinion
+These
+consolidated financial statements are the responsibility of the Company’s Management. Our responsibility is to express an opinion
+on the Company’s consolidated financial statements based on our audit. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our
+audit included performing procedures to assess the risks of material misstatement of the consolidated
+financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included
+examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial
+statements. Our audit also included evaluating the accounting principles used and significant estimates made by Management,
+as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides a reasonable
+basis for our opinion.
+Critical
+Audit Matter
+The
+critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that
+was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material
+to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication
+of critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are
+not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or
+disclosures to which it relates.
+As
+discussed in the Note 12 of the consolidated financial statements, on February 26, 2024, the Company’s Board of Directors adopted
+the Incentive Plan, to promote the interests of the Company by encouraging directors, officers, employees, and consultants of the Company
+to develop a long-term interest in the Company, align their interests with that of stockholders, and provide a means whereby they may
+develop a proprietary interest in the development and financial success of the Company and its stockholders. The maximum number of shares
+of common stock that are subject to awards granted under the Incentive Plan is 350,000,000 shares. As of December 31, 2024, 305,082,998
+shares had been granted, and 44,917,002 shares were available to be issued under the Incentive Plan. The Company has recognised an expense
+of $30,014,014 in respect of 110,345,637 shares issued for Management fees and $52,968,562 in respect of 194,737,361 shares issued for
+Professional fees. Also, on May 24, 2024, the Company entered into an agreement with a musician and entertainer to endorse and promote
+the Company’s business and the Company recorded marketing expense of $5,285,970 for granting stock purchase option of 20,000,000
+shares of common stock.
+The
+principal considerations for our determination that performing procedures relating to the Management's assessment of recognizing such
+expenses is a critical audit matter (i) involved significant judgment by Management in determining the valuation of shares/options; and
+(ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating Management's significant assumptions/judgements
+related to estimation of the fair value of shares issued and options granted/vested.
+Addressing
+the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated
+financial statements. These procedures include (i) Discussing with Management the rationale for using the weighted average price of shares
+issued as the basis for the fair value of shares; (ii) Understanding the terms of the agreement entered with the parties; (iii) Evaluating
+the reasonableness of significant judgments made by Management in respect of the number of shares issued and the price at which these
+shares were issued, as well as the recognition of the related expense; (iv) Obtaining confirmations from the parties on test basis regarding
+the scope and timing of services provided by them to the Company; (v) Evaluating the significant assumptions used by Management to calculate
+the fair value of stock options granted/vested.
+/s/
+Mercurius & Associates LLP
+Mercurius
+& Associates LLP
+We
+have served as the Company’s auditor since 2025.
+New
+Delhi, India
+Date:
+August 14, 2025
+17
+Table of Contents
+New York Office:
+805 Third Avenue
+New York, NY 10022
+212.838.5100
+www.rbsmllp.com
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM
+To the Board of Directors and Stockholders
+Crucial Innovations Corp.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheet
+of Crucial Innovations Corp. (the Company) as of December 31, 2023 and the related statement of operations, stockholders’ deficit,
+and cash flows for the year ended December 31, 2023, and the related notes (collectively referred to as the financial statements). In
+our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31,
+2023, and the results of its operations and its cash flows for each of the year ended December 31, 2023, in conformity with accounting
+principles generally accepted in the United States of America.
+Substantial Doubt about the Company’s
+Ability to Continue as a Going Concern
+The accompanying financial statements have
+been prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, As of December
+31, 2023, the Company had an accumulated deficit of $197,385, a net loss of $39,618 for the year ended December 31, 2023, and has not
+earned any revenues since inception that raise substantial doubt about its ability to continue as a going concern. Management's plans
+in regard to these matters are also described in Note 3, is to fund operations through equity financing arrangements and related party
+advances, all of which may be insufficient to fund its capital expenditures, working capital and other cash requirements. The financial
+statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility
+of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+/s/ RBSM
+LLP
+New York,
+NY
+December
+5, 2024
+We have served
+as the Company’s auditor since 2024. In 2025, we became the predecessor auditor.
+New York, NY Washington DC Mumbai & Pune, India
+San Francisco, CA
+Houston, TX Boca Raton, FL Las Vegas, NV Beijing, China
+Athens, Greece
+Member: ANTEA International with affiliated offices
+worldwide
+18
+Table of Contents
+CRUCIAL INNOVATIONS CORP. AND ITS SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+December 31,
+December 31,
+2024
+2023
+ASSETS
+Current Assets
+Cash
+$52,668
+$—
+VAT receivable
+15,605
+—
+Prepaid expenses
+12
+—
+Total Current Assets
+68,285
+—
+Property and equipment, net
+23,306
+—
+Right-of-use asset
+—
+67,634
+Total Assets
+$91,591
+$67,634
+LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)
+Current Liabilities
+Accounts payable and accrued liabilities
+$784,788
+$9,670
+Contract advances
+33,942
+—
+Convertible note and accrued interest
+—
+10,000
+Lease liability
+—
+68,229
+Due to related parties
+1,052,743
+26,188
+Total Current Liabilities
+1,871,473
+114,087
+Total Liabilities
+1,871,473
+114,087
+Commitments and contingencies
+—
+—
+Stockholders' Deficit
+Preferred stock: 50,000,000 authorized; $0.001 par value, no shares issued and outstanding
+—
+—
+Common stock: 500,000,000 authorized; par value of $0.001, 381,320,798 shares and 74,417,002 shares issued and outstanding, respectively
+381,321
+74,417
+Additional paid-in capital
+89,117,267
+76,515
+Accumulated deficit
+(91,302,923)
+(197,385)
+Accumulated other comprehensive income
+24,453
+—
+Total Stockholders' Deficit
+(1,779,882)
+(46,453)
+Total Liabilities and Stockholders' Deficit
+$91,591
+$67,634
+The accompanying notes are an integral part of these
+audited consolidated financial statements
+19
+Table of Contents
+CRUCIAL INNOVATIONS CORP. AND ITS SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE
+LOSS
+For the
+Years Ended
+December 31,
+2024
+2023
+Revenues
+$—
+$—
+Operating expenses
+Management fees
+30,014,014
+—
+Professional fees
+53,636,006
+1,686
+Marketing
+5,383,859
+—
+Impairment of inventory
+648,388
+—
+Impairment loss on fixed assets - acquisition of Ember Pharms (Pty) Ltd
+834,611
+—
+Loss on acquisition of land
+365,543
+—
+General and administrative expenses
+244,388
+36,404
+Total operating expenses
+91,126,809
+38,090
+Loss from operations
+(91,126,809)
+(38,090)
+Other Income (Expense)
+Interest expense
+(28,468)
+(1,528)
+Gain on Insurance claim
+49,739
+—
+Total other income (expenses)
+21,271
+(1,528)
+Net loss before taxes
+(91,105,538)
+(39,618)
+Provision for income taxes
+—
+—
+Net loss
+$(91,105,538)
+$(39,618)
+Other comprehensive income (loss)
+Foreign currency adjustment
+24,453
+—
+Total comprehensive loss
+$(91,081,085)
+$(39,618)
+Basic and diluted loss per common share
+$(0.28)
+$(0.00)
+Weighted average number of common shares outstanding, basic and diluted
+328,977,839
+74,417,002
+The accompanying notes are an integral part of these
+audited consolidated financial statements.
+20
+Table of Contents
+CRUCIAL INNOVATIONS CORP. AND ITS SUBSIDIARIES
+CONSOLIDATE STATEMENTS OF STOCKHOLDERS’ DEFICIT
+Years Ended December 31, 2024, and 2023
+Additional
+Accumulated
+Total
+Common Stock
+Paid-in
+Accumulated
+Comprehensive
+Stockholders'
+Shares
+Amount
+Capital
+Deficit
+Income
+Deficit
+Balance, December 31, 2022
+74,417,002
+74,417
+43,628
+(157,767)
+—
+(39,722)
+Contributions - related party
+—
+—
+31,359
+—
+—
+31,359
+Imputed interest on related party loans
+—
+—
+1,528
+—
+—
+1,528
+Net loss
+—
+—
+—
+(39,618)
+—
+(39,618)
+Balance, December 31, 2023
+74,417,002
+$74,417
+$76,515
+$(197,385)
+$—
+$(46,453)
+Common stock issued for management fees
+110,345,637
+110,346
+29,903,668
+—
+—
+30,014,014
+Common stock issued for services
+194,737,361
+194,737
+52,773,825
+—
+—
+52,968,562
+Imputed interest on related party loans
+—
+—
+28,355
+—
+—
+28,355
+Stock purchase option granted for services
+—
+—
+5,285,970
+—
+—
+5,285,970
+Common stock payable for acquisition of Ember Pharms (Pty) Ltd.
+—
+—
+194,869
+—
+—
+194,869
+Stock subscriptions for common stock
+—
+—
+719.886
+—
+—
+719,886
+Common stock issued for stock subscription
+1,320,798
+1,321
+(1,321)
+—
+—
+-
+Common stock issued for acquisition of Ember Pharms (Pty) Ltd,
+500,000
+500
+135,500
+—
+—
+136,000
+Foreign currency translation adjustments
+—
+—
+—
+—
+24,453
+24,453
+Net loss
+—
+—
+—
+(91,105,538)
+—
+(91,105,538)
+Balance, December 31, 2024
+381,320,798
+$381,321
+$89,117,267
+$(91,302,923)
+$24,453
+$(1,779,882)
+The accompanying notes are an integral part of these
+audited consolidated financial statements.
+21
+Table of Contents
+CRUCIAL INNOVATIONS CORP. AND ITS SUBSIDIARIES
+CONSOLIDATE STATEMENTS OF CASH FLOWS
+For the
+Years Ended
+December 31,
+2024
+2023
+Cash Flows from Operating Activities:
+Net loss
+$(91,105,538)
+$(39,618)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Imputed interest
+28,355
+1,528
+Stock-based compensation
+58,254,532
+—
+Stock-based compensation - related parties
+30,014,014
+—
+Depreciation
+7,885
+—
+Impairment of inventory
+648,388
+—
+Impairment loss on fixed assets
+38,659
+—
+Acquisition cost of Ember Pharms (Pty) Ltd.
+834,611
+—
+Loss on acquisition of land
+365,543
+—
+Changes in operating assets and liabilities:
+VAT receivable
+(11,426)
+—
+Prepaid expenses
+(12)
+—
+Inventory
+(648,388)
+—
+Contract advances
+33,942
+—
+Accounts payable and accrued liabilities
+349,529
+6,136
+Change in right-of-use asset and lease liability
+(595)
+595
+Net Cash Used in Operating Activities
+(1,190,501)
+(31,359)
+Cash Flows from Investing Activities:
+Acquisition of Ember Pharms (Pty) Ltd
+5,615
+—
+Purchases of property and equipment
+(18,596)
+—
+Net Cash Used in Investing Activities
+(12,981)
+—
+Cash Flows from Financing Activities:
+Advances from related parties
+1,233,167
+31,359
+Repayment of related party loans
+(719,887)
+—
+Proceeds from common stock for stock subscription
+719,886
+—
+Repayment convertible note
+(10,000)
+—
+Net Cash Provided by Financing Activities
+1,223,166
+31,359
+Effect of exchange rate changes on cash
+32,984
+—
+Net change in cash
+52,668
+—
+Cash, beginning of period
+—
+—
+Cash, end of period
+$52,668
+$—
+Supplemental cash flow information:
+Cash paid for interest
+$—
+$—
+Cash paid for taxes
+$—
+$—
+Supplemental disclosure of non-cash financing activity
+Common stock issued for acquisition Ember Pharms (Pty) Ltd.
+$330,869
+$—
+Recognition of right of use asset and lease liability
+$—
+$91,286
+The accompanying notes are an integral part of these
+audited consolidated financial statements.
+22
+Table of Contents
+CRUCIAL INNOVATIONS CORP. AND ITS SUBSIDIARIES
+NOTES TO AUDITED CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER 31, 2024 AND 2023
+NOTE 1 – ORGANIZATION AND DESCRIPTION
+OF BUSINESS
+Crucial Innovations Corp. (referred as
+the “Company”, “we”, “our” or “us”) was incorporated in the State of Nevada and established
+on February 28, 2018. We were initially engaged in the business of English language tutoring over the Internet. However, we were not able
+to execute our original business plan, develop significant operations or achieve commercial sales.
+On May 8, 2023, the Company entered into an agreement
+to acquire all of the share capital of WLR Farming (Pty) Ltd, a company organized under the laws of South Africa and a licensed grower
+and exporter of medical cannabis (hereinafter, “WLR”), in exchange for (i) Six Million South Africa Rand (ZAR 6,000,000) which
+amount was intended to be paid over twelve months from the date of agreement, and (ii) 500,000 shares of our common stock. On March 5,
+2024, we issued the owners of WLR an aggregate of 500,000 shares of our common stock. On November 8, 2024, this agreement was amended
+to provide for the payment of Fifty Thousand Pounds (GBP 50,000) in cash in lieu of the ZAR 6,000,000 described above, together with the
+issuance of an aggregate of 1,250,000 shares of common stock, inclusive of the 500,000 shares issued on March 5, 2024, and 750,000 shares
+issued on January 6, 2025. No solicitation was made and no underwriting discounts were given or paid in connection with this transaction.
+The Company believes that the issuance of its shares of common stock in connection with the agreement with the shareholders of WLR was
+exempt from registration with the Securities and Exchange Commission pursuant to Section 4(2) of the Securities Act of 1933. The cash
+payment obligation was satisfied on November 11, 2024. The owners of WLR transferred 100% of their WLR shares to the Company on April
+2, 2024. In connection with the agreement to acquire WLR, we determined to change our business to become a supplier and distributor of
+medical cannabis in the United Kingdom and continental Europe.
+On January 20, 2024, the Company entered into a distribution
+and service agreement with U Mir Pharma Limited, a company formed under the laws of England & Wales, doing business in the United
+Kingdom as Inspire Pharmacy (hereafter, “Inspire”). Inspire is a licensed pharmacy that is able to sell and distribute medical
+cannabis to qualified patients. The distribution and service agreement with Inspire was superseded by a joint venture agreement between
+the Company and Inspire which was entered into in May 2024. The joint venture was intended to be operated through a company jointly owned
+by the Company and Inspire. Accordingly, on March 25, 2024, the Company formed Crop Circle Dispensary Limited under the laws of England
+and Wales (hereafter, “Crop Circle”). The share capital of Crop Circle is allocated as to 92.5% to the Company and 7.5% to
+Inspire. Crop Circle is included in the consolidation of the Company even though it did not have any business transactions since inception
+through December 31, 2024.
+On April 8, 2024, the Company entered into a cultivation
+and supply agreement with Tomanic Trading (Pty) Ltd, a supplier in South Africa. The supplier is a licensed cultivator and manufacturer
+of medical cannabis.
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+This summary of significant accounting policies of
+the Company is presented to assist in understanding the Company’s consolidated financial statements. The consolidated financial
+statements and notes are representations of the Company’s management who are responsible for their integrity and objectivity. These
+accounting policies conform to accounting principles generally accepted in the United States of America (“GAAP”) and have
+been consistently applied in the preparation of the financial statements.
+Principles of Consolidation
+The consolidated financial statements include the
+accounts of Crucial Innovation Corp. and its wholly owned subsidiaries. Intercompany transactions and balances have been eliminated.
+Use of Estimates
+The preparation
+of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities and disclosures of contingent assets and liabilities at the date the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Actual results could differ from those estimates.  Included in these estimates
+is the fair value of shares of our capital stock issued during the relevant reporting period(s).
+Cash and Cash Equivalents
+For purposes
+of balance sheet presentation and reporting of cash flows, the Company considers all unrestricted demand deposits, money market funds
+and highly liquid debt instruments with an original maturity of less than 90 days to be cash and cash equivalents. The Company had cash
+of $52,668 and $0, at December 31, 2024, and 2023, respectively.
+23
+Table of Contents
+Foreign Currency Transactions
+The Company has operations outside of the United States,
+which results in exposure to market risks from changes in foreign currency rates. The financial risk arises from the fluctuations in foreign
+exchange rates and the degrees of volatility in these rates. Currently the Company does not use derivative instruments to reduce its exposure
+to foreign currency risk. Nonmonetary assets and liabilities are translated at historical rates and monetary assets and liabilities are
+translated at exchange rates in effect at the end of the year. Revenues and expenses are translated at average rates for the year. Gains
+and losses from translation of foreign currency financial statements into U.S. dollars are included as other comprehensive income.
+Fair Value
+Measurements
+The Company follows accounting guidelines
+on fair value measurements for financial instruments measured on a recurring basis, as well as for certain assets and liabilities that
+are initially recorded at their estimated fair values. Fair Value is defined as the exit price, or the amount that would be received from
+selling an asset or paid to transfer a liability in an orderly transaction between market participants as of the measurement date. The
+Company uses the following three-level hierarchy that maximizes the use of observable inputs and minimizes the use of unobservable inputs
+to value its financial instruments:
+●
+Level 1: Observable inputs such as unadjusted quoted prices in active markets for identical instruments.
+●
+Level 2: Quoted prices for similar instruments that are directly or indirectly observable in the marketplace.
+●
+Level 3: Significant unobservable inputs which are supported by little or no market activity and that are financial instruments whose values are determined using pricing models, discounted cash flow methodologies, or similar techniques, as well as instruments for which the determination of fair value requires a significant judgment or estimation.
+Financial instruments
+measured at fair value are classified in their entirety based on the lowest level of input that is significant to the fair value measurement.
+The Company’s assessment of the significance of a particular input to the fair value measurement in its entirety requires the Company
+to make judgments and consider factors specific to the asset or liability. The use of different assumptions and/or estimation methodologies
+may have a material effect on estimated fair values. Accordingly, the fair value estimates disclosed, or initial amounts recorded, may
+not be indicative of the amount that the Company or holders of the instruments could realize in a current market exchange.
+Intangible Assets
+Intangible assets with an indefinite life are not
+amortized and are tested for impairment annually or more frequently if events or changes in circumstances indicate that they might be
+impaired. Intangible assets with finite lives are initially recorded at cost and amortized on a straight-line basis over the estimated
+economic useful lives of the respective assets. Acquired intangible assets from business combinations and asset acquisitions are recognized
+and measured at fair value at the time of acquisition. Those assets represent assets with finite lives and are further amortized on a
+straight-line basis over the estimated economic useful lives of the respective assets.
+Impairment of Long-lived Assets Other Than Goodwill
+Long-lived assets with finite lives, primarily property
+and equipment, intangible assets, and operating lease right-of-use assets are reviewed for impairment whenever events or changes in circumstances
+indicate that the carrying amount of an asset may not be recoverable. If the estimated cash flows from the use of the asset and its eventual
+disposition are below the asset’s carrying value, then the asset is deemed to be impaired and written down to its fair value.
+Business Combinations
+Business combinations are recorded using the acquisition
+method of accounting. The purchase price of the acquisition is allocated to the tangible assets, liabilities, identifiable intangible
+assets acquired and non-controlling interest, if any, based on their estimated fair values as of the acquisition date. The excess of the
+purchase price over those fair values is recorded as goodwill. Acquisition-related expenses are expensed as incurred. Consideration transferred
+in a business acquisition is measured at the fair value as of the date of acquisition. Transaction costs directly attributable to the
+acquisition are expensed as incurred.
+Assets Acquisitions
+The Company evaluates acquisitions of assets and other similar transactions
+to assess whether or not the transactions should be accounted for as a business combination or asset acquisition by first applying a screen
+test to determine if substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or
+group of similar identifiable assets. If the screen is met, the transaction is accounted for as an asset acquisition. If the screen test
+is not met, further determination is required as to whether or not the Company has acquired inputs and processes that have the ability
+to create outputs which would meet the requirements of a business in which case the transaction is accounted for using the acquisition
+method of accounting, which requires, among other things, that assets acquired and liabilities assumed be recognized at their estimated
+fair values as of the acquisition date, and that the fair value of acquired intangibles be recorded on the balance sheet. If the transaction
+is accounted for under the acquisition method of accounting, the Company expenses the transaction costs as incurred, and any excess of
+the purchase price over the assigned fair value of the net assets acquired is recorded as goodwill. In connection with acquisitions, contingent
+consideration can be earned by the sellers upon completion of certain future performance milestones. In these cases, a liability is recorded
+on the acquisition date, as a component of accrued liabilities and/or other long-term liabilities, for an estimate of the acquisition
+date fair value of the contingent consideration.
+The Company accounts for an asset acquisition under
+ASC, Business Combinations Topic 805, which requires the acquiring entity in an asset acquisition to recognize net assets based
+on the cost to the acquiring entity on a relative fair value basis, which includes transaction costs in addition to consideration paid.
+Goodwill is not recognized in an asset acquisition, and excess consideration transferred over the fair value of the net assets acquired
+is allocated to the non-monetary identifiable assets based on relative fair values. Contingent consideration payments in asset acquisitions
+are recognized when the contingency is resolved and the consideration is paid or becomes payable (unless the contingent consideration
+meets the definition of a derivative, in which case the amount becomes part of the basis in the asset acquired). Upon recognition of the
+contingent consideration payment, the amount is included in the cost of the acquired asset or group of assets.
+Property and Equipment
+Property and equipment are carried at cost less accumulated
+depreciation. Depreciation is provided over the assets’ estimated useful lives, using the straight-line method. Currently
+our assets consist of machinery and equipment, vehicle and greenhouse upgrade which we amortize over a useful life of 5 years.
+Maintenance
+and repairs are charged to expense as incurred. Improvements of a major nature are capitalized. At the time of retirement or other disposition
+of property and equipment, the cost and accumulated depreciation are removed from the accounts and any gains or losses are reflected in
+income.
+24
+Table of Contents
+Inventories
+Inventories are stated at the lower of cost or net
+realizable value. The cost of inventory includes capitalized production costs, including labor, materials, post-harvest costs and depreciation.
+Inventories costs are expensed to cost of goods sold on the Consolidated Statement of Operations and comprehensive loss in the same period
+as finished products are sold. The amount of any write-down of inventories to net realizable value and all losses of inventories are recognized
+as an expense in the period when the write-down or loss occurs.
+Share-Based Compensation
+The Company accounts for employee and non-employee
+stock awards under ASC 718, “Compensation – Stock Compensation,” whereby equity instruments issued to employees
+for services are recorded based on the fair value of the instrument issued and those issued to nonemployees are recorded based on the
+fair value of the services received or the fair value of the equity instrument, whichever is more reliably measurable. Equity grants are
+amortized on a straight-line basis over the requisite service periods, which is generally the vesting period. If an award is granted,
+but vesting does not occur, any previously recognized compensation cost is reversed in the period related to the termination of service.
+The Company valued common stock compensation expense
+to employees and non-employees, as a Level 2 fair value measurement, based on a price of shares issued to unrelated parties for cash
+proceeds in connection with a private offering of our common stock at prices between $0.25 and $0.50 per share which commenced in the
+first quarter of 2024.
+Basic
+and Diluted Net Loss Per Common Share
+Basic earnings
+(loss) per common share is computed by dividing net income (loss) available to common shareholders by the weighted-average number of shares
+of common stock outstanding during the period. Diluted earnings per common share is computed by dividing income available to common shareholders
+by the weighted-average number of shares of common stock outstanding during the period increased to include the number of additional shares
+of common stock that would have been outstanding if potentially dilutive securities had been issued.
+Related Parties
+The Company follows ASC 850, “Related Party
+Disclosures,” for the identification of related parties and disclosure of related party transactions.
+Deferred Income Taxes and Valuation
+Allowance
+The Company accounts for income taxes under ASC 740
+“Income Taxes.” Under the asset and liability method of ASC 740, deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the financial statements carrying amounts of existing assets and liabilities
+and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable
+income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period the enactment occurs. A valuation allowance is provided for
+certain deferred tax assets if it is more likely than not that the Company will not realize tax assets through future operations.
+Segment Information
+Our Chief Executive Officer (“CEO”) is
+the chief operating decision maker who reviews consolidated financial information for purposes of allocating resources and evaluating
+financial performance. Accordingly, we determined we operate in a single reporting segment.
+Our CEO assesses performance and decides how to allocate
+resources primarily based on net income, which is reported on our Consolidated Statements of Operations. Total assets on the Balance Sheets
+represent our segment assets.
+25
+Table of Contents
+Recent accounting pronouncements
+In November 2023, the Financial Accounting Standards
+Board issued Accounting Standards Update (“ASU”) 2023-07, Improvements to Reportable Segment Disclosures (“ASU 2023-07”),
+which requires additional disclosures around significant segment expenses and disclosures to identify the title and position of the chief
+operating decision maker (“CODM”). ASU 2023-07 is effective for the Company for fiscal years beginning after December
+15, 2023. The Company does not expect this update to have a material impact on its financial statements.
+In December 2023, the FASB issued ASU 2023-09, Income
+Taxes (Topic 740): Improvements to Income Tax Disclosures, which requires, among other things, additional disclosures primarily related
+to the income tax rate reconciliation and income taxes paid. The expanded annual disclosures are effective for our year ending December
+31, 2025. The Company is currently evaluating the impact that ASU 2023-09 will have on our consolidated financial statements and whether
+we will apply the standard prospectively or retrospectively.
+In March 2024, the FASB issued ASU 2024-02 "Codification
+Improvements – Amendments to Remove References to the Concepts Statements" ("ASU 2024-02"), which contains
+amendments to the Codification to remove references to various FASB Concepts Statements. In most instances, the references are extraneous
+and not required to understand or apply the guidance. Generally, ASU 2024-02 is not intended to result in significant accounting
+changes for most entities. ASU 2024-02 is effective for the Company for fiscal years beginning after December 15, 2024. The
+Company does not expect this update to have a material impact on its financial statements.
+In November 2024, the FASB issued ASU 2024-03, Income
+Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,
+requiring public entities to disclose additional information about specific expense categories in the notes to the financial statements
+on an interim and annual basis. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods beginning
+after December 15, 2027, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2024-03.
+The Company has implemented all recently issued accounting
+pronouncements that are in effect and that may impact its financial statements and does not believe that there are any other new accounting
+pronouncements that have been issued that might have a material impact on its financial statements or results of operations.
+Subsequent events
+The
+Company follows ASC 855-10-20, “Types of Subsequent Events”, for events
+or transactions that provide additional evidence about conditions that existed at the date of the balance sheet, including the estimates
+inherent in the process of preparing financial statements.
+Leases
+ASC 842
+supersedes the lease requirements in ASC 840 “Leases” and generally requires lessees to recognize operating and finance
+lease liabilities and corresponding right-of-use (“ROU”) assets on the balance sheet and to provide enhanced disclosures surrounding
+the amount, timing and uncertainty of cash flows arising from leasing arrangements.
+ROU assets represent
+our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising
+from the lease. ROU assets and lease liabilities are recognized at commencement date based on the present value of lease payments over
+the lease term. As most of our leases do not provide an implicit rate, we generally use our incremental borrowing rate based on the estimated
+rate of interest for collateralized borrowing over a similar term of the lease payments at commencement date. The ROU asset also includes
+any lease payments made and excludes lease incentives. Our lease terms may include options to extend or terminate the lease when it is
+reasonably certain that we will exercise that option. For ROU assets, the Company has elected to account for non-lease components as part
+of the lease.
+Any
+lease with a term of 12 months or less is considered short-term. As permitted by ASC 842, short-term leases are excluded from
+the ROU assets and lease liabilities on the balance sheets. Consistent with all other operating leases, short-term lease expense is recorded
+on a straight-line basis over the lease term.
+The Company
+determines the present value of minimum future lease payments for operating leases by estimating a rate of interest that it would have
+to pay to borrow on a collateralized basis over a similar term, an amount equal to the lease payments and a similar economic environment
+(the “incremental borrowing rate” or “IBR”).The Company determines the appropriate IBR by identifying a reference
+rate and making adjustments that take into consideration financing options and certain lease-specific circumstances.
+During the years
+ended December 31, 2024, and 2023, the Company’s lease agreement was for occupancy of land and it is accounted for as operating
+leases. As of December 31,2024, the lease agreement was terminated.
+Reclassification
+Certain amounts from prior periods have been reclassified
+to conform to the current period presentation.
+26
+Table of Contents
+NOTE 3 – GOING CONCERN
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern, which contemplates the realization of assets and the liquidation
+of liabilities in the normal course of business. As of December 31, 2024, the Company had an accumulated deficit of $91,302,923, a net
+loss of $91,105,538 for the year ended December 31, 2024, and has not earned any revenues since inception. The Company intends to fund
+operations through equity financing arrangements and related party advances, all of which may be insufficient to fund its capital expenditures,
+working capital and other cash requirements.
+The ability of the Company to emerge from an
+early stage is dependent upon, among other things, obtaining additional financing to continue operations, and development of its business
+plan. In response to these problems, management intends to raise additional funds through public or private placement offerings.
+These factors, among others, raise substantial
+doubt about the Company’s ability to continue as a going concern. The accompanying financial statements do not include any adjustments
+that might result from the outcome of this uncertainty.
+NOTE 4 – ACQUISITION
+The following table summarizes the consideration
+paid for WLR and the amounts of the assets acquired and liabilities assumed at the acquisition date of April 2, 2024:
+Consideration:
+Issuance 500,000 shares of common stock, par value $0.001
+$136,000
+750,000 shares of common stock to be issued, par value $0.001
+194,869
+Cash payable of GBP 50,000
+60,812
+391,681
+Assets acquired and liabilities assumed:
+Cash in bank
+$5,616
+Property and equipment, net
+49,345
+Other receivable
+5,902
+Total tangible assets
+60,863
+Due to related parties
+$502,857
+Other payable
+936
+Total liabilities
+503,793
+Net liabilities
+$(442,930)
+Impairment loss on fixed assets recorded in operating expenses
+$834,611
+We assessed
+the nature of our 1,250,000 shares issuance for consideration of acquisition and considered certain factors which, in management’s
+view, made our shares a Level 2 valuation, including the following:
+·
+the lack of trading volume and institutional trading in our common stock during the period when our common stock was listed for trading on OTC Markets;
+·
+the de-listing of our shares from trading on OTC Markets during the second quarter of 2024; and
+·
+the absence of a registration statement covering the shares so issued and their resultant status as ‘restricted securities’ under U.S. federal securities laws.
+We examined
+other contemporaneous transactions involving our common stock with unaffiliated third parties as fair value indicators for the shares
+issued to the owners of WLR during the year 2024 and subsequent thereto. During the first quarter of 2024, we commenced a private offering
+of our common stock at a weighted average price of $0.272 per share. We applied this price and determined the fair value of the 500,000
+shares issued to the owners of WLR during the first quarter of 2024 to be $136,000. We continued our private offering during the second
+quarter of 2024 at an average price of $0.26 per share. We applied this price and determined the fair value of the 750,000 shares issued
+to the owners of WLR for $194,869.
+27
+Table of Contents
+NOTE 5 – INVENTORY
+As of December 31, 2024, and 2023, inventory
+consisted of the following:
+December 31,
+December 31,
+2024
+2023
+Raw material-Genetics
+$555,820
+$—
+Labor cost
+92,568
+—
+Total inventory cost
+648,388
+—
+Impairment of inventory
+(648,388)
+—
+$—
+$—
+During the year ended December 31,2024, the Company
+fully impaired inventory of $648,388. Such inventory was disposed of as pharmaceutical waste during January 2025 due to the expiry of
+the product pending receipt of the required specialist distribution license.
+NOTE 6 – PROPERTY AND EQUIPMENT
+As of December 31, 2024, and 2023, the property
+and equipment consisted of the following:
+December 31,
+December 31,
+2024
+2023
+Machinery and equipment
+$16,786
+$—
+Vehicle
+10,596
+—
+27,382
+—
+Accumulated depreciation
+(4,076)
+—
+Total property and equipment
+$23,306
+$—
+During
+the years ended December 31, 2024 and 2023, the Company recorded depreciation expense of $7,885 and
+$0, and impairment loss of $38,659 and $0, respectively.
+On September 25, 2024, a major storm destroyed the
+Company’s greenhouse. The greenhouse was a part of the Company’s property and equipment, acquired from WRL in April 2024,
+for growing our cultivation of genetics. The Company recognized a full impairment loss from the damage of $38,659, the carrying amount
+of our greenhouse.
+On May 11, 2023, the Company entered into an agreement
+to occupy certain real property in South Africa which contains the operations of WLR, commencing June 1, 2023, by paying a monthly lease
+payment of $6,320 (GBP 5,000). The Company occupied the land starting September 1, 2023. On December 8, 2024, the lease was terminated,
+and the Company amended its Deed of Sale, dated May 11, 2023, to require, in lieu of cash, a payment of $365,543 (ZAR 6,900,000), payable
+in shares of the Company’s common stock at $0.50 per share. As of December 31, 2024, the Company could not settle its commitment
+to seller by issuing the stock. As of December 31, 2024, the Company recognized a liability and loss on land acquisition of $365,543.
+Accordingly, on January 28, 2025, the Company issued an aggregate of 375,000 shares of common stock to the seller.
+NOTE 7 – INSURANCE CLAIM
+On September 25, 2024, a major storm destroyed the
+Company’s greenhouse. Due to the nature of the damage, the company determined that the greenhouse was a total loss. The greenhouse
+and related upgrades had a net book value of $38,659. On December 12, 2024, the Company covered the loss under the insurance policy, obtained
+an insurance claim of $88,398, and recognized a gain on settlement of insurance claim of $49,739.
+28
+Table of Contents
+NOTE 8 – LEASE
+The Company had the right to occupy certain real property
+in South Africa which contains the operations of WLR, commencing June 1, 2023, by paying a monthly lease payment of $6,320 (GBP 5,000).
+The Company occupied the land starting September 1, 2023, and recognized ROU assets and lease liabilities from this date.
+On December 8, 2024, the lease was terminated, and
+the Company amended its Deed of Sale, dated May 11, 2023, to require, in lieu of cash, a payment of $365,543 (ZAR 6,900,000), payable
+in shares of the Company’s common stock at $0.50 per share.
+In accordance with ASC 842, the Company recognized
+operating lease ROU assets and lease liabilities as follows:
+The components of lease expense were as follows:
+December 31,
+December 31,
+2024
+2023
+Operating lease cost
+$70,378
+$24,751
+Variable lease cost (foreign currency adjustment)
+4,356
+595
+Total lease cost
+$74,734
+$25,346
+Supplemental cash flow information related to leases was as follows:
+Cash paid for operating cash flows from operating leases
+$74,734
+$24,751
+Right -of-use assets obtained upon acquisition -September 1, 2023
+$91,286
+$91,286
+Supplemental balance sheet information related to leases was as follows:
+Weighted-average discount rate — operating leases
+6.25%
+6.25
+Weighted-average remaining lease term - operating lease (months)
+—
+0.92
+Supplemental balance sheet information related to
+leases was as follows:
+December 31,
+December 31
+2024
+2023
+Operating lease right-of-use asset
+$—
+$67,634
+December 31,
+December 31
+2024
+2023
+Operating lease liabilities:
+Current portion
+$—
+$68,229
+Non-current portion
+—
+—
+$—
+$68,229
+NOTE 9 – CONVERTIBLE NOTE
+On April 14, 2021, the Company issued a convertible
+note with a conversion price equal to a 60% discount on the market price to pay operating expenses of $6,480. On October 4, 2024,
+the Company paid $10,000 to the SEC, a judgment creditor of the holder of the promissory note described in the preceding paragraph, as
+full payment against this obligation. As of December 31, 2024, and 2023, the Company had a convertible note of $0 and $6,480, accrued
+interest of $0 and $3,520 for an aggregate of $0 and $10,000, respectively.
+On October 4, 2024, the Company paid $10,000 to the
+SEC, a judgment creditor of the holder of the promissory note described in the preceding paragraph, as full payment against this obligation.
+29
+Table of Contents
+NOTE 10 – RELATED PARTY TRANSACTIONS
+The related parties that had material transactions for the years ended
+December 31, 2024, and 2023, consist of the following:
+Related Party
+Nature of Relationship to the Company
+A
+Chief Executive Officer
+B
+President, Chief Operating Officer
+C
+Chief Financial Officer
+D
+A UK company owned by related party A (JPD Capital)
+E
+Shareholders and non-executive members of Board
+F
+A UK company owned by related party A ( Eco-Equity Ltd)
+As of December 31, 2024, and 2023, amounts owing to
+related parties consists as follows:
+December 31
+December 31
+Related Party
+2024
+2023
+Timothy Ambrose
+B
+$
+27,688
+S
+8,688
+JPD Capital
+D
+1,025,055
+17,500
+$
+1,052,743
+$
+26,188
+The amounts owing to related parties are unsecured, non-interest bearing
+and due on demand.
+For the years ended December 31, 2024, and 2023, advances to related parties
+and their nature consists of:
+For the
+Years Ended
+December 31,
+Related Party
+2024
+2023
+Nature of transaction
+Financial Statement Line Item
+A
+$
+18,750
+$
+-
+Accrued management fees
+General and administrative expenses,
+A
+$
+-
+$
+31,359
+Cash paid for operating expenses on behalf of the Company
+General and administrative expenses, Professional fees
+B
+$
+28,733,134
+$
+-
+105,636,521 shares of common stock issued for compensation
+Management fees
+B
+$
+18,750
+$
+-
+Accrued management fees
+General and administrative expenses
+B
+$
+774
+$
+457
+Imputed interest
+Interest expenses
+B
+$
+19,000
+$
+-
+Cash paid for operating expenses on behalf of the Company
+Professional fees
+C
+$
+1,046,467
+$
+-
+3,847,304 shares of common stock issued for compensation
+Management fees
+C
+$
+26,131
+$
+-
+Cash paid for management fees
+General and administrative expenses
+D
+$
+506,216
+$
+-
+Cash paid to Ember Pharm (Pty) Ltd
+Due to related party
+D
+$
+321,368
+$
+-
+Cash paid for operating expenses on behalf of the Company
+General and administrative expenses, Professional fees and management fees
+D
+$
+406,660
+$
+-
+Acquired Genetics
+Inventory
+D
+$
+719,887
+$
+-
+Repayment due to related party D
+Due to related party
+D
+$
+27,467
+$
+1,071
+Imputed interest
+Interest expenses
+E
+$
+234,413
+$
+-
+861,812 shares of common stock issued for compensation to our directors
+Management fees
+The following are the other related party transactions:
+During the year ended December 31 2024, the Company
+entered into a distribution and service agreement with U Mir Pharma Limited, a company formed under the laws of England & Wales, doing
+business in the United Kingdom as Inspire Pharmacy (hereafter, “Inspire”). This agreement was superseded by a joint venture
+agreement with Inspire as described in Note 1 above. Inspire is owned and controlled by a director of the Company
+30
+Table of Contents
+NOTE 11 – ACCOUNTS PAYABLE, ACCRUED LIABILITIES
+The following table summarizes the components of the
+Company’s accounts payable and accrued liabilities as of the dates presented:
+December 31,
+December 31,
+2024
+2023
+Accounts Payable
+$155,377
+$9,670
+Accrued liabilities
+628,043
+—
+Others payable
+1,368
+—
+$784,788
+$9,670
+NOTE 12 – STOCKHOLDER’ DEFICIT
+On February 26, 2024, the Company’s Board
+of Directors approved an increase in the number of shares of capital stock authorized to be issued by the Company from Seventy-Five Million
+(75,000,000) to Five Hundred and Fifty Million (550,000,000) consisting of Five Hundred Million (500,000,000) shares of common stock,
+par value $0.001 per share, and Fifty Million (50,000,000) shares of undesignated preferred stock, par value $0.001 per share.
+Preferred
+Stock
+The Company
+has authorized 50,000,000 shares of preferred stock with a par value of $0.001 per share. No preferred stock was issued
+or outstanding as of December 31, 2024, and 2023.
+Common
+Stock
+During
+the year ended December 31, 2024, par value of common stock was changed from $0.0001 per share to $0.001 per share.
+The Company has authorized 500,000,000 shares
+of common stock with a par value of $0.001 per share.
+On October 23, 2022, the Company issued an aggregate of 42,000,000 shares
+of its common stock (“Consideration Shares”) to acquire the share capital of Eco Equity Limited (“Eco Equity”)
+a Zimbabwean-based cultivator of medicinal cannabis. Due to logistical, regulatory, and political challenges facing the business in Zimbabwe,
+the acquisition of Eco Equity was abandoned. Nevertheless, the transaction introduced the Company into the medicinal cannabis sector and
+opportunities to conduct business and material transactions with other cultivators, exporters, manufacturers, and distributors in southern
+Africa and, ultimately, Europe. As a result of the exposure and access initiated by the transaction with Eco Equity, the Company permanently
+changed its business model to operate in the medicinal cannabis sector. Because of the beneficial effect of transaction, even though abandoned,
+the Company determined to continue to honor the issuance of the Consideration Shares.
+During the year ended December 31, 2024, the Company issued 305,082,998
+shares under the Company’s 2024 Equity Incentive Plan (“Incentive Plan”) as follows:
+110,345,637 shares of common stock to the Company’s CFO, director
+and non-executive board members, valued at $30,014,014.
+194,737,361 shares of common stock for services valued at $52,968,562.
+Also during the year ended December 31, 2024, the Company issued
+the following shares of common stock:
+500,000 shares of common stock issued and 750,000 shares of common stock
+to be issued, valued at $330,869 in aggregate, to the shareholders of WLR Farming (Pty) Ltd (Note 1) in connection with the Company’s
+agreement to acquire the share capital of WLR.
+During the year ended December 31, 2024, the Company received stock subscriptions
+for 1,400,352 shares of common stock , valued at $361,246 recorded to additional paid in capital.
+31
+Table of Contents
+As of December 31, 2024, and December 31, 2023, there were 381,320,798
+and 74,417,002 shares of common stock issued and outstanding, respectively.
+2024 Equity incentive plan
+On February 26, 2024, the Company’s Board of
+Directors adopted the Incentive Plan, the purpose of which was to promote the interests of the Company by encouraging directors, officers,
+employees, and consultants of CINV to develop a long-term interest in the Company, align their interests with that of our stockholders,
+and provide a means whereby they may develop a proprietary interest in the development and financial success of the Company and its stockholders.
+The Incentive Plan is also intended to enhance the ability of the Company and its subsidiaries to attract and retain the services of individuals
+who are essential for the growth and profitability of the Company. The Incentive Plan permits the award of restricted stock, common stock
+purchase options, restricted stock units, and stock appreciation awards. The maximum number of shares of our common stock that are subject
+to awards granted under the Incentive Plan is 350,000,000 shares. The term of the Incentive Plan will expire on February 25, 2034. Our
+Board of Directors, which serves as the administrator of the Incentive Plan, has granted awards under the Incentive Plan to certain directors,
+executive officers, employees, and consultants in the aggregate amount of 305,082,998 shares, all of which became fully-vested at the
+time of grant. No solicitation was made and no underwriting discounts were given or paid in connection with these transactions. The
+Company believes that the issuance of its shares of common stock in connection with the Incentive Plan was exempt from registration with
+the Securities and Exchange Commission pursuant to Section 4(2) of the Securities Act of 1933. As of December 31, 2024, 44,917,002 shares
+are available to be issued under the Incentive Plan.
+Stock Purchase Options
+On May 24, 2024, the Company entered into an agreement
+with a musician and entertainer to endorse and promote the Company’s business and the Company recorded marketing expense of $5,285,970.
+In consideration for services to be provided by the entertainer, the Company granted a 10-year stock purchase option to acquire 20,000,000
+shares of common stock, at exercise price of $0.01 per share. The option is vested as of the grant date, and may be exercised in whole
+or in part, at any time.
+The stock purchase options are valued using a Black-Scholes
+valuation model. The use of this valuation model requires the input of highly subjective assumptions. Any change to these inputs could
+produce significantly higher or lower fair value measurements.
+The Company utilized the following assumptions:
+2024
+Estimated stock price
+$0.27
+Expected term
+5 years
+Expected average volatility
+72%
+Expected dividend yield
+—
+Risk-free interest rate
+4.53%
+A summary of activity of the stock purchase options
+during the year ended December 31, 2024, as follows:
+Options Outstanding
+Weighted Average
+Number of
+Weighted Average
+Remaining life
+Options
+Exercise Price
+(years)
+Outstanding, December 31, 2023
+-
+$
+-
+-
+Granted
+20,000,000
+0.01
+10.00
+Exercised
+-
+-
+-
+Forfeited/canceled
+-
+-
+-
+Outstanding, December 31, 2024
+20,000,000
+$
+0.01
+9.40
+Exercisable options, December 31, 2024
+20,000,000
+$
+0.01
+9.40
+NOTE 13 – INCOME TAXES
+The Company has not made provision for income taxes
+for the years ended December 31, 2024 and 2023 since the Company has the benefit of net operating losses in these periods.
+Due to uncertainties surrounding the Company’s
+ability to generate future taxable income to realize deferred income tax assets arising as a result of net operating losses carried forward,
+the Company has not recorded any deferred income tax assets as of December 31, 2024. The Company has incurred a net operating loss (NOL)
+of $988,450; the net operating loss carry forwards will begin to expire in varying amounts beginning with the year ended December 31,
+2039, subject to its eligibility as determined by respective tax regulating authorities. NOLs generated in tax years prior to December
+31, 2018, can be carryforward for twenty years, whereas NOLs generated after December 31, 2018, can be carryforward indefinitely. The
+Company’s net operating loss carry forwards may be subject to annual limitations, which could eliminate, reduce or defer the utilization
+of the losses because of an ownership change as defined in Section 382 of the Internal Revenue Code. U.S. Federal tax returns are closed
+by statute for years through 2015. The status of state and non-U.S. tax examinations varies due to the numerous legal entities and jurisdictions
+in which the Company operates.
+32
+Table of Contents
+Net deferred tax assets consist of the following components
+as of December 31, 2024, and 2023:
+December 31,
+December 31
+2024
+2023
+Net loss for the year
+$(988,450)
+(39,618)
+Effective tax rate
+21%
+21%
+Tax Recovery
+(207,575)
+(8,320)
+Less: valuation allowance
+207,575
+8,320
+Net deferred asset
+$—
+$—
+December 31,
+December 31
+2024
+2023
+Net Operating Loss carryforward
+$249,023
+$41,448
+Less: Valuation allowance
+(249,023)
+(41,448)
+Net deferred tax asset
+$—
+$—
+Tax returns for the years ended 2018 to
+2024, have not been filed by the Company, and are subject to review by the tax authorities. The Company has no liabilities related to
+uncertain tax positions or unrecognized benefits as of the year ended December 31, 2024. The Company has not accrued interest or penalties
+associated with unrecognized tax liabilities.
+NOTE 14 – COMMITMENTS
+In January 2024, the Company entered into a strategic
+consulting agreement with a consultant to work alongside management teams to create value by commercializing business plans, optimizing
+financial and operational performance, making introductions, negotiating agreements, executing partnerships and formulating acquisition
+and exit strategies. The agreement, as amended, provides for a monthly fee of GBP 5,000 (approximately $6,320) per month and a one-time
+payment of 14,000,000 shares of our common stock. The agreement is for a free duration term, and the Company may terminate the consultancy
+at any time. During the year ended December 31, 2024, the Company issued 14,000,000 shares of common stock in satisfaction of this obligation,
+valued at $3,808,000.
+On July 5, 2024, the Company entered into a purchase
+agreement with Cannabudgrow (Pty) Ltd, a company licensed to cultivate cannabis for the proposes of producing the Medicines and Related
+Substances. The Company’s commitment is to purchase a minimum quantity of 1,200 Kg’s per annum for a period of two years.
+We have entered into indemnification agreements with
+certain of our current directors and officers. The indemnification agreements indemnify the indemnitee to the fullest extent permitted
+by law, including against third-party claims and claims by or in right of the Company or any subsidiary or majority-owned partnership
+of the Company by reason of that person (including the advancement of expenses subject to certain conditions) (a) being a director, officer
+employee or agent of the Company, or of any subsidiary or majority-owned partnership of the Company or (b) serving at our request as a
+director, officer, employee or agent of another entity. If appropriate, we are entitled to assume the defense of the claim with counsel
+selected by us and approved by the indemnitee (which approval may not be unreasonably withheld). Separate counsel employed by the indemnitee
+will be at his or her own expense unless (1) the employment of separate counsel has been previously authorized by us, (2) the indemnitee
+reasonably concludes there may be a conflict of interest or (3) we have not, in fact, employed counsel to assume the defense of such claim.
+33
+Table of Contents
+NOTE
+15 – SUBSEQUENT EVENTS
+Management has evaluated subsequent events through
+the date these financial statements were available to be issued. Based on our evaluation unless noted below, no material events have
+occurred that require disclosure.
+1.On January 6, 2025, the Company issued an aggregate of 2,021,096 shares of common stock as follows:
+·1,271,096 shares of common stock were issued in connection with subscriptions received from investors
+during the fourth quarter of 2024; and
+·750,000 shares of common stock were issued to the former owners of Ember Pharms.
+2.On January 28, 2025, the Company issued an aggregate of 7,875,000 shares of common stock as follows:
+·7,500,000 shares were issued two consultants of the Company in connection with the Company’s 2024
+Equity Incentive Plan; and
+·375,000 shares were issued to Vertical Up Manufacturing (Pty) Ltd, the owner of land formerly used by
+Ember Pharms in South Africa.
+3.On May 22, 2025, the Company’s Board of Directors approves following:
+·An offering of 2- and 3-year senior secured convertible promissory notes of up to $10,000,000 in the aggregate
+(the “Note Offering” and the promissory notes issued in connection therewith, the “Notes”);
+·A Custodian Agreement, wherein the Company issued 20,000,000 shares to the custodian to hold in trust as
+partial security for the repayment of the Notes;
+·A consulting agreement for banking, finance, capital formation, mergers, acquisition and general corporate
+advisory services in exchange for monthly compensation of $100,000;
+·Consulting agreements with three advisors in connection with business development, valuation, global mergers
+and acquisitions, financial modelling services in exchange for the issuance of an aggregate of 1,348,000 shares of common stock; and
+·The award of 5,000,000 shares of common stock to two of the Company’s corporate advisory and operations
+consultants pursuant to the Company’s 2024 Equity Incentive Plan.
+4.On June 23, 2025, the Company and Ember Pharms (Pty) Ltd., its wholly-owned subsidiary, entered into a Deed
+of Settlement with Vertical Up Manufacturing (Pty) Ltd. (“Vertical Up) concerning a lawsuit filed by Vertical Up in the High Court
+of South Africa, Free State Division, Bloemfontein. The Deed of Settlement required that the Company vacate the premises and make a series
+of installment payments to Vertical Up totaling ZAR 2,758,500 in the aggregate, which payments may be offset from Vertical Up’s
+sale of cannabis inventory on the premises. Pursuant to the terms of the Deed of Settlement, the first installment payment of ZAR 500,000
+was made on June 27, 2025
+In connection with the Note Offering, the
+Company issued Notes to various non-U.S. investors in the aggregate principal amount $475,850.
+5.On July 18, 2025, the Company issued an aggregate of 27,477,256 shares of common stock as follows:
+·129,256 shares of common stock were issued to an investor in connection with subscription for common
+stock received by the Company in June 2024;
+·2,348,000 shares of common stock were issued to four advisors in connection with business development,
+valuation, global mergers and acquisitions, financial modelling services;
+·20,000,000 shares were issued to a custodian to be held as partial security in connection with the
+Company’s offering of senior secured convertible promissory notes which commenced in the second quarter of 2025; and
+·5,000,000 shares of common stock to two of the Company’s corporate advisory and operations
+consultants pursuant to the Company’s 2024 Equity Incentive Plan.
+34
+Table of Contents
+Item 9. Changes in and Disagreements with Accountants on Accounting
+and Financial Disclosure
+None.
+Item 9A. Controls and Procedures
+Attached as exhibits to
+this Form 10-K are certifications of our Chief Executive Officer and Chief Financial Officer, which are required in accordance with Rule
+13a-14 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). This section includes information concerning
+the controls and controls evaluation referred to in those certifications and should be read in conjunction with the certifications for
+a more complete understanding of the topics presented.
+Evaluation
+of Disclosure Controls and Procedures
+Disclosure controls and
+procedures are designed to ensure that information required to be disclosed in the reports filed or submitted under the Exchange Act is
+recorded, processed, summarized and reported, within the time period specified in the SEC’s rules and forms, and that such information
+is accumulated and communicated to management, including the CEO and CFO, as appropriate, to allow timely decisions regarding required
+disclosures. Our management necessarily applied its judgment in assessing the costs and benefits of such controls and procedures, which,
+by their nature, can provide only reasonable assurance regarding management’s control objectives.
+Our management, with the
+participation of our CEO and CFO, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as
+of the end of the period covered by this Report. Based upon this evaluation, our CEO and CFO concluded that our disclosure controls and
+procedures were not effective because of the identification of a material weakness in our internal control over financial reporting which
+is described below.
+Management Report on Internal Control Over
+Financial Reporting
+Our management is responsible
+for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Rule 13a-15(f).
+Our internal control over financial reporting is a process designed to provide reasonable assurance to our management and board of directors
+regarding the reliability of financial reporting and the preparation of the financial statements for external purposes in accordance with
+U.S. GAAP.
+Our internal control over
+financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail,
+accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions are
+recorded as necessary to permit preparation of financial statements in accordance with U.S. GAAP and our receipts and expenditures are
+being made only in accordance with authorizations of our management and directors; and (iii) provide reasonable assurance regarding prevention
+or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on our financial
+statements.
+Because of its inherent
+limitations, internal control over financial reporting may not prevent or detect misstatements. All internal control systems, no matter
+how well designed, have inherent limitations, including the possibility of human error and the circumvention of overriding controls. Accordingly,
+even effective internal control over financial reporting can provide only reasonable assurance with respect to financial statement preparation.
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because
+of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Our management assessed
+the effectiveness of our internal control over financial reporting as of December 31, 2024. In making this assessment, it used the criteria
+set forth by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) in Internal Control-Integrated
+Framework (2013). Based on this evaluation, management concluded that that our internal control over financial reporting was not effective
+as of December 31, 2024. Our CEO and CFO concluded we have a material weakness due to lack of segregation of duties, a limited corporate
+governance structure, a lack of a formal management review process over preparation of financial information, and a lack of adequate resources
+to ensure our filing requirements under the Exchange Act are satisfied. A material weakness is a deficiency, or a combination of control
+deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of
+our annual or interim financial statements will not be prevented or detected on a timely basis.
+35
+Table of Contents
+Our size has prevented
+us from being able to employ sufficient resources to enable us to have an adequate level of supervision and segregation of duties within
+our system of internal control. Therefore, while there are some compensating controls in place, it is difficult to ensure effective segregation
+of accounting and financial reporting duties. Management reported the following material weaknesses:
+·Lack of segregation of duties in certain accounting and financial reporting processes including the initiation,
+processing, recording and approval of disbursements;
+·Our corporate governance responsibilities are performed by the Board of Directors, although we do have
+an audit committee, compensation committee and nominating and corporate governance committee. Our Board of Directors acts primarily by
+written consent without meetings which results in several of our corporate governance functions not being performed concurrent (or timely)
+with the underlying transactions, including evaluation of the application of accounting principles and disclosures relating to those transactions;
+·Certain reports that we prepare, and accounting and reporting conclusions reached in connection with the
+financial statement preparation process are not subjected to a formal review process that includes multiple levels of review and are not
+submitted timely to the Board of Directors for review or approval; and
+·Inability to dedicate sufficient resources to our accounting and reporting obligations to enable the Company
+to satisfy its reporting obligations under the Exchange Act.
+While we strive to segregate
+duties as much as practicable, there is an insufficient volume of transactions at this point in time to justify additional full-time staff.
+We believe that this is typical in many development-stage companies. We may not be able to fully remediate the material weakness until
+we can generate additional capital resources to hire more staff. We will continue to monitor and assess the costs and benefits of additional
+staffing.
+This Annual Report does
+not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management’s
+report was not subject to attestation by our registered public accounting firm pursuant to the SEC rules that permit us to provide only
+management’s report in this Annual Report.
+Item 9B. Other Information
+None.
+Item 9C. Disclosure Regarding Foreign Jurisdictions
+that Prevent Inspections
+Not Applicable.
+36
+Table of Contents
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance
+Directors and Executive Officers
+The following table includes
+the name, age, and position of each person who served as a director or executive officer of the Company during 2024. The address of each
+of the persons in the table is c/o the Company at 86-90 Paul Street, London EC2A 4NE, United Kingdom.
+Name
+Age(1)
+Position
+Jon-Paul Doran(2)
+37
+CEO, Secretary, and Director
+Timothy Ambrose(2)
+44
+President and Director
+Darlington Mazvidza(2)
+37
+Chief Financial Officer
+Richard Collins(3)
+60
+Director
+Michael Davis(3)
+61
+Director
+Usman Mir(3)
+43
+Director
+(1)
+As of December 31, 2024.
+(2)
+Appointed on October 17, 2021.
+(3)
+Appointed on February 29, 2024.
+The following is a summary
+of the relevant backgrounds and business information concerning our directors and executive officers who served in 2024. Based upon the
+information below, the Company believes that Messrs. Doran and Ambrose each have the educational backgrounds and business and operational
+experiences that give each of them the qualifications and skills to serve as directors of the Company.
+Jon-Paul (JP) Doran
+– Chief Executive Officer, Secretary, and Director
+Mr. Doran serves as a director
+of the Company and as its Chief Executive Officer, having been appointed to these positions on October 17, 2021. Jon-Paul transitioned
+from finance into the cannabis industry after recognizing its potential for alternative therapies, and to make affordable healthcare alternatives
+globally accessible. Beginning his career at Citigroup, Jon-Paul pivoted into private equity working across the Far East and Middle East
+before embarking on his mission to democratize alternative therapies and reshape the wellness landscape. In 2020 Jon-Paul founded JPD
+Capital, a cannabis fund domiciled in Guernsey.
+Timothy Ambrose
+– President, Chief Operating Officer, and Director
+Mr. Ambrose serves as a
+director of the Company and as its President and Chief Operating Officer, having been appointed to these positions on October 17, 2021.
+A vastly experienced executive, Tim built his career from McKinsey to leadership roles at DMGT, Trinity Mirror PLC, and the Company’s
+entry into the medical cannabis market, helping to enhance global accessibility of high-quality medicinal cannabis for patients.
+Darlington Mazvidza
+– Chief Financial Officer
+Mr. Mazvidza serves as
+the Company’s Chief Financial Officer, having been appointed to this position on October 17, 2021. With over 16 years of experience
+as an accomplished finance and business leader, Darlington built his career from internal auditor at Trust Bank to completing his articles
+and embarking on a management consulting career, providing guidance to startups and leading turnarounds, before leveraging his entrepreneurial
+spirit to found a manufacturing company in Zimbabwe, developing a track record of building teams, optimizing processes, driving innovation,
+and delivering results.
+Richard Collins
+– Director
+Mr. Collins serves as an
+independent director of the Company. He has more than 20 years of board level experience with large retailers in the United Kingdom and
+internationally, and has built his career developing strategies to drive sales and increase profits across multiple channels and formats.
+From 2017 through 2022, he served as the CEO of Babyshop, the Middle East’s leading children’s retailer with revenue of £500
+million and operating profits of £80 million across more than 220 retail stores. From 2005 to 2015, he was the CEO of F&F UK
+Clothing, increasing revenue from £500 million to more than £1.1 billion to become the UK’s No. 4 brand in volume market
+share.
+Michael Davis –
+Independent Director
+Mr. Davis serves as an
+independent director of the Company. He possesses over 20 years of executive operations and leadership experience, including global healthcare
+experience in the United States, Europe, the Middle East, and South America. Since 2019, has served as a director of National Medical
+Care Company, a Tadawul/Saudi Arabia Stock Exchange listed company that provides healthcare strategy and management to organizations in
+the Middle East and, since 2023, has served as the President of Steward Health Care Middle East. Since 2022, he has also served as the
+founder and CEO of Davis Health, LLC, a healthcare strategy and advisory consultant business focused on the MENA region. From 2017 to
+2023, he served as the CEO of NMC Healthcare PLC, a London Stock Exchange listed multi-specialty healthcare firm with 180 facilities in
+18 countries.
+Usman Mir –
+Director
+Mr. Mir serves as a director
+of the Company and as a key
+manager of the Company’s joint venture with Inspire Pharmacy. Since 2014, he has served as a Superintendent
+Pharmacist for Inspire Pharmacy, now a distribution partner of the Company. In his role with Inspire, he has been responsible for the
+professional and clinical management of the pharmacy network and the administration and supply of medicines. Mr. Mir holds a Master of
+Pharmacy and a Bsc with Honors, both from Liverpool University.
+37
+Table of Contents
+Delinquent Section 16(a) Reports
+Our common stock is not
+registered pursuant to Section 12 of the Exhange Act. Accordingly, our directors, executive officers, and principal stockholders are not
+subject to the beneficial ownership reporting requirements of Section 16(a) of the Exchange Act.
+Code of Business Conduct
+As of December 31, 2024,
+we have adopted a Code of Business Conduct and Ethics within the meaning of Item 406(b) of Regulation S-K. Our Code of Business Conduct
+and Ethics also meets the requirements of Section 406 of the Sarbanes-Oxley Act of 2002.
+Board Committees
+As of December 31, 2024,
+we had the following Committees of the Board:
+Audit
+Committee. The charter of the Audit Committee specifies that the purpose of the Audit Committee is to assist the Board in its
+oversight of the integrity of:
+·The Company’s financial statements;
+·The Company’s compliance with legal and regulatory requirements;
+·The independence and qualifications of the Company’s independent registered public accountant, and
+·The performance of the Company’s internal audit function and independent registered public ac-countant.
+38
+Table of Contents
+In furtherance of the foregoing
+purpose, the Audit Committee’s authority and responsibilities include to:
+·Review and oversee the Company’s annual and quarterly financial statements;
+·Discuss with management and the Company’s independent registered public accountant, as appropriate,
+earnings press releases and financial information, as well as financial information and earnings guidance provided to analysts and ratings
+agencies, if any;
+·Recommend, for shareholder approval, the appointment of the Company’s independent registered public
+accountant, and oversee the compensation, retention, oversight, and other matters relating to the engagement or discharge of the independent
+registered public accounting firm;
+·Review with management and the independent registered public accountant, as appropriate, any audit problems
+or difficulties the independent registered public accountant encountered in the course of the audit work and management’s responses
+thereto;
+·Discuss with management the Company’s risk assessment and risk management guidelines and policies,
+including the Company’s major financial risk exposures and steps taken by management to monitor and control such exposures;
+·Oversee the Company’s financial controls and reporting processes;
+·Review the Company’s financial reporting and accounting standards and principles;
+·Review the performance of the Company’s internal audit function and the performance of the independent
+registered public accountant;
+·Review and investigate any matters pertaining to the integrity of management, including conflicts of interest
+or adherence to standards of business conduct; and
+·Establish procedures for handling complaints involving accounting, internal accounting controls, and auditing
+matters.
+The charter of the Audit
+Committee is available on the Company’s website. The Committee intends to schedule its meetings with a view to ensuring that it
+devotes appropriate attention to all of its duties. The Committee’s meetings may include, whenever appropriate, executive sessions
+with the Company’s independent registered public accountant without the presence of management. A majority of the members of the
+Audit Committee are considered independent directors within the meaning of SEC regulations, and the Chair of the Audit Committee is qualified
+as an audit committee financial expert within the meaning of SEC regulations.
+Compensation
+Committee. The Compensation Committee is responsible for reviewing and evaluating the compensation of the Company’s Chief
+Executive Officer and other executive officers. In addition, the Compensation Committee will periodically review independent and interested
+director compensation and recommend any appropriate changes to the Board. Lastly, the Compensation Committee will produce a report on
+the Company’s executive compensation practices and policies for inclusion in the Company’s proxy statement, if required by
+applicable proxy rules and regulations, and make recommendations to the Board on the Company’s executive compensation practices
+and policies. The charter of the Compensation Committee is be available on the Company’s website.
+Governance
+and Nominating Committee. The Governance and Nominating Committee is responsible for developing and implementing policies and
+practices relating to corporate governance. The Committee will select future individuals for nomination to the Company’s Board.
+In addition, the Governance and Nominating Committee will develop and review background information on candidates for the Board and make
+recommendations to the Board regarding such candidates. The Committee will also prepare and supervise the Board’s annual review
+of director independence and the Board’s performance self-evaluation. The charter of the Governance and Nominating Committee is
+available on the Company’s website.
+39
+Table of Contents
+Item 11. Executive Compensation
+Summary Compensation
+Table
+The following table summarizes the total compensation
+that the Company paid or accrued during the fiscal years ended December 31, 2024 and 2023 to the NEOs, who are the Chief Executive
+Officer, President, Chief Financial Officer, and our other most highly compensated executive officers who received more than $100,000
+in annual compensation from the Company.
+Name and Principal Position
+Year
+Salary(1)
+Cash Bonus
+Stock Awards(2)
+All Other Compensation
+Total
+Jon-Paul Doran—
+CEO
+2024
+2023
+$ 18,750
+―
+$ ―
+―
+$ ―
+―
+$ ―
+―
+$ 18,750
+―
+Timothy Ambrose—
+President
+2024
+2023
+$ 18,750
+―
+$ ―
+―
+$ 28,733,134
+―
+$ ―
+―
+$ 28,751,884
+―
+Darlington Ganda—
+Chief Financial Officer
+2024
+2023
+$ 26,131
+―
+$ ―
+―
+$ 1,046,467
+―
+$ ―
+―
+$ 1,072,598
+―
+(1)
+None of our management received cash salaries in 2023.
+(2)
+On March 5, 2024, Messrs. Ambrose and Mazvidza received awards of 105,636,521 and 3,847,304 shares of common stock, respectively, pursuant to the Company’s 2024 Equity Incentive Plan..
+40
+Table of Contents
+Item 12. Security Ownership of Certain Beneficial Owners
+and Management and Related Stockholder Matters
+The following table shows the amount of the Company’s
+common stock beneficially owned (unless otherwise indicated) as of December 31, 2024, by (1) any person known to the Company to be
+the beneficial owner of more than 5% of the outstanding shares of the Company’s common stock, (2) each director of the Company,
+(3) each named executive officer, and (4) all directors and executive officers as a group. The applicable percentage ownership
+is based upon 383,471,150 shares of common stock issued and outstanding as of December 31, 2024.
+The number of shares of common stock beneficially owned
+by each entity, person, director/director nominee, or executive officer is determined under SEC rules and the information is not necessarily
+indicative of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares as to which the entity
+or individual has sole or shared voting power or investment power and also any shares that the entity or individual had the right to acquire
+as of December 31, 2024, or within 60 days after December 31, 2024, through the exercise of any stock option or other right. Unless otherwise
+indicated, to our knowledge, each individual has sole investment and voting power, or shares such powers with his spouse, with respect
+to the shares set forth in the table.
+Name
+Sole Voting and
+Investment Power
+Other
+Beneficial Ownership
+Total
+Percent of
+Class
+Outstanding
+Jon-Paul Doran
+24,755,040
+—
+24,755,040
+6.46%
+Timothy Ambrose
+120,383,085
+—
+120,383,085
+31.39%
+Darlington Mazvidza(1)
+4,000,000
+—
+4,000,000
+1.04%
+Richard Collins
+1,171,486
+—
+1,171,486
+*
+Michael Davis
+106,888
+—
+106,888
+*
+Usman Mir
+58,806
+—
+58,806
+*
+Antonio Corbin
+20,076,348
+—
+20,076,348
+5.24%
+Tyler Holohan
+20,000,000
+—
+20,000,000
+5.22%
+Eva Koy
+19,500,000
+—
+19,500,000
+5.09%
+Sonya Evelyn Lewin
+20,000,000
+—
+20,000,000
+5.22%
+John Christopher McDonagh
+20,000,000
+—
+20,000,000
+5.22%
+Martin Shane McDonagh
+20,000,000
+—
+20,000,000
+5.22%
+James Anthony Mongan
+20,000,000
+—
+20,000,000
+5.22%
+Alexandra Nicolaides
+20,050,539
+—
+20,050,539
+5.23%
+All directors and executive officers as a group (6 persons)
+150,475,305
+—
+150,475,305
+39.24%
+*Indicates less than one percent.
+(1)
+Mr. Mazvidza serves as the Company’s Chief Financial Officer.  Mr. Mazvidza is not a director of the Company.
+41
+Table of Contents
+Item 13. Certain
+Relationships and Related Transactions and Director Independence
+Related-Party Transactions
+We follow ASC 850 – Related
+Party Disclosures, for the identification of related parties and disclosure of related party transactions. When and if we contemplate
+entering into a transaction in which any executive officer, director, nominee, or any family member of the foregoing would have a direct
+or indirect interest, regardless of the amount involved, the terms of such transaction are to be presented to our full Board (other than
+any interested director) for approval, and documented in the Board minutes. Other than as described below, we have had no related party
+transactions during the two fiscal years ended December 31, 2024.
+The related parties that had material transactions
+for the years ended December 31, 2024, and 2023, consist of the following:
+Related Party
+Nature of Relationship to the Company
+A
+Chief Executive Officer
+B
+President, Chief Operating Officer
+C
+Chief Financial Officer
+D
+A UK company owned by related party A (JDP Capital)
+E
+Shareholders and non-executive members of Board
+As of December 31, 2024, and 2023,
+amounts owing to related parties consists as follows:
+December 31
+December 31
+Related Party
+2024
+2023
+Timothy Ambrose
+B
+$
+27,688
+S
+8,688
+JPD Capital
+D
+1,025,055
+17,500
+$
+1,052,743
+$
+26,188
+The amounts owing to related parties are unsecured,
+non-interest bearing and due on demand.
+For the years ended December 31, 2024, and 2023, advances
+to related parties and their nature consists of:
+For the
+Years Ended
+December 31,
+Related Party
+2024
+2023
+Nature of transaction
+Financial Statement Line Item
+A
+$
+18,750
+$
+-
+Accrued management fees
+General and administrative expenses,
+A
+$
+-
+$
+31,359
+Cash paid for operating expenses on behalf of the Company
+General and administrative expenses, Professional fees
+B
+$
+28,733,134
+$
+-
+105,636,521 shares of common stock issued for compensation
+Management fees
+B
+$
+774
+$
+457
+Imputed interest
+Interest expense
+B
+$
+19,000
+$
+-
+Cash paid for operating expenses on behalf of the Company
+Professional fees
+C
+$
+1,046,467
+$
+-
+3,847,304 shares of common stock issued for compensation
+Management fees
+C
+$
+26,131
+$
+-
+Cash paid for management fees
+General and administrative expenses
+D
+$
+506,216
+$
+-
+Cash paid to Ember Pharm (Pty) Ltd
+Due to related party
+D
+$
+321,368
+$
+-
+Cash paid for operating expenses on behalf of the Company
+General and administrative expenses, Professional
+fees
+and management fees
+D
+$
+406,660
+$
+-
+Acquired Genetics
+Inventory
+D
+$
+719,887
+$
+-
+Repayment due to related party D
+Due to related party
+D
+$
+27,467
+$
+1,071
+Imputed interest
+Interest expense
+E
+$
+234,413
+$
+-
+861,812 shares of common stock issued for compensation to our directors
+Director fees
+During the year ended December
+31 2024, the Company entered into a distribution and service agreement with U Mir Pharma Limited, a company formed under the laws of England
+& Wales, doing business in the United Kingdom as Inspire Pharmacy (hereafter, “Inspire”). This agreement was superseded
+by a joint venture agreement with Inspire. Inspire is owned and controlled by Usman Mir, a director of the Company.
+Director Independence
+Neither Jon-Paul Doran, Timothy
+Ambrose, or Usman Mir is currently considered to be an independent director.
+Item 14. Principal Accountant Fees and Services
+Set forth below is a summary of
+certain fees billed by our independent auditor, Mercurius & Associates LLP for the fiscal year 2024, and RBSM LLP for services for
+the fiscal year 2023:
+Services Provided
+2024
+2023
+Audit fees
+$
+90,000
+$
+90,000
+-Mercurius & Associates LLP
+―
+―
+-RBSM LLP
+$
+90,000
+$
+90,000
+Audit-related fees
+―
+―
+Tax
+―
+―
+All other
+―
+―
+Total
+$
+90,000
+$
+90,000
+42
+Table of Contents
+Audit Fees
+Audit fees were for professional
+services rendered in connection with the audit of our annual financial statements set forth in our Annual Reports on Form 10-K, the review
+of our quarterly financial statements set forth in our Quarterly Reports on Form 10-Q and consents for other SEC filings.
+Audit-Related Fees
+Audit-related fees consist of
+fees billed for professional services for consultation on accounting matters.
+Approval of Services Provided by Independent Registered
+Public Accounting Firm
+The Board of Directors has considered
+whether the services provided under other non-audit services are compatible with maintaining the auditor’s independence and has
+determined that such services are compatible. The Board of Directors has adopted policies and procedures for pre-approving all non-audit
+work performed by the external auditors. The Board of Directors will annually pre-approve services in specified accounting areas. The
+Board of Directors also annually approves
+the budget for the annual generally
+accepted accounting principles (GAAP) audit.
+PART IV
+Item 15. Exhibits and Financial Statement Schedules
+None.
+43
+Table of Contents
+Item 16. Form 10-K Summary
+Not Included.
+(a)(2) Exhibits
+3.
+Articles of Incorporation or Bylaws
+(a)
+Amended and Restated Articles of Incorporation of the Company (incorporated by reference to the Company’s Quarterly Report on Form 10-Q for the Three and Six Months Ended June 30, 2024 filed on May 21, 2025).
+(b)
+Amended and Restated Bylaws of the Company (incorporated by reference to the Company’s Quarterly Report on Form 10-Q for the Three and Six Months Ended June 30, 2024 filed on May 21, 2025).
+10.
+Material Contracts
+(a)
+Share Purchase Agreement, dated May 8, 2023,  between the Company and certain sellers, concerning the acquisition of Ember Pharms (Pty) Ltd.] (incorporated by reference to the Company’s Quarterly Report on Form 10-Q for the Three and Six Months Ended June 30, 2024 filed on May 21, 2025).
+(b)
+2024 Equity Incentive Plan (incorporated by reference to the Company’s Quarterly Report on Form 10-Q for the Three Months Ended March 31, 2024 filed on February 18, 2025).
+31.
+Rule 13a-14(a)/15d-14(a) Certifications
+1.
+Certification by Chief Executive Officer*
+2.
+Certification by Chief Financial Officer*
+32.
+Rule 1350 Certifications
+1.
+Certification by Chief Executive Officer*
+2.
+Certification by Chief Financial Officer*
+101.INS
+Formatted in Inline XBRL (Extensible Business Reporting Language) (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document).
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).
+*       Filed herewith
+**The certifications furnished
+in Exhibits 32.1 and 32.2 that accompany this Annual Report on Form 10-K are deemed furnished and not filed with the Securities and Exchange
+Commission and are not to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or
+the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Annual Report on Form 10-K, irrespective
+of any general incorporation language contained in such filing.
+44
+Table of Contents
+Pursuant to the requirements of
+Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has caused this report to be signed by the undersigned, thereunto
+duly authorized.
+CRUCIAL INNOVATIONS CORP.
+Date: August 14, 2025
+/S/ JON-PAUL DORAN
+Jon-Paul Doran
+Chief Executive Officer
+(Principal Executive Officer)
+Pursuant to the requirements of
+the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+Signature
+Title
+Date
+/S/ JON-PAUL DORAN
+Director and Chief Executive Officer
+August 14, 2025
+Jon-Paul Doran
+(Principal Executive Officer)
+/S/ TIMOTHY AMBROSE
+Director and President
+August 14, 2025
+Timothy Ambrose
+/S/ RICHARD COLLINS
+Director
+August 14, 2025
+Richard Collins
+/S/ MICHAEL DAVIS
+Director
+August 14, 2025
+Michael Davis
+/S/ USMAN MIR
+Director
+August 14, 2025
+Usman Mir
+/S/ DARLINGTON MAZVIDZA
+Chief Financial Officer
+August 14, 2025
+Darlington Mazvidza
+(Principal Financial and Accounting Officer)
+45

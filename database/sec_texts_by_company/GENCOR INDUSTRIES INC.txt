@@ -1,0 +1,2082 @@
+10-K
+Table of Contents
+10-KtrueFY0000064472
+0000064472
+2023-10-01 2024-09-30
+0000064472
+2022-10-01 2023-09-30
+0000064472
+2024-09-30
+0000064472
+2023-09-30
+0000064472
+2020-04-30
+0000064472
+2020-08-28
+0000064472
+2024-07-01 2024-09-30
+0000064472
+2022-09-30
+0000064472
+genc:NewLeaseAgreementMember
+2023-09-30
+0000064472
+genc:BlawKnoxProductLineFromVolvoCeMember genc:NewLeaseAgreementMember
+2023-09-30
+0000064472
+us-gaap:DomesticCountryMember
+2023-09-30
+0000064472
+us-gaap:EquipmentMember
+2023-09-30
+0000064472
+us-gaap:LandAndLandImprovementsMember
+2023-09-30
+0000064472
+us-gaap:BuildingAndBuildingImprovementsMember
+2023-09-30
+0000064472
+genc:CommonClassUndefinedMember
+2023-09-30
+0000064472
+us-gaap:CommonClassBMember
+2023-09-30
+0000064472
+us-gaap:CorporateBondSecuritiesMember
+2023-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2023-09-30
+0000064472
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2023-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member us-gaap:CashAndCashEquivalentsMember
+2023-09-30
+0000064472
+us-gaap:CashAndCashEquivalentsMember
+2023-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+2023-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+2023-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member us-gaap:ExchangeTradedFundsMember
+2023-09-30
+0000064472
+us-gaap:ExchangeTradedFundsMember
+2023-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member us-gaap:CorporateBondSecuritiesMember
+2023-09-30
+0000064472
+genc:CurrentLiabilitiesMember
+2023-09-30
+0000064472
+genc:NewLeaseAgreementMember
+2024-09-30
+0000064472
+genc:BlawKnoxProductLineFromVolvoCeMember genc:NewLeaseAgreementMember
+2024-09-30
+0000064472
+us-gaap:DomesticCountryMember
+2024-09-30
+0000064472
+us-gaap:EquipmentMember
+2024-09-30
+0000064472
+us-gaap:LandAndLandImprovementsMember
+2024-09-30
+0000064472
+us-gaap:BuildingAndBuildingImprovementsMember
+2024-09-30
+0000064472
+genc:CommonClassUndefinedMember
+2024-09-30
+0000064472
+us-gaap:CommonClassBMember
+2024-09-30
+0000064472
+us-gaap:BuildingAndBuildingImprovementsMember srt:MinimumMember
+2024-09-30
+0000064472
+us-gaap:BuildingAndBuildingImprovementsMember srt:MaximumMember
+2024-09-30
+0000064472
+us-gaap:EquipmentMember srt:MinimumMember
+2024-09-30
+0000064472
+us-gaap:EquipmentMember srt:MaximumMember
+2024-09-30
+0000064472
+us-gaap:LandImprovementsMember
+2024-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member us-gaap:ExchangeTradedFundsMember
+2024-09-30
+0000064472
+us-gaap:ExchangeTradedFundsMember
+2024-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member us-gaap:CorporateBondSecuritiesMember
+2024-09-30
+0000064472
+us-gaap:CorporateBondSecuritiesMember
+2024-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2024-09-30
+0000064472
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2024-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member us-gaap:CashAndCashEquivalentsMember
+2024-09-30
+0000064472
+us-gaap:CashAndCashEquivalentsMember
+2024-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0000064472
+genc:CurrentLiabilitiesMember
+2024-09-30
+0000064472
+us-gaap:CommonStockMember
+2022-10-01 2023-09-30
+0000064472
+us-gaap:DomesticCountryMember
+2022-10-01 2023-09-30
+0000064472
+genc:OtherRevenuesMember
+2022-10-01 2023-09-30
+0000064472
+genc:EquipmentSalesMember us-gaap:TransferredOverTimeMember
+2022-10-01 2023-09-30
+0000064472
+genc:EquipmentSalesMember us-gaap:TransferredAtPointInTimeMember
+2022-10-01 2023-09-30
+0000064472
+genc:PartsAndComponentSalesMember
+2022-10-01 2023-09-30
+0000064472
+genc:FreightRevenueMember
+2022-10-01 2023-09-30
+0000064472
+us-gaap:RetainedEarningsMember
+2022-10-01 2023-09-30
+0000064472
+us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember genc:CustomerOneMember
+2022-10-01 2023-09-30
+0000064472
+us-gaap:CommonStockMember
+2023-10-01 2024-09-30
+0000064472
+us-gaap:DomesticCountryMember
+2023-10-01 2024-09-30
+0000064472
+genc:EquipmentSalesMember us-gaap:TransferredOverTimeMember
+2023-10-01 2024-09-30
+0000064472
+genc:EquipmentSalesMember us-gaap:TransferredAtPointInTimeMember
+2023-10-01 2024-09-30
+0000064472
+genc:PartsAndComponentSalesMember
+2023-10-01 2024-09-30
+0000064472
+genc:FreightRevenueMember
+2023-10-01 2024-09-30
+0000064472
+genc:OtherRevenuesMember
+2023-10-01 2024-09-30
+0000064472
+genc:CommonClassUndefinedMember
+2023-10-01 2024-09-30
+0000064472
+us-gaap:CommonClassBMember
+2023-10-01 2024-09-30
+0000064472
+us-gaap:RetainedEarningsMember
+2023-10-01 2024-09-30
+0000064472
+us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember genc:CustomerOneMember
+2023-10-01 2024-09-30
+0000064472
+genc:MoreThanFiveYearFromBalanceSheetDateAndThereafterMember
+2023-10-01 2024-09-30
+0000064472
+genc:MoreThanThreeAndWithinFourYearFromBalanceSheetDateMember
+2023-10-01 2024-09-30
+0000064472
+genc:MoreThanFourAndWithinFiveYearFromBalanceSheetDateMember
+2023-10-01 2024-09-30
+0000064472
+srt:MaximumMember
+2023-10-01 2024-09-30
+0000064472
+genc:NewLeaseAgreementMember
+2020-08-28
+0000064472
+genc:NewLeaseAgreementMember
+2020-09-30
+0000064472
+genc:BlawKnoxProductLineFromVolvoCeMember genc:NewLeaseAgreementMember
+2020-08-28 2020-08-28
+0000064472
+genc:BlawKnoxProductLineFromVolvoCeMember genc:ExtendedLeaseTerm2024Member
+2024-03-31 2024-03-31
+0000064472
+genc:ExtendedLeaseTerm2024Member
+2024-03-31
+0000064472
+genc:CommonClassUndefinedMember
+2025-06-25
+0000064472
+us-gaap:CommonClassBMember
+2025-06-25
+0000064472
+us-gaap:RetainedEarningsMember
+2022-09-30
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0000064472
+us-gaap:CommonClassBMember us-gaap:CommonStockMember
+2022-09-30
+0000064472
+genc:CommonClassUndefinedMember us-gaap:CommonStockMember
+2022-09-30
+0000064472
+us-gaap:RetainedEarningsMember
+2023-09-30
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2023-09-30
+0000064472
+us-gaap:CommonClassBMember us-gaap:CommonStockMember
+2023-09-30
+0000064472
+genc:CommonClassUndefinedMember us-gaap:CommonStockMember
+2023-09-30
+0000064472
+us-gaap:RetainedEarningsMember
+2024-09-30
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0000064472
+us-gaap:CommonClassBMember us-gaap:CommonStockMember
+2024-09-30
+0000064472
+genc:CommonClassUndefinedMember us-gaap:CommonStockMember
+2024-09-30
+iso4217:USD
+xbrli:pure
+xbrli:shares
+utr:Year
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10 – K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Fiscal Year Ended September 30, 2024
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File No. 001-11703
+GENCOR INDUSTRIES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+59-0933147
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+5201 North Orange Blossom Trail
+Orlando, Florida 32810
+(Address of principal executive offices, including zip code)
+Registrant’s telephone number, including area code: (407) 290-6000
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+Title of Each Class
+Trading Symbol (s)
+Name of Each Exchange on which Registered
+Common Stock ($.10 Par Value)
+GENC
+NYSE American LLC
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act ☐ Yes ☑ No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act  ☐ Yes ☑ No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ☐ Yes ☑ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). ☐ Yes ☑ No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act:
+Large Accelerated Filer
+☐
+Accelerated Filer
+☑
+Non-Accelerated Filer
+☐
+Smaller Reporting Company
+☑
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☑
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes ☑ No
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal quarter: $160,204,000.
+Indicate the number of shares outstanding of each of the registrant’s classes of Common Stock, as of the latest practicable date. As of June 25, 2025:
+Common Stock ($.10 par value): 12,338,845 shares
+Class B Stock ($.10 par value): 2,318,857 shares
+DOCUMENTS INCORPORATED BY REFERENCE
+None.
+EXPLANATORY NOTE
+On November 1, 2024, we were notified that MSL, P.A. (“MSL”), our previous independent registered public accounting firm, entered into a transaction with Forvis Mazars, LLP (“Forvis Mazars”), whereby substantially all of the partners and employees of MSL joined Forvis Mazars. As a result, on the effective date of November 1, 2024, our Audit Committee dismissed MSL and appointed Forvis Mazars to serve as our independent registered public accounting firm. The change in our independent registered public accounting firm subsequent to our year-end resulted in the need for additional time for us to coordinate the completion of the audit of the financial statements for the year ended September 30, 2024 and the audit of internal control over financial reporting as of September 30, 2024 (the “2024 Audit”).
+Due to the delay in the completion of the 2024 Audit we determined that we were unable to file our Annual Report on Form 10-K for the fiscal year ended September 30, 2024 (the “2024 Annual Report”) within the time period prescribed.
+Additionally, we dismissed Forvis Mazars as our independent registered public accounting firm on February 13, 2025 and engaged Berkowitz Pollack Brant Advisors + CPAs (“BPB”) as our new independent registered public accounting firm on February 20, 2025. The engagement of BPB resulted in the need for additional time for the Company to coordinate the completion of the 2024 Audit, the 2024 Annual Report and the Quarterly Reports on Form 10-Q for the quarterly periods ended December 31, 2024 and March 31, 2025. Due to the delays discussed above, we were unable to timely file our 2024 Annual Report and Quarterly Reports on Form 10-Q for the quarterly periods ended December 31, 2024 and March 31, 2025, as required under the NYSE American LLC (“NYSE American”) continued listing standards. NYSE Regulation (“NYSE”) informed us that, under the rules of the NYSE American, we have an initial six-month period from the 2024 Annual Report filing due date of December 31, 2024, to regain compliance with the NYSE American continued listing standards by filing all delinquent reports with the SEC, allowing us to file the delinquent reports, including this 2024 Annual Report, by June 30, 2025.
+On June 10, 2025, we submitted an extension request to the NYSE, requesting additional time to regain compliance with the NYSE American continued listing standards. While we are filing this 2024 Annual Report within the initial six-month period granted by the initial delinquency notice, we requested the extension to allow the Company additional time to coordinate the completion of the Quarterly Reports on Form 10-Q for the quarterly periods ended December 31, 2024 and March 31, 2025. On June 24, 2025, the NYSE informed us that it accepted our extension request, allowing us to submit our delinquent reports by August 19, 2025.
+Table of Contents
+Introductory Note: Caution Concerning Forward-Looking Statements
+This Annual Report on Form 10-K (this “Annual Report”) and the Company’s other communications and statements may contain certain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), including statements about the Company’s beliefs, plans, objectives, goals, expectations, estimates, projections and intentions. These statements are subject to significant risks and uncertainties and are subject to change based on various factors, many of which are beyond the Company’s control. The Company’s actual results may differ materially from those set forth in the Company’s forward-looking statements depending on a variety of important factors, including the financial condition of the Company’s customers, changes in the economic and competitive environments, demand for the Company’s products and the timing and consequences of the delays in the Company’s regaining compliance with its SEC filing obligations. In addition, the impact of (i) the U.S. government’s recent tariff announcements, (ii) the invasion by Russia into Ukraine, and (iii) the conflict between Israel and Hamas, including hostilities involving Iran, as well as actions taken by other countries, including the U.S., in response to such tariff announcements and conflicts, could result in a disruption in our supply chain and higher costs of our products. The words “may,” “could,” “should,” “would,” “believe,” “anticipate,” “estimate,” “expect,” “intend,” “plan,” “target,” “goal,” and similar expressions are intended to identify forward-looking statements.
+For information concerning these factors and related matters, see “Risk Factors” in Part I, Item 1A in this Annual Report, and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 in this Annual Report. However, other factors besides those referenced could adversely affect the Company’s results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any forward-looking statements made by the Company herein speak as of the date of this Annual Report. The Company does not undertake to update any forward-looking statement, except as required by law.
+1
+Table of Contents
+PART I
+ITEM 1
+BUSINESS
+General
+Gencor Industries, Inc. and its subsidiaries (the “Company,” “Gencor,” “we,” “us” or “our”) is a leading manufacturer of heavy machinery used in the production of highway construction equipment and materials and environmental control equipment. The Company’s products are manufactured in the United States and sold through a combination of Company sales representatives and independent dealers and agents.
+The Company designs, manufactures and sells machinery and related equipment used primarily for the production of asphalt and highway construction equipment and materials. The Company’s principal core products include asphalt pavers, hot mix asphalt plants, combustion systems, and fluid heat transfer systems. The Company believes that its technical and design capabilities and environmentally friendly process technology have enabled it to become a leading producer of hot mix asphalt plants and related components in North America.
+Because the Company’s products are sold primarily to companies in the highway construction industry, its business has historically been seasonal. Traditionally, the Company’s customers do not purchase new equipment during the summer and fall months to avoid disrupting their peak season for highway construction and repair work. The majority of orders for the Company’s asphalt plants and pavers are typically received between October and February, with a significant volume of shipments occurring prior to June. The principal factors driving demand for the Company’s products are the level of federal and state funding for domestic highway construction and repair, the replacement of existing plants, and a trend towards efficient, larger plants.
+In 1968, the Company was formed by the merger of Mechtron Corporation with General Combustion, Inc. (“General Combustion”) and Genco Manufacturing, Inc. The new entity reincorporated in Delaware in 1969 and adopted the name Mechtron International Corporation in 1970. In 1985, the Company began a series of acquisitions into related fields starting with the Beverley Group Ltd. in the United Kingdom. Hy-Way Heat Company, Inc. and the Bituma Group were acquired in 1986. In 1987, the Company changed its name to Gencor Industries, Inc. and acquired Davis Line Inc. and its subsidiaries in 1988.
+In 1998, the Company entered into agreements with Carbontronics, LLC, pursuant to which the Company designed, manufactured, sold and installed four synthetic fuel production plants. In addition to payment for the plants, the Company received membership interests in two synthetic fuel entities which resulted in significant cash flows from the sale of synthetic fuel and tax credits (Internal Revenue Code, Section 29) and, consequently, distributed significant cash to the Company from 2001 to 2010.The tax credit legislation expired at the end of calendar year 2007. Consequently, the four synthetic fuel plants were decommissioned. The plants were sold or transferred to site owners in exchange for a release of all contracted liabilities related to the removal of plants from the sites. Gencor’s ownership in the two synthetic fuel entities ended in 2013. In 2020, the Company acquired the asphalt paver assets from Volvo Construction Equipment North America LLC.
+Products
+Asphalt Plants. The Company manufactures and produces hot-mix asphalt plants used in the production of asphalt paving materials. The Company also manufactures related asphalt plant equipment, including hot-mix storage silos, fabric filtration systems, cold feed bins and other plant components. The Company’s H&B (Hetherington and Berner) product line is the world’s oldest asphalt plant line, first manufactured in 1894. The Company’s subsidiary, Bituma Corporation, formerly known as Boeing Construction Company, developed the first continuous process for asphalt production. Gencor developed and patented the first counter flow drum mix technology, several adaptations of which have become the industry standard, which recaptures and burns emissions and vapors, resulting in a cleaner and more efficient process. The Company also manufactures a very comprehensive range of fully mobile batch plants.
+2
+Table of Contents
+Combustion Systems and Industrial Incinerators. The Company manufactures combustion systems, which are large burners that can transform most solid, liquid or gaseous fuels into usable energy, or burn multiple fuels, alternately or simultaneously. Through its subsidiary General Combustion, the Company has been a significant source of combustion systems for the asphalt and aggregate drying industries since the 1950’s. The Company also manufactures combustion systems for rotary dryers, kilns, fume and liquid incinerators and fuel heaters. The Company believes maintenance and fuel costs are lower for its burners because of their superior design.
+Fluid Heat Transfer Systems. The Company’s General Combustion subsidiary manufactures the Hy-Way Heat and Beverley lines of thermal fluid heat transfer systems and specialty storage tanks for a wide array of industry uses. Thermal fluid heat transfer systems are similar to boilers, but use high temperature oil instead of water. Thermal fluid heaters have been replacing steam pressure boilers as the best method of heat transfer for storage, heating and pumping viscous materials (i.e., asphalt, chemicals, heavy oils, etc.) in many industrial and petrochemical applications worldwide. The Company believes the high-efficiency design of its thermal fluid heaters can outperform competitive units in many types of process applications.
+Asphalt Pavers. The Company manufactures asphalt pavers under the Blaw-Knox brand. The Blaw-Knox brand dates back over a century, when in 1917 Blaw Collapsible Steel Centering Company merged with the Knox Pressed and Welded Steel Company. Blaw-Knox made its first road paving equipment in 1929. Blaw-Knox pavers are the industry leading, highway class pavers that deliver outstanding reliability and produce the highest quality rideable surfaces in the industry. Projects paved with Blaw-Knox pavers continually win industry awards for the highest quality highway pavements.
+Product Engineering and Development
+The Company is engaged in product engineering and development efforts to expand its product lines and to further develop more energy-efficient and environmentally friendly equipment.
+Product engineering and development activities are directed toward more efficient methods of producing asphalt and lower cost fluid heat transfer systems. In addition, efforts are also focused on developing combustion systems that operate at higher efficiency and offer a higher level of environmental compatibility.
+Sources of Supply and Manufacturing
+Substantially all products and components sold by the Company and its subsidiaries are manufactured and assembled by the Company. The Company purchases steel, other raw materials and hardware used to manufacture its products from numerous suppliers. The Company may augment internal production by outsourcing some of its production when demand for its products exceeds its manufacturing capacity.
+Seasonality
+The Company is concentrated in the manufacturing of asphalt pavers, asphalt plants and related components, which is typically subject to a seasonal slow-down during the third and fourth quarters of the calendar year.
+Competition
+The markets for the Company’s products are highly competitive. The industry remains fairly concentrated, with a small number of companies competing in the markets of the majority of the Company’s product lines. The principal competitive factors include quality, price, delivery, availability, and technological capabilities. The Company believes it manufactures the highest quality equipment in the industry. In addition, the Company believes that its products’ performance reliability, brand recognition, pricing, and after-the-sale technical support are other important factors that enable the Company to compete effectively. Sales and Marketing
+The Company’s products and services are marketed through Company-employed sales representatives and independent dealers.
+3
+Table of Contents
+Sales Backlog
+The size of the Company’s backlog should not be viewed as an indicator of the Company’s quarterly or annualized revenues, due to the timing of order fulfillment of asphalt plants. The Company’s backlog was $56.2 million and $57.8 million as of December 1, 2024 and December 1, 2023, respectively.
+Financial Information about Geographic Areas Reporting Segments
+See Reporting Segments and Geographic Areas in Note 1 to the Consolidated Financial Statements.
+Licenses, Patents and Trademarks
+The Company holds numerous patents covering technology and applications related to various products, equipment and systems, and numerous trademarks and trade names registered with the U.S. Patent and Trademark Office and in various foreign countries. In general, the Company depends upon technological capabilities, manufacturing quality control and application know-how, rather than patents or other proprietary rights in the conduct of its business.
+Government Regulations
+The Company believes its design and manufacturing processes meet all industry and governmental agency standards that may apply to its entire line of products, including all domestic and foreign environmental, structural, electrical and safety codes. The Company’s products are designed and manufactured to comply with U.S. Environmental Protection Agency regulations. Certain state and local regulatory authorities have strong environmental impact regulations. While the Company believes that such regulations have helped, rather than restricted its marketing efforts and sales results, there is no assurance that changes to federal, state, local, or foreign laws and regulations will not have a material adverse effect on the Company’s products and earnings in the future.
+Environmental Matters
+The Company is subject to various federal, state, local and foreign laws and regulations relating to the protection of the environment. The Company believes it is in compliance with all applicable environmental laws and regulations. The Company does not expect any material impact on future operating costs as a result of compliance with currently enacted environmental regulations.
+Employees
+As of September 30, 2024, the Company had 323 full-time employees. The Company has a collective bargaining agreement covering employees at its Marquette, Iowa facility. No other employees are represented by a labor union or collective bargaining agreement.
+Available Information
+For further discussion concerning the Company’s business, see the information included in Item 7 (Management’s Discussion and Analysis of Financial Condition and Results of Operations) and Item 8 (Financial Statements and Supplementary Data) of this Annual Report.
+The Company makes available free of charge through its website at www.gencor.com the Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports, if applicable, filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act, as soon as reasonably practicable after the material is electronically filed with or furnished to the Securities and Exchange Commission (“SEC”). The information posted on the website is not incorporated into this Annual Report.
+4
+Table of Contents
+ITEM 1A
+RISK FACTORS
+The following risk factors and other information included in this Annual Report should be carefully considered. The risks and uncertainties described below are not the only ones the Company faces. Additional risks and uncertainties not presently known to the Company, or that the Company presently deems less significant, may also impair the Company’s operations. If any of the following risks actually occur, the Company’s business operating results and financial condition could be materially adversely affected. The order of these risk factors does not reflect their relative importance or likelihood of occurrence.
+The Company faces risks related to being delinquent in its SEC reporting obligations.
+Due to the circumstances discussed in the Explanatory Note in this Annual Report, the Company’s recent SEC filings, including this Annual Report, its Quarterly Reports on Form 10-Q for the quarterly periods ended December 31, 2024 and March 31, 2025 (the “Delinquent Reports”) were delinquent. NYSE Regulation (“NYSE”) informed the Company that, under the rules of the NYSE American, LLC (“NYSE American”), it is subject to the procedures set forth in Section 1007 of the NYSE American Company Guide, and that the Company has an initial six-month period from the Form 10-K filing due date of December 31, 2024 to regain compliance with the NYSE American listing standards, allowing the Company to file the Delinquent Reports by June 30, 2025.
+On June 10, 2025, the Company submitted an extension request to NYSE Regulation, requesting additional time to regain compliance with the NYSE American continued listing standards. While the Company is filing this 2024 Annual Report within the initial six-month period granted by the initial delinquency notification, the Company requested an extension to allow it additional time to coordinate the completion of the Quarterly Reports on Form 10-Q for the quarterly periods ended December 31, 2024 and March 31, 2025. On June 24, 2025, the NYSE informed the Company that it accepted the extension request, allowing the Company to submit the Delinquent Reports by August 19, 2025.
+The Company faces the following risks and challenges related to being delinquent in its SEC reporting obligations, including:
+•
+The Company may fail to file all Delinquent Reports by August 19, 2025, and there can be no assurance that the NYSE will grant an additional discretionary extension for the Company to regain compliance;
+•
+The NYSE may commence delisting proceedings at any time if it deems that the circumstances warrant;
+•
+The Company may fail to remediate material weaknesses in its internal control over financial reporting and other material weaknesses may be identified in the future, which could adversely affect the accuracy and timing of the Company’s financial reporting; and
+•
+Failure to timely file its SEC reports and make the Company’s current financial information available has placed, and may continue to place, downward pressure on the Company’s stock price.
+If the Company is unable to file all Delinquent Reports by August 19, 2025 and the NYSE does not grant an additional discretionary extension for the Company to regain compliance, or if the NYSE otherwise determines circumstances so warrant, our Common Stock may be subject to delisting. If the NYSE American delists the Company’s Common Stock from trading on its exchange, the Company could face a limited availability of market quotations for its Common Stock and reduced liquidity for its Common Stock.
+The Company has identified material weaknesses in its internal control over financial reporting, which could, if not remediated, adversely affect its ability to report its financial condition and results of operations in a timely and accurate manner. If the Company fails to comply with requirements relating to internal control over financial reporting under Section 404 of the Sarbanes-Oxley Act, the business could be harmed and its stock price could decline.
+Rules adopted by the SEC pursuant to Section 404 of the Sarbanes-Oxley Act of 2002 require the Company to assess its internal control over financial reporting annually. The rules governing the standards that must be met for management to assess its internal control over financial reporting are complex. They require significant documentation, testing, and possible remediation of any significant deficiencies in and/or material weaknesses of internal controls in order to meet the detailed standards under these rules. Additionally, it is necessary for us to maintain effective internal control over financial reporting to prevent fraud and errors and to maintain effective disclosure controls and procedures so that we can provide timely and reliable financial and other information. A failure to maintain adequate internal controls may adversely affect the Company’s ability to provide financial statements that accurately reflect its financial condition and report information on a timely basis. The Company has evaluated its internal control over financial reporting and determined that it was not effective as of September 30, 2024 and that material weaknesses existed as of that date, and the Company has also concluded that its disclosure controls and procedures were not effective as of September 30, 2024 due to material weaknesses in its internal control over financial reporting. See Item 9A – Controls and Procedures – Management’s Annual Report on Internal Control over Financial Reporting.
+As described in Item 9A—Controls and Procedures– Management’s Annual Report on Internal Control over Financial Reporting, the Company will begin the process of remediating its identified material weaknesses. Management’s continuing evaluation and work to enhance the Company’s internal control over financial reporting has required and will continue to require the dedication of additional resources and management time and expense. If the Company fails to maintain the effectiveness of its internal controls, including any failure to implement new or improved controls, or if the Company experiences difficulties in their implementation, the Company’s business and operating results could be harmed, and the Company could fail to meet its financial reporting obligations, which in turn could affect the market price of the Company’s securities. In addition, perceptions of the Company among customers, lenders, investors, securities analysts and others could also be adversely affected. The current material weaknesses or any weaknesses or deficiencies identified in the future could also hurt confidence in the Company’s business and the accuracy and completeness of the Company’s financial statements, and adversely affect the Company’s ability to do business with these groups.
+The Company can give no assurances that the remediation measures it will begin implementing, or any future measures it may take, will remediate the material weaknesses identified or that any additional material weaknesses will not arise or be identified in the future due to the Company’s failure to implement and maintain effective internal control over financial reporting. In addition, even if the Company is successful in strengthening its controls and procedures, those controls and procedures may not be effective to prevent or identify irregularities or ensure the fair and accurate presentation of the Company’s financial statements included in its periodic reports filed with the SEC.
+The business is affected by the cyclical nature of the markets it serves.
+The demand for the Company’s products is dependent on general economic conditions and more specifically, federal and state funding for highways and roads. Adverse economic conditions may cause customers to forego or delay new purchases and rely more on repairing existing equipment, thus negatively impacting the Company’s sales and profits.
+The business is affected by the level of government funding for highway construction in the United States and Canada.
+Most highway contractors in the U.S. and Canada depend on funding by federal, provincial, state and local agencies for highway, transit and infrastructure programs. Future legislation may increase or decrease government spending, which, if decreased, could have a negative effect on the Company’s financial condition or results of operations. Federal and/or state funding allocated to infrastructure may decrease in the future. For example, the Infrastructure Investment and Jobs Act (the “IIJ Act”), which provides $110 billion for domestic highways, bridges and roads, is scheduled to expire on September 30, 2026.
+The loss of any relationship with a large customer, or a significant downturn in the business or financial condition of any such customer, could have adverse consequences on the Company’s future business.
+During the year ended September 30, 2024, one customer accounted for 11.3% of net revenue. During the year ended September 30, 2023, a different customer accounted for 14.8% of net revenue. The loss of any relationship with a large customer, or a significant reduction in sales to any such customer, could adversely affect the Company’s revenues and, consequently, its business.
+The Company may be required to reduce its profit margins on contracts where revenues are recognized over time.
+Revenues from contracts with customers for the design, manufacture and sale of custom equipment are recognized over time when the performance obligation is satisfied by transferring control of the equipment. Control of the equipment transfers over time as the equipment is unique to the specific contract and thus does not create an asset with an alternative use. Revenues and costs are recognized in proportion to actual labor costs incurred, as compared with total estimated labor costs expected to be incurred during the entire contract. As a result, revisions made to the estimates of revenues and profits are recorded in the period in which the conditions that require such revisions become known and can be estimated. Although the Company believes that its profit margins are fairly stated and that adequate provisions for losses for its fixed-price contracts are recorded in the financial statements, as required by accounting principles generally accepted in the United States of America (“GAAP”), the Company cannot assure that its estimated contract profit margins will not decrease or its estimated loss provisions will not increase materially in the future.
+5
+Table of Contents
+The Company may encounter difficulties with acquisitions.
+As part of its strategy, the Company intends to evaluate the acquisition of other companies, assets or product lines that would complement or expand the Company’s existing business or broaden its customer base. Although the Company conducts due diligence reviews of potential acquisition candidates, it may not be able to identify all material liabilities or risks related to potential acquisitions. There can be no assurance that the Company will be able to locate and acquire any business, retain key personnel and customers of an acquired business or integrate any acquired business successfully. Additionally, there can be no assurance that financing for any acquisition, if necessary, will be available on acceptable terms, if at all, or that the Company will be able to accomplish its strategic objectives in connection with any acquisition.
+The Company’s marketable securities are comprised of cash and money funds, corporate bonds, exchange-traded funds, and government securities invested through a professional investment management firm and are subject to various risks, such as interest rates, markets, and credit.
+The Company’s marketable securities are comprised of cash and money funds, corporate bonds, exchange-traded funds, and government securities invested through professional investment management firms and are subject to various risks, such as interest rate risk, market risk, and credit risk. Due to the level of risk associated with certain investment securities and the level of uncertainty related to changes in the value of securities, adverse developments with respect to interest rates, the capital markets or the credit markets could have a material adverse impact on the value of these investment securities and ultimately, the Company’s results of operations.
+There are and will continue to be quarterly fluctuations of the Company’s operating results.
+The Company’s operating results historically have fluctuated from quarter to quarter as a result of a number of factors, including the value, timing and shipment of individual orders and the mix of products sold. Revenues from contracts with customers for the design, manufacture and sale of custom equipment are recognized over time when the performance obligation is satisfied by transferring control of the equipment. Revenues from all other contracts for the design and manufacture of equipment, for service and for parts sales, net of any discounts and return allowances, are recorded at a point in time when control of the goods or services has been transferred. The Company’s asphalt production equipment operations are subject to seasonal fluctuations, which may lower revenues and result in possible quarterly operating losses.
+If the Company is unable to attract and retain key personnel, its business could be adversely affected.
+The success of the Company will continue to depend substantially upon the efforts, abilities and services of its management team and certain other key employees. The loss of one or more key employees could adversely affect the Company’s operations. The Company’s ability to attract and retain qualified personnel, either through direct hiring, or acquisition of other businesses employing such persons, will also be an important factor in determining its future success.
+The Company may be required to defend its intellectual property against infringement or against infringement claims of others.
+The Company holds numerous patents covering technology and applications related to various products, equipment and systems, and numerous trademarks and trade names registered with the U.S. Patent and Trademark Office and in various foreign countries. There can be no assurance as to the breadth or degree of protection that future patents or trademarks may afford the Company, or that any pending patent or trademark applications will result in issued patents or trademarks, or that the Company’s patents, registered trademarks or patent applications, if any, will be upheld if challenged, or that competitors will not develop similar or superior methods or products outside the protection of any patents issued, licensed or sublicensed to the Company. Although the Company believes that none of its technologies, products or trademarks infringe upon the patents, technologies, products or trademarks of others, it is possible that the Company’s trademarks or other rights may not be valid or that infringement of future patents, trademarks or proprietary rights may occur. In the event that the Company’s products are deemed to infringe upon the patent or proprietary rights of others, the Company could be required to modify the design of its products, change the name of its products or obtain a license for the use of certain technologies incorporated into its products. There can be no assurance that the Company would be able to do any of the foregoing in a timely manner, upon acceptable terms and conditions, or at all, and the failure to do so could have a material adverse effect on the Company. In addition, there can be no assurance that the Company will have the financial or other resources necessary to enforce or defend a patent, registered trademark or other proprietary right, and, if the Company’s products are deemed to infringe upon the patents, trademarks or other proprietary rights of others, the Company could become liable for damages, which could also have a material adverse effect on the Company.
+6
+Table of Contents
+The Company may be subject to substantial liability for its products.
+The Company is engaged in a business that could expose it to possible liability claims for personal injury or property damage due to alleged design or manufacturing defects in its products. The Company believes that it meets existing professional specification standards recognized or required in the industries in which it operates, and there are no material product liability claims pending against the Company as of the date hereof. Although the Company currently maintains product liability coverage, which it believes is adequate for the continued operation of its business, such insurance may prove inadequate or become difficult to obtain or unobtainable in the future on terms acceptable to the Company.
+The Company is subject to extensive environmental laws and regulations, and the costs related to compliance with, or the Company’s failure to comply with, existing or future laws and regulations, could adversely affect the business and results of operations.
+The Company’s operations are subject to federal, state, local and foreign laws and regulations relating to the protection of the environment. Sanctions for noncompliance may include revocation of permits, corrective action orders, significant administrative or civil penalties and criminal prosecution. The Company’s business involves environmental management and issues typically associated with historical manufacturing operations. To date, the Company’s cost of complying with environmental laws and regulations has not been material, but the fact that such laws or regulations are changed frequently makes predicting the cost or impact of such laws and regulations on the Company’s future operations uncertain.
+The Company is dependent upon third-party suppliers, making it vulnerable to supply shortages and price increases.
+The principal raw material the Company uses is carbon steel which is sourced through numerous suppliers. The Company also uses select suppliers to provide proprietary components to its finished products. Although the Company believes that raw materials are available from alternate sources, an interruption in the supply of steel or related products or a substantial increase in the price of steel or related products could have a material adverse effect on the Company’s production and its results of operations.
+In addition, the cost of parts or materials may increase significantly for reasons other than changes in commodity prices. Factors such as supply and demand, freight costs, availability of transportation, availability of labor, inventory levels, the level of imports, the imposition of duties and tariffs and other trade barriers and general economic conditions may affect the price of our parts or materials. Market conditions could limit the Company’s ability to raise selling prices to offset increases in material and/or labor costs.
+In the future, we could experience some disruption in the supply of some of our parts or materials that we purchase from suppliers. Delays in obtaining parts or materials may result from a number of factors affecting our suppliers including capacity constraints, labor shortages or supplier product quality issues. These risks are increased in a weak economic environment or when demand increases coming out of an economic downturn. Such disruptions could result in manufacturing inefficiencies caused by the Company having to wait for parts to arrive on production lines, could delay sales and could result in a material adverse effect on the Company’s results of operations, financial condition, and/or cash flows.
+7
+Table of Contents
+The business is affected by the prices of liquid asphalt and oil.
+A significant increase in the price of liquid asphalt could decrease demand for hot mix asphalt paving materials and certain of the Company’s products. Increases in oil prices also drive up the cost of gasoline and diesel, which results in increased freight costs. Where possible, the Company will pass increased freight costs on to its customers. However, the Company may not be able to recapture all of the higher costs and thus could have a negative impact on the Company’s financial performance.
+The Company is subject to government regulations.
+The Company is subject to a variety of governmental regulations relating to the manufacturing of its products. Failure by the Company to comply with regulations could subject it to liabilities, or suspension of production that could have a material adverse effect on the Company’s results. Such regulations could also restrict the Company’s ability to expand its facilities, or to incur other expenses to comply with such regulations. Although the Company believes it has the design and manufacturing capability to meet all industry or governmental agency standards that may apply to its product lines, including all domestic and foreign environmental, structural, electrical and safety codes, there can be no assurance that governmental laws and regulations will not become more stringent over time, imposing greater compliance costs and increasing risks and penalties associated with a violation. The cost to the Company of such compliance to date has not materially affected its business, financial condition or results of operations. There can be no assurance, however, that violations will not occur in the future as a result of human error, equipment failure or other causes. The Company’s customers are also subject to extensive regulations, including those related to the workplace. The Company cannot predict the nature, scope or effect of governmental legislation, or regulatory requirements that could be imposed or how existing or future laws or regulations will be administered, or interpreted. Compliance with more stringent laws or regulations, as well as more vigorous enforcement policies of regulatory agencies, could require substantial expenditures by the Company and could adversely affect its business, financial condition and results of operations.
+As current tariffs are implemented, or if additional or increased tariffs or other restrictions are placed on foreign imports or any related counter-measures are taken by other countries, our business, financial condition, results of operations and cash flow could be harmed.
+We manufacture our equipment domestically with a fraction of our sales exported to neighboring countries. The current U.S. administration has implemented tariffs on countries to which the Company has sales and has threatened tariffs on a variety of other counties. Also, some of the parts we procure are sourced from countries subject to the recent tariffs. It is not known whether any additional costs will be passed onto customers. This could negatively affect our revenues, cash flows, and financial position.
+Increasing scrutiny and changing expectations from stakeholders with respect to the Company’s ESG practices may expose us to new or additional risks.
+The Company is committed to responsible environmental, social and governance (“ESG”) practices. The Company strives to be recognized as a company that achieves customer expectations safely and in a manner that rewards both its customers and its employees. The Company strives to achieve these goals through an organizational structure that provides excellent service and a reputation of integrity with the communities where it operates while providing its employees with growth opportunities in an injury-free environment.
+Companies are facing scrutiny from stakeholders related to their ESG practices. Investor advocacy groups, certain institutional investors, investment funds and other influential investors are also increasingly focused on ESG practices and in recent years have placed increasing importance on the implications and social cost of their investments. Regardless of the industry, investors’ and stakeholders’ increased focus related to stakeholder ESG expectations and standards, which are evolving, may cause the Company to suffer from reputational damage and its business or financial condition could be adversely affected.
+The Company’s management has effective voting control.
+The Company’s officers beneficially own 100% of the outstanding shares of the Company’s Class B stock. The holders of the Class B stock are entitled to elect 75% (calculated to the nearest whole number, rounding five-tenths to next highest whole number) of the members of the Company’s Board of Directors. Further, approval of a majority of the holders of the Class B stock is generally required to affect a sale of the Company and certain other corporate transactions. As a result, the Class B shareholders can elect more than a majority of the Board of Directors and exercise significant influence over most matters requiring approval by the Company’s shareholders. This concentration of control may also have the effect of delaying or preventing a change in control.
+8
+Table of Contents
+The issuance of preferred stock may impede a change of control or may be dilutive to existing shareholders.
+The Company’s Certificate of Incorporation, as amended, authorizes the Company’s Board of Directors, without shareholder vote, to issue up to 300,000 shares of preferred stock in one or more series and to determine for any series the dividend, liquidation, conversion, voting or other preferences, rights and terms that are senior, and not available, to the holders of the Company’s common stock. Thus, issuances of series of preferred stock could adversely affect the relative voting power, distributions and other rights of the common stock. The issuance of preferred stock could deter or impede a merger, tender offer or other transaction that some, or a majority of the Company’s common shareholders might believe to be in their best interest or in which the Company’s common shareholders might receive a premium for their shares over the then current market price of such shares.
+The Company may be required to indemnify its directors and executive officers.
+The Company has authority under Section 145 of the Delaware General Corporation Law to indemnify its directors and officers to the extent provided in that statute. The Company’s Certificate of Incorporation, as amended, provides that a director shall not be personally liable to the Company for breach of fiduciary duty as a director, except to the extent such exemption from liability or limitation thereof is not permitted under the Delaware General Corporation Law. The Company’s Bylaws provide, in part, that it indemnify each of its directors and officers against liabilities imposed upon them (including reasonable amounts paid in settlement) and expenses incurred by them in connection with any claim made against them or any action, suit or proceeding to which they may be a party by reason of their being or having been a director or officer. The Company maintains officers’ and directors’ liability insurance coverage. There can be no assurance that such insurance will be available in the future, or that if available, it will be available on terms that are acceptable to the Company. Furthermore, there can be no assurance that the insurance coverage provided will be sufficient to cover the amount of any judgment awarded against an officer or director (either individually or in the aggregate). Consequently, if such judgment exceeds the coverage under the policy, the Company may be forced to pay such difference.
+The Company enters into indemnification agreements with each of its executive officers and directors containing provisions that may require the Company, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as officers or directors (other than liabilities arising from willful misconduct of a culpable nature) and to advance their expenses incurred as a result of any proceeding against them as to which they could be indemnified. Management believes that such indemnification provisions and agreements are necessary to attract and retain qualified persons as directors and executive officers.
+The Company does not expect to pay cash dividends for the foreseeable future.
+The Company intends to retain its cash to fund its business requirements. It does not anticipate paying cash dividends on its common stock or Class B stock. Any future determination to pay cash dividends will be at the discretion of the Company’s Board of Directors and will be dependent upon existing conditions, including the financial condition and results of operations, capital requirements, contractual restrictions, business prospects, and other factors that the Board of Directors considers relevant.
+Competition could reduce revenue from the Company’s products and services and cause it to lose market share.
+The Company currently faces competition in product performance, price and service. Some of the Company’s competitors have greater financial, product development and marketing resources than the Company. If competition in the Company’s industry intensifies or if the current competitors enhance their products or lower their prices for competing products, the Company may lose sales or be required to lower the prices it charges for its products. This may reduce revenues from the Company’s products and services, lower its gross margins, or cause a loss in market share.
+The Company’s quarterly operating results are likely to fluctuate, which may decrease its stock price.
+The Company’s quarterly operating results have varied significantly in the past and are likely to vary significantly from quarter to quarter in the future. As a result, the Company’s operating results may fall below the expectations of securities analysts and investors in some quarters, which could result in a decrease in the market price of its common stock. The reasons the Company’s quarterly results may fluctuate include:
+•
+General competitive and economic conditions;
+9
+Table of Contents
+•
+Delays in, or uneven timing in, delivery of customer orders;
+•
+The seasonal nature of the industry;
+•
+The fluctuations in the market value of its securities portfolio;
+•
+The introduction of new products by the Company or its competitors;
+•
+Product supply shortages;
+•
+Reduced demand due to adverse weather conditions;
+•
+Expiration or renewal of federal highway programs;
+•
+Changes to federal, state or Canadian provincial programs; and
+•
+Recently enacted tariffs.
+Period-to-period comparisons of such items should not be relied on as indications of future performance.
+The Company’s common stock has been, and likely will continue to be, subject to substantial price and volume fluctuations due to a number of factors, many of which will be beyond the Company’s control.
+The market price of the Company’s common stock may be significantly affected by various factors, such as:
+•
+Quarterly variations in operating results;
+•
+Changes in revenue growth rates as a whole or for specific geographic areas or products;
+•
+Changes in earnings estimates by market analysts;
+•
+The announcement of new products or product enhancements by the Company or its competitors;
+•
+Speculation in the press or analyst community of potential acquisitions by the Company; and
+•
+General market conditions or market conditions specific to particular industries.
+Global, market and economic conditions may negatively impact our business, financial condition and share price.
+Concerns over inflation, geopolitical issues and global financial markets have led to increased economic instability and expectations of slower global economic growth. Our business may be adversely affected by any such economic instability or unpredictability. Russia’s invasion of Ukraine and related sanctions has led to increased energy prices. Such sanctions and disruptions to the global economy may lead to additional inflation and may disrupt the global supply chain and could have a material adverse effect on our ability to secure supplies. The increased cost of oil, along with increased or prolonged periods of inflation, would likely increase our costs in the form of higher wages, further inflation on supplies and equipment necessary to operate our business. Additionally, the armed conflict involving Hamas and Israel, as well as further escalation of tensions between Israel, the U.S., and various countries in the Middle East, including hostilities involving Iran, and North Africa, may cause increased inflation in energy and logistics costs and could further cause general economic conditions in the U.S. or abroad to deteriorate. There is a risk that one or more of our suppliers could be negatively affected by global economic instability, which could adversely affect our ability to operate efficiently and timely complete our operational goals. As of the date of issuance of this Annual Report, the Company’s operations have not been significantly impacted.
+The Company may suffer adverse consequences if it is deemed an investment company under the Investment Company Act of 1940, as amended (the “Investment Company Act”).
+Under Section 3(a)(1)(C) of the Investment Company Act, a company is deemed to be an investment company if it is, or holds itself out as being, engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities and owns investment securities having a value exceeding 40% of the value of its total assets (exclusive of U.S. Government securities and cash items) on an unconsolidated basis.. The Company believes that it is not an investment company under Section 3(a)(1)(A) of the Investment Company Act because it does not hold itself out as being engaged primarily in the business of investing, reinvesting, or trading in securities. Rather, the Company has been a manufacturer of heavy equipment used in the production of asphalt for highway construction and environmental control equipment for over 50 years. The Company’s core products include asphalt plants, asphalt pavers, combustion systems, and fluid heat transfer systems.
+10
+Table of Contents
+As reflected on the Company’s balance sheet at September 30, 2024, the Company owns a significant amount of marketable securities, which include cash, cash equivalents, government and corporate bonds, and exchange-traded funds. Section 3(a)(2) defines the term “investment securities”, as used in Section 3(a)(1)(C) to include all marketable securities except government securities and cash and cash equivalents. The value of the Company’s investment securities is significantly below 40% of the value of its total assets (excluding government securities and cash items) at September 30, 2024.
+If the Company was deemed to be, and was required to register as an investment company, the Company would comply with the requirements of the Investment Company Act. As an investment company, the Company would be (i) subjected to disclosure and accounting guidance geared toward investment, rather than operating, companies; (ii) significantly limited in its ability to borrow money, issue options, issue multiple classes of stock and debt, and engage in transactions with affiliates; and (iii) required to undertake significant costs and expenses to meet other disclosure, reporting, and regulatory requirements to which it would be subject as a registered investment company.
+The Company faces risks with any future acquisitions. Acquiring businesses or products that expand and/or complement the Company’s operations has been an element of its business strategy. The Company may not be able to successfully identify attractive acquisition candidates or negotiate favorable terms in the future. Furthermore, the Company’s ability to effectively integrate any future acquisitions will depend on, among other things, the adequacy of its implementation plans, the ability of its management to oversee and operate effectively the combined operations, and the Company’s ability to achieve desired operational efficiencies. The Company’s failure to successfully integrate the operations of any business that it may acquire in the future may adversely affect our business, financial position, results of operations, or cash flows.
+There can be a shortage of skilled production workers, especially those with welding and/or fabricating capabilities. The Company could experience difficulty hiring or replacing those individuals, which could adversely affect its business.
+Our fabrication process requires skilled production workers. If we are unable to retain and hire an adequate number of individuals with welding and fabrication capabilities, this could adversely impact our ability to achieve our financial objectives. In addition, if demand for skilled production workers were to significantly outstrip supply, wages for these workers could dramatically increase and could affect our financial performance.
+11
+Table of Contents
+Risks generally associated with our information systems or cybersecurity attacks on our systems could adversely affect the results of our business operations.
+We have been, and expect to continue to be, subject to cybersecurity risks and incidents related to our business. To date, risks from cybersecurity threats have not materially affected our operations. We rely on the efficient and uninterrupted operation of our information systems and networks, including cloud-based and other third-party services, to obtain, rapidly process, analyze and manage data. Our systems and technologies, or those of third parties on which we rely, could fail or become unreliable due to equipment failures, software viruses, cyber threats, terrorist acts, natural disasters, power failures or other causes. Cybersecurity threats are evolving and include, but are not limited to, malicious software, cyber espionage, attempts to gain unauthorized access to our sensitive information, including that of our customers, suppliers, and subcontractors, and other electronic security breaches that could lead to disruptions in mission critical systems, unauthorized release of confidential or otherwise protected information, and corruption of data. Although we utilize various procedures and controls to monitor and mitigate these threats, there can be no assurance that these procedures and controls will be sufficient to prevent future security threats from materializing. If any of these events were to materialize, the costs related to cyber or other security threats or disruptions may have a material adverse effect on our operating results and financial condition.
+ITEM 1B
+UNRESOLVED STAFF COMMENTS
+None.
+12
+Table of Contents
+ITEM 1C
+CYBERSECURITY Risk Management and Strategy Our information technology, communication networks, enterprise applications, and related systems are necessary for our operations. We use these systems to manage our production, engineering drawings, customer and vendor relationships, for internal communications, for payroll and accounting to operate record-keeping functions, and for many other key aspects of our business. Our business operations rely on the secure collection, storage, transmission, and other processing of proprietary, confidential, and sensitive data. We have implemented and maintain various information security processes designed to identify, assess and manage material risks from cybersecurity threats to our critical computer networks, third-party hosted services, communications systems, hardware and software, and our critical data. Our cybersecurity risk management program is included in our overall enterprise risk management program. Key elements of our cybersecurity risk management program include:
+•
+the formalization and implementation of information security policies which include encryption standards, antivirus protection, vulnerability management, multifactor authentication, granting and removing of access, confidential information, and credential standards;
+•
+the use of external service providers, where appropriate, to assess, test or otherwise assist with aspects of our security controls including vulnerability assessments and penetration tests;
+•
+cybersecurity awareness training of our employees;
+•
+enhancement of segregation of duties to mitigate the risk of self-review of transactions within the system; and
+•
+revision of user access request documentation to clearly define the roles and permissions assigned to users. We have been, and expect to continue to be, subject to cybersecurity risks and incidents related to our business. To date, risks from cybersecurity threats have not materially affected our operations. We currently do not expect that the risks from cybersecurity threats are reasonably likely to materially affect us. However, as discussed further under “Item 1A – Risk Factors”, cyber threats continue to increase. Preventative actions we take to reduce the risk of cyber incidents and protect our systems and information may be insufficient. Accordingly, no matter how well designed or implemented our controls are, we will not be able to anticipate all security breaches of these types, including security threats that may result from third parties improperly employing artificial intelligence technologies, and we may not be able to implement effective preventive measures against such security breaches in a timely manner. Governance Our Board of Directors has overall oversight responsibility for our enterprise risk management program and delegates cybersecurity risk management oversight to the Audit Committee of the Board of Directors. Our Chief Financial Officer and IT Manager are responsible for identifying, considering and assessing cybersecurity risks on an ongoing basis, establishing processes to ensure that such potential cybersecurity risk exposures are monitored, putting in place appropriate mitigation measures, maintaining cybersecurity programs, and remediating any potential cybersecurity incidents. The Audit Committee receives updates from our Chief Financial Officer on, among other things, our cybersecurity risks and the status of any projects to strengthen our information security systems and assessments of our cybersecurity program. At meetings of the Board of Directors, the Chairman of our Audit Committee has the opportunity to report on cybersecurity risks and related mitigation efforts.  13
+Table of Contents
+Our IT Manager has been with the Company for over a decade, and maintains various certifications in information technology and information security subjects. Our Chief Financial Officer holds a BS in Finance and Management and an MBA, has over 30 years of financial management experience, and has over 13 years of experience managing risks at the Company, including risks arising from cybersecurity threats.
+ITEM 2
+PROPERTIES
+The following table lists the operating properties owned or leased by the Company as of September 30, 2024:
+Location
+Acreage
+BuildingSquareFootage
+Principal Function
+Marquette, Iowa
+72.0
+137,000
+Owned offices and manufacturing
+Orlando, Florida
+27.0
+215,000
+Owned corporate offices and manufacturing
+Chambersburg, Pennsylvania
+7.4
+103,000
+Leased offices and manufacturing
+ITEM 3
+LEGAL PROCEEDINGS
+The Company has various litigation and claims, either as a plaintiff or defendant, pending as of the date of this Annual Report, which have occurred in the ordinary course of business, and which may be covered in whole, or in part, by insurance. Management has reviewed all litigation matters arising in the ordinary course of business and, upon advice of legal counsel, has made provisions, not deemed material, for any probable losses and expenses of litigation.
+ITEM 4
+MINE SAFETY DISCLOSURES
+None.
+14
+Table of Contents
+PART II
+ITEM 5
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+The Company’s common stock is traded on the NYSE American LLC under the symbol “GENC.”
+The Company has not issued any securities during the prior two years that were not already registered under the Exchange Act.
+The Company made no repurchases of any of its equity securities during the quarter ended September 30, 2024.
+As of September 30, 2024, there were 157 holders of common stock of record and 6 holders of Class B stock of record. The Company has not paid cash dividends during the last two fiscal years and has no intention to pay cash dividends in the foreseeable future.
+EQUITY COMPENSATION PLANS
+There were no equity compensation plans or arrangements previously approved by security holders as of September 30, 2024.
+ITEM 6
+[RESERVED]
+15
+Table of Contents
+ITEM 7
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+“Forward-Looking” Information
+This Annual Report contains certain “forward-looking statements” within the meaning of the Exchange Act, which represent the Company’s expectations and beliefs, including, but not limited to, statements concerning gross margins, sales of the Company’s products, future financing plans, income from investees and litigation. These statements by their nature involve substantial risks and uncertainties, certain of which are beyond the Company’s control. Actual results may differ materially depending on a variety of important factors, including the financial condition of the Company’s customers, changes in the economic and competitive environments, the performance of the investment portfolio and the demand for the Company’s products.
+For information concerning these factors and related matters, see “Risk Factors” in Part I, Item 1A in this Annual Report. However, other factors besides those referenced could adversely affect the Company’s results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any forward-looking statements made by the Company herein speak as of the date of this Annual Report. The Company does not undertake to update any forward-looking statements, except as required by law.
+Overview
+Gencor is a leading manufacturer of heavy machinery used in the production of highway construction equipment and materials and environmental control equipment. The Company’s core products include asphalt pavers, hot mix asphalt plants, combustion systems, fluid heat transfer systems and asphalt pavers. The Company’s products are manufactured at three facilities in the United States.
+Because the Company’s products are sold primarily to the highway construction industry, the business is seasonal in nature. Traditionally, the Company’s customers reduce their purchases of new equipment for shipment during the summer and fall months to avoid disrupting their peak season for highway construction and related repair work. The majority of orders for the Company’s products are thus received between October and February, with a significant volume of shipments occurring in the late winter and spring. The principal factors driving demand for the Company’s products are the overall economic conditions, the level of government funding for domestic highway construction and repair, Canadian infrastructure spending, the need for spare parts, fluctuations in the price of liquid asphalt, and a trend towards larger more efficient asphalt plants.
+On November 15, 2021, President Biden signed into law a five-year, $1.2 trillion infrastructure bill, the Infrastructure Investment and Jobs Act (the “IIJ Act”), including $550 billion in new spending and reauthorization of $650 billion in previously allocated funds. The IIJ Act provides $110 billion for the nation’s highways, bridges and roads. The IIJ Act is scheduled to expire on September 30, 2026.
+Fluctuations in the price of carbon steel, which is a significant cost and material used in the manufacturing of the Company’s equipment, may affect the Company’s financial performance. The Company is subject to fluctuations in market prices for raw materials, such as steel. If the Company is unable to purchase materials it requires or is unable to pass on price increases to its customers or otherwise reduce its cost of goods sold, its results of operations and financial condition may be adversely affected.
+The Company monitors the prices it charges for its products and services on an ongoing basis and has historically been able to adjust its prices to take into account changes in the rate of inflation.
+Also, a significant increase in the price of liquid asphalt could decrease demand for hot mix asphalt paving materials and certain of the Company’s products. Increases in oil prices also drive up the cost of gasoline and diesel, which results in increased freight costs. Where possible, the Company will pass increased freight costs on to its customers. However, the Company may not be able to recapture all of the higher costs which could have a negative impact on the Company’s financial performance.
+16
+Table of Contents
+The Company believes its strategy of continuing to invest in product engineering and development and its focus on delivering the highest quality products and superior service will strengthen the Company’s market position. The Company continues to review its internal processes to identify inefficiencies and cost-reduction opportunities. The Company will continue to scrutinize its relationships with suppliers to ensure it is achieving the highest quality materials and services at the most competitive cost.
+Results of Operations
+Year ended September 30, 2024 compared with the year ended September 30, 2023
+Net revenue for the year ended September 30, 2024 increased 7.7% to $113,166,000 from $105,075,000 for the year ended September 30, 2023. The net revenue increase was primarily driven by increased equipment sales recognized over time and increased parts and component sales, partially offset by a decrease in equipment sales recognized at a point in time. Net revenue for the fourth quarter of fiscal 2024 increased slightly to $20,921,000 compared to $20,871,000 for the quarter ended September 30, 2023.
+As a percent of sales, gross profit margins increased slightly to 27.7% in fiscal 2024 as compared to 27.6% in fiscal 2023. In the fourth quarter of fiscal 2023, gross profit margin of 31.7% was positively impacted by closing out of certain projects recognized over time where actual results improved over initial estimates. In the fourth quarter of fiscal 2024 gross profit margin was 25.6%.
+Product engineering and development expense in fiscal 2024 decreased $145,000 to $3,313,000 from $3,458,000 in fiscal 2023 due to reduced headcount. Selling, general and administrative (“SG&A”) expenses in fiscal 2024 increased $2,173,000 to $14,327,000 from $12,154,000 in fiscal 2023. The increase in SG&A expenses was primarily due to increased trade show expenses, professional fees and commissions on higher net revenue.
+In fiscal 2024, the Company had operating income of $13,687,000 versus $13,425,000 in fiscal 2023. The benefit of increased sales in fiscal 2024 was partially offset by increased SG&A expenses as compared to fiscal 2023.
+For the year ended September 30, 2024, the Company had net other income of $7,043,000 compared to $5,351,000 for the year ended September 30, 2023. Interest and dividend income, net of fees, was $3,435,000 for the year ended September 30, 2024 as compared to $2,108,000 for year ended September 30, 2023. Interest income for the year ended September 30, 2024 as compared to the prior year increased due to higher interest rates earned on increased cash balances and fixed income investments coupled with the Company reallocating a majority of its holdings in equities to fixed income in January 2023. Net realized and unrealized gains on marketable securities were $3,621,000 for the year ended September 30, 2024 versus $3,243,000 for the year ended September 30, 2023. Net realized and unrealized gains in the portfolio were primarily the result of fluctuations in the market value of fixed income securities due to interest rate changes. The effective income tax rate for fiscal 2024 was 29.8% versus 21.9% in fiscal 2023. The higher income tax rate in fiscal 2024 was driven by increased reserves of $1.2 million for unrecognized tax benefits.
+Net income for the year ended September 30, 2024 was $14,558,000, or $0.99 per diluted and basic share, versus $14,666,000, or $1.00 per diluted and basic share, for the year ended September 30, 2023.
+Liquidity and Capital Resources
+The Company generates capital resources through operations and returns from its investments. We believe these sources of capital will satisfy our liquidity needs in both the short and long term.
+The Company had no long-term debt outstanding at September 30, 2024 or 2023. In April 2020, a financial institution issued an irrevocable standby letter of credit (“letter of credit”) on behalf of the Company for the benefit of one of the Company’s insurance carriers. The maximum amount that can be drawn by the beneficiary under the letter of credit is $150,000. The letter of credit expires in February 2026, unless terminated earlier, and can be extended, as provided by the agreement. The Company intends to renew the letter of credit for as long as the Company does business with the beneficiary insurance carrier. The letter is collateralized by restricted cash of the same amount on any outstanding drawings. To date, no amounts have been drawn under the letter of credit.
+17
+Table of Contents
+As of September 30, 2024, the Company had $25,482,000 in cash and cash equivalents, and $89,927,000 in marketable securities. The marketable securities are invested through a professional investment management firm. The securities may be liquidated at any time into cash and cash equivalents.
+The Company’s backlog was $72.2 million at September 30, 2024 versus $75.8 million at September 30, 2023. The Company’s working capital was $182.2 million at September 30, 2024 versus $164.8 million at September 30, 2023.
+The significant purchases, sales and maturities of marketable securities shown on the consolidated statements of cash flows typically reflect the frequent purchase and sale of United States treasury bills.
+Year ended September 30, 2024 compared with the year ended September 30, 2023
+Cash flows provided by operations in fiscal 2024 were $9,291,000 primarily resulting from net income and reduced inventories, and partially offset by increased contract assets on contract sales where revenue is recognized over time. Contract assets increased $7,831,000 with the timing of inventory build and percentage of completion recognition on sales where revenue is recognized over time. Inventories decreased by $7,765,000 primarily due to completion and shipment on several large contract orders where revenue is recognized at a point in time as well as increased parts sales coupled with reduced purchases as supplier lead times have come down, and increased allowances.
+Cash flows provided by operations in fiscal 2023 were $10,196,000 primarily resulting from net income and sale of marketable securities, and partially offset by increased inventory. Inventories increased by $15,712,000 primarily due to progress on several large contract orders where revenue is recognized at a point in time, the impact of the inflationary environment on raw material and wage price increases, and stock build to adjust for the increasing lead times from suppliers. Marketable securities decreased $9,364,000 due primarily to the transfer of $10,000,000 from the investment portfolio to cash to fund operating needs of the business during fiscal 2023.
+Cash flows used in investing activities for the years ended September 30, 2024 and September 30, 2023, were $840,000 and $2,746,000, respectively, and were primarily related to the capital expenditures for building improvements, and manufacturing processing equipment.
+Critical Accounting Policies, Estimates and Assumptions
+The Company believes the following discussion addresses it’s most critical accounting policies, which are those that are most important to the portrayal of the Company’s financial condition and results of operations and require management’s most difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. Accounting policies, in addition to the critical accounting policies referenced below, are presented in Note 1 to the Consolidated Financial Statements, “Accounting Policies.”
+Estimates and Assumptions
+In preparing the Consolidated Financial Statements, the Company uses certain estimates and assumptions that may affect reported amounts and disclosures. Estimates and assumptions are used, among other places, when accounting for certain revenue (e.g., contract accounting), expense, and asset and liability valuations. The Company believes that the estimates and assumptions made in preparing the Consolidated Financial Statements are reasonable, but are inherently uncertain. Assumptions may be incomplete or inaccurate and unanticipated events may occur. The Company is subject to risks and uncertainties that may cause actual results to differ from estimated results.
+18
+Table of Contents
+Revenues & Expenses
+The Company accounts for revenues and related expenses under the provisions of ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606), as amended (“ASU No. 2014-09”). Revenues from contracts with customers for the design, manufacture and sale of custom equipment are recognized over time when the performance obligation is satisfied by transferring control of the equipment. Control of the equipment transfers over time as the equipment is unique to the specific contract and thus does not create an asset with an alternative use to the Company. Revenues and related costs are recognized in proportion to actual labor costs incurred, as compared with total estimated labor costs expected to be incurred during the entire contract. All incremental costs related to obtaining a contract are expensed as incurred as the amortization period is less than one year. Changes to total estimated contract costs or losses, if any, are recognized in the period in which they are determined.
+Contract assets (excluding accounts receivable) under contracts with customers represent revenue recognized in excess of amounts billed on equipment sales recognized over time. These contract assets were $9,339,000 and $1,508,000 at September 30, 2024 and 2023, respectively, and are included in current assets on the Company’s consolidated balance sheets. The Company anticipates that all of the contract assets at September 30, 2024, will be billed and collected within one year.
+Revenues from all other contracts for the design and manufacture of equipment, for service and for parts sales, net of any discounts and return allowances, are recorded at a point in time when control of the goods or services has been transferred. Control of the goods or service typically transfers at time of shipment or upon completion of the service.
+Payment for equipment under contract with customers is typically due prior to shipment. Payment for services under contract with customers is due as services are completed. Accounts receivable related to contracts with customers at September 30, 2024 and September 30, 2023 were $163,000 and $114,000, respectively.
+Product warranty costs are estimated using historical experience and known issues and are charged to production costs as revenue is recognized.
+Under certain contracts with customers, recognition of a portion of the consideration received may be deferred and recorded as a contract liability if the Company has to satisfy a future obligation, such as to provide installation assistance. There were no significant contract liabilities other than customer deposits at September 30, 2024 and September 30, 2023. Customer deposits related to contracts with customers were $5,018,000 and $6,815,000 at September 30, 2024 and 2023, respectively, and are included in current liabilities on the Company’s consolidated balance sheets.
+The Company records revenues earned for shipping and handling as freight revenue at the time of shipment, regardless of whether or not it is identified as a separate performance obligation. The cost of shipping and handling is classified as cost of goods sold concurrently with the revenue recognition.
+All product engineering and development costs, and selling, general and administrative expenses are charged to operations as incurred. Provision is made for any anticipated contract losses in the period that the loss becomes evident.
+The allowance for credit losses is determined by performing a specific review of all account balances greater than 90 days past due and other higher risk amounts to determine collectability, and also adjusting for any known customer payment issues with account balances in the less-than-90-day past due aging category. The measurement and recognition of credit losses involves judgment and represents the Company’s estimate of expected credit losses based on a number of considerations, including historical credit loss experience, the aging of account balances, customer credit worthiness, and current and expected economic, market and industry factors impacting the Company’s customers, including their financial condition. Account balances are charged off against the allowance for credit losses when they are determined to be uncollectible. Any recoveries of account balances previously considered in the allowance for credit losses reduce future additions to the allowance for credit losses. The allowance for credit losses also includes an estimate for returns and allowances. Provisions for estimated returns and allowances and other adjustments, are provided for in the same period the related sales are recorded. Returns and allowances, which reduce product revenue, are estimated using known issues and historical experience.
+19
+Table of Contents
+Inventories
+Inventories are valued at the lower of cost or net realizable value, with cost being determined under the first-in, first-out (“FIFO”) method and net realizable value defined as the estimated selling price of goods less reasonable costs of completion and delivery (see Note 2 to Consolidated Financial Statements). Appropriate consideration is given to obsolescence, excessive levels, deterioration, possible alternative uses and other factors in determining net realizable value. The cost of work in process and finished goods includes materials, direct labor, variable costs and overhead. The Company evaluates the need to record inventory adjustments on all inventories, including raw materials, work in process, finished goods, spare parts and used equipment. Used equipment acquired by the Company on trade-in from customers is carried at estimated net realizable value. Unless specific circumstances warrant different treatment regarding inventory obsolescence, an allowance is established to reduce the cost basis of inventories three to four years old by 50%, the cost basis of inventories four to five years old by 75%, and the cost basis of inventories greater than five years old to zero. Inventory is typically reviewed for obsolescence on an annual basis computed as of September 30, the Company’s fiscal year end. If significant known changes in trends, technology or other specific circumstances that warrant consideration occur during the year, then the impact on obsolescence is considered at that time.
+Marketable Securities and Fair Value Measurements
+Marketable debt and equity securities are categorized as trading securities and are thus marked to market and stated at fair value. Fair value is determined using the quoted closing or latest bid prices for Level 1 investments and market standard valuation methodologies for Level 2 investments. Realized gains and losses on investment transactions are determined by specific identification and are recognized as incurred in the consolidated income statements. Net unrealized gains and losses are reported in the consolidated income statements and represent the change in the fair value of investment holdings during the period.
+Contractual Obligations
+The Company had no long-term or short-term debt as of September 30, 2024 and there was no long-term debt facility in place at September 30, 2024.
+In April 2020, a financial institution issued an irrevocable standby letter of credit (“letter of credit”) on behalf of the Company for the benefit of one of the Company’s insurance carriers. The maximum amount that can be drawn by the beneficiary under the letter of credit is $150,000. The letter of credit expires in February 2026, unless terminated earlier, and can be extended, as provided by the agreement. The Company intends to renew the letter of credit for as long as the Company does business with the beneficiary insurance carrier. The letter is collateralized by restricted cash of the same amount on any outstanding drawings. To date, no amounts have been drawn under the letter of credit.
+20
+Table of Contents
+On August 28, 2020, the Company entered into a three year operating lease for property related to the manufacturing and warehousing of the Blaw-Knox paver business. The lease term was for the period September 1, 2020 through August 31, 2023. In March 2023, the Company extended the lease term through August 31, 2024. In March 2024, the Company extended the lease term through August 31, 2025.
+Off-Balance Sheet Arrangements
+None
+ITEM 7A
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not applicable
+ITEM 8
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+21
+Table of Contents
+INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES GENCOR INDUSTRIES, INC.
+Page
+Reports of Independent Registered Public Accounting Firms
+23
+Consolidated Balance Sheets as of September 30, 2024 and 2023
+26
+Consolidated Income Statements for the years ended September 30, 2024 and 2023
+27
+Consolidated Statements of Shareholders’ Equity for the years ended September 30, 2024 and 2023
+28
+Consolidated Statements of Cash Flows for the years ended September 30, 2024 and 2023
+29
+Notes to Consolidated Financial Statements
+30
+All other schedules are omitted because they are not applicable or the required information is shown in the consolidated financial statements or notes thereto.  22 Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of
+Gencor Industries, Inc.
+Opinions on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheet of Gencor Industries, Inc. (the “Company”) as of September 30, 2024, and the related consolidated statements of income, stockholders’ equity, and cash flows for the year then ended, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of September 30, 2024, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the Company’s internal control over financial reporting as of September 30, 2024, based on the criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) in 2013 and our report dated June 27, 2025 expressed an adverse opinion on the effectiveness of the Company’s internal control over financial reporting because of the existence of material weaknesses.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audit included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Allowance for Slow-Moving and Obsolete Inventories
+As disclosed in Note 1 to the Company’s consolidated financial statements, the Company records an estimated allowance for slow-moving and obsolete inventories to state the Company’s inventories at the lower of cost or net realizable value. The Company relies on, among other things, past usage, sales experience, recent order and quote activity, possible alternative uses, future sales forecasts, and its strategic business plan to develop the estimate. As a result of management’s assessment, the Company recorded an allowance for slow-moving and obsolete inventories of approximately $13,331,000 as of September 30, 2024.
+Auditing management’s estimate of the allowance for slow-moving and obsolete inventories involved subjective evaluation and a high degree of auditor judgement due to significant assumptions involved in estimating future inventory turnover and sales.
+The following are the primary procedures we performed to address this critical audit matter. We tested the accuracy and completeness of the underlying data used in calculating the inventory allowance, including testing of a sample of inventory usage transactions, and recomputed the allowance calculation. We also evaluated the Company’s ability to accurately estimate the assumptions used to develop the estimate by comparing historical allowance amounts to the history of actual inventory write-offs. Furthermore, we reviewed subsequent sales activity on items with partial reserves to assess the impact to the year-end allowance.
+Revenue from Contracts with Customers Where Revenue is Recognized Over Time
+As disclosed in Note 1 to the Company’s consolidated financial statements, the Company recognizes revenues from contracts with customers for the design, manufacture and sale of custom equipment which is recognized over time. Revenues and costs are recognized in proportion to actual labor costs incurred, as compared with total estimated labor costs expected to be incurred, during the entire contract. Changes to total estimated contract costs or losses, if any, are recognized in the period in which they are determined. The Company recorded approximately $45,786,000 in revenue from custom equipment sales contracts during the year ended September 30, 2024.
+Auditing management’s estimate of total estimated labor costs expected to be incurred for the entire contract with respect to incomplete contracts, and the percentage of completion on those contracts as of the end of the year involved subjective evaluation and a high degree of auditor judgement due to significant assumptions involved in estimating total labor costs to complete.
+The following are the primary procedures we performed to address this critical audit matter. We tested the accuracy and completeness of the underlying data used in calculating the percentage of completion on incomplete contracts, including review of contracts, change orders, and underlying labor and material costs, and recomputed the percentage of completion on individual contracts. We also evaluated the Company’s ability to accurately estimate the assumptions used to develop the estimate by comparing historical cost estimates to actual costs on completed contracts.
+Uncertain Tax Positions
+As disclosed in Note 6 to the Company’s consolidated financial statements, the Company utilizes a two-step approach for recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, based on the technical merits of the position. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. The Company had a total uncertain tax position liability of $1,376,000 as of September 30, 2024, which increased by $1,200,000 from the previous year.
+Auditing management’s estimate of uncertain tax position liability involved subjective evaluation and a high degree of auditor judgement due to significant assumptions and considerable inputs involved in estimating the uncertain tax position liability.
+The following are the primary procedures we performed to address this critical audit matter. We obtained an understanding and evaluated management’s process for identifying state filing requirements and evaluating uncertain tax positions. We performed a nexus analysis for each state where the Company operates, sells products, owns assets or employs personnel. We also recalculated management’s estimate and compared our own independent estimate to that recorded by management for uncertain tax positions.
+We have served as Gencor Industries, Inc.’s auditor since 2025.
+/s/ Berkowitz Pollack Brant Advisors + CPAs
+BERKOWITZ POLLACK BRANT ADVISORS + CPAS
+PCAOB ID Number: 52 West Palm Beach, Florida
+June 27, 2025
+23 Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Shareholders of Gencor Industries, Inc.:
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheet of Gencor Industries, Inc. (the “Company”) as of September 30, 2023, and the related consolidated statements of income, shareholders’ equity, and cash flows for the year then ended, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of September 30, 2023, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+We have served as the Company’s auditor from 2001 to 2024.
+/s/ MSL, P.A.
+MSL, P.A.
+Certified Public Accountants
+PCAOB ID Number: 569
+Orlando, Florida
+December 13, 2023
+24
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+To the Board of Directors and Stockholders of
+Gencor Industries, Inc.
+Adverse Opinion on Internal Control over Financial Reporting
+We have audited Gencor Industries, Inc.’s (the Company’s) internal control over financial reporting as of September 30, 2024, based on criteria established in Internal Control—Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, because of the effect of the material weaknesses described in the following paragraph on the achievement of the objectives of the control criteria, the Company has not maintained effective internal control over financial reporting as of September 30, 2024, based on criteria established in Internal Control—Integrated Framework (2013) issued by COSO.
+A material weakness is a control deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. The following material weaknesses have been identified and included in management’s assessment:
+•
+Ineffective information technology general controls (“ITGC’s”), particularly such controls related to user access, program change management, and ineffective complementary user-organization controls, which limited management’s ability to rely on technology-dependent controls relevant to the Company’s consolidated financial statements. As a result, information technology-dependent manual and automated controls that rely on the affected ITGC’s, or information from the information technology systems with affected ITGC’s, were also ineffective.
+•
+Ineffective design, implementation, and operation of controls over key third party service provider System and Organizational Controls reports.
+•
+Ineffective controls over the period end close process, including the review and approval process of journal entries, account reconciliations, and segregation of duties.
+•
+Inadequate documentation and design of controls related to various key financial statement accounts and assertions.
+•
+Inadequate risk assessment, control activities, information and communication, and monitoring components of the Company’s internal control framework such that internal control weaknesses were not detected, communicated, addressed with mitigating control activities, or remediated on a timely basis.
+These material weaknesses were considered in determining the nature, timing and extent of audit tests applied in our audit of the consolidated financial statements, and this report does not affect our report dated June 27, 2025 on those consolidated financial statements.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheet and the related consolidated statements of income, stockholders’ equity, and cash flows of the Company, and our report dated June 27, 2025, expressed an unqualified opinion on those consolidated financial statements.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying “Management Annual Report on Internal Control Over Financial Reporting”. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the consolidated financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Berkowitz Pollack Brant Advisors + CPAs
+BERKOWITZ POLLACK BRANT ADVISORS + CPAS
+PCAOB ID Number: 52
+West Palm Beach, Florida
+June 27, 2025
+25
+Table of Contents
+Part I. Financial Information
+GENCOR INDUSTRIES, INC.
+Consolidated Balance Sheets
+As of September 30, 2024 and 2023
+2024
+2023
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+25,482,000
+$
+17,031,000
+Marketable securities at fair value (cost of $88,777,000 at September 30, 2024 and $85,514,000 at September 30, 2023)
+89,927,000
+84,252,000
+Accounts receivable, less allowance for credit losses of $390,000 at September 30, 2024 and $545,000 at September 30, 2023
+1,980,000
+2,467,000
+Contract assets
+9,339,000
+1,508,000
+Inventories, net
+63,762,000
+71,527,000
+Prepaid expenses
+2,352,000
+2,169,000
+Total current assets
+192,842,000
+178,954,000
+Property and equipment, net
+11,472,000
+13,246,000
+Deferred and other income taxes
+3,424,000
+3,343,000
+Other long-term assets
+383,000
+381,000
+Total Assets
+$
+208,121,000
+$
+195,924,000
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+$
+2,001,000
+$
+3,269,000
+Customer deposits
+5,018,000
+6,815,000
+Accrued expenses
+3,255,000
+3,753,000
+Current operating lease liabilities
+330,000
+328,000
+Total current liabilities
+10,604,000
+14,165,000
+Unrecognized tax benefits
+1,376,000
+176,000
+Total liabilities
+11,980,000
+14,341,000
+Commitments and contingencies
+Shareholders’ equity:
+Preferred stock, par value $.10 per share; 300,000 shares authorized; none issued
+—
+—
+Common stock, par value $.10 per share; 15,000,000 shares authorized;
+12,338,845 shares issued and outstanding at September 30, 2024 and 2023
+1,234,000
+1,234,000
+Class B Stock, par value $.10 per share; 6,000,000 shares authorized;
+2,318,857 shares issued and outstanding at September 30, 2024 and 2023
+232,000
+232,000
+Capital in excess of par value
+12,590,000
+12,590,000
+Retained earnings
+182,085,000
+167,527,000
+Total shareholders’ equity
+196,141,000
+181,583,000
+Total Liabilities and Shareholders’ Equity
+$
+208,121,000
+$
+195,924,000
+See accompanying Notes to Consolidated Financial Statements
+26
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Consolidated Income Statements
+For the Years Ended September 30, 2024 and 2023
+2024
+2023
+Net revenue
+$
+113,166,000
+$
+105,075,000
+Cost of goods sold
+81,839,000
+76,038,000
+Gross profit
+31,327,000
+29,037,000
+Operating expenses:
+Product engineering and development
+3,313,000
+3,458,000
+Selling, general and administrative
+14,327,000
+12,154,000
+Total operating expenses
+17,640,000
+15,612,000
+Operating income
+13,687,000
+13,425,000
+Other income (expense), net:
+Interest and dividend income, net of fees
+3,435,000
+2,108,000
+Realized and unrealized gains (losses) on marketable securities, net
+3,621,000
+3,243,000
+Other
+(13,000
+)
+—
+7,043,000
+5,351,000
+Income before income tax expense
+20,730,000
+18,776,000
+Income tax expense
+6,172,000
+4,110,000
+Net income
+$
+14,558,000
+$
+14,666,000
+Net income per common share – basic and diluted
+$
+0.99
+$
+1.00
+See accompanying Notes to Consolidated Financial Statements
+27
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Consolidated Statements of Shareholders’ Equity
+For the Years Ended September 30, 2024 and 2023
+Common Stock
+Class B Stock
+Capital in Excess of
+Retained
+Total Shareholders’
+Shares
+Amount
+Shares
+Amount
+Par Value
+Earnings
+Equity
+September 30, 2022
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+152,861,000
+$
+166,917,000
+Net income
+—
+—
+—
+—
+—
+14,666,000
+14,666,000
+September 30, 2023
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+167,527,000
+$
+181,583,000
+Net income
+—
+—
+—
+—
+—
+14,558,000
+14,558,000
+September 30, 2024
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+182,085,000
+$
+196,141,000
+See accompanying Notes to Consolidated Financial Statements
+28
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Consolidated Statements of Cash Flows
+For the Years Ended September 30, 2024 and 2023
+2024
+2023
+Cash flows from operating activities:
+Net income
+$
+14,558,000
+$
+14,666,000
+Adjustments to reconcile net income to cash flows provided by operating activities:
+Unrealized gain on marketable securities
+(2,412,000
+)
+(4,316,000
+)
+Deferred and other income taxes
+(81,000
+)
+(319,000
+)
+Unrecognized tax benefits
+1,200,000
+45,000
+Depreciation and amortization
+2,602,000
+2,834,000
+Provision for credit losses
+—
+290,000
+Loss on disposal of assets
+12,000
+157,000
+Changes in operating assets and liabilities:
+Accounts receivable
+487,000
+239,000
+Contract assets
+(7,831,000
+)
+610,000
+Marketable securities
+(3,263,000
+)
+9,364,000
+Inventories
+7,765,000
+(15,712,000
+)
+Prepaid expenses
+(183,000
+)
+500,000
+Accounts payable
+(1,268,000
+)
+(982,000
+)
+Customer deposits
+(1,797,000
+)
+951,000
+Accrued expenses and other
+(498,000
+)
+1,869,000
+Total adjustments
+(5,267,000
+)
+(4,470,000
+)
+Cash flows provided by operating activities
+9,291,000
+10,196,000
+Cash flows used in investing activities:
+Capital expenditures
+(840,000
+)
+(2,746,000
+)
+Cash flows used in investing activities
+(840,000
+)
+(2,746,000
+)
+Net increase in cash and cash equivalents
+8,451,000
+7,450,000
+Cash and cash equivalents at:
+Beginning of year
+17,031,000
+9,581,000
+End of year
+$
+25,482,000
+$
+17,031,000
+Non-cash investing and financing activities:
+Right-of-use assets obtained in exchange for operating lease liabilities
+$
+361,000
+$
+352,000
+See accompanying Notes to Consolidated Financial Statements
+29
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Notes to Consolidated Financial Statements
+For the Years Ended September 30, 2024 and 2023
+NOTE 1 – NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Gencor Industries, Inc. and its subsidiaries (collectively, the “Company”) is a diversified, heavy machinery manufacturer for the production of highway construction materials and environmental control machinery and equipment. The Company’s core products include asphalt plants, combustion systems, fluid heat transfer systems and asphalt pavers. The Company’s products are manufactured at three facilities in the United States.
+These consolidated financial statements include the accounts of Gencor Industries, Inc. and its subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation.
+Accounting Pronouncements and Policies
+There are no accounting pronouncements recently issued or newly effective that had, or are expected to have, a material impact on the Company’s consolidated financial statements.
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Earnings per Share
+The consolidated financial statements include basic and diluted earnings per share (“EPS”) information. Basic EPS is based on the weighted-average number of shares outstanding. Diluted EPS is based on the sum of the weighted-average number of shares outstanding plus common stock equivalents. There were no equity compensation plans and arrangements previously approved by security holders as of September 30, 2024 and 2023 and there are no common stock equivalents as of September 30, 2024 and September 30, 2023.
+The following presents the calculation of the basic and diluted EPS for the years ended September 30, 2024 and 2023:
+2024
+2023
+Net Income
+$
+14,558,000
+$
+14,666,000
+Weighted average common shares outstanding – basic and diluted
+14,658,000
+14,658,000
+Net income per common share – basic and diluted
+$
+0.99
+$
+1.00
+Cash Equivalents
+Cash equivalents consist of short-term certificates of deposit and deposits in money market accounts with original maturities of three months or less.
+Marketable Securities and Fair Value Measurements
+Marketable debt and equity securities are categorized as trading securities and are thus marked to market and stated at fair value. Fair value is determined using the quoted closing or latest bid prices for Level 1 investments and market standard valuation methodologies for Level 2 investments. Realized gains and losses on investment transactions are determined by specific identification and are recognized as incurred in the consolidated income statements. Net changes in unrealized gains and losses are reported in the consolidated income statements in the current period.
+30
+Table of Contents
+Fair Value Measurements
+The fair value of financial instruments is presented based upon a hierarchy of levels that prioritizes the inputs of valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to unobservable inputs (Level 3 measurements). A financial instrument’s level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement.
+The fair value of exchange-traded funds, government securities, and cash and money funds, are substantially based on quoted market prices (Level 1). Corporate bonds are valued using market standard valuation methodologies, including: discounted cash flow methodologies, and matrix pricing or other similar techniques. The inputs to these market standard valuation methodologies include, but are not limited to: interest rates, credit standing of the issuer or counterparty, industry sector of the issuer, coupon rate, call provisions, maturity, estimated duration and assumptions regarding liquidity and estimated future cash flows. In addition to bond characteristics, the valuation methodologies incorporate market data, such as actual trades completed, bids and actual dealer quotes, where such information is available. Accordingly, the estimated fair values are based on available market information and judgments about financial instruments (Level 2). Fair values of the Level 2 investments are provided by the Company’s professional investment management firms. From time to time the Company may transfer cash between its marketable securities portfolio and operating cash and cash equivalents.
+The following table sets forth by level, within the fair value hierarchy, the Company’s assets measured at fair value as of September 30, 2024:
+Fair Value Measurements
+Level 1
+Level 2
+Level 3
+Total
+Exchange-Traded Funds
+$
+3,686,000
+$
+—
+$
+—
+$
+3,686,000
+Corporate Bonds
+—
+34,294,000
+—
+34,294,000
+Government Securities
+50,111,000
+—
+—
+50,111,000
+Cash and Money Funds
+1,836,000
+—
+—
+1,836,000
+Total
+$
+55,633,000
+$
+34,294,000
+$
+—
+$
+89,927,000
+Net unrealized gains and losses reported during fiscal 2024 on trading securities still held as of September 30, 2024, were $2,412,000. There were no transfers of investments between Level 1 and Level 2 during the year ended September 30, 2024.
+The following table sets forth by level, within the fair value hierarchy, the Company’s assets measured at fair value as of September 30, 2023:
+Fair Value Measurements
+Level 1
+Level 2
+Level 3
+Total
+Exchange-Traded Funds
+$
+3,327,000
+$
+—
+$
+—
+$
+3,327,000
+Corporate Bonds
+—
+33,160,000
+—
+33,160,000
+Government Securities
+47,672,000
+—
+—
+47,672,000
+Cash and Money Funds
+93,000
+—
+—
+93,000
+Total
+$
+51,092,000
+$
+33,160,000
+$
+—
+$
+84,252,000
+Net unrealized gains and losses reported during fiscal 2023 on trading securities still held as of September 30, 2023, were $4,316,000. There were no transfers of investments between Level 1 and Level 2 during the year ended September 30, 2023. $10,000,000 was transferred from the investment portfolio to cash to fund operating needs of the business during fiscal 2023.
+The carrying amounts of cash and cash equivalents, accounts receivable, accounts payable, customer deposits and accrued expenses approximate fair value because of the short-term nature of these items.
+31
+Table of Contents
+Foreign Currency Transactions
+Gains and losses resulting from foreign currency transactions are included in income and were not significant during the years ended September 30, 2024 and 2023.
+Risk Management
+Financial instruments that potentially subject the Company to concentrations of credit risk primarily consist of cash and cash equivalents, marketable securities, and accounts receivable. The Company maintains its cash accounts in various domestic financial institutions which may from time to time exceed federally insured limits. Operating cash is retained in overnight sweep accounts which allow for offsets to treasury service charges. The marketable securities include investments in cash and money funds, mutual funds, exchange traded funds (“ETF’s”), corporate bonds, government securities and equities through professional investment management firms. Investment securities are exposed to various risks, such as interest rate, market and credit risks.
+The Company’s customers are not concentrated in any specific geographic region, but are concentrated in the road and highway construction industry. The Company extends limited credit on parts sales to its customers based upon their credit-worthiness. Generally, the Company requires a significant up-front deposit before beginning manufacturing on complete asphalt plant and component orders, and requires full payment subject to hold-back provisions prior to shipment. The Company establishes an allowance for credit losses based upon the credit risk of specific customers, historical trends and other pertinent information.
+Inventories
+Inventories are valued at the lower of cost or net realizable value, with cost being determined under the FIFO method and net realizable value defined as the estimated selling price of goods less reasonable costs of completion and delivery. Appropriate consideration is given to obsolescence, excessive levels, physical deterioration, possible alternative uses and other factors in determining net realizable value. The cost of work in process and finished goods includes materials, direct labor, variable costs and overhead. The Company evaluates the need to record inventory adjustments on all inventories,
+including raw material, work in process, finished goods, spare parts and used equipment. Used equipment acquired by the Company on trade-in from customers is carried at estimated net realizable value. Unless specific circumstances warrant different treatment regarding inventory obsolescence, an allowance is established to reduce the cost basis of inventories three to four years old by 50%, the cost basis of inventories four to five years old by 75%, and the cost basis of inventories greater than five years old to zero. Inventory is typically reviewed for obsolescence on an annual basis computed as of September 30, the Company’s fiscal year end. If significant known changes in trends, technology or other specific circumstances that warrant consideration occur during the year, then the impact on obsolescence is considered at that time.
+Changes in the allowance for slow-moving and obsolete inventories are as follows:
+2024
+2023
+Balance, beginning of year
+$
+9,813,000
+$
+8,192,000
+Charged to cost of sales
+3,834,000
+2,147,000
+Disposal of inventory, net of recoveries
+(316,000
+)
+(526,000
+)
+Balance, end of year
+$
+13,331,000
+$
+9,813,000
+32
+Table of Contents
+Property and Equipment
+Property and equipment are stated at cost (see Note 4). Depreciation of property and equipment is computed using the straight-line method over the estimated useful lives of the related assets, as follows:
+Years
+Land improvements
+15
+Buildings and improvements
+6-40
+Equipment
+2-10
+Impairments
+Property and equipment, and intangible assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. An impairment loss would be recognized when the carrying amount of an asset exceeds the estimated undiscounted cash flows expected to result from the use of the asset and its eventual disposition. The amount of the impairment loss to be recorded is calculated by the excess of the asset’s carrying value over its fair value. Fair value is generally determined using a discounted cash flow analysis. No such impairment losses were recorded during the years ended September 30, 2024 and 2023.
+Revenues and Expenses
+The Company accounts for revenues and related expenses under the provisions of ASU No. 2014-09 – Revenue from Contracts with Customers (Topic 606).
+The following table disaggregates the Company’s net revenue by major source for the years ended September 30, 2024 and 2023:
+2024
+2023
+Equipment sales recognized over time
+$
+45,786,000
+$
+34,150,000
+Equipment sales recognized at a point in time
+34,798,000
+40,138,000
+Parts and component sales
+26,456,000
+25,298,000
+Freight revenue
+5,172,000
+4,664,000
+Other
+954,000
+825,000
+Net revenue
+$
+113,166,000
+$
+105,075,000
+Revenues from contracts with customers for the design, manufacture and sale of custom equipment are recognized over time when the performance obligation is satisfied by transferring control of the equipment. Control of the equipment transfers over time, as the equipment is unique to the specific contract and thus does not create an asset with an alternative use to the Company. Revenues and costs are recognized in proportion to actual labor costs incurred, as compared with total estimated labor costs expected to be incurred, during the entire contract. All incremental costs related to obtaining a contract are expensed as incurred, as the amortization period is less than one year. Changes to total estimated contract costs or losses, if any, are recognized in the period in which they are determined.
+Contract assets (excluding accounts receivable) under contracts with customers represent revenue recognized in excess of amounts billed on equipment sales recognized over time. These contract assets were $9,339,000 and $1,508,000 at September 30, 2024 and 2023, respectively, and are included in current assets on the Company’s consolidated balance sheets. The Company anticipates that all of the contract assets at September 30, 2024, will be billed and collected within one year.
+Revenues from all other contracts for the design and manufacture of equipment, for service and for parts sales, net of any discounts and return allowances, are recorded at a point in time when control of the goods or services has been transferred. Control of the goods or service typically transfers at time of shipment or upon completion of the service.
+33
+Table of Contents
+Payment for equipment under contract with customers is typically due prior to shipment. Payment for services under contract with customers is due as services are completed. Accounts receivable related to contracts with customers for equipment sales were $163,000 and $114,000 at September 30, 2024 and September 30, 2023, respectively. Product warranty costs are estimated using historical experience and known issues and are charged to production costs as revenue is recognized.
+Changes in the accrual for warranty and related costs as of September 30, 2024 and 2023 consisted of the following:
+2024
+2023
+Balance, beginning of year
+$
+366,000
+$
+244,000
+Warranties issued
+287,000
+523,000
+Warranties settled
+(330,000
+)
+(401,000
+)
+Balance, end of year
+$
+323,000
+$
+366,000
+Provisions for estimated returns and allowances, and other adjustments are provided for in the same period the related sales are recorded. Returns and allowances, which reduce product revenue, are estimated using historical experience.
+Under certain contracts with customers, recognition of a portion of the consideration received may be deferred and recorded as a contract liability if the Company has to satisfy a future obligation, such as to provide installation assistance. There were no contract liabilities other than customer deposits at September 30, 2024 and 2023. Customer deposits related to contracts with customers
+were $5,018,000 and $6,815,000 at September 30, 2024 and 2023, respectively, and are included in current liabilities on the Company’s consolidated balance sheets.
+The Company records revenues earned for shipping and handling as freight revenue at the time of shipment, regardless of whether or not it is identified as a separate performance obligation. The cost of shipping and handling is classified as production costs concurrently with the revenue recognition.
+All product engineering and development costs, and selling, general and administrative expenses are charged to operations as incurred. Provision is made for any anticipated contract losses in the period that the loss becomes evident.
+The allowance for credit losses is determined by performing a specific review of all account balances greater than 90 days past due and other higher risk amounts to determine collectability, and also adjusting for any known customer payment issues with account balances in the less-than-90-day past due aging category. Account balances are charged off against the allowance for credit losses when they are determined to be uncollectible. Any recoveries of account balances previously considered in the allowance for credit losses reduce future additions to the allowance for credit losses. The allowance for credit losses also includes an estimate for returns and allowances. Provisions for estimated returns and allowances and other adjustments, are provided for in the same period the related sales are recorded. Returns and allowances, which reduce product revenue, are estimated using known issues and historical experience.
+Changes in the allowance for credit losses as of September 30, 2024 and 2023 consisted of the following:
+2024
+2023
+Balance, beginning of year
+$
+545,000
+$
+370,000
+Provision for credit losses
+—
+290,000
+Provision for estimated returns and allowances
+155,000
+335,000
+Uncollectible accounts written off
+(20,000
+)
+(65,000
+)
+Returns and allowances issued
+(290,000
+)
+(385,000
+)
+Balance, end of year
+$
+390,000
+$
+545,000
+34
+Table of Contents
+Income Taxes
+Income taxes are provided for the tax effects of transactions reported in the consolidated financial statements and primarily consist of taxes currently due, plus deferred taxes (see Note 6 – Income Taxes).
+The Company recognizes deferred tax liabilities and assets for the expected future tax consequences of events that have been included in the consolidated financial statements or tax returns using current tax rates. The Company and its domestic subsidiaries file a consolidated federal income tax return.
+Deferred tax assets and liabilities are measured using the rates expected to apply to taxable income in the years in which the temporary differences are expected to reverse and the credits are expected to be used. The effect on deferred tax assets and liabilities of the change in tax rates is recognized in income in the period that includes the enactment date. All available evidence, both positive and negative, is considered to determine whether, based on the weight of that evidence, the Company is more likely than not to realize the benefit of a deferred tax asset and whether a valuation allowance is needed for some portion or all of a deferred tax asset. No such valuation allowances were recorded as of September 30, 2024 and 2023.
+The Company’s income tax provision is based on management’s estimate of the effective tax rate for the full year. The tax provision in any period will be affected by, among other things, permanent, as well as temporary differences in the deductibility of certain items, in addition to changes in tax legislation. As a result, the Company may experience significant fluctuations in the effective book tax rate (that is, its tax expense divided by pre-tax book income) from period to period. The Company’s effective tax rates for fiscal 2024 and 2023 reflect the impact of the reduced rates under the U.S. Tax Cuts and Jobs Act (the “Tax Reform Act”) which was signed into law on December 22, 2017.
+Comprehensive Income
+For the years ended September 30, 2024 and 2023, other comprehensive income is equal to net income.
+Reporting Segments and Geographic Areas
+The Company has one reporting segment, equipment for the highway construction industry. Based on evaluation of the criteria of ASC 280 – Segment Reporting, including the nature of products and services, the nature of the production processes, the type of customers and the methods used to distribute products and services, the Company determined that its operating segments meet the requirements for aggregation. The Company designs, manufactures and sells asphalt plants and pavers, combustion systems and fluid heat transfer systems, for the highway construction industry and environmental and petrochemical markets. The Company’s products are manufactured at three facilities in the United States. The Company also services and sells spare parts for its equipment.
+For fiscal 2024 and 2023, total revenues of $113,166,000 and $105,075,000, and total long-term assets of $15,279,000 and $16,970,000, respectively, were attributed to the United States. Revenues are attributed to geographic areas based on the location of the assets producing the revenues.
+Customers with 10% (or greater) of Net Revenues
+During the year ended September 30, 2024, one customer accounted for 11.3% of net revenue. One customer accounted for 14.8% of net revenue for the year ended September 30, 2023.
+Subsequent Events
+Management has evaluated events occurring from September 30, 2024 through the date these consolidated financial statements were filed with the Securities and Exchange Commission for proper recording and disclosure herein.
+Reclassifications
+Certain amounts in the September 30, 2023 consolidated financial statements have been reclassified to conform to the current year presentation. These reclassifications had no impact on previously reported net income for the year ended September 30, 2023.
+35
+Table of Contents
+NOTE 2 – INVENTORIES
+Inventories are valued at the lower of cost or net realizable value.
+Net inventories as of September 30, 2024 and 2023 consisted of the following:
+September 30,
+2024
+2023
+Raw materials
+$
+32,631,000
+$
+35,918,000
+Work in process
+18,740,000
+22,923,000
+Finished goods
+12,391,000
+12,686,000
+Inventories, net
+$
+63,762,000
+$
+71,527,000
+Slow-moving and obsolete inventory reserves were $13,331,000 and $9,813,000 at September 30, 2024 and 2023, respectively.
+NOTE 3 – CONTRACT ASSETS
+Contract assets reflect costs and estimated earnings in excess of billings on uncompleted contracts and consisted of the following as of September 30, 2024 and 2023:
+September 30,
+2024
+2023
+Costs incurred on uncompleted contracts
+$
+14,508,000
+$
+18,468,000
+Estimated earnings
+6,977,000
+7,939,000
+21,485,000
+26,407,000
+Billings to date
+12,146,000
+24,899,000
+Contract assets
+$
+9,339,000
+$
+1,508,000
+NOTE 4 – PROPERTY AND EQUIPMENT
+Property and equipment as of September 30, 2024 and 2023 consisted of the following:
+September 30,
+2024
+2023
+Land and improvements
+$
+3,425,000
+$
+3,425,000
+Buildings and improvements
+15,236,000
+14,882,000
+Equipment
+26,987,000
+27,249,000
+45,648,000
+45,556,000
+Less: Accumulated depreciation and amortization
+(34,176,000
+)
+(32,310,000
+)
+Property and equipment, net
+$
+11,472,000
+$
+13,246,000
+Property and equipment includes approximately $23,365,000 and $22,693,000 of fully depreciated assets, which remained in service during fiscal 2024 and 2023, respectively. Also, included in property and equipment as of September 30, 2024 and 2023 is approximately $1,327,000 and $1,295,000, respectively, of assets not yet placed in operation and, therefore, not subject to depreciation during the years ended September 30, 2024 and 2023, respectively.
+36
+Table of Contents
+NOTE 5 – ACCRUED EXPENSES
+Accrued expenses as of September 30, 2024 and 2023 consisted of the following:
+September 30,
+2024
+2023
+Payroll and related accruals
+$
+1,776,000
+$
+1,315,000
+Warranty and related accruals
+323,000
+366,000
+Property tax accruals
+269,000
+235,000
+Income taxes payable
+—
+1,379,000
+Professional fees
+790,000
+169,000
+Other
+97,000
+289,000
+Accrued expenses
+$
+3,255,000
+$
+3,753,000
+NOTE 6 – INCOME TAXES
+The provision for income tax expense consisted of the following:
+Year Ended September 30,
+2024
+2023
+Current:
+Federal
+$
+4,718,000
+$
+4,151,000
+State
+335,000
+279,000
+Total current
+5,053,000
+4,430,000
+Deferred:
+Federal
+609,000
+(328,000
+)
+State
+510,000
+8,000
+Total deferred
+1,119,000
+(320,000
+)
+Income tax expense
+$
+6,172,000
+$
+4,110,000
+A reconciliation of the federal statutory tax rate to the total tax provision is as follows:
+Year Ended September 30,
+2024
+2023
+Federal income taxes computed at the statutory rate
+21.0
+%
+21.0
+%
+State income taxes, net of federal benefit
+1.2
+%
+1.4
+%
+Unrecognized tax benefits
+5.8
+%
+—
+Other, net
+1.8
+%
+(0.5
+%)
+Effective income tax rate
+29.8
+%
+21.9
+%
+37
+Table of Contents
+Deferred income tax assets and liabilities as of September 30, 2024 and 2023 consisted of the following:
+September 30,
+2024
+2023
+Deferred Tax Assets:
+Accrued liabilities and reserves
+$
+494,000
+$
+352,000
+Allowance for credit losses
+86,000
+123,000
+Inventory
+4,700,000
+3,901,000
+Unrealized loss on investments
+—
+554,000
+Net operating losses carryforwards
+20,000
+331,000
+Gross Deferred Income Tax Assets
+5,300,000
+5,261,000
+Deferred and Other Tax Liabilities:
+Unrealized gain on investments
+(233,000
+)
+—
+Property and equipment
+(1,643,000
+)
+(1,918,000
+)
+Gross Deferred and Other Income Tax Liabilities
+(1,876,000
+)
+(1,918,000
+)
+Net Deferred and Other Income Tax Assets
+$
+3,424,000
+$
+3,343,000
+Total income taxes paid in fiscal 2024 and 2023 were $7,860,000 and $2,300,000, respectively. GAAP prescribes a comprehensive model for the financial recognition, measurement, classification, and disclosure of uncertain tax positions. GAAP contains a two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, based on the technical merits of the position. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. Significant judgment is required in evaluating the Company’s uncertain tax position and determining the Company’s provision for taxes. Although the Company believes the reserves of unrecognized tax benefits (“UTB’s”) are reasonable, no assurance can be given that the final outcome of these matters will not be different from that which is reflected in the Company’s historical income tax provision and accruals. The Company adjusts these reserves in light of changing facts and circumstances. As of September 30, 2024 and 2023, the Company had UTB’s of $1,376,000 and $176,000, respectively. The Company accrued $1.2 million of UTB’s in the year ended September 30, 2024. The Company accrued $45,000 of UTB’s in the year ended September 30, 2023.A reconciliation of the beginning and ending amount of our unrecognized tax benefits for the year ended September 30, 2024 is as follows:
+2024
+Balance, beginning of year
+$
+176,000
+Additions based on tax positions related to the current year
+454,000
+Additions based on tax positions of prior years
+746,000
+Balance, end of year
+$
+1,376,000
+The Company recognizes interest and penalties accrued related to UTB’s as a component of income tax expense. There were no additional accruals of interest expense nor penalties of significance during fiscal years ended September 30, 2024 and 2023. It is reasonably possible that the amount of the UTB’s with respect to certain unrecognized tax positions will increase or decrease during the next 12 months. The Company does not expect the change to have a material effect on its results of operations or its financial position. The only expected potential reason for change would be the ultimate results stemming from any examinations by taxing authorities. If recognized, the entire amount of UTB’s would have an impact on the Company’s effective income tax rate.The effective income tax rate for fiscal 2024 was 29.8% versus 21.9% in fiscal 2023. There were no R&D Credits generated in fiscal 2024 or 2023 and there were no carryforwards of R&D Credits as of September 30, 2024 or September 30, 2023. The Company files U.S. federal income tax returns, as well as income tax returns in multiple state jurisdictions. No income tax returns are currently under examination by taxing authorities. The Company’s U.S. federal income tax returns filed for tax years prior to fiscal year ended September 30, 2021 are generally no longer subject to examination by taxing authorities due to the expiration of the statute of limitations. With a few exceptions, the Company is no longer subject to state and local income tax examinations for periods prior to fiscal 2020.   38Table of Contents NOTE 7 – RETIREMENT BENEFITS The Company has a voluntary 401(k) employee benefit plan, which covers all eligible, domestic employees. The Company makes discretionary matching contributions subject to a maximum level, in accordance with the terms of the plan. The Company charged approximately $373,000 and $343,000 to expense under the provisions of the plan during the years ended September 30, 2024 and 2023, respectively.
+NOTE 8 – LONG-TERM DEBT AND ARRANGEMENTS WITH FINANCIAL INSTITUTIONS The Company had no long-term debt outstanding at September 30, 2024 or 2023. The Company does not currently require a credit facility. In April 2020, a financial institution issued an irrevocable standby letter of credit (“letter of credit”) on behalf of the Company for the benefit of one of the Company’s insurance carriers. The maximum amount that can be drawn by the beneficiary under the letter of credit is $150,000. The letter of credit expires in February 2026, unless terminated earlier, and can be extended, as provided by the agreement. The Company intends to renew the letter of credit for as long as the Company does business with the beneficiary insurance carrier. The letter is collateralized by restricted cash of the same amount on any outstanding drawings. To date, no amounts have been drawn under the letter of credit.
+NOTE 9 – LEASES The Company leases certain equipment under non-cancelable operating leases. Future minimum rental payments under these leases at September 30, 2024 are immaterial. Total rental expense for both of the fiscal years ended September 30, 2024 and 2023 was $47,000. On August 28, 2020, the Company entered into a three-year operating lease for property related to the manufacturing and warehousing. The lease term was for the period beginning on September 1, 2020 through August 31, 2023. In accordance with ASU 2016-02 – Leases (Topic 842), the Company recorded a right-of-use (“ROU”) asset totaling
+$970,000 and related lease liabilities at inception. In March 2023, the Company extended the lease term through August 31, 2024. In accordance with ASU 2016-02, the Company recorded a ROU asset totaling $352,000 and related lease liabilities upon extension. In March 2024, the Company extended the lease term through August 31, 2025. In accordance with ASU 2016-02, the Company recorded a ROU asset totaling $361,000 and related lease liabilities upon extension. For the year ended September 30, 2024, operating lease costs were $432,000 and cash payments related to these operating leases were $463,000. For the year ended September 30, 2023, operating lease costs were $429,000 and cash payments related to these operating leases were $458,000.
+Other information concerning the Company’s operating lease accounted for under ASC 842 guidelines as of September 30, 2024 and September 30, 2023, is as follows:
+September 30, 2024
+September 30, 2023
+Operating lease ROU asset included in other long-term assets
+$
+330,000
+$
+328,000
+Current operating lease liability
+$
+330,000
+328,000
+Weighted average remaining lease term (in years)
+0.92
+0.51
+Weighted average discount rate used in calculating ROU asset
+5.0
+%
+4.5
+%  Future annual minimum lease payments as of September 30, 2024 are as follows:
+Fiscal Year
+Annual Lease Payments
+2025
+$
+338,000
+Less interest
+(8,000
+)
+Present value of lease liabilities
+$
+330,000
+39 Table of Contents
+NOTE 10 – COMMITMENTS AND CONTINGENCIES
+Litigation
+The Company is involved in legal proceedings arising out of the normal course of business, none of which we believe will have a material adverse effect on our business, financial condition or results of operations. Claims made in the ordinary course of business may be covered in whole or in part by insurance.
+NOTE 11 – SHAREHOLDERS’ EQUITY AND STOCK-BASED COMPENSATION
+Shareholders’ Equity
+Under the Company’s Certificate of Incorporation, as amended, certain rights of the holders of the Company’s common stock are modified by shares of Class B stock for as long as such shares shall remain outstanding. During that period, holders of common stock will have the right to elect approximately 25% of the Company’s Board of Directors, and conversely, holders of Class B stock will be entitled to elect approximately 75% of the Company’s Board of Directors. During the period when shares of common stock and Class B stock are outstanding, certain matters submitted to a vote of shareholders will also require approval of the holders of common stock and Class B stock, each voting separately as a class. Common stock and Class B shareholders have equal rights with respect to dividends, preferences, and rights, including rights in liquidation.
+Stock-Based Compensation
+There were no equity compensation plans and arrangements previously approved by security holders as of September 30, 2024 and 2023.
+40
+Table of Contents
+ITEM 9
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+ITEM 9A
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+The Company’s President (who is currently serving as the Company’s Principal Executive Officer) and Chief Financial Officer evaluated the effectiveness of the design and operation of the Company’s “disclosure controls and procedures” (as defined in Rule 13a-15(e) under the Exchange Act) pursuant to Exchange Act Rule 13a-15(b) as of the end of the period covered by this Annual Report. Based upon that evaluation, the President and the Chief Financial Officer concluded that, as of the end of the period covered by this Annual Report, the Company’s disclosure controls and procedures were not effective at the reasonable assurance level solely as a result of the material weaknesses management identified in our internal control over financial reporting described below.
+Because of inherent limitations, the Company’s disclosure controls and procedures, no matter how well designed and operated, can provide only reasonable, and not absolute, assurance that the objectives of such disclosure controls and procedures are met and no evaluation can provide absolute assurance that all control issues and instances of fraud, if any, within the Company has been detected.
+Management’s Annual Report on Internal Control over Financial Reporting
+The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) for the Company. The Company’s internal control system is designed to provide reasonable assurance to the Company’s management and Board of Directors regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. There are inherent limitations in the effectiveness of all internal control systems no matter how well designed. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to the preparation and presentation of financial statements. Furthermore, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of a change in circumstances or conditions.
+In order to determine if the Company’s internal control over financial reporting is effective, management regularly assesses such controls and did so most recently as of September 30, 2024. This assessment was based on criteria for effective internal control over financial reporting described in Internal Control-Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this assessment, management concluded that our internal control over financial reporting was not effective as of September 30, 2024 due to the material weaknesses in the Company’s internal control over financial reporting as described below. Management reviewed the results of this assessment with our Audit Committee.
+Management identified the following material weaknesses in internal control over financial reporting as of September 30, 2024:
+•
+Ineffective information technology general controls (ITGC’s), particularly as such controls related to user access, program change management, security, and ineffective complementary user-organization controls, which limited management’s ability to rely on technology-dependent controls relevant to the preparation of the Company’s consolidated financial statements. As a result, information technology-dependent manual and automated controls that rely on the affected ITGCs, or information from the information technology systems with affected ITGCs, were also ineffective.
+•
+Ineffective design, implementation, and operation of controls over key third party service provider System and Organizational Controls reports.
+•
+Ineffective controls over the period end close process, including over the review and approval process of journal entries, account reconciliations, and segregation of duties.
+•
+Inadequate documentation and design of controls related to various key financial statement accounts and assertions.
+•
+Inadequate risk assessment, control activities, information and communication, and monitoring components of the Company’s internal control framework such that internal control weaknesses were not detected, communicated, addressed with mitigating control activities, or remediated on a timely basis.
+Management’s Plan of Remediation
+Management, with oversight by our Audit Committee, is actively engaged in the planning for, and implementation of remediation efforts to address the material weaknesses described above and to improve our internal control over financial reporting.
+In response to the material weaknesses discussed above, we plan to continue efforts already underway to remediate the material weaknesses in internal control over financial reporting, including the following:
+•
+We are in the process of engaging resources to support our internal control testing and remediation efforts.
+•
+We are in the process of conducting a risk assessment over our internal control environment, and we are reviewing and prioritizing individual control deficiencies for remediation, including those which aggregated to the above material weaknesses.
+•
+We are in the process of documenting and executing remediation action items, including expansion of mitigating controls where appropriate.
+Management and our Audit Committee will monitor these specific remedial measures and the effectiveness of our overall control environment. The identified material weaknesses in internal control over financial reporting will only be considered remediated when the relevant controls have operated effectively for a sufficient period of time for management to conclude that they have been remediated. We can provide no assurance as to when the remediation of these material weaknesses will be completed.
+Attestation Report of the Independent Registered Public Accounting Firm
+The conclusion regarding the effectiveness of the Company’s internal control over financial reporting as of September 30, 2024 has been audited by Berkowitz Pollack Brant Advisors + CPAs, an independent registered public accounting firm, as stated in their report which appears in Item 8 under the heading “Report of Independent Registered Public Accounting Firm.”
+Changes in Internal Control over Financial Reporting
+The Company’s management, including the President and Chief Financial Officer, has reviewed the Company’s internal control over financial reporting. There were no changes in the Company’s internal control over financial reporting during the year ended September 30, 2024 that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+41
+Table of Contents
+ITEM 9B
+OTHER INFORMATION
+During the three months ended September 30, 2024, none of the Company’s directors or officers adopted, modified or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (each as defined in Item 408 of Regulation S-K under the Exchange Act).
+ITEM 9C
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Not applicable.
+PART III
+ITEM 10
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Directors and Executive Officers
+The following table sets forth the names and ages of all of our directors and executive officers as of June 27, 2025. Our Executive Officers are appointed by the Board of Directors.
+Name
+Age
+Position
+First Becamea Director
+First Became anExecutive Officer
+E.J. Elliott
+96
+Executive Chairman
+1968
+1968
+Marc G. Elliott
+59
+President
+2007
+1993
+Dennis B. Hunt
+68
+Senior Vice President – Sales
+2008
+Eric E. Mellen
+57
+Chief Financial Officer
+2012
+General John G. Coburn
+83
+Director
+2019
+Walter A. Ketcham, Jr.
+76
+Director
+2021
+Thomas A. Vecchiolla
+70
+Director
+2021
+Set forth below is information about each of the individuals named in the table above:
+E.J. Elliott: Mr. E.J. Elliott is the Founder and Executive Chairman of the Company. Mr. Elliott served as Chief Executive Officer from 1968 to 2016. Mr. Elliott’s long tenure has provided him with detailed knowledge of the Company. He has structured and overseen its growth and transformation over the Company’s history. He has been active and held leadership positions in virtually all national and many international associations dealing with heavy machinery manufacturing, and the nation’s highway systems, and has insightful relationships with senior industry executives on a global basis. These leadership experiences allow Mr. Elliott to communicate relevant information about the Company to the Board of Directors efficiently and effectively. He has extensive operational experience that provides the Board of Directors with timely and valuable insights into Company financial reports, opportunities, and risks. Mr. Elliott’s broad education and experience in business allow him to contribute to a wide variety of Board of Directors’ processes and decisions.
+Marc G. Elliott: Mr. Marc G. Elliott joined the Company in 1988 and has served in numerous positions in virtually all areas and operations of the Company. Mr. Elliott has served as an executive officer of the Company since 1993 and was promoted to his current position, President of the Company, in 2005. During his tenure with the Company he has held numerous positions including President - Construction Equipment Group, President of General Combustion Corporation, Vice President of Marketing and Director of Financial Services for the Company.
+42
+Table of Contents
+Mr. Elliott also served as the Acting Chief Financial Officer of the Company from September 2010 to May 2012. Mr. Elliott has been active in several industry organizations including National Asphalt Pavement Association, Construction Equipment Manufacturer’s Association, Association of Equipment Manufacturer’s, National Stone Sand & Gravel Association, and American Road & Transportation Builder’s Association. Dennis B. Hunt has served as Vice President of the Company since January 2005 and as Senior Vice President since August 2008. Prior to joining the Company, Mr. Hunt served as Vice President of Asphalt and Ready Mix Operations for Vulcan Materials Company, Western Division. During his prior business career Mr. Hunt was a principal and officer with Industrial Asphalt. Mr. Hunt’s grandfather, Wallace E. Hunt Sr., founded Industrial Asphalt in 1941 and the Hunt family built Industrial Asphalt into one of the largest producers of hot mix asphalt in the United States. Mr. Hunt earned a BS degree from the University of San Francisco and an MBA from California State University Bakersfield. Mr. Hunt has 40 years of experience at all levels of the asphalt and construction industry. He is recognized as an expert in the industry and is regularly invited to speak at conferences and technical meetings. His unique experience allows him to understand all the inner works of the asphalt industry and gives valuable insight into the Company’s customer’s business requirements. His industry experience, coupled with his educational background, allow him to contribute to a wide spectrum of the Company’s processes and decisions. Eric E. Mellen has served as the Company’s Chief Financial Officer since May 2012. Previously, Mr. Mellen was Director of Corporate Development for the Company. From 1992 to 2002, Mr. Mellen worked at PricewaterhouseCoopers where he was a key member of the corporate finance, global strategy, and investment teams. Mr. Mellen worked on the due diligence and integration teams for the Price Waterhouse and Coopers & Lybrand merger, as well as the sale of PricewaterhouseCoopers Consulting to IBM Corporation in 2002. He worked in corporate finance at IBM Corporation from 2002 to 2008. Mr. Mellen’s responsibilities included pricing and financial management, as well as managing the worldwide budget of IBM’s Business Consulting Division. Mr. Mellen’s business valuation and financial advisory experience from 2008 to 2011 includes valuation and strategic planning of numerous companies across a variety of manufacturing and service industries. Mr. Mellen holds a BS in Finance and Management and an MBA and brings over 30 years of financial management experience. General John G. Coburn: Four Star General John G. Coburn has served as a Director of the Company since 2019. General Coburn is a former Chairman of ST Engineering North America, which he joined in November 2001 as Chief Executive Officer. Prior to joining ST Engineering North America, General Coburn served as a Four Star Commanding General, U.S. Army Material Command. He retired from the Army in 2001. General Coburn has extensive experience, both international and domestic, in Asia, Europe, the Middle East and Latin America, having had offices and businesses in those areas of the world. General Coburn was a Director of Genasys Inc. (“Genasys”) from July 2013 to October 2021 and Chairman of Genasys’ board of directors from March 2015 to October 2021. General Coburn is a distinguished military graduate of Eastern Michigan University, where he holds a Bachelor of Arts degree in Education. General Coburn also attended the U.S. Army Command and General Staff College, and the University of Kansas, where he earned a Master of Arts degree in political science, and has a Juris Doctor degree from the University of Missouri, School of Law. Walter A. Ketcham, Jr.: Walter A. Ketcham, Jr. has served as a Director of the Company since October 2021. He has been practicing law as a civil trial lawyer for over 50 years. Mr. Ketcham is a member of the Orange County Bar Association, the Florida Board and the American Board of Trial Advocates where he was elected “Trial Lawyer of the Year in 2016.” In addition to practicing law in his community, he has served as the Chairman of the Orlando-Orange County Expressway Authority from February 20, 2009 to 2015, Chairman of the Board of the Mennello Museum in Orlando since 2016, has been on the Board of the United Safety Council since 2019 and is a board member of the Michael Mennello Foundation. He is a graduate of Stetson University where he holds a Bachelor degree in Business Administration and a degree as a Doctor of Juris Prudence from Stetson University College of Law. Thomas A. Vecchiolla: Thomas A. Vecchiolla has served as a Director of the Company since July 2021. He is also an Independent Director on the Board of QinetiQ US, an engineering and solutions provider for next  43 Table of Contentsgeneration ISR, Cyber, Mission Operations and Autonomous Systems. Most recently, he was the Chairman and CEO of First Light Acquisition Group, Inc. (NYSE American: FLAG) a Special Purpose Acquisition Company, which successfully closed its business combination in September 2023. After the closing of the business combination, Mr. Vecchiolla served as a Director of Calidi Biotherapeutics, Inc. (NASDAQ: CLDI) until his resignation in January 2024. An accomplished industrials and tech executive, Mr. Vecchiolla has over 40 years of leadership and experience in global operations and sales. In previous roles he was Chairman, CEO and President of ST Engineering North America, a subsidiary of Singapore Technologies Engineering, Ltd., President of Raytheon International, Inc., and a Vice President at Raytheon Integrated Defense Systems. Mr. Vecchiolla had a distinguished career as a U.S. Naval Aviator and a Department of Defense Acquisition Professional, holds a Bachelor of Science from the U.S. Naval Academy and a Master of Science from the University of Southern California. Governance Board Oversight of Risk The Board has the responsibility of oversight over our risk exposure. The Board and through its committees, meets with various members of management to discuss any material risk exposures, the potential impact and the efforts of management it deems appropriate to deal with the risks. The Audit Committee considers risk assessment and risk management practices including those relating to regulatory risks, financial liquidity and accounting risk exposure, reserves and our internal controls. The Nominating Committee considers the risks associated with our corporate governance principles and procedures with the guidance of our SEC counsel. The Compensation Committee, in connection with the performance of its duties, considers risks associated with our compensation programs. Audit Committee The Audit Committee is composed of three directors. The current members are General John G. Coburn, Walter A. Ketcham, Jr. and Thomas A. Vecchiolla, Audit Committee chairman and “financial expert” as defined by the SEC. The Audit Committee is responsible for: Considering the qualifications of and appoints and oversees the activities of our independent registered public accounting firm; Reviewing with the independent auditor any audit problems or difficulties encountered in the course of audit work; Pre-approving all audit and non-audit services provided by the independent auditor; Discussing with the independent auditor the overall scope and plans for their respective audits; Reviewing financial statements and reports and meet with accounting management and the independent auditor to review, discuss and approve our financial statements ensuring the completeness and clarity of the disclosures in the financial statements; Monitoring compliance with our internal controls, policies, and procedures; Reviewing management’s report on its assessment of the effectiveness of internal control over financial reporting as of the end of each fiscal year and the independent auditor’s report on the effectiveness of internal control over financial reporting; Discussing our policies on risk assessment and risk management, our major financial risk exposures and the steps management has taken to monitor and control such exposures;  44 Table of ContentsReviewing our compliance and ethics programs, including legal and regulatory requirements, and reviews with management our periodic evaluation of the effectiveness of such programs; Reviewing and approving related-party transactions; and Undertaking such other activities as our Board from time to time may delegate to it. Nominating Committee The Nominating Committee is composed of two directors. The current members are E.J. Elliott and Marc G. Elliott. The duties and responsibilities of the Nominating Committee are as follows: To evaluate candidate’s qualifications for Board membership and recommend nominees; To consider nominees recommended by shareholders; To periodically review the Board composition; To oversee risk related to our overall governance, including Board and committee composition, Board size and structure, director independence, ethical and business conduct and our corporate governance profile and ratings; Compensation Committee The Compensation Committee is composed of two directors. The current members are General John G. Coburn and Thomas A. Vecchiolla. The principal duty of our Compensation Committee is to ensure that the compensation program for executive officers is effective in attracting and retaining key executives responsible for our success and in promoting our long-term interests and those of our stockholders. Code of Ethics We have adopted a code of ethics that applies to our principal executive officer, principal accounting officer and persons performing similar functions. Insider Trading Policy Our Insider Trading Policy applies to all of directors, officers, and key employees. The policy attempts to establish standards that will avoid even the appearance of improper conduct on the part of insiders by requiring, among other things, that insiders maintain the confidentiality of information about the Company and to not engage in transactions in the Company’s securities while aware of material nonpublic information. We believe this policy is reasonably designed to promote compliance with insider trading laws, related SEC rules and regulations and applicable listing standards. In addition, it is our policy that the Company will not trade in its stock when it is aware of material nonpublic information.  45 Table of Contents
+ITEM 11
+EXECUTIVE COMPENSATION Executive Officer CompensationThe following table presents summary information regarding the total compensation awarded to, earned by and paid to our named executive officers for the fiscal years ended September 30, 2024 and 2023. Summary Compensation Table for Fiscal Years 2023 and 2024
+Name and Principal Position
+Fiscal Year
+Salary ($)
+Bonus ($)
+Stock Awards($)
+All OtherCompensation($)
+Total ($)
+Marc G. Elliott, President
+2024
+$
+950,000
+0
+0
+$
+9,319
+$
+959,319
+2023
+$
+950,000
+0
+0
+$
+9,319
+$
+959,319
+E.J. Elliott, Executive Chairman
+2024
+$
+600,000
+0
+0
+$
+7,000
+$
+607,000
+2023
+$
+600,000
+0
+0
+$
+7,000
+$
+607,000
+Dennis B. Hunt, SVP Sales
+2024
+$
+500,000
+0
+0
+$
+8,220
+$
+508,220
+2023
+$
+447,500
+$
+100,000
+0
+$
+9,783
+$
+557,283
+The amounts reported under All Other Compensation represent employer contributions to the Company’s 401(k) Plan on behalf of the Executive Officers and personal use of a company vehicle. Employment Agreements The named executive officers do not have employment agreements. Employment may terminate at any time without severance. Recovery of Executive Compensation We have adopted a Clawback Policy which permits us to recover all or a portion of any performance-based compensation that was received by a covered executive on or after October 2, 2023, including equity awards, if our financial statements are restated as a result of errors, omissions, or fraud. The amount which may be recovered will be the amount by which the affected compensation exceeded the amount that would have been payable had the financial statements been initially filed as restated. Policies and Practices Related to the Grant of Certain Equity Awards Close in Time to the Release of Material Nonpublic Information We do not currently, and during the fiscal year ended September 30, 2024, we did not, grant stock options or similar awards having option-like features (“similar awards”). Accordingly, we have no specific policy or practice on the timing of grants of such awards in relation to the disclosure of material non-public information. In the event we decide to grant new awards of stock options or similar equity awards in the future, we anticipate that our policy will be not to grant stock options or similar awards in anticipation of the release of material nonpublic information that is likely to result in changes to the price of our Common Stock and anticipate that our Board of Directors would grant any stock options or similar awards on a predetermined schedule without taking into account material nonpublic information in determining either the time or terms of such awards. We have not timed the disclosure of material nonpublic information for the purpose of affecting the value of executive compensation. Compensation of Directors The following table provides information regarding compensation paid to each of our non-employee directors for the fiscal year ended September 30, 2024. Director Compensation Table Fiscal year ended September 30, 2024
+Name
+Fees Earned orPaid in Cash
+Option Awards
+Total
+John G. Coburn
+$
+24,000
+$
+0
+$
+24,000
+Walter A. Ketcham, Jr.
+$
+24,000
+$
+0
+$
+24,000
+Thomas Vecchiolla
+$
+24,000
+$
+0
+$
+24,000
+Directors’ fees are paid to non-employee directors at the rate of $1,500 per month, plus $1,000 per Board of Directors meeting attended and $500 per committee meeting attended. Total fees paid to all non-employee directors in fiscal 2024 were $72,000.
+ITEM 12
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS  46 Table of ContentsThe following table sets forth information, as of June 27, 2025, with respect to (i) each person known to us to be the beneficial owner (as defined by the SEC) of more than 5% of our Common Stock or Class B Stock, (ii) each director, (iii) each named executive officer, and (iv) the current directors and executive officers of the Company as a group. Except as otherwise noted, each named beneficial owner has sole voting and investment power over the shares shown. In accordance with Rule 13d-3(f) the Securities Exchange Act of 1934, as amended, shares that are not outstanding, but that are subject, to options, warrants, rights or conversion privileges exercisable within 60 days have been deemed to be outstanding for the purpose of computing the percentage of outstanding shares owned by the individual having such right but have not been deemed outstanding for the purpose of computing the percentage for any other person. Except as otherwise indicated, the address of each beneficial owner is Gencor Industries, Inc., 5201 N. Orange Blossom Trail, Orlando, Florida 32810.
+Amount and Nature of BeneficialOwnership
+Percent of Class
+Name of Beneficial Owner
+CommonStock
+Class BStock
+CommonStock
+Class BStock
+E.J. Elliott
+1,635,295
+(1)
+2,037,477
+13.3
+%
+87.9
+%
+Marc G. Elliott
+269,016
+192,280
+2.3
+%
+8.3
+%
+Dennis B. Hunt
+750
+0
+*
+*
+Eric E. Mellen
+229,750
+89,100
+1.9
+%
+3.8
+%
+General John G. Coburn
+0
+0
+*
+*
+Walter A. Ketcham, Jr.
+0
+0
+*
+*
+Thomas A. Vecchiolla
+0
+0
+*
+*
+All Current Directors and Executive Officers as a group (7 persons)
+2,145,303
+2,318,857
+17.4
+%(2)
+100.0
+%(3)
+Systematic Financial Management LP(4)
+1,186,138
+0
+9.6
+%
+*
+Royce & Associates(5)
+1,172,500
+0
+9.5
+%
+*
+Dimensional Fund Advisors, LP(6)
+793,068
+0
+6.4
+%
+*
+*
+Less than one percent.
+1.
+Includes 73,467 shares owned by the Elliott Foundation, Inc.
+2.
+Based on 12,338,845 shares of Common Stock outstanding as of June 27, 2025.
+3.
+Based on 2,318,857 shares of Class B Stock outstanding as of June 27, 2025.
+4.
+The number of shares reported and the information included in this footnote were derived from a Schedule 13F-HR filed with the SEC on May 14, 2025 by Systematic Financial Management LP. According to the Schedule 13F, Systematic Financial Management LP beneficially owns 1,186,138 shares with sole voting power over 612,836 shares and sole dispositive power over 1,186,138 shares. The address for Systematic Financial Management LP is 300 Frank W. Burr Blvd. Teaneck, NJ 07666.
+5.
+The number of shares reported and the information included in this footnote were derived from a Schedule 13F-HR filed with the SEC on May 6, 2025 by Royce & Associates, LP. According to the Schedule 13F, Royce & Associates, LP beneficially owns 1,172,500 shares, with sole dispositive power and sole voting power over 1,172,500 shares. The address for Royce & Associates, LP is 745 Fifth Avenue, New York, NY 10151.
+6.
+The number of shares reported and the information included in this footnote were derived from a Schedule 13F-HR filed with the SEC on May 13, 2025 by Dimensional Fund Advisors LP. According to the Schedule 13F, Dimensional Fund Advisors, LP beneficially owns 793,068 shares with sole dispositive power and sole voting power over 751,150 shares. The address for Dimensional Fund Advisors, LP is Building One, 6300 Bee Cave Road, Austin, Texas 78746.  47 Table of Contents
+ITEM 13
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE The Company typically does not enter into or ratify a related person transaction unless the Board, acting through the Audit Committee or otherwise, determines that the related person transaction is in, or is not inconsistent with our best interests and our stockholders’ best interests. The Company had no related party transactions in fiscal 2024. Director Independence The Board has determined that General John G. Coburn, Walter A. Ketcham, Jr. and Thomas A. Vecchiolla are independent under the applicable rules of the SEC and the listing standards of the NYSE American. Therefore, each member of the Audit Committee and Compensation Committee is an independent director in accordance with those standards.
+ITEM 14
+PRINCIPAL ACCOUNTING FEES AND SERVICES The following table sets forth the aggregate fees paid by the Company for the fiscal years ended September 30, 2024 and 2023 to Berkowitz, Forvis Mazars and MSL:
+Auditor
+Fiscal Year
+Audit Fees(1)
+Audit-RelatedFees
+Tax Fees
+All OtherFees(2)
+Berkowitz(3)
+2024
+$
+310,000
+$
+0
+$
+0
+$
+0
+Forvis Mazars
+2024
+$
+113,510
+$
+0
+$
+0
+$
+0
+MSL
+2024
+$
+162,600
+$
+0
+$
+0
+$
+5,507
+MSL
+2023
+$
+253,500
+$
+0
+$
+0
+$
+2,650
+1.
+Audit fees consist of the aggregate fees for professional services rendered for the audit of our consolidated financial statements, review of interim condensed consolidated financial statements and other statutory audits.
+2.
+All other fees are related to participation at the annual shareholder meeting and out of pocket expenses.
+3.
+Berkowitz was engaged as the Company’s independent registered public accounting firm on February 13, 2025, and accordingly no fees were billed to Berkowitz in fiscal 2024 or 2023. Audit fees noted above to Berkowitz were paid in fiscal 2025. In accordance with Company policy, all fees for Berkowitz, MSL and Forvis Mazars were approved in advance by the Audit Committee.  48
+Table of Contents
+PART IV
+ITEM 15
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+(a)
+A listing of financial statements and financial statement schedules filed as part of this Annual Report and which financial statements and schedules are incorporated into this report by reference, is set forth in the “Index to Financial Statements and Financial Statement Schedules” in Item 8 hereof.
+(b)
+Exhibit Index
+EXHIBIT NUMBER
+DESCRIPTION
+FILEDHEREWITH
+3.1
+Restated Certificate of Incorporation of Company, incorporated by reference to Exhibit 3.1 to Registration No. 33-627(P)
+3.2
+Amended and Restated By-Laws of Gencor Industries, Inc., incorporated by reference to Exhibit 3.2 to the Company’s Annual Report on Form 10-K for the year ended September 30, 2007
+3.3
+Certificate of Amendment, changing name of Mechtron International Corporation to Gencor Industries, Inc. and adding a “twelfth” article regarding director liability limitation, incorporated by reference to the Company’s Annual Report on Form 10-K for the year ended December 31, 1987(P)
+4.1
+Form of Common Stock certificate, incorporated by reference to Exhibit 4.1 to Registration No. 33-627(P)
+4.2
+Description of Registrant’s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934, as Amended
+X
+14.1
+Conflict of Interest Policy and Code of Ethics
+X
+16.1
+Letter Re Change in Certifying Accountant from MSL, P.A., dated November 7, 2024, incorporated by reference to Exhibit 16.1 to the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on November 7, 2024.
+16.2
+Letter Re Change in Certifying Accountant from Forvis Mazars, LLP, dated February 20, 2025, incorporated by reference to Exhibit 16.1 to the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on February 20, 2025.
+19.1
+Insider Trading Policy
+X
+21.1
+Subsidiaries of the Registrant
+X
+23.1
+Consent of Independent Registered Public Accountants
+X
+23.2
+Consent of Independent Registered Public Accountants
+X
+31.1
+Certification of Principal Executive Officer Pursuant to Rule 13a – 14(a) of the Securities Exchange Act of 1934, as amended
+X
+31.2
+Certification of Chief Financial Officer Pursuant to Rule 13a – 14(a) of the Securities Exchange Act of 1934, as amended
+X
+32.1
+Certifications of Principal Executive Officer and Chief Financial Officer Pursuant to 18 U. S. C. Section 1350
+X
+97.1
+Clawback Policy
+X
+49
+Table of Contents
+EXHIBIT NUMBER
+DESCRIPTION
+FILEDHEREWITH
+101.1
+Interactive Data File
+101.INS
+XBRL Instance Document
+X
+101.SCH
+XBRL Taxonomy Extension Schema
+X
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase
+X
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase
+X
+101.LAB
+XBRL Taxonomy Extension Label Linkbase
+X
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase
+X
+104
+The cover page from the Company’s Annual Report on Form 10-K for the year ended September 30, 2024, formatted in Inline XBRL (included in Exhibit 101)
+X
+ITEM 16
+FORM 10-K SUMMARY
+None
+50
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Sections 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Annual Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Dated: June 27, 2025
+GENCOR INDUSTRIES, INC.
+(Registrant)
+/s/ Marc G. Elliott
+Marc G. Elliott
+President & Director
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Annual Report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. The signatures of Directors constitute a majority of Directors.
+/s/ E.J. Elliott
+/s/ Marc G. Elliott
+E.J. Elliott
+June 27, 2025
+Marc G. Elliott
+June 27, 2025
+Chairman
+President & Director
+(Principal Executive Officer)
+/s/ Eric E Mellen
+Eric E. Mellen
+June 27, 2025
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+/s/ General John G. Coburn
+/s/ Walter A. Ketcham
+Gen. John G. Coburn
+June 27, 2025
+Walter A. Ketcham
+June 27, 2025
+Director
+Director
+/s/ Thomas A. Vecchiolla
+Thomas A. Vecchiolla
+June 27, 2025
+Director
+51
